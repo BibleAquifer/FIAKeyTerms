@@ -1,0 +1,61 @@
+[
+  {
+    "content_id": 280208,
+    "reference_id": 186628,
+    "title": "legion",
+    "media_type": "Text",
+    "index_reference": "legion",
+    "language": "eng",
+    "content": "<p>A <strong>legion</strong> was a large group of Roman soldiers-more than six thousand soldiers. In the passage where a <span data-bnType=\"resourceReference\" data-resourceId=\"186481\" data-resourceType=\"FIAKeyTerms\">demon</span> tells Jesus that his name is &quot;Legion,&quot; he means to say that he is not just one demon, but a very large group of demons.</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44010009",
+          "start_ref_usfm": "ACT 10:9",
+          "end_ref": "44010023",
+          "end_ref_usfm": "ACT 10:23"
+        },
+        {
+          "start_ref": "41005001",
+          "start_ref_usfm": "MRK 5:1",
+          "end_ref": "41005020",
+          "end_ref_usfm": "MRK 5:20"
+        },
+        {
+          "start_ref": "40022023",
+          "start_ref_usfm": "MAT 22:23",
+          "end_ref": "40022033",
+          "end_ref_usfm": "MAT 22:33"
+        },
+        {
+          "start_ref": "40026047",
+          "start_ref_usfm": "MAT 26:47",
+          "end_ref": "40026056",
+          "end_ref_usfm": "MAT 26:56"
+        },
+        {
+          "start_ref": "42008026",
+          "start_ref_usfm": "LUK 8:26",
+          "end_ref": "42008039",
+          "end_ref_usfm": "LUK 8:39"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186481,
+          "content_id": 280061,
+          "resource_code": "FIAKeyTerms",
+          "label": "demon",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186481,
+          "content_id": 341058,
+          "resource_code": "FIAKeyTerms",
+          "label": "demon",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

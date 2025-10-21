@@ -1,0 +1,51 @@
+[
+  {
+    "content_id": 341124,
+    "reference_id": 186538,
+    "title": "James",
+    "media_type": "Audio",
+    "index_reference": "james",
+    "language": "eng",
+    "content": "<h3>Audio Content</h3>\n",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41010032",
+          "start_ref_usfm": "MRK 10:32",
+          "end_ref": "41010045",
+          "end_ref_usfm": "MRK 10:45"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186583,
+          "content_id": 280163,
+          "resource_code": "Unknown",
+          "label": "John",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186583,
+          "content_id": 341179,
+          "resource_code": "Unknown",
+          "label": "John",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186630,
+          "content_id": 280210,
+          "resource_code": "Unknown",
+          "label": "disciple",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186630,
+          "content_id": 341232,
+          "resource_code": "Unknown",
+          "label": "disciple",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

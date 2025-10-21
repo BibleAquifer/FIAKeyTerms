@@ -1,0 +1,127 @@
+[
+  {
+    "content_id": 280099,
+    "reference_id": 186519,
+    "title": "devil",
+    "media_type": "Text",
+    "index_reference": "devil",
+    "language": "eng",
+    "content": "<p>The name <span data-bnType=\"resourceReference\" data-resourceId=\"186503\" data-resourceType=\"FIAKeyTerms\">Satan</span> means the adversary, enemy, or accuser. It is the name for <strong>the Devil</strong>, the leader of all <span data-bnType=\"resourceReference\" data-resourceId=\"186600\" data-resourceType=\"FIAKeyTerms\">evil spirits</span>.</p><p>God has created everything that exists, and therefore God also created all the spirits. God created them good, as <span data-bnType=\"resourceReference\" data-resourceId=\"186498\" data-resourceType=\"FIAKeyTerms\">angels</span>, to do his work. But some angels rebelled against God, and then they became evil spirits. The most powerful of these evil spirits is called the devil, or Satan.</p><p>Satan always tries to destroy God&apos;s work. Satan tempts people to disobey God. He tries to make people turn away from God by deceiving them. Satan is powerful and dangerous, always looking for ways that he can work against God and against God&apos;s people.</p><p>Because Satan is still powerful in this time, sometimes the Bible calls him the &quot;ruler of this world.&quot; Sometimes Satan is called <strong>Beelzebub</strong>, which means something like &quot;master of the high places.&quot; Sometimes he is called <strong>the Deceiver</strong>. Sometimes he is compared to a dragon or a snake.</p><p>However, God is much stronger than Satan. When Jesus died and was <span data-bnType=\"resourceReference\" data-resourceId=\"186488\" data-resourceType=\"FIAKeyTerms\">resurrected</span>, God broke the power of Satan. Even though God is still allowing Satan to use his power for now, when Jesus will come back, Jesus will defeat Satan forever. God will punish Satan and all the evil spirits, and they will never be able to work against God and his people again.</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42004001",
+          "start_ref_usfm": "LUK 4:1",
+          "end_ref": "42004013",
+          "end_ref_usfm": "LUK 4:13"
+        },
+        {
+          "start_ref": "40005033",
+          "start_ref_usfm": "MAT 5:33",
+          "end_ref": "40005042",
+          "end_ref_usfm": "MAT 5:42"
+        },
+        {
+          "start_ref": "40004001",
+          "start_ref_usfm": "MAT 4:1",
+          "end_ref": "40004011",
+          "end_ref_usfm": "MAT 4:11"
+        },
+        {
+          "start_ref": "41003020",
+          "start_ref_usfm": "MRK 3:20",
+          "end_ref": "41003035",
+          "end_ref_usfm": "MRK 3:35"
+        },
+        {
+          "start_ref": "40025031",
+          "start_ref_usfm": "MAT 25:31",
+          "end_ref": "40025046",
+          "end_ref_usfm": "MAT 25:46"
+        },
+        {
+          "start_ref": "43006060",
+          "start_ref_usfm": "JHN 6:60",
+          "end_ref": "43006071",
+          "end_ref_usfm": "JHN 6:71"
+        },
+        {
+          "start_ref": "43013001",
+          "start_ref_usfm": "JHN 13:1",
+          "end_ref": "43013011",
+          "end_ref_usfm": "JHN 13:11"
+        },
+        {
+          "start_ref": "44010034",
+          "start_ref_usfm": "ACT 10:34",
+          "end_ref": "44010048",
+          "end_ref_usfm": "ACT 10:48"
+        },
+        {
+          "start_ref": "43008031",
+          "start_ref_usfm": "JHN 8:31",
+          "end_ref": "43008047",
+          "end_ref_usfm": "JHN 8:47"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186488,
+          "content_id": 280068,
+          "resource_code": "FIAKeyTerms",
+          "label": "resurrection",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186488,
+          "content_id": 341068,
+          "resource_code": "FIAKeyTerms",
+          "label": "resurrection",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186498,
+          "content_id": 280078,
+          "resource_code": "FIAKeyTerms",
+          "label": "angel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186503,
+          "content_id": 280083,
+          "resource_code": "FIAKeyTerms",
+          "label": "Satan",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186498,
+          "content_id": 341079,
+          "resource_code": "FIAKeyTerms",
+          "label": "angel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186503,
+          "content_id": 341084,
+          "resource_code": "FIAKeyTerms",
+          "label": "Satan",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186600,
+          "content_id": 280180,
+          "resource_code": "FIAKeyTerms",
+          "label": "evil spirit",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186600,
+          "content_id": 341198,
+          "resource_code": "FIAKeyTerms",
+          "label": "evil spirit",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

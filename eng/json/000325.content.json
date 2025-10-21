@@ -1,0 +1,117 @@
+[
+  {
+    "content_id": 280141,
+    "reference_id": 186561,
+    "title": "sanctuary",
+    "media_type": "Text",
+    "index_reference": "sanctuary",
+    "language": "eng",
+    "content": "<p>The word sanctuary means a <span data-bnType=\"resourceReference\" data-resourceId=\"186506\" data-resourceType=\"FIAKeyTerms\">holy</span> place-a place that is set apart for the <span data-bnType=\"resourceReference\" data-resourceId=\"186472\" data-resourceType=\"FIAKeyTerms\">worship</span> of God. The word sanctuary is sometimes used as another word to describe the <span data-bnType=\"resourceReference\" data-resourceId=\"186483\" data-resourceType=\"FIAKeyTerms\">temple</span> of God. It then means especially the central part of the temple. The word temple can be used for the building as well as for the courtyards surrounding it, but the word sanctuary is used only for the building. The word sanctuary can also refer to the <span data-bnType=\"resourceReference\" data-resourceId=\"186793\" data-resourceType=\"FIAKeyTerms\">tabernacle</span>, the portable tent that the Israelites used as a place of worship before they built the temple.</p><p>Because the <span data-bnType=\"resourceReference\" data-resourceId=\"186642\" data-resourceType=\"FIAKeyTerms\">Holy Spirit</span> lives inside the <span data-bnType=\"resourceReference\" data-resourceId=\"keyTerm12\" data-resourceType=\"FIAKeyTerms\">believers</span> in Jesus, Paul told the believers that their body is also a sanctuary for God. And so even our bodies are meant for worship of God!</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42001005",
+          "start_ref_usfm": "LUK 1:5",
+          "end_ref": "42001025",
+          "end_ref_usfm": "LUK 1:25"
+        },
+        {
+          "start_ref": "02030022",
+          "start_ref_usfm": "EXO 30:22",
+          "end_ref": "02030033",
+          "end_ref_usfm": "EXO 30:33"
+        },
+        {
+          "start_ref": "02025001",
+          "start_ref_usfm": "EXO 25:1",
+          "end_ref": "02025009",
+          "end_ref_usfm": "EXO 25:9"
+        },
+        {
+          "start_ref": "02035030",
+          "start_ref_usfm": "EXO 35:30",
+          "end_ref": "02036007",
+          "end_ref_usfm": "EXO 36:7"
+        },
+        {
+          "start_ref": "02038021",
+          "start_ref_usfm": "EXO 38:21",
+          "end_ref": "02038031",
+          "end_ref_usfm": "EXO 38:31"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186472,
+          "content_id": 280052,
+          "resource_code": "FIAKeyTerms",
+          "label": "worship",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186472,
+          "content_id": 341048,
+          "resource_code": "FIAKeyTerms",
+          "label": "worship",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186483,
+          "content_id": 280063,
+          "resource_code": "FIAKeyTerms",
+          "label": "temple",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186506,
+          "content_id": 280086,
+          "resource_code": "FIAKeyTerms",
+          "label": "holy",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186483,
+          "content_id": 341062,
+          "resource_code": "FIAKeyTerms",
+          "label": "temple",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186506,
+          "content_id": 341087,
+          "resource_code": "FIAKeyTerms",
+          "label": "holy",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186642,
+          "content_id": 280222,
+          "resource_code": "FIAKeyTerms",
+          "label": "Holy Spirit",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186793,
+          "content_id": 341017,
+          "resource_code": "FIAKeyTerms",
+          "label": "tabernacle",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186793,
+          "content_id": 341107,
+          "resource_code": "FIAKeyTerms",
+          "label": "tabernacle",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186642,
+          "content_id": 341246,
+          "resource_code": "FIAKeyTerms",
+          "label": "Holy Spirit",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

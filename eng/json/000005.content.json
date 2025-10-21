@@ -1,0 +1,43 @@
+[
+  {
+    "content_id": 341027,
+    "reference_id": 186803,
+    "title": "adonai",
+    "media_type": "Text",
+    "index_reference": "adonai",
+    "language": "eng",
+    "content": "<p>The word <strong>Adonai</strong> is a word in the Hebrew language, which is the language of the Old Testament. Adonai means lord, or master. The <span data-bnType=\"resourceReference\" data-resourceId=\"186525\" data-resourceType=\"FIAKeyTerms\">Jews</span> often use this word as a respectful title to talk about God.</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01015001",
+          "start_ref_usfm": "GEN 15:1",
+          "end_ref": "01015021",
+          "end_ref_usfm": "GEN 15:21"
+        },
+        {
+          "start_ref": "01020001",
+          "start_ref_usfm": "GEN 20:1",
+          "end_ref": "01020018",
+          "end_ref_usfm": "GEN 20:18"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186525,
+          "content_id": 280105,
+          "resource_code": "FIAKeyTerms",
+          "label": "Jew",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186525,
+          "content_id": 341109,
+          "resource_code": "FIAKeyTerms",
+          "label": "Jew",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

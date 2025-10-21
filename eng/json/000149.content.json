@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 280212,
+    "reference_id": 186632,
+    "title": "Gerasenes",
+    "media_type": "Text",
+    "index_reference": "gerasenes",
+    "language": "eng",
+    "content": "<p>These are different names for an area and cities within that area that is located along the southeast coast of the <span data-bnType=\"resourceReference\" data-resourceId=\"186629\" data-resourceType=\"FIAKeyTerms\">Sea of Galilee</span>. Most people who lived here were not <span data-bnType=\"resourceReference\" data-resourceId=\"186525\" data-resourceType=\"FIAKeyTerms\">Jews</span>. The area was part of the <span data-bnType=\"resourceReference\" data-resourceId=\"186532\" data-resourceType=\"FIAKeyTerms\">Decapolis</span>.</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41005001",
+          "start_ref_usfm": "MRK 5:1",
+          "end_ref": "41005020",
+          "end_ref_usfm": "MRK 5:20"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186525,
+          "content_id": 280105,
+          "resource_code": "FIAKeyTerms",
+          "label": "Jew",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186525,
+          "content_id": 341109,
+          "resource_code": "FIAKeyTerms",
+          "label": "Jew",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186532,
+          "content_id": 280112,
+          "resource_code": "FIAKeyTerms",
+          "label": "Decapolis",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186629,
+          "content_id": 280209,
+          "resource_code": "FIAKeyTerms",
+          "label": "Sea of Galilee",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186532,
+          "content_id": 341118,
+          "resource_code": "FIAKeyTerms",
+          "label": "Decapolis",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186629,
+          "content_id": 341231,
+          "resource_code": "FIAKeyTerms",
+          "label": "Sea of Galilee",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "content_id": 280145,
+    "reference_id": 186565,
+    "title": "Isaiah",
+    "media_type": "Text",
+    "index_reference": "isaiah",
+    "language": "eng",
+    "content": "<p><strong>Isaiah</strong> was a <span data-bnType=\"resourceReference\" data-resourceId=\"186529\" data-resourceType=\"FIAKeyTerms\">prophet</span> who lived about 700 years before Jesus. A prophet is a person who gives messages from God to the people. Many of Isaiah&apos;s messages have been written down and we can hear them in the book named Isaiah.</p><p>At the time that Isaiah lived, the nation of <span data-bnType=\"resourceReference\" data-resourceId=\"186627\" data-resourceType=\"FIAKeyTerms\">Israel</span> had been divided in two parts. The northern part was called Israel, and the southern part was called <span data-bnType=\"resourceReference\" data-resourceId=\"186641\" data-resourceType=\"FIAKeyTerms\">Judah</span>. Isaiah gave his messages especially to the people of Judah. Many people of Judah were worshiping false <span data-bnType=\"resourceReference\" data-resourceId=\"keyTerm235\" data-resourceType=\"FIAKeyTerms\">gods</span>, and did not obey the good rules that God had given them. Isaiah warned the people again and again that they should <span data-bnType=\"resourceReference\" data-resourceId=\"186596\" data-resourceType=\"FIAKeyTerms\">repent</span> and start obeying God, because God was going to punish them. But Isaiah also gave people messages of hope. He told them that God was going to send someone who would make things right again. God fulfilled these promises of making things right again in Jesus.</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41007001",
+          "start_ref_usfm": "MRK 7:1",
+          "end_ref": "41007008",
+          "end_ref_usfm": "MRK 7:8"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186529,
+          "content_id": 280109,
+          "resource_code": "FIAKeyTerms",
+          "label": "prophecy",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186529,
+          "content_id": 341115,
+          "resource_code": "FIAKeyTerms",
+          "label": "prophecy",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186596,
+          "content_id": 280176,
+          "resource_code": "FIAKeyTerms",
+          "label": "repentance",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186627,
+          "content_id": 280207,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186596,
+          "content_id": 341192,
+          "resource_code": "FIAKeyTerms",
+          "label": "repentance",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186627,
+          "content_id": 341229,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186641,
+          "content_id": 280221,
+          "resource_code": "FIAKeyTerms",
+          "label": "Judea",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186641,
+          "content_id": 341245,
+          "resource_code": "FIAKeyTerms",
+          "label": "Judea",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

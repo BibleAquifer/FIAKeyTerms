@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 280076,
+    "reference_id": 186496,
+    "title": "purification offering or ceremony",
+    "media_type": "Text",
+    "index_reference": "purification offering or ceremony",
+    "language": "eng",
+    "content": "<p>A purification ceremony is a ritual that makes a person <span data-bnType=\"resourceReference\" data-resourceId=\"186615\" data-resourceType=\"FIAKeyTerms\">clean</span>, which means fit for service to God. The words <strong>clean</strong> and <strong>unclean</strong> in the Bible are not talking about whether something is clean or dirty from the outside. In the Bible, a <em>clean</em> person means a person who is fit for service to God, who is acceptable to participate in <span data-bnType=\"resourceReference\" data-resourceId=\"186472\" data-resourceType=\"FIAKeyTerms\">worship</span> to God. A person who is <em>unclean</em> is unfit for service to God, and cannot participate in public worship. Animals and even objects can also be clean or unclean.</p><p>If a woman was unclean because she had been bleeding during her monthly cycle or had given birth to a child, or if anyone had had sexual relations, had touched a dead body, or had recovered from a skin disease, they were unclean. They needed to wait a certain amount of time and then take a special bath. In some cases they also had to offer an animal <span data-bnType=\"resourceReference\" data-resourceId=\"186559\" data-resourceType=\"FIAKeyTerms\">sacrifice</span> to God. These activities together were called the purification ceremony. After this, these people were clean again and could participate in all worship activities.</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44021015",
+          "start_ref_usfm": "ACT 21:15",
+          "end_ref": "44021026",
+          "end_ref_usfm": "ACT 21:26"
+        },
+        {
+          "start_ref": "42002022",
+          "start_ref_usfm": "LUK 2:22",
+          "end_ref": "42002040",
+          "end_ref_usfm": "LUK 2:40"
+        },
+        {
+          "start_ref": "44024010",
+          "start_ref_usfm": "ACT 24:10",
+          "end_ref": "44024023",
+          "end_ref_usfm": "ACT 24:23"
+        },
+        {
+          "start_ref": "02029029",
+          "start_ref_usfm": "EXO 29:29",
+          "end_ref": "02029037",
+          "end_ref_usfm": "EXO 29:37"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186472,
+          "content_id": 280052,
+          "resource_code": "FIAKeyTerms",
+          "label": "worship",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186472,
+          "content_id": 341048,
+          "resource_code": "FIAKeyTerms",
+          "label": "worship",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186559,
+          "content_id": 280139,
+          "resource_code": "FIAKeyTerms",
+          "label": "sacrifice",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186615,
+          "content_id": 280195,
+          "resource_code": "FIAKeyTerms",
+          "label": "clean/unclean",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186559,
+          "content_id": 341147,
+          "resource_code": "FIAKeyTerms",
+          "label": "sacrifice",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186615,
+          "content_id": 341215,
+          "resource_code": "FIAKeyTerms",
+          "label": "clean/unclean",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

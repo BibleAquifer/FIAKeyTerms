@@ -1,0 +1,63 @@
+[
+  {
+    "content_id": 341173,
+    "reference_id": 186804,
+    "title": "tongues",
+    "media_type": "Audio",
+    "index_reference": "tongues",
+    "language": "eng",
+    "content": "<h3>Audio Content</h3>\n",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44019001",
+          "start_ref_usfm": "ACT 19:1",
+          "end_ref": "44019007",
+          "end_ref_usfm": "ACT 19:7"
+        },
+        {
+          "start_ref": "41016009",
+          "start_ref_usfm": "MRK 16:9",
+          "end_ref": "41016020",
+          "end_ref_usfm": "MRK 16:20"
+        },
+        {
+          "start_ref": "44002001",
+          "start_ref_usfm": "ACT 2:1",
+          "end_ref": "44002013",
+          "end_ref_usfm": "ACT 2:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186517,
+          "content_id": 280097,
+          "resource_code": "Unknown",
+          "label": "miracles",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186517,
+          "content_id": 341100,
+          "resource_code": "Unknown",
+          "label": "miracles",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186642,
+          "content_id": 280222,
+          "resource_code": "Unknown",
+          "label": "Holy Spirit",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186642,
+          "content_id": 341246,
+          "resource_code": "Unknown",
+          "label": "Holy Spirit",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

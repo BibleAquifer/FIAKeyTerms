@@ -1,0 +1,51 @@
+[
+  {
+    "content_id": 280171,
+    "reference_id": 186591,
+    "title": "camel",
+    "media_type": "Text",
+    "index_reference": "camel",
+    "language": "eng",
+    "content": "<p>A <strong>camel</strong> is a large, strong animal that can walk for a very long distance without needing food or water. People sat on camels while traveling, and used camels to carry luggage. A camel has one or two humps on its back. Inside these humps, the camel stores fat which allows the camel to go for a long time without food or water. Once a camel has an opportunity to drink, it will drink an enormous amount of water at one time.</p><p>A camel was the largest animal that existed in <span data-bnType=\"resourceReference\" data-resourceId=\"186627\" data-resourceType=\"FIAKeyTerms\">Israel</span>.</p><p>People could make the short, stiff hair of a camel into cloth. This made simple and rough clothing. <span data-bnType=\"resourceReference\" data-resourceId=\"186468\" data-resourceType=\"FIAKeyTerms\">John the baptizer</span> wore clothes made from camel hair.</p><p><em>You can look in the video dictionary for a picture of a camel.</em></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41010013",
+          "start_ref_usfm": "MRK 10:13",
+          "end_ref": "41010031",
+          "end_ref_usfm": "MRK 10:31"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186468,
+          "content_id": 280048,
+          "resource_code": "FIAKeyTerms",
+          "label": "John the Baptist",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186468,
+          "content_id": 341043,
+          "resource_code": "FIAKeyTerms",
+          "label": "John the Baptist",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186627,
+          "content_id": 280207,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186627,
+          "content_id": 341229,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israel",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

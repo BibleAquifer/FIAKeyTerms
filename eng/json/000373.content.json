@@ -1,0 +1,37 @@
+[
+  {
+    "content_id": 280080,
+    "reference_id": 186500,
+    "title": "Syrian Phoenicia",
+    "media_type": "Text",
+    "index_reference": "syrian phoenicia",
+    "language": "eng",
+    "content": "<p><strong>Phoenicia</strong> is the name of an area north of <span data-bnType=\"resourceReference\" data-resourceId=\"186627\" data-resourceType=\"FIAKeyTerms\">Israel</span>. Phoenicia was a narrow strip consisting of five cities on the coast of the Mediterranean Sea.</p><p>In the time of the New Testament this area belonged to the country named Syria. For that reason, someone who came from that area could be called a &quot;Syrian Phoenician.&quot; Many other people who lived in this area had come from other countries, especially Greece. A lot of people in this area were involved in trade-the buying and selling of goods, especially by means of ships.</p><p>Today, this area is part of the country we now know as Lebanon.</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41007024",
+          "start_ref_usfm": "MRK 7:24",
+          "end_ref": "41007030",
+          "end_ref_usfm": "MRK 7:30"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186627,
+          "content_id": 280207,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186627,
+          "content_id": 341229,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israel",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

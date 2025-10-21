@@ -1,0 +1,43 @@
+[
+  {
+    "content_id": 341067,
+    "reference_id": 186487,
+    "title": "divorce",
+    "media_type": "Audio",
+    "index_reference": "divorce",
+    "language": "eng",
+    "content": "<h3>Audio Content</h3>\n",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40019001",
+          "start_ref_usfm": "MAT 19:1",
+          "end_ref": "40019012",
+          "end_ref_usfm": "MAT 19:12"
+        },
+        {
+          "start_ref": "41010001",
+          "start_ref_usfm": "MRK 10:1",
+          "end_ref": "41010012",
+          "end_ref_usfm": "MRK 10:12"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186492,
+          "content_id": 280072,
+          "resource_code": "Unknown",
+          "label": "law",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186492,
+          "content_id": 341072,
+          "resource_code": "Unknown",
+          "label": "law",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

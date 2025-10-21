@@ -1,0 +1,151 @@
+[
+  {
+    "content_id": 341034,
+    "reference_id": 186810,
+    "title": "Hebrew",
+    "media_type": "Text",
+    "index_reference": "hebrew",
+    "language": "eng",
+    "content": "<p>The word <strong>Hebrew</strong> can refer to the <span data-bnType=\"resourceReference\" data-resourceId=\"keyTerm234\" data-resourceType=\"FIAKeyTerms\">descendants</span> of <span data-bnType=\"resourceReference\" data-resourceId=\"186621\" data-resourceType=\"FIAKeyTerms\">Abraham</span>. People call the descendants of Abraham <span data-bnType=\"resourceReference\" data-resourceId=\"186562\" data-resourceType=\"FIAKeyTerms\">Israelites</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"186525\" data-resourceType=\"FIAKeyTerms\">Jews</span>, and sometimes Hebrews. The descendants of Abraham often referred to themselves as Hebrews when they were talking with <span data-bnType=\"resourceReference\" data-resourceId=\"186806\" data-resourceType=\"FIAKeyTerms\">foreigners</span> to make a difference between themselves and people from other ethnic groups. In the same way, foreigners often referred to the descendants of Abraham as Hebrews.</p><p>The word Hebrew also refers to the language that the descendants of Abraham spoke. The authors of the Old Testament wrote mostly in Hebrew.</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01014001",
+          "start_ref_usfm": "GEN 14:1",
+          "end_ref": "01014016",
+          "end_ref_usfm": "GEN 14:16"
+        },
+        {
+          "start_ref": "44026001",
+          "start_ref_usfm": "ACT 26:1",
+          "end_ref": "44026023",
+          "end_ref_usfm": "ACT 26:23"
+        },
+        {
+          "start_ref": "44006001",
+          "start_ref_usfm": "ACT 6:1",
+          "end_ref": "44006007",
+          "end_ref_usfm": "ACT 6:7"
+        },
+        {
+          "start_ref": "02002011",
+          "start_ref_usfm": "EXO 2:11",
+          "end_ref": "02002015",
+          "end_ref_usfm": "EXO 2:15"
+        },
+        {
+          "start_ref": "02007014",
+          "start_ref_usfm": "EXO 7:14",
+          "end_ref": "02007025",
+          "end_ref_usfm": "EXO 7:25"
+        },
+        {
+          "start_ref": "44021037",
+          "start_ref_usfm": "ACT 21:37",
+          "end_ref": "44022021",
+          "end_ref_usfm": "ACT 22:21"
+        },
+        {
+          "start_ref": "43020001",
+          "start_ref_usfm": "JHN 20:1",
+          "end_ref": "43020018",
+          "end_ref_usfm": "JHN 20:18"
+        },
+        {
+          "start_ref": "43019017",
+          "start_ref_usfm": "JHN 19:17",
+          "end_ref": "43019030",
+          "end_ref_usfm": "JHN 19:30"
+        },
+        {
+          "start_ref": "02009013",
+          "start_ref_usfm": "EXO 9:13",
+          "end_ref": "02009021",
+          "end_ref_usfm": "EXO 9:21"
+        },
+        {
+          "start_ref": "02003011",
+          "start_ref_usfm": "EXO 3:11",
+          "end_ref": "02003022",
+          "end_ref_usfm": "EXO 3:22"
+        },
+        {
+          "start_ref": "02005001",
+          "start_ref_usfm": "EXO 5:1",
+          "end_ref": "02005021",
+          "end_ref_usfm": "EXO 5:21"
+        },
+        {
+          "start_ref": "02002001",
+          "start_ref_usfm": "EXO 2:1",
+          "end_ref": "02002010",
+          "end_ref_usfm": "EXO 2:10"
+        },
+        {
+          "start_ref": "02001015",
+          "start_ref_usfm": "EXO 1:15",
+          "end_ref": "02001022",
+          "end_ref_usfm": "EXO 1:22"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186525,
+          "content_id": 280105,
+          "resource_code": "FIAKeyTerms",
+          "label": "Jew",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186525,
+          "content_id": 341109,
+          "resource_code": "FIAKeyTerms",
+          "label": "Jew",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186562,
+          "content_id": 280142,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israelite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186621,
+          "content_id": 280201,
+          "resource_code": "FIAKeyTerms",
+          "label": "Abraham",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186562,
+          "content_id": 341150,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israelite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186621,
+          "content_id": 341221,
+          "resource_code": "FIAKeyTerms",
+          "label": "Abraham",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186806,
+          "content_id": 341030,
+          "resource_code": "FIAKeyTerms",
+          "label": "foreigner",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186806,
+          "content_id": 341176,
+          "resource_code": "FIAKeyTerms",
+          "label": "foreigner",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

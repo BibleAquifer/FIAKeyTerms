@@ -1,0 +1,97 @@
+[
+  {
+    "content_id": 280104,
+    "reference_id": 186524,
+    "title": "house of God",
+    "media_type": "Text",
+    "index_reference": "house of god",
+    "language": "eng",
+    "content": "<p>The <strong>house of God</strong> is a way to talk about the place on earth where God lived among his people. Although God does not need to live in a house, God told the <span data-bnType=\"resourceReference\" data-resourceId=\"186562\" data-resourceType=\"FIAKeyTerms\">Israelites</span> that he would live among them and meet with them in the special portable tent they prepared for him. The Israelites called this tent the <span data-bnType=\"resourceReference\" data-resourceId=\"186793\" data-resourceType=\"FIAKeyTerms\">tabernacle</span>. Later, when the Israelites settled in the <span data-bnType=\"resourceReference\" data-resourceId=\"keyTerm240\" data-resourceType=\"FIAKeyTerms\">Promised Land</span>, God gave them instructions for building a more permanent house for him-the <span data-bnType=\"resourceReference\" data-resourceId=\"186483\" data-resourceType=\"FIAKeyTerms\">temple</span>. People sometimes called both the tabernacle and the temple the &quot;house of God.&quot; Today, <span data-bnType=\"resourceReference\" data-resourceId=\"186642\" data-resourceType=\"FIAKeyTerms\">God&apos;s Spirit</span> lives in the hearts of the people who follow Jesus, and God meets with his people everywhere they are.</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42006001",
+          "start_ref_usfm": "LUK 6:1",
+          "end_ref": "42006011",
+          "end_ref_usfm": "LUK 6:11"
+        },
+        {
+          "start_ref": "41002023",
+          "start_ref_usfm": "MRK 2:23",
+          "end_ref": "41003006",
+          "end_ref_usfm": "MRK 3:6"
+        },
+        {
+          "start_ref": "02023010",
+          "start_ref_usfm": "EXO 23:10",
+          "end_ref": "02023019",
+          "end_ref_usfm": "EXO 23:19"
+        },
+        {
+          "start_ref": "02034018",
+          "start_ref_usfm": "EXO 34:18",
+          "end_ref": "02034028",
+          "end_ref_usfm": "EXO 34:28"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186483,
+          "content_id": 280063,
+          "resource_code": "FIAKeyTerms",
+          "label": "temple",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186483,
+          "content_id": 341062,
+          "resource_code": "FIAKeyTerms",
+          "label": "temple",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186562,
+          "content_id": 280142,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israelite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186642,
+          "content_id": 280222,
+          "resource_code": "FIAKeyTerms",
+          "label": "Holy Spirit",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186562,
+          "content_id": 341150,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israelite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186642,
+          "content_id": 341246,
+          "resource_code": "FIAKeyTerms",
+          "label": "Holy Spirit",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186793,
+          "content_id": 341017,
+          "resource_code": "FIAKeyTerms",
+          "label": "tabernacle",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186793,
+          "content_id": 341107,
+          "resource_code": "FIAKeyTerms",
+          "label": "tabernacle",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

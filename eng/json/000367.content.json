@@ -1,0 +1,79 @@
+[
+  {
+    "content_id": 280188,
+    "reference_id": 186608,
+    "title": "strength",
+    "media_type": "Text",
+    "index_reference": "strength",
+    "language": "eng",
+    "content": "<p><strong>Strength</strong> refers to someone&apos;s ability to do something, or their physical strength. The words &quot;<span data-bnType=\"resourceReference\" data-resourceId=\"186593\" data-resourceType=\"FIAKeyTerms\">heart</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"186586\" data-resourceType=\"FIAKeyTerms\">soul</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"186473\" data-resourceType=\"FIAKeyTerms\">mind</span>, and <span data-bnType=\"resourceReference\" data-resourceId=\"186608\" data-resourceType=\"FIAKeyTerms\">strength</span>&quot; all function together to describe all of a person&apos;s personality and abilities.</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41012028",
+          "start_ref_usfm": "MRK 12:28",
+          "end_ref": "41012034",
+          "end_ref_usfm": "MRK 12:34"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186473,
+          "content_id": 280053,
+          "resource_code": "FIAKeyTerms",
+          "label": "mind",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186473,
+          "content_id": 341049,
+          "resource_code": "FIAKeyTerms",
+          "label": "mind",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186586,
+          "content_id": 280166,
+          "resource_code": "FIAKeyTerms",
+          "label": "soul",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186593,
+          "content_id": 280173,
+          "resource_code": "FIAKeyTerms",
+          "label": "heart",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186586,
+          "content_id": 341182,
+          "resource_code": "FIAKeyTerms",
+          "label": "soul",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186593,
+          "content_id": 341189,
+          "resource_code": "FIAKeyTerms",
+          "label": "heart",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186608,
+          "content_id": 280188,
+          "resource_code": "FIAKeyTerms",
+          "label": "strength",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186608,
+          "content_id": 341207,
+          "resource_code": "FIAKeyTerms",
+          "label": "strength",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

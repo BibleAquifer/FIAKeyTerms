@@ -1,0 +1,211 @@
+[
+  {
+    "content_id": 280150,
+    "reference_id": 186570,
+    "title": "Mary",
+    "media_type": "Text",
+    "index_reference": "mary",
+    "language": "eng",
+    "content": "<p>Mary was a young <span data-bnType=\"resourceReference\" data-resourceId=\"186525\" data-resourceType=\"FIAKeyTerms\">Jewish</span> woman, living in <span data-bnType=\"resourceReference\" data-resourceId=\"186616\" data-resourceType=\"FIAKeyTerms\">Nazareth</span>, who became the mother of Jesus.</p><p>Mary was engaged to a man named Joseph, which means that she was going to get married to him. Because girls were married while still young, Mary might have been just 15 or 16 years old at the time. Families of the girl and the boy arranged the marriages in <span data-bnType=\"resourceReference\" data-resourceId=\"186627\" data-resourceType=\"FIAKeyTerms\">Israel</span>.</p><p>But before Mary and Joseph got married, an <span data-bnType=\"resourceReference\" data-resourceId=\"186498\" data-resourceType=\"FIAKeyTerms\">angel</span> of God named <strong>Gabriel</strong> appeared to Mary and told her that she would become pregnant by the power of God. Her son would be called the <span data-bnType=\"resourceReference\" data-resourceId=\"186568\" data-resourceType=\"FIAKeyTerms\">son of God</span>, and would be a king whose kingdom would never end! Mary indeed became pregnant, without ever having had sexual relations with a man. When her future husband Joseph heard about this, he wanted to break the relationship, because he must have assumed that Mary had had sexual relations with another man. But an angel of God told him in a dream that God&apos;s spirit had caused Mary&apos;s pregnancy, and that he should marry her. Joseph obeyed these instructions from God.</p><p>Mary and Joseph first lived in Nazareth, which is in the province of <span data-bnType=\"resourceReference\" data-resourceId=\"186508\" data-resourceType=\"FIAKeyTerms\">Galilee</span>, in the north of Israel. While Mary was pregnant, the Roman government made a rule that all the people throughout the land had to go to the town of their ancestors in order to get their name written down. Joseph, and probably Mary as well, were descendants of king <span data-bnType=\"resourceReference\" data-resourceId=\"186466\" data-resourceType=\"FIAKeyTerms\">David</span>. Their hometown therefore was <span data-bnType=\"resourceReference\" data-resourceId=\"186547\" data-resourceType=\"FIAKeyTerms\">Bethlehem</span> in the province of <span data-bnType=\"resourceReference\" data-resourceId=\"186641\" data-resourceType=\"FIAKeyTerms\">Judea</span>. And so Mary and Joseph went to Bethlehem. While they stayed in Bethlehem, Jesus was born. In this way, God made true what his spokesmen the <span data-bnType=\"resourceReference\" data-resourceId=\"186511\" data-resourceType=\"FIAKeyTerms\">prophets</span> had said a long time ago, that the <span data-bnType=\"resourceReference\" data-resourceId=\"186575\" data-resourceType=\"FIAKeyTerms\">Messiah</span>-the special king and Savior-would be born in Bethlehem, the city of king David!</p><p>When Jesus was still a baby, king Herod, who was the ruler over the province Judea, found out that a king might have been born in Bethlehem, and wanted to kill him. Joseph and Mary had to flee with Jesus to Egypt. After staying in Egypt for some time, they went back to Israel and began to live in Nazareth again. Nazareth was a small and unimportant town, and many people looked down on people from Nazareth.</p><p>Mary and Joseph were poor. Joseph was a carpenter. After Jesus&apos;s birth, they had more children together. Because we do not hear anything more about Joseph later, it is quite possible that by the time that Jesus began to teach the people, Joseph had died. Mary herself was at the <span data-bnType=\"resourceReference\" data-resourceId=\"186603\" data-resourceType=\"FIAKeyTerms\">cross</span> at the time of Jesus&apos;s death, and she was part of the group of first <span data-bnType=\"resourceReference\" data-resourceId=\"keyTerm12\" data-resourceType=\"FIAKeyTerms\">believers</span> in Jesus after his <span data-bnType=\"resourceReference\" data-resourceId=\"186488\" data-resourceType=\"FIAKeyTerms\">resurrection</span>.</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42001026",
+          "start_ref_usfm": "LUK 1:26",
+          "end_ref": "42001038",
+          "end_ref_usfm": "LUK 1:38"
+        },
+        {
+          "start_ref": "42001039",
+          "start_ref_usfm": "LUK 1:39",
+          "end_ref": "42001056",
+          "end_ref_usfm": "LUK 1:56"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186466,
+          "content_id": 280046,
+          "resource_code": "FIAKeyTerms",
+          "label": "David",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186466,
+          "content_id": 341041,
+          "resource_code": "FIAKeyTerms",
+          "label": "David",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186488,
+          "content_id": 280068,
+          "resource_code": "FIAKeyTerms",
+          "label": "resurrection",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186498,
+          "content_id": 280078,
+          "resource_code": "FIAKeyTerms",
+          "label": "angel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186488,
+          "content_id": 341068,
+          "resource_code": "FIAKeyTerms",
+          "label": "resurrection",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186498,
+          "content_id": 341079,
+          "resource_code": "FIAKeyTerms",
+          "label": "angel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186508,
+          "content_id": 280088,
+          "resource_code": "FIAKeyTerms",
+          "label": "Galilee",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186511,
+          "content_id": 280091,
+          "resource_code": "FIAKeyTerms",
+          "label": "prophet",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186525,
+          "content_id": 280105,
+          "resource_code": "FIAKeyTerms",
+          "label": "Jew",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186547,
+          "content_id": 280127,
+          "resource_code": "FIAKeyTerms",
+          "label": "Bethlehem",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186508,
+          "content_id": 341089,
+          "resource_code": "FIAKeyTerms",
+          "label": "Galilee",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186511,
+          "content_id": 341093,
+          "resource_code": "FIAKeyTerms",
+          "label": "prophet",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186525,
+          "content_id": 341109,
+          "resource_code": "FIAKeyTerms",
+          "label": "Jew",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186547,
+          "content_id": 341134,
+          "resource_code": "FIAKeyTerms",
+          "label": "Bethlehem",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186568,
+          "content_id": 280148,
+          "resource_code": "FIAKeyTerms",
+          "label": "Son of God",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186575,
+          "content_id": 280155,
+          "resource_code": "FIAKeyTerms",
+          "label": "Messiah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186603,
+          "content_id": 280183,
+          "resource_code": "FIAKeyTerms",
+          "label": "cross",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186616,
+          "content_id": 280196,
+          "resource_code": "FIAKeyTerms",
+          "label": "Nazareth",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186627,
+          "content_id": 280207,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186641,
+          "content_id": 280221,
+          "resource_code": "FIAKeyTerms",
+          "label": "Judea",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186568,
+          "content_id": 341160,
+          "resource_code": "FIAKeyTerms",
+          "label": "Son of God",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186575,
+          "content_id": 341168,
+          "resource_code": "FIAKeyTerms",
+          "label": "Messiah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186603,
+          "content_id": 341202,
+          "resource_code": "FIAKeyTerms",
+          "label": "cross",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186616,
+          "content_id": 341216,
+          "resource_code": "FIAKeyTerms",
+          "label": "Nazareth",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186627,
+          "content_id": 341229,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186641,
+          "content_id": 341245,
+          "resource_code": "FIAKeyTerms",
+          "label": "Judea",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 341165,
+    "reference_id": 186573,
+    "title": "shepherd",
+    "media_type": "Audio",
+    "index_reference": "shepherd",
+    "language": "eng",
+    "content": "<h3>Audio Content</h3>\n",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44020018",
+          "start_ref_usfm": "ACT 20:18",
+          "end_ref": "44020038",
+          "end_ref_usfm": "ACT 20:38"
+        },
+        {
+          "start_ref": "01048001",
+          "start_ref_usfm": "GEN 48:1",
+          "end_ref": "01048022",
+          "end_ref_usfm": "GEN 48:22"
+        },
+        {
+          "start_ref": "41014027",
+          "start_ref_usfm": "MRK 14:27",
+          "end_ref": "41014031",
+          "end_ref_usfm": "MRK 14:31"
+        },
+        {
+          "start_ref": "40025031",
+          "start_ref_usfm": "MAT 25:31",
+          "end_ref": "40025046",
+          "end_ref_usfm": "MAT 25:46"
+        },
+        {
+          "start_ref": "02002016",
+          "start_ref_usfm": "EXO 2:16",
+          "end_ref": "02002025",
+          "end_ref_usfm": "EXO 2:25"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186466,
+          "content_id": 280046,
+          "resource_code": "Unknown",
+          "label": "David",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186466,
+          "content_id": 341041,
+          "resource_code": "Unknown",
+          "label": "David",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186627,
+          "content_id": 280207,
+          "resource_code": "Unknown",
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186796,
+          "content_id": 341020,
+          "resource_code": "Unknown",
+          "label": "king",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186796,
+          "content_id": 341119,
+          "resource_code": "Unknown",
+          "label": "king",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186627,
+          "content_id": 341229,
+          "resource_code": "Unknown",
+          "label": "Israel",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

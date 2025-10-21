@@ -1,0 +1,155 @@
+[
+  {
+    "content_id": 280151,
+    "reference_id": 186571,
+    "title": "household",
+    "media_type": "Text",
+    "index_reference": "household",
+    "language": "eng",
+    "content": "<p>In the Bible, a <strong>household</strong> means all the people who are living together in one <strong>house</strong>. The father was usually the head of the household. The household included his wife, children, unmarried daughters, and any married sons and their wives and children. There might be other relatives living with them as well. If the family had <span data-bnType=\"resourceReference\" data-resourceId=\"186482\" data-resourceType=\"FIAKeyTerms\">servants</span> or <span data-bnType=\"resourceReference\" data-resourceId=\"186617\" data-resourceType=\"FIAKeyTerms\">slaves</span>, then they were included in the household as well.</p><p>People also used the word &quot;house&quot; instead of &quot;household.&quot; If someone said &quot;me and my house,&quot; they meant &quot;me and all the people in my household.&quot;</p><p>People could also use the word household, or house, to mean a large group of people who did not live in the same house, but who had something in common. For instance, the <span data-bnType=\"resourceReference\" data-resourceId=\"186562\" data-resourceType=\"FIAKeyTerms\">Israelites</span> are sometimes called the &quot;house of Israel.&quot;</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44010001",
+          "start_ref_usfm": "ACT 10:1",
+          "end_ref": "44010008",
+          "end_ref_usfm": "ACT 10:8"
+        },
+        {
+          "start_ref": "44011001",
+          "start_ref_usfm": "ACT 11:1",
+          "end_ref": "44011018",
+          "end_ref_usfm": "ACT 11:18"
+        },
+        {
+          "start_ref": "01035001",
+          "start_ref_usfm": "GEN 35:1",
+          "end_ref": "01035015",
+          "end_ref_usfm": "GEN 35:15"
+        },
+        {
+          "start_ref": "01049029",
+          "start_ref_usfm": "GEN 49:29",
+          "end_ref": "01050014",
+          "end_ref_usfm": "GEN 50:14"
+        },
+        {
+          "start_ref": "01007001",
+          "start_ref_usfm": "GEN 7:1",
+          "end_ref": "01007024",
+          "end_ref_usfm": "GEN 7:24"
+        },
+        {
+          "start_ref": "40024045",
+          "start_ref_usfm": "MAT 24:45",
+          "end_ref": "40024051",
+          "end_ref_usfm": "MAT 24:51"
+        },
+        {
+          "start_ref": "41005001",
+          "start_ref_usfm": "MRK 5:1",
+          "end_ref": "41005020",
+          "end_ref_usfm": "MRK 5:20"
+        },
+        {
+          "start_ref": "01014001",
+          "start_ref_usfm": "GEN 14:1",
+          "end_ref": "01014016",
+          "end_ref_usfm": "GEN 14:16"
+        },
+        {
+          "start_ref": "01017001",
+          "start_ref_usfm": "GEN 17:1",
+          "end_ref": "01017027",
+          "end_ref_usfm": "GEN 17:27"
+        },
+        {
+          "start_ref": "01020001",
+          "start_ref_usfm": "GEN 20:1",
+          "end_ref": "01020018",
+          "end_ref_usfm": "GEN 20:18"
+        },
+        {
+          "start_ref": "40010016",
+          "start_ref_usfm": "MAT 10:16",
+          "end_ref": "40010025",
+          "end_ref_usfm": "MAT 10:25"
+        },
+        {
+          "start_ref": "43004043",
+          "start_ref_usfm": "JHN 4:43",
+          "end_ref": "43004054",
+          "end_ref_usfm": "JHN 4:54"
+        },
+        {
+          "start_ref": "40010034",
+          "start_ref_usfm": "MAT 10:34",
+          "end_ref": "40010042",
+          "end_ref_usfm": "MAT 10:42"
+        },
+        {
+          "start_ref": "44016006",
+          "start_ref_usfm": "ACT 16:6",
+          "end_ref": "44016015",
+          "end_ref_usfm": "ACT 16:15"
+        },
+        {
+          "start_ref": "43019017",
+          "start_ref_usfm": "JHN 19:17",
+          "end_ref": "43019030",
+          "end_ref_usfm": "JHN 19:30"
+        },
+        {
+          "start_ref": "44016025",
+          "start_ref_usfm": "ACT 16:25",
+          "end_ref": "44016040",
+          "end_ref_usfm": "ACT 16:40"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186482,
+          "content_id": 280062,
+          "resource_code": "FIAKeyTerms",
+          "label": "servant",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186482,
+          "content_id": 341059,
+          "resource_code": "FIAKeyTerms",
+          "label": "servant",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186562,
+          "content_id": 280142,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israelite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186617,
+          "content_id": 280197,
+          "resource_code": "FIAKeyTerms",
+          "label": "slave",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186562,
+          "content_id": 341150,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israelite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186617,
+          "content_id": 341217,
+          "resource_code": "FIAKeyTerms",
+          "label": "slave",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

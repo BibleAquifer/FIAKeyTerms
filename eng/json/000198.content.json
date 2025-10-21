@@ -1,0 +1,85 @@
+[
+  {
+    "content_id": 341169,
+    "reference_id": 186576,
+    "title": "hymn",
+    "media_type": "Audio",
+    "index_reference": "hymn",
+    "language": "eng",
+    "content": "<h3>Audio Content</h3>\n",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41014012",
+          "start_ref_usfm": "MRK 14:12",
+          "end_ref": "41014026",
+          "end_ref_usfm": "MRK 14:26"
+        },
+        {
+          "start_ref": "40026026",
+          "start_ref_usfm": "MAT 26:26",
+          "end_ref": "40026035",
+          "end_ref_usfm": "MAT 26:35"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186525,
+          "content_id": 280105,
+          "resource_code": "Unknown",
+          "label": "Jew",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186525,
+          "content_id": 341109,
+          "resource_code": "Unknown",
+          "label": "Jew",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186543,
+          "content_id": 280123,
+          "resource_code": "Unknown",
+          "label": "praise",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186544,
+          "content_id": 280124,
+          "resource_code": "Unknown",
+          "label": "synagogue",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186543,
+          "content_id": 341130,
+          "resource_code": "Unknown",
+          "label": "praise",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186544,
+          "content_id": 341131,
+          "resource_code": "Unknown",
+          "label": "synagogue",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186630,
+          "content_id": 280210,
+          "resource_code": "Unknown",
+          "label": "disciple",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186630,
+          "content_id": 341232,
+          "resource_code": "Unknown",
+          "label": "disciple",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]
