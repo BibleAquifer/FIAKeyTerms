@@ -1,0 +1,79 @@
+[
+  {
+    "content_id": 280098,
+    "reference_id": 186518,
+    "title": "Bethsaida",
+    "media_type": "Text",
+    "index_reference": "bethsaida",
+    "language": "eng",
+    "content": "<p><strong>Bethsaida</strong> is a village in the province of <span data-bnType=\"resourceReference\" data-resourceId=\"186508\" data-resourceType=\"FIAKeyTerms\">Galilee</span>. It was probably close to the city of <span data-bnType=\"resourceReference\" data-resourceId=\"186558\" data-resourceType=\"FIAKeyTerms\">Capernaum</span>, because John tells us that Jesus&apos;s <span data-bnType=\"resourceReference\" data-resourceId=\"186630\" data-resourceType=\"FIAKeyTerms\">disciples</span> Andrew and Peter came from Bethsaida, but Mark tells us that they lived in Capernaum. The village was close to the <span data-bnType=\"resourceReference\" data-resourceId=\"186629\" data-resourceType=\"FIAKeyTerms\">Sea of Galilee</span>, and many people in the village made their living from fishing. The name Bethsaida even means &quot;house of fishing.&quot;</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41008022",
+          "start_ref_usfm": "MRK 8:22",
+          "end_ref": "41008026",
+          "end_ref_usfm": "MRK 8:26"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186508,
+          "content_id": 280088,
+          "resource_code": "FIAKeyTerms",
+          "label": "Galilee",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186508,
+          "content_id": 341089,
+          "resource_code": "FIAKeyTerms",
+          "label": "Galilee",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186558,
+          "content_id": 280138,
+          "resource_code": "FIAKeyTerms",
+          "label": "Capernaum",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186629,
+          "content_id": 280209,
+          "resource_code": "FIAKeyTerms",
+          "label": "Sea of Galilee",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186558,
+          "content_id": 341146,
+          "resource_code": "FIAKeyTerms",
+          "label": "Capernaum",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186629,
+          "content_id": 341231,
+          "resource_code": "FIAKeyTerms",
+          "label": "Sea of Galilee",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186630,
+          "content_id": 280210,
+          "resource_code": "FIAKeyTerms",
+          "label": "disciple",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186630,
+          "content_id": 341232,
+          "resource_code": "FIAKeyTerms",
+          "label": "disciple",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

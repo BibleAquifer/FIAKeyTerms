@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 341203,
+    "reference_id": 186604,
+    "title": "Tyre",
+    "media_type": "Audio",
+    "index_reference": "tyre",
+    "language": "eng",
+    "content": "<h3>Audio Content</h3>\n",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41007024",
+          "start_ref_usfm": "MRK 7:24",
+          "end_ref": "41007030",
+          "end_ref_usfm": "MRK 7:30"
+        },
+        {
+          "start_ref": "41007031",
+          "start_ref_usfm": "MRK 7:31",
+          "end_ref": "41007037",
+          "end_ref_usfm": "MRK 7:37"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186500,
+          "content_id": 280080,
+          "resource_code": "Unknown",
+          "label": "Syrian Phoenicia",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186500,
+          "content_id": 341081,
+          "resource_code": "Unknown",
+          "label": "Syrian Phoenicia",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186511,
+          "content_id": 280091,
+          "resource_code": "Unknown",
+          "label": "prophet",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186627,
+          "content_id": 280207,
+          "resource_code": "Unknown",
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186511,
+          "content_id": 341093,
+          "resource_code": "Unknown",
+          "label": "prophet",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186627,
+          "content_id": 341229,
+          "resource_code": "Unknown",
+          "label": "Israel",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

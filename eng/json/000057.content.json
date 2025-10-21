@@ -1,0 +1,115 @@
+[
+  {
+    "content_id": 341014,
+    "reference_id": 186790,
+    "title": "cherubim",
+    "media_type": "Text",
+    "index_reference": "cherubim",
+    "language": "eng",
+    "content": "<p>A <strong>cherub</strong>, or several <strong>cherubim</strong>, are a type of <span data-bnType=\"resourceReference\" data-resourceId=\"186498\" data-resourceType=\"FIAKeyTerms\">angel</span>. Cherubim seem to especially guard sacred, or <span data-bnType=\"resourceReference\" data-resourceId=\"186506\" data-resourceType=\"FIAKeyTerms\">holy</span>, places. Therefore there were pictures and images of cherubim in the <span data-bnType=\"resourceReference\" data-resourceId=\"186483\" data-resourceType=\"FIAKeyTerms\">temple</span> and in the tabernacle. In these pictures, the cherubim have the body of a lion, the wings of a bird, and the face of a human. The cherubim are a warning for people that God is present. In fact, gold cherubim spread their wings over the top of the ark of the covenant and protected the throne where God met with his people from the top of the ark of the covenant. In the book of Ezekiel, Ezekiel sees a <span data-bnType=\"resourceReference\" data-resourceId=\"186514\" data-resourceType=\"FIAKeyTerms\">vision</span> in which cherubim are carrying the throne of God. Some of the descriptions of the cherubim in Ezekiel look like people but have four wings and four faces.</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01003001",
+          "start_ref_usfm": "GEN 3:1",
+          "end_ref": "01003024",
+          "end_ref_usfm": "GEN 3:24"
+        },
+        {
+          "start_ref": "02025010",
+          "start_ref_usfm": "EXO 25:10",
+          "end_ref": "02025022",
+          "end_ref_usfm": "EXO 25:22"
+        },
+        {
+          "start_ref": "02037001",
+          "start_ref_usfm": "EXO 37:1",
+          "end_ref": "02037009",
+          "end_ref_usfm": "EXO 37:9"
+        },
+        {
+          "start_ref": "02036008",
+          "start_ref_usfm": "EXO 36:8",
+          "end_ref": "02036019",
+          "end_ref_usfm": "EXO 36:19"
+        },
+        {
+          "start_ref": "02026001",
+          "start_ref_usfm": "EXO 26:1",
+          "end_ref": "02026014",
+          "end_ref_usfm": "EXO 26:14"
+        },
+        {
+          "start_ref": "02026031",
+          "start_ref_usfm": "EXO 26:31",
+          "end_ref": "02026037",
+          "end_ref_usfm": "EXO 26:37"
+        },
+        {
+          "start_ref": "02036035",
+          "start_ref_usfm": "EXO 36:35",
+          "end_ref": "02036038",
+          "end_ref_usfm": "EXO 36:38"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186483,
+          "content_id": 280063,
+          "resource_code": "FIAKeyTerms",
+          "label": "temple",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186483,
+          "content_id": 341062,
+          "resource_code": "FIAKeyTerms",
+          "label": "temple",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186498,
+          "content_id": 280078,
+          "resource_code": "FIAKeyTerms",
+          "label": "angel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186506,
+          "content_id": 280086,
+          "resource_code": "FIAKeyTerms",
+          "label": "holy",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186498,
+          "content_id": 341079,
+          "resource_code": "FIAKeyTerms",
+          "label": "angel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186506,
+          "content_id": 341087,
+          "resource_code": "FIAKeyTerms",
+          "label": "holy",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186514,
+          "content_id": 280094,
+          "resource_code": "FIAKeyTerms",
+          "label": "vision",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186514,
+          "content_id": 341097,
+          "resource_code": "FIAKeyTerms",
+          "label": "vision",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

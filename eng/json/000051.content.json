@@ -1,0 +1,147 @@
+[
+  {
+    "content_id": 341016,
+    "reference_id": 186792,
+    "title": "Canaan",
+    "media_type": "Text",
+    "index_reference": "canaan",
+    "language": "eng",
+    "content": "<p>In the Old Testament, <strong>Canaan</strong> is an area that is roughly a strip of land between the <span data-bnType=\"resourceReference\" data-resourceId=\"186590\" data-resourceType=\"FIAKeyTerms\">Jordan River</span> in the east, and the Mediterranean Sea in the west. This is an area that today includes part of the countries of <span data-bnType=\"resourceReference\" data-resourceId=\"186627\" data-resourceType=\"FIAKeyTerms\">Israel</span> and Palestine, Lebanon, and Syria.</p><p>God had called <span data-bnType=\"resourceReference\" data-resourceId=\"186621\" data-resourceType=\"FIAKeyTerms\">Abraham</span> and told him to go to the country that he would show him. This country was Canaan. God promised Abraham that the whole land of Canaan would belong to his descendants.</p><p>Many other people groups lived in this area at that time: Hittites, Amorites, Canaanites, and a few others. Sometimes all of them together are called Canaanites, and sometimes all of them together are called Amorites.</p><p>When Abraham&apos;s descendants, the <span data-bnType=\"resourceReference\" data-resourceId=\"186562\" data-resourceType=\"FIAKeyTerms\">Israelites</span>, are freed from slavery in Egypt, God brings them back to Canaan. God gives them the task to drive out the Canaanites and to take over the land. God was going to give the land to the Israelites. God wanted to build a <span data-bnType=\"resourceReference\" data-resourceId=\"186495\" data-resourceType=\"FIAKeyTerms\">nation</span> out of the Israelites through whom he would <span data-bnType=\"resourceReference\" data-resourceId=\"186619\" data-resourceType=\"FIAKeyTerms\">bless</span> all the peoples of the earth. In order for the people to remain faithful to God, it was important that they would not be influenced by the Canaanite people. The Canaanite people <span data-bnType=\"resourceReference\" data-resourceId=\"186472\" data-resourceType=\"FIAKeyTerms\">worshiped</span> many gods and did many things that God had specifically forbidden in his <span data-bnType=\"resourceReference\" data-resourceId=\"keyTerm245\" data-resourceType=\"FIAKeyTerms\">commandments</span>. But the Israelites failed to drive out the Canaanites, and often <span data-bnType=\"resourceReference\" data-resourceId=\"186477\" data-resourceType=\"FIAKeyTerms\">sinned</span> by following the customs and the gods of the Canaanites.</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01011027",
+          "start_ref_usfm": "GEN 11:27",
+          "end_ref": "01011032",
+          "end_ref_usfm": "GEN 11:32"
+        },
+        {
+          "start_ref": "01012001",
+          "start_ref_usfm": "GEN 12:1",
+          "end_ref": "01012009",
+          "end_ref_usfm": "GEN 12:9"
+        },
+        {
+          "start_ref": "02023020",
+          "start_ref_usfm": "EXO 23:20",
+          "end_ref": "02023033",
+          "end_ref_usfm": "EXO 23:33"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186472,
+          "content_id": 280052,
+          "resource_code": "FIAKeyTerms",
+          "label": "worship",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186472,
+          "content_id": 341048,
+          "resource_code": "FIAKeyTerms",
+          "label": "worship",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186477,
+          "content_id": 280057,
+          "resource_code": "FIAKeyTerms",
+          "label": "sin",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186495,
+          "content_id": 280075,
+          "resource_code": "FIAKeyTerms",
+          "label": "nation",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186477,
+          "content_id": 341053,
+          "resource_code": "FIAKeyTerms",
+          "label": "sin",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186495,
+          "content_id": 341075,
+          "resource_code": "FIAKeyTerms",
+          "label": "nation",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186562,
+          "content_id": 280142,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israelite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186590,
+          "content_id": 280170,
+          "resource_code": "FIAKeyTerms",
+          "label": "Jordan River",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186619,
+          "content_id": 280199,
+          "resource_code": "FIAKeyTerms",
+          "label": "bless",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186621,
+          "content_id": 280201,
+          "resource_code": "FIAKeyTerms",
+          "label": "Abraham",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186562,
+          "content_id": 341150,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israelite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186590,
+          "content_id": 341186,
+          "resource_code": "FIAKeyTerms",
+          "label": "Jordan River",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186619,
+          "content_id": 341219,
+          "resource_code": "FIAKeyTerms",
+          "label": "bless",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186621,
+          "content_id": 341221,
+          "resource_code": "FIAKeyTerms",
+          "label": "Abraham",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186627,
+          "content_id": 280207,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186627,
+          "content_id": 341229,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israel",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

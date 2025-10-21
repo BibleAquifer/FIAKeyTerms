@@ -1,0 +1,43 @@
+[
+  {
+    "content_id": 280123,
+    "reference_id": 186543,
+    "title": "praise",
+    "media_type": "Text",
+    "index_reference": "praise",
+    "language": "eng",
+    "content": "<p>When you <strong>praise</strong> God, you speak out loud good things about God and to God, because you recognize that God is good and awesome and that God deserves great honor. You thank God for the good things he has done and <span data-bnType=\"resourceReference\" data-resourceId=\"186619\" data-resourceType=\"FIAKeyTerms\">blessings</span> he will give.</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44011001",
+          "start_ref_usfm": "ACT 11:1",
+          "end_ref": "44011018",
+          "end_ref_usfm": "ACT 11:18"
+        },
+        {
+          "start_ref": "42013031",
+          "start_ref_usfm": "LUK 13:31",
+          "end_ref": "42013035",
+          "end_ref_usfm": "LUK 13:35"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186619,
+          "content_id": 280199,
+          "resource_code": "FIAKeyTerms",
+          "label": "bless",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186619,
+          "content_id": 341219,
+          "resource_code": "FIAKeyTerms",
+          "label": "bless",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

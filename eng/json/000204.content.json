@@ -1,0 +1,43 @@
+[
+  {
+    "content_id": 341227,
+    "reference_id": 186812,
+    "title": "image of God",
+    "media_type": "Audio",
+    "index_reference": "image of god",
+    "language": "eng",
+    "content": "<h3>Audio Content</h3>\n",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01001001",
+          "start_ref_usfm": "GEN 1:1",
+          "end_ref": "01002003",
+          "end_ref_usfm": "GEN 2:3"
+        },
+        {
+          "start_ref": "01005001",
+          "start_ref_usfm": "GEN 5:1",
+          "end_ref": "01005032",
+          "end_ref_usfm": "GEN 5:32"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186808,
+          "content_id": 341032,
+          "resource_code": "Unknown",
+          "label": "God",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186808,
+          "content_id": 341195,
+          "resource_code": "Unknown",
+          "label": "God",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

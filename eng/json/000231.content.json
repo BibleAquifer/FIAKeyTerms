@@ -1,0 +1,85 @@
+[
+  {
+    "content_id": 280130,
+    "reference_id": 186550,
+    "title": "kingdom",
+    "media_type": "Text",
+    "index_reference": "kingdom",
+    "language": "eng",
+    "content": "<p>A <strong>kingdom</strong> is the territory or the people that a <span data-bnType=\"resourceReference\" data-resourceId=\"186796\" data-resourceType=\"FIAKeyTerms\">king</span> rules.</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41003020",
+          "start_ref_usfm": "MRK 3:20",
+          "end_ref": "41003035",
+          "end_ref_usfm": "MRK 3:35"
+        },
+        {
+          "start_ref": "41013001",
+          "start_ref_usfm": "MRK 13:1",
+          "end_ref": "41013008",
+          "end_ref_usfm": "MRK 13:8"
+        },
+        {
+          "start_ref": "42011014",
+          "start_ref_usfm": "LUK 11:14",
+          "end_ref": "42011032",
+          "end_ref_usfm": "LUK 11:32"
+        },
+        {
+          "start_ref": "44001006",
+          "start_ref_usfm": "ACT 1:6",
+          "end_ref": "44001011",
+          "end_ref_usfm": "ACT 1:11"
+        },
+        {
+          "start_ref": "40012022",
+          "start_ref_usfm": "MAT 12:22",
+          "end_ref": "40012032",
+          "end_ref_usfm": "MAT 12:32"
+        },
+        {
+          "start_ref": "42023026",
+          "start_ref_usfm": "LUK 23:26",
+          "end_ref": "42023043",
+          "end_ref_usfm": "LUK 23:43"
+        },
+        {
+          "start_ref": "43018028",
+          "start_ref_usfm": "JHN 18:28",
+          "end_ref": "43018040",
+          "end_ref_usfm": "JHN 18:40"
+        },
+        {
+          "start_ref": "42021005",
+          "start_ref_usfm": "LUK 21:5",
+          "end_ref": "42021011",
+          "end_ref_usfm": "LUK 21:11"
+        },
+        {
+          "start_ref": "42022024",
+          "start_ref_usfm": "LUK 22:24",
+          "end_ref": "42022038",
+          "end_ref_usfm": "LUK 22:38"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186796,
+          "content_id": 341020,
+          "resource_code": "FIAKeyTerms",
+          "label": "king",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186796,
+          "content_id": 341119,
+          "resource_code": "FIAKeyTerms",
+          "label": "king",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

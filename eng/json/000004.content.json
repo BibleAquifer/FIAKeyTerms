@@ -1,0 +1,131 @@
+[
+  {
+    "content_id": 341221,
+    "reference_id": 186621,
+    "title": "Abraham",
+    "media_type": "Audio",
+    "index_reference": "abraham",
+    "language": "eng",
+    "content": "<h3>Audio Content</h3>\n",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01008001",
+          "start_ref_usfm": "GEN 8:1",
+          "end_ref": "01008019",
+          "end_ref_usfm": "GEN 8:19"
+        },
+        {
+          "start_ref": "42001057",
+          "start_ref_usfm": "LUK 1:57",
+          "end_ref": "42001080",
+          "end_ref_usfm": "LUK 1:80"
+        },
+        {
+          "start_ref": "42003001",
+          "start_ref_usfm": "LUK 3:1",
+          "end_ref": "42003014",
+          "end_ref_usfm": "LUK 3:14"
+        },
+        {
+          "start_ref": "42013010",
+          "start_ref_usfm": "LUK 13:10",
+          "end_ref": "42013017",
+          "end_ref_usfm": "LUK 13:17"
+        },
+        {
+          "start_ref": "43008031",
+          "start_ref_usfm": "JHN 8:31",
+          "end_ref": "43008047",
+          "end_ref_usfm": "JHN 8:47"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186495,
+          "content_id": 280075,
+          "resource_code": "Unknown",
+          "label": "nation",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186495,
+          "content_id": 341075,
+          "resource_code": "Unknown",
+          "label": "nation",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186525,
+          "content_id": 280105,
+          "resource_code": "Unknown",
+          "label": "Jew",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186562,
+          "content_id": 280142,
+          "resource_code": "Unknown",
+          "label": "Israelite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186525,
+          "content_id": 341109,
+          "resource_code": "Unknown",
+          "label": "Jew",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186562,
+          "content_id": 341150,
+          "resource_code": "Unknown",
+          "label": "Israelite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186619,
+          "content_id": 280199,
+          "resource_code": "Unknown",
+          "label": "bless",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186792,
+          "content_id": 341016,
+          "resource_code": "Unknown",
+          "label": "Canaan",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186800,
+          "content_id": 341024,
+          "resource_code": "Unknown",
+          "label": "idol",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186792,
+          "content_id": 341095,
+          "resource_code": "Unknown",
+          "label": "Canaan",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186800,
+          "content_id": 341152,
+          "resource_code": "Unknown",
+          "label": "idol",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186619,
+          "content_id": 341219,
+          "resource_code": "Unknown",
+          "label": "bless",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

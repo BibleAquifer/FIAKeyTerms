@@ -1,0 +1,105 @@
+[
+  {
+    "content_id": 280170,
+    "reference_id": 186590,
+    "title": "Jordan River",
+    "media_type": "Text",
+    "index_reference": "jordan river",
+    "language": "eng",
+    "content": "<p>The <strong>Jordan River</strong> is a long river that runs through <span data-bnType=\"resourceReference\" data-resourceId=\"186627\" data-resourceType=\"FIAKeyTerms\">Israel</span> from north to south. During the rainy season the river is quite wide and deep. At other times of the year the river is smaller, and a person can get across the river by wading or swimming through the water. At two places, the river passes a large lake: first the Lake-or sea-of Galilee, and later the Dead Sea. The <span data-bnType=\"resourceReference\" data-resourceId=\"186629\" data-resourceType=\"FIAKeyTerms\">Lake of Galilee</span> has sweet water and there are many fish in the lake; but the Dead Sea has saltwater, and the water is so salty that no fish can live in it. The Jordan River stops at the Dead Sea.</p><p>The Jordan River was very important for the <span data-bnType=\"resourceReference\" data-resourceId=\"186525\" data-resourceType=\"FIAKeyTerms\">Jews</span>. It was important because the people needed the water of the river, but also because when the <span data-bnType=\"resourceReference\" data-resourceId=\"186562\" data-resourceType=\"FIAKeyTerms\">Israelites</span> had first entered the land, they had to cross this Jordan River. It was the time of the rains, and the river was very deep and wide at the time. But God did a <span data-bnType=\"resourceReference\" data-resourceId=\"186517\" data-resourceType=\"FIAKeyTerms\">miracle</span> and stopped the water in the river, and the people of Israel could safely walk across the bottom of the river to the other side.</p><p><em>You may want to first look up the Jordan River in the video Bible dictionary.</em></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40019001",
+          "start_ref_usfm": "MAT 19:1",
+          "end_ref": "40019012",
+          "end_ref_usfm": "MAT 19:12"
+        },
+        {
+          "start_ref": "41010001",
+          "start_ref_usfm": "MRK 10:1",
+          "end_ref": "41010012",
+          "end_ref_usfm": "MRK 10:12"
+        },
+        {
+          "start_ref": "43010022",
+          "start_ref_usfm": "JHN 10:22",
+          "end_ref": "43010042",
+          "end_ref_usfm": "JHN 10:42"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186517,
+          "content_id": 280097,
+          "resource_code": "FIAKeyTerms",
+          "label": "miracles",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186517,
+          "content_id": 341100,
+          "resource_code": "FIAKeyTerms",
+          "label": "miracles",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186525,
+          "content_id": 280105,
+          "resource_code": "FIAKeyTerms",
+          "label": "Jew",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186562,
+          "content_id": 280142,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israelite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186525,
+          "content_id": 341109,
+          "resource_code": "FIAKeyTerms",
+          "label": "Jew",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186562,
+          "content_id": 341150,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israelite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186627,
+          "content_id": 280207,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186629,
+          "content_id": 280209,
+          "resource_code": "FIAKeyTerms",
+          "label": "Sea of Galilee",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186627,
+          "content_id": 341229,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186629,
+          "content_id": 341231,
+          "resource_code": "FIAKeyTerms",
+          "label": "Sea of Galilee",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

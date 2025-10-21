@@ -1,0 +1,99 @@
+[
+  {
+    "content_id": 341024,
+    "reference_id": 186800,
+    "title": "idol",
+    "media_type": "Text",
+    "index_reference": "idol",
+    "language": "eng",
+    "content": "<p>An <strong>idol</strong> is an object that people make in order to <span data-bnType=\"resourceReference\" data-resourceId=\"186472\" data-resourceType=\"FIAKeyTerms\">worship</span> a god. The object reminds the people about some characteristics of this god. In the Bible these are sometimes called &quot;images.&quot; People make an object-an image-of a god and worship that object as if it is that god. People could make such an object out of stone, wood, or metal. Such an object could look like a person, or like an animal, or just have any different shape. They could be very large, or they could be small and able to easily carry. The word idol can also refer to things or ideas that people worship more than God himself.</p><p>God forbade the <span data-bnType=\"resourceReference\" data-resourceId=\"186562\" data-resourceType=\"FIAKeyTerms\">Israelites</span> in his commandments to ever make such an idol, or image, or to worship anything else besides God himself.</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44017016",
+          "start_ref_usfm": "ACT 17:16",
+          "end_ref": "44017021",
+          "end_ref_usfm": "ACT 17:21"
+        },
+        {
+          "start_ref": "44017022",
+          "start_ref_usfm": "ACT 17:22",
+          "end_ref": "44017034",
+          "end_ref_usfm": "ACT 17:34"
+        },
+        {
+          "start_ref": "01031001",
+          "start_ref_usfm": "GEN 31:1",
+          "end_ref": "01031021",
+          "end_ref_usfm": "GEN 31:21"
+        },
+        {
+          "start_ref": "01031022",
+          "start_ref_usfm": "GEN 31:22",
+          "end_ref": "01031035",
+          "end_ref_usfm": "GEN 31:35"
+        },
+        {
+          "start_ref": "01035001",
+          "start_ref_usfm": "GEN 35:1",
+          "end_ref": "01035015",
+          "end_ref_usfm": "GEN 35:15"
+        },
+        {
+          "start_ref": "02020001",
+          "start_ref_usfm": "EXO 20:1",
+          "end_ref": "02020007",
+          "end_ref_usfm": "EXO 20:7"
+        },
+        {
+          "start_ref": "44015022",
+          "start_ref_usfm": "ACT 15:22",
+          "end_ref": "44015035",
+          "end_ref_usfm": "ACT 15:35"
+        },
+        {
+          "start_ref": "02034010",
+          "start_ref_usfm": "EXO 34:10",
+          "end_ref": "02034017",
+          "end_ref_usfm": "EXO 34:17"
+        },
+        {
+          "start_ref": "44007035",
+          "start_ref_usfm": "ACT 7:35",
+          "end_ref": "44007043",
+          "end_ref_usfm": "ACT 7:43"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186472,
+          "content_id": 280052,
+          "resource_code": "FIAKeyTerms",
+          "label": "worship",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186472,
+          "content_id": 341048,
+          "resource_code": "FIAKeyTerms",
+          "label": "worship",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186562,
+          "content_id": 280142,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israelite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186562,
+          "content_id": 341150,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israelite",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

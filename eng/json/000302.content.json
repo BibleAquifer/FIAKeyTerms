@@ -1,0 +1,105 @@
+[
+  {
+    "content_id": 341244,
+    "reference_id": 186815,
+    "title": "purify",
+    "media_type": "Audio",
+    "index_reference": "purify",
+    "language": "eng",
+    "content": "<h3>Audio Content</h3>\n",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01035001",
+          "start_ref_usfm": "GEN 35:1",
+          "end_ref": "01035015",
+          "end_ref_usfm": "GEN 35:15"
+        },
+        {
+          "start_ref": "02030011",
+          "start_ref_usfm": "EXO 30:11",
+          "end_ref": "02030016",
+          "end_ref_usfm": "EXO 30:16"
+        },
+        {
+          "start_ref": "43011045",
+          "start_ref_usfm": "JHN 11:45",
+          "end_ref": "43011057",
+          "end_ref_usfm": "JHN 11:57"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186472,
+          "content_id": 280052,
+          "resource_code": "Unknown",
+          "label": "worship",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186472,
+          "content_id": 341048,
+          "resource_code": "Unknown",
+          "label": "worship",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186559,
+          "content_id": 280139,
+          "resource_code": "Unknown",
+          "label": "sacrifice",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186614,
+          "content_id": 280194,
+          "resource_code": "Unknown",
+          "label": "priest",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186559,
+          "content_id": 341147,
+          "resource_code": "Unknown",
+          "label": "sacrifice",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186614,
+          "content_id": 341214,
+          "resource_code": "Unknown",
+          "label": "priest",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186615,
+          "content_id": 280195,
+          "resource_code": "Unknown",
+          "label": "clean/unclean",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186808,
+          "content_id": 341032,
+          "resource_code": "Unknown",
+          "label": "God",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186808,
+          "content_id": 341195,
+          "resource_code": "Unknown",
+          "label": "God",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186615,
+          "content_id": 341215,
+          "resource_code": "Unknown",
+          "label": "clean/unclean",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

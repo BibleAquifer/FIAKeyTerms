@@ -1,0 +1,37 @@
+[
+  {
+    "content_id": 341091,
+    "reference_id": 186791,
+    "title": "yoke",
+    "media_type": "Audio",
+    "index_reference": "yoke",
+    "language": "eng",
+    "content": "<h3>Audio Content</h3>\n",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01027030",
+          "start_ref_usfm": "GEN 27:30",
+          "end_ref": "01027040",
+          "end_ref_usfm": "GEN 27:40"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186617,
+          "content_id": 280197,
+          "resource_code": "Unknown",
+          "label": "slave",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186617,
+          "content_id": 341217,
+          "resource_code": "Unknown",
+          "label": "slave",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

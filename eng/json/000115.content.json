@@ -1,0 +1,37 @@
+[
+  {
+    "content_id": 341023,
+    "reference_id": 186799,
+    "title": "el-roi",
+    "media_type": "Text",
+    "index_reference": "el-roi",
+    "language": "eng",
+    "content": "<p><strong>El-Roi</strong> is a name that Hagar, in the book of Genesis, gives to God. The name means &quot;God sees me.&quot; Hagar gave this name to God because God helped her when she and her son Ishmael were alone in the <span data-bnType=\"resourceReference\" data-resourceId=\"186623\" data-resourceType=\"FIAKeyTerms\">desert</span> and about to die from thirst.</p><p>The word &quot;el&quot; means God, and therefore we find several other names for God in the Bible that begin with this word &quot;el.&quot; Each of these names tells us something important about God.</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01016001",
+          "start_ref_usfm": "GEN 16:1",
+          "end_ref": "01016016",
+          "end_ref_usfm": "GEN 16:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186623,
+          "content_id": 280203,
+          "resource_code": "FIAKeyTerms",
+          "label": "desert",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186623,
+          "content_id": 341224,
+          "resource_code": "FIAKeyTerms",
+          "label": "desert",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

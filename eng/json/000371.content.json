@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 280115,
+    "reference_id": 186535,
+    "title": "synagogue ruler",
+    "media_type": "Text",
+    "index_reference": "synagogue ruler",
+    "language": "eng",
+    "content": "<p>A <strong>synagogue</strong> is a place where <span data-bnType=\"resourceReference\" data-resourceId=\"186525\" data-resourceType=\"FIAKeyTerms\">Jewish</span> people meet for <span data-bnType=\"resourceReference\" data-resourceId=\"186597\" data-resourceType=\"FIAKeyTerms\">prayer</span> and for study of the <span data-bnType=\"resourceReference\" data-resourceId=\"186595\" data-resourceType=\"FIAKeyTerms\">Scriptures</span>, as well as for other types of discussion and teaching. Each synagogue had a <strong>ruler</strong> who was responsible for the building and for making sure that everything was done properly. The ruler of the synagogue was in charge of inviting people to come forward to pray, to read from the Scriptures, or to teach.</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41005021",
+          "start_ref_usfm": "MRK 5:21",
+          "end_ref": "41005034",
+          "end_ref_usfm": "MRK 5:34"
+        },
+        {
+          "start_ref": "41005035",
+          "start_ref_usfm": "MRK 5:35",
+          "end_ref": "41005043",
+          "end_ref_usfm": "MRK 5:43"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186525,
+          "content_id": 280105,
+          "resource_code": "FIAKeyTerms",
+          "label": "Jew",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186525,
+          "content_id": 341109,
+          "resource_code": "FIAKeyTerms",
+          "label": "Jew",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186595,
+          "content_id": 280175,
+          "resource_code": "FIAKeyTerms",
+          "label": "scriptures",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186597,
+          "content_id": 280177,
+          "resource_code": "FIAKeyTerms",
+          "label": "pray",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186595,
+          "content_id": 341191,
+          "resource_code": "FIAKeyTerms",
+          "label": "scriptures",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186597,
+          "content_id": 341194,
+          "resource_code": "FIAKeyTerms",
+          "label": "pray",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]
