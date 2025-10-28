@@ -1,0 +1,140 @@
+{
+  "resource_metadata": {
+    "aquifer_type": "Dictionary",
+    "resource_type": "Translation Glossary",
+    "title": "Key Terms (SRV)",
+    "aquifer_name": "キー用語 (SRV)",
+    "version": "1.0.0",
+    "collection_title": "Key Terms (SRV)",
+    "short_name": "FIA",
+    "license_info": {
+      "title": "Familiarization, Internalization, Articulation (Fia) Terms",
+      "copyright": {
+        "dates": "2023",
+        "holder": {
+          "name": "SRV Partners",
+          "url": "https://srvpartners.org/home/"
+        }
+      },
+      "licenses": [
+        {
+          "eng": {
+            "name": "CC BY-SA 4.0 license",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+          }
+        }
+      ],
+      "showAdaptationNoticeForEnglish": false,
+      "showAdaptationNoticeForNonEnglish": true
+    },
+    "adaptation_notice": "",
+    "resource_code": "FIAKeyTerms",
+    "date_created": "2025-10-27",
+    "language": "jpn",
+    "localizations": [
+      "eng"
+    ],
+    "order": "alphabetical",
+    "content_type": "Html"
+  },
+  "scripture_burrito": {
+    "format": "scripture burrito",
+    "meta": {
+      "version": "1.0.0",
+      "category": "source",
+      "defaultLocale": "en",
+      "dateCreated": "2025-10-27T17:20:24.786966"
+    },
+    "idAuthorities": {
+      "aquifer": {
+        "id": "https://aquifer.bible",
+        "name": {
+          "en": "Bible Aquifer"
+        }
+      }
+    },
+    "identification": {
+      "primary": {
+        "aquifer": {
+          "FIAKeyTerms": {
+            "timestamp": "2025-10-27T17:20:24.786966"
+          }
+        }
+      },
+      "name": {
+        "ja": "Familiarization, Internalization, Articulation (Fia) Terms"
+      },
+      "abbreviation": {
+        "ja": "FIA"
+      }
+    },
+    "languages": [
+      {
+        "tag": "ja",
+        "name": {
+          "ja": "Japanese"
+        }
+      }
+    ],
+    "type": {
+      "flavorType": {
+        "name": "peripheral",
+        "flavor": {
+          "name": "textAquiferAlphabetical",
+          "audience": "common"
+        },
+        "currentScope": {}
+      }
+    },
+    "ingredients": {
+      "json/000001.content.json": {
+        "mimeType": "text/json",
+        "size": 2178
+      },
+      "json/000002.content.json": {
+        "mimeType": "text/json",
+        "size": 4171
+      }
+    },
+    "copyright": {
+      "licenses": [
+        {
+          "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+        }
+      ],
+      "shortStatements": [
+        {
+          "statement": "<p>Familiarization, Internalization, Articulation (Fia) Terms © 2023 SRV Partners.</p>",
+          "mimetype": "text/html",
+          "lang": "ja"
+        }
+      ]
+    }
+  },
+  "article_metadata": {
+    "467479": {
+      "content_id": 467479,
+      "reference_id": 186560,
+      "index_reference": "アッバ",
+      "localizations": {
+        "eng": {
+          "content_id": 341148,
+          "language": "eng",
+          "title": "abba"
+        }
+      }
+    },
+    "671671": {
+      "content_id": 671671,
+      "reference_id": 186521,
+      "index_reference": "不倫",
+      "localizations": {
+        "eng": {
+          "content_id": 341104,
+          "language": "eng",
+          "title": "adultery"
+        }
+      }
+    }
+  }
+}
