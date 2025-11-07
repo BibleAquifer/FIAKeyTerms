@@ -1,4 +1,4 @@
-# _Key Terms (SRV)_ Aquifer Resource
+# _Familiarization, Internalization, Articulation (FIA) Key Terms_ Aquifer Resource
 
 This repository (`FIAKeyTerms`) contains Aquifer resource data with resource-level metadata, article-level metadata, and content files in JSON and Markdown formats.
 
