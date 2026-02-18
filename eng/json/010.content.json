@@ -1,14 +1,14 @@
 [
   {
-    "content_id": 280118,
+    "content_id": "280118",
     "reference_id": 186538,
     "version": "1.0.1",
     "title": "James",
     "media_type": "Text",
     "index_reference": "james",
     "language": "eng",
-    "review_level": "None",
-    "content": "<p>There are three people in the New Testament with the name <strong>James</strong>.</p><p>One of Jesus&apos;s <span data-bnType=\"resourceReference\" data-resourceId=\"186630\" data-resourceType=\"FIAKeyTerms\">disciples</span> was named James. James had a brother named <span data-bnType=\"resourceReference\" data-resourceId=\"186583\" data-resourceType=\"FIAKeyTerms\">John</span>, and his father&apos;s name was Zebedee. James and John were fishermen, until Jesus called them to become his disciples. Together with Peter, another disciple, these three men were often with Jesus at special times. From Jesus&apos;s 12 disciples, these three people were the closest to Jesus.</p><p>At one time, Jesus called James and his brother John &quot;sons of thunder.&quot; It could be that Jesus gave them this name because they had a temper, and got angry quickly. But we do not know this for sure.</p><p>In the book of Acts we hear that the king Herod Agrippa has James killed.</p><p>There was another disciple of Jesus called James. He is called James, the son of Alpheus, or &quot;James the less.&quot; &quot;James the less&quot; was probably a nickname that people gave to him because he was either younger or shorter than the other disciple named James.</p><p>Another James is a brother of Jesus-a son of Jesus&apos;s mother Mary and her husband Joseph. This James did not at first believe that God sent Jesus. But after Jesus rose from the dead, James started to believe in Jesus. James became an important leader in the early <span data-bnType=\"resourceReference\" data-resourceId=\"keyTerm24\" data-resourceType=\"FIAKeyTerms\">church</span>, and he is probably the author of the book of James, which is in the New Testament.</p>",
+    "review_level": "Professional",
+    "content": "<p>There are three people in the New Testament with the name <strong>James</strong>.</p><p>One of Jesus&apos;s <span data-bnType=\"resourceReference\" data-resourceId=\"186630\" data-resourceType=\"FIAKeyTerms\">disciples</span> was named James. James had a brother named <span data-bnType=\"resourceReference\" data-resourceId=\"186583\" data-resourceType=\"FIAKeyTerms\">John</span>, and his father&apos;s name was Zebedee. James and John were fishermen, until Jesus called them to become his disciples. Together with Peter, another disciple, these three men were often with Jesus at special times. From Jesus&apos;s 12 disciples, these three people were the closest to Jesus.</p><p>At one time, Jesus called James and his brother John &quot;sons of thunder.&quot; It could be that Jesus gave them this name because they had a temper, and got angry quickly. But we do not know this for sure.</p><p>In the book of Acts we hear that the king Herod Agrippa has James killed.</p><p>There was another disciple of Jesus called James. He is called James, the son of Alpheus, or &quot;James the less.&quot; &quot;James the less&quot; was probably a nickname that people gave to him because he was either younger or shorter than the other disciple named James.</p><p>Another James is a brother of Jesus-a son of Jesus&apos;s mother <span data-bnType=\"resourceReference\" data-resourceId=\"186570\" data-resourceType=\"FIAKeyTerms\">Mary</span> and her husband Joseph. This James did not at first <span data-bnType=\"resourceReference\" data-resourceId=\"186484\" data-resourceType=\"FIAKeyTerms\">believe</span> that God sent Jesus. But after Jesus rose from the dead, James started to believe in Jesus. James became an important leader in the early <span data-bnType=\"resourceReference\" data-resourceId=\"222596\" data-resourceType=\"FIAKeyTerms\">church</span>, and he is probably the author of the book of James, which is in the New Testament.</p>",
     "associations": {
       "passage": [
         {
@@ -19,6 +19,20 @@
         }
       ],
       "resource": [
+        {
+          "reference_id": 186484,
+          "content_id": 280064,
+          "resource_code": "FIAKeyTerms",
+          "label": "belief",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186484,
+          "content_id": 341064,
+          "resource_code": "FIAKeyTerms",
+          "label": "belief",
+          "language": "eng"
+        },
         {
           "reference_id": 186583,
           "content_id": 280163,
@@ -31,6 +45,34 @@
           "content_id": 341179,
           "resource_code": "FIAKeyTerms",
           "label": "John",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186570,
+          "content_id": 280150,
+          "resource_code": "FIAKeyTerms",
+          "label": "Mary",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186570,
+          "content_id": 341162,
+          "resource_code": "FIAKeyTerms",
+          "label": "Mary",
+          "language": "eng"
+        },
+        {
+          "reference_id": 222596,
+          "content_id": 871095,
+          "resource_code": "FIAKeyTerms",
+          "label": "church",
+          "language": "eng"
+        },
+        {
+          "reference_id": 222596,
+          "content_id": 871096,
+          "resource_code": "FIAKeyTerms",
+          "label": "church",
           "language": "eng"
         },
         {
@@ -51,15 +93,15 @@
     }
   },
   {
-    "content_id": 341124,
+    "content_id": "341124",
     "reference_id": 186538,
     "version": "1.0.1",
     "title": "James",
     "media_type": "Audio",
     "index_reference": "james",
     "language": "eng",
-    "review_level": "None",
-    "content": "<h3>Audio Content</h3>\n",
+    "review_level": "Professional",
+    "content": "<h3>Audio Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAKeyTerms/ENG/audio/webm/t75-james.webm'>webm file</a> (875246 KB)</p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAKeyTerms/ENG/audio/mp3/t75-james.mp3'>mp3 file</a> (1142804 KB)</p>",
     "associations": {
       "passage": [
         {
@@ -70,6 +112,20 @@
         }
       ],
       "resource": [
+        {
+          "reference_id": 186484,
+          "content_id": 280064,
+          "resource_code": "Unknown",
+          "label": "belief",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186484,
+          "content_id": 341064,
+          "resource_code": "Unknown",
+          "label": "belief",
+          "language": "eng"
+        },
         {
           "reference_id": 186583,
           "content_id": 280163,
@@ -82,6 +138,34 @@
           "content_id": 341179,
           "resource_code": "Unknown",
           "label": "John",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186570,
+          "content_id": 280150,
+          "resource_code": "Unknown",
+          "label": "Mary",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186570,
+          "content_id": 341162,
+          "resource_code": "Unknown",
+          "label": "Mary",
+          "language": "eng"
+        },
+        {
+          "reference_id": 222596,
+          "content_id": 871095,
+          "resource_code": "Unknown",
+          "label": "church",
+          "language": "eng"
+        },
+        {
+          "reference_id": 222596,
+          "content_id": 871096,
+          "resource_code": "Unknown",
+          "label": "church",
           "language": "eng"
         },
         {
@@ -102,17 +186,23 @@
     }
   },
   {
-    "content_id": 280103,
+    "content_id": "280103",
     "reference_id": 186523,
     "version": "1.0.1",
     "title": "Jerusalem",
     "media_type": "Text",
     "index_reference": "jerusalem",
     "language": "eng",
-    "review_level": "None",
-    "content": "<p><strong>Jerusalem</strong> is the name of the most important city of the <span data-bnType=\"resourceReference\" data-resourceId=\"186525\" data-resourceType=\"FIAKeyTerms\">Jewish</span> people. The <span data-bnType=\"resourceReference\" data-resourceId=\"186483\" data-resourceType=\"FIAKeyTerms\">temple</span> of God, where the Jews <span data-bnType=\"resourceReference\" data-resourceId=\"186472\" data-resourceType=\"FIAKeyTerms\">worshiped</span> God, was in Jerusalem. The Jews traveled to Jerusalem several times a year to celebrate important festivals in the temple. The Jewish religious court, the <span data-bnType=\"resourceReference\" data-resourceId=\"186557\" data-resourceType=\"FIAKeyTerms\">Sanhedrin</span>, also gathered in Jerusalem.</p><p>About a thousand years before Jesus was born, king <span data-bnType=\"resourceReference\" data-resourceId=\"186466\" data-resourceType=\"FIAKeyTerms\">David</span> established the city of Jerusalem as the capital of <span data-bnType=\"resourceReference\" data-resourceId=\"186627\" data-resourceType=\"FIAKeyTerms\">Israel</span>. About 500 years later, the enemies of the Israelites destroyed the city, but the Israelites built it up again. The Jewish people loved the city of Jerusalem very much.</p><p>Jerusalem was part of the province called <span data-bnType=\"resourceReference\" data-resourceId=\"186641\" data-resourceType=\"FIAKeyTerms\">Judea</span>. Jerusalem was built on a hill. Therefore people always said they were going &quot;<em>up</em> to Jerusalem.&quot;</p>",
+    "review_level": "Professional",
+    "content": "<p><strong>Jerusalem</strong> is the name of the most important city of the <span data-bnType=\"resourceReference\" data-resourceId=\"186525\" data-resourceType=\"FIAKeyTerms\">Jewish</span> people. The <span data-bnType=\"resourceReference\" data-resourceId=\"186483\" data-resourceType=\"FIAKeyTerms\">temple</span> of God, where the Jews <span data-bnType=\"resourceReference\" data-resourceId=\"186472\" data-resourceType=\"FIAKeyTerms\">worshiped</span> God, was in Jerusalem. The Jews traveled to Jerusalem several times a year to celebrate important festivals in the temple. The Jewish religious court, the <span data-bnType=\"resourceReference\" data-resourceId=\"186557\" data-resourceType=\"FIAKeyTerms\">Sanhedrin</span>, also gathered in Jerusalem.</p><p>About a thousand years before Jesus was born, king <span data-bnType=\"resourceReference\" data-resourceId=\"186466\" data-resourceType=\"FIAKeyTerms\">David</span> established the city of Jerusalem as the capital of <span data-bnType=\"resourceReference\" data-resourceId=\"186627\" data-resourceType=\"FIAKeyTerms\">Israel</span>. About 500 years later, the enemies of the <span data-bnType=\"resourceReference\" data-resourceId=\"186562\" data-resourceType=\"FIAKeyTerms\">Israelites</span> destroyed the city, but the Israelites built it up again. The Jewish people loved the city of Jerusalem very much.</p><p>Jerusalem was part of the province called <span data-bnType=\"resourceReference\" data-resourceId=\"186641\" data-resourceType=\"FIAKeyTerms\">Judea</span>. Jerusalem was built on a hill. Therefore people always said they were going &quot;<em>up</em> to Jerusalem.&quot;</p>",
     "associations": {
       "passage": [
+        {
+          "start_ref": "43004001",
+          "start_ref_usfm": "JHN 4:1",
+          "end_ref": "43004015",
+          "end_ref_usfm": "JHN 4:15"
+        },
         {
           "start_ref": "43004016",
           "start_ref_usfm": "JHN 4:16",
@@ -222,6 +312,12 @@
           "end_ref_usfm": "MRK 2:17"
         },
         {
+          "start_ref": "19003001",
+          "start_ref_usfm": "PSA 3:1",
+          "end_ref": "19003008",
+          "end_ref_usfm": "PSA 3:8"
+        },
+        {
           "start_ref": "44001012",
           "start_ref_usfm": "ACT 1:12",
           "end_ref": "44001014",
@@ -234,6 +330,24 @@
           "end_ref_usfm": "LUK 19:27"
         },
         {
+          "start_ref": "13003001",
+          "start_ref_usfm": "1CH 3:1",
+          "end_ref": "13003009",
+          "end_ref_usfm": "1CH 3:9"
+        },
+        {
+          "start_ref": "46016001",
+          "start_ref_usfm": "1CO 16:1",
+          "end_ref": "46016004",
+          "end_ref_usfm": "1CO 16:4"
+        },
+        {
+          "start_ref": "10020001",
+          "start_ref_usfm": "2SA 20:1",
+          "end_ref": "10020022",
+          "end_ref_usfm": "2SA 20:22"
+        },
+        {
           "start_ref": "42010025",
           "start_ref_usfm": "LUK 10:25",
           "end_ref": "42010037",
@@ -244,6 +358,12 @@
           "start_ref_usfm": "LUK 9:28",
           "end_ref": "42009036",
           "end_ref_usfm": "LUK 9:36"
+        },
+        {
+          "start_ref": "02023010",
+          "start_ref_usfm": "EXO 23:10",
+          "end_ref": "02023019",
+          "end_ref_usfm": "EXO 23:19"
         },
         {
           "start_ref": "44001006",
@@ -286,6 +406,18 @@
           "start_ref_usfm": "ACT 25:23",
           "end_ref": "44025027",
           "end_ref_usfm": "ACT 25:27"
+        },
+        {
+          "start_ref": "13009035",
+          "start_ref_usfm": "1CH 9:35",
+          "end_ref": "13009044",
+          "end_ref_usfm": "1CH 9:44"
+        },
+        {
+          "start_ref": "11014021",
+          "start_ref_usfm": "1KI 14:21",
+          "end_ref": "11014031",
+          "end_ref_usfm": "1KI 14:31"
         },
         {
           "start_ref": "43007025",
@@ -378,6 +510,12 @@
           "end_ref_usfm": "ACT 10:48"
         },
         {
+          "start_ref": "02034018",
+          "start_ref_usfm": "EXO 34:18",
+          "end_ref": "02034028",
+          "end_ref_usfm": "EXO 34:28"
+        },
+        {
           "start_ref": "44015022",
           "start_ref_usfm": "ACT 15:22",
           "end_ref": "44015035",
@@ -400,6 +538,84 @@
           "start_ref_usfm": "LUK 13:22",
           "end_ref": "42013030",
           "end_ref_usfm": "LUK 13:30"
+        },
+        {
+          "start_ref": "10015024",
+          "start_ref_usfm": "2SA 15:24",
+          "end_ref": "10015037",
+          "end_ref_usfm": "2SA 15:37"
+        },
+        {
+          "start_ref": "10015013",
+          "start_ref_usfm": "2SA 15:13",
+          "end_ref": "10015023",
+          "end_ref_usfm": "2SA 15:23"
+        },
+        {
+          "start_ref": "10015001",
+          "start_ref_usfm": "2SA 15:1",
+          "end_ref": "10015012",
+          "end_ref_usfm": "2SA 15:12"
+        },
+        {
+          "start_ref": "13008029",
+          "start_ref_usfm": "1CH 8:29",
+          "end_ref": "13008040",
+          "end_ref_usfm": "1CH 8:40"
+        },
+        {
+          "start_ref": "11022041",
+          "start_ref_usfm": "1KI 22:41",
+          "end_ref": "11022053",
+          "end_ref_usfm": "1KI 22:53"
+        },
+        {
+          "start_ref": "13011001",
+          "start_ref_usfm": "1CH 11:1",
+          "end_ref": "13011009",
+          "end_ref_usfm": "1CH 11:9"
+        },
+        {
+          "start_ref": "06010001",
+          "start_ref_usfm": "JOS 10:1",
+          "end_ref": "06010015",
+          "end_ref_usfm": "JOS 10:15"
+        },
+        {
+          "start_ref": "13009028",
+          "start_ref_usfm": "1CH 9:28",
+          "end_ref": "13009034",
+          "end_ref_usfm": "1CH 9:34"
+        },
+        {
+          "start_ref": "13023021",
+          "start_ref_usfm": "1CH 23:21",
+          "end_ref": "13023032",
+          "end_ref_usfm": "1CH 23:32"
+        },
+        {
+          "start_ref": "13008017",
+          "start_ref_usfm": "1CH 8:17",
+          "end_ref": "13008028",
+          "end_ref_usfm": "1CH 8:28"
+        },
+        {
+          "start_ref": "13009001",
+          "start_ref_usfm": "1CH 9:1",
+          "end_ref": "13009009",
+          "end_ref_usfm": "1CH 9:9"
+        },
+        {
+          "start_ref": "06015001",
+          "start_ref_usfm": "JOS 15:1",
+          "end_ref": "06015012",
+          "end_ref_usfm": "JOS 15:12"
+        },
+        {
+          "start_ref": "13028001",
+          "start_ref_usfm": "1CH 28:1",
+          "end_ref": "13028008",
+          "end_ref_usfm": "1CH 28:8"
         }
       ],
       "resource": [
@@ -418,24 +634,10 @@
           "language": "eng"
         },
         {
-          "reference_id": 186472,
-          "content_id": 280052,
-          "resource_code": "FIAKeyTerms",
-          "label": "worship",
-          "language": "eng"
-        },
-        {
           "reference_id": 186483,
           "content_id": 280063,
           "resource_code": "FIAKeyTerms",
           "label": "temple",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186472,
-          "content_id": 341048,
-          "resource_code": "FIAKeyTerms",
-          "label": "worship",
           "language": "eng"
         },
         {
@@ -446,8 +648,43 @@
           "language": "eng"
         },
         {
+          "reference_id": 186472,
+          "content_id": 280052,
+          "resource_code": "FIAKeyTerms",
+          "label": "worship",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186472,
+          "content_id": 341048,
+          "resource_code": "FIAKeyTerms",
+          "label": "worship",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186627,
+          "content_id": 280207,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186627,
+          "content_id": 341229,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
           "reference_id": 186525,
           "content_id": 280105,
+          "resource_code": "FIAKeyTerms",
+          "label": "Jew",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186525,
+          "content_id": 341109,
           "resource_code": "FIAKeyTerms",
           "label": "Jew",
           "language": "eng"
@@ -460,27 +697,6 @@
           "language": "eng"
         },
         {
-          "reference_id": 186627,
-          "content_id": 280207,
-          "resource_code": "FIAKeyTerms",
-          "label": "Israel",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186641,
-          "content_id": 280221,
-          "resource_code": "FIAKeyTerms",
-          "label": "Judea",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186525,
-          "content_id": 341109,
-          "resource_code": "FIAKeyTerms",
-          "label": "Jew",
-          "language": "eng"
-        },
-        {
           "reference_id": 186557,
           "content_id": 341145,
           "resource_code": "FIAKeyTerms",
@@ -488,10 +704,24 @@
           "language": "eng"
         },
         {
-          "reference_id": 186627,
-          "content_id": 341229,
+          "reference_id": 186562,
+          "content_id": 280142,
           "resource_code": "FIAKeyTerms",
-          "label": "Israel",
+          "label": "Israelite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186562,
+          "content_id": 341150,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israelite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186641,
+          "content_id": 280221,
+          "resource_code": "FIAKeyTerms",
+          "label": "Judea",
           "language": "eng"
         },
         {
@@ -505,17 +735,23 @@
     }
   },
   {
-    "content_id": 341106,
+    "content_id": "341106",
     "reference_id": 186523,
     "version": "1.0.1",
     "title": "Jerusalem",
     "media_type": "Audio",
     "index_reference": "jerusalem",
     "language": "eng",
-    "review_level": "None",
-    "content": "<h3>Audio Content</h3>\n",
+    "review_level": "Professional",
+    "content": "<h3>Audio Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAKeyTerms/ENG/audio/webm/t76-jerusalem.webm'>webm file</a> (535408 KB)</p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAKeyTerms/ENG/audio/mp3/t76-jerusalem.mp3'>mp3 file</a> (703148 KB)</p>",
     "associations": {
       "passage": [
+        {
+          "start_ref": "43004001",
+          "start_ref_usfm": "JHN 4:1",
+          "end_ref": "43004015",
+          "end_ref_usfm": "JHN 4:15"
+        },
         {
           "start_ref": "43004016",
           "start_ref_usfm": "JHN 4:16",
@@ -625,6 +861,12 @@
           "end_ref_usfm": "MRK 2:17"
         },
         {
+          "start_ref": "19003001",
+          "start_ref_usfm": "PSA 3:1",
+          "end_ref": "19003008",
+          "end_ref_usfm": "PSA 3:8"
+        },
+        {
           "start_ref": "44001012",
           "start_ref_usfm": "ACT 1:12",
           "end_ref": "44001014",
@@ -637,6 +879,24 @@
           "end_ref_usfm": "LUK 19:27"
         },
         {
+          "start_ref": "13003001",
+          "start_ref_usfm": "1CH 3:1",
+          "end_ref": "13003009",
+          "end_ref_usfm": "1CH 3:9"
+        },
+        {
+          "start_ref": "46016001",
+          "start_ref_usfm": "1CO 16:1",
+          "end_ref": "46016004",
+          "end_ref_usfm": "1CO 16:4"
+        },
+        {
+          "start_ref": "10020001",
+          "start_ref_usfm": "2SA 20:1",
+          "end_ref": "10020022",
+          "end_ref_usfm": "2SA 20:22"
+        },
+        {
           "start_ref": "42010025",
           "start_ref_usfm": "LUK 10:25",
           "end_ref": "42010037",
@@ -647,6 +907,12 @@
           "start_ref_usfm": "LUK 9:28",
           "end_ref": "42009036",
           "end_ref_usfm": "LUK 9:36"
+        },
+        {
+          "start_ref": "02023010",
+          "start_ref_usfm": "EXO 23:10",
+          "end_ref": "02023019",
+          "end_ref_usfm": "EXO 23:19"
         },
         {
           "start_ref": "44001006",
@@ -689,6 +955,18 @@
           "start_ref_usfm": "ACT 25:23",
           "end_ref": "44025027",
           "end_ref_usfm": "ACT 25:27"
+        },
+        {
+          "start_ref": "13009035",
+          "start_ref_usfm": "1CH 9:35",
+          "end_ref": "13009044",
+          "end_ref_usfm": "1CH 9:44"
+        },
+        {
+          "start_ref": "11014021",
+          "start_ref_usfm": "1KI 14:21",
+          "end_ref": "11014031",
+          "end_ref_usfm": "1KI 14:31"
         },
         {
           "start_ref": "43007025",
@@ -781,6 +1059,12 @@
           "end_ref_usfm": "ACT 10:48"
         },
         {
+          "start_ref": "02034018",
+          "start_ref_usfm": "EXO 34:18",
+          "end_ref": "02034028",
+          "end_ref_usfm": "EXO 34:28"
+        },
+        {
           "start_ref": "44015022",
           "start_ref_usfm": "ACT 15:22",
           "end_ref": "44015035",
@@ -803,6 +1087,84 @@
           "start_ref_usfm": "LUK 13:22",
           "end_ref": "42013030",
           "end_ref_usfm": "LUK 13:30"
+        },
+        {
+          "start_ref": "10015024",
+          "start_ref_usfm": "2SA 15:24",
+          "end_ref": "10015037",
+          "end_ref_usfm": "2SA 15:37"
+        },
+        {
+          "start_ref": "10015013",
+          "start_ref_usfm": "2SA 15:13",
+          "end_ref": "10015023",
+          "end_ref_usfm": "2SA 15:23"
+        },
+        {
+          "start_ref": "10015001",
+          "start_ref_usfm": "2SA 15:1",
+          "end_ref": "10015012",
+          "end_ref_usfm": "2SA 15:12"
+        },
+        {
+          "start_ref": "13008029",
+          "start_ref_usfm": "1CH 8:29",
+          "end_ref": "13008040",
+          "end_ref_usfm": "1CH 8:40"
+        },
+        {
+          "start_ref": "11022041",
+          "start_ref_usfm": "1KI 22:41",
+          "end_ref": "11022053",
+          "end_ref_usfm": "1KI 22:53"
+        },
+        {
+          "start_ref": "13011001",
+          "start_ref_usfm": "1CH 11:1",
+          "end_ref": "13011009",
+          "end_ref_usfm": "1CH 11:9"
+        },
+        {
+          "start_ref": "06010001",
+          "start_ref_usfm": "JOS 10:1",
+          "end_ref": "06010015",
+          "end_ref_usfm": "JOS 10:15"
+        },
+        {
+          "start_ref": "13009028",
+          "start_ref_usfm": "1CH 9:28",
+          "end_ref": "13009034",
+          "end_ref_usfm": "1CH 9:34"
+        },
+        {
+          "start_ref": "13023021",
+          "start_ref_usfm": "1CH 23:21",
+          "end_ref": "13023032",
+          "end_ref_usfm": "1CH 23:32"
+        },
+        {
+          "start_ref": "13008017",
+          "start_ref_usfm": "1CH 8:17",
+          "end_ref": "13008028",
+          "end_ref_usfm": "1CH 8:28"
+        },
+        {
+          "start_ref": "13009001",
+          "start_ref_usfm": "1CH 9:1",
+          "end_ref": "13009009",
+          "end_ref_usfm": "1CH 9:9"
+        },
+        {
+          "start_ref": "06015001",
+          "start_ref_usfm": "JOS 15:1",
+          "end_ref": "06015012",
+          "end_ref_usfm": "JOS 15:12"
+        },
+        {
+          "start_ref": "13028001",
+          "start_ref_usfm": "1CH 28:1",
+          "end_ref": "13028008",
+          "end_ref_usfm": "1CH 28:8"
         }
       ],
       "resource": [
@@ -821,24 +1183,10 @@
           "language": "eng"
         },
         {
-          "reference_id": 186472,
-          "content_id": 280052,
-          "resource_code": "Unknown",
-          "label": "worship",
-          "language": "eng"
-        },
-        {
           "reference_id": 186483,
           "content_id": 280063,
           "resource_code": "Unknown",
           "label": "temple",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186472,
-          "content_id": 341048,
-          "resource_code": "Unknown",
-          "label": "worship",
           "language": "eng"
         },
         {
@@ -849,8 +1197,43 @@
           "language": "eng"
         },
         {
+          "reference_id": 186472,
+          "content_id": 280052,
+          "resource_code": "Unknown",
+          "label": "worship",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186472,
+          "content_id": 341048,
+          "resource_code": "Unknown",
+          "label": "worship",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186627,
+          "content_id": 280207,
+          "resource_code": "Unknown",
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186627,
+          "content_id": 341229,
+          "resource_code": "Unknown",
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
           "reference_id": 186525,
           "content_id": 280105,
+          "resource_code": "Unknown",
+          "label": "Jew",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186525,
+          "content_id": 341109,
           "resource_code": "Unknown",
           "label": "Jew",
           "language": "eng"
@@ -863,27 +1246,6 @@
           "language": "eng"
         },
         {
-          "reference_id": 186627,
-          "content_id": 280207,
-          "resource_code": "Unknown",
-          "label": "Israel",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186641,
-          "content_id": 280221,
-          "resource_code": "Unknown",
-          "label": "Judea",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186525,
-          "content_id": 341109,
-          "resource_code": "Unknown",
-          "label": "Jew",
-          "language": "eng"
-        },
-        {
           "reference_id": 186557,
           "content_id": 341145,
           "resource_code": "Unknown",
@@ -891,10 +1253,24 @@
           "language": "eng"
         },
         {
-          "reference_id": 186627,
-          "content_id": 341229,
+          "reference_id": 186562,
+          "content_id": 280142,
           "resource_code": "Unknown",
-          "label": "Israel",
+          "label": "Israelite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186562,
+          "content_id": 341150,
+          "resource_code": "Unknown",
+          "label": "Israelite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186641,
+          "content_id": 280221,
+          "resource_code": "Unknown",
+          "label": "Judea",
           "language": "eng"
         },
         {
@@ -908,15 +1284,15 @@
     }
   },
   {
-    "content_id": 280105,
+    "content_id": "280105",
     "reference_id": 186525,
     "version": "1.0.1",
     "title": "Jew",
     "media_type": "Text",
     "index_reference": "jew",
     "language": "eng",
-    "review_level": "None",
-    "content": "<p><strong>Jews</strong> refers to the people who are descendants of <span data-bnType=\"resourceReference\" data-resourceId=\"186621\" data-resourceType=\"FIAKeyTerms\">Abraham</span>. In order to understand the word Jews, you first have to understand the word <span data-bnType=\"resourceReference\" data-resourceId=\"186562\" data-resourceType=\"FIAKeyTerms\">Israelites</span>.</p><p>Israelites are <span data-bnType=\"resourceReference\" data-resourceId=\"keyTerm234\" data-resourceType=\"FIAKeyTerms\">descendants</span> of Abraham. Abraham was a man who lived about 2000 years before the birth of Jesus. When Abraham was 75 years old, God spoke to him. God told him to leave behind his homeland, and to go to a place that God would show him. God said that he would <span data-bnType=\"resourceReference\" data-resourceId=\"186619\" data-resourceType=\"FIAKeyTerms\">bless</span> Abraham, that he would make a great <span data-bnType=\"resourceReference\" data-resourceId=\"186495\" data-resourceType=\"FIAKeyTerms\">nation</span> out of him, and that God would bless all the nations of the world through Abraham. Abraham obeyed God and God led him to the region that was at that time called <span data-bnType=\"resourceReference\" data-resourceId=\"186792\" data-resourceType=\"FIAKeyTerms\">Canaan</span>. God promised Abraham that God would give this land to Abraham&apos;s descendants. Abraham and his wife did not have any children, but when Abraham and his wife were already very old, God gave them a son. This was the beginning of God fulfilling his promise to Abraham.</p><p>Abraham&apos;s son Isaac had two sons, one of them was named Jacob. God later gave Jacob the name Israel. From that time onwards, all Abraham&apos;s descendants are going to be called Israelites.</p><p>Because God has made a promise to Abraham, the Israelites were God&apos;s special people. Later, God made a <span data-bnType=\"resourceReference\" data-resourceId=\"186585\" data-resourceType=\"FIAKeyTerms\">covenant</span> with them, which is a promise with a special agreement. The agreement was that the Israelites would obey all God&apos;s commandments, and God would bless them and make them a blessing for all the people on the earth.</p><p>The land where the Israelites lived was called Israel. The Israelites were ruled by <span data-bnType=\"resourceReference\" data-resourceId=\"186796\" data-resourceType=\"FIAKeyTerms\">kings</span>. At first this went well, and the kingdom of Israel became large and prosperous. But very soon, there was conflict, and the nation of Israel split in two parts. The Northern part was still called <span data-bnType=\"resourceReference\" data-resourceId=\"186627\" data-resourceType=\"FIAKeyTerms\">Israel</span>, and the Southern part was called <span data-bnType=\"resourceReference\" data-resourceId=\"186641\" data-resourceType=\"FIAKeyTerms\">Judah</span>. The northern part, Israel, was defeated by a nation called the Assyrians about 700 years before the birth of Jesus. This happened because the people were continuously disobeying God, and breaking the covenant. God allowed the king of the Assyrians to send most of the people from Israel away to foreign countries. This was the end of the northern kingdom. We never hear anything more about what happened to these people.</p><p>The kingdom of Judah lasted a little bit longer, but after some years God also punished them for their disobedience. Another foreign nation, the Babylonians, came and destroyed the city of <span data-bnType=\"resourceReference\" data-resourceId=\"186523\" data-resourceType=\"FIAKeyTerms\">Jerusalem</span>. Jerusalem was the most important city for the people of Judah because this was where the temple was where they <span data-bnType=\"resourceReference\" data-resourceId=\"186472\" data-resourceType=\"FIAKeyTerms\">worshiped</span> God. The Babylonians took many of the people from Judah to Babylon as prisoners. The people from Judah were now called Jews, which just means &quot;people from Judah.&quot;</p><p>Later, God allowed the Jews to go back to Judah, where they rebuilt the city of Jerusalem and the <span data-bnType=\"resourceReference\" data-resourceId=\"186483\" data-resourceType=\"FIAKeyTerms\">temple</span>. But Judah would never become an independent nation again. In the time of the New Testament, another nation named the Roman Empire was ruling over the area that had been Israel. What had been the southern kingdom of Judah, was now called the Roman province of Judea. What had been the northern kingdom of Israel, was now almost the same as the Roman provinces of <span data-bnType=\"resourceReference\" data-resourceId=\"keyTerm221\" data-resourceType=\"FIAKeyTerms\">Samaria</span> and <span data-bnType=\"resourceReference\" data-resourceId=\"186508\" data-resourceType=\"FIAKeyTerms\">Galilee</span>. The word &quot;Jews&quot; began to refer to all remaining descendants of Abraham, no matter where they lived.</p><p>And so, the word &quot;Israelites&quot; and the word &quot;Jews&quot; both refer to descendants of Abraham. The word &quot;Jews&quot; occurs especially in the New Testament, and in the later parts of the Old Testament.</p><p>In general, when people use the word &quot;Israelites,&quot; they may be thinking especially about the people who live in the country of Israel. And when they use the word &quot;Jews,&quot; they may be thinking especially about the people who are devoted to the God of Abraham, and who want to keep the covenant that God has made with Abraham&apos;s descendants. So, the word &quot;Jews&quot; sometimes has a more religious meaning.</p><p>In the <span data-bnType=\"resourceReference\" data-resourceId=\"186552\" data-resourceType=\"FIAKeyTerms\">Gospels</span>-the four books in the New Testament that tell us about the life of Jesus-almost all the people we meet are Jews: Jesus, his <span data-bnType=\"resourceReference\" data-resourceId=\"186630\" data-resourceType=\"FIAKeyTerms\">disciples</span>, and most of the people who listen to him are all Jews. But in the book of John the word &quot;Jew&quot; is used in a special way. When the writer of the Gospel of John talks about Jews, he particularly means the <em>religious leaders</em> of the Jews. Usually this means people who are opposed to Jesus.</p>",
+    "review_level": "Professional",
+    "content": "<p><strong>Jews</strong> refers to the people who are <span data-bnType=\"resourceReference\" data-resourceId=\"222612\" data-resourceType=\"FIAKeyTerms\">descendants</span> of Jacob. In order to understand the word Jews, you first have to understand the word Israelites.</p><p><span data-bnType=\"resourceReference\" data-resourceId=\"186562\" data-resourceType=\"FIAKeyTerms\">Israelites</span> are descendants of Jacob. <span data-bnType=\"resourceReference\" data-resourceId=\"186621\" data-resourceType=\"FIAKeyTerms\">Abraham</span>, Jacob&apos;s grandfather, was a man who lived about 2000 years before the birth of Jesus. When Abraham was 75 years old, God spoke to him. God told him to leave behind his homeland, and to go to a place that God would show him. God said that he would <span data-bnType=\"resourceReference\" data-resourceId=\"186619\" data-resourceType=\"FIAKeyTerms\">bless</span> Abraham, that he would make a great <span data-bnType=\"resourceReference\" data-resourceId=\"186495\" data-resourceType=\"FIAKeyTerms\">nation</span> out of him, and that God would bless all the nations of the world through Abraham. Abraham obeyed God and God led him to the region that we call <span data-bnType=\"resourceReference\" data-resourceId=\"186792\" data-resourceType=\"FIAKeyTerms\">Canaan</span>. God promised Abraham that God would give this land to Abraham&apos;s descendants. Abraham and his wife did not have any children, but when Abraham and his wife were already very old, God gave them a son, Isaac. This was the beginning of God fulfilling his promise to Abraham.</p><p>Abraham&apos;s son Isaac had two sons, one of them was named Jacob. God later gave Jacob the name Israel. From that time onwards, all Jacob&apos;s descendants are going to be called Israelites.</p><p>Because God had made a promise to Abraham, and then to Isaac and Jacob, the Israelites were God&apos;s special people. God made a <span data-bnType=\"resourceReference\" data-resourceId=\"186585\" data-resourceType=\"FIAKeyTerms\">covenant</span> with them, which is a promise with a special agreement. The agreement was that the Israelites would obey all God&apos;s <span data-bnType=\"resourceReference\" data-resourceId=\"222617\" data-resourceType=\"FIAKeyTerms\">commandments</span>, and God would bless them and make them a blessing for all the people on the earth.</p><p>The land where the Israelites lived was called Israel. This land was divided among the different tribes of Israel. First, people called &quot;judges&quot; ruled the Israelites. When the people asked God to give them a <span data-bnType=\"resourceReference\" data-resourceId=\"186796\" data-resourceType=\"FIAKeyTerms\">king</span>, God appointed a king to rule over them. At first this went well, and under the rule of king <span data-bnType=\"resourceReference\" data-resourceId=\"186466\" data-resourceType=\"FIAKeyTerms\">David</span> and his son Solomon the kingdom of Israel became large and prosperous. But when king Solomon died, there was conflict. Ten of the 12 tribes did not want to have the son of king Solomon as their king. They separated from the other two tribes and chose their own king.</p><p>From that time onwards, Israel was divided into parts. The northern part, with 10 tribes, was still called Israel. The southern part, with two tribes, was called <span data-bnType=\"resourceReference\" data-resourceId=\"186641\" data-resourceType=\"FIAKeyTerms\">Judah</span>. It was called Judah because the tribe of Judah was the largest of the two tribes that together formed this southern kingdom.</p><p>Each part had their own king. The nation of Assyria defeated the northern part, Israel, about 700 years before the birth of Jesus. This happened because the people were continuously disobeying God and breaking the covenant. The king of the Assyrians sent most of the people from Israel away to foreign countries. This was the end of the northern kingdom. We never hear anything more about what happened to these people.</p><p>The kingdom of Judah lasted a little bit longer, but after some years God also punished them for their disobedience. Another foreign nation, the Babylonians, came and destroyed the city of <span data-bnType=\"resourceReference\" data-resourceId=\"186523\" data-resourceType=\"FIAKeyTerms\">Jerusalem</span>, and the Babylonians took many of the people from Judah to Babylon as prisoners. The people from Judah were now called Jews, which means &quot;people from Judah.&quot; Later, God allowed the Jews to go back to Judah, where they rebuilt the city of Jerusalem and the <span data-bnType=\"resourceReference\" data-resourceId=\"186483\" data-resourceType=\"FIAKeyTerms\">temple</span>. But Judah would never become an independent kingdom again. In the time of the New Testament, another nation named Rome was ruling over the area that had been Israel. What had been the southern kingdom of Judah, was now called the Roman province of Judea. What had been the northern kingdom of Israel, was now roughly the Roman provinces of <span data-bnType=\"resourceReference\" data-resourceId=\"222606\" data-resourceType=\"FIAKeyTerms\">Samaria</span> and <span data-bnType=\"resourceReference\" data-resourceId=\"186508\" data-resourceType=\"FIAKeyTerms\">Galilee</span>. The word Jew had now begun to refer to all remaining descendants of Jacob, no matter where they lived.</p><p>And so, the word Israelites and the word Jews both refer to descendants of Jacob. The word Jews occurs especially in the New Testament, and in the later parts of the Old Testament.</p><p>In general, when people use the word Israelites, they may be thinking especially about the people who live in the country of Israel. And when they use the word Jews, they may be thinking especially about the people who are devoted to the God of Abraham, Isaac, and Jacob, and who want to keep the covenant that God has made with Jacob&apos;s descendants. So, the word Jews sometimes has a more religious meaning.</p><p>In the <span data-bnType=\"resourceReference\" data-resourceId=\"186552\" data-resourceType=\"FIAKeyTerms\">Gospels</span>-the four books in the New Testament that tell us about the life of Jesus-almost all the people we meet are Jews: Jesus, his <span data-bnType=\"resourceReference\" data-resourceId=\"186630\" data-resourceType=\"FIAKeyTerms\">disciples</span>, and most of the people who listen to him are all Jews. But in the book of John the word Jew is used in a special way. When the writer of the gospel of John talks about Jews, he often means the <em>religious leaders</em> of the Jews. Usually this means people who are opposed to Jesus.</p>",
     "associations": {
       "passage": [
         {
@@ -926,10 +1302,34 @@
           "end_ref_usfm": "ACT 9:31"
         },
         {
+          "start_ref": "44011001",
+          "start_ref_usfm": "ACT 11:1",
+          "end_ref": "44011018",
+          "end_ref_usfm": "ACT 11:18"
+        },
+        {
           "start_ref": "44011019",
           "start_ref_usfm": "ACT 11:19",
           "end_ref": "44011026",
           "end_ref_usfm": "ACT 11:26"
+        },
+        {
+          "start_ref": "44012001",
+          "start_ref_usfm": "ACT 12:1",
+          "end_ref": "44012005",
+          "end_ref_usfm": "ACT 12:5"
+        },
+        {
+          "start_ref": "44013013",
+          "start_ref_usfm": "ACT 13:13",
+          "end_ref": "44013022",
+          "end_ref_usfm": "ACT 13:22"
+        },
+        {
+          "start_ref": "44014008",
+          "start_ref_usfm": "ACT 14:8",
+          "end_ref": "44014020",
+          "end_ref_usfm": "ACT 14:20"
         },
         {
           "start_ref": "44017001",
@@ -998,6 +1398,12 @@
           "end_ref_usfm": "JHN 4:26"
         },
         {
+          "start_ref": "40027011",
+          "start_ref_usfm": "MAT 27:11",
+          "end_ref": "40027026",
+          "end_ref_usfm": "MAT 27:26"
+        },
+        {
           "start_ref": "41007001",
           "start_ref_usfm": "MRK 7:1",
           "end_ref": "41007008",
@@ -1008,6 +1414,54 @@
           "start_ref_usfm": "MRK 7:24",
           "end_ref": "41007030",
           "end_ref_usfm": "MRK 7:30"
+        },
+        {
+          "start_ref": "44004032",
+          "start_ref_usfm": "ACT 4:32",
+          "end_ref": "44004037",
+          "end_ref_usfm": "ACT 4:37"
+        },
+        {
+          "start_ref": "02030011",
+          "start_ref_usfm": "EXO 30:11",
+          "end_ref": "02030016",
+          "end_ref_usfm": "EXO 30:16"
+        },
+        {
+          "start_ref": "48002001",
+          "start_ref_usfm": "GAL 2:1",
+          "end_ref": "48002010",
+          "end_ref_usfm": "GAL 2:10"
+        },
+        {
+          "start_ref": "48002011",
+          "start_ref_usfm": "GAL 2:11",
+          "end_ref": "48002014",
+          "end_ref_usfm": "GAL 2:14"
+        },
+        {
+          "start_ref": "46010023",
+          "start_ref_usfm": "1CO 10:23",
+          "end_ref": "46011001",
+          "end_ref_usfm": "1CO 11:1"
+        },
+        {
+          "start_ref": "49002011",
+          "start_ref_usfm": "EPH 2:11",
+          "end_ref": "49002018",
+          "end_ref_usfm": "EPH 2:18"
+        },
+        {
+          "start_ref": "02023010",
+          "start_ref_usfm": "EXO 23:10",
+          "end_ref": "02023019",
+          "end_ref_usfm": "EXO 23:19"
+        },
+        {
+          "start_ref": "48002015",
+          "start_ref_usfm": "GAL 2:15",
+          "end_ref": "48002021",
+          "end_ref_usfm": "GAL 2:21"
         },
         {
           "start_ref": "44014001",
@@ -1046,6 +1500,12 @@
           "end_ref_usfm": "ACT 16:5"
         },
         {
+          "start_ref": "46001018",
+          "start_ref_usfm": "1CO 1:18",
+          "end_ref": "46001025",
+          "end_ref_usfm": "1CO 1:25"
+        },
+        {
           "start_ref": "42023001",
           "start_ref_usfm": "LUK 23:1",
           "end_ref": "42023012",
@@ -1068,6 +1528,12 @@
           "start_ref_usfm": "ACT 6:1",
           "end_ref": "44006007",
           "end_ref_usfm": "ACT 6:7"
+        },
+        {
+          "start_ref": "56001010",
+          "start_ref_usfm": "TIT 1:10",
+          "end_ref": "56001016",
+          "end_ref_usfm": "TIT 1:16"
         },
         {
           "start_ref": "44018001",
@@ -1094,10 +1560,22 @@
           "end_ref_usfm": "ACT 25:27"
         },
         {
+          "start_ref": "02003001",
+          "start_ref_usfm": "EXO 3:1",
+          "end_ref": "02003010",
+          "end_ref_usfm": "EXO 3:10"
+        },
+        {
           "start_ref": "43001019",
           "start_ref_usfm": "JHN 1:19",
           "end_ref": "43001028",
           "end_ref_usfm": "JHN 1:28"
+        },
+        {
+          "start_ref": "52002014",
+          "start_ref_usfm": "1TH 2:14",
+          "end_ref": "52002016",
+          "end_ref_usfm": "1TH 2:16"
         },
         {
           "start_ref": "43010022",
@@ -1202,6 +1680,12 @@
           "end_ref_usfm": "ACT 25:12"
         },
         {
+          "start_ref": "44013023",
+          "start_ref_usfm": "ACT 13:23",
+          "end_ref": "44013041",
+          "end_ref_usfm": "ACT 13:41"
+        },
+        {
           "start_ref": "43006052",
           "start_ref_usfm": "JHN 6:52",
           "end_ref": "43006059",
@@ -1232,31 +1716,79 @@
           "end_ref_usfm": "JHN 8:47"
         },
         {
+          "start_ref": "02034018",
+          "start_ref_usfm": "EXO 34:18",
+          "end_ref": "02034028",
+          "end_ref_usfm": "EXO 34:28"
+        },
+        {
+          "start_ref": "02036008",
+          "start_ref_usfm": "EXO 36:8",
+          "end_ref": "02036019",
+          "end_ref_usfm": "EXO 36:19"
+        },
+        {
           "start_ref": "43008048",
           "start_ref_usfm": "JHN 8:48",
           "end_ref": "43008059",
           "end_ref_usfm": "JHN 8:59"
         },
         {
+          "start_ref": "02003011",
+          "start_ref_usfm": "EXO 3:11",
+          "end_ref": "02003022",
+          "end_ref_usfm": "EXO 3:22"
+        },
+        {
+          "start_ref": "02029038",
+          "start_ref_usfm": "EXO 29:38",
+          "end_ref": "02029046",
+          "end_ref_usfm": "EXO 29:46"
+        },
+        {
           "start_ref": "44010023",
           "start_ref_usfm": "ACT 10:23",
           "end_ref": "44010033",
           "end_ref_usfm": "ACT 10:33"
+        },
+        {
+          "start_ref": "49001011",
+          "start_ref_usfm": "EPH 1:11",
+          "end_ref": "49001014",
+          "end_ref_usfm": "EPH 1:14"
+        },
+        {
+          "start_ref": "48003026",
+          "start_ref_usfm": "GAL 3:26",
+          "end_ref": "48004007",
+          "end_ref_usfm": "GAL 4:7"
+        },
+        {
+          "start_ref": "46012012",
+          "start_ref_usfm": "1CO 12:12",
+          "end_ref": "46012026",
+          "end_ref_usfm": "1CO 12:26"
+        },
+        {
+          "start_ref": "46009015",
+          "start_ref_usfm": "1CO 9:15",
+          "end_ref": "46009023",
+          "end_ref_usfm": "1CO 9:23"
         }
       ],
       "resource": [
         {
-          "reference_id": 186472,
-          "content_id": 280052,
+          "reference_id": 186466,
+          "content_id": 280046,
           "resource_code": "FIAKeyTerms",
-          "label": "worship",
+          "label": "David",
           "language": "eng"
         },
         {
-          "reference_id": 186472,
-          "content_id": 341048,
+          "reference_id": 186466,
+          "content_id": 341041,
           "resource_code": "FIAKeyTerms",
-          "label": "worship",
+          "label": "David",
           "language": "eng"
         },
         {
@@ -1267,13 +1799,6 @@
           "language": "eng"
         },
         {
-          "reference_id": 186495,
-          "content_id": 280075,
-          "resource_code": "FIAKeyTerms",
-          "label": "nation",
-          "language": "eng"
-        },
-        {
           "reference_id": 186483,
           "content_id": 341062,
           "resource_code": "FIAKeyTerms",
@@ -1281,10 +1806,17 @@
           "language": "eng"
         },
         {
-          "reference_id": 186495,
-          "content_id": 341075,
-          "resource_code": "FIAKeyTerms",
-          "label": "nation",
+          "reference_id": 186472,
+          "content_id": 280052,
+          "resource_code": "Unknown",
+          "label": "worship",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186472,
+          "content_id": 341048,
+          "resource_code": "Unknown",
+          "label": "worship",
           "language": "eng"
         },
         {
@@ -1295,10 +1827,10 @@
           "language": "eng"
         },
         {
-          "reference_id": 186523,
-          "content_id": 280103,
+          "reference_id": 186508,
+          "content_id": 341089,
           "resource_code": "FIAKeyTerms",
-          "label": "Jerusalem",
+          "label": "Galilee",
           "language": "eng"
         },
         {
@@ -1309,17 +1841,17 @@
           "language": "eng"
         },
         {
-          "reference_id": 186562,
-          "content_id": 280142,
+          "reference_id": 186552,
+          "content_id": 341139,
           "resource_code": "FIAKeyTerms",
-          "label": "Israelite",
+          "label": "gospel",
           "language": "eng"
         },
         {
-          "reference_id": 186508,
-          "content_id": 341089,
+          "reference_id": 186523,
+          "content_id": 280103,
           "resource_code": "FIAKeyTerms",
-          "label": "Galilee",
+          "label": "Jerusalem",
           "language": "eng"
         },
         {
@@ -1330,31 +1862,17 @@
           "language": "eng"
         },
         {
-          "reference_id": 186552,
-          "content_id": 341139,
+          "reference_id": 186495,
+          "content_id": 280075,
           "resource_code": "FIAKeyTerms",
-          "label": "gospel",
+          "label": "nation",
           "language": "eng"
         },
         {
-          "reference_id": 186562,
-          "content_id": 341150,
+          "reference_id": 186495,
+          "content_id": 341075,
           "resource_code": "FIAKeyTerms",
-          "label": "Israelite",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186585,
-          "content_id": 280165,
-          "resource_code": "FIAKeyTerms",
-          "label": "covenant",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186619,
-          "content_id": 280199,
-          "resource_code": "FIAKeyTerms",
-          "label": "bless",
+          "label": "nation",
           "language": "eng"
         },
         {
@@ -1365,10 +1883,38 @@
           "language": "eng"
         },
         {
-          "reference_id": 186627,
-          "content_id": 280207,
+          "reference_id": 186621,
+          "content_id": 341221,
           "resource_code": "FIAKeyTerms",
-          "label": "Israel",
+          "label": "Abraham",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186619,
+          "content_id": 280199,
+          "resource_code": "FIAKeyTerms",
+          "label": "bless",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186619,
+          "content_id": 341219,
+          "resource_code": "FIAKeyTerms",
+          "label": "bless",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186585,
+          "content_id": 280165,
+          "resource_code": "FIAKeyTerms",
+          "label": "covenant",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186585,
+          "content_id": 341181,
+          "resource_code": "FIAKeyTerms",
+          "label": "covenant",
           "language": "eng"
         },
         {
@@ -1379,8 +1925,36 @@
           "language": "eng"
         },
         {
+          "reference_id": 186630,
+          "content_id": 341232,
+          "resource_code": "FIAKeyTerms",
+          "label": "disciple",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186627,
+          "content_id": 280207,
+          "resource_code": "Unknown",
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186627,
+          "content_id": 341229,
+          "resource_code": "Unknown",
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
           "reference_id": 186641,
           "content_id": 280221,
+          "resource_code": "FIAKeyTerms",
+          "label": "Judea",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186641,
+          "content_id": 341245,
           "resource_code": "FIAKeyTerms",
           "label": "Judea",
           "language": "eng"
@@ -1393,17 +1967,45 @@
           "language": "eng"
         },
         {
-          "reference_id": 186796,
-          "content_id": 341020,
-          "resource_code": "FIAKeyTerms",
-          "label": "king",
-          "language": "eng"
-        },
-        {
           "reference_id": 186792,
           "content_id": 341095,
           "resource_code": "FIAKeyTerms",
           "label": "Canaan",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186562,
+          "content_id": 280142,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israelite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186562,
+          "content_id": 341150,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israelite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 222606,
+          "content_id": 871706,
+          "resource_code": "FIAKeyTerms",
+          "label": "Samaria",
+          "language": "eng"
+        },
+        {
+          "reference_id": 222606,
+          "content_id": 871707,
+          "resource_code": "FIAKeyTerms",
+          "label": "Samaria",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186796,
+          "content_id": 341020,
+          "resource_code": "FIAKeyTerms",
+          "label": "king",
           "language": "eng"
         },
         {
@@ -1414,60 +2016,46 @@
           "language": "eng"
         },
         {
-          "reference_id": 186585,
-          "content_id": 341181,
+          "reference_id": 222612,
+          "content_id": 871733,
           "resource_code": "FIAKeyTerms",
-          "label": "covenant",
+          "label": "descendant",
           "language": "eng"
         },
         {
-          "reference_id": 186619,
-          "content_id": 341219,
+          "reference_id": 222612,
+          "content_id": 871734,
           "resource_code": "FIAKeyTerms",
-          "label": "bless",
+          "label": "descendant",
           "language": "eng"
         },
         {
-          "reference_id": 186621,
-          "content_id": 341221,
+          "reference_id": 222617,
+          "content_id": 871754,
           "resource_code": "FIAKeyTerms",
-          "label": "Abraham",
+          "label": "commandment",
           "language": "eng"
         },
         {
-          "reference_id": 186627,
-          "content_id": 341229,
+          "reference_id": 222617,
+          "content_id": 871755,
           "resource_code": "FIAKeyTerms",
-          "label": "Israel",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186630,
-          "content_id": 341232,
-          "resource_code": "FIAKeyTerms",
-          "label": "disciple",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186641,
-          "content_id": 341245,
-          "resource_code": "FIAKeyTerms",
-          "label": "Judea",
+          "label": "commandment",
           "language": "eng"
         }
       ]
     }
   },
   {
-    "content_id": 341109,
+    "content_id": "341109",
     "reference_id": 186525,
     "version": "1.0.1",
     "title": "Jew",
     "media_type": "Audio",
     "index_reference": "jew",
     "language": "eng",
-    "review_level": "None",
-    "content": "<h3>Audio Content</h3>\n",
+    "review_level": "Professional",
+    "content": "<h3>Audio Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAKeyTerms/ENG/audio/webm/t77-jews.webm'>webm file</a> (2936219 KB)</p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAKeyTerms/ENG/audio/mp3/t77-jews.mp3'>mp3 file</a> (3860444 KB)</p>",
     "associations": {
       "passage": [
         {
@@ -1477,10 +2065,34 @@
           "end_ref_usfm": "ACT 9:31"
         },
         {
+          "start_ref": "44011001",
+          "start_ref_usfm": "ACT 11:1",
+          "end_ref": "44011018",
+          "end_ref_usfm": "ACT 11:18"
+        },
+        {
           "start_ref": "44011019",
           "start_ref_usfm": "ACT 11:19",
           "end_ref": "44011026",
           "end_ref_usfm": "ACT 11:26"
+        },
+        {
+          "start_ref": "44012001",
+          "start_ref_usfm": "ACT 12:1",
+          "end_ref": "44012005",
+          "end_ref_usfm": "ACT 12:5"
+        },
+        {
+          "start_ref": "44013013",
+          "start_ref_usfm": "ACT 13:13",
+          "end_ref": "44013022",
+          "end_ref_usfm": "ACT 13:22"
+        },
+        {
+          "start_ref": "44014008",
+          "start_ref_usfm": "ACT 14:8",
+          "end_ref": "44014020",
+          "end_ref_usfm": "ACT 14:20"
         },
         {
           "start_ref": "44017001",
@@ -1549,6 +2161,12 @@
           "end_ref_usfm": "JHN 4:26"
         },
         {
+          "start_ref": "40027011",
+          "start_ref_usfm": "MAT 27:11",
+          "end_ref": "40027026",
+          "end_ref_usfm": "MAT 27:26"
+        },
+        {
           "start_ref": "41007001",
           "start_ref_usfm": "MRK 7:1",
           "end_ref": "41007008",
@@ -1559,6 +2177,54 @@
           "start_ref_usfm": "MRK 7:24",
           "end_ref": "41007030",
           "end_ref_usfm": "MRK 7:30"
+        },
+        {
+          "start_ref": "44004032",
+          "start_ref_usfm": "ACT 4:32",
+          "end_ref": "44004037",
+          "end_ref_usfm": "ACT 4:37"
+        },
+        {
+          "start_ref": "02030011",
+          "start_ref_usfm": "EXO 30:11",
+          "end_ref": "02030016",
+          "end_ref_usfm": "EXO 30:16"
+        },
+        {
+          "start_ref": "48002001",
+          "start_ref_usfm": "GAL 2:1",
+          "end_ref": "48002010",
+          "end_ref_usfm": "GAL 2:10"
+        },
+        {
+          "start_ref": "48002011",
+          "start_ref_usfm": "GAL 2:11",
+          "end_ref": "48002014",
+          "end_ref_usfm": "GAL 2:14"
+        },
+        {
+          "start_ref": "46010023",
+          "start_ref_usfm": "1CO 10:23",
+          "end_ref": "46011001",
+          "end_ref_usfm": "1CO 11:1"
+        },
+        {
+          "start_ref": "49002011",
+          "start_ref_usfm": "EPH 2:11",
+          "end_ref": "49002018",
+          "end_ref_usfm": "EPH 2:18"
+        },
+        {
+          "start_ref": "02023010",
+          "start_ref_usfm": "EXO 23:10",
+          "end_ref": "02023019",
+          "end_ref_usfm": "EXO 23:19"
+        },
+        {
+          "start_ref": "48002015",
+          "start_ref_usfm": "GAL 2:15",
+          "end_ref": "48002021",
+          "end_ref_usfm": "GAL 2:21"
         },
         {
           "start_ref": "44014001",
@@ -1597,6 +2263,12 @@
           "end_ref_usfm": "ACT 16:5"
         },
         {
+          "start_ref": "46001018",
+          "start_ref_usfm": "1CO 1:18",
+          "end_ref": "46001025",
+          "end_ref_usfm": "1CO 1:25"
+        },
+        {
           "start_ref": "42023001",
           "start_ref_usfm": "LUK 23:1",
           "end_ref": "42023012",
@@ -1619,6 +2291,12 @@
           "start_ref_usfm": "ACT 6:1",
           "end_ref": "44006007",
           "end_ref_usfm": "ACT 6:7"
+        },
+        {
+          "start_ref": "56001010",
+          "start_ref_usfm": "TIT 1:10",
+          "end_ref": "56001016",
+          "end_ref_usfm": "TIT 1:16"
         },
         {
           "start_ref": "44018001",
@@ -1645,10 +2323,22 @@
           "end_ref_usfm": "ACT 25:27"
         },
         {
+          "start_ref": "02003001",
+          "start_ref_usfm": "EXO 3:1",
+          "end_ref": "02003010",
+          "end_ref_usfm": "EXO 3:10"
+        },
+        {
           "start_ref": "43001019",
           "start_ref_usfm": "JHN 1:19",
           "end_ref": "43001028",
           "end_ref_usfm": "JHN 1:28"
+        },
+        {
+          "start_ref": "52002014",
+          "start_ref_usfm": "1TH 2:14",
+          "end_ref": "52002016",
+          "end_ref_usfm": "1TH 2:16"
         },
         {
           "start_ref": "43010022",
@@ -1753,6 +2443,12 @@
           "end_ref_usfm": "ACT 25:12"
         },
         {
+          "start_ref": "44013023",
+          "start_ref_usfm": "ACT 13:23",
+          "end_ref": "44013041",
+          "end_ref_usfm": "ACT 13:41"
+        },
+        {
           "start_ref": "43006052",
           "start_ref_usfm": "JHN 6:52",
           "end_ref": "43006059",
@@ -1783,19 +2479,95 @@
           "end_ref_usfm": "JHN 8:47"
         },
         {
+          "start_ref": "02034018",
+          "start_ref_usfm": "EXO 34:18",
+          "end_ref": "02034028",
+          "end_ref_usfm": "EXO 34:28"
+        },
+        {
+          "start_ref": "02036008",
+          "start_ref_usfm": "EXO 36:8",
+          "end_ref": "02036019",
+          "end_ref_usfm": "EXO 36:19"
+        },
+        {
           "start_ref": "43008048",
           "start_ref_usfm": "JHN 8:48",
           "end_ref": "43008059",
           "end_ref_usfm": "JHN 8:59"
         },
         {
+          "start_ref": "02003011",
+          "start_ref_usfm": "EXO 3:11",
+          "end_ref": "02003022",
+          "end_ref_usfm": "EXO 3:22"
+        },
+        {
+          "start_ref": "02029038",
+          "start_ref_usfm": "EXO 29:38",
+          "end_ref": "02029046",
+          "end_ref_usfm": "EXO 29:46"
+        },
+        {
           "start_ref": "44010023",
           "start_ref_usfm": "ACT 10:23",
           "end_ref": "44010033",
           "end_ref_usfm": "ACT 10:33"
+        },
+        {
+          "start_ref": "49001011",
+          "start_ref_usfm": "EPH 1:11",
+          "end_ref": "49001014",
+          "end_ref_usfm": "EPH 1:14"
+        },
+        {
+          "start_ref": "48003026",
+          "start_ref_usfm": "GAL 3:26",
+          "end_ref": "48004007",
+          "end_ref_usfm": "GAL 4:7"
+        },
+        {
+          "start_ref": "46012012",
+          "start_ref_usfm": "1CO 12:12",
+          "end_ref": "46012026",
+          "end_ref_usfm": "1CO 12:26"
+        },
+        {
+          "start_ref": "46009015",
+          "start_ref_usfm": "1CO 9:15",
+          "end_ref": "46009023",
+          "end_ref_usfm": "1CO 9:23"
         }
       ],
       "resource": [
+        {
+          "reference_id": 186466,
+          "content_id": 280046,
+          "resource_code": "Unknown",
+          "label": "David",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186466,
+          "content_id": 341041,
+          "resource_code": "Unknown",
+          "label": "David",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186483,
+          "content_id": 280063,
+          "resource_code": "Unknown",
+          "label": "temple",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186483,
+          "content_id": 341062,
+          "resource_code": "Unknown",
+          "label": "temple",
+          "language": "eng"
+        },
         {
           "reference_id": 186472,
           "content_id": 280052,
@@ -1811,59 +2583,10 @@
           "language": "eng"
         },
         {
-          "reference_id": 186483,
-          "content_id": 280063,
-          "resource_code": "Unknown",
-          "label": "temple",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186495,
-          "content_id": 280075,
-          "resource_code": "Unknown",
-          "label": "nation",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186483,
-          "content_id": 341062,
-          "resource_code": "Unknown",
-          "label": "temple",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186495,
-          "content_id": 341075,
-          "resource_code": "Unknown",
-          "label": "nation",
-          "language": "eng"
-        },
-        {
           "reference_id": 186508,
           "content_id": 280088,
           "resource_code": "Unknown",
           "label": "Galilee",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186523,
-          "content_id": 280103,
-          "resource_code": "Unknown",
-          "label": "Jerusalem",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186552,
-          "content_id": 280132,
-          "resource_code": "Unknown",
-          "label": "gospel",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186562,
-          "content_id": 280142,
-          "resource_code": "Unknown",
-          "label": "Israelite",
           "language": "eng"
         },
         {
@@ -1874,10 +2597,10 @@
           "language": "eng"
         },
         {
-          "reference_id": 186523,
-          "content_id": 341106,
+          "reference_id": 186552,
+          "content_id": 280132,
           "resource_code": "Unknown",
-          "label": "Jerusalem",
+          "label": "gospel",
           "language": "eng"
         },
         {
@@ -1888,24 +2611,31 @@
           "language": "eng"
         },
         {
-          "reference_id": 186562,
-          "content_id": 341150,
+          "reference_id": 186523,
+          "content_id": 280103,
           "resource_code": "Unknown",
-          "label": "Israelite",
+          "label": "Jerusalem",
           "language": "eng"
         },
         {
-          "reference_id": 186585,
-          "content_id": 280165,
+          "reference_id": 186523,
+          "content_id": 341106,
           "resource_code": "Unknown",
-          "label": "covenant",
+          "label": "Jerusalem",
           "language": "eng"
         },
         {
-          "reference_id": 186619,
-          "content_id": 280199,
+          "reference_id": 186495,
+          "content_id": 280075,
           "resource_code": "Unknown",
-          "label": "bless",
+          "label": "nation",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186495,
+          "content_id": 341075,
+          "resource_code": "Unknown",
+          "label": "nation",
           "language": "eng"
         },
         {
@@ -1916,10 +2646,38 @@
           "language": "eng"
         },
         {
-          "reference_id": 186627,
-          "content_id": 280207,
+          "reference_id": 186621,
+          "content_id": 341221,
           "resource_code": "Unknown",
-          "label": "Israel",
+          "label": "Abraham",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186619,
+          "content_id": 280199,
+          "resource_code": "Unknown",
+          "label": "bless",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186619,
+          "content_id": 341219,
+          "resource_code": "Unknown",
+          "label": "bless",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186585,
+          "content_id": 280165,
+          "resource_code": "Unknown",
+          "label": "covenant",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186585,
+          "content_id": 341181,
+          "resource_code": "Unknown",
+          "label": "covenant",
           "language": "eng"
         },
         {
@@ -1930,8 +2688,36 @@
           "language": "eng"
         },
         {
+          "reference_id": 186630,
+          "content_id": 341232,
+          "resource_code": "Unknown",
+          "label": "disciple",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186627,
+          "content_id": 280207,
+          "resource_code": "Unknown",
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186627,
+          "content_id": 341229,
+          "resource_code": "Unknown",
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
           "reference_id": 186641,
           "content_id": 280221,
+          "resource_code": "Unknown",
+          "label": "Judea",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186641,
+          "content_id": 341245,
           "resource_code": "Unknown",
           "label": "Judea",
           "language": "eng"
@@ -1944,13 +2730,6 @@
           "language": "eng"
         },
         {
-          "reference_id": 186796,
-          "content_id": 341020,
-          "resource_code": "Unknown",
-          "label": "king",
-          "language": "eng"
-        },
-        {
           "reference_id": 186792,
           "content_id": 341095,
           "resource_code": "Unknown",
@@ -1958,6 +2737,41 @@
           "language": "eng"
         },
         {
+          "reference_id": 186562,
+          "content_id": 280142,
+          "resource_code": "Unknown",
+          "label": "Israelite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186562,
+          "content_id": 341150,
+          "resource_code": "Unknown",
+          "label": "Israelite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 222606,
+          "content_id": 871706,
+          "resource_code": "Unknown",
+          "label": "Samaria",
+          "language": "eng"
+        },
+        {
+          "reference_id": 222606,
+          "content_id": 871707,
+          "resource_code": "Unknown",
+          "label": "Samaria",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186796,
+          "content_id": 341020,
+          "resource_code": "Unknown",
+          "label": "king",
+          "language": "eng"
+        },
+        {
           "reference_id": 186796,
           "content_id": 341119,
           "resource_code": "Unknown",
@@ -1965,60 +2779,46 @@
           "language": "eng"
         },
         {
-          "reference_id": 186585,
-          "content_id": 341181,
+          "reference_id": 222612,
+          "content_id": 871733,
           "resource_code": "Unknown",
-          "label": "covenant",
+          "label": "descendant",
           "language": "eng"
         },
         {
-          "reference_id": 186619,
-          "content_id": 341219,
+          "reference_id": 222612,
+          "content_id": 871734,
           "resource_code": "Unknown",
-          "label": "bless",
+          "label": "descendant",
           "language": "eng"
         },
         {
-          "reference_id": 186621,
-          "content_id": 341221,
+          "reference_id": 222617,
+          "content_id": 871754,
           "resource_code": "Unknown",
-          "label": "Abraham",
+          "label": "commandment",
           "language": "eng"
         },
         {
-          "reference_id": 186627,
-          "content_id": 341229,
+          "reference_id": 222617,
+          "content_id": 871755,
           "resource_code": "Unknown",
-          "label": "Israel",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186630,
-          "content_id": 341232,
-          "resource_code": "Unknown",
-          "label": "disciple",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186641,
-          "content_id": 341245,
-          "resource_code": "Unknown",
-          "label": "Judea",
+          "label": "commandment",
           "language": "eng"
         }
       ]
     }
   },
   {
-    "content_id": 280163,
+    "content_id": "280163",
     "reference_id": 186583,
     "version": "1.0.1",
     "title": "John",
     "media_type": "Text",
     "index_reference": "john",
     "language": "eng",
-    "review_level": "None",
-    "content": "<p><strong>John</strong> was one of the <span data-bnType=\"resourceReference\" data-resourceId=\"186630\" data-resourceType=\"FIAKeyTerms\">disciples</span> of Jesus. He was the brother of <span data-bnType=\"resourceReference\" data-resourceId=\"186538\" data-resourceType=\"FIAKeyTerms\">James</span>, another disciple, and their father&apos;s name was Zebedee. James and John were fishermen before Jesus called them to become his disciples. Together with Peter, another disciple, these three men were often with Jesus at special times, even when other disciples were not there.</p><p>At one time, Jesus called James and his brother John &quot;sons of thunder.&quot; It could be that Jesus gave them this name because they had a temper, and got angry quickly. But we do not know for sure.</p><p>The disciple John is probably also the writer of the <span data-bnType=\"resourceReference\" data-resourceId=\"186552\" data-resourceType=\"FIAKeyTerms\">gospel</span> of John, the epistles of John, and Revelation-all books in the New Testament. He probably lived the longest of all the disciples of Jesus. When he was already quite old, the Roman authorities sent him as a prisoner to an island called Patmos, where God gave him the visions that we can hear about in the book Revelation.</p>",
+    "review_level": "Professional",
+    "content": "<p><strong>John</strong> was one of the <span data-bnType=\"resourceReference\" data-resourceId=\"186630\" data-resourceType=\"FIAKeyTerms\">disciples</span> of Jesus. He was the brother of <span data-bnType=\"resourceReference\" data-resourceId=\"186538\" data-resourceType=\"FIAKeyTerms\">James</span>, another disciple, and their father&apos;s name was Zebedee. James and John were fishermen before Jesus called them to become his disciples. Together with Peter, another disciple, these three men were often with Jesus at special times, even when other disciples were not there.</p><p>At one time, Jesus called James and his brother John &quot;sons of thunder.&quot; It could be that Jesus gave them this name because they had a temper, and got angry quickly. But we do not know for sure.</p><p>The disciple John is probably also the writer of the <span data-bnType=\"resourceReference\" data-resourceId=\"186552\" data-resourceType=\"FIAKeyTerms\">Gospel</span> of John, the epistles of John, and Revelation-all books in the New Testament. He probably lived the longest of all the disciples of Jesus. When he was already quite old, the Roman authorities sent him as a prisoner to an island called Patmos, where God gave him the <span data-bnType=\"resourceReference\" data-resourceId=\"186514\" data-resourceType=\"FIAKeyTerms\">visions</span> that we can hear about in the book Revelation.</p>",
     "associations": {
       "passage": [
         {
@@ -2029,6 +2829,34 @@
         }
       ],
       "resource": [
+        {
+          "reference_id": 186514,
+          "content_id": 280094,
+          "resource_code": "FIAKeyTerms",
+          "label": "vision",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186514,
+          "content_id": 341097,
+          "resource_code": "FIAKeyTerms",
+          "label": "vision",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186552,
+          "content_id": 280132,
+          "resource_code": "FIAKeyTerms",
+          "label": "gospel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186552,
+          "content_id": 341139,
+          "resource_code": "FIAKeyTerms",
+          "label": "gospel",
+          "language": "eng"
+        },
         {
           "reference_id": 186538,
           "content_id": 280118,
@@ -2044,24 +2872,10 @@
           "language": "eng"
         },
         {
-          "reference_id": 186552,
-          "content_id": 280132,
-          "resource_code": "FIAKeyTerms",
-          "label": "gospel",
-          "language": "eng"
-        },
-        {
           "reference_id": 186630,
           "content_id": 280210,
           "resource_code": "FIAKeyTerms",
           "label": "disciple",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186552,
-          "content_id": 341139,
-          "resource_code": "FIAKeyTerms",
-          "label": "gospel",
           "language": "eng"
         },
         {
@@ -2075,15 +2889,15 @@
     }
   },
   {
-    "content_id": 341179,
+    "content_id": "341179",
     "reference_id": 186583,
     "version": "1.0.1",
     "title": "John",
     "media_type": "Audio",
     "index_reference": "john",
     "language": "eng",
-    "review_level": "None",
-    "content": "<h3>Audio Content</h3>\n",
+    "review_level": "Professional",
+    "content": "<h3>Audio Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAKeyTerms/ENG/audio/webm/t78-john.webm'>webm file</a> (544400 KB)</p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAKeyTerms/ENG/audio/mp3/t78-john.mp3'>mp3 file</a> (723260 KB)</p>",
     "associations": {
       "passage": [
         {
@@ -2094,6 +2908,34 @@
         }
       ],
       "resource": [
+        {
+          "reference_id": 186514,
+          "content_id": 280094,
+          "resource_code": "Unknown",
+          "label": "vision",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186514,
+          "content_id": 341097,
+          "resource_code": "Unknown",
+          "label": "vision",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186552,
+          "content_id": 280132,
+          "resource_code": "Unknown",
+          "label": "gospel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186552,
+          "content_id": 341139,
+          "resource_code": "Unknown",
+          "label": "gospel",
+          "language": "eng"
+        },
         {
           "reference_id": 186538,
           "content_id": 280118,
@@ -2109,24 +2951,10 @@
           "language": "eng"
         },
         {
-          "reference_id": 186552,
-          "content_id": 280132,
-          "resource_code": "Unknown",
-          "label": "gospel",
-          "language": "eng"
-        },
-        {
           "reference_id": 186630,
           "content_id": 280210,
           "resource_code": "Unknown",
           "label": "disciple",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186552,
-          "content_id": 341139,
-          "resource_code": "Unknown",
-          "label": "gospel",
           "language": "eng"
         },
         {
@@ -2140,15 +2968,15 @@
     }
   },
   {
-    "content_id": 280048,
+    "content_id": "280048",
     "reference_id": 186468,
     "version": "1.0.1",
     "title": "John the Baptist",
     "media_type": "Text",
     "index_reference": "john the baptist",
     "language": "eng",
-    "review_level": "None",
-    "content": "<p><strong>John the baptizer</strong>, or <strong>John the Baptist</strong>, was the person who told the people to <span data-bnType=\"resourceReference\" data-resourceId=\"186596\" data-resourceType=\"FIAKeyTerms\">repent</span> of their <span data-bnType=\"resourceReference\" data-resourceId=\"186477\" data-resourceType=\"FIAKeyTerms\">sins</span> and to take a special bath called <span data-bnType=\"resourceReference\" data-resourceId=\"186554\" data-resourceType=\"FIAKeyTerms\">baptism</span> as a sign of their repentance. John did this shortly before Jesus began his own work.</p><p>John&apos;s parents were Zechariah and <span data-bnType=\"resourceReference\" data-resourceId=\"186635\" data-resourceType=\"FIAKeyTerms\">Elizabeth</span>. John&apos;s birth was quite special. His parents were already very old when he was born. John was their only child.</p><p>John&apos;s father, Zechariah, was a <span data-bnType=\"resourceReference\" data-resourceId=\"186614\" data-resourceType=\"FIAKeyTerms\">priest</span> and served God in the <span data-bnType=\"resourceReference\" data-resourceId=\"186483\" data-resourceType=\"FIAKeyTerms\">temple</span> in <span data-bnType=\"resourceReference\" data-resourceId=\"186523\" data-resourceType=\"FIAKeyTerms\">Jerusalem</span>. One time, when Zechariah was in the temple, an <span data-bnType=\"resourceReference\" data-resourceId=\"186498\" data-resourceType=\"FIAKeyTerms\">angel</span> appeared to Zechariah and told him that his wife Elizabeth would have a son. This son would be a servant of God like the prophet <span data-bnType=\"resourceReference\" data-resourceId=\"186548\" data-resourceType=\"FIAKeyTerms\">Elijah</span> had been, and he would tell the people of Israel to <span data-bnType=\"resourceReference\" data-resourceId=\"186596\" data-resourceType=\"FIAKeyTerms\">repent</span>, in order to prepare the people to receive God. Zechariah could not believe that what the angel said was true, because Zechariah and his wife Elizabeth were already so old. Because Zechariah did not believe the angel, the angel told Zechariah that he would be unable to speak until after the birth of the child.</p><p>And of course, it happened exactly as the angel had said. Elizabeth became pregnant, even though she was already so old. She gave birth to John.</p><p>When John grew up, he went to live in the <span data-bnType=\"resourceReference\" data-resourceId=\"186564\" data-resourceType=\"FIAKeyTerms\">wilderness</span>, in a lonely place away from people, near the <span data-bnType=\"resourceReference\" data-resourceId=\"186590\" data-resourceType=\"FIAKeyTerms\">Jordan River</span>. He ate only what was available in the wilderness-honey and locusts. He wore very simple clothes made out of rough camel hair. By looking at his clothes, people were reminded of the prophet Elijah. And many people came to John to listen to what he had to say. John told the people that another person would come after him, who was much more important than John was. John was preparing the people to receive this person, by telling them to repent of their sins and to start obeying God. The person that John was talking about was Jesus.</p><p>John told the people to take a special bath named <span data-bnType=\"resourceReference\" data-resourceId=\"186554\" data-resourceType=\"FIAKeyTerms\">baptism</span>. This was a ritual that showed the people that they really repented from their sins. Sometimes, people who were not Jews but still wanted to follow God, took baptism. But John told them that they <em>all</em> had to take baptism! Even though the people were <span data-bnType=\"resourceReference\" data-resourceId=\"186525\" data-resourceType=\"FIAKeyTerms\">Jews</span>, and therefore God&apos;s special people, they still did many wrong things and needed to repent. They needed to tell God that they felt sorry for disobeying God, and that they wanted to change.</p><p>Without any fear, John the baptizer told the people openly what they did wrong. The religious teachers of the Jews did not like John. During this time, King Herod Antipas was ruling over <span data-bnType=\"resourceReference\" data-resourceId=\"186641\" data-resourceType=\"FIAKeyTerms\">Judea</span>. This was a son of the King Herod who had tried to kill Jesus when he was a baby. Herod Antipas was living together with the wife of his brother, and John openly told him that this was wrong. This woman was angry with John because of this, and tried to kill him, but King Herod had respect for John and did not want to kill him. But the <span data-bnType=\"resourceReference\" data-resourceId=\"186796\" data-resourceType=\"FIAKeyTerms\">king</span> did put John in prison, and one time during a party, the king&apos;s wife tricked king Herod, and he was forced to have John killed. The king&apos;s soldiers cut off John&apos;s head to kill him.</p><p>John the baptizer was a relative of Jesus. His mother Elizabeth was a cousin of Jesus&apos;s mother Mary.</p>",
+    "review_level": "Professional",
+    "content": "<p><strong>John the baptizer</strong>, or <strong>John the Baptist</strong>, was the person who told the people to <span data-bnType=\"resourceReference\" data-resourceId=\"186596\" data-resourceType=\"FIAKeyTerms\">repent</span> of their <span data-bnType=\"resourceReference\" data-resourceId=\"186477\" data-resourceType=\"FIAKeyTerms\">sins</span> and to take a special bath called <span data-bnType=\"resourceReference\" data-resourceId=\"186554\" data-resourceType=\"FIAKeyTerms\">baptism</span> as a sign of their repentance. John did this shortly before Jesus began his own work.</p><p>John&apos;s parents were Zechariah and <span data-bnType=\"resourceReference\" data-resourceId=\"186635\" data-resourceType=\"FIAKeyTerms\">Elizabeth</span>. John&apos;s birth was quite special. His parents were already very old when he was born. John was their only child.</p><p>John&apos;s father, Zechariah, was a <span data-bnType=\"resourceReference\" data-resourceId=\"186614\" data-resourceType=\"FIAKeyTerms\">priest</span> and served God in the <span data-bnType=\"resourceReference\" data-resourceId=\"186483\" data-resourceType=\"FIAKeyTerms\">temple</span> in <span data-bnType=\"resourceReference\" data-resourceId=\"186523\" data-resourceType=\"FIAKeyTerms\">Jerusalem</span>. One time, when Zechariah was in the temple, an <span data-bnType=\"resourceReference\" data-resourceId=\"186498\" data-resourceType=\"FIAKeyTerms\">angel</span> appeared to Zechariah and told him that his wife Elizabeth would have a son. This son would be a servant of God like the <span data-bnType=\"resourceReference\" data-resourceId=\"186511\" data-resourceType=\"FIAKeyTerms\">prophet</span> <span data-bnType=\"resourceReference\" data-resourceId=\"186548\" data-resourceType=\"FIAKeyTerms\">Elijah</span> had been, and he would tell the people of <span data-bnType=\"resourceReference\" data-resourceId=\"186627\" data-resourceType=\"FIAKeyTerms\">Israel</span> to repent, in order to prepare the people to receive God. Zechariah could not <span data-bnType=\"resourceReference\" data-resourceId=\"186484\" data-resourceType=\"FIAKeyTerms\">believe</span> that what the angel said was true, because Zechariah and his wife Elizabeth were already so old. Because Zechariah did not believe the angel, the angel told Zechariah that he would be unable to speak until after the birth of the child.</p><p>And of course, it happened exactly as the angel had said. Elizabeth became pregnant, even though she was already so old. She gave birth to John.</p><p>When John grew up, he went to live in the <span data-bnType=\"resourceReference\" data-resourceId=\"186564\" data-resourceType=\"FIAKeyTerms\">wilderness</span>, in a lonely place away from people, near the <span data-bnType=\"resourceReference\" data-resourceId=\"186590\" data-resourceType=\"FIAKeyTerms\">Jordan River</span>. He ate only what was available in the wilderness-honey and locusts. He wore very simple clothes made out of rough <span data-bnType=\"resourceReference\" data-resourceId=\"186591\" data-resourceType=\"FIAKeyTerms\">camel</span> hair. By looking at his clothes, people were reminded of the prophet Elijah. And many people came to John to listen to what he had to say. John told the people that another person would come after him, who was much more important than John was. John was preparing the people to receive this person, by telling them to repent of their sins and to start obeying God. The person that John was talking about was Jesus.</p><p>John told the people to take a special bath named baptism. This was a ritual that showed the people that they really repented from their sins. Sometimes, people who were not Jews but still wanted to follow God, took baptism. But John told them that they <em>all</em> had to take baptism! Even though the people were <span data-bnType=\"resourceReference\" data-resourceId=\"186525\" data-resourceType=\"FIAKeyTerms\">Jews</span>, and therefore God&apos;s special people, they still did many wrong things and needed to repent. They needed to tell God that they felt sorry for disobeying God, and that they wanted to change.</p><p>Without any fear, John the baptizer told the people openly what they did wrong. The religious teachers of the Jews did not like John. During this time, King Herod Antipas was ruling over <span data-bnType=\"resourceReference\" data-resourceId=\"186641\" data-resourceType=\"FIAKeyTerms\">Judea</span>. This was a son of the King Herod who had tried to kill Jesus when he was a baby. Herod Antipas was living together with the wife of his brother, and John openly told him that this was wrong. This woman was angry with John because of this, and tried to kill him, but King Herod had respect for John and did not want to kill him. But the <span data-bnType=\"resourceReference\" data-resourceId=\"186796\" data-resourceType=\"FIAKeyTerms\">king</span> did put John in prison, and one time during a party, the king&apos;s wife tricked king Herod, and he was forced to have John killed. The king&apos;s soldiers cut off John&apos;s head to kill him.</p><p>John the baptizer was a relative of Jesus. His mother Elizabeth was a cousin of Jesus&apos;s mother <span data-bnType=\"resourceReference\" data-resourceId=\"186570\" data-resourceType=\"FIAKeyTerms\">Mary</span>.</p>",
     "associations": {
       "passage": [
         {
@@ -2170,16 +2998,40 @@
           "end_ref_usfm": "LUK 1:80"
         },
         {
+          "start_ref": "40014001",
+          "start_ref_usfm": "MAT 14:1",
+          "end_ref": "40014012",
+          "end_ref_usfm": "MAT 14:12"
+        },
+        {
           "start_ref": "40016013",
           "start_ref_usfm": "MAT 16:13",
           "end_ref": "40016020",
           "end_ref_usfm": "MAT 16:20"
         },
         {
+          "start_ref": "40017001",
+          "start_ref_usfm": "MAT 17:1",
+          "end_ref": "40017013",
+          "end_ref_usfm": "MAT 17:13"
+        },
+        {
           "start_ref": "41008027",
           "start_ref_usfm": "MRK 8:27",
           "end_ref": "41008030",
           "end_ref_usfm": "MRK 8:30"
+        },
+        {
+          "start_ref": "40009014",
+          "start_ref_usfm": "MAT 9:14",
+          "end_ref": "40009017",
+          "end_ref_usfm": "MAT 9:17"
+        },
+        {
+          "start_ref": "40011007",
+          "start_ref_usfm": "MAT 11:7",
+          "end_ref": "40011019",
+          "end_ref_usfm": "MAT 11:19"
         },
         {
           "start_ref": "43010022",
@@ -2210,8 +3062,29 @@
           "language": "eng"
         },
         {
+          "reference_id": 186484,
+          "content_id": 280064,
+          "resource_code": "FIAKeyTerms",
+          "label": "belief",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186484,
+          "content_id": 341064,
+          "resource_code": "FIAKeyTerms",
+          "label": "belief",
+          "language": "eng"
+        },
+        {
           "reference_id": 186483,
           "content_id": 280063,
+          "resource_code": "FIAKeyTerms",
+          "label": "temple",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186483,
+          "content_id": 341062,
           "resource_code": "FIAKeyTerms",
           "label": "temple",
           "language": "eng"
@@ -2221,13 +3094,6 @@
           "content_id": 280078,
           "resource_code": "FIAKeyTerms",
           "label": "angel",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186483,
-          "content_id": 341062,
-          "resource_code": "FIAKeyTerms",
-          "label": "temple",
           "language": "eng"
         },
         {
@@ -2245,31 +3111,17 @@
           "language": "eng"
         },
         {
-          "reference_id": 186525,
-          "content_id": 280105,
-          "resource_code": "FIAKeyTerms",
-          "label": "Jew",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186548,
-          "content_id": 280128,
-          "resource_code": "FIAKeyTerms",
-          "label": "Elijah",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186554,
-          "content_id": 280134,
-          "resource_code": "FIAKeyTerms",
-          "label": "baptism",
-          "language": "eng"
-        },
-        {
           "reference_id": 186523,
           "content_id": 341106,
           "resource_code": "FIAKeyTerms",
           "label": "Jerusalem",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186525,
+          "content_id": 280105,
+          "resource_code": "FIAKeyTerms",
+          "label": "Jew",
           "language": "eng"
         },
         {
@@ -2280,10 +3132,24 @@
           "language": "eng"
         },
         {
-          "reference_id": 186548,
-          "content_id": 341135,
+          "reference_id": 186511,
+          "content_id": 280091,
           "resource_code": "FIAKeyTerms",
-          "label": "Elijah",
+          "label": "prophet",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186511,
+          "content_id": 341093,
+          "resource_code": "FIAKeyTerms",
+          "label": "prophet",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186554,
+          "content_id": 280134,
+          "resource_code": "FIAKeyTerms",
+          "label": "baptism",
           "language": "eng"
         },
         {
@@ -2294,10 +3160,31 @@
           "language": "eng"
         },
         {
-          "reference_id": 186564,
-          "content_id": 280144,
+          "reference_id": 186591,
+          "content_id": 280171,
           "resource_code": "FIAKeyTerms",
-          "label": "wilderness",
+          "label": "camel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186591,
+          "content_id": 341187,
+          "resource_code": "FIAKeyTerms",
+          "label": "camel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186548,
+          "content_id": 280128,
+          "resource_code": "FIAKeyTerms",
+          "label": "Elijah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186548,
+          "content_id": 341135,
+          "resource_code": "FIAKeyTerms",
+          "label": "Elijah",
           "language": "eng"
         },
         {
@@ -2308,10 +3195,24 @@
           "language": "eng"
         },
         {
-          "reference_id": 186596,
-          "content_id": 280176,
+          "reference_id": 186590,
+          "content_id": 341186,
           "resource_code": "FIAKeyTerms",
-          "label": "repentance",
+          "label": "Jordan River",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186570,
+          "content_id": 280150,
+          "resource_code": "FIAKeyTerms",
+          "label": "Mary",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186570,
+          "content_id": 341162,
+          "resource_code": "FIAKeyTerms",
+          "label": "Mary",
           "language": "eng"
         },
         {
@@ -2322,6 +3223,41 @@
           "language": "eng"
         },
         {
+          "reference_id": 186614,
+          "content_id": 341214,
+          "resource_code": "FIAKeyTerms",
+          "label": "priest",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186596,
+          "content_id": 280176,
+          "resource_code": "FIAKeyTerms",
+          "label": "repentance",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186596,
+          "content_id": 341192,
+          "resource_code": "FIAKeyTerms",
+          "label": "repentance",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186564,
+          "content_id": 280144,
+          "resource_code": "FIAKeyTerms",
+          "label": "wilderness",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186564,
+          "content_id": 341155,
+          "resource_code": "FIAKeyTerms",
+          "label": "wilderness",
+          "language": "eng"
+        },
+        {
           "reference_id": 186635,
           "content_id": 280215,
           "resource_code": "FIAKeyTerms",
@@ -2329,8 +3265,36 @@
           "language": "eng"
         },
         {
+          "reference_id": 186635,
+          "content_id": 341237,
+          "resource_code": "FIAKeyTerms",
+          "label": "Elizabeth",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186627,
+          "content_id": 280207,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186627,
+          "content_id": 341229,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
           "reference_id": 186641,
           "content_id": 280221,
+          "resource_code": "FIAKeyTerms",
+          "label": "Judea",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186641,
+          "content_id": 341245,
           "resource_code": "FIAKeyTerms",
           "label": "Judea",
           "language": "eng"
@@ -2348,62 +3312,20 @@
           "resource_code": "FIAKeyTerms",
           "label": "king",
           "language": "eng"
-        },
-        {
-          "reference_id": 186564,
-          "content_id": 341155,
-          "resource_code": "FIAKeyTerms",
-          "label": "wilderness",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186590,
-          "content_id": 341186,
-          "resource_code": "FIAKeyTerms",
-          "label": "Jordan River",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186596,
-          "content_id": 341192,
-          "resource_code": "FIAKeyTerms",
-          "label": "repentance",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186614,
-          "content_id": 341214,
-          "resource_code": "FIAKeyTerms",
-          "label": "priest",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186635,
-          "content_id": 341237,
-          "resource_code": "FIAKeyTerms",
-          "label": "Elizabeth",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186641,
-          "content_id": 341245,
-          "resource_code": "FIAKeyTerms",
-          "label": "Judea",
-          "language": "eng"
         }
       ]
     }
   },
   {
-    "content_id": 341043,
+    "content_id": "341043",
     "reference_id": 186468,
     "version": "1.0.1",
     "title": "John the Baptist",
     "media_type": "Audio",
     "index_reference": "john the baptist",
     "language": "eng",
-    "review_level": "None",
-    "content": "<h3>Audio Content</h3>\n",
+    "review_level": "Professional",
+    "content": "<h3>Audio Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAKeyTerms/ENG/audio/webm/t79-john-the-baptist.webm'>webm file</a> (1828197 KB)</p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAKeyTerms/ENG/audio/mp3/t79-john-the-baptist.mp3'>mp3 file</a> (2422388 KB)</p>",
     "associations": {
       "passage": [
         {
@@ -2425,16 +3347,40 @@
           "end_ref_usfm": "LUK 1:80"
         },
         {
+          "start_ref": "40014001",
+          "start_ref_usfm": "MAT 14:1",
+          "end_ref": "40014012",
+          "end_ref_usfm": "MAT 14:12"
+        },
+        {
           "start_ref": "40016013",
           "start_ref_usfm": "MAT 16:13",
           "end_ref": "40016020",
           "end_ref_usfm": "MAT 16:20"
         },
         {
+          "start_ref": "40017001",
+          "start_ref_usfm": "MAT 17:1",
+          "end_ref": "40017013",
+          "end_ref_usfm": "MAT 17:13"
+        },
+        {
           "start_ref": "41008027",
           "start_ref_usfm": "MRK 8:27",
           "end_ref": "41008030",
           "end_ref_usfm": "MRK 8:30"
+        },
+        {
+          "start_ref": "40009014",
+          "start_ref_usfm": "MAT 9:14",
+          "end_ref": "40009017",
+          "end_ref_usfm": "MAT 9:17"
+        },
+        {
+          "start_ref": "40011007",
+          "start_ref_usfm": "MAT 11:7",
+          "end_ref": "40011019",
+          "end_ref_usfm": "MAT 11:19"
         },
         {
           "start_ref": "43010022",
@@ -2465,8 +3411,29 @@
           "language": "eng"
         },
         {
+          "reference_id": 186484,
+          "content_id": 280064,
+          "resource_code": "Unknown",
+          "label": "belief",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186484,
+          "content_id": 341064,
+          "resource_code": "Unknown",
+          "label": "belief",
+          "language": "eng"
+        },
+        {
           "reference_id": 186483,
           "content_id": 280063,
+          "resource_code": "Unknown",
+          "label": "temple",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186483,
+          "content_id": 341062,
           "resource_code": "Unknown",
           "label": "temple",
           "language": "eng"
@@ -2476,13 +3443,6 @@
           "content_id": 280078,
           "resource_code": "Unknown",
           "label": "angel",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186483,
-          "content_id": 341062,
-          "resource_code": "Unknown",
-          "label": "temple",
           "language": "eng"
         },
         {
@@ -2500,31 +3460,17 @@
           "language": "eng"
         },
         {
-          "reference_id": 186525,
-          "content_id": 280105,
-          "resource_code": "Unknown",
-          "label": "Jew",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186548,
-          "content_id": 280128,
-          "resource_code": "Unknown",
-          "label": "Elijah",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186554,
-          "content_id": 280134,
-          "resource_code": "Unknown",
-          "label": "baptism",
-          "language": "eng"
-        },
-        {
           "reference_id": 186523,
           "content_id": 341106,
           "resource_code": "Unknown",
           "label": "Jerusalem",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186525,
+          "content_id": 280105,
+          "resource_code": "Unknown",
+          "label": "Jew",
           "language": "eng"
         },
         {
@@ -2535,10 +3481,24 @@
           "language": "eng"
         },
         {
-          "reference_id": 186548,
-          "content_id": 341135,
+          "reference_id": 186511,
+          "content_id": 280091,
           "resource_code": "Unknown",
-          "label": "Elijah",
+          "label": "prophet",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186511,
+          "content_id": 341093,
+          "resource_code": "Unknown",
+          "label": "prophet",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186554,
+          "content_id": 280134,
+          "resource_code": "Unknown",
+          "label": "baptism",
           "language": "eng"
         },
         {
@@ -2549,10 +3509,31 @@
           "language": "eng"
         },
         {
-          "reference_id": 186564,
-          "content_id": 280144,
+          "reference_id": 186591,
+          "content_id": 280171,
           "resource_code": "Unknown",
-          "label": "wilderness",
+          "label": "camel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186591,
+          "content_id": 341187,
+          "resource_code": "Unknown",
+          "label": "camel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186548,
+          "content_id": 280128,
+          "resource_code": "Unknown",
+          "label": "Elijah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186548,
+          "content_id": 341135,
+          "resource_code": "Unknown",
+          "label": "Elijah",
           "language": "eng"
         },
         {
@@ -2563,10 +3544,24 @@
           "language": "eng"
         },
         {
-          "reference_id": 186596,
-          "content_id": 280176,
+          "reference_id": 186590,
+          "content_id": 341186,
           "resource_code": "Unknown",
-          "label": "repentance",
+          "label": "Jordan River",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186570,
+          "content_id": 280150,
+          "resource_code": "Unknown",
+          "label": "Mary",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186570,
+          "content_id": 341162,
+          "resource_code": "Unknown",
+          "label": "Mary",
           "language": "eng"
         },
         {
@@ -2577,6 +3572,41 @@
           "language": "eng"
         },
         {
+          "reference_id": 186614,
+          "content_id": 341214,
+          "resource_code": "Unknown",
+          "label": "priest",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186596,
+          "content_id": 280176,
+          "resource_code": "Unknown",
+          "label": "repentance",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186596,
+          "content_id": 341192,
+          "resource_code": "Unknown",
+          "label": "repentance",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186564,
+          "content_id": 280144,
+          "resource_code": "Unknown",
+          "label": "wilderness",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186564,
+          "content_id": 341155,
+          "resource_code": "Unknown",
+          "label": "wilderness",
+          "language": "eng"
+        },
+        {
           "reference_id": 186635,
           "content_id": 280215,
           "resource_code": "Unknown",
@@ -2584,8 +3614,36 @@
           "language": "eng"
         },
         {
+          "reference_id": 186635,
+          "content_id": 341237,
+          "resource_code": "Unknown",
+          "label": "Elizabeth",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186627,
+          "content_id": 280207,
+          "resource_code": "Unknown",
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186627,
+          "content_id": 341229,
+          "resource_code": "Unknown",
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
           "reference_id": 186641,
           "content_id": 280221,
+          "resource_code": "Unknown",
+          "label": "Judea",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186641,
+          "content_id": 341245,
           "resource_code": "Unknown",
           "label": "Judea",
           "language": "eng"
@@ -2603,62 +3661,20 @@
           "resource_code": "Unknown",
           "label": "king",
           "language": "eng"
-        },
-        {
-          "reference_id": 186564,
-          "content_id": 341155,
-          "resource_code": "Unknown",
-          "label": "wilderness",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186590,
-          "content_id": 341186,
-          "resource_code": "Unknown",
-          "label": "Jordan River",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186596,
-          "content_id": 341192,
-          "resource_code": "Unknown",
-          "label": "repentance",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186614,
-          "content_id": 341214,
-          "resource_code": "Unknown",
-          "label": "priest",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186635,
-          "content_id": 341237,
-          "resource_code": "Unknown",
-          "label": "Elizabeth",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186641,
-          "content_id": 341245,
-          "resource_code": "Unknown",
-          "label": "Judea",
-          "language": "eng"
         }
       ]
     }
   },
   {
-    "content_id": 280170,
+    "content_id": "280170",
     "reference_id": 186590,
     "version": "1.0.1",
     "title": "Jordan River",
     "media_type": "Text",
     "index_reference": "jordan river",
     "language": "eng",
-    "review_level": "None",
-    "content": "<p>The <strong>Jordan River</strong> is a long river that runs through <span data-bnType=\"resourceReference\" data-resourceId=\"186627\" data-resourceType=\"FIAKeyTerms\">Israel</span> from north to south. During the rainy season the river is quite wide and deep. At other times of the year the river is smaller, and a person can get across the river by wading or swimming through the water. At two places, the river passes a large lake: first the Lake-or sea-of Galilee, and later the Dead Sea. The <span data-bnType=\"resourceReference\" data-resourceId=\"186629\" data-resourceType=\"FIAKeyTerms\">Lake of Galilee</span> has sweet water and there are many fish in the lake; but the Dead Sea has saltwater, and the water is so salty that no fish can live in it. The Jordan River stops at the Dead Sea.</p><p>The Jordan River was very important for the <span data-bnType=\"resourceReference\" data-resourceId=\"186525\" data-resourceType=\"FIAKeyTerms\">Jews</span>. It was important because the people needed the water of the river, but also because when the <span data-bnType=\"resourceReference\" data-resourceId=\"186562\" data-resourceType=\"FIAKeyTerms\">Israelites</span> had first entered the land, they had to cross this Jordan River. It was the time of the rains, and the river was very deep and wide at the time. But God did a <span data-bnType=\"resourceReference\" data-resourceId=\"186517\" data-resourceType=\"FIAKeyTerms\">miracle</span> and stopped the water in the river, and the people of Israel could safely walk across the bottom of the river to the other side.</p><p><em>You may want to first look up the Jordan River in the video Bible dictionary.</em></p>",
+    "review_level": "Professional",
+    "content": "<p>The <strong>Jordan River</strong> is a long river that runs through <span data-bnType=\"resourceReference\" data-resourceId=\"186627\" data-resourceType=\"FIAKeyTerms\">Israel</span> from north to south. During the rainy season the river is quite wide and deep. At other times of the year the river is smaller, and a person can get across the river by wading or swimming through the water. At two places, the river passes a large lake: first the Lake-or sea-of Galilee, and later the Dead Sea. The <span data-bnType=\"resourceReference\" data-resourceId=\"186629\" data-resourceType=\"FIAKeyTerms\">Lake of Galilee</span> has sweet water and there are many fish in the lake; but the Dead Sea has saltwater, and the water is so salty that no fish can live in it. The Jordan River stops at the Dead Sea.</p><p>The Jordan River was very important for the <span data-bnType=\"resourceReference\" data-resourceId=\"186525\" data-resourceType=\"FIAKeyTerms\">Jews</span>. It was important because the people needed the water of the river, but also because when the <span data-bnType=\"resourceReference\" data-resourceId=\"186562\" data-resourceType=\"FIAKeyTerms\">Israelites</span> had first entered the land, they had to cross this Jordan River. It was the time of the rains, and the river was very deep and wide at the time. But God did a <span data-bnType=\"resourceReference\" data-resourceId=\"186517\" data-resourceType=\"FIAKeyTerms\">miracle</span> and stopped the water in the river, and the people of Israel could safely walk across the bottom of the river to the other side.</p><p>You may want to first look up the Jordan River in the video Bible dictionary.</p>",
     "associations": {
       "passage": [
         {
@@ -2674,10 +3690,262 @@
           "end_ref_usfm": "MRK 10:12"
         },
         {
+          "start_ref": "09031001",
+          "start_ref_usfm": "1SA 31:1",
+          "end_ref": "09031013",
+          "end_ref_usfm": "1SA 31:13"
+        },
+        {
+          "start_ref": "10020001",
+          "start_ref_usfm": "2SA 20:1",
+          "end_ref": "10020022",
+          "end_ref_usfm": "2SA 20:22"
+        },
+        {
+          "start_ref": "06016001",
+          "start_ref_usfm": "JOS 16:1",
+          "end_ref": "06016010",
+          "end_ref_usfm": "JOS 16:10"
+        },
+        {
+          "start_ref": "06012001",
+          "start_ref_usfm": "JOS 12:1",
+          "end_ref": "06012006",
+          "end_ref_usfm": "JOS 12:6"
+        },
+        {
+          "start_ref": "04036001",
+          "start_ref_usfm": "NUM 36:1",
+          "end_ref": "04036013",
+          "end_ref_usfm": "NUM 36:13"
+        },
+        {
+          "start_ref": "06001001",
+          "start_ref_usfm": "JOS 1:1",
+          "end_ref": "06001009",
+          "end_ref_usfm": "JOS 1:9"
+        },
+        {
+          "start_ref": "04035001",
+          "start_ref_usfm": "NUM 35:1",
+          "end_ref": "04035008",
+          "end_ref_usfm": "NUM 35:8"
+        },
+        {
+          "start_ref": "07010006",
+          "start_ref_usfm": "JDG 10:6",
+          "end_ref": "07010016",
+          "end_ref_usfm": "JDG 10:16"
+        },
+        {
+          "start_ref": "13026029",
+          "start_ref_usfm": "1CH 26:29",
+          "end_ref": "13026032",
+          "end_ref_usfm": "1CH 26:32"
+        },
+        {
+          "start_ref": "10019031",
+          "start_ref_usfm": "2SA 19:31",
+          "end_ref": "10019039",
+          "end_ref_usfm": "2SA 19:39"
+        },
+        {
+          "start_ref": "10024001",
+          "start_ref_usfm": "2SA 24:1",
+          "end_ref": "10024009",
+          "end_ref_usfm": "2SA 24:9"
+        },
+        {
+          "start_ref": "09013001",
+          "start_ref_usfm": "1SA 13:1",
+          "end_ref": "09013014",
+          "end_ref_usfm": "1SA 13:14"
+        },
+        {
+          "start_ref": "06012007",
+          "start_ref_usfm": "JOS 12:7",
+          "end_ref": "06012024",
+          "end_ref_usfm": "JOS 12:24"
+        },
+        {
+          "start_ref": "06022021",
+          "start_ref_usfm": "JOS 22:21",
+          "end_ref": "06022034",
+          "end_ref_usfm": "JOS 22:34"
+        },
+        {
+          "start_ref": "06024001",
+          "start_ref_usfm": "JOS 24:1",
+          "end_ref": "06024013",
+          "end_ref_usfm": "JOS 24:13"
+        },
+        {
+          "start_ref": "07011012",
+          "start_ref_usfm": "JDG 11:12",
+          "end_ref": "07011028",
+          "end_ref_usfm": "JDG 11:28"
+        },
+        {
+          "start_ref": "04033037",
+          "start_ref_usfm": "NUM 33:37",
+          "end_ref": "04033049",
+          "end_ref_usfm": "NUM 33:49"
+        },
+        {
+          "start_ref": "04033050",
+          "start_ref_usfm": "NUM 33:50",
+          "end_ref": "04033056",
+          "end_ref_usfm": "NUM 33:56"
+        },
+        {
           "start_ref": "43010022",
           "start_ref_usfm": "JHN 10:22",
           "end_ref": "43010042",
           "end_ref_usfm": "JHN 10:42"
+        },
+        {
+          "start_ref": "04034001",
+          "start_ref_usfm": "NUM 34:1",
+          "end_ref": "04034015",
+          "end_ref_usfm": "NUM 34:15"
+        },
+        {
+          "start_ref": "06001010",
+          "start_ref_usfm": "JOS 1:10",
+          "end_ref": "06001018",
+          "end_ref_usfm": "JOS 1:18"
+        },
+        {
+          "start_ref": "07008004",
+          "start_ref_usfm": "JDG 8:4",
+          "end_ref": "07008021",
+          "end_ref_usfm": "JDG 8:21"
+        },
+        {
+          "start_ref": "10017015",
+          "start_ref_usfm": "2SA 17:15",
+          "end_ref": "10017029",
+          "end_ref_usfm": "2SA 17:29"
+        },
+        {
+          "start_ref": "10002018",
+          "start_ref_usfm": "2SA 2:18",
+          "end_ref": "10003001",
+          "end_ref_usfm": "2SA 3:1"
+        },
+        {
+          "start_ref": "06009001",
+          "start_ref_usfm": "JOS 9:1",
+          "end_ref": "06009015",
+          "end_ref_usfm": "JOS 9:15"
+        },
+        {
+          "start_ref": "06014001",
+          "start_ref_usfm": "JOS 14:1",
+          "end_ref": "06014015",
+          "end_ref_usfm": "JOS 14:15"
+        },
+        {
+          "start_ref": "06022001",
+          "start_ref_usfm": "JOS 22:1",
+          "end_ref": "06022012",
+          "end_ref_usfm": "JOS 22:12"
+        },
+        {
+          "start_ref": "11007040",
+          "start_ref_usfm": "1KI 7:40",
+          "end_ref": "11007051",
+          "end_ref_usfm": "1KI 7:51"
+        },
+        {
+          "start_ref": "10019008",
+          "start_ref_usfm": "2SA 19:8",
+          "end_ref": "10019018",
+          "end_ref_usfm": "2SA 19:18"
+        },
+        {
+          "start_ref": "06007001",
+          "start_ref_usfm": "JOS 7:1",
+          "end_ref": "06007009",
+          "end_ref_usfm": "JOS 7:9"
+        },
+        {
+          "start_ref": "06023001",
+          "start_ref_usfm": "JOS 23:1",
+          "end_ref": "06023008",
+          "end_ref_usfm": "JOS 23:8"
+        },
+        {
+          "start_ref": "11017001",
+          "start_ref_usfm": "1KI 17:1",
+          "end_ref": "11017007",
+          "end_ref_usfm": "1KI 17:7"
+        },
+        {
+          "start_ref": "10019040",
+          "start_ref_usfm": "2SA 19:40",
+          "end_ref": "10019043",
+          "end_ref_usfm": "2SA 19:43"
+        },
+        {
+          "start_ref": "07003012",
+          "start_ref_usfm": "JDG 3:12",
+          "end_ref": "07003031",
+          "end_ref_usfm": "JDG 3:31"
+        },
+        {
+          "start_ref": "06013014",
+          "start_ref_usfm": "JOS 13:14",
+          "end_ref": "06013023",
+          "end_ref_usfm": "JOS 13:23"
+        },
+        {
+          "start_ref": "06013024",
+          "start_ref_usfm": "JOS 13:24",
+          "end_ref": "06013033",
+          "end_ref_usfm": "JOS 13:33"
+        },
+        {
+          "start_ref": "07012001",
+          "start_ref_usfm": "JDG 12:1",
+          "end_ref": "07012007",
+          "end_ref_usfm": "JDG 12:7"
+        },
+        {
+          "start_ref": "06015001",
+          "start_ref_usfm": "JOS 15:1",
+          "end_ref": "06015012",
+          "end_ref_usfm": "JOS 15:12"
+        },
+        {
+          "start_ref": "06003001",
+          "start_ref_usfm": "JOS 3:1",
+          "end_ref": "06003017",
+          "end_ref_usfm": "JOS 3:17"
+        },
+        {
+          "start_ref": "06004001",
+          "start_ref_usfm": "JOS 4:1",
+          "end_ref": "06004014",
+          "end_ref_usfm": "JOS 4:14"
+        },
+        {
+          "start_ref": "06004015",
+          "start_ref_usfm": "JOS 4:15",
+          "end_ref": "06005001",
+          "end_ref_usfm": "JOS 5:1"
+        },
+        {
+          "start_ref": "06017001",
+          "start_ref_usfm": "JOS 17:1",
+          "end_ref": "06017013",
+          "end_ref_usfm": "JOS 17:13"
+        },
+        {
+          "start_ref": "07005011",
+          "start_ref_usfm": "JDG 5:11",
+          "end_ref": "07005018",
+          "end_ref_usfm": "JDG 5:18"
         }
       ],
       "resource": [
@@ -2703,17 +3971,17 @@
           "language": "eng"
         },
         {
-          "reference_id": 186562,
-          "content_id": 280142,
-          "resource_code": "FIAKeyTerms",
-          "label": "Israelite",
-          "language": "eng"
-        },
-        {
           "reference_id": 186525,
           "content_id": 341109,
           "resource_code": "FIAKeyTerms",
           "label": "Jew",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186562,
+          "content_id": 280142,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israelite",
           "language": "eng"
         },
         {
@@ -2731,17 +3999,17 @@
           "language": "eng"
         },
         {
-          "reference_id": 186629,
-          "content_id": 280209,
-          "resource_code": "FIAKeyTerms",
-          "label": "Sea of Galilee",
-          "language": "eng"
-        },
-        {
           "reference_id": 186627,
           "content_id": 341229,
           "resource_code": "FIAKeyTerms",
           "label": "Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186629,
+          "content_id": 280209,
+          "resource_code": "FIAKeyTerms",
+          "label": "Sea of Galilee",
           "language": "eng"
         },
         {
@@ -2755,15 +4023,15 @@
     }
   },
   {
-    "content_id": 341186,
+    "content_id": "341186",
     "reference_id": 186590,
     "version": "1.0.1",
     "title": "Jordan River",
     "media_type": "Audio",
     "index_reference": "jordan river",
     "language": "eng",
-    "review_level": "None",
-    "content": "<h3>Audio Content</h3>\n",
+    "review_level": "Professional",
+    "content": "<h3>Audio Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAKeyTerms/ENG/audio/webm/t80-jordan-river.webm'>webm file</a> (655528 KB)</p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAKeyTerms/ENG/audio/mp3/t80-jordan-river.mp3'>mp3 file</a> (874364 KB)</p>",
     "associations": {
       "passage": [
         {
@@ -2779,10 +4047,262 @@
           "end_ref_usfm": "MRK 10:12"
         },
         {
+          "start_ref": "09031001",
+          "start_ref_usfm": "1SA 31:1",
+          "end_ref": "09031013",
+          "end_ref_usfm": "1SA 31:13"
+        },
+        {
+          "start_ref": "10020001",
+          "start_ref_usfm": "2SA 20:1",
+          "end_ref": "10020022",
+          "end_ref_usfm": "2SA 20:22"
+        },
+        {
+          "start_ref": "06016001",
+          "start_ref_usfm": "JOS 16:1",
+          "end_ref": "06016010",
+          "end_ref_usfm": "JOS 16:10"
+        },
+        {
+          "start_ref": "06012001",
+          "start_ref_usfm": "JOS 12:1",
+          "end_ref": "06012006",
+          "end_ref_usfm": "JOS 12:6"
+        },
+        {
+          "start_ref": "04036001",
+          "start_ref_usfm": "NUM 36:1",
+          "end_ref": "04036013",
+          "end_ref_usfm": "NUM 36:13"
+        },
+        {
+          "start_ref": "06001001",
+          "start_ref_usfm": "JOS 1:1",
+          "end_ref": "06001009",
+          "end_ref_usfm": "JOS 1:9"
+        },
+        {
+          "start_ref": "04035001",
+          "start_ref_usfm": "NUM 35:1",
+          "end_ref": "04035008",
+          "end_ref_usfm": "NUM 35:8"
+        },
+        {
+          "start_ref": "07010006",
+          "start_ref_usfm": "JDG 10:6",
+          "end_ref": "07010016",
+          "end_ref_usfm": "JDG 10:16"
+        },
+        {
+          "start_ref": "13026029",
+          "start_ref_usfm": "1CH 26:29",
+          "end_ref": "13026032",
+          "end_ref_usfm": "1CH 26:32"
+        },
+        {
+          "start_ref": "10019031",
+          "start_ref_usfm": "2SA 19:31",
+          "end_ref": "10019039",
+          "end_ref_usfm": "2SA 19:39"
+        },
+        {
+          "start_ref": "10024001",
+          "start_ref_usfm": "2SA 24:1",
+          "end_ref": "10024009",
+          "end_ref_usfm": "2SA 24:9"
+        },
+        {
+          "start_ref": "09013001",
+          "start_ref_usfm": "1SA 13:1",
+          "end_ref": "09013014",
+          "end_ref_usfm": "1SA 13:14"
+        },
+        {
+          "start_ref": "06012007",
+          "start_ref_usfm": "JOS 12:7",
+          "end_ref": "06012024",
+          "end_ref_usfm": "JOS 12:24"
+        },
+        {
+          "start_ref": "06022021",
+          "start_ref_usfm": "JOS 22:21",
+          "end_ref": "06022034",
+          "end_ref_usfm": "JOS 22:34"
+        },
+        {
+          "start_ref": "06024001",
+          "start_ref_usfm": "JOS 24:1",
+          "end_ref": "06024013",
+          "end_ref_usfm": "JOS 24:13"
+        },
+        {
+          "start_ref": "07011012",
+          "start_ref_usfm": "JDG 11:12",
+          "end_ref": "07011028",
+          "end_ref_usfm": "JDG 11:28"
+        },
+        {
+          "start_ref": "04033037",
+          "start_ref_usfm": "NUM 33:37",
+          "end_ref": "04033049",
+          "end_ref_usfm": "NUM 33:49"
+        },
+        {
+          "start_ref": "04033050",
+          "start_ref_usfm": "NUM 33:50",
+          "end_ref": "04033056",
+          "end_ref_usfm": "NUM 33:56"
+        },
+        {
           "start_ref": "43010022",
           "start_ref_usfm": "JHN 10:22",
           "end_ref": "43010042",
           "end_ref_usfm": "JHN 10:42"
+        },
+        {
+          "start_ref": "04034001",
+          "start_ref_usfm": "NUM 34:1",
+          "end_ref": "04034015",
+          "end_ref_usfm": "NUM 34:15"
+        },
+        {
+          "start_ref": "06001010",
+          "start_ref_usfm": "JOS 1:10",
+          "end_ref": "06001018",
+          "end_ref_usfm": "JOS 1:18"
+        },
+        {
+          "start_ref": "07008004",
+          "start_ref_usfm": "JDG 8:4",
+          "end_ref": "07008021",
+          "end_ref_usfm": "JDG 8:21"
+        },
+        {
+          "start_ref": "10017015",
+          "start_ref_usfm": "2SA 17:15",
+          "end_ref": "10017029",
+          "end_ref_usfm": "2SA 17:29"
+        },
+        {
+          "start_ref": "10002018",
+          "start_ref_usfm": "2SA 2:18",
+          "end_ref": "10003001",
+          "end_ref_usfm": "2SA 3:1"
+        },
+        {
+          "start_ref": "06009001",
+          "start_ref_usfm": "JOS 9:1",
+          "end_ref": "06009015",
+          "end_ref_usfm": "JOS 9:15"
+        },
+        {
+          "start_ref": "06014001",
+          "start_ref_usfm": "JOS 14:1",
+          "end_ref": "06014015",
+          "end_ref_usfm": "JOS 14:15"
+        },
+        {
+          "start_ref": "06022001",
+          "start_ref_usfm": "JOS 22:1",
+          "end_ref": "06022012",
+          "end_ref_usfm": "JOS 22:12"
+        },
+        {
+          "start_ref": "11007040",
+          "start_ref_usfm": "1KI 7:40",
+          "end_ref": "11007051",
+          "end_ref_usfm": "1KI 7:51"
+        },
+        {
+          "start_ref": "10019008",
+          "start_ref_usfm": "2SA 19:8",
+          "end_ref": "10019018",
+          "end_ref_usfm": "2SA 19:18"
+        },
+        {
+          "start_ref": "06007001",
+          "start_ref_usfm": "JOS 7:1",
+          "end_ref": "06007009",
+          "end_ref_usfm": "JOS 7:9"
+        },
+        {
+          "start_ref": "06023001",
+          "start_ref_usfm": "JOS 23:1",
+          "end_ref": "06023008",
+          "end_ref_usfm": "JOS 23:8"
+        },
+        {
+          "start_ref": "11017001",
+          "start_ref_usfm": "1KI 17:1",
+          "end_ref": "11017007",
+          "end_ref_usfm": "1KI 17:7"
+        },
+        {
+          "start_ref": "10019040",
+          "start_ref_usfm": "2SA 19:40",
+          "end_ref": "10019043",
+          "end_ref_usfm": "2SA 19:43"
+        },
+        {
+          "start_ref": "07003012",
+          "start_ref_usfm": "JDG 3:12",
+          "end_ref": "07003031",
+          "end_ref_usfm": "JDG 3:31"
+        },
+        {
+          "start_ref": "06013014",
+          "start_ref_usfm": "JOS 13:14",
+          "end_ref": "06013023",
+          "end_ref_usfm": "JOS 13:23"
+        },
+        {
+          "start_ref": "06013024",
+          "start_ref_usfm": "JOS 13:24",
+          "end_ref": "06013033",
+          "end_ref_usfm": "JOS 13:33"
+        },
+        {
+          "start_ref": "07012001",
+          "start_ref_usfm": "JDG 12:1",
+          "end_ref": "07012007",
+          "end_ref_usfm": "JDG 12:7"
+        },
+        {
+          "start_ref": "06015001",
+          "start_ref_usfm": "JOS 15:1",
+          "end_ref": "06015012",
+          "end_ref_usfm": "JOS 15:12"
+        },
+        {
+          "start_ref": "06003001",
+          "start_ref_usfm": "JOS 3:1",
+          "end_ref": "06003017",
+          "end_ref_usfm": "JOS 3:17"
+        },
+        {
+          "start_ref": "06004001",
+          "start_ref_usfm": "JOS 4:1",
+          "end_ref": "06004014",
+          "end_ref_usfm": "JOS 4:14"
+        },
+        {
+          "start_ref": "06004015",
+          "start_ref_usfm": "JOS 4:15",
+          "end_ref": "06005001",
+          "end_ref_usfm": "JOS 5:1"
+        },
+        {
+          "start_ref": "06017001",
+          "start_ref_usfm": "JOS 17:1",
+          "end_ref": "06017013",
+          "end_ref_usfm": "JOS 17:13"
+        },
+        {
+          "start_ref": "07005011",
+          "start_ref_usfm": "JDG 5:11",
+          "end_ref": "07005018",
+          "end_ref_usfm": "JDG 5:18"
         }
       ],
       "resource": [
@@ -2808,17 +4328,17 @@
           "language": "eng"
         },
         {
-          "reference_id": 186562,
-          "content_id": 280142,
-          "resource_code": "Unknown",
-          "label": "Israelite",
-          "language": "eng"
-        },
-        {
           "reference_id": 186525,
           "content_id": 341109,
           "resource_code": "Unknown",
           "label": "Jew",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186562,
+          "content_id": 280142,
+          "resource_code": "Unknown",
+          "label": "Israelite",
           "language": "eng"
         },
         {
@@ -2836,17 +4356,17 @@
           "language": "eng"
         },
         {
-          "reference_id": 186629,
-          "content_id": 280209,
-          "resource_code": "Unknown",
-          "label": "Sea of Galilee",
-          "language": "eng"
-        },
-        {
           "reference_id": 186627,
           "content_id": 341229,
           "resource_code": "Unknown",
           "label": "Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186629,
+          "content_id": 280209,
+          "resource_code": "Unknown",
+          "label": "Sea of Galilee",
           "language": "eng"
         },
         {
@@ -2860,15 +4380,15 @@
     }
   },
   {
-    "content_id": 280221,
+    "content_id": "280221",
     "reference_id": 186641,
     "version": "1.0.1",
     "title": "Judea",
     "media_type": "Text",
     "index_reference": "judea",
     "language": "eng",
-    "review_level": "None",
-    "content": "<p><strong>Judea</strong> is the name of a region in <span data-bnType=\"resourceReference\" data-resourceId=\"186627\" data-resourceType=\"FIAKeyTerms\">Israel</span> in the time of the New Testament.</p><p>In the time of Jesus, Israel was not an independent <span data-bnType=\"resourceReference\" data-resourceId=\"186495\" data-resourceType=\"FIAKeyTerms\">nation</span>. The Israelites were ruled by the Roman people. The Romans had divided Israel into several regions, or provinces. These provinces were Judea in the south, <span data-bnType=\"resourceReference\" data-resourceId=\"186508\" data-resourceType=\"FIAKeyTerms\">Galilee</span> in the north, and <span data-bnType=\"resourceReference\" data-resourceId=\"keyTerm221\" data-resourceType=\"FIAKeyTerms\">Samaria</span> in the middle.</p><p>Judea was the place where the most important city was, <span data-bnType=\"resourceReference\" data-resourceId=\"186523\" data-resourceType=\"FIAKeyTerms\">Jerusalem</span>, and the <span data-bnType=\"resourceReference\" data-resourceId=\"186483\" data-resourceType=\"FIAKeyTerms\">temple</span> of God. The people in Judea often thought that they were better <span data-bnType=\"resourceReference\" data-resourceId=\"186525\" data-resourceType=\"FIAKeyTerms\">Jews</span> than the people in Galilee. They looked down on the people in Galilee, thinking of them as uneducated and rough. The people in Judea <em>and</em> Galilee looked down on people in Samaria, whom they considered not to be Jews at all.</p><p>The area that is Judea in the New Testament is called Judah in the Old Testament.</p>",
+    "review_level": "Professional",
+    "content": "<p><strong>Judea</strong> is the name of a region in <span data-bnType=\"resourceReference\" data-resourceId=\"186627\" data-resourceType=\"FIAKeyTerms\">Israel</span> in the time of the New Testament.</p><p>In the time of Jesus, Israel was not an independent <span data-bnType=\"resourceReference\" data-resourceId=\"186495\" data-resourceType=\"FIAKeyTerms\">nation</span>. The <span data-bnType=\"resourceReference\" data-resourceId=\"186562\" data-resourceType=\"FIAKeyTerms\">Israelites</span> were ruled by the Roman people. The Romans had divided Israel into several regions, or provinces. These provinces were Judea in the south, <span data-bnType=\"resourceReference\" data-resourceId=\"186508\" data-resourceType=\"FIAKeyTerms\">Galilee</span> in the north, and <span data-bnType=\"resourceReference\" data-resourceId=\"222606\" data-resourceType=\"FIAKeyTerms\">Samaria</span> in the middle.</p><p>Judea was the place where the most important city was, <span data-bnType=\"resourceReference\" data-resourceId=\"186523\" data-resourceType=\"FIAKeyTerms\">Jerusalem</span>, and the <span data-bnType=\"resourceReference\" data-resourceId=\"186483\" data-resourceType=\"FIAKeyTerms\">temple</span> of God. The people in Judea often thought that they were better <span data-bnType=\"resourceReference\" data-resourceId=\"186525\" data-resourceType=\"FIAKeyTerms\">Jews</span> than the people in Galilee. They looked down on the people in Galilee, thinking of them as uneducated and rough. The people in Judea <em>and</em> Galilee looked down on people in Samaria, whom they considered not to be Jews at all.</p><p>The area that is Judea in the New Testament is called Judah in the Old Testament.</p>",
     "associations": {
       "passage": [
         {
@@ -2902,6 +4422,12 @@
           "end_ref_usfm": "LUK 1:80"
         },
         {
+          "start_ref": "40010001",
+          "start_ref_usfm": "MAT 10:1",
+          "end_ref": "40010015",
+          "end_ref_usfm": "MAT 10:15"
+        },
+        {
           "start_ref": "40019001",
           "start_ref_usfm": "MAT 19:1",
           "end_ref": "40019012",
@@ -2926,16 +4452,112 @@
           "end_ref_usfm": "MRK 13:23"
         },
         {
+          "start_ref": "11022029",
+          "start_ref_usfm": "1KI 22:29",
+          "end_ref": "11022040",
+          "end_ref_usfm": "1KI 22:40"
+        },
+        {
+          "start_ref": "10020001",
+          "start_ref_usfm": "2SA 20:1",
+          "end_ref": "10020022",
+          "end_ref_usfm": "2SA 20:22"
+        },
+        {
+          "start_ref": "11016008",
+          "start_ref_usfm": "1KI 16:8",
+          "end_ref": "11016014",
+          "end_ref_usfm": "1KI 16:14"
+        },
+        {
+          "start_ref": "10002001",
+          "start_ref_usfm": "2SA 2:1",
+          "end_ref": "10002007",
+          "end_ref_usfm": "2SA 2:7"
+        },
+        {
+          "start_ref": "44001006",
+          "start_ref_usfm": "ACT 1:6",
+          "end_ref": "44001011",
+          "end_ref_usfm": "ACT 1:11"
+        },
+        {
+          "start_ref": "11015025",
+          "start_ref_usfm": "1KI 15:25",
+          "end_ref": "11015032",
+          "end_ref_usfm": "1KI 15:32"
+        },
+        {
+          "start_ref": "10006001",
+          "start_ref_usfm": "2SA 6:1",
+          "end_ref": "10006015",
+          "end_ref_usfm": "2SA 6:15"
+        },
+        {
+          "start_ref": "10002008",
+          "start_ref_usfm": "2SA 2:8",
+          "end_ref": "10002011",
+          "end_ref_usfm": "2SA 2:11"
+        },
+        {
+          "start_ref": "11013001",
+          "start_ref_usfm": "1KI 13:1",
+          "end_ref": "11013010",
+          "end_ref_usfm": "1KI 13:10"
+        },
+        {
+          "start_ref": "11016021",
+          "start_ref_usfm": "1KI 16:21",
+          "end_ref": "11016028",
+          "end_ref_usfm": "1KI 16:28"
+        },
+        {
+          "start_ref": "10011001",
+          "start_ref_usfm": "2SA 11:1",
+          "end_ref": "10011013",
+          "end_ref_usfm": "2SA 11:13"
+        },
+        {
           "start_ref": "44026001",
           "start_ref_usfm": "ACT 26:1",
           "end_ref": "44026023",
           "end_ref_usfm": "ACT 26:23"
         },
         {
+          "start_ref": "10024001",
+          "start_ref_usfm": "2SA 24:1",
+          "end_ref": "10024009",
+          "end_ref_usfm": "2SA 24:9"
+        },
+        {
+          "start_ref": "13004024",
+          "start_ref_usfm": "1CH 4:24",
+          "end_ref": "13004043",
+          "end_ref_usfm": "1CH 4:43"
+        },
+        {
           "start_ref": "43007001",
           "start_ref_usfm": "JHN 7:1",
           "end_ref": "43007010",
           "end_ref_usfm": "JHN 7:10"
+        },
+        {
+          "start_ref": "11001005",
+          "start_ref_usfm": "1KI 1:5",
+          "end_ref": "11001010",
+          "end_ref_usfm": "1KI 1:10"
+        },
+        {
+          "start_ref": "11012025",
+          "start_ref_usfm": "1KI 12:25",
+          "end_ref": "11012033",
+          "end_ref_usfm": "1KI 12:33"
+        },
+        {
+          "start_ref": "11014021",
+          "start_ref_usfm": "1KI 14:21",
+          "end_ref": "11014031",
+          "end_ref_usfm": "1KI 14:31"
         },
         {
           "start_ref": "44028017",
@@ -2948,6 +4570,126 @@
           "start_ref_usfm": "ACT 10:34",
           "end_ref": "44010048",
           "end_ref_usfm": "ACT 10:48"
+        },
+        {
+          "start_ref": "13006001",
+          "start_ref_usfm": "1CH 6:1",
+          "end_ref": "13006015",
+          "end_ref_usfm": "1CH 6:15"
+        },
+        {
+          "start_ref": "11013011",
+          "start_ref_usfm": "1KI 13:11",
+          "end_ref": "11013022",
+          "end_ref_usfm": "1KI 13:22"
+        },
+        {
+          "start_ref": "11016029",
+          "start_ref_usfm": "1KI 16:29",
+          "end_ref": "11016034",
+          "end_ref_usfm": "1KI 16:34"
+        },
+        {
+          "start_ref": "11022001",
+          "start_ref_usfm": "1KI 22:1",
+          "end_ref": "11022012",
+          "end_ref_usfm": "1KI 22:12"
+        },
+        {
+          "start_ref": "11022041",
+          "start_ref_usfm": "1KI 22:41",
+          "end_ref": "11022053",
+          "end_ref_usfm": "1KI 22:53"
+        },
+        {
+          "start_ref": "11019001",
+          "start_ref_usfm": "1KI 19:1",
+          "end_ref": "11019008",
+          "end_ref_usfm": "1KI 19:8"
+        },
+        {
+          "start_ref": "10012001",
+          "start_ref_usfm": "2SA 12:1",
+          "end_ref": "10012015",
+          "end_ref_usfm": "2SA 12:15"
+        },
+        {
+          "start_ref": "10019008",
+          "start_ref_usfm": "2SA 19:8",
+          "end_ref": "10019018",
+          "end_ref_usfm": "2SA 19:18"
+        },
+        {
+          "start_ref": "11001028",
+          "start_ref_usfm": "1KI 1:28",
+          "end_ref": "11001037",
+          "end_ref_usfm": "1KI 1:37"
+        },
+        {
+          "start_ref": "10003006",
+          "start_ref_usfm": "2SA 3:6",
+          "end_ref": "10003021",
+          "end_ref_usfm": "2SA 3:21"
+        },
+        {
+          "start_ref": "11015033",
+          "start_ref_usfm": "1KI 15:33",
+          "end_ref": "11016007",
+          "end_ref_usfm": "1KI 16:7"
+        },
+        {
+          "start_ref": "10019040",
+          "start_ref_usfm": "2SA 19:40",
+          "end_ref": "10019043",
+          "end_ref_usfm": "2SA 19:43"
+        },
+        {
+          "start_ref": "11012016",
+          "start_ref_usfm": "1KI 12:16",
+          "end_ref": "11012024",
+          "end_ref_usfm": "1KI 12:24"
+        },
+        {
+          "start_ref": "13005011",
+          "start_ref_usfm": "1CH 5:11",
+          "end_ref": "13005017",
+          "end_ref_usfm": "1CH 5:17"
+        },
+        {
+          "start_ref": "13009001",
+          "start_ref_usfm": "1CH 9:1",
+          "end_ref": "13009009",
+          "end_ref_usfm": "1CH 9:9"
+        },
+        {
+          "start_ref": "13028001",
+          "start_ref_usfm": "1CH 28:1",
+          "end_ref": "13028008",
+          "end_ref_usfm": "1CH 28:8"
+        },
+        {
+          "start_ref": "11004020",
+          "start_ref_usfm": "1KI 4:20",
+          "end_ref": "11004028",
+          "end_ref_usfm": "1KI 4:28"
+        },
+        {
+          "start_ref": "11016015",
+          "start_ref_usfm": "1KI 16:15",
+          "end_ref": "11016020",
+          "end_ref_usfm": "1KI 16:20"
+        },
+        {
+          "start_ref": "13002009",
+          "start_ref_usfm": "1CH 2:9",
+          "end_ref": "13002017",
+          "end_ref_usfm": "1CH 2:17"
+        },
+        {
+          "start_ref": "13005001",
+          "start_ref_usfm": "1CH 5:1",
+          "end_ref": "13005010",
+          "end_ref_usfm": "1CH 5:10"
         }
       ],
       "resource": [
@@ -2966,24 +4708,10 @@
           "language": "eng"
         },
         {
-          "reference_id": 186495,
-          "content_id": 280075,
-          "resource_code": "FIAKeyTerms",
-          "label": "nation",
-          "language": "eng"
-        },
-        {
           "reference_id": 186508,
           "content_id": 280088,
           "resource_code": "FIAKeyTerms",
           "label": "Galilee",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186495,
-          "content_id": 341075,
-          "resource_code": "FIAKeyTerms",
-          "label": "nation",
           "language": "eng"
         },
         {
@@ -2994,8 +4722,43 @@
           "language": "eng"
         },
         {
+          "reference_id": 186495,
+          "content_id": 280075,
+          "resource_code": "FIAKeyTerms",
+          "label": "nation",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186495,
+          "content_id": 341075,
+          "resource_code": "FIAKeyTerms",
+          "label": "nation",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186627,
+          "content_id": 280207,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186627,
+          "content_id": 341229,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
           "reference_id": 186523,
           "content_id": 280103,
+          "resource_code": "FIAKeyTerms",
+          "label": "Jerusalem",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186523,
+          "content_id": 341106,
           "resource_code": "FIAKeyTerms",
           "label": "Jerusalem",
           "language": "eng"
@@ -3008,20 +4771,6 @@
           "language": "eng"
         },
         {
-          "reference_id": 186627,
-          "content_id": 280207,
-          "resource_code": "FIAKeyTerms",
-          "label": "Israel",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186523,
-          "content_id": 341106,
-          "resource_code": "FIAKeyTerms",
-          "label": "Jerusalem",
-          "language": "eng"
-        },
-        {
           "reference_id": 186525,
           "content_id": 341109,
           "resource_code": "FIAKeyTerms",
@@ -3029,25 +4778,46 @@
           "language": "eng"
         },
         {
-          "reference_id": 186627,
-          "content_id": 341229,
+          "reference_id": 186562,
+          "content_id": 280142,
           "resource_code": "FIAKeyTerms",
-          "label": "Israel",
+          "label": "Israelite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186562,
+          "content_id": 341150,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israelite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 222606,
+          "content_id": 871706,
+          "resource_code": "FIAKeyTerms",
+          "label": "Samaria",
+          "language": "eng"
+        },
+        {
+          "reference_id": 222606,
+          "content_id": 871707,
+          "resource_code": "FIAKeyTerms",
+          "label": "Samaria",
           "language": "eng"
         }
       ]
     }
   },
   {
-    "content_id": 341245,
+    "content_id": "341245",
     "reference_id": 186641,
     "version": "1.0.1",
     "title": "Judea",
     "media_type": "Audio",
     "index_reference": "judea",
     "language": "eng",
-    "review_level": "None",
-    "content": "<h3>Audio Content</h3>\n",
+    "review_level": "Professional",
+    "content": "<h3>Audio Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAKeyTerms/ENG/audio/webm/t81-judea.webm'>webm file</a> (527381 KB)</p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAKeyTerms/ENG/audio/mp3/t81-judea.mp3'>mp3 file</a> (658796 KB)</p>",
     "associations": {
       "passage": [
         {
@@ -3081,6 +4851,12 @@
           "end_ref_usfm": "LUK 1:80"
         },
         {
+          "start_ref": "40010001",
+          "start_ref_usfm": "MAT 10:1",
+          "end_ref": "40010015",
+          "end_ref_usfm": "MAT 10:15"
+        },
+        {
           "start_ref": "40019001",
           "start_ref_usfm": "MAT 19:1",
           "end_ref": "40019012",
@@ -3105,16 +4881,112 @@
           "end_ref_usfm": "MRK 13:23"
         },
         {
+          "start_ref": "11022029",
+          "start_ref_usfm": "1KI 22:29",
+          "end_ref": "11022040",
+          "end_ref_usfm": "1KI 22:40"
+        },
+        {
+          "start_ref": "10020001",
+          "start_ref_usfm": "2SA 20:1",
+          "end_ref": "10020022",
+          "end_ref_usfm": "2SA 20:22"
+        },
+        {
+          "start_ref": "11016008",
+          "start_ref_usfm": "1KI 16:8",
+          "end_ref": "11016014",
+          "end_ref_usfm": "1KI 16:14"
+        },
+        {
+          "start_ref": "10002001",
+          "start_ref_usfm": "2SA 2:1",
+          "end_ref": "10002007",
+          "end_ref_usfm": "2SA 2:7"
+        },
+        {
+          "start_ref": "44001006",
+          "start_ref_usfm": "ACT 1:6",
+          "end_ref": "44001011",
+          "end_ref_usfm": "ACT 1:11"
+        },
+        {
+          "start_ref": "11015025",
+          "start_ref_usfm": "1KI 15:25",
+          "end_ref": "11015032",
+          "end_ref_usfm": "1KI 15:32"
+        },
+        {
+          "start_ref": "10006001",
+          "start_ref_usfm": "2SA 6:1",
+          "end_ref": "10006015",
+          "end_ref_usfm": "2SA 6:15"
+        },
+        {
+          "start_ref": "10002008",
+          "start_ref_usfm": "2SA 2:8",
+          "end_ref": "10002011",
+          "end_ref_usfm": "2SA 2:11"
+        },
+        {
+          "start_ref": "11013001",
+          "start_ref_usfm": "1KI 13:1",
+          "end_ref": "11013010",
+          "end_ref_usfm": "1KI 13:10"
+        },
+        {
+          "start_ref": "11016021",
+          "start_ref_usfm": "1KI 16:21",
+          "end_ref": "11016028",
+          "end_ref_usfm": "1KI 16:28"
+        },
+        {
+          "start_ref": "10011001",
+          "start_ref_usfm": "2SA 11:1",
+          "end_ref": "10011013",
+          "end_ref_usfm": "2SA 11:13"
+        },
+        {
           "start_ref": "44026001",
           "start_ref_usfm": "ACT 26:1",
           "end_ref": "44026023",
           "end_ref_usfm": "ACT 26:23"
         },
         {
+          "start_ref": "10024001",
+          "start_ref_usfm": "2SA 24:1",
+          "end_ref": "10024009",
+          "end_ref_usfm": "2SA 24:9"
+        },
+        {
+          "start_ref": "13004024",
+          "start_ref_usfm": "1CH 4:24",
+          "end_ref": "13004043",
+          "end_ref_usfm": "1CH 4:43"
+        },
+        {
           "start_ref": "43007001",
           "start_ref_usfm": "JHN 7:1",
           "end_ref": "43007010",
           "end_ref_usfm": "JHN 7:10"
+        },
+        {
+          "start_ref": "11001005",
+          "start_ref_usfm": "1KI 1:5",
+          "end_ref": "11001010",
+          "end_ref_usfm": "1KI 1:10"
+        },
+        {
+          "start_ref": "11012025",
+          "start_ref_usfm": "1KI 12:25",
+          "end_ref": "11012033",
+          "end_ref_usfm": "1KI 12:33"
+        },
+        {
+          "start_ref": "11014021",
+          "start_ref_usfm": "1KI 14:21",
+          "end_ref": "11014031",
+          "end_ref_usfm": "1KI 14:31"
         },
         {
           "start_ref": "44028017",
@@ -3127,6 +4999,126 @@
           "start_ref_usfm": "ACT 10:34",
           "end_ref": "44010048",
           "end_ref_usfm": "ACT 10:48"
+        },
+        {
+          "start_ref": "13006001",
+          "start_ref_usfm": "1CH 6:1",
+          "end_ref": "13006015",
+          "end_ref_usfm": "1CH 6:15"
+        },
+        {
+          "start_ref": "11013011",
+          "start_ref_usfm": "1KI 13:11",
+          "end_ref": "11013022",
+          "end_ref_usfm": "1KI 13:22"
+        },
+        {
+          "start_ref": "11016029",
+          "start_ref_usfm": "1KI 16:29",
+          "end_ref": "11016034",
+          "end_ref_usfm": "1KI 16:34"
+        },
+        {
+          "start_ref": "11022001",
+          "start_ref_usfm": "1KI 22:1",
+          "end_ref": "11022012",
+          "end_ref_usfm": "1KI 22:12"
+        },
+        {
+          "start_ref": "11022041",
+          "start_ref_usfm": "1KI 22:41",
+          "end_ref": "11022053",
+          "end_ref_usfm": "1KI 22:53"
+        },
+        {
+          "start_ref": "11019001",
+          "start_ref_usfm": "1KI 19:1",
+          "end_ref": "11019008",
+          "end_ref_usfm": "1KI 19:8"
+        },
+        {
+          "start_ref": "10012001",
+          "start_ref_usfm": "2SA 12:1",
+          "end_ref": "10012015",
+          "end_ref_usfm": "2SA 12:15"
+        },
+        {
+          "start_ref": "10019008",
+          "start_ref_usfm": "2SA 19:8",
+          "end_ref": "10019018",
+          "end_ref_usfm": "2SA 19:18"
+        },
+        {
+          "start_ref": "11001028",
+          "start_ref_usfm": "1KI 1:28",
+          "end_ref": "11001037",
+          "end_ref_usfm": "1KI 1:37"
+        },
+        {
+          "start_ref": "10003006",
+          "start_ref_usfm": "2SA 3:6",
+          "end_ref": "10003021",
+          "end_ref_usfm": "2SA 3:21"
+        },
+        {
+          "start_ref": "11015033",
+          "start_ref_usfm": "1KI 15:33",
+          "end_ref": "11016007",
+          "end_ref_usfm": "1KI 16:7"
+        },
+        {
+          "start_ref": "10019040",
+          "start_ref_usfm": "2SA 19:40",
+          "end_ref": "10019043",
+          "end_ref_usfm": "2SA 19:43"
+        },
+        {
+          "start_ref": "11012016",
+          "start_ref_usfm": "1KI 12:16",
+          "end_ref": "11012024",
+          "end_ref_usfm": "1KI 12:24"
+        },
+        {
+          "start_ref": "13005011",
+          "start_ref_usfm": "1CH 5:11",
+          "end_ref": "13005017",
+          "end_ref_usfm": "1CH 5:17"
+        },
+        {
+          "start_ref": "13009001",
+          "start_ref_usfm": "1CH 9:1",
+          "end_ref": "13009009",
+          "end_ref_usfm": "1CH 9:9"
+        },
+        {
+          "start_ref": "13028001",
+          "start_ref_usfm": "1CH 28:1",
+          "end_ref": "13028008",
+          "end_ref_usfm": "1CH 28:8"
+        },
+        {
+          "start_ref": "11004020",
+          "start_ref_usfm": "1KI 4:20",
+          "end_ref": "11004028",
+          "end_ref_usfm": "1KI 4:28"
+        },
+        {
+          "start_ref": "11016015",
+          "start_ref_usfm": "1KI 16:15",
+          "end_ref": "11016020",
+          "end_ref_usfm": "1KI 16:20"
+        },
+        {
+          "start_ref": "13002009",
+          "start_ref_usfm": "1CH 2:9",
+          "end_ref": "13002017",
+          "end_ref_usfm": "1CH 2:17"
+        },
+        {
+          "start_ref": "13005001",
+          "start_ref_usfm": "1CH 5:1",
+          "end_ref": "13005010",
+          "end_ref_usfm": "1CH 5:10"
         }
       ],
       "resource": [
@@ -3145,24 +5137,10 @@
           "language": "eng"
         },
         {
-          "reference_id": 186495,
-          "content_id": 280075,
-          "resource_code": "Unknown",
-          "label": "nation",
-          "language": "eng"
-        },
-        {
           "reference_id": 186508,
           "content_id": 280088,
           "resource_code": "Unknown",
           "label": "Galilee",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186495,
-          "content_id": 341075,
-          "resource_code": "Unknown",
-          "label": "nation",
           "language": "eng"
         },
         {
@@ -3173,8 +5151,43 @@
           "language": "eng"
         },
         {
+          "reference_id": 186495,
+          "content_id": 280075,
+          "resource_code": "Unknown",
+          "label": "nation",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186495,
+          "content_id": 341075,
+          "resource_code": "Unknown",
+          "label": "nation",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186627,
+          "content_id": 280207,
+          "resource_code": "Unknown",
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186627,
+          "content_id": 341229,
+          "resource_code": "Unknown",
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
           "reference_id": 186523,
           "content_id": 280103,
+          "resource_code": "Unknown",
+          "label": "Jerusalem",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186523,
+          "content_id": 341106,
           "resource_code": "Unknown",
           "label": "Jerusalem",
           "language": "eng"
@@ -3187,24 +5200,563 @@
           "language": "eng"
         },
         {
-          "reference_id": 186627,
-          "content_id": 280207,
-          "resource_code": "Unknown",
-          "label": "Israel",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186523,
-          "content_id": 341106,
-          "resource_code": "Unknown",
-          "label": "Jerusalem",
-          "language": "eng"
-        },
-        {
           "reference_id": 186525,
           "content_id": 341109,
           "resource_code": "Unknown",
           "label": "Jew",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186562,
+          "content_id": 280142,
+          "resource_code": "Unknown",
+          "label": "Israelite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186562,
+          "content_id": 341150,
+          "resource_code": "Unknown",
+          "label": "Israelite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 222606,
+          "content_id": 871706,
+          "resource_code": "Unknown",
+          "label": "Samaria",
+          "language": "eng"
+        },
+        {
+          "reference_id": 222606,
+          "content_id": 871707,
+          "resource_code": "Unknown",
+          "label": "Samaria",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": "871768",
+    "reference_id": 222621,
+    "version": "1.0.1",
+    "title": "judge",
+    "media_type": "Text",
+    "index_reference": "judge",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<p>Someone <strong>judges</strong> actions that people do by deciding if what they do is right or wrong, and therefore if the person is guilty or innocent of breaking a law. A judge will punish the person if the judge decides that the person is guilty of doing wrong.</p><p>Before the nation of <span data-bnType=\"resourceReference\" data-resourceId=\"186627\" data-resourceType=\"FIAKeyTerms\">Israel</span> had <span data-bnType=\"resourceReference\" data-resourceId=\"186796\" data-resourceType=\"FIAKeyTerms\">kings</span>, God gave them leaders that they called judges. Someone wrote the judges&apos; stories in a book that we now call the book of Judges. The judges we hear about in the book of Judges did not act as traditional judges in that they did not always decide if someone was guilty of breaking a law. These judges were often military leaders who rescued the Israelites from their enemies. Sometimes, as in the case of Deborah, these judges were prophet-leaders who helped Israel follow God.</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44013013",
+          "start_ref_usfm": "ACT 13:13",
+          "end_ref": "44013022",
+          "end_ref_usfm": "ACT 13:22"
+        },
+        {
+          "start_ref": "10018019",
+          "start_ref_usfm": "2SA 18:19",
+          "end_ref": "10018033",
+          "end_ref_usfm": "2SA 18:33"
+        },
+        {
+          "start_ref": "10007001",
+          "start_ref_usfm": "2SA 7:1",
+          "end_ref": "10007017",
+          "end_ref_usfm": "2SA 7:17"
+        },
+        {
+          "start_ref": "46006001",
+          "start_ref_usfm": "1CO 6:1",
+          "end_ref": "46006011",
+          "end_ref_usfm": "1CO 6:11"
+        },
+        {
+          "start_ref": "11003016",
+          "start_ref_usfm": "1KI 3:16",
+          "end_ref": "11003028",
+          "end_ref_usfm": "1KI 3:28"
+        },
+        {
+          "start_ref": "06008030",
+          "start_ref_usfm": "JOS 8:30",
+          "end_ref": "06008035",
+          "end_ref_usfm": "JOS 8:35"
+        },
+        {
+          "start_ref": "59002008",
+          "start_ref_usfm": "JAS 2:8",
+          "end_ref": "59002013",
+          "end_ref_usfm": "JAS 2:13"
+        },
+        {
+          "start_ref": "59002001",
+          "start_ref_usfm": "JAS 2:1",
+          "end_ref": "59002007",
+          "end_ref_usfm": "JAS 2:7"
+        },
+        {
+          "start_ref": "59003001",
+          "start_ref_usfm": "JAS 3:1",
+          "end_ref": "59003012",
+          "end_ref_usfm": "JAS 3:12"
+        },
+        {
+          "start_ref": "59005007",
+          "start_ref_usfm": "JAS 5:7",
+          "end_ref": "59005012",
+          "end_ref_usfm": "JAS 5:12"
+        },
+        {
+          "start_ref": "07003007",
+          "start_ref_usfm": "JDG 3:7",
+          "end_ref": "07003011",
+          "end_ref_usfm": "JDG 3:11"
+        },
+        {
+          "start_ref": "13026029",
+          "start_ref_usfm": "1CH 26:29",
+          "end_ref": "13026032",
+          "end_ref_usfm": "1CH 26:32"
+        },
+        {
+          "start_ref": "13017001",
+          "start_ref_usfm": "1CH 17:1",
+          "end_ref": "13017015",
+          "end_ref_usfm": "1CH 17:15"
+        },
+        {
+          "start_ref": "11007001",
+          "start_ref_usfm": "1KI 7:1",
+          "end_ref": "11007012",
+          "end_ref_usfm": "1KI 7:12"
+        },
+        {
+          "start_ref": "19001001",
+          "start_ref_usfm": "PSA 1:1",
+          "end_ref": "19001006",
+          "end_ref_usfm": "PSA 1:6"
+        },
+        {
+          "start_ref": "07015009",
+          "start_ref_usfm": "JDG 15:9",
+          "end_ref": "07015020",
+          "end_ref_usfm": "JDG 15:20"
+        },
+        {
+          "start_ref": "53001005",
+          "start_ref_usfm": "2TH 1:5",
+          "end_ref": "53001012",
+          "end_ref_usfm": "2TH 1:12"
+        },
+        {
+          "start_ref": "53002001",
+          "start_ref_usfm": "2TH 2:1",
+          "end_ref": "53002012",
+          "end_ref_usfm": "2TH 2:12"
+        },
+        {
+          "start_ref": "07012008",
+          "start_ref_usfm": "JDG 12:8",
+          "end_ref": "07012015",
+          "end_ref_usfm": "JDG 12:15"
+        },
+        {
+          "start_ref": "55004001",
+          "start_ref_usfm": "2TI 4:1",
+          "end_ref": "55004008",
+          "end_ref_usfm": "2TI 4:8"
+        },
+        {
+          "start_ref": "06024001",
+          "start_ref_usfm": "JOS 24:1",
+          "end_ref": "06024013",
+          "end_ref_usfm": "JOS 24:13"
+        },
+        {
+          "start_ref": "07010001",
+          "start_ref_usfm": "JDG 10:1",
+          "end_ref": "07010005",
+          "end_ref_usfm": "JDG 10:5"
+        },
+        {
+          "start_ref": "07011012",
+          "start_ref_usfm": "JDG 11:12",
+          "end_ref": "07011028",
+          "end_ref_usfm": "JDG 11:28"
+        },
+        {
+          "start_ref": "09007003",
+          "start_ref_usfm": "1SA 7:3",
+          "end_ref": "09007017",
+          "end_ref_usfm": "1SA 7:17"
+        },
+        {
+          "start_ref": "10015001",
+          "start_ref_usfm": "2SA 15:1",
+          "end_ref": "10015012",
+          "end_ref_usfm": "2SA 15:12"
+        },
+        {
+          "start_ref": "07004001",
+          "start_ref_usfm": "JDG 4:1",
+          "end_ref": "07004010",
+          "end_ref_usfm": "JDG 4:10"
+        },
+        {
+          "start_ref": "11003001",
+          "start_ref_usfm": "1KI 3:1",
+          "end_ref": "11003015",
+          "end_ref_usfm": "1KI 3:15"
+        },
+        {
+          "start_ref": "11008031",
+          "start_ref_usfm": "1KI 8:31",
+          "end_ref": "11008053",
+          "end_ref_usfm": "1KI 8:53"
+        },
+        {
+          "start_ref": "09024008",
+          "start_ref_usfm": "1SA 24:8",
+          "end_ref": "09024022",
+          "end_ref_usfm": "1SA 24:22"
+        },
+        {
+          "start_ref": "13023001",
+          "start_ref_usfm": "1CH 23:1",
+          "end_ref": "13023006",
+          "end_ref_usfm": "1CH 23:6"
+        },
+        {
+          "start_ref": "06023001",
+          "start_ref_usfm": "JOS 23:1",
+          "end_ref": "06023008",
+          "end_ref_usfm": "JOS 23:8"
+        },
+        {
+          "start_ref": "09008001",
+          "start_ref_usfm": "1SA 8:1",
+          "end_ref": "09008009",
+          "end_ref_usfm": "1SA 8:9"
+        },
+        {
+          "start_ref": "09004012",
+          "start_ref_usfm": "1SA 4:12",
+          "end_ref": "09004022",
+          "end_ref_usfm": "1SA 4:22"
+        },
+        {
+          "start_ref": "13016023",
+          "start_ref_usfm": "1CH 16:23",
+          "end_ref": "13016033",
+          "end_ref_usfm": "1CH 16:33"
+        },
+        {
+          "start_ref": "07002011",
+          "start_ref_usfm": "JDG 2:11",
+          "end_ref": "07002019",
+          "end_ref_usfm": "JDG 2:19"
+        },
+        {
+          "start_ref": "07012001",
+          "start_ref_usfm": "JDG 12:1",
+          "end_ref": "07012007",
+          "end_ref_usfm": "JDG 12:7"
+        },
+        {
+          "start_ref": "59004011",
+          "start_ref_usfm": "JAS 4:11",
+          "end_ref": "59004017",
+          "end_ref_usfm": "JAS 4:17"
+        },
+        {
+          "start_ref": "62004013",
+          "start_ref_usfm": "1JN 4:13",
+          "end_ref": "62004021",
+          "end_ref_usfm": "1JN 4:21"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186627,
+          "content_id": 280207,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186627,
+          "content_id": 341229,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186796,
+          "content_id": 341020,
+          "resource_code": "FIAKeyTerms",
+          "label": "king",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186796,
+          "content_id": 341119,
+          "resource_code": "FIAKeyTerms",
+          "label": "king",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": "871769",
+    "reference_id": 222621,
+    "version": "1.0.1",
+    "title": "judge",
+    "media_type": "Audio",
+    "index_reference": "judge",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Audio Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAKeyTerms/ENG/audio/webm/t289-judge.webm'>webm file</a> (481215 KB)</p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAKeyTerms/ENG/audio/mp3/t289-judge.mp3'>mp3 file</a> (599492 KB)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44013013",
+          "start_ref_usfm": "ACT 13:13",
+          "end_ref": "44013022",
+          "end_ref_usfm": "ACT 13:22"
+        },
+        {
+          "start_ref": "10018019",
+          "start_ref_usfm": "2SA 18:19",
+          "end_ref": "10018033",
+          "end_ref_usfm": "2SA 18:33"
+        },
+        {
+          "start_ref": "10007001",
+          "start_ref_usfm": "2SA 7:1",
+          "end_ref": "10007017",
+          "end_ref_usfm": "2SA 7:17"
+        },
+        {
+          "start_ref": "46006001",
+          "start_ref_usfm": "1CO 6:1",
+          "end_ref": "46006011",
+          "end_ref_usfm": "1CO 6:11"
+        },
+        {
+          "start_ref": "11003016",
+          "start_ref_usfm": "1KI 3:16",
+          "end_ref": "11003028",
+          "end_ref_usfm": "1KI 3:28"
+        },
+        {
+          "start_ref": "06008030",
+          "start_ref_usfm": "JOS 8:30",
+          "end_ref": "06008035",
+          "end_ref_usfm": "JOS 8:35"
+        },
+        {
+          "start_ref": "59002008",
+          "start_ref_usfm": "JAS 2:8",
+          "end_ref": "59002013",
+          "end_ref_usfm": "JAS 2:13"
+        },
+        {
+          "start_ref": "59002001",
+          "start_ref_usfm": "JAS 2:1",
+          "end_ref": "59002007",
+          "end_ref_usfm": "JAS 2:7"
+        },
+        {
+          "start_ref": "59003001",
+          "start_ref_usfm": "JAS 3:1",
+          "end_ref": "59003012",
+          "end_ref_usfm": "JAS 3:12"
+        },
+        {
+          "start_ref": "59005007",
+          "start_ref_usfm": "JAS 5:7",
+          "end_ref": "59005012",
+          "end_ref_usfm": "JAS 5:12"
+        },
+        {
+          "start_ref": "07003007",
+          "start_ref_usfm": "JDG 3:7",
+          "end_ref": "07003011",
+          "end_ref_usfm": "JDG 3:11"
+        },
+        {
+          "start_ref": "13026029",
+          "start_ref_usfm": "1CH 26:29",
+          "end_ref": "13026032",
+          "end_ref_usfm": "1CH 26:32"
+        },
+        {
+          "start_ref": "13017001",
+          "start_ref_usfm": "1CH 17:1",
+          "end_ref": "13017015",
+          "end_ref_usfm": "1CH 17:15"
+        },
+        {
+          "start_ref": "11007001",
+          "start_ref_usfm": "1KI 7:1",
+          "end_ref": "11007012",
+          "end_ref_usfm": "1KI 7:12"
+        },
+        {
+          "start_ref": "19001001",
+          "start_ref_usfm": "PSA 1:1",
+          "end_ref": "19001006",
+          "end_ref_usfm": "PSA 1:6"
+        },
+        {
+          "start_ref": "07015009",
+          "start_ref_usfm": "JDG 15:9",
+          "end_ref": "07015020",
+          "end_ref_usfm": "JDG 15:20"
+        },
+        {
+          "start_ref": "53001005",
+          "start_ref_usfm": "2TH 1:5",
+          "end_ref": "53001012",
+          "end_ref_usfm": "2TH 1:12"
+        },
+        {
+          "start_ref": "53002001",
+          "start_ref_usfm": "2TH 2:1",
+          "end_ref": "53002012",
+          "end_ref_usfm": "2TH 2:12"
+        },
+        {
+          "start_ref": "07012008",
+          "start_ref_usfm": "JDG 12:8",
+          "end_ref": "07012015",
+          "end_ref_usfm": "JDG 12:15"
+        },
+        {
+          "start_ref": "55004001",
+          "start_ref_usfm": "2TI 4:1",
+          "end_ref": "55004008",
+          "end_ref_usfm": "2TI 4:8"
+        },
+        {
+          "start_ref": "06024001",
+          "start_ref_usfm": "JOS 24:1",
+          "end_ref": "06024013",
+          "end_ref_usfm": "JOS 24:13"
+        },
+        {
+          "start_ref": "07010001",
+          "start_ref_usfm": "JDG 10:1",
+          "end_ref": "07010005",
+          "end_ref_usfm": "JDG 10:5"
+        },
+        {
+          "start_ref": "07011012",
+          "start_ref_usfm": "JDG 11:12",
+          "end_ref": "07011028",
+          "end_ref_usfm": "JDG 11:28"
+        },
+        {
+          "start_ref": "09007003",
+          "start_ref_usfm": "1SA 7:3",
+          "end_ref": "09007017",
+          "end_ref_usfm": "1SA 7:17"
+        },
+        {
+          "start_ref": "10015001",
+          "start_ref_usfm": "2SA 15:1",
+          "end_ref": "10015012",
+          "end_ref_usfm": "2SA 15:12"
+        },
+        {
+          "start_ref": "07004001",
+          "start_ref_usfm": "JDG 4:1",
+          "end_ref": "07004010",
+          "end_ref_usfm": "JDG 4:10"
+        },
+        {
+          "start_ref": "11003001",
+          "start_ref_usfm": "1KI 3:1",
+          "end_ref": "11003015",
+          "end_ref_usfm": "1KI 3:15"
+        },
+        {
+          "start_ref": "11008031",
+          "start_ref_usfm": "1KI 8:31",
+          "end_ref": "11008053",
+          "end_ref_usfm": "1KI 8:53"
+        },
+        {
+          "start_ref": "09024008",
+          "start_ref_usfm": "1SA 24:8",
+          "end_ref": "09024022",
+          "end_ref_usfm": "1SA 24:22"
+        },
+        {
+          "start_ref": "13023001",
+          "start_ref_usfm": "1CH 23:1",
+          "end_ref": "13023006",
+          "end_ref_usfm": "1CH 23:6"
+        },
+        {
+          "start_ref": "06023001",
+          "start_ref_usfm": "JOS 23:1",
+          "end_ref": "06023008",
+          "end_ref_usfm": "JOS 23:8"
+        },
+        {
+          "start_ref": "09008001",
+          "start_ref_usfm": "1SA 8:1",
+          "end_ref": "09008009",
+          "end_ref_usfm": "1SA 8:9"
+        },
+        {
+          "start_ref": "09004012",
+          "start_ref_usfm": "1SA 4:12",
+          "end_ref": "09004022",
+          "end_ref_usfm": "1SA 4:22"
+        },
+        {
+          "start_ref": "13016023",
+          "start_ref_usfm": "1CH 16:23",
+          "end_ref": "13016033",
+          "end_ref_usfm": "1CH 16:33"
+        },
+        {
+          "start_ref": "07002011",
+          "start_ref_usfm": "JDG 2:11",
+          "end_ref": "07002019",
+          "end_ref_usfm": "JDG 2:19"
+        },
+        {
+          "start_ref": "07012001",
+          "start_ref_usfm": "JDG 12:1",
+          "end_ref": "07012007",
+          "end_ref_usfm": "JDG 12:7"
+        },
+        {
+          "start_ref": "59004011",
+          "start_ref_usfm": "JAS 4:11",
+          "end_ref": "59004017",
+          "end_ref_usfm": "JAS 4:17"
+        },
+        {
+          "start_ref": "62004013",
+          "start_ref_usfm": "1JN 4:13",
+          "end_ref": "62004021",
+          "end_ref_usfm": "1JN 4:21"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186627,
+          "content_id": 280207,
+          "resource_code": "Unknown",
+          "label": "Israel",
           "language": "eng"
         },
         {
@@ -3213,19 +5765,33 @@
           "resource_code": "Unknown",
           "label": "Israel",
           "language": "eng"
+        },
+        {
+          "reference_id": 186796,
+          "content_id": 341020,
+          "resource_code": "Unknown",
+          "label": "king",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186796,
+          "content_id": 341119,
+          "resource_code": "Unknown",
+          "label": "king",
+          "language": "eng"
         }
       ]
     }
   },
   {
-    "content_id": 341029,
+    "content_id": "341029",
     "reference_id": 186805,
     "version": "1.0.1",
     "title": "justice",
     "media_type": "Text",
     "index_reference": "justice",
     "language": "eng",
-    "review_level": "None",
+    "review_level": "Professional",
     "content": "<p>Justice is when someone treats someone else fairly according to the law. When justice is happening in an entire society, then everybody treats each other equally and fairly. In a just society, people in <span data-bnType=\"resourceReference\" data-resourceId=\"186527\" data-resourceType=\"FIAKeyTerms\">authority</span> punish those who do wrong and protect people who are poor and weak.</p>",
     "associations": {
       "passage": [
@@ -3248,10 +5814,70 @@
           "end_ref_usfm": "GEN 18:33"
         },
         {
+          "start_ref": "11003016",
+          "start_ref_usfm": "1KI 3:16",
+          "end_ref": "11003028",
+          "end_ref_usfm": "1KI 3:28"
+        },
+        {
+          "start_ref": "11007001",
+          "start_ref_usfm": "1KI 7:1",
+          "end_ref": "11007012",
+          "end_ref_usfm": "1KI 7:12"
+        },
+        {
+          "start_ref": "53001005",
+          "start_ref_usfm": "2TH 1:5",
+          "end_ref": "53001012",
+          "end_ref_usfm": "2TH 1:12"
+        },
+        {
           "start_ref": "02023001",
           "start_ref_usfm": "EXO 23:1",
           "end_ref": "02023009",
           "end_ref_usfm": "EXO 23:9"
+        },
+        {
+          "start_ref": "13018014",
+          "start_ref_usfm": "1CH 18:14",
+          "end_ref": "13018017",
+          "end_ref_usfm": "1CH 18:17"
+        },
+        {
+          "start_ref": "10008015",
+          "start_ref_usfm": "2SA 8:15",
+          "end_ref": "10008018",
+          "end_ref_usfm": "2SA 8:18"
+        },
+        {
+          "start_ref": "11009026",
+          "start_ref_usfm": "1KI 9:26",
+          "end_ref": "11010013",
+          "end_ref_usfm": "1KI 10:13"
+        },
+        {
+          "start_ref": "10015001",
+          "start_ref_usfm": "2SA 15:1",
+          "end_ref": "10015012",
+          "end_ref_usfm": "2SA 15:12"
+        },
+        {
+          "start_ref": "11003001",
+          "start_ref_usfm": "1KI 3:1",
+          "end_ref": "11003015",
+          "end_ref_usfm": "1KI 3:15"
+        },
+        {
+          "start_ref": "11008054",
+          "start_ref_usfm": "1KI 8:54",
+          "end_ref": "11008061",
+          "end_ref_usfm": "1KI 8:61"
+        },
+        {
+          "start_ref": "09008001",
+          "start_ref_usfm": "1SA 8:1",
+          "end_ref": "09008009",
+          "end_ref_usfm": "1SA 8:9"
         }
       ],
       "resource": [
@@ -3273,15 +5899,15 @@
     }
   },
   {
-    "content_id": 341174,
+    "content_id": "341174",
     "reference_id": 186805,
     "version": "1.0.1",
     "title": "justice",
     "media_type": "Audio",
     "index_reference": "justice",
     "language": "eng",
-    "review_level": "None",
-    "content": "<h3>Audio Content</h3>\n",
+    "review_level": "Professional",
+    "content": "<h3>Audio Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAKeyTerms/ENG/audio/webm/t224-justice.webm'>webm file</a> (216963 KB)</p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAKeyTerms/ENG/audio/mp3/t224-justice.mp3'>mp3 file</a> (288044 KB)</p>",
     "associations": {
       "passage": [
         {
@@ -3303,10 +5929,70 @@
           "end_ref_usfm": "GEN 18:33"
         },
         {
+          "start_ref": "11003016",
+          "start_ref_usfm": "1KI 3:16",
+          "end_ref": "11003028",
+          "end_ref_usfm": "1KI 3:28"
+        },
+        {
+          "start_ref": "11007001",
+          "start_ref_usfm": "1KI 7:1",
+          "end_ref": "11007012",
+          "end_ref_usfm": "1KI 7:12"
+        },
+        {
+          "start_ref": "53001005",
+          "start_ref_usfm": "2TH 1:5",
+          "end_ref": "53001012",
+          "end_ref_usfm": "2TH 1:12"
+        },
+        {
           "start_ref": "02023001",
           "start_ref_usfm": "EXO 23:1",
           "end_ref": "02023009",
           "end_ref_usfm": "EXO 23:9"
+        },
+        {
+          "start_ref": "13018014",
+          "start_ref_usfm": "1CH 18:14",
+          "end_ref": "13018017",
+          "end_ref_usfm": "1CH 18:17"
+        },
+        {
+          "start_ref": "10008015",
+          "start_ref_usfm": "2SA 8:15",
+          "end_ref": "10008018",
+          "end_ref_usfm": "2SA 8:18"
+        },
+        {
+          "start_ref": "11009026",
+          "start_ref_usfm": "1KI 9:26",
+          "end_ref": "11010013",
+          "end_ref_usfm": "1KI 10:13"
+        },
+        {
+          "start_ref": "10015001",
+          "start_ref_usfm": "2SA 15:1",
+          "end_ref": "10015012",
+          "end_ref_usfm": "2SA 15:12"
+        },
+        {
+          "start_ref": "11003001",
+          "start_ref_usfm": "1KI 3:1",
+          "end_ref": "11003015",
+          "end_ref_usfm": "1KI 3:15"
+        },
+        {
+          "start_ref": "11008054",
+          "start_ref_usfm": "1KI 8:54",
+          "end_ref": "11008061",
+          "end_ref_usfm": "1KI 8:61"
+        },
+        {
+          "start_ref": "09008001",
+          "start_ref_usfm": "1SA 8:1",
+          "end_ref": "09008009",
+          "end_ref_usfm": "1SA 8:9"
         }
       ],
       "resource": [
@@ -3322,6 +6008,248 @@
           "content_id": 341112,
           "resource_code": "Unknown",
           "label": "authority",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": "871765",
+    "reference_id": 222620,
+    "version": "1.0.1",
+    "title": "justify",
+    "media_type": "Text",
+    "index_reference": "justify",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<p>When a person <strong>justifies</strong> someone, he declares that person not guilty. When God declares a person not guilty, that means the person is <span data-bnType=\"resourceReference\" data-resourceId=\"186478\" data-resourceType=\"FIAKeyTerms\">righteous</span> and has a right relationship with God. In the New Testament, God will only justify a person if they trust in Jesus as the <span data-bnType=\"resourceReference\" data-resourceId=\"186512\" data-resourceType=\"FIAKeyTerms\">Savior</span>, or the <span data-bnType=\"resourceReference\" data-resourceId=\"186574\" data-resourceType=\"FIAKeyTerms\">Christ</span>, that God has sent to rescue people from their <span data-bnType=\"resourceReference\" data-resourceId=\"186477\" data-resourceType=\"FIAKeyTerms\">sins</span>. This means believers in Jesus can have a right relationship with God and God justifies them.</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "46006001",
+          "start_ref_usfm": "1CO 6:1",
+          "end_ref": "46006011",
+          "end_ref_usfm": "1CO 6:11"
+        },
+        {
+          "start_ref": "48002015",
+          "start_ref_usfm": "GAL 2:15",
+          "end_ref": "48002021",
+          "end_ref_usfm": "GAL 2:21"
+        },
+        {
+          "start_ref": "48003010",
+          "start_ref_usfm": "GAL 3:10",
+          "end_ref": "48003014",
+          "end_ref_usfm": "GAL 3:14"
+        },
+        {
+          "start_ref": "56003001",
+          "start_ref_usfm": "TIT 3:1",
+          "end_ref": "56003011",
+          "end_ref_usfm": "TIT 3:11"
+        },
+        {
+          "start_ref": "48003001",
+          "start_ref_usfm": "GAL 3:1",
+          "end_ref": "48003009",
+          "end_ref_usfm": "GAL 3:9"
+        },
+        {
+          "start_ref": "48005002",
+          "start_ref_usfm": "GAL 5:2",
+          "end_ref": "48005006",
+          "end_ref_usfm": "GAL 5:6"
+        },
+        {
+          "start_ref": "44013023",
+          "start_ref_usfm": "ACT 13:23",
+          "end_ref": "44013041",
+          "end_ref_usfm": "ACT 13:41"
+        },
+        {
+          "start_ref": "48003019",
+          "start_ref_usfm": "GAL 3:19",
+          "end_ref": "48003025",
+          "end_ref_usfm": "GAL 3:25"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186477,
+          "content_id": 280057,
+          "resource_code": "FIAKeyTerms",
+          "label": "sin",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186477,
+          "content_id": 341053,
+          "resource_code": "FIAKeyTerms",
+          "label": "sin",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186478,
+          "content_id": 280058,
+          "resource_code": "FIAKeyTerms",
+          "label": "righteousness",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186478,
+          "content_id": 341054,
+          "resource_code": "FIAKeyTerms",
+          "label": "righteousness",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186512,
+          "content_id": 280092,
+          "resource_code": "FIAKeyTerms",
+          "label": "Savior",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186512,
+          "content_id": 341094,
+          "resource_code": "FIAKeyTerms",
+          "label": "Savior",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186574,
+          "content_id": 280154,
+          "resource_code": "FIAKeyTerms",
+          "label": "Christ",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186574,
+          "content_id": 341167,
+          "resource_code": "FIAKeyTerms",
+          "label": "Christ",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": "871766",
+    "reference_id": 222620,
+    "version": "1.0.1",
+    "title": "justify",
+    "media_type": "Audio",
+    "index_reference": "justify",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Audio Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAKeyTerms/ENG/audio/webm/t281-justify.webm'>webm file</a> (329807 KB)</p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAKeyTerms/ENG/audio/mp3/t281-justify.mp3'>mp3 file</a> (416348 KB)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "46006001",
+          "start_ref_usfm": "1CO 6:1",
+          "end_ref": "46006011",
+          "end_ref_usfm": "1CO 6:11"
+        },
+        {
+          "start_ref": "48002015",
+          "start_ref_usfm": "GAL 2:15",
+          "end_ref": "48002021",
+          "end_ref_usfm": "GAL 2:21"
+        },
+        {
+          "start_ref": "48003010",
+          "start_ref_usfm": "GAL 3:10",
+          "end_ref": "48003014",
+          "end_ref_usfm": "GAL 3:14"
+        },
+        {
+          "start_ref": "56003001",
+          "start_ref_usfm": "TIT 3:1",
+          "end_ref": "56003011",
+          "end_ref_usfm": "TIT 3:11"
+        },
+        {
+          "start_ref": "48003001",
+          "start_ref_usfm": "GAL 3:1",
+          "end_ref": "48003009",
+          "end_ref_usfm": "GAL 3:9"
+        },
+        {
+          "start_ref": "48005002",
+          "start_ref_usfm": "GAL 5:2",
+          "end_ref": "48005006",
+          "end_ref_usfm": "GAL 5:6"
+        },
+        {
+          "start_ref": "44013023",
+          "start_ref_usfm": "ACT 13:23",
+          "end_ref": "44013041",
+          "end_ref_usfm": "ACT 13:41"
+        },
+        {
+          "start_ref": "48003019",
+          "start_ref_usfm": "GAL 3:19",
+          "end_ref": "48003025",
+          "end_ref_usfm": "GAL 3:25"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186477,
+          "content_id": 280057,
+          "resource_code": "Unknown",
+          "label": "sin",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186477,
+          "content_id": 341053,
+          "resource_code": "Unknown",
+          "label": "sin",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186478,
+          "content_id": 280058,
+          "resource_code": "Unknown",
+          "label": "righteousness",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186478,
+          "content_id": 341054,
+          "resource_code": "Unknown",
+          "label": "righteousness",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186512,
+          "content_id": 280092,
+          "resource_code": "Unknown",
+          "label": "Savior",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186512,
+          "content_id": 341094,
+          "resource_code": "Unknown",
+          "label": "Savior",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186574,
+          "content_id": 280154,
+          "resource_code": "Unknown",
+          "label": "Christ",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186574,
+          "content_id": 341167,
+          "resource_code": "Unknown",
+          "label": "Christ",
           "language": "eng"
         }
       ]

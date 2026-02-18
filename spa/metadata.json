@@ -1,0 +1,781 @@
+{
+"resource_metadata": {
+"aquifer_type": "Dictionary",
+"resource_type": "Translation Glossary",
+"title": "Familiarization, Internalization, Articulation (FIA) Key Terms",
+"aquifer_name": "Términos Clave (SRV)",
+"version": "1.0.1",
+"collection_title": "Key Terms (FIA)",
+"short_name": "FIA",
+"license_info": {
+"title": "Familiarization, Internalization, Articulation (Fia) Terms",
+"copyright": {
+"dates": "2023",
+"holder": {
+"name": "SRV Partners",
+"url": "https://srvpartners.org/home/"
+}
+},
+"licenses": [
+{
+"eng": {
+"name": "CC BY-SA 4.0 license",
+"url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+}
+}
+],
+"showAdaptationNoticeForEnglish": false,
+"showAdaptationNoticeForNonEnglish": true
+},
+"adaptation_notice": "<p><b>Familiarization, Internalization, Articulation (FIA) Key Terms</b> © 2023 SRV Partners Released under CC BY-SA 4.0 license. <cite>Familiarization, Internalization, Articulation (FIA) Key Terms</cite> has been adapted in the following languages Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Familiarization, Internalization, Articulation (FIA)</cite> © 2023 SRV Partners. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
+"resource_code": "FIAKeyTerms",
+"date_created": "2026-02-18",
+"language": "spa",
+"localizations": [
+"eng",
+"fra",
+"zhs",
+"por"
+],
+"order": "alphabetical",
+"content_type": "Html"
+},
+"scripture_burrito": {
+"format": "scripture burrito",
+"meta": {
+"version": "1.0.0",
+"category": "source",
+"defaultLocale": "en",
+"dateCreated": "2026-02-18T08:39:29.821498"
+},
+"idAuthorities": {
+"aquifer": {
+"id": "https://aquifer.bible",
+"name": {
+"en": "Bible Aquifer"
+}
+}
+},
+"identification": {
+"primary": {
+"aquifer": {
+"FIAKeyTerms": {
+"timestamp": "2026-02-18T08:39:29.821498"
+}
+}
+},
+"name": {
+"es": "Familiarization, Internalization, Articulation (Fia) Terms"
+},
+"abbreviation": {
+"es": "FIA"
+}
+},
+"languages": [
+{
+"tag": "es",
+"name": {
+"es": "Spanish"
+}
+}
+],
+"type": {
+"flavorType": {
+"name": "peripheral",
+"flavor": {
+"name": "textAquiferAlphabetical",
+"audience": "common"
+},
+"currentScope": {}
+}
+},
+"ingredients": {
+"json/001.content.json": {
+"mimeType": "text/json",
+"size": 20699,
+"scope": {
+"b": [
+"barco",
+"barco",
+"buenas nuevas",
+"buenas nuevas"
+]
+}
+},
+"json/002.content.json": {
+"mimeType": "text/json",
+"size": 8954,
+"scope": {
+"c": [
+"Cafarnaúm",
+"Cafarnaúm"
+]
+}
+},
+"json/003.content.json": {
+"mimeType": "text/json",
+"size": 56341,
+"scope": {
+"d": [
+"discípulo",
+"discípulo"
+]
+}
+},
+"json/004.content.json": {
+"mimeType": "text/json",
+"size": 40060,
+"scope": {
+"f": [
+"fe",
+"fe"
+]
+}
+},
+"json/005.content.json": {
+"mimeType": "text/json",
+"size": 24917,
+"scope": {
+"m": [
+"maestro",
+"maestro",
+"Mar de Galilea",
+"Mar de Galilea"
+]
+}
+},
+"json/006.content.json": {
+"mimeType": "text/json",
+"size": 56711,
+"scope": {
+"p": [
+"pecado",
+"pecado"
+]
+}
+},
+"json/007.content.json": {
+"mimeType": "text/json",
+"size": 74272,
+"scope": {
+"s": [
+"Señor",
+"Señor",
+"Señor",
+"Señor"
+]
+}
+},
+"md/001.content.md": {
+"mimeType": "text/markdown",
+"size": 7356
+},
+"md/002.content.md": {
+"mimeType": "text/markdown",
+"size": 2511
+},
+"md/003.content.md": {
+"mimeType": "text/markdown",
+"size": 9149
+},
+"md/004.content.md": {
+"mimeType": "text/markdown",
+"size": 8181
+},
+"md/005.content.md": {
+"mimeType": "text/markdown",
+"size": 5593
+},
+"md/006.content.md": {
+"mimeType": "text/markdown",
+"size": 13580
+},
+"md/007.content.md": {
+"mimeType": "text/markdown",
+"size": 12081
+},
+"docx/001.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 44154
+},
+"pdf/001.content.pdf": {
+"mimeType": "application/pdf",
+"size": 184620
+},
+"docx/002.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42459
+},
+"pdf/002.content.pdf": {
+"mimeType": "application/pdf",
+"size": 164679
+},
+"docx/003.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42934
+},
+"pdf/003.content.pdf": {
+"mimeType": "application/pdf",
+"size": 171961
+},
+"docx/004.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 43482
+},
+"pdf/004.content.pdf": {
+"mimeType": "application/pdf",
+"size": 176516
+},
+"docx/005.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 43002
+},
+"pdf/005.content.pdf": {
+"mimeType": "application/pdf",
+"size": 173157
+},
+"docx/006.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 44959
+},
+"pdf/006.content.pdf": {
+"mimeType": "application/pdf",
+"size": 185092
+},
+"docx/007.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 43076
+},
+"pdf/007.content.pdf": {
+"mimeType": "application/pdf",
+"size": 171980
+}
+},
+"copyright": {
+"licenses": [
+{
+"url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+}
+],
+"shortStatements": [
+{
+"statement": "<p>Familiarization, Internalization, Articulation (Fia) Terms © 2023 SRV Partners.</p>",
+"mimetype": "text/html",
+"lang": "es"
+}
+]
+}
+},
+"article_metadata": {
+"840359": {
+"content_id": "840359",
+"reference_id": 186477,
+"index_reference": "pecado",
+"localizations": {
+"eng": {
+"content_id": 341053,
+"language": "eng",
+"title": "sin"
+},
+"fra": {
+"content_id": 871433,
+"language": "fra",
+"title": "péché"
+},
+"zhs": {
+"content_id": 871434,
+"language": "zhs",
+"title": "罪"
+}
+}
+},
+"840370": {
+"content_id": "840370",
+"reference_id": 186477,
+"index_reference": "pecado",
+"localizations": {
+"eng": {
+"content_id": 341053,
+"language": "eng",
+"title": "sin"
+},
+"fra": {
+"content_id": 871433,
+"language": "fra",
+"title": "péché"
+},
+"zhs": {
+"content_id": 871434,
+"language": "zhs",
+"title": "罪"
+}
+}
+},
+"840353": {
+"content_id": "840353",
+"reference_id": 186522,
+"index_reference": "fe",
+"localizations": {
+"eng": {
+"content_id": 341105,
+"language": "eng",
+"title": "faith"
+},
+"fra": {
+"content_id": 871177,
+"language": "fra",
+"title": "foi"
+},
+"por": {
+"content_id": 871178,
+"language": "por",
+"title": "fé"
+},
+"zhs": {
+"content_id": 871179,
+"language": "zhs",
+"title": "信心"
+}
+}
+},
+"840363": {
+"content_id": "840363",
+"reference_id": 186522,
+"index_reference": "fe",
+"localizations": {
+"eng": {
+"content_id": 341105,
+"language": "eng",
+"title": "faith"
+},
+"fra": {
+"content_id": 871177,
+"language": "fra",
+"title": "foi"
+},
+"por": {
+"content_id": 871178,
+"language": "por",
+"title": "fé"
+},
+"zhs": {
+"content_id": 871179,
+"language": "zhs",
+"title": "信心"
+}
+}
+},
+"840356": {
+"content_id": "840356",
+"reference_id": 186534,
+"index_reference": "señor",
+"localizations": {
+"eng": {
+"content_id": 341120,
+"language": "eng",
+"title": "Lord"
+},
+"fra": {
+"content_id": 871310,
+"language": "fra",
+"title": "Seigneur"
+},
+"por": {
+"content_id": 871311,
+"language": "por",
+"title": "Senhor"
+},
+"zhs": {
+"content_id": 871312,
+"language": "zhs",
+"title": "主、耶和华"
+}
+}
+},
+"840366": {
+"content_id": "840366",
+"reference_id": 186534,
+"index_reference": "señor",
+"localizations": {
+"eng": {
+"content_id": 341120,
+"language": "eng",
+"title": "Lord"
+},
+"fra": {
+"content_id": 871310,
+"language": "fra",
+"title": "Seigneur"
+},
+"por": {
+"content_id": 871311,
+"language": "por",
+"title": "Senhor"
+},
+"zhs": {
+"content_id": 871312,
+"language": "zhs",
+"title": "主、耶和华"
+}
+}
+},
+"840351": {
+"content_id": "840351",
+"reference_id": 186558,
+"index_reference": "cafarnaúm",
+"localizations": {
+"eng": {
+"content_id": 341146,
+"language": "eng",
+"title": "Capernaum"
+},
+"fra": {
+"content_id": 871088,
+"language": "fra",
+"title": "Capernaüm"
+},
+"por": {
+"content_id": 871089,
+"language": "por",
+"title": "Cafarnaum"
+},
+"zhs": {
+"content_id": 871090,
+"language": "zhs",
+"title": "迦百农"
+}
+}
+},
+"840361": {
+"content_id": "840361",
+"reference_id": 186558,
+"index_reference": "cafarnaúm",
+"localizations": {
+"eng": {
+"content_id": 341146,
+"language": "eng",
+"title": "Capernaum"
+},
+"fra": {
+"content_id": 871088,
+"language": "fra",
+"title": "Capernaüm"
+},
+"por": {
+"content_id": 871089,
+"language": "por",
+"title": "Cafarnaum"
+},
+"zhs": {
+"content_id": 871090,
+"language": "zhs",
+"title": "迦百农"
+}
+}
+},
+"840354": {
+"content_id": "840354",
+"reference_id": 186578,
+"index_reference": "buenas nuevas",
+"localizations": {
+"eng": {
+"content_id": 341171,
+"language": "eng",
+"title": "good news"
+},
+"fra": {
+"content_id": 871559,
+"language": "fra",
+"title": "Bonne Nouvelle"
+},
+"por": {
+"content_id": 871560,
+"language": "por",
+"title": "boas novas"
+},
+"zhs": {
+"content_id": 871561,
+"language": "zhs",
+"title": "好消息"
+}
+}
+},
+"840365": {
+"content_id": "840365",
+"reference_id": 186578,
+"index_reference": "buenas nuevas",
+"localizations": {
+"eng": {
+"content_id": 341171,
+"language": "eng",
+"title": "good news"
+},
+"fra": {
+"content_id": 871559,
+"language": "fra",
+"title": "Bonne Nouvelle"
+},
+"por": {
+"content_id": 871560,
+"language": "por",
+"title": "boas novas"
+},
+"zhs": {
+"content_id": 871561,
+"language": "zhs",
+"title": "好消息"
+}
+}
+},
+"840357": {
+"content_id": "840357",
+"reference_id": 186609,
+"index_reference": "maestro",
+"localizations": {
+"eng": {
+"content_id": 341208,
+"language": "eng",
+"title": "master"
+},
+"fra": {
+"content_id": 871314,
+"language": "fra",
+"title": "maître"
+}
+}
+},
+"840368": {
+"content_id": "840368",
+"reference_id": 186609,
+"index_reference": "maestro",
+"localizations": {
+"eng": {
+"content_id": 341208,
+"language": "eng",
+"title": "master"
+},
+"fra": {
+"content_id": 871314,
+"language": "fra",
+"title": "maître"
+}
+}
+},
+"840355": {
+"content_id": "840355",
+"reference_id": 186611,
+"index_reference": "señor",
+"localizations": {
+"eng": {
+"content_id": 341211,
+"language": "eng",
+"title": "Lord"
+},
+"fra": {
+"content_id": 871306,
+"language": "fra",
+"title": "Seigneur"
+},
+"por": {
+"content_id": 871307,
+"language": "por",
+"title": "Senhor"
+},
+"zhs": {
+"content_id": 871308,
+"language": "zhs",
+"title": "主"
+}
+}
+},
+"840367": {
+"content_id": "840367",
+"reference_id": 186611,
+"index_reference": "señor",
+"localizations": {
+"eng": {
+"content_id": 341211,
+"language": "eng",
+"title": "Lord"
+},
+"fra": {
+"content_id": 871306,
+"language": "fra",
+"title": "Seigneur"
+},
+"por": {
+"content_id": 871307,
+"language": "por",
+"title": "Senhor"
+},
+"zhs": {
+"content_id": 871308,
+"language": "zhs",
+"title": "主"
+}
+}
+},
+"840358": {
+"content_id": "840358",
+"reference_id": 186629,
+"index_reference": "mar de galilea",
+"localizations": {
+"eng": {
+"content_id": 341231,
+"language": "eng",
+"title": "Sea of Galilee"
+},
+"fra": {
+"content_id": 871418,
+"language": "fra",
+"title": "mer de Galilée"
+},
+"por": {
+"content_id": 871419,
+"language": "por",
+"title": "Mar da Galileia"
+},
+"zhs": {
+"content_id": 871420,
+"language": "zhs",
+"title": "加利利海"
+}
+}
+},
+"840369": {
+"content_id": "840369",
+"reference_id": 186629,
+"index_reference": "mar de galilea",
+"localizations": {
+"eng": {
+"content_id": 341231,
+"language": "eng",
+"title": "Sea of Galilee"
+},
+"fra": {
+"content_id": 871418,
+"language": "fra",
+"title": "mer de Galilée"
+},
+"por": {
+"content_id": 871419,
+"language": "por",
+"title": "Mar da Galileia"
+},
+"zhs": {
+"content_id": 871420,
+"language": "zhs",
+"title": "加利利海"
+}
+}
+},
+"840352": {
+"content_id": "840352",
+"reference_id": 186630,
+"index_reference": "discípulo",
+"localizations": {
+"eng": {
+"content_id": 341232,
+"language": "eng",
+"title": "disciple"
+},
+"fra": {
+"content_id": 871144,
+"language": "fra",
+"title": "disciple"
+},
+"por": {
+"content_id": 871145,
+"language": "por",
+"title": "discípulo"
+},
+"zhs": {
+"content_id": 871146,
+"language": "zhs",
+"title": "门徒"
+}
+}
+},
+"840362": {
+"content_id": "840362",
+"reference_id": 186630,
+"index_reference": "discípulo",
+"localizations": {
+"eng": {
+"content_id": 341232,
+"language": "eng",
+"title": "disciple"
+},
+"fra": {
+"content_id": 871144,
+"language": "fra",
+"title": "disciple"
+},
+"por": {
+"content_id": 871145,
+"language": "por",
+"title": "discípulo"
+},
+"zhs": {
+"content_id": 871146,
+"language": "zhs",
+"title": "门徒"
+}
+}
+},
+"840350": {
+"content_id": "840350",
+"reference_id": 186631,
+"index_reference": "barco",
+"localizations": {
+"eng": {
+"content_id": 341233,
+"language": "eng",
+"title": "boat"
+},
+"fra": {
+"content_id": 871068,
+"language": "fra",
+"title": "barque"
+},
+"por": {
+"content_id": 871069,
+"language": "por",
+"title": "barco"
+},
+"zhs": {
+"content_id": 871070,
+"language": "zhs",
+"title": "船"
+}
+}
+},
+"840360": {
+"content_id": "840360",
+"reference_id": 186631,
+"index_reference": "barco",
+"localizations": {
+"eng": {
+"content_id": 341233,
+"language": "eng",
+"title": "boat"
+},
+"fra": {
+"content_id": 871068,
+"language": "fra",
+"title": "barque"
+},
+"por": {
+"content_id": 871069,
+"language": "por",
+"title": "barco"
+},
+"zhs": {
+"content_id": 871070,
+"language": "zhs",
+"title": "船"
+}
+}
+}
+}
+}

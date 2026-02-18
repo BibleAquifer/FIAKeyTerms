@@ -1,16 +1,22 @@
 [
   {
-    "content_id": 341009,
+    "content_id": "341009",
     "reference_id": 186785,
     "version": "1.0.1",
     "title": "magician",
     "media_type": "Text",
     "index_reference": "magician",
     "language": "eng",
-    "review_level": "None",
-    "content": "<p>A <strong>magician</strong> is a person who has power to perform miraculous activities. This power does not come from <span data-bnType=\"resourceReference\" data-resourceId=\"186808\" data-resourceType=\"FIAKeyTerms\">God</span>, but from <span data-bnType=\"resourceReference\" data-resourceId=\"186600\" data-resourceType=\"FIAKeyTerms\">evil spirits</span>. Magicians used complicated rituals to find out the meanings of dreams or of things that happened in nature. Magicians could also use their power to heal sickness, or to predict what was going to happen in the future. Some <span data-bnType=\"resourceReference\" data-resourceId=\"186796\" data-resourceType=\"FIAKeyTerms\">kings</span> in the Bible used magicians to interpret their dreams.</p><p>God forbade his people to make use of magic because it comes from evil spirits. Throughout the Bible, God shows that God has more power than the magicians and their magic powers. Joseph, with God&apos;s power, was able to interpret dreams when the magicians could not. Moses performed <span data-bnType=\"resourceReference\" data-resourceId=\"186517\" data-resourceType=\"FIAKeyTerms\">miracles</span> with God&apos;s power that the magicians could not copy. Even though a magician may seem to do good things, the end goal of magic is to hurt people. Eventually, in the book of Acts, the Ephesian <span data-bnType=\"resourceReference\" data-resourceId=\"keyTerm12\" data-resourceType=\"FIAKeyTerms\">believers</span> burned their books that told them how to do magic.</p>",
+    "review_level": "Professional",
+    "content": "<p>A <strong>magician</strong> is a person who has power to perform miraculous activities. This power does not come from <span data-bnType=\"resourceReference\" data-resourceId=\"186808\" data-resourceType=\"FIAKeyTerms\">God</span>, but from <span data-bnType=\"resourceReference\" data-resourceId=\"186600\" data-resourceType=\"FIAKeyTerms\">evil spirits</span>. Magicians used complicated rituals to find out the meanings of dreams or of things that happened in nature. Magicians could also use their power to heal sickness, or to predict what was going to happen in the future. Some <span data-bnType=\"resourceReference\" data-resourceId=\"186796\" data-resourceType=\"FIAKeyTerms\">kings</span> in the Bible used magicians to interpret their dreams.</p><p>God forbade his people to make use of magic because it comes from evil spirits. Throughout the Bible, God shows that God has more power than the magicians and their magic powers. Joseph, with God&apos;s power, was able to interpret dreams when the magicians could not. Moses performed <span data-bnType=\"resourceReference\" data-resourceId=\"186517\" data-resourceType=\"FIAKeyTerms\">miracles</span> with God&apos;s power that the magicians could not copy. Even though a magician may seem to do good things, the end goal of magic is to hurt people. Eventually, in the book of Acts, the Ephesian <span data-bnType=\"resourceReference\" data-resourceId=\"222595\" data-resourceType=\"FIAKeyTerms\">believers</span> burned their books that told them how to do magic.</p>",
     "associations": {
       "passage": [
+        {
+          "start_ref": "44013004",
+          "start_ref_usfm": "ACT 13:4",
+          "end_ref": "44013012",
+          "end_ref_usfm": "ACT 13:12"
+        },
         {
           "start_ref": "01041001",
           "start_ref_usfm": "GEN 41:1",
@@ -34,6 +40,12 @@
           "start_ref_usfm": "EXO 8:16",
           "end_ref": "02008019",
           "end_ref_usfm": "EXO 8:19"
+        },
+        {
+          "start_ref": "02009008",
+          "start_ref_usfm": "EXO 9:8",
+          "end_ref": "02009012",
+          "end_ref_usfm": "EXO 9:12"
         },
         {
           "start_ref": "02006028",
@@ -65,6 +77,13 @@
           "language": "eng"
         },
         {
+          "reference_id": 186600,
+          "content_id": 341198,
+          "resource_code": "FIAKeyTerms",
+          "label": "evil spirit",
+          "language": "eng"
+        },
+        {
           "reference_id": 186796,
           "content_id": 341020,
           "resource_code": "FIAKeyTerms",
@@ -79,10 +98,17 @@
           "language": "eng"
         },
         {
-          "reference_id": 186600,
-          "content_id": 341198,
+          "reference_id": 222595,
+          "content_id": 871051,
           "resource_code": "FIAKeyTerms",
-          "label": "evil spirit",
+          "label": "believer",
+          "language": "eng"
+        },
+        {
+          "reference_id": 222595,
+          "content_id": 871052,
+          "resource_code": "FIAKeyTerms",
+          "label": "believer",
           "language": "eng"
         },
         {
@@ -103,17 +129,23 @@
     }
   },
   {
-    "content_id": 341046,
+    "content_id": "341046",
     "reference_id": 186785,
     "version": "1.0.1",
     "title": "magician",
     "media_type": "Audio",
     "index_reference": "magician",
     "language": "eng",
-    "review_level": "None",
-    "content": "<h3>Audio Content</h3>\n",
+    "review_level": "Professional",
+    "content": "<h3>Audio Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAKeyTerms/ENG/audio/webm/t217-magicians.webm'>webm file</a> (613563 KB)</p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAKeyTerms/ENG/audio/mp3/t217-magicians.mp3'>mp3 file</a> (786500 KB)</p>",
     "associations": {
       "passage": [
+        {
+          "start_ref": "44013004",
+          "start_ref_usfm": "ACT 13:4",
+          "end_ref": "44013012",
+          "end_ref_usfm": "ACT 13:12"
+        },
         {
           "start_ref": "01041001",
           "start_ref_usfm": "GEN 41:1",
@@ -137,6 +169,12 @@
           "start_ref_usfm": "EXO 8:16",
           "end_ref": "02008019",
           "end_ref_usfm": "EXO 8:19"
+        },
+        {
+          "start_ref": "02009008",
+          "start_ref_usfm": "EXO 9:8",
+          "end_ref": "02009012",
+          "end_ref_usfm": "EXO 9:12"
         },
         {
           "start_ref": "02006028",
@@ -168,6 +206,13 @@
           "language": "eng"
         },
         {
+          "reference_id": 186600,
+          "content_id": 341198,
+          "resource_code": "Unknown",
+          "label": "evil spirit",
+          "language": "eng"
+        },
+        {
           "reference_id": 186796,
           "content_id": 341020,
           "resource_code": "Unknown",
@@ -182,10 +227,17 @@
           "language": "eng"
         },
         {
-          "reference_id": 186600,
-          "content_id": 341198,
+          "reference_id": 222595,
+          "content_id": 871051,
           "resource_code": "Unknown",
-          "label": "evil spirit",
+          "label": "believer",
+          "language": "eng"
+        },
+        {
+          "reference_id": 222595,
+          "content_id": 871052,
+          "resource_code": "Unknown",
+          "label": "believer",
           "language": "eng"
         },
         {
@@ -206,15 +258,15 @@
     }
   },
   {
-    "content_id": 280150,
+    "content_id": "280150",
     "reference_id": 186570,
     "version": "1.0.1",
     "title": "Mary",
     "media_type": "Text",
     "index_reference": "mary",
     "language": "eng",
-    "review_level": "None",
-    "content": "<p>Mary was a young <span data-bnType=\"resourceReference\" data-resourceId=\"186525\" data-resourceType=\"FIAKeyTerms\">Jewish</span> woman, living in <span data-bnType=\"resourceReference\" data-resourceId=\"186616\" data-resourceType=\"FIAKeyTerms\">Nazareth</span>, who became the mother of Jesus.</p><p>Mary was engaged to a man named Joseph, which means that she was going to get married to him. Because girls were married while still young, Mary might have been just 15 or 16 years old at the time. Families of the girl and the boy arranged the marriages in <span data-bnType=\"resourceReference\" data-resourceId=\"186627\" data-resourceType=\"FIAKeyTerms\">Israel</span>.</p><p>But before Mary and Joseph got married, an <span data-bnType=\"resourceReference\" data-resourceId=\"186498\" data-resourceType=\"FIAKeyTerms\">angel</span> of God named <strong>Gabriel</strong> appeared to Mary and told her that she would become pregnant by the power of God. Her son would be called the <span data-bnType=\"resourceReference\" data-resourceId=\"186568\" data-resourceType=\"FIAKeyTerms\">son of God</span>, and would be a king whose kingdom would never end! Mary indeed became pregnant, without ever having had sexual relations with a man. When her future husband Joseph heard about this, he wanted to break the relationship, because he must have assumed that Mary had had sexual relations with another man. But an angel of God told him in a dream that God&apos;s spirit had caused Mary&apos;s pregnancy, and that he should marry her. Joseph obeyed these instructions from God.</p><p>Mary and Joseph first lived in Nazareth, which is in the province of <span data-bnType=\"resourceReference\" data-resourceId=\"186508\" data-resourceType=\"FIAKeyTerms\">Galilee</span>, in the north of Israel. While Mary was pregnant, the Roman government made a rule that all the people throughout the land had to go to the town of their ancestors in order to get their name written down. Joseph, and probably Mary as well, were descendants of king <span data-bnType=\"resourceReference\" data-resourceId=\"186466\" data-resourceType=\"FIAKeyTerms\">David</span>. Their hometown therefore was <span data-bnType=\"resourceReference\" data-resourceId=\"186547\" data-resourceType=\"FIAKeyTerms\">Bethlehem</span> in the province of <span data-bnType=\"resourceReference\" data-resourceId=\"186641\" data-resourceType=\"FIAKeyTerms\">Judea</span>. And so Mary and Joseph went to Bethlehem. While they stayed in Bethlehem, Jesus was born. In this way, God made true what his spokesmen the <span data-bnType=\"resourceReference\" data-resourceId=\"186511\" data-resourceType=\"FIAKeyTerms\">prophets</span> had said a long time ago, that the <span data-bnType=\"resourceReference\" data-resourceId=\"186575\" data-resourceType=\"FIAKeyTerms\">Messiah</span>-the special king and Savior-would be born in Bethlehem, the city of king David!</p><p>When Jesus was still a baby, king Herod, who was the ruler over the province Judea, found out that a king might have been born in Bethlehem, and wanted to kill him. Joseph and Mary had to flee with Jesus to Egypt. After staying in Egypt for some time, they went back to Israel and began to live in Nazareth again. Nazareth was a small and unimportant town, and many people looked down on people from Nazareth.</p><p>Mary and Joseph were poor. Joseph was a carpenter. After Jesus&apos;s birth, they had more children together. Because we do not hear anything more about Joseph later, it is quite possible that by the time that Jesus began to teach the people, Joseph had died. Mary herself was at the <span data-bnType=\"resourceReference\" data-resourceId=\"186603\" data-resourceType=\"FIAKeyTerms\">cross</span> at the time of Jesus&apos;s death, and she was part of the group of first <span data-bnType=\"resourceReference\" data-resourceId=\"keyTerm12\" data-resourceType=\"FIAKeyTerms\">believers</span> in Jesus after his <span data-bnType=\"resourceReference\" data-resourceId=\"186488\" data-resourceType=\"FIAKeyTerms\">resurrection</span>.</p>",
+    "review_level": "Professional",
+    "content": "<p>Mary was a young <span data-bnType=\"resourceReference\" data-resourceId=\"186525\" data-resourceType=\"FIAKeyTerms\">Jewish</span> woman, living in <span data-bnType=\"resourceReference\" data-resourceId=\"186616\" data-resourceType=\"FIAKeyTerms\">Nazareth</span>, who became the mother of Jesus.</p><p>Mary was engaged to a man named Joseph, which means that she was going to get married to him. Because girls were married while still young, Mary might have been just 15 or 16 years old at the time. Families of the girl and the boy arranged the marriages in <span data-bnType=\"resourceReference\" data-resourceId=\"186627\" data-resourceType=\"FIAKeyTerms\">Israel</span>.</p><p>But before Mary and Joseph got married, an <span data-bnType=\"resourceReference\" data-resourceId=\"186498\" data-resourceType=\"FIAKeyTerms\">angel</span> of God named <span data-bnType=\"resourceReference\" data-resourceId=\"186510\" data-resourceType=\"FIAKeyTerms\">Gabriel</span> appeared to Mary and told her that she would become pregnant by the power of God. Her son would be called the <span data-bnType=\"resourceReference\" data-resourceId=\"186568\" data-resourceType=\"FIAKeyTerms\">son of God</span>, and would be a king whose kingdom would never end! Mary indeed became pregnant, without ever having had sexual relations with a man. When her future husband Joseph heard about this, he wanted to break the relationship, because he must have assumed that Mary had had sexual relations with another man. But an angel of God told him in a dream that God&apos;s spirit had caused Mary&apos;s pregnancy, and that he should marry her. Joseph obeyed these instructions from God.</p><p>Mary and Joseph first lived in Nazareth, which is in the province of <span data-bnType=\"resourceReference\" data-resourceId=\"186508\" data-resourceType=\"FIAKeyTerms\">Galilee</span>, in the north of Israel. While Mary was pregnant, the Roman government made a rule that all the people throughout the land had to go to the town of their ancestors in order to get their name written down. Joseph, and probably Mary as well, were descendants of king <span data-bnType=\"resourceReference\" data-resourceId=\"186466\" data-resourceType=\"FIAKeyTerms\">David</span>. Their hometown therefore was <span data-bnType=\"resourceReference\" data-resourceId=\"186547\" data-resourceType=\"FIAKeyTerms\">Bethlehem</span> in the province of <span data-bnType=\"resourceReference\" data-resourceId=\"186641\" data-resourceType=\"FIAKeyTerms\">Judea</span>. And so Mary and Joseph went to Bethlehem. While they stayed in Bethlehem, Jesus was born. In this way, God made true what his spokesmen the <span data-bnType=\"resourceReference\" data-resourceId=\"186511\" data-resourceType=\"FIAKeyTerms\">prophets</span> had said a long time ago, that the <span data-bnType=\"resourceReference\" data-resourceId=\"186575\" data-resourceType=\"FIAKeyTerms\">Messiah</span>-the special king and <span data-bnType=\"resourceReference\" data-resourceId=\"186512\" data-resourceType=\"FIAKeyTerms\">Savior</span>-would be born in Bethlehem, the city of king David!</p><p>When Jesus was still a baby, king Herod, who was the ruler over the province Judea, found out that a king might have been born in Bethlehem, and wanted to kill him. Joseph and Mary had to flee with Jesus to Egypt. After staying in Egypt for some time, they went back to Israel and began to live in Nazareth again. Nazareth was a small and unimportant town, and many people looked down on people from Nazareth.</p><p>Mary and Joseph were poor. Joseph was a carpenter. After Jesus&apos;s birth, they had more children together. Because we do not hear anything more about Joseph later, it is quite possible that by the time that Jesus began to teach the people, Joseph had died. Mary herself was at the <span data-bnType=\"resourceReference\" data-resourceId=\"186603\" data-resourceType=\"FIAKeyTerms\">cross</span> at the time of Jesus&apos;s death, and she was part of the group of first <span data-bnType=\"resourceReference\" data-resourceId=\"222595\" data-resourceType=\"FIAKeyTerms\">believers</span> in Jesus after his <span data-bnType=\"resourceReference\" data-resourceId=\"186488\" data-resourceType=\"FIAKeyTerms\">resurrection</span>.</p>",
     "associations": {
       "passage": [
         {
@@ -246,24 +298,10 @@
           "language": "eng"
         },
         {
-          "reference_id": 186488,
-          "content_id": 280068,
-          "resource_code": "FIAKeyTerms",
-          "label": "resurrection",
-          "language": "eng"
-        },
-        {
           "reference_id": 186498,
           "content_id": 280078,
           "resource_code": "FIAKeyTerms",
           "label": "angel",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186488,
-          "content_id": 341068,
-          "resource_code": "FIAKeyTerms",
-          "label": "resurrection",
           "language": "eng"
         },
         {
@@ -274,8 +312,43 @@
           "language": "eng"
         },
         {
+          "reference_id": 186488,
+          "content_id": 280068,
+          "resource_code": "FIAKeyTerms",
+          "label": "resurrection",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186488,
+          "content_id": 341068,
+          "resource_code": "FIAKeyTerms",
+          "label": "resurrection",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186510,
+          "content_id": 280090,
+          "resource_code": "FIAKeyTerms",
+          "label": "Gabriel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186510,
+          "content_id": 341092,
+          "resource_code": "FIAKeyTerms",
+          "label": "Gabriel",
+          "language": "eng"
+        },
+        {
           "reference_id": 186508,
           "content_id": 280088,
+          "resource_code": "FIAKeyTerms",
+          "label": "Galilee",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186508,
+          "content_id": 341089,
           "resource_code": "FIAKeyTerms",
           "label": "Galilee",
           "language": "eng"
@@ -288,10 +361,24 @@
           "language": "eng"
         },
         {
-          "reference_id": 186525,
-          "content_id": 280105,
+          "reference_id": 186511,
+          "content_id": 341093,
           "resource_code": "FIAKeyTerms",
-          "label": "Jew",
+          "label": "prophet",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186512,
+          "content_id": 280092,
+          "resource_code": "FIAKeyTerms",
+          "label": "Savior",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186512,
+          "content_id": 341094,
+          "resource_code": "FIAKeyTerms",
+          "label": "Savior",
           "language": "eng"
         },
         {
@@ -302,45 +389,10 @@
           "language": "eng"
         },
         {
-          "reference_id": 186508,
-          "content_id": 341089,
-          "resource_code": "FIAKeyTerms",
-          "label": "Galilee",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186511,
-          "content_id": 341093,
-          "resource_code": "FIAKeyTerms",
-          "label": "prophet",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186525,
-          "content_id": 341109,
-          "resource_code": "FIAKeyTerms",
-          "label": "Jew",
-          "language": "eng"
-        },
-        {
           "reference_id": 186547,
           "content_id": 341134,
           "resource_code": "FIAKeyTerms",
           "label": "Bethlehem",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186568,
-          "content_id": 280148,
-          "resource_code": "FIAKeyTerms",
-          "label": "Son of God",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186575,
-          "content_id": 280155,
-          "resource_code": "FIAKeyTerms",
-          "label": "Messiah",
           "language": "eng"
         },
         {
@@ -351,10 +403,10 @@
           "language": "eng"
         },
         {
-          "reference_id": 186616,
-          "content_id": 280196,
+          "reference_id": 186603,
+          "content_id": 341202,
           "resource_code": "FIAKeyTerms",
-          "label": "Nazareth",
+          "label": "cross",
           "language": "eng"
         },
         {
@@ -365,6 +417,27 @@
           "language": "eng"
         },
         {
+          "reference_id": 186627,
+          "content_id": 341229,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186525,
+          "content_id": 280105,
+          "resource_code": "FIAKeyTerms",
+          "label": "Jew",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186525,
+          "content_id": 341109,
+          "resource_code": "FIAKeyTerms",
+          "label": "Jew",
+          "language": "eng"
+        },
+        {
           "reference_id": 186641,
           "content_id": 280221,
           "resource_code": "FIAKeyTerms",
@@ -372,10 +445,17 @@
           "language": "eng"
         },
         {
-          "reference_id": 186568,
-          "content_id": 341160,
+          "reference_id": 186641,
+          "content_id": 341245,
           "resource_code": "FIAKeyTerms",
-          "label": "Son of God",
+          "label": "Judea",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186575,
+          "content_id": 280155,
+          "resource_code": "FIAKeyTerms",
+          "label": "Messiah",
           "language": "eng"
         },
         {
@@ -386,10 +466,10 @@
           "language": "eng"
         },
         {
-          "reference_id": 186603,
-          "content_id": 341202,
+          "reference_id": 186616,
+          "content_id": 280196,
           "resource_code": "FIAKeyTerms",
-          "label": "cross",
+          "label": "Nazareth",
           "language": "eng"
         },
         {
@@ -400,32 +480,46 @@
           "language": "eng"
         },
         {
-          "reference_id": 186627,
-          "content_id": 341229,
+          "reference_id": 186568,
+          "content_id": 280148,
           "resource_code": "FIAKeyTerms",
-          "label": "Israel",
+          "label": "Son of God",
           "language": "eng"
         },
         {
-          "reference_id": 186641,
-          "content_id": 341245,
+          "reference_id": 186568,
+          "content_id": 341160,
           "resource_code": "FIAKeyTerms",
-          "label": "Judea",
+          "label": "Son of God",
+          "language": "eng"
+        },
+        {
+          "reference_id": 222595,
+          "content_id": 871051,
+          "resource_code": "FIAKeyTerms",
+          "label": "believer",
+          "language": "eng"
+        },
+        {
+          "reference_id": 222595,
+          "content_id": 871052,
+          "resource_code": "FIAKeyTerms",
+          "label": "believer",
           "language": "eng"
         }
       ]
     }
   },
   {
-    "content_id": 341162,
+    "content_id": "341162",
     "reference_id": 186570,
     "version": "1.0.1",
     "title": "Mary",
     "media_type": "Audio",
     "index_reference": "mary",
     "language": "eng",
-    "review_level": "None",
-    "content": "<h3>Audio Content</h3>\n",
+    "review_level": "Professional",
+    "content": "<h3>Audio Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAKeyTerms/ENG/audio/webm/t89-mary.webm'>webm file</a> (1538587 KB)</p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAKeyTerms/ENG/audio/mp3/t89-mary.mp3'>mp3 file</a> (2017460 KB)</p>",
     "associations": {
       "passage": [
         {
@@ -457,24 +551,10 @@
           "language": "eng"
         },
         {
-          "reference_id": 186488,
-          "content_id": 280068,
-          "resource_code": "Unknown",
-          "label": "resurrection",
-          "language": "eng"
-        },
-        {
           "reference_id": 186498,
           "content_id": 280078,
           "resource_code": "Unknown",
           "label": "angel",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186488,
-          "content_id": 341068,
-          "resource_code": "Unknown",
-          "label": "resurrection",
           "language": "eng"
         },
         {
@@ -485,8 +565,43 @@
           "language": "eng"
         },
         {
+          "reference_id": 186488,
+          "content_id": 280068,
+          "resource_code": "Unknown",
+          "label": "resurrection",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186488,
+          "content_id": 341068,
+          "resource_code": "Unknown",
+          "label": "resurrection",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186510,
+          "content_id": 280090,
+          "resource_code": "Unknown",
+          "label": "Gabriel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186510,
+          "content_id": 341092,
+          "resource_code": "Unknown",
+          "label": "Gabriel",
+          "language": "eng"
+        },
+        {
           "reference_id": 186508,
           "content_id": 280088,
+          "resource_code": "Unknown",
+          "label": "Galilee",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186508,
+          "content_id": 341089,
           "resource_code": "Unknown",
           "label": "Galilee",
           "language": "eng"
@@ -499,10 +614,24 @@
           "language": "eng"
         },
         {
-          "reference_id": 186525,
-          "content_id": 280105,
+          "reference_id": 186511,
+          "content_id": 341093,
           "resource_code": "Unknown",
-          "label": "Jew",
+          "label": "prophet",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186512,
+          "content_id": 280092,
+          "resource_code": "Unknown",
+          "label": "Savior",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186512,
+          "content_id": 341094,
+          "resource_code": "Unknown",
+          "label": "Savior",
           "language": "eng"
         },
         {
@@ -513,45 +642,10 @@
           "language": "eng"
         },
         {
-          "reference_id": 186508,
-          "content_id": 341089,
-          "resource_code": "Unknown",
-          "label": "Galilee",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186511,
-          "content_id": 341093,
-          "resource_code": "Unknown",
-          "label": "prophet",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186525,
-          "content_id": 341109,
-          "resource_code": "Unknown",
-          "label": "Jew",
-          "language": "eng"
-        },
-        {
           "reference_id": 186547,
           "content_id": 341134,
           "resource_code": "Unknown",
           "label": "Bethlehem",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186568,
-          "content_id": 280148,
-          "resource_code": "Unknown",
-          "label": "Son of God",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186575,
-          "content_id": 280155,
-          "resource_code": "Unknown",
-          "label": "Messiah",
           "language": "eng"
         },
         {
@@ -562,10 +656,10 @@
           "language": "eng"
         },
         {
-          "reference_id": 186616,
-          "content_id": 280196,
+          "reference_id": 186603,
+          "content_id": 341202,
           "resource_code": "Unknown",
-          "label": "Nazareth",
+          "label": "cross",
           "language": "eng"
         },
         {
@@ -576,6 +670,27 @@
           "language": "eng"
         },
         {
+          "reference_id": 186627,
+          "content_id": 341229,
+          "resource_code": "Unknown",
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186525,
+          "content_id": 280105,
+          "resource_code": "Unknown",
+          "label": "Jew",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186525,
+          "content_id": 341109,
+          "resource_code": "Unknown",
+          "label": "Jew",
+          "language": "eng"
+        },
+        {
           "reference_id": 186641,
           "content_id": 280221,
           "resource_code": "Unknown",
@@ -583,10 +698,17 @@
           "language": "eng"
         },
         {
-          "reference_id": 186568,
-          "content_id": 341160,
+          "reference_id": 186641,
+          "content_id": 341245,
           "resource_code": "Unknown",
-          "label": "Son of God",
+          "label": "Judea",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186575,
+          "content_id": 280155,
+          "resource_code": "Unknown",
+          "label": "Messiah",
           "language": "eng"
         },
         {
@@ -597,10 +719,10 @@
           "language": "eng"
         },
         {
-          "reference_id": 186603,
-          "content_id": 341202,
+          "reference_id": 186616,
+          "content_id": 280196,
           "resource_code": "Unknown",
-          "label": "cross",
+          "label": "Nazareth",
           "language": "eng"
         },
         {
@@ -611,32 +733,46 @@
           "language": "eng"
         },
         {
-          "reference_id": 186627,
-          "content_id": 341229,
+          "reference_id": 186568,
+          "content_id": 280148,
           "resource_code": "Unknown",
-          "label": "Israel",
+          "label": "Son of God",
           "language": "eng"
         },
         {
-          "reference_id": 186641,
-          "content_id": 341245,
+          "reference_id": 186568,
+          "content_id": 341160,
           "resource_code": "Unknown",
-          "label": "Judea",
+          "label": "Son of God",
+          "language": "eng"
+        },
+        {
+          "reference_id": 222595,
+          "content_id": 871051,
+          "resource_code": "Unknown",
+          "label": "believer",
+          "language": "eng"
+        },
+        {
+          "reference_id": 222595,
+          "content_id": 871052,
+          "resource_code": "Unknown",
+          "label": "believer",
           "language": "eng"
         }
       ]
     }
   },
   {
-    "content_id": 280189,
+    "content_id": "280189",
     "reference_id": 186609,
     "version": "1.0.1",
     "title": "master",
     "media_type": "Text",
     "index_reference": "master",
     "language": "eng",
-    "review_level": "None",
-    "content": "<p>A master is a general respectful title for someone in a high position or status. In the New Testament, there are two titles of respect for someone in a high position. <span data-bnType=\"resourceReference\" data-resourceId=\"186611\" data-resourceType=\"FIAKeyTerms\">Lord</span> is often the title for someone who owns property or is a supreme ruler. Master often refers to someone in high position in a household or someone with a lot of responsibility. Sometimes people use both of these words as a respectful title to refer to the same person.</p>",
+    "review_level": "Professional",
+    "content": "<p>A master is a general respectful title for someone in a high position or status. In the New Testament, there are two titles of respect for someone in a high position. <span data-bnType=\"resourceReference\" data-resourceId=\"186611\" data-resourceType=\"FIAKeyTerms\">Lord</span> is often the title for someone who owns property or is a supreme ruler. Master often refers to someone in high position in a <span data-bnType=\"resourceReference\" data-resourceId=\"186571\" data-resourceType=\"FIAKeyTerms\">household</span> or someone with a lot of responsibility. Sometimes people use both of these words as a respectful title to refer to the same person.</p>",
     "associations": {
       "passage": [
         {
@@ -688,6 +824,30 @@
           "end_ref_usfm": "LUK 9:36"
         },
         {
+          "start_ref": "02021001",
+          "start_ref_usfm": "EXO 21:1",
+          "end_ref": "02021011",
+          "end_ref_usfm": "EXO 21:11"
+        },
+        {
+          "start_ref": "02023010",
+          "start_ref_usfm": "EXO 23:10",
+          "end_ref": "02023019",
+          "end_ref_usfm": "EXO 23:19"
+        },
+        {
+          "start_ref": "02002011",
+          "start_ref_usfm": "EXO 2:11",
+          "end_ref": "02002015",
+          "end_ref_usfm": "EXO 2:15"
+        },
+        {
+          "start_ref": "02008001",
+          "start_ref_usfm": "EXO 8:1",
+          "end_ref": "02008015",
+          "end_ref_usfm": "EXO 8:15"
+        },
+        {
           "start_ref": "42012035",
           "start_ref_usfm": "LUK 12:35",
           "end_ref": "42012048",
@@ -700,19 +860,93 @@
           "end_ref_usfm": "LUK 8:56"
         },
         {
+          "start_ref": "01024029",
+          "start_ref_usfm": "GEN 24:29",
+          "end_ref": "01024049",
+          "end_ref_usfm": "GEN 24:49"
+        },
+        {
           "start_ref": "40010016",
           "start_ref_usfm": "MAT 10:16",
           "end_ref": "40010025",
           "end_ref_usfm": "MAT 10:25"
         },
         {
+          "start_ref": "02034018",
+          "start_ref_usfm": "EXO 34:18",
+          "end_ref": "02034028",
+          "end_ref_usfm": "EXO 34:28"
+        },
+        {
+          "start_ref": "02004001",
+          "start_ref_usfm": "EXO 4:1",
+          "end_ref": "02004017",
+          "end_ref_usfm": "EXO 4:17"
+        },
+        {
           "start_ref": "42009046",
           "start_ref_usfm": "LUK 9:46",
           "end_ref": "42009062",
           "end_ref_usfm": "LUK 9:62"
+        },
+        {
+          "start_ref": "02020008",
+          "start_ref_usfm": "EXO 20:8",
+          "end_ref": "02020017",
+          "end_ref_usfm": "EXO 20:17"
+        },
+        {
+          "start_ref": "54006001",
+          "start_ref_usfm": "1TI 6:1",
+          "end_ref": "54006002",
+          "end_ref_usfm": "1TI 6:2"
+        },
+        {
+          "start_ref": "65001003",
+          "start_ref_usfm": "JUD 1:3",
+          "end_ref": "65001007",
+          "end_ref_usfm": "JUD 1:7"
+        },
+        {
+          "start_ref": "07019011",
+          "start_ref_usfm": "JDG 19:11",
+          "end_ref": "07019021",
+          "end_ref_usfm": "JDG 19:21"
+        },
+        {
+          "start_ref": "55002020",
+          "start_ref_usfm": "2TI 2:20",
+          "end_ref": "55002026",
+          "end_ref_usfm": "2TI 2:26"
+        },
+        {
+          "start_ref": "07019022",
+          "start_ref_usfm": "JDG 19:22",
+          "end_ref": "07019030",
+          "end_ref_usfm": "JDG 19:30"
+        },
+        {
+          "start_ref": "49006001",
+          "start_ref_usfm": "EPH 6:1",
+          "end_ref": "49006009",
+          "end_ref_usfm": "EPH 6:9"
         }
       ],
       "resource": [
+        {
+          "reference_id": 186571,
+          "content_id": 280151,
+          "resource_code": "FIAKeyTerms",
+          "label": "household",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186571,
+          "content_id": 341163,
+          "resource_code": "FIAKeyTerms",
+          "label": "household",
+          "language": "eng"
+        },
         {
           "reference_id": 186611,
           "content_id": 280191,
@@ -731,15 +965,15 @@
     }
   },
   {
-    "content_id": 341208,
+    "content_id": "341208",
     "reference_id": 186609,
     "version": "1.0.1",
     "title": "master",
     "media_type": "Audio",
     "index_reference": "master",
     "language": "eng",
-    "review_level": "None",
-    "content": "<h3>Audio Content</h3>\n",
+    "review_level": "Professional",
+    "content": "<h3>Audio Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAKeyTerms/ENG/audio/webm/t90-master.webm'>webm file</a> (323719 KB)</p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAKeyTerms/ENG/audio/mp3/t90-master.mp3'>mp3 file</a> (436508 KB)</p>",
     "associations": {
       "passage": [
         {
@@ -791,6 +1025,30 @@
           "end_ref_usfm": "LUK 9:36"
         },
         {
+          "start_ref": "02021001",
+          "start_ref_usfm": "EXO 21:1",
+          "end_ref": "02021011",
+          "end_ref_usfm": "EXO 21:11"
+        },
+        {
+          "start_ref": "02023010",
+          "start_ref_usfm": "EXO 23:10",
+          "end_ref": "02023019",
+          "end_ref_usfm": "EXO 23:19"
+        },
+        {
+          "start_ref": "02002011",
+          "start_ref_usfm": "EXO 2:11",
+          "end_ref": "02002015",
+          "end_ref_usfm": "EXO 2:15"
+        },
+        {
+          "start_ref": "02008001",
+          "start_ref_usfm": "EXO 8:1",
+          "end_ref": "02008015",
+          "end_ref_usfm": "EXO 8:15"
+        },
+        {
           "start_ref": "42012035",
           "start_ref_usfm": "LUK 12:35",
           "end_ref": "42012048",
@@ -803,19 +1061,93 @@
           "end_ref_usfm": "LUK 8:56"
         },
         {
+          "start_ref": "01024029",
+          "start_ref_usfm": "GEN 24:29",
+          "end_ref": "01024049",
+          "end_ref_usfm": "GEN 24:49"
+        },
+        {
           "start_ref": "40010016",
           "start_ref_usfm": "MAT 10:16",
           "end_ref": "40010025",
           "end_ref_usfm": "MAT 10:25"
         },
         {
+          "start_ref": "02034018",
+          "start_ref_usfm": "EXO 34:18",
+          "end_ref": "02034028",
+          "end_ref_usfm": "EXO 34:28"
+        },
+        {
+          "start_ref": "02004001",
+          "start_ref_usfm": "EXO 4:1",
+          "end_ref": "02004017",
+          "end_ref_usfm": "EXO 4:17"
+        },
+        {
           "start_ref": "42009046",
           "start_ref_usfm": "LUK 9:46",
           "end_ref": "42009062",
           "end_ref_usfm": "LUK 9:62"
+        },
+        {
+          "start_ref": "02020008",
+          "start_ref_usfm": "EXO 20:8",
+          "end_ref": "02020017",
+          "end_ref_usfm": "EXO 20:17"
+        },
+        {
+          "start_ref": "54006001",
+          "start_ref_usfm": "1TI 6:1",
+          "end_ref": "54006002",
+          "end_ref_usfm": "1TI 6:2"
+        },
+        {
+          "start_ref": "65001003",
+          "start_ref_usfm": "JUD 1:3",
+          "end_ref": "65001007",
+          "end_ref_usfm": "JUD 1:7"
+        },
+        {
+          "start_ref": "07019011",
+          "start_ref_usfm": "JDG 19:11",
+          "end_ref": "07019021",
+          "end_ref_usfm": "JDG 19:21"
+        },
+        {
+          "start_ref": "55002020",
+          "start_ref_usfm": "2TI 2:20",
+          "end_ref": "55002026",
+          "end_ref_usfm": "2TI 2:26"
+        },
+        {
+          "start_ref": "07019022",
+          "start_ref_usfm": "JDG 19:22",
+          "end_ref": "07019030",
+          "end_ref_usfm": "JDG 19:30"
+        },
+        {
+          "start_ref": "49006001",
+          "start_ref_usfm": "EPH 6:1",
+          "end_ref": "49006009",
+          "end_ref_usfm": "EPH 6:9"
         }
       ],
       "resource": [
+        {
+          "reference_id": 186571,
+          "content_id": 280151,
+          "resource_code": "Unknown",
+          "label": "household",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186571,
+          "content_id": 341163,
+          "resource_code": "Unknown",
+          "label": "household",
+          "language": "eng"
+        },
         {
           "reference_id": 186611,
           "content_id": 280191,
@@ -834,14 +1166,14 @@
     }
   },
   {
-    "content_id": 280117,
+    "content_id": "280117",
     "reference_id": 186537,
     "version": "1.0.1",
     "title": "mercy",
     "media_type": "Text",
     "index_reference": "mercy",
     "language": "eng",
-    "review_level": "None",
+    "review_level": "Professional",
     "content": "<p>The word <strong>mercy</strong> means goodness, kindness, or <span data-bnType=\"resourceReference\" data-resourceId=\"186640\" data-resourceType=\"FIAKeyTerms\">compassion</span>.</p><p>If you see someone in need, and you have pity on that person and help him, then you are <em>showing</em> mercy to that person.</p><p>If someone owes you a debt but you have pity on the person and cancel the debt, then you are also <em>having</em> mercy on that person.</p><p>People can ask God to have mercy on them. That means they ask God to have pity on them and to help them, or to <span data-bnType=\"resourceReference\" data-resourceId=\"186471\" data-resourceType=\"FIAKeyTerms\">forgive</span> them.</p><p>The Bible shows us that God is <strong>merciful</strong>. This means he is full of mercy-he wants to show mercy to people. God wants to show mercy on people because he loves them so much.</p><p>The meaning of mercy can be similar to the meaning of the word <span data-bnType=\"resourceReference\" data-resourceId=\"186536\" data-resourceType=\"FIAKeyTerms\">grace</span>. Grace means that we receive something that we do not deserve. Grace and mercy go together. It is because of God&apos;s <em>mercy</em> that he does not punish us, and then it is because of his <em>grace</em> that he also gives us good things: We can become his children and live with him forever.</p><p>God gives grace to people when he forgives them for their <span data-bnType=\"resourceReference\" data-resourceId=\"186477\" data-resourceType=\"FIAKeyTerms\">sins</span>. People deserve to be separated from God forever because of their disobedience to God, but because God has mercy on the people, he saves them if they trust Jesus. God gives us grace because he is so merciful.</p><p><strong>When you are translating mercy, be careful about the following things:</strong></p><p>Sometimes translators need to use a different word each time, depending on the context. Sometimes &quot;kindness&quot; fits better, and sometimes &quot;pity&quot; fits better.</p>",
     "associations": {
       "passage": [
@@ -948,6 +1280,42 @@
           "end_ref_usfm": "LUK 10:37"
         },
         {
+          "start_ref": "06011016",
+          "start_ref_usfm": "JOS 11:16",
+          "end_ref": "06011023",
+          "end_ref_usfm": "JOS 11:23"
+        },
+        {
+          "start_ref": "46007025",
+          "start_ref_usfm": "1CO 7:25",
+          "end_ref": "46007031",
+          "end_ref_usfm": "1CO 7:31"
+        },
+        {
+          "start_ref": "49002001",
+          "start_ref_usfm": "EPH 2:1",
+          "end_ref": "49002010",
+          "end_ref_usfm": "EPH 2:10"
+        },
+        {
+          "start_ref": "59002008",
+          "start_ref_usfm": "JAS 2:8",
+          "end_ref": "59002013",
+          "end_ref_usfm": "JAS 2:13"
+        },
+        {
+          "start_ref": "59003013",
+          "start_ref_usfm": "JAS 3:13",
+          "end_ref": "59003018",
+          "end_ref_usfm": "JAS 3:18"
+        },
+        {
+          "start_ref": "59005007",
+          "start_ref_usfm": "JAS 5:7",
+          "end_ref": "59005012",
+          "end_ref_usfm": "JAS 5:12"
+        },
+        {
           "start_ref": "40012001",
           "start_ref_usfm": "MAT 12:1",
           "end_ref": "40012014",
@@ -960,16 +1328,76 @@
           "end_ref_usfm": "MAT 9:13"
         },
         {
+          "start_ref": "56003001",
+          "start_ref_usfm": "TIT 3:1",
+          "end_ref": "56003011",
+          "end_ref_usfm": "TIT 3:11"
+        },
+        {
+          "start_ref": "55001015",
+          "start_ref_usfm": "2TI 1:15",
+          "end_ref": "55001018",
+          "end_ref_usfm": "2TI 1:18"
+        },
+        {
+          "start_ref": "02031001",
+          "start_ref_usfm": "EXO 31:1",
+          "end_ref": "02031011",
+          "end_ref_usfm": "EXO 31:11"
+        },
+        {
           "start_ref": "02033012",
           "start_ref_usfm": "EXO 33:12",
           "end_ref": "02033023",
           "end_ref_usfm": "EXO 33:23"
         },
         {
+          "start_ref": "48006011",
+          "start_ref_usfm": "GAL 6:11",
+          "end_ref": "48006018",
+          "end_ref_usfm": "GAL 6:18"
+        },
+        {
+          "start_ref": "63001001",
+          "start_ref_usfm": "2JN 1:1",
+          "end_ref": "63001003",
+          "end_ref_usfm": "2JN 1:3"
+        },
+        {
+          "start_ref": "54001001",
+          "start_ref_usfm": "1TI 1:1",
+          "end_ref": "54001002",
+          "end_ref_usfm": "1TI 1:2"
+        },
+        {
+          "start_ref": "65001001",
+          "start_ref_usfm": "JUD 1:1",
+          "end_ref": "65001002",
+          "end_ref_usfm": "JUD 1:2"
+        },
+        {
+          "start_ref": "65001017",
+          "start_ref_usfm": "JUD 1:17",
+          "end_ref": "65001023",
+          "end_ref_usfm": "JUD 1:23"
+        },
+        {
           "start_ref": "40009027",
           "start_ref_usfm": "MAT 9:27",
           "end_ref": "40009038",
           "end_ref_usfm": "MAT 9:38"
+        },
+        {
+          "start_ref": "54001012",
+          "start_ref_usfm": "1TI 1:12",
+          "end_ref": "54001020",
+          "end_ref_usfm": "1TI 1:20"
+        },
+        {
+          "start_ref": "02020001",
+          "start_ref_usfm": "EXO 20:1",
+          "end_ref": "02020007",
+          "end_ref_usfm": "EXO 20:7"
         },
         {
           "start_ref": "42018035",
@@ -982,6 +1410,48 @@
           "start_ref_usfm": "EXO 34:1",
           "end_ref": "02034009",
           "end_ref_usfm": "EXO 34:9"
+        },
+        {
+          "start_ref": "04007084",
+          "start_ref_usfm": "NUM 7:84",
+          "end_ref": "04007089",
+          "end_ref_usfm": "NUM 7:89"
+        },
+        {
+          "start_ref": "13021007",
+          "start_ref_usfm": "1CH 21:7",
+          "end_ref": "13021017",
+          "end_ref_usfm": "1CH 21:17"
+        },
+        {
+          "start_ref": "11008031",
+          "start_ref_usfm": "1KI 8:31",
+          "end_ref": "11008053",
+          "end_ref_usfm": "1KI 8:53"
+        },
+        {
+          "start_ref": "10024010",
+          "start_ref_usfm": "2SA 24:10",
+          "end_ref": "10024017",
+          "end_ref_usfm": "2SA 24:17"
+        },
+        {
+          "start_ref": "47001001",
+          "start_ref_usfm": "2CO 1:1",
+          "end_ref": "47001007",
+          "end_ref_usfm": "2CO 1:7"
+        },
+        {
+          "start_ref": "55001001",
+          "start_ref_usfm": "2TI 1:1",
+          "end_ref": "55001007",
+          "end_ref_usfm": "2TI 1:7"
+        },
+        {
+          "start_ref": "47004001",
+          "start_ref_usfm": "2CO 4:1",
+          "end_ref": "47004006",
+          "end_ref_usfm": "2CO 4:6"
         }
       ],
       "resource": [
@@ -1000,13 +1470,6 @@
           "language": "eng"
         },
         {
-          "reference_id": 186477,
-          "content_id": 280057,
-          "resource_code": "FIAKeyTerms",
-          "label": "sin",
-          "language": "eng"
-        },
-        {
           "reference_id": 186536,
           "content_id": 280116,
           "resource_code": "FIAKeyTerms",
@@ -1014,17 +1477,24 @@
           "language": "eng"
         },
         {
+          "reference_id": 186536,
+          "content_id": 341122,
+          "resource_code": "FIAKeyTerms",
+          "label": "grace",
+          "language": "eng"
+        },
+        {
           "reference_id": 186477,
-          "content_id": 341053,
+          "content_id": 280057,
           "resource_code": "FIAKeyTerms",
           "label": "sin",
           "language": "eng"
         },
         {
-          "reference_id": 186536,
-          "content_id": 341122,
+          "reference_id": 186477,
+          "content_id": 341053,
           "resource_code": "FIAKeyTerms",
-          "label": "grace",
+          "label": "sin",
           "language": "eng"
         },
         {
@@ -1045,15 +1515,15 @@
     }
   },
   {
-    "content_id": 341123,
+    "content_id": "341123",
     "reference_id": 186537,
     "version": "1.0.1",
     "title": "mercy",
     "media_type": "Audio",
     "index_reference": "mercy",
     "language": "eng",
-    "review_level": "None",
-    "content": "<h3>Audio Content</h3>\n",
+    "review_level": "Professional",
+    "content": "<h3>Audio Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAKeyTerms/ENG/audio/webm/t91-mercy.webm'>webm file</a> (938530 KB)</p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAKeyTerms/ENG/audio/mp3/t91-mercy.mp3'>mp3 file</a> (1251836 KB)</p>",
     "associations": {
       "passage": [
         {
@@ -1159,6 +1629,42 @@
           "end_ref_usfm": "LUK 10:37"
         },
         {
+          "start_ref": "06011016",
+          "start_ref_usfm": "JOS 11:16",
+          "end_ref": "06011023",
+          "end_ref_usfm": "JOS 11:23"
+        },
+        {
+          "start_ref": "46007025",
+          "start_ref_usfm": "1CO 7:25",
+          "end_ref": "46007031",
+          "end_ref_usfm": "1CO 7:31"
+        },
+        {
+          "start_ref": "49002001",
+          "start_ref_usfm": "EPH 2:1",
+          "end_ref": "49002010",
+          "end_ref_usfm": "EPH 2:10"
+        },
+        {
+          "start_ref": "59002008",
+          "start_ref_usfm": "JAS 2:8",
+          "end_ref": "59002013",
+          "end_ref_usfm": "JAS 2:13"
+        },
+        {
+          "start_ref": "59003013",
+          "start_ref_usfm": "JAS 3:13",
+          "end_ref": "59003018",
+          "end_ref_usfm": "JAS 3:18"
+        },
+        {
+          "start_ref": "59005007",
+          "start_ref_usfm": "JAS 5:7",
+          "end_ref": "59005012",
+          "end_ref_usfm": "JAS 5:12"
+        },
+        {
           "start_ref": "40012001",
           "start_ref_usfm": "MAT 12:1",
           "end_ref": "40012014",
@@ -1171,16 +1677,76 @@
           "end_ref_usfm": "MAT 9:13"
         },
         {
+          "start_ref": "56003001",
+          "start_ref_usfm": "TIT 3:1",
+          "end_ref": "56003011",
+          "end_ref_usfm": "TIT 3:11"
+        },
+        {
+          "start_ref": "55001015",
+          "start_ref_usfm": "2TI 1:15",
+          "end_ref": "55001018",
+          "end_ref_usfm": "2TI 1:18"
+        },
+        {
+          "start_ref": "02031001",
+          "start_ref_usfm": "EXO 31:1",
+          "end_ref": "02031011",
+          "end_ref_usfm": "EXO 31:11"
+        },
+        {
           "start_ref": "02033012",
           "start_ref_usfm": "EXO 33:12",
           "end_ref": "02033023",
           "end_ref_usfm": "EXO 33:23"
         },
         {
+          "start_ref": "48006011",
+          "start_ref_usfm": "GAL 6:11",
+          "end_ref": "48006018",
+          "end_ref_usfm": "GAL 6:18"
+        },
+        {
+          "start_ref": "63001001",
+          "start_ref_usfm": "2JN 1:1",
+          "end_ref": "63001003",
+          "end_ref_usfm": "2JN 1:3"
+        },
+        {
+          "start_ref": "54001001",
+          "start_ref_usfm": "1TI 1:1",
+          "end_ref": "54001002",
+          "end_ref_usfm": "1TI 1:2"
+        },
+        {
+          "start_ref": "65001001",
+          "start_ref_usfm": "JUD 1:1",
+          "end_ref": "65001002",
+          "end_ref_usfm": "JUD 1:2"
+        },
+        {
+          "start_ref": "65001017",
+          "start_ref_usfm": "JUD 1:17",
+          "end_ref": "65001023",
+          "end_ref_usfm": "JUD 1:23"
+        },
+        {
           "start_ref": "40009027",
           "start_ref_usfm": "MAT 9:27",
           "end_ref": "40009038",
           "end_ref_usfm": "MAT 9:38"
+        },
+        {
+          "start_ref": "54001012",
+          "start_ref_usfm": "1TI 1:12",
+          "end_ref": "54001020",
+          "end_ref_usfm": "1TI 1:20"
+        },
+        {
+          "start_ref": "02020001",
+          "start_ref_usfm": "EXO 20:1",
+          "end_ref": "02020007",
+          "end_ref_usfm": "EXO 20:7"
         },
         {
           "start_ref": "42018035",
@@ -1193,6 +1759,48 @@
           "start_ref_usfm": "EXO 34:1",
           "end_ref": "02034009",
           "end_ref_usfm": "EXO 34:9"
+        },
+        {
+          "start_ref": "04007084",
+          "start_ref_usfm": "NUM 7:84",
+          "end_ref": "04007089",
+          "end_ref_usfm": "NUM 7:89"
+        },
+        {
+          "start_ref": "13021007",
+          "start_ref_usfm": "1CH 21:7",
+          "end_ref": "13021017",
+          "end_ref_usfm": "1CH 21:17"
+        },
+        {
+          "start_ref": "11008031",
+          "start_ref_usfm": "1KI 8:31",
+          "end_ref": "11008053",
+          "end_ref_usfm": "1KI 8:53"
+        },
+        {
+          "start_ref": "10024010",
+          "start_ref_usfm": "2SA 24:10",
+          "end_ref": "10024017",
+          "end_ref_usfm": "2SA 24:17"
+        },
+        {
+          "start_ref": "47001001",
+          "start_ref_usfm": "2CO 1:1",
+          "end_ref": "47001007",
+          "end_ref_usfm": "2CO 1:7"
+        },
+        {
+          "start_ref": "55001001",
+          "start_ref_usfm": "2TI 1:1",
+          "end_ref": "55001007",
+          "end_ref_usfm": "2TI 1:7"
+        },
+        {
+          "start_ref": "47004001",
+          "start_ref_usfm": "2CO 4:1",
+          "end_ref": "47004006",
+          "end_ref_usfm": "2CO 4:6"
         }
       ],
       "resource": [
@@ -1211,13 +1819,6 @@
           "language": "eng"
         },
         {
-          "reference_id": 186477,
-          "content_id": 280057,
-          "resource_code": "Unknown",
-          "label": "sin",
-          "language": "eng"
-        },
-        {
           "reference_id": 186536,
           "content_id": 280116,
           "resource_code": "Unknown",
@@ -1225,17 +1826,24 @@
           "language": "eng"
         },
         {
+          "reference_id": 186536,
+          "content_id": 341122,
+          "resource_code": "Unknown",
+          "label": "grace",
+          "language": "eng"
+        },
+        {
           "reference_id": 186477,
-          "content_id": 341053,
+          "content_id": 280057,
           "resource_code": "Unknown",
           "label": "sin",
           "language": "eng"
         },
         {
-          "reference_id": 186536,
-          "content_id": 341122,
+          "reference_id": 186477,
+          "content_id": 341053,
           "resource_code": "Unknown",
-          "label": "grace",
+          "label": "sin",
           "language": "eng"
         },
         {
@@ -1256,15 +1864,15 @@
     }
   },
   {
-    "content_id": 280155,
+    "content_id": "280155",
     "reference_id": 186575,
     "version": "1.0.1",
     "title": "Messiah",
     "media_type": "Text",
     "index_reference": "messiah",
     "language": "eng",
-    "review_level": "None",
-    "content": "<p>The word &quot;<span data-bnType=\"resourceReference\" data-resourceId=\"186574\" data-resourceType=\"FIAKeyTerms\">Christ</span>&quot; is the same as the word <strong>Messiah</strong>. Christ is the <span data-bnType=\"resourceReference\" data-resourceId=\"186802\" data-resourceType=\"FIAKeyTerms\">Greek</span> word, and Messiah is the same word in <span data-bnType=\"resourceReference\" data-resourceId=\"186810\" data-resourceType=\"FIAKeyTerms\">Hebrew</span>. Greek is the language of the New Testament, while Hebrew is the language of the Old Testament. The word Messiah refers to the special <span data-bnType=\"resourceReference\" data-resourceId=\"186796\" data-resourceType=\"FIAKeyTerms\">king</span> and <span data-bnType=\"resourceReference\" data-resourceId=\"186512\" data-resourceType=\"FIAKeyTerms\">Savior</span> that God had promised to send.</p><p>A Messiah literally means someone who is <span data-bnType=\"resourceReference\" data-resourceId=\"keyTerm5\" data-resourceType=\"FIAKeyTerms\">anointed</span>. That means that another person had poured oil over them. This was a sign that God gave this person a special task. For example, In the Old Testament, God told the prophet Samuel to pour oil over <span data-bnType=\"resourceReference\" data-resourceId=\"186466\" data-resourceType=\"FIAKeyTerms\">David</span>. This was a sign that God chose David to become the next king of <span data-bnType=\"resourceReference\" data-resourceId=\"186627\" data-resourceType=\"FIAKeyTerms\">Israel</span>.</p><p>Later, people called someone anointed if God had appointed that person for a special task, even if no one really had poured oil on their head.</p><p>David became the most beloved king of Israel. But after David, other people were ruling over Israel, and many of them were not good kings. These kings were leading the people away from God, and therefore God had to punish the people. The country of Israel was destroyed, and came under the control of other <span data-bnType=\"resourceReference\" data-resourceId=\"186495\" data-resourceType=\"FIAKeyTerms\">nations</span>. But still, God promised the people of Israel that he would send them a new king. This king would save the people from their trouble. This king would be a descendant from David.</p><p>The Israelites began to refer to this king that God promised to send as &quot;the Messiah&quot;-the anointed one.</p><p>When Jesus came, he showed the people that <em>he</em> is the Messiah that God had promised to send. Jesus was a <span data-bnType=\"resourceReference\" data-resourceId=\"keyTerm234\" data-resourceType=\"FIAKeyTerms\">descendant</span> from David. Jesus proved that God had appointed him through the extraordinary power and authority he had.</p><p>Jesus almost never directly said to the people: &quot;I am the Messiah!&quot; This is because people did not yet really know what it would mean for Jesus to be the Messiah. They had the wrong idea that the Messiah would restore the <span data-bnType=\"resourceReference\" data-resourceId=\"186550\" data-resourceType=\"FIAKeyTerms\">kingdom</span> of Israel and give them back political power. Jesus instead called himself the <span data-bnType=\"resourceReference\" data-resourceId=\"186546\" data-resourceType=\"FIAKeyTerms\">Son of Man</span>, which was an indirect way of saying that he was the Messiah.</p><p>After Jesus rose up from the dead, his <span data-bnType=\"resourceReference\" data-resourceId=\"186630\" data-resourceType=\"FIAKeyTerms\">disciples</span> knew with great certainty that he was indeed the Messiah and they began to share this <span data-bnType=\"resourceReference\" data-resourceId=\"186578\" data-resourceType=\"FIAKeyTerms\">good news</span> to other people. God had sent his <span data-bnType=\"resourceReference\" data-resourceId=\"186512\" data-resourceType=\"FIAKeyTerms\">Savior</span>! But Jesus was not a Savior who just freed people from an earthly government. Jesus was a Savior who did much more-Jesus freed people from sin and death.</p><p><strong>When you are translating Messiah or Christ, be careful about the following things:</strong></p><ul><li><p>You only need one word for both Messiah or Christ.</p></li><li><p>You could translate Messiah as &quot;Savior,&quot; or &quot;promised Savior,&quot; or &quot;special king and Savior.&quot;</p></li><li><p>Some translation teams like to use a word that sounds like &quot;Messiah&quot; or &quot;Christ.&quot; If you do this, be sure that the word does not sound similar to a word in your language that has a very different meaning! Otherwise, people who do not know the Bible may get very confused.</p></li><li><p>Maybe your culture has a symbol or ritual that people use to appoint someone for a special task. Maybe you can use this word for your translation of Messiah?</p></li></ul>",
+    "review_level": "Professional",
+    "content": "<p>The word &quot;<span data-bnType=\"resourceReference\" data-resourceId=\"186574\" data-resourceType=\"FIAKeyTerms\">Christ</span>&quot; is the same as the word <strong>Messiah</strong>. Christ is the <span data-bnType=\"resourceReference\" data-resourceId=\"186802\" data-resourceType=\"FIAKeyTerms\">Greek</span> word, and Messiah is the same word in <span data-bnType=\"resourceReference\" data-resourceId=\"186810\" data-resourceType=\"FIAKeyTerms\">Hebrew</span>. Greek is the language of the New Testament, while Hebrew is the language of the Old Testament. The word Messiah refers to the special <span data-bnType=\"resourceReference\" data-resourceId=\"186796\" data-resourceType=\"FIAKeyTerms\">king</span> and <span data-bnType=\"resourceReference\" data-resourceId=\"186512\" data-resourceType=\"FIAKeyTerms\">Savior</span> that God had promised to send.</p><p>A Messiah literally means someone who is <span data-bnType=\"resourceReference\" data-resourceId=\"222594\" data-resourceType=\"FIAKeyTerms\">anointed</span>. That means that another person had poured oil over them. This was a sign that God gave this person a special task. For example, In the Old Testament, God told the <span data-bnType=\"resourceReference\" data-resourceId=\"186511\" data-resourceType=\"FIAKeyTerms\">prophet</span> Samuel to pour oil over <span data-bnType=\"resourceReference\" data-resourceId=\"186466\" data-resourceType=\"FIAKeyTerms\">David</span>. This was a sign that God chose David to become the next king of <span data-bnType=\"resourceReference\" data-resourceId=\"186627\" data-resourceType=\"FIAKeyTerms\">Israel</span>.</p><p>Later, people called someone anointed if God had appointed that person for a special task, even if no one really had poured oil on their head.</p><p>David became the most beloved king of Israel. But after David, other people were ruling over Israel, and many of them were not good kings. These kings were leading the people away from God, and therefore God had to punish the people. The country of Israel was destroyed, and came under the control of other <span data-bnType=\"resourceReference\" data-resourceId=\"186495\" data-resourceType=\"FIAKeyTerms\">nations</span>. But still, God promised the people of Israel that he would send them a new king. This king would save the people from their trouble. This king would be a descendant from David.</p><p>The <span data-bnType=\"resourceReference\" data-resourceId=\"186562\" data-resourceType=\"FIAKeyTerms\">Israelites</span> began to refer to this king that God promised to send as &quot;the Messiah&quot;-the anointed one.</p><p>When Jesus came, he showed the people that <em>he</em> is the Messiah that God had promised to send. Jesus was a <span data-bnType=\"resourceReference\" data-resourceId=\"222612\" data-resourceType=\"FIAKeyTerms\">descendant</span> from David. Jesus proved that God had appointed him through the extraordinary power and <span data-bnType=\"resourceReference\" data-resourceId=\"186527\" data-resourceType=\"FIAKeyTerms\">authority</span> he had.</p><p>Jesus almost never directly said to the people: &quot;I am the Messiah!&quot; This is because people did not yet really know what it would mean for Jesus to be the Messiah. They had the wrong idea that the Messiah would restore the <span data-bnType=\"resourceReference\" data-resourceId=\"186550\" data-resourceType=\"FIAKeyTerms\">kingdom</span> of Israel and give them back political power. Jesus instead called himself the <span data-bnType=\"resourceReference\" data-resourceId=\"186546\" data-resourceType=\"FIAKeyTerms\">Son of Man</span>, which was an indirect way of saying that he was the Messiah.</p><p>After Jesus rose up from the dead, his <span data-bnType=\"resourceReference\" data-resourceId=\"186630\" data-resourceType=\"FIAKeyTerms\">disciples</span> knew with great certainty that he was indeed the Messiah and they began to share this <span data-bnType=\"resourceReference\" data-resourceId=\"186578\" data-resourceType=\"FIAKeyTerms\">good news</span> to other people. God had sent his <span data-bnType=\"resourceReference\" data-resourceId=\"186512\" data-resourceType=\"FIAKeyTerms\">Savior</span>! But Jesus was not a Savior who just freed people from an earthly government. Jesus was a Savior who did much more-Jesus freed people from <span data-bnType=\"resourceReference\" data-resourceId=\"186477\" data-resourceType=\"FIAKeyTerms\">sin</span> and death.</p><p><strong>When you are translating Messiah or Christ, be careful about the following things:</strong></p><ul><li><p>You only need one word for both Messiah or Christ.</p></li><li><p>You could translate Messiah as &quot;Savior,&quot; or &quot;promised Savior,&quot; or &quot;special king and Savior.&quot;</p></li><li><p>Some translation teams like to use a word that sounds like &quot;Messiah&quot; or &quot;Christ.&quot; If you do this, be sure that the word does not sound similar to a word in your language that has a very different meaning! Otherwise, people who do not know the Bible may get very confused.</p></li><li><p>Maybe your culture has a symbol or ritual that people use to appoint someone for a special task. Maybe you can use this word for your translation of Messiah?</p></li></ul>",
     "associations": {
       "passage": [
         {
@@ -1328,10 +1936,28 @@
           "end_ref_usfm": "MAT 1:25"
         },
         {
+          "start_ref": "40013036",
+          "start_ref_usfm": "MAT 13:36",
+          "end_ref": "40013043",
+          "end_ref_usfm": "MAT 13:43"
+        },
+        {
+          "start_ref": "40016013",
+          "start_ref_usfm": "MAT 16:13",
+          "end_ref": "40016020",
+          "end_ref_usfm": "MAT 16:20"
+        },
+        {
           "start_ref": "40017001",
           "start_ref_usfm": "MAT 17:1",
           "end_ref": "40017013",
           "end_ref_usfm": "MAT 17:13"
+        },
+        {
+          "start_ref": "40020029",
+          "start_ref_usfm": "MAT 20:29",
+          "end_ref": "40020034",
+          "end_ref_usfm": "MAT 20:34"
         },
         {
           "start_ref": "40024003",
@@ -1436,6 +2062,12 @@
           "end_ref_usfm": "LUK 24:35"
         },
         {
+          "start_ref": "40023013",
+          "start_ref_usfm": "MAT 23:13",
+          "end_ref": "40023022",
+          "end_ref_usfm": "MAT 23:22"
+        },
+        {
           "start_ref": "43001019",
           "start_ref_usfm": "JHN 1:19",
           "end_ref": "43001028",
@@ -1484,6 +2116,12 @@
           "end_ref_usfm": "JHN 20:31"
         },
         {
+          "start_ref": "43001043",
+          "start_ref_usfm": "JHN 1:43",
+          "end_ref": "43001051",
+          "end_ref_usfm": "JHN 1:51"
+        },
+        {
           "start_ref": "40023001",
           "start_ref_usfm": "MAT 23:1",
           "end_ref": "40023012",
@@ -1508,6 +2146,12 @@
           "end_ref_usfm": "ACT 10:48"
         },
         {
+          "start_ref": "43017001",
+          "start_ref_usfm": "JHN 17:1",
+          "end_ref": "43017019",
+          "end_ref_usfm": "JHN 17:19"
+        },
+        {
           "start_ref": "42022063",
           "start_ref_usfm": "LUK 22:63",
           "end_ref": "42022071",
@@ -1524,6 +2168,18 @@
           "start_ref_usfm": "JHN 11:17",
           "end_ref": "43011027",
           "end_ref_usfm": "JHN 11:27"
+        },
+        {
+          "start_ref": "49005007",
+          "start_ref_usfm": "EPH 5:7",
+          "end_ref": "49005014",
+          "end_ref_usfm": "EPH 5:14"
+        },
+        {
+          "start_ref": "49005015",
+          "start_ref_usfm": "EPH 5:15",
+          "end_ref": "49005021",
+          "end_ref_usfm": "EPH 5:21"
         }
       ],
       "resource": [
@@ -1549,17 +2205,59 @@
           "language": "eng"
         },
         {
-          "reference_id": 186512,
-          "content_id": 280092,
-          "resource_code": "FIAKeyTerms",
-          "label": "Savior",
-          "language": "eng"
-        },
-        {
           "reference_id": 186495,
           "content_id": 341075,
           "resource_code": "FIAKeyTerms",
           "label": "nation",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186477,
+          "content_id": 280057,
+          "resource_code": "FIAKeyTerms",
+          "label": "sin",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186477,
+          "content_id": 341053,
+          "resource_code": "FIAKeyTerms",
+          "label": "sin",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186527,
+          "content_id": 280107,
+          "resource_code": "FIAKeyTerms",
+          "label": "authority",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186527,
+          "content_id": 341112,
+          "resource_code": "FIAKeyTerms",
+          "label": "authority",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186511,
+          "content_id": 280091,
+          "resource_code": "FIAKeyTerms",
+          "label": "prophet",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186511,
+          "content_id": 341093,
+          "resource_code": "FIAKeyTerms",
+          "label": "prophet",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186512,
+          "content_id": 280092,
+          "resource_code": "FIAKeyTerms",
+          "label": "Savior",
           "language": "eng"
         },
         {
@@ -1577,10 +2275,10 @@
           "language": "eng"
         },
         {
-          "reference_id": 186550,
-          "content_id": 280130,
+          "reference_id": 186546,
+          "content_id": 341133,
           "resource_code": "FIAKeyTerms",
-          "label": "kingdom",
+          "label": "Son of Man",
           "language": "eng"
         },
         {
@@ -1591,45 +2289,10 @@
           "language": "eng"
         },
         {
-          "reference_id": 186578,
-          "content_id": 280158,
-          "resource_code": "FIAKeyTerms",
-          "label": "good news",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186546,
-          "content_id": 341133,
-          "resource_code": "FIAKeyTerms",
-          "label": "Son of Man",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186550,
-          "content_id": 341137,
-          "resource_code": "FIAKeyTerms",
-          "label": "kingdom",
-          "language": "eng"
-        },
-        {
           "reference_id": 186574,
           "content_id": 341167,
           "resource_code": "FIAKeyTerms",
           "label": "Christ",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186578,
-          "content_id": 341171,
-          "resource_code": "FIAKeyTerms",
-          "label": "good news",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186627,
-          "content_id": 280207,
-          "resource_code": "FIAKeyTerms",
-          "label": "Israel",
           "language": "eng"
         },
         {
@@ -1640,45 +2303,17 @@
           "language": "eng"
         },
         {
-          "reference_id": 186796,
-          "content_id": 341020,
+          "reference_id": 186630,
+          "content_id": 341232,
           "resource_code": "FIAKeyTerms",
-          "label": "king",
+          "label": "disciple",
           "language": "eng"
         },
         {
-          "reference_id": 186802,
-          "content_id": 341026,
+          "reference_id": 186627,
+          "content_id": 280207,
           "resource_code": "FIAKeyTerms",
-          "label": "greeks",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186810,
-          "content_id": 341034,
-          "resource_code": "FIAKeyTerms",
-          "label": "Hebrew",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186796,
-          "content_id": 341119,
-          "resource_code": "FIAKeyTerms",
-          "label": "king",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186802,
-          "content_id": 341159,
-          "resource_code": "FIAKeyTerms",
-          "label": "greeks",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186810,
-          "content_id": 341209,
-          "resource_code": "FIAKeyTerms",
-          "label": "Hebrew",
+          "label": "Israel",
           "language": "eng"
         },
         {
@@ -1689,25 +2324,130 @@
           "language": "eng"
         },
         {
-          "reference_id": 186630,
-          "content_id": 341232,
+          "reference_id": 186550,
+          "content_id": 280130,
           "resource_code": "FIAKeyTerms",
-          "label": "disciple",
+          "label": "kingdom",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186550,
+          "content_id": 341137,
+          "resource_code": "FIAKeyTerms",
+          "label": "kingdom",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186578,
+          "content_id": 280158,
+          "resource_code": "FIAKeyTerms",
+          "label": "good news",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186578,
+          "content_id": 341171,
+          "resource_code": "FIAKeyTerms",
+          "label": "good news",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186802,
+          "content_id": 341026,
+          "resource_code": "FIAKeyTerms",
+          "label": "greeks",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186802,
+          "content_id": 341159,
+          "resource_code": "FIAKeyTerms",
+          "label": "greeks",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186796,
+          "content_id": 341020,
+          "resource_code": "FIAKeyTerms",
+          "label": "king",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186796,
+          "content_id": 341119,
+          "resource_code": "FIAKeyTerms",
+          "label": "king",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186562,
+          "content_id": 280142,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israelite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186562,
+          "content_id": 341150,
+          "resource_code": "FIAKeyTerms",
+          "label": "Israelite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 222594,
+          "content_id": 871025,
+          "resource_code": "FIAKeyTerms",
+          "label": "anoint",
+          "language": "eng"
+        },
+        {
+          "reference_id": 222594,
+          "content_id": 871026,
+          "resource_code": "FIAKeyTerms",
+          "label": "anoint",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186810,
+          "content_id": 341034,
+          "resource_code": "FIAKeyTerms",
+          "label": "Hebrew",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186810,
+          "content_id": 341209,
+          "resource_code": "FIAKeyTerms",
+          "label": "Hebrew",
+          "language": "eng"
+        },
+        {
+          "reference_id": 222612,
+          "content_id": 871733,
+          "resource_code": "FIAKeyTerms",
+          "label": "descendant",
+          "language": "eng"
+        },
+        {
+          "reference_id": 222612,
+          "content_id": 871734,
+          "resource_code": "FIAKeyTerms",
+          "label": "descendant",
           "language": "eng"
         }
       ]
     }
   },
   {
-    "content_id": 341168,
+    "content_id": "341168",
     "reference_id": 186575,
     "version": "1.0.1",
     "title": "Messiah",
     "media_type": "Audio",
     "index_reference": "messiah",
     "language": "eng",
-    "review_level": "None",
-    "content": "<h3>Audio Content</h3>\n",
+    "review_level": "Professional",
+    "content": "<h3>Audio Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAKeyTerms/ENG/audio/webm/t92-messiah.webm'>webm file</a> (1862504 KB)</p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAKeyTerms/ENG/audio/mp3/t92-messiah.mp3'>mp3 file</a> (2451548 KB)</p>",
     "associations": {
       "passage": [
         {
@@ -1771,10 +2511,28 @@
           "end_ref_usfm": "MAT 1:25"
         },
         {
+          "start_ref": "40013036",
+          "start_ref_usfm": "MAT 13:36",
+          "end_ref": "40013043",
+          "end_ref_usfm": "MAT 13:43"
+        },
+        {
+          "start_ref": "40016013",
+          "start_ref_usfm": "MAT 16:13",
+          "end_ref": "40016020",
+          "end_ref_usfm": "MAT 16:20"
+        },
+        {
           "start_ref": "40017001",
           "start_ref_usfm": "MAT 17:1",
           "end_ref": "40017013",
           "end_ref_usfm": "MAT 17:13"
+        },
+        {
+          "start_ref": "40020029",
+          "start_ref_usfm": "MAT 20:29",
+          "end_ref": "40020034",
+          "end_ref_usfm": "MAT 20:34"
         },
         {
           "start_ref": "40024003",
@@ -1879,6 +2637,12 @@
           "end_ref_usfm": "LUK 24:35"
         },
         {
+          "start_ref": "40023013",
+          "start_ref_usfm": "MAT 23:13",
+          "end_ref": "40023022",
+          "end_ref_usfm": "MAT 23:22"
+        },
+        {
           "start_ref": "43001019",
           "start_ref_usfm": "JHN 1:19",
           "end_ref": "43001028",
@@ -1927,6 +2691,12 @@
           "end_ref_usfm": "JHN 20:31"
         },
         {
+          "start_ref": "43001043",
+          "start_ref_usfm": "JHN 1:43",
+          "end_ref": "43001051",
+          "end_ref_usfm": "JHN 1:51"
+        },
+        {
           "start_ref": "40023001",
           "start_ref_usfm": "MAT 23:1",
           "end_ref": "40023012",
@@ -1951,6 +2721,12 @@
           "end_ref_usfm": "ACT 10:48"
         },
         {
+          "start_ref": "43017001",
+          "start_ref_usfm": "JHN 17:1",
+          "end_ref": "43017019",
+          "end_ref_usfm": "JHN 17:19"
+        },
+        {
           "start_ref": "42022063",
           "start_ref_usfm": "LUK 22:63",
           "end_ref": "42022071",
@@ -1967,6 +2743,18 @@
           "start_ref_usfm": "JHN 11:17",
           "end_ref": "43011027",
           "end_ref_usfm": "JHN 11:27"
+        },
+        {
+          "start_ref": "49005007",
+          "start_ref_usfm": "EPH 5:7",
+          "end_ref": "49005014",
+          "end_ref_usfm": "EPH 5:14"
+        },
+        {
+          "start_ref": "49005015",
+          "start_ref_usfm": "EPH 5:15",
+          "end_ref": "49005021",
+          "end_ref_usfm": "EPH 5:21"
         }
       ],
       "resource": [
@@ -1992,17 +2780,59 @@
           "language": "eng"
         },
         {
-          "reference_id": 186512,
-          "content_id": 280092,
-          "resource_code": "Unknown",
-          "label": "Savior",
-          "language": "eng"
-        },
-        {
           "reference_id": 186495,
           "content_id": 341075,
           "resource_code": "Unknown",
           "label": "nation",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186477,
+          "content_id": 280057,
+          "resource_code": "Unknown",
+          "label": "sin",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186477,
+          "content_id": 341053,
+          "resource_code": "Unknown",
+          "label": "sin",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186527,
+          "content_id": 280107,
+          "resource_code": "Unknown",
+          "label": "authority",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186527,
+          "content_id": 341112,
+          "resource_code": "Unknown",
+          "label": "authority",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186511,
+          "content_id": 280091,
+          "resource_code": "Unknown",
+          "label": "prophet",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186511,
+          "content_id": 341093,
+          "resource_code": "Unknown",
+          "label": "prophet",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186512,
+          "content_id": 280092,
+          "resource_code": "Unknown",
+          "label": "Savior",
           "language": "eng"
         },
         {
@@ -2020,10 +2850,10 @@
           "language": "eng"
         },
         {
-          "reference_id": 186550,
-          "content_id": 280130,
+          "reference_id": 186546,
+          "content_id": 341133,
           "resource_code": "Unknown",
-          "label": "kingdom",
+          "label": "Son of Man",
           "language": "eng"
         },
         {
@@ -2034,45 +2864,10 @@
           "language": "eng"
         },
         {
-          "reference_id": 186578,
-          "content_id": 280158,
-          "resource_code": "Unknown",
-          "label": "good news",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186546,
-          "content_id": 341133,
-          "resource_code": "Unknown",
-          "label": "Son of Man",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186550,
-          "content_id": 341137,
-          "resource_code": "Unknown",
-          "label": "kingdom",
-          "language": "eng"
-        },
-        {
           "reference_id": 186574,
           "content_id": 341167,
           "resource_code": "Unknown",
           "label": "Christ",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186578,
-          "content_id": 341171,
-          "resource_code": "Unknown",
-          "label": "good news",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186627,
-          "content_id": 280207,
-          "resource_code": "Unknown",
-          "label": "Israel",
           "language": "eng"
         },
         {
@@ -2083,45 +2878,17 @@
           "language": "eng"
         },
         {
-          "reference_id": 186796,
-          "content_id": 341020,
+          "reference_id": 186630,
+          "content_id": 341232,
           "resource_code": "Unknown",
-          "label": "king",
+          "label": "disciple",
           "language": "eng"
         },
         {
-          "reference_id": 186802,
-          "content_id": 341026,
+          "reference_id": 186627,
+          "content_id": 280207,
           "resource_code": "Unknown",
-          "label": "greeks",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186810,
-          "content_id": 341034,
-          "resource_code": "Unknown",
-          "label": "Hebrew",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186796,
-          "content_id": 341119,
-          "resource_code": "Unknown",
-          "label": "king",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186802,
-          "content_id": 341159,
-          "resource_code": "Unknown",
-          "label": "greeks",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186810,
-          "content_id": 341209,
-          "resource_code": "Unknown",
-          "label": "Hebrew",
+          "label": "Israel",
           "language": "eng"
         },
         {
@@ -2132,25 +2899,130 @@
           "language": "eng"
         },
         {
-          "reference_id": 186630,
-          "content_id": 341232,
+          "reference_id": 186550,
+          "content_id": 280130,
           "resource_code": "Unknown",
-          "label": "disciple",
+          "label": "kingdom",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186550,
+          "content_id": 341137,
+          "resource_code": "Unknown",
+          "label": "kingdom",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186578,
+          "content_id": 280158,
+          "resource_code": "Unknown",
+          "label": "good news",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186578,
+          "content_id": 341171,
+          "resource_code": "Unknown",
+          "label": "good news",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186802,
+          "content_id": 341026,
+          "resource_code": "Unknown",
+          "label": "greeks",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186802,
+          "content_id": 341159,
+          "resource_code": "Unknown",
+          "label": "greeks",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186796,
+          "content_id": 341020,
+          "resource_code": "Unknown",
+          "label": "king",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186796,
+          "content_id": 341119,
+          "resource_code": "Unknown",
+          "label": "king",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186562,
+          "content_id": 280142,
+          "resource_code": "Unknown",
+          "label": "Israelite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186562,
+          "content_id": 341150,
+          "resource_code": "Unknown",
+          "label": "Israelite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 222594,
+          "content_id": 871025,
+          "resource_code": "Unknown",
+          "label": "anoint",
+          "language": "eng"
+        },
+        {
+          "reference_id": 222594,
+          "content_id": 871026,
+          "resource_code": "Unknown",
+          "label": "anoint",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186810,
+          "content_id": 341034,
+          "resource_code": "Unknown",
+          "label": "Hebrew",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186810,
+          "content_id": 341209,
+          "resource_code": "Unknown",
+          "label": "Hebrew",
+          "language": "eng"
+        },
+        {
+          "reference_id": 222612,
+          "content_id": 871733,
+          "resource_code": "Unknown",
+          "label": "descendant",
+          "language": "eng"
+        },
+        {
+          "reference_id": 222612,
+          "content_id": 871734,
+          "resource_code": "Unknown",
+          "label": "descendant",
           "language": "eng"
         }
       ]
     }
   },
   {
-    "content_id": 280053,
+    "content_id": "280053",
     "reference_id": 186473,
     "version": "1.0.1",
     "title": "mind",
     "media_type": "Text",
     "index_reference": "mind",
     "language": "eng",
-    "review_level": "None",
-    "content": "<p>The <strong>mind</strong> refers to someone&apos;s thinking, understanding, and intelligence. In <span data-bnType=\"resourceReference\" data-resourceId=\"186810\" data-resourceType=\"FIAKeyTerms\">Hebrew</span>, the language of the Old Testament, the word for &quot;mind&quot; is the same as the word for &quot;<span data-bnType=\"resourceReference\" data-resourceId=\"186593\" data-resourceType=\"FIAKeyTerms\">heart</span>.&quot; In <span data-bnType=\"resourceReference\" data-resourceId=\"186802\" data-resourceType=\"FIAKeyTerms\">Greek</span>, the language of the New Testament, a mind is slightly different from the heart. In Greek, the word &quot;heart&quot; has a bit more emphasis on feelings, while the word &quot;mind&quot; has more emphasis on the thoughts, the intellect, and the will of a person.</p><p><strong>When you are translating &quot;mind,&quot; be careful about the following things:</strong></p><p>Please note that you also need to have a word for &quot;heart,&quot; &quot;soul,&quot; and for &quot;spirit.&quot; The words mind, heart, soul, and spirit, all have to do with the inner, invisible part of a person, but each of them has a slightly different use. You may want to listen to the explanations of each of these terms, and then discuss all these four terms together. You can then make a decision about how you are going to translate each of these terms. But remember that in each passage you will have to think again if you have chosen the right translation.</p><p>In summary:</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"186593\" data-resourceType=\"FIAKeyTerms\">Heart</span>&nbsp;Heart is picture language for the place where a person&apos;s thoughts, feelings, and decisions happen.</p></li><li><p><strong>Mind</strong>&nbsp;The mind is very similar to heart, but a bit more emphasis on thoughts, intelligence, and the will.</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"186586\" data-resourceType=\"FIAKeyTerms\">Soul</span>&nbsp;The soul is the total invisible, inner part of a person. This part of a person may live on even after their body dies.</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"186533\" data-resourceType=\"FIAKeyTerms\">Spirit</span>&nbsp;The spirit is very similar to soul, but with more emphasis on the relationship with God.</p></li></ul>",
+    "review_level": "Professional",
+    "content": "<p>The <strong>mind</strong> refers to someone&apos;s thinking, understanding, and intelligence. In <span data-bnType=\"resourceReference\" data-resourceId=\"186810\" data-resourceType=\"FIAKeyTerms\">Hebrew</span>, the language of the Old Testament, the word for &quot;mind&quot; is the same as the word for &quot;<span data-bnType=\"resourceReference\" data-resourceId=\"186593\" data-resourceType=\"FIAKeyTerms\">heart</span>.&quot; In <span data-bnType=\"resourceReference\" data-resourceId=\"186802\" data-resourceType=\"FIAKeyTerms\">Greek</span>, the language of the New Testament, a mind is slightly different from the heart. In Greek, the word &quot;heart&quot; has a bit more emphasis on feelings, while the word &quot;mind&quot; has more emphasis on the thoughts, the intellect, and the will of a person.</p><p><strong>When you are translating &quot;mind,&quot; be careful about the following things:</strong></p><p>Please note that you also need to have a word for &quot;heart,&quot; &quot;soul,&quot; and for &quot;spirit.&quot; The words mind, heart, soul, and spirit, all have to do with the inner, invisible part of a person, but each of them has a slightly different use. You may want to listen to the explanations of each of these terms, and then discuss all these four terms together. You can then make a decision about how you are going to translate each of these terms. But remember that in each passage you will have to think again if you have chosen the right translation.</p><p>In summary:</p><ul><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"186593\" data-resourceType=\"FIAKeyTerms\">Heart</span>: Heart is picture language for the place where a person&apos;s thoughts, feelings, and decisions happen.</p></li><li><p><strong>Mind</strong>: The mind is very similar to heart, but a bit more emphasis on thoughts, intelligence, and the will.</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"186586\" data-resourceType=\"FIAKeyTerms\">Soul</span>: The soul is the total invisible, inner part of a person. This part of a person may live on even after their body dies.</p></li><li><p><span data-bnType=\"resourceReference\" data-resourceId=\"186533\" data-resourceType=\"FIAKeyTerms\">Spirit</span>: The spirit is very similar to soul, but with more emphasis on the relationship with God.</p></li></ul>",
     "associations": {
       "passage": [
         {
@@ -2164,12 +3036,67 @@
           "start_ref_usfm": "ACT 4:32",
           "end_ref": "44004037",
           "end_ref_usfm": "ACT 4:37"
+        },
+        {
+          "start_ref": "47005011",
+          "start_ref_usfm": "2CO 5:11",
+          "end_ref": "47005015",
+          "end_ref_usfm": "2CO 5:15"
+        },
+        {
+          "start_ref": "13012023",
+          "start_ref_usfm": "1CH 12:23",
+          "end_ref": "13012040",
+          "end_ref_usfm": "1CH 12:40"
+        },
+        {
+          "start_ref": "09002027",
+          "start_ref_usfm": "1SA 2:27",
+          "end_ref": "09002036",
+          "end_ref_usfm": "1SA 2:36"
+        },
+        {
+          "start_ref": "54006002",
+          "start_ref_usfm": "1TI 6:2",
+          "end_ref": "54006010",
+          "end_ref_usfm": "1TI 6:10"
+        },
+        {
+          "start_ref": "40022034",
+          "start_ref_usfm": "MAT 22:34",
+          "end_ref": "40022046",
+          "end_ref_usfm": "MAT 22:46"
+        },
+        {
+          "start_ref": "47004001",
+          "start_ref_usfm": "2CO 4:1",
+          "end_ref": "47004006",
+          "end_ref_usfm": "2CO 4:6"
+        },
+        {
+          "start_ref": "47002012",
+          "start_ref_usfm": "2CO 2:12",
+          "end_ref": "47003003",
+          "end_ref_usfm": "2CO 3:3"
+        },
+        {
+          "start_ref": "47003012",
+          "start_ref_usfm": "2CO 3:12",
+          "end_ref": "47003018",
+          "end_ref_usfm": "2CO 3:18"
         }
       ],
       "resource": [
         {
           "reference_id": 186533,
           "content_id": 280113,
+          "resource_code": "FIAKeyTerms",
+          "label": "spirit",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186533,
+          "content_id": 871459,
           "resource_code": "FIAKeyTerms",
           "label": "spirit",
           "language": "eng"
@@ -2182,8 +3109,22 @@
           "language": "eng"
         },
         {
+          "reference_id": 186586,
+          "content_id": 341182,
+          "resource_code": "FIAKeyTerms",
+          "label": "soul",
+          "language": "eng"
+        },
+        {
           "reference_id": 186593,
           "content_id": 280173,
+          "resource_code": "FIAKeyTerms",
+          "label": "heart",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186593,
+          "content_id": 341189,
           "resource_code": "FIAKeyTerms",
           "label": "heart",
           "language": "eng"
@@ -2196,17 +3137,10 @@
           "language": "eng"
         },
         {
-          "reference_id": 186586,
-          "content_id": 341182,
+          "reference_id": 186802,
+          "content_id": 341159,
           "resource_code": "FIAKeyTerms",
-          "label": "soul",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186593,
-          "content_id": 341189,
-          "resource_code": "FIAKeyTerms",
-          "label": "heart",
+          "label": "greeks",
           "language": "eng"
         },
         {
@@ -2214,13 +3148,6 @@
           "content_id": 341034,
           "resource_code": "FIAKeyTerms",
           "label": "Hebrew",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186802,
-          "content_id": 341159,
-          "resource_code": "FIAKeyTerms",
-          "label": "greeks",
           "language": "eng"
         },
         {
@@ -2234,15 +3161,15 @@
     }
   },
   {
-    "content_id": 341049,
+    "content_id": "341049",
     "reference_id": 186473,
     "version": "1.0.1",
     "title": "mind",
     "media_type": "Audio",
     "index_reference": "mind",
     "language": "eng",
-    "review_level": "None",
-    "content": "<h3>Audio Content</h3>\n",
+    "review_level": "Professional",
+    "content": "<h3>Audio Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAKeyTerms/ENG/audio/webm/t151-mind.webm'>webm file</a> (870962 KB)</p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAKeyTerms/ENG/audio/mp3/t151-mind.mp3'>mp3 file</a> (1127900 KB)</p>",
     "associations": {
       "passage": [
         {
@@ -2256,12 +3183,67 @@
           "start_ref_usfm": "ACT 4:32",
           "end_ref": "44004037",
           "end_ref_usfm": "ACT 4:37"
+        },
+        {
+          "start_ref": "47005011",
+          "start_ref_usfm": "2CO 5:11",
+          "end_ref": "47005015",
+          "end_ref_usfm": "2CO 5:15"
+        },
+        {
+          "start_ref": "13012023",
+          "start_ref_usfm": "1CH 12:23",
+          "end_ref": "13012040",
+          "end_ref_usfm": "1CH 12:40"
+        },
+        {
+          "start_ref": "09002027",
+          "start_ref_usfm": "1SA 2:27",
+          "end_ref": "09002036",
+          "end_ref_usfm": "1SA 2:36"
+        },
+        {
+          "start_ref": "54006002",
+          "start_ref_usfm": "1TI 6:2",
+          "end_ref": "54006010",
+          "end_ref_usfm": "1TI 6:10"
+        },
+        {
+          "start_ref": "40022034",
+          "start_ref_usfm": "MAT 22:34",
+          "end_ref": "40022046",
+          "end_ref_usfm": "MAT 22:46"
+        },
+        {
+          "start_ref": "47004001",
+          "start_ref_usfm": "2CO 4:1",
+          "end_ref": "47004006",
+          "end_ref_usfm": "2CO 4:6"
+        },
+        {
+          "start_ref": "47002012",
+          "start_ref_usfm": "2CO 2:12",
+          "end_ref": "47003003",
+          "end_ref_usfm": "2CO 3:3"
+        },
+        {
+          "start_ref": "47003012",
+          "start_ref_usfm": "2CO 3:12",
+          "end_ref": "47003018",
+          "end_ref_usfm": "2CO 3:18"
         }
       ],
       "resource": [
         {
           "reference_id": 186533,
           "content_id": 280113,
+          "resource_code": "Unknown",
+          "label": "spirit",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186533,
+          "content_id": 871459,
           "resource_code": "Unknown",
           "label": "spirit",
           "language": "eng"
@@ -2274,8 +3256,22 @@
           "language": "eng"
         },
         {
+          "reference_id": 186586,
+          "content_id": 341182,
+          "resource_code": "Unknown",
+          "label": "soul",
+          "language": "eng"
+        },
+        {
           "reference_id": 186593,
           "content_id": 280173,
+          "resource_code": "Unknown",
+          "label": "heart",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186593,
+          "content_id": 341189,
           "resource_code": "Unknown",
           "label": "heart",
           "language": "eng"
@@ -2288,17 +3284,10 @@
           "language": "eng"
         },
         {
-          "reference_id": 186586,
-          "content_id": 341182,
+          "reference_id": 186802,
+          "content_id": 341159,
           "resource_code": "Unknown",
-          "label": "soul",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186593,
-          "content_id": 341189,
-          "resource_code": "Unknown",
-          "label": "heart",
+          "label": "greeks",
           "language": "eng"
         },
         {
@@ -2306,13 +3295,6 @@
           "content_id": 341034,
           "resource_code": "Unknown",
           "label": "Hebrew",
-          "language": "eng"
-        },
-        {
-          "reference_id": 186802,
-          "content_id": 341159,
-          "resource_code": "Unknown",
-          "label": "greeks",
           "language": "eng"
         },
         {
@@ -2326,15 +3308,15 @@
     }
   },
   {
-    "content_id": 280097,
+    "content_id": "280097",
     "reference_id": 186517,
     "version": "1.0.1",
     "title": "miracles",
     "media_type": "Text",
     "index_reference": "miracles",
     "language": "eng",
-    "review_level": "None",
-    "content": "<p>A <strong>miracle</strong>, sometimes called a <strong>wonder</strong>, is something that happens that is very unusual and surprising and seems impossible. Someone who performs a miracle makes an unusual and impossible thing happen. In the Old Testament, God often performed a miracle when people prayed for help. Sometimes God performed a miracle to punish people. Sometimes the <span data-bnType=\"resourceReference\" data-resourceId=\"186529\" data-resourceType=\"FIAKeyTerms\">prophets</span>-the people who gave messages from God to the people-performed miracles through the power of God. In the New Testament, Jesus and later his followers performed miracles.</p><p>In the Bible, a miracle is never happening just to create some excitement, but is always happening to teach the people something. God performs miracles to show the people that he is powerful and that they can trust him. When a person performs a miracle, this shows the people that God has given this person <span data-bnType=\"resourceReference\" data-resourceId=\"186527\" data-resourceType=\"FIAKeyTerms\">authority</span>, and the people should pay attention to what this person is telling about God. A miracle also shows that God is at work. For this reason, miracles are also called <strong>signs</strong> and we often hear the words <strong>signs and wonders</strong> together. These words mean similar things.</p><p>However, Jesus also warned the people that they had to be careful and should not get excited about every miracle they saw or about every impossible thing that happened, because sometimes people performed a miracle not by the power of God, but by the power of <span data-bnType=\"resourceReference\" data-resourceId=\"186503\" data-resourceType=\"FIAKeyTerms\">Satan</span>. Satan can deceive people by also making miracles happen. People have to be careful to distinguish between a miracle that comes from God, and a miracle that is done to turn people away from God, or to make people believe false teaching.</p>",
+    "review_level": "Professional",
+    "content": "<p>A <strong>miracle</strong>, sometimes called a <strong>wonder</strong>, is something that happens that is very unusual and surprising and seems impossible. Someone who performs a miracle makes an unusual and impossible thing happen. In the Old Testament, God often performed a miracle when people <span data-bnType=\"resourceReference\" data-resourceId=\"186597\" data-resourceType=\"FIAKeyTerms\">prayed</span> for help. Sometimes God performed a miracle to punish people. Sometimes the <span data-bnType=\"resourceReference\" data-resourceId=\"186511\" data-resourceType=\"FIAKeyTerms\">prophets</span>-the people who gave messages from God to the people-performed miracles through the power of God. In the New Testament, Jesus and later his followers performed miracles.</p><p>In the Bible, a miracle is never happening just to create some excitement, but is always happening to teach the people something. God performs miracles to show the people that he is powerful and that they can trust him. When a person performs a miracle, this shows the people that God has given this person <span data-bnType=\"resourceReference\" data-resourceId=\"186527\" data-resourceType=\"FIAKeyTerms\">authority</span>, and the people should pay attention to what this person is telling about God. A miracle also shows that God is at work. For this reason, miracles are also called <strong>signs</strong> and we often hear the words <strong>signs and wonders</strong> together. These words mean similar things.</p><p>However, Jesus also warned the people that they had to be careful and should not get excited about every miracle they saw or about every impossible thing that happened, because sometimes people performed a miracle not by the power of God, but by the power of <span data-bnType=\"resourceReference\" data-resourceId=\"186503\" data-resourceType=\"FIAKeyTerms\">Satan</span>. Satan can deceive people by also making miracles happen. People have to be careful to distinguish between a miracle that comes from God, and a miracle that is done to turn people away from God, or to make people <span data-bnType=\"resourceReference\" data-resourceId=\"186484\" data-resourceType=\"FIAKeyTerms\">believe</span> false teaching.</p>",
     "associations": {
       "passage": [
         {
@@ -2416,6 +3398,12 @@
           "end_ref_usfm": "MRK 13:23"
         },
         {
+          "start_ref": "46012027",
+          "start_ref_usfm": "1CO 12:27",
+          "end_ref": "46012031",
+          "end_ref_usfm": "1CO 12:31"
+        },
+        {
           "start_ref": "40011020",
           "start_ref_usfm": "MAT 11:20",
           "end_ref": "40011024",
@@ -2432,6 +3420,18 @@
           "start_ref_usfm": "LUK 23:1",
           "end_ref": "42023012",
           "end_ref_usfm": "LUK 23:12"
+        },
+        {
+          "start_ref": "44015001",
+          "start_ref_usfm": "ACT 15:1",
+          "end_ref": "44015021",
+          "end_ref_usfm": "ACT 15:21"
+        },
+        {
+          "start_ref": "53002001",
+          "start_ref_usfm": "2TH 2:1",
+          "end_ref": "53002012",
+          "end_ref_usfm": "2TH 2:12"
         },
         {
           "start_ref": "44002014",
@@ -2462,6 +3462,12 @@
           "start_ref_usfm": "EXO 10:1",
           "end_ref": "02010020",
           "end_ref_usfm": "EXO 10:20"
+        },
+        {
+          "start_ref": "48003001",
+          "start_ref_usfm": "GAL 3:1",
+          "end_ref": "48003009",
+          "end_ref_usfm": "GAL 3:9"
         },
         {
           "start_ref": "43007025",
@@ -2512,6 +3518,12 @@
           "end_ref_usfm": "JHN 9:23"
         },
         {
+          "start_ref": "46012001",
+          "start_ref_usfm": "1CO 12:1",
+          "end_ref": "46012011",
+          "end_ref_usfm": "1CO 12:11"
+        },
+        {
           "start_ref": "02006028",
           "start_ref_usfm": "EXO 6:28",
           "end_ref": "02007013",
@@ -2536,6 +3548,12 @@
           "end_ref_usfm": "EXO 34:17"
         },
         {
+          "start_ref": "02004001",
+          "start_ref_usfm": "EXO 4:1",
+          "end_ref": "02004017",
+          "end_ref_usfm": "EXO 4:17"
+        },
+        {
           "start_ref": "02011001",
           "start_ref_usfm": "EXO 11:1",
           "end_ref": "02011010",
@@ -2546,9 +3564,61 @@
           "start_ref_usfm": "LUK 10:1",
           "end_ref": "42010016",
           "end_ref_usfm": "LUK 10:16"
+        },
+        {
+          "start_ref": "13016014",
+          "start_ref_usfm": "1CH 16:14",
+          "end_ref": "13016022",
+          "end_ref_usfm": "1CH 16:22"
+        },
+        {
+          "start_ref": "13016008",
+          "start_ref_usfm": "1CH 16:8",
+          "end_ref": "13016013",
+          "end_ref_usfm": "1CH 16:13"
+        },
+        {
+          "start_ref": "02015011",
+          "start_ref_usfm": "EXO 15:11",
+          "end_ref": "02015018",
+          "end_ref_usfm": "EXO 15:18"
+        },
+        {
+          "start_ref": "06003001",
+          "start_ref_usfm": "JOS 3:1",
+          "end_ref": "06003017",
+          "end_ref_usfm": "JOS 3:17"
         }
       ],
       "resource": [
+        {
+          "reference_id": 186484,
+          "content_id": 280064,
+          "resource_code": "FIAKeyTerms",
+          "label": "belief",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186484,
+          "content_id": 341064,
+          "resource_code": "FIAKeyTerms",
+          "label": "belief",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186511,
+          "content_id": 280091,
+          "resource_code": "FIAKeyTerms",
+          "label": "prophet",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186511,
+          "content_id": 341093,
+          "resource_code": "FIAKeyTerms",
+          "label": "prophet",
+          "language": "eng"
+        },
         {
           "reference_id": 186503,
           "content_id": 280083,
@@ -2571,23 +3641,37 @@
           "language": "eng"
         },
         {
-          "reference_id": 186529,
-          "content_id": 280109,
-          "resource_code": "FIAKeyTerms",
-          "label": "prophecy",
-          "language": "eng"
-        },
-        {
           "reference_id": 186527,
           "content_id": 341112,
           "resource_code": "FIAKeyTerms",
           "label": "authority",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186597,
+          "content_id": 280177,
+          "resource_code": "FIAKeyTerms",
+          "label": "pray",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186597,
+          "content_id": 341194,
+          "resource_code": "FIAKeyTerms",
+          "label": "pray",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186529,
+          "content_id": 280109,
+          "resource_code": "Unknown",
+          "label": "prophecy",
           "language": "eng"
         },
         {
           "reference_id": 186529,
           "content_id": 341115,
-          "resource_code": "FIAKeyTerms",
+          "resource_code": "Unknown",
           "label": "prophecy",
           "language": "eng"
         }
@@ -2595,15 +3679,15 @@
     }
   },
   {
-    "content_id": 341100,
+    "content_id": "341100",
     "reference_id": 186517,
     "version": "1.0.1",
     "title": "miracles",
     "media_type": "Audio",
     "index_reference": "miracles",
     "language": "eng",
-    "review_level": "None",
-    "content": "<h3>Audio Content</h3>\n",
+    "review_level": "Professional",
+    "content": "<h3>Audio Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAKeyTerms/ENG/audio/webm/t93-miracles.webm'>webm file</a> (1028966 KB)</p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAKeyTerms/ENG/audio/mp3/t93-miracles.mp3'>mp3 file</a> (1318172 KB)</p>",
     "associations": {
       "passage": [
         {
@@ -2685,6 +3769,12 @@
           "end_ref_usfm": "MRK 13:23"
         },
         {
+          "start_ref": "46012027",
+          "start_ref_usfm": "1CO 12:27",
+          "end_ref": "46012031",
+          "end_ref_usfm": "1CO 12:31"
+        },
+        {
           "start_ref": "40011020",
           "start_ref_usfm": "MAT 11:20",
           "end_ref": "40011024",
@@ -2701,6 +3791,18 @@
           "start_ref_usfm": "LUK 23:1",
           "end_ref": "42023012",
           "end_ref_usfm": "LUK 23:12"
+        },
+        {
+          "start_ref": "44015001",
+          "start_ref_usfm": "ACT 15:1",
+          "end_ref": "44015021",
+          "end_ref_usfm": "ACT 15:21"
+        },
+        {
+          "start_ref": "53002001",
+          "start_ref_usfm": "2TH 2:1",
+          "end_ref": "53002012",
+          "end_ref_usfm": "2TH 2:12"
         },
         {
           "start_ref": "44002014",
@@ -2731,6 +3833,12 @@
           "start_ref_usfm": "EXO 10:1",
           "end_ref": "02010020",
           "end_ref_usfm": "EXO 10:20"
+        },
+        {
+          "start_ref": "48003001",
+          "start_ref_usfm": "GAL 3:1",
+          "end_ref": "48003009",
+          "end_ref_usfm": "GAL 3:9"
         },
         {
           "start_ref": "43007025",
@@ -2781,6 +3889,12 @@
           "end_ref_usfm": "JHN 9:23"
         },
         {
+          "start_ref": "46012001",
+          "start_ref_usfm": "1CO 12:1",
+          "end_ref": "46012011",
+          "end_ref_usfm": "1CO 12:11"
+        },
+        {
           "start_ref": "02006028",
           "start_ref_usfm": "EXO 6:28",
           "end_ref": "02007013",
@@ -2805,6 +3919,12 @@
           "end_ref_usfm": "EXO 34:17"
         },
         {
+          "start_ref": "02004001",
+          "start_ref_usfm": "EXO 4:1",
+          "end_ref": "02004017",
+          "end_ref_usfm": "EXO 4:17"
+        },
+        {
           "start_ref": "02011001",
           "start_ref_usfm": "EXO 11:1",
           "end_ref": "02011010",
@@ -2815,9 +3935,61 @@
           "start_ref_usfm": "LUK 10:1",
           "end_ref": "42010016",
           "end_ref_usfm": "LUK 10:16"
+        },
+        {
+          "start_ref": "13016014",
+          "start_ref_usfm": "1CH 16:14",
+          "end_ref": "13016022",
+          "end_ref_usfm": "1CH 16:22"
+        },
+        {
+          "start_ref": "13016008",
+          "start_ref_usfm": "1CH 16:8",
+          "end_ref": "13016013",
+          "end_ref_usfm": "1CH 16:13"
+        },
+        {
+          "start_ref": "02015011",
+          "start_ref_usfm": "EXO 15:11",
+          "end_ref": "02015018",
+          "end_ref_usfm": "EXO 15:18"
+        },
+        {
+          "start_ref": "06003001",
+          "start_ref_usfm": "JOS 3:1",
+          "end_ref": "06003017",
+          "end_ref_usfm": "JOS 3:17"
         }
       ],
       "resource": [
+        {
+          "reference_id": 186484,
+          "content_id": 280064,
+          "resource_code": "Unknown",
+          "label": "belief",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186484,
+          "content_id": 341064,
+          "resource_code": "Unknown",
+          "label": "belief",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186511,
+          "content_id": 280091,
+          "resource_code": "Unknown",
+          "label": "prophet",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186511,
+          "content_id": 341093,
+          "resource_code": "Unknown",
+          "label": "prophet",
+          "language": "eng"
+        },
         {
           "reference_id": 186503,
           "content_id": 280083,
@@ -2840,17 +4012,31 @@
           "language": "eng"
         },
         {
-          "reference_id": 186529,
-          "content_id": 280109,
-          "resource_code": "Unknown",
-          "label": "prophecy",
-          "language": "eng"
-        },
-        {
           "reference_id": 186527,
           "content_id": 341112,
           "resource_code": "Unknown",
           "label": "authority",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186597,
+          "content_id": 280177,
+          "resource_code": "Unknown",
+          "label": "pray",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186597,
+          "content_id": 341194,
+          "resource_code": "Unknown",
+          "label": "pray",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186529,
+          "content_id": 280109,
+          "resource_code": "Unknown",
+          "label": "prophecy",
           "language": "eng"
         },
         {

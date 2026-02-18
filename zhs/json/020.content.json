@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": "871158",
+    "reference_id": 186504,
+    "version": "1.0.1",
+    "title": "鸽子",
+    "media_type": "Text",
+    "index_reference": "鸽子",
+    "language": "zhs",
+    "review_level": "Professional",
+    "content": "<p><strong>鸽子</strong>是一种鸟，在<span data-bnType=\"resourceReference\" data-resourceId=\"186627\" data-resourceType=\"FIAKeyTerms\">以色列</span>非常常见。鸽子有不同的类型和大小。有些是白色的，有些则有斑点或有几种颜色。鸽子被认为是一种温柔、和平的鸟。鸽子可以长途飞行，它们非常善于找回到它们所来之处的路。</p><p>神要求<span data-bnType=\"resourceReference\" data-resourceId=\"186562\" data-resourceType=\"FIAKeyTerms\">以色列人</span>在不同的仪式中以动物向祂<span data-bnType=\"resourceReference\" data-resourceId=\"186559\" data-resourceType=\"FIAKeyTerms\">献祭</span>。通常这些动物是绵羊、山羊或公牛。对于穷人来说，这些动物太贵了。因此，神允许人们用一对鸽子献祭。</p><p>当耶稣<span data-bnType=\"resourceReference\" data-resourceId=\"186554\" data-resourceType=\"FIAKeyTerms\">受洗</span>时，<span data-bnType=\"resourceReference\" data-resourceId=\"186642\" data-resourceType=\"FIAKeyTerms\">圣灵</span>看起来好像鸽子，降在祂身上。这并不意味着圣灵是鸽子，只是当时圣灵看起来像鸽子。</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42003015",
+          "start_ref_usfm": "LUK 3:15",
+          "end_ref": "42003022",
+          "end_ref_usfm": "LUK 3:22"
+        },
+        {
+          "start_ref": "42002022",
+          "start_ref_usfm": "LUK 2:22",
+          "end_ref": "42002040",
+          "end_ref_usfm": "LUK 2:40"
+        },
+        {
+          "start_ref": "41011012",
+          "start_ref_usfm": "MRK 11:12",
+          "end_ref": "41011026",
+          "end_ref_usfm": "MRK 11:26"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186554,
+          "content_id": 871042,
+          "resource_code": "FIAKeyTerms",
+          "label": "洗礼",
+          "language": "zhs"
+        },
+        {
+          "reference_id": 186559,
+          "content_id": 871398,
+          "resource_code": "FIAKeyTerms",
+          "label": "献祭",
+          "language": "zhs"
+        },
+        {
+          "reference_id": 186642,
+          "content_id": 871245,
+          "resource_code": "FIAKeyTerms",
+          "label": "圣灵",
+          "language": "zhs"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": "871208",
+    "reference_id": 186632,
+    "version": "1.0.1",
+    "title": "格拉森人",
+    "media_type": "Text",
+    "index_reference": "格拉森人",
+    "language": "zhs",
+    "review_level": "Professional",
+    "content": "<p>这些都是位于<span data-bnType=\"resourceReference\" data-resourceId=\"186629\" data-resourceType=\"FIAKeyTerms\">加利利海</span>东南岸的地区和该地区内城市的不同名称。住在这里的大多数人都不是<span data-bnType=\"resourceReference\" data-resourceId=\"186525\" data-resourceType=\"FIAKeyTerms\">犹太人</span>。该地区是<span data-bnType=\"resourceReference\" data-resourceId=\"186532\" data-resourceType=\"FIAKeyTerms\">低加坡里</span>的一部分。</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41005001",
+          "start_ref_usfm": "MRK 5:1",
+          "end_ref": "41005020",
+          "end_ref_usfm": "MRK 5:20"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186532,
+          "content_id": 871130,
+          "resource_code": "FIAKeyTerms",
+          "label": "低加坡里",
+          "language": "zhs"
+        },
+        {
+          "reference_id": 186629,
+          "content_id": 871420,
+          "resource_code": "FIAKeyTerms",
+          "label": "加利利海",
+          "language": "zhs"
+        }
+      ]
+    }
+  }
+]

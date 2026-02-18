@@ -1,0 +1,60 @@
+[
+  {
+    "content_id": "871058",
+    "reference_id": 186518,
+    "version": "1.0.1",
+    "title": "伯赛大",
+    "media_type": "Text",
+    "index_reference": "伯赛大",
+    "language": "zhs",
+    "review_level": "Professional",
+    "content": "<p><strong>伯赛大</strong>是位于<span data-bnType=\"resourceReference\" data-resourceId=\"186508\" data-resourceType=\"FIAKeyTerms\">加利利</span>省的一个村庄。它可能靠近<span data-bnType=\"resourceReference\" data-resourceId=\"186558\" data-resourceType=\"FIAKeyTerms\">迦百农</span>这座城市，因为<span data-bnType=\"resourceReference\" data-resourceId=\"186583\" data-resourceType=\"FIAKeyTerms\">约翰</span>告诉我们，耶稣的<span data-bnType=\"resourceReference\" data-resourceId=\"186630\" data-resourceType=\"FIAKeyTerms\">门徒</span>安得烈和彼得来自伯赛大，但马可告诉我们，他们住在迦百农。 这个村庄靠近<span data-bnType=\"resourceReference\" data-resourceId=\"186629\" data-resourceType=\"FIAKeyTerms\">加利利海</span>，村子里的许多人以捕鱼为生。伯赛大这个名字甚至意味着&quot;捕鱼的房子&quot;。</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41008022",
+          "start_ref_usfm": "MRK 8:22",
+          "end_ref": "41008026",
+          "end_ref_usfm": "MRK 8:26"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186508,
+          "content_id": 871200,
+          "resource_code": "FIAKeyTerms",
+          "label": "加利利",
+          "language": "zhs"
+        },
+        {
+          "reference_id": 186558,
+          "content_id": 871090,
+          "resource_code": "FIAKeyTerms",
+          "label": "迦百农",
+          "language": "zhs"
+        },
+        {
+          "reference_id": 186630,
+          "content_id": 871146,
+          "resource_code": "FIAKeyTerms",
+          "label": "门徒",
+          "language": "zhs"
+        },
+        {
+          "reference_id": 186583,
+          "content_id": 871276,
+          "resource_code": "FIAKeyTerms",
+          "label": "约翰",
+          "language": "zhs"
+        },
+        {
+          "reference_id": 186629,
+          "content_id": 871420,
+          "resource_code": "FIAKeyTerms",
+          "label": "加利利海",
+          "language": "zhs"
+        }
+      ]
+    }
+  }
+]

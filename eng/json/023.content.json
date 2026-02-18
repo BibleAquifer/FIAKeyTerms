@@ -1,0 +1,196 @@
+[
+  {
+    "content_id": "871674",
+    "reference_id": 222604,
+    "version": "1.0.1",
+    "title": "Zion",
+    "media_type": "Text",
+    "index_reference": "zion",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<p>People sometimes used <strong>Zion</strong> as another name for the city of <span data-bnType=\"resourceReference\" data-resourceId=\"186523\" data-resourceType=\"FIAKeyTerms\">Jerusalem</span>. Zion was the name of one of the mountains in the city of Jerusalem, where the people called the Jebusites lived before <span data-bnType=\"resourceReference\" data-resourceId=\"186466\" data-resourceType=\"FIAKeyTerms\">King David</span> conquered the city. When King David conquered the city, people called the city either &quot;the city of David,&quot; or &quot;Zion.&quot; Later, people used Zion as a name for the whole city of Jerusalem. Many writers in the Bible use the name Zion especially when they are talking about Jerusalem as a <span data-bnType=\"resourceReference\" data-resourceId=\"186506\" data-resourceType=\"FIAKeyTerms\">holy</span> place where <span data-bnType=\"resourceReference\" data-resourceId=\"186808\" data-resourceType=\"FIAKeyTerms\">God</span> lives with his people.</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "19003001",
+          "start_ref_usfm": "PSA 3:1",
+          "end_ref": "19003008",
+          "end_ref_usfm": "PSA 3:8"
+        },
+        {
+          "start_ref": "11008001",
+          "start_ref_usfm": "1KI 8:1",
+          "end_ref": "11008011",
+          "end_ref_usfm": "1KI 8:11"
+        },
+        {
+          "start_ref": "40021001",
+          "start_ref_usfm": "MAT 21:1",
+          "end_ref": "40021011",
+          "end_ref_usfm": "MAT 21:11"
+        },
+        {
+          "start_ref": "13011001",
+          "start_ref_usfm": "1CH 11:1",
+          "end_ref": "13011009",
+          "end_ref_usfm": "1CH 11:9"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186466,
+          "content_id": 280046,
+          "resource_code": "FIAKeyTerms",
+          "label": "David",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186466,
+          "content_id": 341041,
+          "resource_code": "FIAKeyTerms",
+          "label": "David",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186506,
+          "content_id": 280086,
+          "resource_code": "FIAKeyTerms",
+          "label": "holy",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186506,
+          "content_id": 341087,
+          "resource_code": "FIAKeyTerms",
+          "label": "holy",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186523,
+          "content_id": 280103,
+          "resource_code": "FIAKeyTerms",
+          "label": "Jerusalem",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186523,
+          "content_id": 341106,
+          "resource_code": "FIAKeyTerms",
+          "label": "Jerusalem",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186808,
+          "content_id": 341032,
+          "resource_code": "FIAKeyTerms",
+          "label": "God",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186808,
+          "content_id": 341195,
+          "resource_code": "FIAKeyTerms",
+          "label": "God",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": "871675",
+    "reference_id": 222604,
+    "version": "1.0.1",
+    "title": "Zion",
+    "media_type": "Audio",
+    "index_reference": "zion",
+    "language": "eng",
+    "review_level": "Professional",
+    "content": "<h3>Audio Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAKeyTerms/ENG/audio/webm/t204-zion.webm'>webm file</a> (371689 KB)</p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAKeyTerms/ENG/audio/mp3/t204-zion.mp3'>mp3 file</a> (507308 KB)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "19003001",
+          "start_ref_usfm": "PSA 3:1",
+          "end_ref": "19003008",
+          "end_ref_usfm": "PSA 3:8"
+        },
+        {
+          "start_ref": "11008001",
+          "start_ref_usfm": "1KI 8:1",
+          "end_ref": "11008011",
+          "end_ref_usfm": "1KI 8:11"
+        },
+        {
+          "start_ref": "40021001",
+          "start_ref_usfm": "MAT 21:1",
+          "end_ref": "40021011",
+          "end_ref_usfm": "MAT 21:11"
+        },
+        {
+          "start_ref": "13011001",
+          "start_ref_usfm": "1CH 11:1",
+          "end_ref": "13011009",
+          "end_ref_usfm": "1CH 11:9"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186466,
+          "content_id": 280046,
+          "resource_code": "Unknown",
+          "label": "David",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186466,
+          "content_id": 341041,
+          "resource_code": "Unknown",
+          "label": "David",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186506,
+          "content_id": 280086,
+          "resource_code": "Unknown",
+          "label": "holy",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186506,
+          "content_id": 341087,
+          "resource_code": "Unknown",
+          "label": "holy",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186523,
+          "content_id": 280103,
+          "resource_code": "Unknown",
+          "label": "Jerusalem",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186523,
+          "content_id": 341106,
+          "resource_code": "Unknown",
+          "label": "Jerusalem",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186808,
+          "content_id": 341032,
+          "resource_code": "Unknown",
+          "label": "God",
+          "language": "eng"
+        },
+        {
+          "reference_id": 186808,
+          "content_id": 341195,
+          "resource_code": "Unknown",
+          "label": "God",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

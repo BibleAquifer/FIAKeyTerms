@@ -1,0 +1,75 @@
+[
+  {
+    "content_id": "871355",
+    "reference_id": 186497,
+    "version": "1.0.1",
+    "title": "（被鬼）附",
+    "media_type": "Text",
+    "index_reference": "（被鬼）附",
+    "language": "zhs",
+    "review_level": "Professional",
+    "content": "<p>一个<strong>（被鬼）附</strong>，也就是被<span data-bnType=\"resourceReference\" data-resourceId=\"186600\" data-resourceType=\"FIAKeyTerms\">邪恶的灵</span>所附的人，就是一个受<span data-bnType=\"resourceReference\" data-resourceId=\"186481\" data-resourceType=\"FIAKeyTerms\">鬼</span>所控制的人。 鬼可以使人做出异常或暴力的行为，也可以使人生病，让他受苦。</p><p>鬼也可以给一个人特殊的能力，让这个人知道一些对其他人来说是隐藏的事情。 在<span data-bnType=\"resourceReference\" data-resourceId=\"186627\" data-resourceType=\"FIAKeyTerms\">以色列</span>周边的文化中，人们有时会试图（被鬼）附，以便知道未来会发生什么，或者获得一些秘密的知识。 神禁止<span data-bnType=\"resourceReference\" data-resourceId=\"186562\" data-resourceType=\"FIAKeyTerms\">以色列人</span>这样做。</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44019011",
+          "start_ref_usfm": "ACT 19:11",
+          "end_ref": "44019020",
+          "end_ref_usfm": "ACT 19:20"
+        },
+        {
+          "start_ref": "41003020",
+          "start_ref_usfm": "MRK 3:20",
+          "end_ref": "41003035",
+          "end_ref_usfm": "MRK 3:35"
+        },
+        {
+          "start_ref": "41005001",
+          "start_ref_usfm": "MRK 5:1",
+          "end_ref": "41005020",
+          "end_ref_usfm": "MRK 5:20"
+        },
+        {
+          "start_ref": "41007024",
+          "start_ref_usfm": "MRK 7:24",
+          "end_ref": "41007030",
+          "end_ref_usfm": "MRK 7:30"
+        },
+        {
+          "start_ref": "41009014",
+          "start_ref_usfm": "MRK 9:14",
+          "end_ref": "41009029",
+          "end_ref_usfm": "MRK 9:29"
+        },
+        {
+          "start_ref": "41001029",
+          "start_ref_usfm": "MRK 1:29",
+          "end_ref": "41001034",
+          "end_ref_usfm": "MRK 1:34"
+        },
+        {
+          "start_ref": "44016016",
+          "start_ref_usfm": "ACT 16:16",
+          "end_ref": "44016024",
+          "end_ref_usfm": "ACT 16:24"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186481,
+          "content_id": 871134,
+          "resource_code": "FIAKeyTerms",
+          "label": "鬼",
+          "language": "zhs"
+        },
+        {
+          "reference_id": 186600,
+          "content_id": 871175,
+          "resource_code": "FIAKeyTerms",
+          "label": "邪灵",
+          "language": "zhs"
+        }
+      ]
+    }
+  }
+]
