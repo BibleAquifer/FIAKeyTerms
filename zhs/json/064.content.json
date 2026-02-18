@@ -1,0 +1,38 @@
+[
+  {
+    "content_id": "871510",
+    "reference_id": 222597,
+    "version": "1.0.1",
+    "title": "守望台",
+    "media_type": "Text",
+    "index_reference": "守望台",
+    "language": "zhs",
+    "review_level": "Professional",
+    "content": "<p><strong>守望台</strong>是<span data-bnType=\"resourceReference\" data-resourceId=\"186592\" data-resourceType=\"FIAKeyTerms\">葡萄园</span>内的一个地方，守望者可以从那里眺望葡萄园。 葡萄园是一个人们种植葡萄的园子。 葡萄是一种软的，多汁的水果，生长在被称为葡萄树的树上。 人们通常在葡萄园周围建一堵墙，这样野生动物或小偷就不能进入园中。 人们用岩石或带刺的灌木丛建造了这堵墙。 在葡萄园内，工人用草做的小屋，工人和守望的人可以在树荫中休息。 他们在一堆石头上建造了这个小屋，所以它比园中其余的石头高一点。 通过这种方式，守望者可以俯瞰园子，看到所发生的一切。 这间小屋被称为守望台。</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41012001",
+          "start_ref_usfm": "MRK 12:1",
+          "end_ref": "41012012",
+          "end_ref_usfm": "MRK 12:12"
+        },
+        {
+          "start_ref": "40021033",
+          "start_ref_usfm": "MAT 21:33",
+          "end_ref": "40021046",
+          "end_ref_usfm": "MAT 21:46"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186592,
+          "content_id": 871503,
+          "resource_code": "FIAKeyTerms",
+          "label": "葡萄园",
+          "language": "zhs"
+        }
+      ]
+    }
+  }
+]

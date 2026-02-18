@@ -1,0 +1,46 @@
+[
+  {
+    "content_id": "871267",
+    "reference_id": 186538,
+    "version": "1.0.1",
+    "title": "雅各",
+    "media_type": "Text",
+    "index_reference": "雅各",
+    "language": "zhs",
+    "review_level": "Professional",
+    "content": "<p>在新约中，有三个人名叫<strong>雅各</strong>。</p><p>耶稣的一个<span data-bnType=\"resourceReference\" data-resourceId=\"186630\" data-resourceType=\"FIAKeyTerms\">门徒</span>名叫雅各。 雅各有一个兄弟名叫<span data-bnType=\"resourceReference\" data-resourceId=\"186583\" data-resourceType=\"FIAKeyTerms\">约翰</span>，他父亲的名字叫西庇太。 雅各和约翰是渔夫，直到耶稣呼召他们成为祂的门徒。 与另一个门徒彼得一起，这三个人经常在特殊时刻与耶稣在一起。 耶稣的十二个门徒中，这三个人与耶稣最亲近。</p><p>有一次，耶稣称雅各和他的兄弟约翰为&quot;雷子&quot;。 耶稣给他们这个名字可能是因为他们脾气暴躁，很容易就生气。 但我们不能确定这一点。</p><p>在使徒行传中，我们听说希律王亚基帕杀了雅各。</p><p>耶稣的另一个门徒也叫雅各。 他被称为雅各，阿尔腓的儿子，或&quot;小雅各&quot;。 &quot;小雅各&quot;可能是人们给他的绰号，因为他要么比另一个名叫雅各的门徒年轻，要么矮。</p><p>另一个雅各是耶稣的兄弟，耶稣母亲<span data-bnType=\"resourceReference\" data-resourceId=\"186570\" data-resourceType=\"FIAKeyTerms\">马利亚</span>和她丈夫约瑟的儿子。 这个雅各起初不<span data-bnType=\"resourceReference\" data-resourceId=\"186484\" data-resourceType=\"FIAKeyTerms\">相信</span>神差遣了耶稣。 但耶稣从死里复活后，雅各开始信耶稣。 雅各成为早期<span data-bnType=\"resourceReference\" data-resourceId=\"222596\" data-resourceType=\"FIAKeyTerms\">教会</span>中一位重要的领袖，他可能是新约中雅各书的作者。</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41010032",
+          "start_ref_usfm": "MRK 10:32",
+          "end_ref": "41010045",
+          "end_ref_usfm": "MRK 10:45"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186484,
+          "content_id": 871050,
+          "resource_code": "FIAKeyTerms",
+          "label": "信",
+          "language": "zhs"
+        },
+        {
+          "reference_id": 186583,
+          "content_id": 871276,
+          "resource_code": "FIAKeyTerms",
+          "label": "约翰",
+          "language": "zhs"
+        },
+        {
+          "reference_id": 186630,
+          "content_id": 871146,
+          "resource_code": "FIAKeyTerms",
+          "label": "门徒",
+          "language": "zhs"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "content_id": "871078",
+    "reference_id": 186581,
+    "version": "1.0.1",
+    "title": "凯撒",
+    "media_type": "Text",
+    "index_reference": "凯撒",
+    "language": "zhs",
+    "review_level": "Professional",
+    "content": "<p><strong>凯撒</strong>是罗马皇帝的称号。罗马是意大利这个国家的一座城市。在新约时代，罗马是罗马帝国的首都。</p><p>帝国是由一个人或一个政府统治的一群<span data-bnType=\"resourceReference\" data-resourceId=\"186495\" data-resourceType=\"FIAKeyTerms\">国民</span>或国家。帝国的领导者被称为皇帝。罗马人的皇帝被称作凯撒。</p><p>罗马帝国包括许多国家和民族。它非常大。所有这些国家的人都必须向凯撒纳税。凯撒是如此强大，以至于许多人把他当作神。在一些城市，人们建造了<span data-bnType=\"resourceReference\" data-resourceId=\"186483\" data-resourceType=\"FIAKeyTerms\">神殿</span>，在那里他们<span data-bnType=\"resourceReference\" data-resourceId=\"186472\" data-resourceType=\"FIAKeyTerms\">敬拜</span>凯撒的雕像。</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41012013",
+          "start_ref_usfm": "MRK 12:13",
+          "end_ref": "41012017",
+          "end_ref_usfm": "MRK 12:17"
+        },
+        {
+          "start_ref": "42023001",
+          "start_ref_usfm": "LUK 23:1",
+          "end_ref": "42023012",
+          "end_ref_usfm": "LUK 23:12"
+        },
+        {
+          "start_ref": "43019001",
+          "start_ref_usfm": "JHN 19:1",
+          "end_ref": "43019016",
+          "end_ref_usfm": "JHN 19:16"
+        },
+        {
+          "start_ref": "44025013",
+          "start_ref_usfm": "ACT 25:13",
+          "end_ref": "44025022",
+          "end_ref_usfm": "ACT 25:22"
+        },
+        {
+          "start_ref": "44025023",
+          "start_ref_usfm": "ACT 25:23",
+          "end_ref": "44025027",
+          "end_ref_usfm": "ACT 25:27"
+        },
+        {
+          "start_ref": "40022015",
+          "start_ref_usfm": "MAT 22:15",
+          "end_ref": "40022022",
+          "end_ref_usfm": "MAT 22:22"
+        },
+        {
+          "start_ref": "44026024",
+          "start_ref_usfm": "ACT 26:24",
+          "end_ref": "44026032",
+          "end_ref_usfm": "ACT 26:32"
+        },
+        {
+          "start_ref": "44028017",
+          "start_ref_usfm": "ACT 28:17",
+          "end_ref": "44028031",
+          "end_ref_usfm": "ACT 28:31"
+        },
+        {
+          "start_ref": "44027009",
+          "start_ref_usfm": "ACT 27:9",
+          "end_ref": "44027026",
+          "end_ref_usfm": "ACT 27:26"
+        },
+        {
+          "start_ref": "44025006",
+          "start_ref_usfm": "ACT 25:6",
+          "end_ref": "44025012",
+          "end_ref_usfm": "ACT 25:12"
+        },
+        {
+          "start_ref": "42020020",
+          "start_ref_usfm": "LUK 20:20",
+          "end_ref": "42020040",
+          "end_ref_usfm": "LUK 20:40"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186483,
+          "content_id": 871487,
+          "resource_code": "FIAKeyTerms",
+          "label": "圣殿",
+          "language": "zhs"
+        },
+        {
+          "reference_id": 186495,
+          "content_id": 871330,
+          "resource_code": "FIAKeyTerms",
+          "label": "国",
+          "language": "zhs"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": "871082",
+    "reference_id": 186602,
+    "version": "1.0.1",
+    "title": "凯撒利亚•腓立比",
+    "media_type": "Text",
+    "index_reference": "凯撒利亚•腓立比",
+    "language": "zhs",
+    "review_level": "Professional",
+    "content": "<p><strong>凯撒利亚·腓立比</strong>是一座城市，位于<span data-bnType=\"resourceReference\" data-resourceId=\"186629\" data-resourceType=\"FIAKeyTerms\">加利利海</span>以北约四十公里。住在这个地区的人不是<span data-bnType=\"resourceReference\" data-resourceId=\"186525\" data-resourceType=\"FIAKeyTerms\">犹太人</span>。人们在这个城市里建造了一座庙，为的是<span data-bnType=\"resourceReference\" data-resourceId=\"186472\" data-resourceType=\"FIAKeyTerms\">敬拜</span>罗马皇帝<span data-bnType=\"resourceReference\" data-resourceId=\"186581\" data-resourceType=\"FIAKeyTerms\">凯撒</span>。</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41008027",
+          "start_ref_usfm": "MRK 8:27",
+          "end_ref": "41008030",
+          "end_ref_usfm": "MRK 8:30"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186581,
+          "content_id": 871078,
+          "resource_code": "FIAKeyTerms",
+          "label": "凯撒",
+          "language": "zhs"
+        },
+        {
+          "reference_id": 186629,
+          "content_id": 871420,
+          "resource_code": "FIAKeyTerms",
+          "label": "加利利海",
+          "language": "zhs"
+        }
+      ]
+    }
+  }
+]

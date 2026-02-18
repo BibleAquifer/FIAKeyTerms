@@ -1,0 +1,63 @@
+[
+  {
+    "content_id": "871575",
+    "reference_id": 186576,
+    "version": "1.0.1",
+    "title": "赞美诗",
+    "media_type": "Text",
+    "index_reference": "赞美诗",
+    "language": "zhs",
+    "review_level": "Professional",
+    "content": "<p><strong>赞美诗</strong>是一种<span data-bnType=\"resourceReference\" data-resourceId=\"186543\" data-resourceType=\"FIAKeyTerms\">赞美</span>神的诗歌。 <span data-bnType=\"resourceReference\" data-resourceId=\"186525\" data-resourceType=\"FIAKeyTerms\">犹太人</span>通常以诗篇为样本。 当犹太人在犹太<span data-bnType=\"resourceReference\" data-resourceId=\"186544\" data-resourceType=\"FIAKeyTerms\">会堂</span>聚会时，他们唱诗赞美神。 耶稣和祂的<span data-bnType=\"resourceReference\" data-resourceId=\"186630\" data-resourceType=\"FIAKeyTerms\">门徒们</span>在一起吃了最后一顿饭时唱了一首赞美诗。 耶稣的追随者们聚在一起时也唱赞美诗。</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41014012",
+          "start_ref_usfm": "MRK 14:12",
+          "end_ref": "41014026",
+          "end_ref_usfm": "MRK 14:26"
+        },
+        {
+          "start_ref": "13016037",
+          "start_ref_usfm": "1CH 16:37",
+          "end_ref": "13016043",
+          "end_ref_usfm": "1CH 16:43"
+        },
+        {
+          "start_ref": "40026026",
+          "start_ref_usfm": "MAT 26:26",
+          "end_ref": "40026035",
+          "end_ref_usfm": "MAT 26:35"
+        },
+        {
+          "start_ref": "46014026",
+          "start_ref_usfm": "1CO 14:26",
+          "end_ref": "46014033",
+          "end_ref_usfm": "1CO 14:33"
+        },
+        {
+          "start_ref": "49005015",
+          "start_ref_usfm": "EPH 5:15",
+          "end_ref": "49005021",
+          "end_ref_usfm": "EPH 5:21"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186544,
+          "content_id": 871467,
+          "resource_code": "FIAKeyTerms",
+          "label": "会堂",
+          "language": "zhs"
+        },
+        {
+          "reference_id": 186630,
+          "content_id": 871146,
+          "resource_code": "FIAKeyTerms",
+          "label": "门徒",
+          "language": "zhs"
+        }
+      ]
+    }
+  }
+]

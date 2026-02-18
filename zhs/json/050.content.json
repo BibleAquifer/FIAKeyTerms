@@ -1,0 +1,129 @@
+[
+  {
+    "content_id": "871334",
+    "reference_id": 186616,
+    "version": "1.0.1",
+    "title": "拿撒勒",
+    "media_type": "Text",
+    "index_reference": "拿撒勒",
+    "language": "zhs",
+    "review_level": "Professional",
+    "content": "<p><strong>拿撒勒</strong>是<span data-bnType=\"resourceReference\" data-resourceId=\"186627\" data-resourceType=\"FIAKeyTerms\">以色列</span>北部<span data-bnType=\"resourceReference\" data-resourceId=\"186508\" data-resourceType=\"FIAKeyTerms\">加利利</span>地区的一个小城镇。 拿撒勒没有出现在旧约中，我们第一次听到这个城镇是当我们听说耶稣的父母<span data-bnType=\"resourceReference\" data-resourceId=\"186570\" data-resourceType=\"FIAKeyTerms\">马利亚</span>和约瑟来自拿撒勒。 耶稣出生在<span data-bnType=\"resourceReference\" data-resourceId=\"186641\" data-resourceType=\"FIAKeyTerms\">犹太</span>一个名叫<span data-bnType=\"resourceReference\" data-resourceId=\"186547\" data-resourceType=\"FIAKeyTerms\">伯利恒</span>的村庄，但当祂还小时，马利亚和约瑟就去往拿撒勒生活。 因此，耶稣后来被称为拿撒勒人，这表示祂是一个来自拿撒勒的人。 这并不是恭维。 来自犹太地的<span data-bnType=\"resourceReference\" data-resourceId=\"186525\" data-resourceType=\"FIAKeyTerms\">犹太人</span>看不起加利利人，甚至加利利人也看不起拿撒勒人，因为拿撒勒是一个微小的、不重要的城镇。</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42004014",
+          "start_ref_usfm": "LUK 4:14",
+          "end_ref": "42004030",
+          "end_ref_usfm": "LUK 4:30"
+        },
+        {
+          "start_ref": "42004031",
+          "start_ref_usfm": "LUK 4:31",
+          "end_ref": "42004044",
+          "end_ref_usfm": "LUK 4:44"
+        },
+        {
+          "start_ref": "42001026",
+          "start_ref_usfm": "LUK 1:26",
+          "end_ref": "42001038",
+          "end_ref_usfm": "LUK 1:38"
+        },
+        {
+          "start_ref": "42001039",
+          "start_ref_usfm": "LUK 1:39",
+          "end_ref": "42001056",
+          "end_ref_usfm": "LUK 1:56"
+        },
+        {
+          "start_ref": "42002022",
+          "start_ref_usfm": "LUK 2:22",
+          "end_ref": "42002040",
+          "end_ref_usfm": "LUK 2:40"
+        },
+        {
+          "start_ref": "42002041",
+          "start_ref_usfm": "LUK 2:41",
+          "end_ref": "42002052",
+          "end_ref_usfm": "LUK 2:52"
+        },
+        {
+          "start_ref": "41001021",
+          "start_ref_usfm": "MRK 1:21",
+          "end_ref": "41001028",
+          "end_ref_usfm": "MRK 1:28"
+        },
+        {
+          "start_ref": "41010046",
+          "start_ref_usfm": "MRK 10:46",
+          "end_ref": "41010052",
+          "end_ref_usfm": "MRK 10:52"
+        },
+        {
+          "start_ref": "41014066",
+          "start_ref_usfm": "MRK 14:66",
+          "end_ref": "41014072",
+          "end_ref_usfm": "MRK 14:72"
+        },
+        {
+          "start_ref": "41016001",
+          "start_ref_usfm": "MRK 16:1",
+          "end_ref": "41016008",
+          "end_ref_usfm": "MRK 16:8"
+        },
+        {
+          "start_ref": "40021001",
+          "start_ref_usfm": "MAT 21:1",
+          "end_ref": "40021011",
+          "end_ref_usfm": "MAT 21:11"
+        },
+        {
+          "start_ref": "40026069",
+          "start_ref_usfm": "MAT 26:69",
+          "end_ref": "40026075",
+          "end_ref_usfm": "MAT 26:75"
+        },
+        {
+          "start_ref": "44026001",
+          "start_ref_usfm": "ACT 26:1",
+          "end_ref": "44026023",
+          "end_ref_usfm": "ACT 26:23"
+        },
+        {
+          "start_ref": "43019017",
+          "start_ref_usfm": "JHN 19:17",
+          "end_ref": "43019030",
+          "end_ref_usfm": "JHN 19:30"
+        },
+        {
+          "start_ref": "44024001",
+          "start_ref_usfm": "ACT 24:1",
+          "end_ref": "44024009",
+          "end_ref_usfm": "ACT 24:9"
+        },
+        {
+          "start_ref": "44003001",
+          "start_ref_usfm": "ACT 3:1",
+          "end_ref": "44003010",
+          "end_ref_usfm": "ACT 3:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186508,
+          "content_id": 871200,
+          "resource_code": "FIAKeyTerms",
+          "label": "加利利",
+          "language": "zhs"
+        },
+        {
+          "reference_id": 186641,
+          "content_id": 871288,
+          "resource_code": "FIAKeyTerms",
+          "label": "犹大（旧约）犹太（新约）",
+          "language": "zhs"
+        }
+      ]
+    }
+  }
+]

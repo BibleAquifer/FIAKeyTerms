@@ -1,0 +1,45 @@
+[
+  {
+    "content_id": "871471",
+    "reference_id": 186535,
+    "version": "1.0.1",
+    "title": "管理犹太会堂的人",
+    "media_type": "Text",
+    "index_reference": "管理犹太会堂的人",
+    "language": "zhs",
+    "review_level": "Professional",
+    "content": "<p><strong>会堂</strong>是<span data-bnType=\"resourceReference\" data-resourceId=\"186525\" data-resourceType=\"FIAKeyTerms\">犹太人</span>聚集<span data-bnType=\"resourceReference\" data-resourceId=\"186597\" data-resourceType=\"FIAKeyTerms\">祷告</span>和学习<span data-bnType=\"resourceReference\" data-resourceId=\"186595\" data-resourceType=\"FIAKeyTerms\">圣经</span>以及其他形式的讨论和教导的地方。每个会堂都有一个<strong>管理者</strong>，负责管理建筑物，并确保一切事务都有序进行。会堂的管理者负责邀请人们前来祷告，或读经文，或教导。</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41005021",
+          "start_ref_usfm": "MRK 5:21",
+          "end_ref": "41005034",
+          "end_ref_usfm": "MRK 5:34"
+        },
+        {
+          "start_ref": "41005035",
+          "start_ref_usfm": "MRK 5:35",
+          "end_ref": "41005043",
+          "end_ref_usfm": "MRK 5:43"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186595,
+          "content_id": 871416,
+          "resource_code": "FIAKeyTerms",
+          "label": "经文",
+          "language": "zhs"
+        },
+        {
+          "reference_id": 186597,
+          "content_id": 871359,
+          "resource_code": "FIAKeyTerms",
+          "label": "祷告",
+          "language": "zhs"
+        }
+      ]
+    }
+  }
+]

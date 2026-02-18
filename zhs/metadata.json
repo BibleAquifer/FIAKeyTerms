@@ -1,0 +1,5552 @@
+{
+"resource_metadata": {
+"aquifer_type": "Dictionary",
+"resource_type": "Translation Glossary",
+"title": "Familiarization, Internalization, Articulation (FIA) Key Terms",
+"aquifer_name": "关键词 (SRV)",
+"version": "1.0.1",
+"collection_title": "Key Terms (FIA)",
+"short_name": "FIA",
+"license_info": {
+"title": "Familiarization, Internalization, Articulation (Fia) Terms",
+"copyright": {
+"dates": "2023",
+"holder": {
+"name": "SRV Partners",
+"url": "https://srvpartners.org/home/"
+}
+},
+"licenses": [
+{
+"eng": {
+"name": "CC BY-SA 4.0 license",
+"url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+}
+}
+],
+"showAdaptationNoticeForEnglish": false,
+"showAdaptationNoticeForNonEnglish": true
+},
+"adaptation_notice": "<p><b>Familiarization, Internalization, Articulation (FIA) Key Terms</b> © 2023 SRV Partners Released under CC BY-SA 4.0 license. <cite>Familiarization, Internalization, Articulation (FIA) Key Terms</cite> has been adapted in the following languages Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Familiarization, Internalization, Articulation (FIA)</cite> © 2023 SRV Partners. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
+"resource_code": "FIAKeyTerms",
+"date_created": "2026-02-18",
+"language": "zhs",
+"localizations": [
+"eng",
+"fra",
+"por",
+"spa",
+"jpn"
+],
+"order": "alphabetical",
+"content_type": "Html"
+},
+"scripture_burrito": {
+"format": "scripture burrito",
+"meta": {
+"version": "1.0.0",
+"category": "source",
+"defaultLocale": "en",
+"dateCreated": "2026-02-18T08:39:29.847177"
+},
+"idAuthorities": {
+"aquifer": {
+"id": "https://aquifer.bible",
+"name": {
+"en": "Bible Aquifer"
+}
+}
+},
+"identification": {
+"primary": {
+"aquifer": {
+"FIAKeyTerms": {
+"timestamp": "2026-02-18T08:39:29.847177"
+}
+}
+},
+"name": {
+"zh": "Familiarization, Internalization, Articulation (Fia) Terms"
+},
+"abbreviation": {
+"zh": "FIA"
+}
+},
+"languages": [
+{
+"tag": "zh",
+"name": {
+"zh": "Chinese (Simplified)"
+}
+}
+],
+"type": {
+"flavorType": {
+"name": "peripheral",
+"flavor": {
+"name": "textAquiferAlphabetical",
+"audience": "common"
+},
+"currentScope": {}
+}
+},
+"ingredients": {
+"json/001.content.json": {
+"mimeType": "text/json",
+"size": 2893,
+"scope": {
+"（": [
+"（被鬼）附"
+]
+}
+},
+"json/002.content.json": {
+"mimeType": "text/json",
+"size": 6080,
+"scope": {
+"a": [
+"阿爸",
+"阿们"
+]
+}
+},
+"json/003.content.json": {
+"mimeType": "text/json",
+"size": 10459,
+"scope": {
+"an": [
+"安息日"
+]
+}
+},
+"json/004.content.json": {
+"mimeType": "text/json",
+"size": 3371,
+"scope": {
+"bai": [
+"百夫长"
+]
+}
+},
+"json/005.content.json": {
+"mimeType": "text/json",
+"size": 6255,
+"scope": {
+"bi": [
+"比喻"
+]
+}
+},
+"json/006.content.json": {
+"mimeType": "text/json",
+"size": 2422,
+"scope": {
+"bo": [
+"伯赛大"
+]
+}
+},
+"json/007.content.json": {
+"mimeType": "text/json",
+"size": 6075,
+"scope": {
+"chuan": [
+"船"
+]
+}
+},
+"json/008.content.json": {
+"mimeType": "text/json",
+"size": 16123,
+"scope": {
+"da": [
+"大卫",
+"大卫的子孙"
+]
+}
+},
+"json/009.content.json": {
+"mimeType": "text/json",
+"size": 29859,
+"scope": {
+"dao": [
+"祷告",
+"道"
+]
+}
+},
+"json/010.content.json": {
+"mimeType": "text/json",
+"size": 2279,
+"scope": {
+"de": [
+"得拿利"
+]
+}
+},
+"json/011.content.json": {
+"mimeType": "text/json",
+"size": 9387,
+"scope": {
+"di": [
+"地狱",
+"低加坡里"
+]
+}
+},
+"json/012.content.json": {
+"mimeType": "text/json",
+"size": 6859,
+"scope": {
+"ding": [
+"钉十字架"
+]
+}
+},
+"json/013.content.json": {
+"mimeType": "text/json",
+"size": 15458,
+"scope": {
+"er": [
+"儿子"
+]
+}
+},
+"json/014.content.json": {
+"mimeType": "text/json",
+"size": 13545,
+"scope": {
+"fa": [
+"法利赛人"
+]
+}
+},
+"json/015.content.json": {
+"mimeType": "text/json",
+"size": 10689,
+"scope": {
+"fan": [
+"燔祭"
+]
+}
+},
+"json/016.content.json": {
+"mimeType": "text/json",
+"size": 6158,
+"scope": {
+"fang": [
+"方言",
+"房角石"
+]
+}
+},
+"json/017.content.json": {
+"mimeType": "text/json",
+"size": 6431,
+"scope": {
+"fen": [
+"坟墓"
+]
+}
+},
+"json/018.content.json": {
+"mimeType": "text/json",
+"size": 15815,
+"scope": {
+"fu": [
+"福音",
+"复活"
+]
+}
+},
+"json/019.content.json": {
+"mimeType": "text/json",
+"size": 17110,
+"scope": {
+"gao": [
+"膏抹"
+]
+}
+},
+"json/020.content.json": {
+"mimeType": "text/json",
+"size": 4084,
+"scope": {
+"ge": [
+"鸽子",
+"格拉森人"
+]
+}
+},
+"json/021.content.json": {
+"mimeType": "text/json",
+"size": 24291,
+"scope": {
+"gong": [
+"公会",
+"公义"
+]
+}
+},
+"json/022.content.json": {
+"mimeType": "text/json",
+"size": 1752,
+"scope": {
+"guan": [
+"管理犹太会堂的人"
+]
+}
+},
+"json/023.content.json": {
+"mimeType": "text/json",
+"size": 11739,
+"scope": {
+"gui": [
+"鬼"
+]
+}
+},
+"json/024.content.json": {
+"mimeType": "text/json",
+"size": 20501,
+"scope": {
+"guo": [
+"国",
+"国"
+]
+}
+},
+"json/025.content.json": {
+"mimeType": "text/json",
+"size": 5992,
+"scope": {
+"hao": [
+"好消息"
+]
+}
+},
+"json/026.content.json": {
+"mimeType": "text/json",
+"size": 2538,
+"scope": {
+"he": [
+"和散那"
+]
+}
+},
+"json/027.content.json": {
+"mimeType": "text/json",
+"size": 7173,
+"scope": {
+"hou": [
+"后嗣"
+]
+}
+},
+"json/028.content.json": {
+"mimeType": "text/json",
+"size": 43883,
+"scope": {
+"hui": [
+"悔改",
+"会幕",
+"会堂"
+]
+}
+},
+"json/029.content.json": {
+"mimeType": "text/json",
+"size": 84374,
+"scope": {
+"ji": [
+"基督",
+"记号",
+"祭司",
+"祭物"
+]
+}
+},
+"json/030.content.json": {
+"mimeType": "text/json",
+"size": 41178,
+"scope": {
+"jia": [
+"加利利",
+"加利利海",
+"迦百农",
+"家中的人",
+"假冒为善"
+]
+}
+},
+"json/031.content.json": {
+"mimeType": "text/json",
+"size": 5029,
+"scope": {
+"jian": [
+"奸淫"
+]
+}
+},
+"json/032.content.json": {
+"mimeType": "text/json",
+"size": 7369,
+"scope": {
+"jiao": [
+"教师"
+]
+}
+},
+"json/033.content.json": {
+"mimeType": "text/json",
+"size": 13974,
+"scope": {
+"jie": [
+"洁净/不洁净"
+]
+}
+},
+"json/034.content.json": {
+"mimeType": "text/json",
+"size": 6244,
+"scope": {
+"jin": [
+"禁食"
+]
+}
+},
+"json/035.content.json": {
+"mimeType": "text/json",
+"size": 11239,
+"scope": {
+"jing": [
+"经文"
+]
+}
+},
+"json/036.content.json": {
+"mimeType": "text/json",
+"size": 12810,
+"scope": {
+"jiu": [
+"酒榨",
+"救恩"
+]
+}
+},
+"json/037.content.json": {
+"mimeType": "text/json",
+"size": 5138,
+"scope": {
+"kai": [
+"凯撒",
+"凯撒利亚•腓立比"
+]
+}
+},
+"json/038.content.json": {
+"mimeType": "text/json",
+"size": 18607,
+"scope": {
+"kuang": [
+"筐子、箱子、篮子",
+"旷野"
+]
+}
+},
+"json/039.content.json": {
+"mimeType": "text/json",
+"size": 4453,
+"scope": {
+"la": [
+"拉比"
+]
+}
+},
+"json/040.content.json": {
+"mimeType": "text/json",
+"size": 5467,
+"scope": {
+"li": [
+"里衣、内衣、内袍",
+"力量"
+]
+}
+},
+"json/041.content.json": {
+"mimeType": "text/json",
+"size": 12949,
+"scope": {
+"lian": [
+"怜悯",
+"怜悯、怜恤"
+]
+}
+},
+"json/042.content.json": {
+"mimeType": "text/json",
+"size": 20961,
+"scope": {
+"ling": [
+"灵",
+"灵魂"
+]
+}
+},
+"json/043.content.json": {
+"mimeType": "text/json",
+"size": 37920,
+"scope": {
+"lv": [
+"驴",
+"律法",
+"律法教师、教法师"
+]
+}
+},
+"json/044.content.json": {
+"mimeType": "text/json",
+"size": 2970,
+"scope": {
+"luo": [
+"骆驼"
+]
+}
+},
+"json/045.content.json": {
+"mimeType": "text/json",
+"size": 6999,
+"scope": {
+"ma": [
+"痲疯病"
+]
+}
+},
+"json/046.content.json": {
+"mimeType": "text/json",
+"size": 29780,
+"scope": {
+"men": [
+"门徒"
+]
+}
+},
+"json/047.content.json": {
+"mimeType": "text/json",
+"size": 16605,
+"scope": {
+"mi": [
+"弥赛亚"
+]
+}
+},
+"json/048.content.json": {
+"mimeType": "text/json",
+"size": 6713,
+"scope": {
+"mo": [
+"魔鬼",
+"抹"
+]
+}
+},
+"json/049.content.json": {
+"mimeType": "text/json",
+"size": 7029,
+"scope": {
+"mu": [
+"牧羊人"
+]
+}
+},
+"json/050.content.json": {
+"mimeType": "text/json",
+"size": 4799,
+"scope": {
+"na": [
+"拿撒勒"
+]
+}
+},
+"json/051.content.json": {
+"mimeType": "text/json",
+"size": 9180,
+"scope": {
+"nu": [
+"奴隶"
+]
+}
+},
+"json/052.content.json": {
+"mimeType": "text/json",
+"size": 31002,
+"scope": {
+"pu": [
+"仆人",
+"葡萄园"
+]
+}
+},
+"json/053.content.json": {
+"mimeType": "text/json",
+"size": 4685,
+"scope": {
+"qu": [
+"屈身、跪拜"
+]
+}
+},
+"json/054.content.json": {
+"mimeType": "text/json",
+"size": 7117,
+"scope": {
+"quan": [
+"权柄"
+]
+}
+},
+"json/055.content.json": {
+"mimeType": "text/json",
+"size": 1736,
+"scope": {
+"qun": [
+"群"
+]
+}
+},
+"json/056.content.json": {
+"mimeType": "text/json",
+"size": 12731,
+"scope": {
+"rao": [
+"饶恕"
+]
+}
+},
+"json/057.content.json": {
+"mimeType": "text/json",
+"size": 14095,
+"scope": {
+"ren": [
+"人子"
+]
+}
+},
+"json/058.content.json": {
+"mimeType": "text/json",
+"size": 19112,
+"scope": {
+"rong": [
+"荣耀",
+"荣耀"
+]
+}
+},
+"json/059.content.json": {
+"mimeType": "text/json",
+"size": 15210,
+"scope": {
+"sa": [
+"撒但",
+"撒都该人"
+]
+}
+},
+"json/060.content.json": {
+"mimeType": "text/json",
+"size": 2403,
+"scope": {
+"sha": [
+"沙漠"
+]
+}
+},
+"json/061.content.json": {
+"mimeType": "text/json",
+"size": 71759,
+"scope": {
+"shen": [
+"神、上帝",
+"神的儿子",
+"神的国",
+"神的家",
+"神迹"
+]
+}
+},
+"json/062.content.json": {
+"mimeType": "text/json",
+"size": 78330,
+"scope": {
+"sheng": [
+"圣殿",
+"圣洁",
+"圣灵"
+]
+}
+},
+"json/063.content.json": {
+"mimeType": "text/json",
+"size": 48741,
+"scope": {
+"shi": [
+"施洗约翰",
+"十字架",
+"使徒",
+"世代、后代",
+"誓、起誓"
+]
+}
+},
+"json/064.content.json": {
+"mimeType": "text/json",
+"size": 1703,
+"scope": {
+"shou": [
+"守望台"
+]
+}
+},
+"json/065.content.json": {
+"mimeType": "text/json",
+"size": 2834,
+"scope": {
+"shu": [
+"赎价"
+]
+}
+},
+"json/066.content.json": {
+"mimeType": "text/json",
+"size": 2699,
+"scope": {
+"tai": [
+"泰尔（有些译本译为：推罗）"
+]
+}
+},
+"json/067.content.json": {
+"mimeType": "text/json",
+"size": 39727,
+"scope": {
+"tian": [
+"天使",
+"天堂、天、天上"
+]
+}
+},
+"json/068.content.json": {
+"mimeType": "text/json",
+"size": 24899,
+"scope": {
+"wai": [
+"外邦人",
+"外袍",
+"外衣、外袍"
+]
+}
+},
+"json/069.content.json": {
+"mimeType": "text/json",
+"size": 18676,
+"scope": {
+"wang": [
+"王"
+]
+}
+},
+"json/070.content.json": {
+"mimeType": "text/json",
+"size": 9341,
+"scope": {
+"wen": [
+"文士"
+]
+}
+},
+"json/071.content.json": {
+"mimeType": "text/json",
+"size": 10709,
+"scope": {
+"wu": [
+"无花果树",
+"无酵节"
+]
+}
+},
+"json/072.content.json": {
+"mimeType": "text/json",
+"size": 20180,
+"scope": {
+"xi": [
+"希腊人",
+"希律党人",
+"洗礼"
+]
+}
+},
+"json/073.content.json": {
+"mimeType": "text/json",
+"size": 54205,
+"scope": {
+"xian": [
+"先知",
+"献祭"
+]
+}
+},
+"json/074.content.json": {
+"mimeType": "text/json",
+"size": 37731,
+"scope": {
+"xie": [
+"邪恶",
+"邪恶",
+"邪灵",
+"亵渎"
+]
+}
+},
+"json/075.content.json": {
+"mimeType": "text/json",
+"size": 53183,
+"scope": {
+"xin": [
+"心",
+"信",
+"信心"
+]
+}
+},
+"json/076.content.json": {
+"mimeType": "text/json",
+"size": 1782,
+"scope": {
+"xiu": [
+"休妻（离婚）"
+]
+}
+},
+"json/077.content.json": {
+"mimeType": "text/json",
+"size": 1176,
+"scope": {
+"xu": [
+"叙利亚腓尼基"
+]
+}
+},
+"json/078.content.json": {
+"mimeType": "text/json",
+"size": 2848,
+"scope": {
+"ya": [
+"雅各"
+]
+}
+},
+"json/079.content.json": {
+"mimeType": "text/json",
+"size": 14775,
+"scope": {
+"ye": [
+"耶路撒冷"
+]
+}
+},
+"json/080.content.json": {
+"mimeType": "text/json",
+"size": 17659,
+"scope": {
+"yi": [
+"医治",
+"以利亚",
+"以赛亚",
+"意、心意、心里、心思、意念、悟性、理智、心地"
+]
+}
+},
+"json/081.content.json": {
+"mimeType": "text/json",
+"size": 7386,
+"scope": {
+"yong": [
+"永生"
+]
+}
+},
+"json/082.content.json": {
+"mimeType": "text/json",
+"size": 14722,
+"scope": {
+"you": [
+"犹大（旧约）犹太（新约）",
+"油灯"
+]
+}
+},
+"json/083.content.json": {
+"mimeType": "text/json",
+"size": 20242,
+"scope": {
+"yu": [
+"渔网",
+"逾越节",
+"预言"
+]
+}
+},
+"json/084.content.json": {
+"mimeType": "text/json",
+"size": 686,
+"scope": {
+"yuan": [
+"园户"
+]
+}
+},
+"json/085.content.json": {
+"mimeType": "text/json",
+"size": 32243,
+"scope": {
+"yue": [
+"约",
+"约旦河",
+"约翰"
+]
+}
+},
+"json/086.content.json": {
+"mimeType": "text/json",
+"size": 2344,
+"scope": {
+"zan": [
+"赞美诗"
+]
+}
+},
+"json/087.content.json": {
+"mimeType": "text/json",
+"size": 15394,
+"scope": {
+"zhang": [
+"长老"
+]
+}
+},
+"json/088.content.json": {
+"mimeType": "text/json",
+"size": 9384,
+"scope": {
+"zhi": [
+"智慧"
+]
+}
+},
+"json/089.content.json": {
+"mimeType": "text/json",
+"size": 3068,
+"scope": {
+"zhong": [
+"种子"
+]
+}
+},
+"json/090.content.json": {
+"mimeType": "text/json",
+"size": 9694,
+"scope": {
+"zhou": [
+"咒诅"
+]
+}
+},
+"json/091.content.json": {
+"mimeType": "text/json",
+"size": 61739,
+"scope": {
+"zhu": [
+"主",
+"主、耶和华",
+"住棚、帐篷",
+"祝福"
+]
+}
+},
+"json/092.content.json": {
+"mimeType": "text/json",
+"size": 32419,
+"scope": {
+"zui": [
+"罪"
+]
+}
+},
+"md/001.content.md": {
+"mimeType": "text/markdown",
+"size": 1358
+},
+"md/002.content.md": {
+"mimeType": "text/markdown",
+"size": 2281
+},
+"md/003.content.md": {
+"mimeType": "text/markdown",
+"size": 3491
+},
+"md/004.content.md": {
+"mimeType": "text/markdown",
+"size": 1063
+},
+"md/005.content.md": {
+"mimeType": "text/markdown",
+"size": 2105
+},
+"md/006.content.md": {
+"mimeType": "text/markdown",
+"size": 1210
+},
+"md/007.content.md": {
+"mimeType": "text/markdown",
+"size": 2977
+},
+"md/008.content.md": {
+"mimeType": "text/markdown",
+"size": 5543
+},
+"md/009.content.md": {
+"mimeType": "text/markdown",
+"size": 6006
+},
+"md/010.content.md": {
+"mimeType": "text/markdown",
+"size": 1028
+},
+"md/011.content.md": {
+"mimeType": "text/markdown",
+"size": 3697
+},
+"md/012.content.md": {
+"mimeType": "text/markdown",
+"size": 2520
+},
+"md/013.content.md": {
+"mimeType": "text/markdown",
+"size": 2704
+},
+"md/014.content.md": {
+"mimeType": "text/markdown",
+"size": 3209
+},
+"md/015.content.md": {
+"mimeType": "text/markdown",
+"size": 2282
+},
+"md/016.content.md": {
+"mimeType": "text/markdown",
+"size": 3182
+},
+"md/017.content.md": {
+"mimeType": "text/markdown",
+"size": 2151
+},
+"md/018.content.md": {
+"mimeType": "text/markdown",
+"size": 4283
+},
+"md/019.content.md": {
+"mimeType": "text/markdown",
+"size": 4309
+},
+"md/020.content.md": {
+"mimeType": "text/markdown",
+"size": 1827
+},
+"md/021.content.md": {
+"mimeType": "text/markdown",
+"size": 5974
+},
+"md/022.content.md": {
+"mimeType": "text/markdown",
+"size": 1061
+},
+"md/023.content.md": {
+"mimeType": "text/markdown",
+"size": 3254
+},
+"md/024.content.md": {
+"mimeType": "text/markdown",
+"size": 3437
+},
+"md/025.content.md": {
+"mimeType": "text/markdown",
+"size": 2558
+},
+"md/026.content.md": {
+"mimeType": "text/markdown",
+"size": 1596
+},
+"md/027.content.md": {
+"mimeType": "text/markdown",
+"size": 2953
+},
+"md/028.content.md": {
+"mimeType": "text/markdown",
+"size": 11723
+},
+"md/029.content.md": {
+"mimeType": "text/markdown",
+"size": 17586
+},
+"md/030.content.md": {
+"mimeType": "text/markdown",
+"size": 8945
+},
+"md/031.content.md": {
+"mimeType": "text/markdown",
+"size": 2121
+},
+"md/032.content.md": {
+"mimeType": "text/markdown",
+"size": 1903
+},
+"md/033.content.md": {
+"mimeType": "text/markdown",
+"size": 5198
+},
+"md/034.content.md": {
+"mimeType": "text/markdown",
+"size": 2733
+},
+"md/035.content.md": {
+"mimeType": "text/markdown",
+"size": 3475
+},
+"md/036.content.md": {
+"mimeType": "text/markdown",
+"size": 3734
+},
+"md/037.content.md": {
+"mimeType": "text/markdown",
+"size": 1914
+},
+"md/038.content.md": {
+"mimeType": "text/markdown",
+"size": 3502
+},
+"md/039.content.md": {
+"mimeType": "text/markdown",
+"size": 1574
+},
+"md/040.content.md": {
+"mimeType": "text/markdown",
+"size": 1877
+},
+"md/041.content.md": {
+"mimeType": "text/markdown",
+"size": 3460
+},
+"md/042.content.md": {
+"mimeType": "text/markdown",
+"size": 6675
+},
+"md/043.content.md": {
+"mimeType": "text/markdown",
+"size": 8908
+},
+"md/044.content.md": {
+"mimeType": "text/markdown",
+"size": 1510
+},
+"md/045.content.md": {
+"mimeType": "text/markdown",
+"size": 3419
+},
+"md/046.content.md": {
+"mimeType": "text/markdown",
+"size": 5217
+},
+"md/047.content.md": {
+"mimeType": "text/markdown",
+"size": 4898
+},
+"md/048.content.md": {
+"mimeType": "text/markdown",
+"size": 2554
+},
+"md/049.content.md": {
+"mimeType": "text/markdown",
+"size": 2572
+},
+"md/050.content.md": {
+"mimeType": "text/markdown",
+"size": 1698
+},
+"md/051.content.md": {
+"mimeType": "text/markdown",
+"size": 2339
+},
+"md/052.content.md": {
+"mimeType": "text/markdown",
+"size": 6444
+},
+"md/053.content.md": {
+"mimeType": "text/markdown",
+"size": 1462
+},
+"md/054.content.md": {
+"mimeType": "text/markdown",
+"size": 1954
+},
+"md/055.content.md": {
+"mimeType": "text/markdown",
+"size": 990
+},
+"md/056.content.md": {
+"mimeType": "text/markdown",
+"size": 3708
+},
+"md/057.content.md": {
+"mimeType": "text/markdown",
+"size": 3774
+},
+"md/058.content.md": {
+"mimeType": "text/markdown",
+"size": 4320
+},
+"md/059.content.md": {
+"mimeType": "text/markdown",
+"size": 4067
+},
+"md/060.content.md": {
+"mimeType": "text/markdown",
+"size": 1060
+},
+"md/061.content.md": {
+"mimeType": "text/markdown",
+"size": 16314
+},
+"md/062.content.md": {
+"mimeType": "text/markdown",
+"size": 20187
+},
+"md/063.content.md": {
+"mimeType": "text/markdown",
+"size": 12042
+},
+"md/064.content.md": {
+"mimeType": "text/markdown",
+"size": 1414
+},
+"md/065.content.md": {
+"mimeType": "text/markdown",
+"size": 1373
+},
+"md/066.content.md": {
+"mimeType": "text/markdown",
+"size": 1501
+},
+"md/067.content.md": {
+"mimeType": "text/markdown",
+"size": 8353
+},
+"md/068.content.md": {
+"mimeType": "text/markdown",
+"size": 5885
+},
+"md/069.content.md": {
+"mimeType": "text/markdown",
+"size": 3099
+},
+"md/070.content.md": {
+"mimeType": "text/markdown",
+"size": 3614
+},
+"md/071.content.md": {
+"mimeType": "text/markdown",
+"size": 5429
+},
+"md/072.content.md": {
+"mimeType": "text/markdown",
+"size": 7038
+},
+"md/073.content.md": {
+"mimeType": "text/markdown",
+"size": 13395
+},
+"md/074.content.md": {
+"mimeType": "text/markdown",
+"size": 8105
+},
+"md/075.content.md": {
+"mimeType": "text/markdown",
+"size": 13384
+},
+"md/076.content.md": {
+"mimeType": "text/markdown",
+"size": 1179
+},
+"md/077.content.md": {
+"mimeType": "text/markdown",
+"size": 1151
+},
+"md/078.content.md": {
+"mimeType": "text/markdown",
+"size": 1920
+},
+"md/079.content.md": {
+"mimeType": "text/markdown",
+"size": 2972
+},
+"md/080.content.md": {
+"mimeType": "text/markdown",
+"size": 6575
+},
+"md/081.content.md": {
+"mimeType": "text/markdown",
+"size": 2195
+},
+"md/082.content.md": {
+"mimeType": "text/markdown",
+"size": 3684
+},
+"md/083.content.md": {
+"mimeType": "text/markdown",
+"size": 7935
+},
+"md/084.content.md": {
+"mimeType": "text/markdown",
+"size": 797
+},
+"md/085.content.md": {
+"mimeType": "text/markdown",
+"size": 10615
+},
+"md/086.content.md": {
+"mimeType": "text/markdown",
+"size": 1120
+},
+"md/087.content.md": {
+"mimeType": "text/markdown",
+"size": 3075
+},
+"md/088.content.md": {
+"mimeType": "text/markdown",
+"size": 2674
+},
+"md/089.content.md": {
+"mimeType": "text/markdown",
+"size": 1256
+},
+"md/090.content.md": {
+"mimeType": "text/markdown",
+"size": 2236
+},
+"md/091.content.md": {
+"mimeType": "text/markdown",
+"size": 10867
+},
+"md/092.content.md": {
+"mimeType": "text/markdown",
+"size": 9041
+},
+"docx/001.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42360
+},
+"pdf/001.content.pdf": {
+"mimeType": "application/pdf",
+"size": 256632
+},
+"docx/002.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42750
+},
+"pdf/002.content.pdf": {
+"mimeType": "application/pdf",
+"size": 285853
+},
+"docx/003.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 43139
+},
+"pdf/003.content.pdf": {
+"mimeType": "application/pdf",
+"size": 306145
+},
+"docx/004.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42025
+},
+"pdf/004.content.pdf": {
+"mimeType": "application/pdf",
+"size": 227220
+},
+"docx/005.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42535
+},
+"pdf/005.content.pdf": {
+"mimeType": "application/pdf",
+"size": 271150
+},
+"docx/006.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42272
+},
+"pdf/006.content.pdf": {
+"mimeType": "application/pdf",
+"size": 250460
+},
+"docx/007.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 43189
+},
+"pdf/007.content.pdf": {
+"mimeType": "application/pdf",
+"size": 313561
+},
+"docx/008.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 43941
+},
+"pdf/008.content.pdf": {
+"mimeType": "application/pdf",
+"size": 342757
+},
+"docx/009.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 43214
+},
+"pdf/009.content.pdf": {
+"mimeType": "application/pdf",
+"size": 308269
+},
+"docx/010.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42126
+},
+"pdf/010.content.pdf": {
+"mimeType": "application/pdf",
+"size": 239629
+},
+"docx/011.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 43344
+},
+"pdf/011.content.pdf": {
+"mimeType": "application/pdf",
+"size": 314621
+},
+"docx/012.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42770
+},
+"pdf/012.content.pdf": {
+"mimeType": "application/pdf",
+"size": 300952
+},
+"docx/013.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42160
+},
+"pdf/013.content.pdf": {
+"mimeType": "application/pdf",
+"size": 246908
+},
+"docx/014.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42660
+},
+"pdf/014.content.pdf": {
+"mimeType": "application/pdf",
+"size": 275960
+},
+"docx/015.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42254
+},
+"pdf/015.content.pdf": {
+"mimeType": "application/pdf",
+"size": 245989
+},
+"docx/016.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 43138
+},
+"pdf/016.content.pdf": {
+"mimeType": "application/pdf",
+"size": 303264
+},
+"docx/017.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42531
+},
+"pdf/017.content.pdf": {
+"mimeType": "application/pdf",
+"size": 268781
+},
+"docx/018.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 43160
+},
+"pdf/018.content.pdf": {
+"mimeType": "application/pdf",
+"size": 298145
+},
+"docx/019.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 43249
+},
+"pdf/019.content.pdf": {
+"mimeType": "application/pdf",
+"size": 307542
+},
+"docx/020.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42633
+},
+"pdf/020.content.pdf": {
+"mimeType": "application/pdf",
+"size": 275344
+},
+"docx/021.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 43682
+},
+"pdf/021.content.pdf": {
+"mimeType": "application/pdf",
+"size": 335847
+},
+"docx/022.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42232
+},
+"pdf/022.content.pdf": {
+"mimeType": "application/pdf",
+"size": 246928
+},
+"docx/023.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42958
+},
+"pdf/023.content.pdf": {
+"mimeType": "application/pdf",
+"size": 321279
+},
+"docx/024.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42186
+},
+"pdf/024.content.pdf": {
+"mimeType": "application/pdf",
+"size": 239728
+},
+"docx/025.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42837
+},
+"pdf/025.content.pdf": {
+"mimeType": "application/pdf",
+"size": 284541
+},
+"docx/026.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42529
+},
+"pdf/026.content.pdf": {
+"mimeType": "application/pdf",
+"size": 276057
+},
+"docx/027.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42916
+},
+"pdf/027.content.pdf": {
+"mimeType": "application/pdf",
+"size": 280355
+},
+"docx/028.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 45541
+},
+"pdf/028.content.pdf": {
+"mimeType": "application/pdf",
+"size": 416329
+},
+"docx/029.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46046
+},
+"pdf/029.content.pdf": {
+"mimeType": "application/pdf",
+"size": 452472
+},
+"docx/030.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 44021
+},
+"pdf/030.content.pdf": {
+"mimeType": "application/pdf",
+"size": 344630
+},
+"docx/031.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42707
+},
+"pdf/031.content.pdf": {
+"mimeType": "application/pdf",
+"size": 280047
+},
+"docx/032.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42304
+},
+"pdf/032.content.pdf": {
+"mimeType": "application/pdf",
+"size": 256860
+},
+"docx/033.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 43726
+},
+"pdf/033.content.pdf": {
+"mimeType": "application/pdf",
+"size": 340023
+},
+"docx/034.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42974
+},
+"pdf/034.content.pdf": {
+"mimeType": "application/pdf",
+"size": 298058
+},
+"docx/035.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 43098
+},
+"pdf/035.content.pdf": {
+"mimeType": "application/pdf",
+"size": 312293
+},
+"docx/036.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 43120
+},
+"pdf/036.content.pdf": {
+"mimeType": "application/pdf",
+"size": 309950
+},
+"docx/037.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42536
+},
+"pdf/037.content.pdf": {
+"mimeType": "application/pdf",
+"size": 288014
+},
+"docx/038.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42487
+},
+"pdf/038.content.pdf": {
+"mimeType": "application/pdf",
+"size": 275086
+},
+"docx/039.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42337
+},
+"pdf/039.content.pdf": {
+"mimeType": "application/pdf",
+"size": 259239
+},
+"docx/040.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42446
+},
+"pdf/040.content.pdf": {
+"mimeType": "application/pdf",
+"size": 262749
+},
+"docx/041.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42871
+},
+"pdf/041.content.pdf": {
+"mimeType": "application/pdf",
+"size": 291732
+},
+"docx/042.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 43504
+},
+"pdf/042.content.pdf": {
+"mimeType": "application/pdf",
+"size": 344547
+},
+"docx/043.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 44212
+},
+"pdf/043.content.pdf": {
+"mimeType": "application/pdf",
+"size": 353083
+},
+"docx/044.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42452
+},
+"pdf/044.content.pdf": {
+"mimeType": "application/pdf",
+"size": 278354
+},
+"docx/045.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 43293
+},
+"pdf/045.content.pdf": {
+"mimeType": "application/pdf",
+"size": 309108
+},
+"docx/046.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42690
+},
+"pdf/046.content.pdf": {
+"mimeType": "application/pdf",
+"size": 286683
+},
+"docx/047.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 43652
+},
+"pdf/047.content.pdf": {
+"mimeType": "application/pdf",
+"size": 361886
+},
+"docx/048.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42878
+},
+"pdf/048.content.pdf": {
+"mimeType": "application/pdf",
+"size": 306930
+},
+"docx/049.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42773
+},
+"pdf/049.content.pdf": {
+"mimeType": "application/pdf",
+"size": 283327
+},
+"docx/050.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42399
+},
+"pdf/050.content.pdf": {
+"mimeType": "application/pdf",
+"size": 255205
+},
+"docx/051.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42427
+},
+"pdf/051.content.pdf": {
+"mimeType": "application/pdf",
+"size": 257897
+},
+"docx/052.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 43346
+},
+"pdf/052.content.pdf": {
+"mimeType": "application/pdf",
+"size": 319712
+},
+"docx/053.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42226
+},
+"pdf/053.content.pdf": {
+"mimeType": "application/pdf",
+"size": 245042
+},
+"docx/054.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42369
+},
+"pdf/054.content.pdf": {
+"mimeType": "application/pdf",
+"size": 259612
+},
+"docx/055.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42152
+},
+"pdf/055.content.pdf": {
+"mimeType": "application/pdf",
+"size": 236609
+},
+"docx/056.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 43151
+},
+"pdf/056.content.pdf": {
+"mimeType": "application/pdf",
+"size": 341262
+},
+"docx/057.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42952
+},
+"pdf/057.content.pdf": {
+"mimeType": "application/pdf",
+"size": 292182
+},
+"docx/058.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42538
+},
+"pdf/058.content.pdf": {
+"mimeType": "application/pdf",
+"size": 272752
+},
+"docx/059.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 43210
+},
+"pdf/059.content.pdf": {
+"mimeType": "application/pdf",
+"size": 327559
+},
+"docx/060.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42139
+},
+"pdf/060.content.pdf": {
+"mimeType": "application/pdf",
+"size": 238755
+},
+"docx/061.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 46100
+},
+"pdf/061.content.pdf": {
+"mimeType": "application/pdf",
+"size": 423018
+},
+"docx/062.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 47848
+},
+"pdf/062.content.pdf": {
+"mimeType": "application/pdf",
+"size": 525332
+},
+"docx/063.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 45571
+},
+"pdf/063.content.pdf": {
+"mimeType": "application/pdf",
+"size": 440177
+},
+"docx/064.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42427
+},
+"pdf/064.content.pdf": {
+"mimeType": "application/pdf",
+"size": 260522
+},
+"docx/065.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42324
+},
+"pdf/065.content.pdf": {
+"mimeType": "application/pdf",
+"size": 258941
+},
+"docx/066.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42508
+},
+"pdf/066.content.pdf": {
+"mimeType": "application/pdf",
+"size": 277759
+},
+"docx/067.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 43900
+},
+"pdf/067.content.pdf": {
+"mimeType": "application/pdf",
+"size": 345817
+},
+"docx/068.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 43391
+},
+"pdf/068.content.pdf": {
+"mimeType": "application/pdf",
+"size": 318652
+},
+"docx/069.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42156
+},
+"pdf/069.content.pdf": {
+"mimeType": "application/pdf",
+"size": 241497
+},
+"docx/070.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 43275
+},
+"pdf/070.content.pdf": {
+"mimeType": "application/pdf",
+"size": 311871
+},
+"docx/071.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 44226
+},
+"pdf/071.content.pdf": {
+"mimeType": "application/pdf",
+"size": 362873
+},
+"docx/072.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 44538
+},
+"pdf/072.content.pdf": {
+"mimeType": "application/pdf",
+"size": 373632
+},
+"docx/073.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 45789
+},
+"pdf/073.content.pdf": {
+"mimeType": "application/pdf",
+"size": 433767
+},
+"docx/074.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 43719
+},
+"pdf/074.content.pdf": {
+"mimeType": "application/pdf",
+"size": 372944
+},
+"docx/075.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 44673
+},
+"pdf/075.content.pdf": {
+"mimeType": "application/pdf",
+"size": 387390
+},
+"docx/076.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42294
+},
+"pdf/076.content.pdf": {
+"mimeType": "application/pdf",
+"size": 252753
+},
+"docx/077.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42339
+},
+"pdf/077.content.pdf": {
+"mimeType": "application/pdf",
+"size": 256518
+},
+"docx/078.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42714
+},
+"pdf/078.content.pdf": {
+"mimeType": "application/pdf",
+"size": 280677
+},
+"docx/079.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42422
+},
+"pdf/079.content.pdf": {
+"mimeType": "application/pdf",
+"size": 270717
+},
+"docx/080.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 44590
+},
+"pdf/080.content.pdf": {
+"mimeType": "application/pdf",
+"size": 407949
+},
+"docx/081.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42518
+},
+"pdf/081.content.pdf": {
+"mimeType": "application/pdf",
+"size": 265117
+},
+"docx/082.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42980
+},
+"pdf/082.content.pdf": {
+"mimeType": "application/pdf",
+"size": 296704
+},
+"docx/083.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 45049
+},
+"pdf/083.content.pdf": {
+"mimeType": "application/pdf",
+"size": 405497
+},
+"docx/084.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42097
+},
+"pdf/084.content.pdf": {
+"mimeType": "application/pdf",
+"size": 235293
+},
+"docx/085.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 45686
+},
+"pdf/085.content.pdf": {
+"mimeType": "application/pdf",
+"size": 443246
+},
+"docx/086.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42203
+},
+"pdf/086.content.pdf": {
+"mimeType": "application/pdf",
+"size": 252133
+},
+"docx/087.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42426
+},
+"pdf/087.content.pdf": {
+"mimeType": "application/pdf",
+"size": 276074
+},
+"docx/088.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42673
+},
+"pdf/088.content.pdf": {
+"mimeType": "application/pdf",
+"size": 281913
+},
+"docx/089.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42240
+},
+"pdf/089.content.pdf": {
+"mimeType": "application/pdf",
+"size": 249656
+},
+"docx/090.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42291
+},
+"pdf/090.content.pdf": {
+"mimeType": "application/pdf",
+"size": 249486
+},
+"docx/091.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 43672
+},
+"pdf/091.content.pdf": {
+"mimeType": "application/pdf",
+"size": 335104
+},
+"docx/092.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 44643
+},
+"pdf/092.content.pdf": {
+"mimeType": "application/pdf",
+"size": 377162
+}
+},
+"copyright": {
+"licenses": [
+{
+"url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode.en"
+}
+],
+"shortStatements": [
+{
+"statement": "<p>Familiarization, Internalization, Articulation (Fia) Terms © 2023 SRV Partners.</p>",
+"mimetype": "text/html",
+"lang": "zh"
+}
+]
+}
+},
+"article_metadata": {
+"871126": {
+"content_id": "871126",
+"reference_id": 186466,
+"index_reference": "大卫",
+"localizations": {
+"eng": {
+"content_id": 341041,
+"language": "eng",
+"title": "David"
+},
+"fra": {
+"content_id": 871124,
+"language": "fra",
+"title": "David"
+},
+"por": {
+"content_id": 871125,
+"language": "por",
+"title": "Davi "
+}
+}
+},
+"871346": {
+"content_id": "871346",
+"reference_id": 186467,
+"index_reference": "比喻",
+"localizations": {
+"eng": {
+"content_id": 341042,
+"language": "eng",
+"title": "parable"
+},
+"fra": {
+"content_id": 871344,
+"language": "fra",
+"title": "parabole"
+},
+"por": {
+"content_id": 871345,
+"language": "por",
+"title": "parábola"
+}
+}
+},
+"871280": {
+"content_id": "871280",
+"reference_id": 186468,
+"index_reference": "施洗约翰",
+"localizations": {
+"eng": {
+"content_id": 341043,
+"language": "eng",
+"title": "John the Baptist"
+},
+"fra": {
+"content_id": 871278,
+"language": "fra",
+"title": "Jean le Baptiste"
+},
+"por": {
+"content_id": 871279,
+"language": "por",
+"title": "João Batista"
+}
+}
+},
+"871187": {
+"content_id": "871187",
+"reference_id": 186469,
+"index_reference": "无花果树",
+"localizations": {
+"eng": {
+"content_id": 341044,
+"language": "eng",
+"title": "fig tree"
+},
+"fra": {
+"content_id": 871185,
+"language": "fra",
+"title": "figuier"
+},
+"por": {
+"content_id": 871186,
+"language": "por",
+"title": "figueira"
+}
+}
+},
+"871518": {
+"content_id": "871518",
+"reference_id": 186470,
+"index_reference": "酒榨",
+"localizations": {
+"eng": {
+"content_id": 341045,
+"language": "eng",
+"title": "winepress"
+},
+"fra": {
+"content_id": 871516,
+"language": "fra",
+"title": "pressoir à vin"
+},
+"por": {
+"content_id": 871517,
+"language": "por",
+"title": "lagar"
+}
+}
+},
+"871195": {
+"content_id": "871195",
+"reference_id": 186471,
+"index_reference": "饶恕",
+"localizations": {
+"eng": {
+"content_id": 341047,
+"language": "eng",
+"title": "forgiveness"
+},
+"fra": {
+"content_id": 871193,
+"language": "fra",
+"title": "pardon"
+},
+"por": {
+"content_id": 871194,
+"language": "por",
+"title": "perdão"
+}
+}
+},
+"871535": {
+"content_id": "871535",
+"reference_id": 186473,
+"index_reference": "意、心意、心里、心思、意念、悟性、理智、心地",
+"localizations": {
+"eng": {
+"content_id": 341049,
+"language": "eng",
+"title": "mind"
+},
+"fra": {
+"content_id": 871533,
+"language": "fra",
+"title": "esprit"
+},
+"por": {
+"content_id": 871534,
+"language": "por",
+"title": "mente"
+}
+}
+},
+"871491": {
+"content_id": "871491",
+"reference_id": 186476,
+"index_reference": "园户",
+"localizations": {
+"eng": {
+"content_id": 341052,
+"language": "eng",
+"title": "tenants"
+},
+"fra": {
+"content_id": 871489,
+"language": "fra",
+"title": "intendants"
+},
+"por": {
+"content_id": 871490,
+"language": "por",
+"title": "arrendatários"
+}
+}
+},
+"871434": {
+"content_id": "871434",
+"reference_id": 186477,
+"index_reference": "罪",
+"localizations": {
+"eng": {
+"content_id": 341053,
+"language": "eng",
+"title": "sin"
+},
+"fra": {
+"content_id": 871433,
+"language": "fra",
+"title": "péché"
+},
+"spa": {
+"content_id": 840370,
+"language": "spa",
+"title": "pecado"
+}
+}
+},
+"871388": {
+"content_id": "871388",
+"reference_id": 186478,
+"index_reference": "公义",
+"localizations": {
+"eng": {
+"content_id": 341054,
+"language": "eng",
+"title": "righteousness"
+},
+"fra": {
+"content_id": 871386,
+"language": "fra",
+"title": "justice ou droiture"
+},
+"por": {
+"content_id": 871387,
+"language": "por",
+"title": "retidão"
+}
+}
+},
+"871106": {
+"content_id": "871106",
+"reference_id": 186479,
+"index_reference": "外衣、外袍",
+"localizations": {
+"eng": {
+"content_id": 341055,
+"language": "eng",
+"title": "cloak"
+},
+"fra": {
+"content_id": 871104,
+"language": "fra",
+"title": "manteau"
+},
+"por": {
+"content_id": 871105,
+"language": "por",
+"title": "capa"
+}
+}
+},
+"871162": {
+"content_id": "871162",
+"reference_id": 186480,
+"index_reference": "长老",
+"localizations": {
+"eng": {
+"content_id": 341056,
+"language": "eng",
+"title": "elder"
+},
+"fra": {
+"content_id": 871160,
+"language": "fra",
+"title": "ancien"
+},
+"por": {
+"content_id": 871161,
+"language": "por",
+"title": "ancião"
+}
+}
+},
+"871134": {
+"content_id": "871134",
+"reference_id": 186481,
+"index_reference": "鬼",
+"localizations": {
+"eng": {
+"content_id": 341058,
+"language": "eng",
+"title": "demon"
+},
+"fra": {
+"content_id": 871132,
+"language": "fra",
+"title": "démon"
+},
+"por": {
+"content_id": 871133,
+"language": "por",
+"title": "demônio"
+}
+}
+},
+"871428": {
+"content_id": "871428",
+"reference_id": 186482,
+"index_reference": "仆人",
+"localizations": {
+"eng": {
+"content_id": 341059,
+"language": "eng",
+"title": "servant"
+},
+"fra": {
+"content_id": 871426,
+"language": "fra",
+"title": "serviteur ou servante"
+},
+"por": {
+"content_id": 871427,
+"language": "por",
+"title": "servo"
+}
+}
+},
+"871487": {
+"content_id": "871487",
+"reference_id": 186483,
+"index_reference": "圣殿",
+"localizations": {
+"eng": {
+"content_id": 341062,
+"language": "eng",
+"title": "temple"
+},
+"fra": {
+"content_id": 871485,
+"language": "fra",
+"title": "Temple"
+},
+"por": {
+"content_id": 871486,
+"language": "por",
+"title": "templo"
+}
+}
+},
+"871050": {
+"content_id": "871050",
+"reference_id": 186484,
+"index_reference": "信",
+"localizations": {
+"eng": {
+"content_id": 341064,
+"language": "eng",
+"title": "belief"
+},
+"fra": {
+"content_id": 871048,
+"language": "fra",
+"title": "croire"
+},
+"por": {
+"content_id": 871049,
+"language": "por",
+"title": "crença"
+}
+}
+},
+"871479": {
+"content_id": "871479",
+"reference_id": 186485,
+"index_reference": "教师",
+"localizations": {
+"eng": {
+"content_id": 341065,
+"language": "eng",
+"title": "teacher"
+},
+"fra": {
+"content_id": 871477,
+"language": "fra",
+"title": "maître"
+},
+"por": {
+"content_id": 871478,
+"language": "por",
+"title": "mestre"
+}
+}
+},
+"871522": {
+"content_id": "871522",
+"reference_id": 186486,
+"index_reference": "智慧",
+"localizations": {
+"eng": {
+"content_id": 341066,
+"language": "eng",
+"title": "wisdom"
+},
+"fra": {
+"content_id": 871520,
+"language": "fra",
+"title": "sagesse"
+},
+"por": {
+"content_id": 871521,
+"language": "por",
+"title": "sabedoria"
+}
+}
+},
+"871150": {
+"content_id": "871150",
+"reference_id": 186487,
+"index_reference": "休妻（离婚）",
+"localizations": {
+"eng": {
+"content_id": 341067,
+"language": "eng",
+"title": "divorce"
+},
+"fra": {
+"content_id": 871148,
+"language": "fra",
+"title": "divorce"
+},
+"por": {
+"content_id": 871149,
+"language": "por",
+"title": "divórcio"
+}
+}
+},
+"871384": {
+"content_id": "871384",
+"reference_id": 186488,
+"index_reference": "复活",
+"localizations": {
+"eng": {
+"content_id": 341068,
+"language": "eng",
+"title": "resurrection"
+},
+"fra": {
+"content_id": 871382,
+"language": "fra",
+"title": "résurrection"
+},
+"por": {
+"content_id": 871383,
+"language": "por",
+"title": "ressurreição"
+}
+}
+},
+"871666": {
+"content_id": "871666",
+"reference_id": 186490,
+"index_reference": "荣耀",
+"localizations": {
+"eng": {
+"content_id": 341070,
+"language": "eng",
+"title": "glorify"
+},
+"fra": {
+"content_id": 871664,
+"language": "fra",
+"title": "glorifier"
+},
+"por": {
+"content_id": 871665,
+"language": "por",
+"title": "glorificar"
+}
+}
+},
+"871641": {
+"content_id": "871641",
+"reference_id": 186491,
+"index_reference": "邪恶",
+"localizations": {
+"eng": {
+"content_id": 341071,
+"language": "eng",
+"title": "evil"
+},
+"fra": {
+"content_id": 871639,
+"language": "fra",
+"title": "mal"
+},
+"por": {
+"content_id": 871640,
+"language": "por",
+"title": "mal"
+}
+}
+},
+"871296": {
+"content_id": "871296",
+"reference_id": 186492,
+"index_reference": "律法",
+"localizations": {
+"eng": {
+"content_id": 341072,
+"language": "eng",
+"title": "law"
+},
+"fra": {
+"content_id": 871294,
+"language": "fra",
+"title": "loi"
+},
+"por": {
+"content_id": 871295,
+"language": "por",
+"title": "lei"
+}
+}
+},
+"871483": {
+"content_id": "871483",
+"reference_id": 186493,
+"index_reference": "律法教师、教法师",
+"localizations": {
+"eng": {
+"content_id": 341073,
+"language": "eng",
+"title": "teachers of the Law"
+},
+"fra": {
+"content_id": 871481,
+"language": "fra",
+"title": "docteurs de la loi"
+},
+"por": {
+"content_id": 871482,
+"language": "por",
+"title": "mestres da Lei"
+}
+}
+},
+"871330": {
+"content_id": "871330",
+"reference_id": 186495,
+"index_reference": "国",
+"localizations": {
+"eng": {
+"content_id": 341075,
+"language": "eng",
+"title": "nation"
+},
+"fra": {
+"content_id": 871328,
+"language": "fra",
+"title": "nation"
+},
+"por": {
+"content_id": 871329,
+"language": "por",
+"title": "nação"
+}
+}
+},
+"871355": {
+"content_id": "871355",
+"reference_id": 186497,
+"index_reference": "（被鬼）附",
+"localizations": {
+"eng": {
+"content_id": 341077,
+"language": "eng",
+"title": "possessed"
+},
+"fra": {
+"content_id": 871353,
+"language": "fra",
+"title": "possédé"
+},
+"por": {
+"content_id": 871354,
+"language": "por",
+"title": "possuído"
+}
+}
+},
+"871024": {
+"content_id": "871024",
+"reference_id": 186498,
+"index_reference": "天使",
+"localizations": {
+"eng": {
+"content_id": 341079,
+"language": "eng",
+"title": "angel"
+},
+"fra": {
+"content_id": 871022,
+"language": "fra",
+"title": "ange"
+},
+"por": {
+"content_id": 871023,
+"language": "por",
+"title": "anjo"
+}
+}
+},
+"871475": {
+"content_id": "871475",
+"reference_id": 186500,
+"index_reference": "叙利亚腓尼基",
+"localizations": {
+"eng": {
+"content_id": 341081,
+"language": "eng",
+"title": "Syrian Phoenicia"
+},
+"fra": {
+"content_id": 871473,
+"language": "fra",
+"title": "Syrie-Phénicie"
+},
+"por": {
+"content_id": 871474,
+"language": "por",
+"title": "Fenícia da Síria"
+}
+}
+},
+"871442": {
+"content_id": "871442",
+"reference_id": 186501,
+"index_reference": "儿子",
+"localizations": {
+"eng": {
+"content_id": 341082,
+"language": "eng",
+"title": "son"
+},
+"fra": {
+"content_id": 871440,
+"language": "fra",
+"title": "fils"
+},
+"por": {
+"content_id": 871441,
+"language": "por",
+"title": "filho"
+}
+}
+},
+"871547": {
+"content_id": "871547",
+"reference_id": 186502,
+"index_reference": "文士",
+"localizations": {
+"eng": {
+"content_id": 341083,
+"language": "eng",
+"title": "scribe"
+},
+"fra": {
+"content_id": 871545,
+"language": "fra",
+"title": "scribe"
+},
+"por": {
+"content_id": 871546,
+"language": "por",
+"title": "escriba"
+}
+}
+},
+"871411": {
+"content_id": "871411",
+"reference_id": 186503,
+"index_reference": "撒但",
+"localizations": {
+"eng": {
+"content_id": 341084,
+"language": "eng",
+"title": "Satan"
+},
+"fra": {
+"content_id": 871409,
+"language": "fra",
+"title": "Satan"
+},
+"por": {
+"content_id": 871410,
+"language": "por",
+"title": "Satanás"
+}
+}
+},
+"871158": {
+"content_id": "871158",
+"reference_id": 186504,
+"index_reference": "鸽子",
+"localizations": {
+"eng": {
+"content_id": 341085,
+"language": "eng",
+"title": "dove"
+},
+"fra": {
+"content_id": 871156,
+"language": "fra",
+"title": "colombe"
+},
+"por": {
+"content_id": 871157,
+"language": "por",
+"title": "pomba"
+}
+}
+},
+"871154": {
+"content_id": "871154",
+"reference_id": 186505,
+"index_reference": "驴",
+"localizations": {
+"eng": {
+"content_id": 341086,
+"language": "eng",
+"title": "donkey"
+},
+"fra": {
+"content_id": 871152,
+"language": "fra",
+"title": "âne ou ânesse"
+},
+"por": {
+"content_id": 871153,
+"language": "por",
+"title": "burro"
+}
+}
+},
+"871241": {
+"content_id": "871241",
+"reference_id": 186506,
+"index_reference": "圣洁",
+"localizations": {
+"eng": {
+"content_id": 341087,
+"language": "eng",
+"title": "holy"
+},
+"fra": {
+"content_id": 871239,
+"language": "fra",
+"title": "saint"
+},
+"por": {
+"content_id": 871240,
+"language": "por",
+"title": "santo"
+}
+}
+},
+"871351": {
+"content_id": "871351",
+"reference_id": 186507,
+"index_reference": "法利赛人",
+"localizations": {
+"eng": {
+"content_id": 341088,
+"language": "eng",
+"title": "Pharisee"
+},
+"fra": {
+"content_id": 871349,
+"language": "fra",
+"title": "pharisien"
+},
+"por": {
+"content_id": 871350,
+"language": "por",
+"title": "Fariseu"
+}
+}
+},
+"871200": {
+"content_id": "871200",
+"reference_id": 186508,
+"index_reference": "加利利",
+"localizations": {
+"eng": {
+"content_id": 341089,
+"language": "eng",
+"title": "Galilee"
+},
+"fra": {
+"content_id": 871198,
+"language": "fra",
+"title": "Galilée"
+},
+"por": {
+"content_id": 871199,
+"language": "por",
+"title": "Galileia"
+}
+}
+},
+"871375": {
+"content_id": "871375",
+"reference_id": 186509,
+"index_reference": "拉比",
+"localizations": {
+"eng": {
+"content_id": 341090,
+"language": "eng",
+"title": "rabbi"
+},
+"fra": {
+"content_id": 871373,
+"language": "fra",
+"title": "Rabbi"
+},
+"por": {
+"content_id": 871374,
+"language": "por",
+"title": "rabi"
+}
+}
+},
+"871367": {
+"content_id": "871367",
+"reference_id": 186511,
+"index_reference": "先知",
+"localizations": {
+"eng": {
+"content_id": 341093,
+"language": "eng",
+"title": "prophet"
+},
+"fra": {
+"content_id": 871365,
+"language": "fra",
+"title": "prophète"
+},
+"por": {
+"content_id": 871366,
+"language": "por",
+"title": "Profeta"
+}
+}
+},
+"871183": {
+"content_id": "871183",
+"reference_id": 186513,
+"index_reference": "禁食",
+"localizations": {
+"eng": {
+"content_id": 341096,
+"language": "eng",
+"title": "fasting"
+},
+"fra": {
+"content_id": 871181,
+"language": "fra",
+"title": "jeûner"
+},
+"por": {
+"content_id": 871182,
+"language": "por",
+"title": "jejum"
+}
+}
+},
+"871338": {
+"content_id": "871338",
+"reference_id": 186516,
+"index_reference": "誓、起誓",
+"localizations": {
+"eng": {
+"content_id": 341099,
+"language": "eng",
+"title": "oath"
+},
+"fra": {
+"content_id": 871336,
+"language": "fra",
+"title": "serment"
+},
+"por": {
+"content_id": 871337,
+"language": "por",
+"title": "juramento"
+}
+}
+},
+"871326": {
+"content_id": "871326",
+"reference_id": 186517,
+"index_reference": "神迹",
+"localizations": {
+"eng": {
+"content_id": 341100,
+"language": "eng",
+"title": "miracles"
+},
+"fra": {
+"content_id": 871324,
+"language": "fra",
+"title": "miracles"
+},
+"por": {
+"content_id": 871325,
+"language": "por",
+"title": "milagres"
+}
+}
+},
+"871058": {
+"content_id": "871058",
+"reference_id": 186518,
+"index_reference": "伯赛大",
+"localizations": {
+"eng": {
+"content_id": 341101,
+"language": "eng",
+"title": "Bethsaida"
+},
+"fra": {
+"content_id": 871056,
+"language": "fra",
+"title": "Bethsaïda"
+},
+"por": {
+"content_id": 871057,
+"language": "por",
+"title": "Betsaida"
+}
+}
+},
+"871626": {
+"content_id": "871626",
+"reference_id": 186519,
+"index_reference": "魔鬼",
+"localizations": {
+"eng": {
+"content_id": 341102,
+"language": "eng",
+"title": "devil"
+},
+"fra": {
+"content_id": 871624,
+"language": "fra",
+"title": "diable"
+},
+"por": {
+"content_id": 871625,
+"language": "por",
+"title": "diabo"
+}
+}
+},
+"871742": {
+"content_id": "871742",
+"reference_id": 186520,
+"index_reference": "阿们",
+"localizations": {
+"eng": {
+"content_id": 341103,
+"language": "eng",
+"title": "amen"
+},
+"fra": {
+"content_id": 871740,
+"language": "fra",
+"title": "amen"
+},
+"por": {
+"content_id": 871741,
+"language": "por",
+"title": "amém"
+}
+}
+},
+"871019": {
+"content_id": "871019",
+"reference_id": 186521,
+"index_reference": "奸淫",
+"localizations": {
+"eng": {
+"content_id": 341104,
+"language": "eng",
+"title": "adultery"
+},
+"fra": {
+"content_id": 871017,
+"language": "fra",
+"title": "adultère"
+},
+"por": {
+"content_id": 871018,
+"language": "por",
+"title": "adultério"
+},
+"jpn": {
+"content_id": 671671,
+"language": "jpn",
+"title": "不倫"
+}
+}
+},
+"871179": {
+"content_id": "871179",
+"reference_id": 186522,
+"index_reference": "信心",
+"localizations": {
+"eng": {
+"content_id": 341105,
+"language": "eng",
+"title": "faith"
+},
+"fra": {
+"content_id": 871177,
+"language": "fra",
+"title": "foi"
+},
+"por": {
+"content_id": 871178,
+"language": "por",
+"title": "fé"
+},
+"spa": {
+"content_id": 840363,
+"language": "spa",
+"title": "fe"
+}
+}
+},
+"871271": {
+"content_id": "871271",
+"reference_id": 186523,
+"index_reference": "耶路撒冷",
+"localizations": {
+"eng": {
+"content_id": 341106,
+"language": "eng",
+"title": "Jerusalem"
+},
+"fra": {
+"content_id": 871269,
+"language": "fra",
+"title": "Jérusalem"
+},
+"por": {
+"content_id": 871270,
+"language": "por",
+"title": "Jerusalém"
+}
+}
+},
+"871631": {
+"content_id": "871631",
+"reference_id": 186524,
+"index_reference": "神的家",
+"localizations": {
+"eng": {
+"content_id": 341108,
+"language": "eng",
+"title": "house of God"
+},
+"fra": {
+"content_id": 871629,
+"language": "fra",
+"title": "maison de Dieu"
+},
+"por": {
+"content_id": 871630,
+"language": "por",
+"title": "casa de Deus"
+}
+}
+},
+"871566": {
+"content_id": "871566",
+"reference_id": 186526,
+"index_reference": "逾越节",
+"localizations": {
+"eng": {
+"content_id": 341110,
+"language": "eng",
+"title": "Passover"
+},
+"fra": {
+"content_id": 871564,
+"language": "fra",
+"title": "Pâque"
+},
+"por": {
+"content_id": 871565,
+"language": "por",
+"title": "Páscoa"
+}
+}
+},
+"871038": {
+"content_id": "871038",
+"reference_id": 186527,
+"index_reference": "权柄",
+"localizations": {
+"eng": {
+"content_id": 341112,
+"language": "eng",
+"title": "authority"
+},
+"fra": {
+"content_id": 871036,
+"language": "fra",
+"title": "autorité"
+},
+"por": {
+"content_id": 871037,
+"language": "por",
+"title": "autoridade"
+}
+}
+},
+"871670": {
+"content_id": "871670",
+"reference_id": 186529,
+"index_reference": "预言",
+"localizations": {
+"eng": {
+"content_id": 341115,
+"language": "eng",
+"title": "prophecy"
+},
+"fra": {
+"content_id": 871668,
+"language": "fra",
+"title": "prophétie"
+},
+"por": {
+"content_id": 871669,
+"language": "por",
+"title": "profecia"
+}
+}
+},
+"871122": {
+"content_id": "871122",
+"reference_id": 186530,
+"index_reference": "咒诅",
+"localizations": {
+"eng": {
+"content_id": 341116,
+"language": "eng",
+"title": "curse"
+},
+"fra": {
+"content_id": 871120,
+"language": "fra",
+"title": "malédiction"
+},
+"por": {
+"content_id": 871121,
+"language": "por",
+"title": "maldição"
+}
+}
+},
+"871062": {
+"content_id": "871062",
+"reference_id": 186531,
+"index_reference": "亵渎",
+"localizations": {
+"eng": {
+"content_id": 341117,
+"language": "eng",
+"title": "blasphemy"
+},
+"fra": {
+"content_id": 871060,
+"language": "fra",
+"title": "blasphème"
+},
+"por": {
+"content_id": 871061,
+"language": "por",
+"title": "blasfêmia"
+}
+}
+},
+"871130": {
+"content_id": "871130",
+"reference_id": 186532,
+"index_reference": "低加坡里",
+"localizations": {
+"eng": {
+"content_id": 341118,
+"language": "eng",
+"title": "Decapolis"
+},
+"fra": {
+"content_id": 871128,
+"language": "fra",
+"title": "Décapole"
+},
+"por": {
+"content_id": 871129,
+"language": "por",
+"title": "Decápolis"
+}
+}
+},
+"871463": {
+"content_id": "871463",
+"reference_id": 186533,
+"index_reference": "灵",
+"localizations": {
+"eng": {
+"content_id": 871459,
+"language": "eng",
+"title": "spirit"
+},
+"fra": {
+"content_id": 871461,
+"language": "fra",
+"title": "esprit"
+},
+"por": {
+"content_id": 871462,
+"language": "por",
+"title": "espírito"
+}
+}
+},
+"871312": {
+"content_id": "871312",
+"reference_id": 186534,
+"index_reference": "主、耶和华",
+"localizations": {
+"eng": {
+"content_id": 341120,
+"language": "eng",
+"title": "Lord"
+},
+"fra": {
+"content_id": 871310,
+"language": "fra",
+"title": "Seigneur"
+},
+"por": {
+"content_id": 871311,
+"language": "por",
+"title": "Senhor"
+},
+"spa": {
+"content_id": 840366,
+"language": "spa",
+"title": "Señor"
+}
+}
+},
+"871471": {
+"content_id": "871471",
+"reference_id": 186535,
+"index_reference": "管理犹太会堂的人",
+"localizations": {
+"eng": {
+"content_id": 341121,
+"language": "eng",
+"title": "synagogue ruler"
+},
+"fra": {
+"content_id": 871469,
+"language": "fra",
+"title": "chef de la synagogue"
+},
+"por": {
+"content_id": 871470,
+"language": "por",
+"title": "chefe da sinagoga"
+}
+}
+},
+"871318": {
+"content_id": "871318",
+"reference_id": 186537,
+"index_reference": "怜悯",
+"localizations": {
+"eng": {
+"content_id": 341123,
+"language": "eng",
+"title": "mercy"
+},
+"fra": {
+"content_id": 871316,
+"language": "fra",
+"title": "miséricorde"
+},
+"por": {
+"content_id": 871317,
+"language": "por",
+"title": "misericórdia"
+}
+}
+},
+"871267": {
+"content_id": "871267",
+"reference_id": 186538,
+"index_reference": "雅各",
+"localizations": {
+"eng": {
+"content_id": 341124,
+"language": "eng",
+"title": "James"
+},
+"fra": {
+"content_id": 871265,
+"language": "fra",
+"title": "Jacques"
+},
+"por": {
+"content_id": 871266,
+"language": "por",
+"title": "Tiago"
+}
+}
+},
+"871204": {
+"content_id": "871204",
+"reference_id": 186539,
+"index_reference": "外邦人",
+"localizations": {
+"eng": {
+"content_id": 341126,
+"language": "eng",
+"title": "Gentile"
+},
+"fra": {
+"content_id": 871202,
+"language": "fra",
+"title": "Gentil ou païen"
+},
+"por": {
+"content_id": 871203,
+"language": "por",
+"title": "Gentio"
+}
+}
+},
+"871292": {
+"content_id": "871292",
+"reference_id": 186541,
+"index_reference": "神的国",
+"localizations": {
+"eng": {
+"content_id": 341128,
+"language": "eng",
+"title": "kingdom of God"
+},
+"fra": {
+"content_id": 871290,
+"language": "fra",
+"title": "royaume de Dieu"
+},
+"por": {
+"content_id": 871291,
+"language": "por",
+"title": "Reino de Deus"
+}
+}
+},
+"871233": {
+"content_id": "871233",
+"reference_id": 186542,
+"index_reference": "地狱",
+"localizations": {
+"eng": {
+"content_id": 341129,
+"language": "eng",
+"title": "hell"
+},
+"fra": {
+"content_id": 871231,
+"language": "fra",
+"title": "enfer"
+},
+"por": {
+"content_id": 871232,
+"language": "por",
+"title": "inferno"
+}
+}
+},
+"871467": {
+"content_id": "871467",
+"reference_id": 186544,
+"index_reference": "会堂",
+"localizations": {
+"eng": {
+"content_id": 341131,
+"language": "eng",
+"title": "synagogue"
+},
+"fra": {
+"content_id": 871465,
+"language": "fra",
+"title": "synagogue"
+},
+"por": {
+"content_id": 871466,
+"language": "por",
+"title": "sinagoga"
+}
+}
+},
+"871171": {
+"content_id": "871171",
+"reference_id": 186545,
+"index_reference": "永生",
+"localizations": {
+"eng": {
+"content_id": 341132,
+"language": "eng",
+"title": "eternal life"
+},
+"fra": {
+"content_id": 871169,
+"language": "fra",
+"title": "vie éternelle"
+},
+"por": {
+"content_id": 871170,
+"language": "por",
+"title": "vida eterna"
+}
+}
+},
+"871454": {
+"content_id": "871454",
+"reference_id": 186546,
+"index_reference": "人子",
+"localizations": {
+"eng": {
+"content_id": 341133,
+"language": "eng",
+"title": "Son of Man"
+},
+"fra": {
+"content_id": 871452,
+"language": "fra",
+"title": "Fils de l'homme"
+},
+"por": {
+"content_id": 871453,
+"language": "por",
+"title": "Filho do Homem"
+}
+}
+},
+"871166": {
+"content_id": "871166",
+"reference_id": 186548,
+"index_reference": "以利亚",
+"localizations": {
+"eng": {
+"content_id": 341135,
+"language": "eng",
+"title": "Elijah"
+},
+"fra": {
+"content_id": 871164,
+"language": "fra",
+"title": "Élie"
+},
+"por": {
+"content_id": 871165,
+"language": "por",
+"title": "Elias"
+}
+}
+},
+"871591": {
+"content_id": "871591",
+"reference_id": 186549,
+"index_reference": "钉十字架",
+"localizations": {
+"eng": {
+"content_id": 341136,
+"language": "eng",
+"title": "crucifixion"
+},
+"fra": {
+"content_id": 871589,
+"language": "fra",
+"title": "crucifixion"
+},
+"por": {
+"content_id": 871590,
+"language": "por",
+"title": "crucificação"
+}
+}
+},
+"871555": {
+"content_id": "871555",
+"reference_id": 186550,
+"index_reference": "国",
+"localizations": {
+"eng": {
+"content_id": 341137,
+"language": "eng",
+"title": "kingdom"
+},
+"fra": {
+"content_id": 871553,
+"language": "fra",
+"title": "royaume"
+},
+"por": {
+"content_id": 871554,
+"language": "por",
+"title": "reino"
+}
+}
+},
+"871216": {
+"content_id": "871216",
+"reference_id": 186552,
+"index_reference": "福音",
+"localizations": {
+"eng": {
+"content_id": 341139,
+"language": "eng",
+"title": "gospel"
+},
+"fra": {
+"content_id": 871214,
+"language": "fra",
+"title": "Évangile"
+},
+"por": {
+"content_id": 871215,
+"language": "por",
+"title": "evangelho"
+}
+}
+},
+"871212": {
+"content_id": "871212",
+"reference_id": 186553,
+"index_reference": "荣耀",
+"localizations": {
+"eng": {
+"content_id": 341141,
+"language": "eng",
+"title": "glory"
+},
+"fra": {
+"content_id": 871210,
+"language": "fra",
+"title": "gloire"
+},
+"por": {
+"content_id": 871211,
+"language": "por",
+"title": "glória"
+}
+}
+},
+"871042": {
+"content_id": "871042",
+"reference_id": 186554,
+"index_reference": "洗礼",
+"localizations": {
+"eng": {
+"content_id": 341142,
+"language": "eng",
+"title": "baptism"
+},
+"fra": {
+"content_id": 871040,
+"language": "fra",
+"title": "baptême"
+},
+"por": {
+"content_id": 871041,
+"language": "por",
+"title": "batismo"
+}
+}
+},
+"871446": {
+"content_id": "871446",
+"reference_id": 186555,
+"index_reference": "大卫的子孙",
+"localizations": {
+"eng": {
+"content_id": 341143,
+"language": "eng",
+"title": "Son of David"
+},
+"fra": {
+"content_id": 871444,
+"language": "fra",
+"title": "Fils de David"
+},
+"por": {
+"content_id": 871445,
+"language": "por",
+"title": "Filho de Davi"
+}
+}
+},
+"871229": {
+"content_id": "871229",
+"reference_id": 186556,
+"index_reference": "后嗣",
+"localizations": {
+"eng": {
+"content_id": 341144,
+"language": "eng",
+"title": "heir"
+},
+"fra": {
+"content_id": 871227,
+"language": "fra",
+"title": "héritier"
+},
+"por": {
+"content_id": 871228,
+"language": "por",
+"title": "herdeiro"
+}
+}
+},
+"871587": {
+"content_id": "871587",
+"reference_id": 186557,
+"index_reference": "公会",
+"localizations": {
+"eng": {
+"content_id": 341145,
+"language": "eng",
+"title": "sanhedrin"
+},
+"fra": {
+"content_id": 871585,
+"language": "fra",
+"title": "sanhédrin"
+},
+"por": {
+"content_id": 871586,
+"language": "por",
+"title": "sinédrio"
+}
+}
+},
+"871090": {
+"content_id": "871090",
+"reference_id": 186558,
+"index_reference": "迦百农",
+"localizations": {
+"eng": {
+"content_id": 341146,
+"language": "eng",
+"title": "Capernaum"
+},
+"fra": {
+"content_id": 871088,
+"language": "fra",
+"title": "Capernaüm"
+},
+"por": {
+"content_id": 871089,
+"language": "por",
+"title": "Cafarnaum"
+},
+"spa": {
+"content_id": 840361,
+"language": "spa",
+"title": "Cafarnaúm"
+}
+}
+},
+"871398": {
+"content_id": "871398",
+"reference_id": 186559,
+"index_reference": "献祭",
+"localizations": {
+"eng": {
+"content_id": 341147,
+"language": "eng",
+"title": "sacrifice"
+},
+"por": {
+"content_id": 871397,
+"language": "por",
+"title": "sacrifício"
+}
+}
+},
+"871583": {
+"content_id": "871583",
+"reference_id": 186560,
+"index_reference": "阿爸",
+"localizations": {
+"eng": {
+"content_id": 341148,
+"language": "eng",
+"title": "abba"
+},
+"fra": {
+"content_id": 871581,
+"language": "fra",
+"title": "abba"
+},
+"por": {
+"content_id": 871582,
+"language": "por",
+"title": "abba"
+}
+}
+},
+"871571": {
+"content_id": "871571",
+"reference_id": 186563,
+"index_reference": "无酵节",
+"localizations": {
+"eng": {
+"content_id": 341153,
+"language": "eng",
+"title": "Festival of Unleavened Bread"
+},
+"fra": {
+"content_id": 871569,
+"language": "fra",
+"title": "fête des Pains sans levain"
+},
+"por": {
+"content_id": 871570,
+"language": "por",
+"title": "Festa dos Pães Asmos"
+}
+}
+},
+"871514": {
+"content_id": "871514",
+"reference_id": 186564,
+"index_reference": "旷野",
+"localizations": {
+"eng": {
+"content_id": 341155,
+"language": "eng",
+"title": "wilderness"
+},
+"fra": {
+"content_id": 871512,
+"language": "fra",
+"title": "désert"
+},
+"por": {
+"content_id": 871513,
+"language": "por",
+"title": "região desabitada"
+}
+}
+},
+"871262": {
+"content_id": "871262",
+"reference_id": 186565,
+"index_reference": "以赛亚",
+"localizations": {
+"eng": {
+"content_id": 341156,
+"language": "eng",
+"title": "Isaiah"
+},
+"fra": {
+"content_id": 871260,
+"language": "fra",
+"title": "Ésaïe"
+},
+"por": {
+"content_id": 871261,
+"language": "por",
+"title": "Isaías"
+}
+}
+},
+"871396": {
+"content_id": "871396",
+"reference_id": 186566,
+"index_reference": "安息日",
+"localizations": {
+"eng": {
+"content_id": 341157,
+"language": "eng",
+"title": "sabbath"
+},
+"fra": {
+"content_id": 871394,
+"language": "fra",
+"title": "sabbat"
+},
+"por": {
+"content_id": 871395,
+"language": "por",
+"title": "sábado"
+}
+}
+},
+"871249": {
+"content_id": "871249",
+"reference_id": 186567,
+"index_reference": "和散那",
+"localizations": {
+"eng": {
+"content_id": 341158,
+"language": "eng",
+"title": "Hosanna"
+},
+"fra": {
+"content_id": 871247,
+"language": "fra",
+"title": "Hosanna"
+},
+"por": {
+"content_id": 871248,
+"language": "por",
+"title": "Hosana"
+}
+}
+},
+"871450": {
+"content_id": "871450",
+"reference_id": 186568,
+"index_reference": "神的儿子",
+"localizations": {
+"eng": {
+"content_id": 341160,
+"language": "eng",
+"title": "Son of God"
+},
+"fra": {
+"content_id": 871448,
+"language": "fra",
+"title": "Fils de Dieu"
+},
+"por": {
+"content_id": 871449,
+"language": "por",
+"title": "Filho de Deus"
+}
+}
+},
+"871253": {
+"content_id": "871253",
+"reference_id": 186571,
+"index_reference": "家中的人",
+"localizations": {
+"eng": {
+"content_id": 341163,
+"language": "eng",
+"title": "household"
+},
+"fra": {
+"content_id": 871251,
+"language": "fra",
+"title": "maison"
+},
+"por": {
+"content_id": 871252,
+"language": "por",
+"title": "família"
+}
+}
+},
+"871579": {
+"content_id": "871579",
+"reference_id": 186573,
+"index_reference": "牧羊人",
+"localizations": {
+"eng": {
+"content_id": 341165,
+"language": "eng",
+"title": "shepherd"
+},
+"fra": {
+"content_id": 871577,
+"language": "fra",
+"title": "berger"
+},
+"por": {
+"content_id": 871578,
+"language": "por",
+"title": "pastor"
+}
+}
+},
+"871094": {
+"content_id": "871094",
+"reference_id": 186574,
+"index_reference": "基督",
+"localizations": {
+"eng": {
+"content_id": 341167,
+"language": "eng",
+"title": "Christ"
+},
+"fra": {
+"content_id": 871092,
+"language": "fra",
+"title": "Christ"
+},
+"por": {
+"content_id": 871093,
+"language": "por",
+"title": "Cristo"
+}
+}
+},
+"871322": {
+"content_id": "871322",
+"reference_id": 186575,
+"index_reference": "弥赛亚",
+"localizations": {
+"eng": {
+"content_id": 341168,
+"language": "eng",
+"title": "Messiah"
+},
+"fra": {
+"content_id": 871320,
+"language": "fra",
+"title": "Messie"
+},
+"por": {
+"content_id": 871321,
+"language": "por",
+"title": "Messias"
+}
+}
+},
+"871575": {
+"content_id": "871575",
+"reference_id": 186576,
+"index_reference": "赞美诗",
+"localizations": {
+"eng": {
+"content_id": 341169,
+"language": "eng",
+"title": "hymn"
+},
+"fra": {
+"content_id": 871573,
+"language": "fra",
+"title": "hymne"
+},
+"por": {
+"content_id": 871574,
+"language": "por",
+"title": "hino"
+}
+}
+},
+"871526": {
+"content_id": "871526",
+"reference_id": 186577,
+"index_reference": "道",
+"localizations": {
+"eng": {
+"content_id": 341170,
+"language": "eng",
+"title": "Word"
+},
+"fra": {
+"content_id": 871524,
+"language": "fra",
+"title": "Parole"
+},
+"por": {
+"content_id": 871525,
+"language": "por",
+"title": "Palavra"
+}
+}
+},
+"871561": {
+"content_id": "871561",
+"reference_id": 186578,
+"index_reference": "好消息",
+"localizations": {
+"eng": {
+"content_id": 341171,
+"language": "eng",
+"title": "good news"
+},
+"fra": {
+"content_id": 871559,
+"language": "fra",
+"title": "Bonne Nouvelle"
+},
+"por": {
+"content_id": 871560,
+"language": "por",
+"title": "boas novas"
+},
+"spa": {
+"content_id": 840365,
+"language": "spa",
+"title": "buenas nuevas"
+}
+}
+},
+"871495": {
+"content_id": "871495",
+"reference_id": 186579,
+"index_reference": "坟墓",
+"localizations": {
+"eng": {
+"content_id": 341172,
+"language": "eng",
+"title": "tomb"
+},
+"fra": {
+"content_id": 871493,
+"language": "fra",
+"title": "sépulcre"
+},
+"por": {
+"content_id": 871494,
+"language": "por",
+"title": "túmulo"
+}
+}
+},
+"871078": {
+"content_id": "871078",
+"reference_id": 186581,
+"index_reference": "凯撒",
+"localizations": {
+"eng": {
+"content_id": 341177,
+"language": "eng",
+"title": "Caesar"
+},
+"fra": {
+"content_id": 871076,
+"language": "fra",
+"title": "César"
+},
+"por": {
+"content_id": 871077,
+"language": "por",
+"title": "César"
+}
+}
+},
+"871276": {
+"content_id": "871276",
+"reference_id": 186583,
+"index_reference": "约翰",
+"localizations": {
+"eng": {
+"content_id": 341179,
+"language": "eng",
+"title": "John"
+},
+"fra": {
+"content_id": 871274,
+"language": "fra",
+"title": "Jean"
+},
+"por": {
+"content_id": 871275,
+"language": "por",
+"title": "João "
+}
+}
+},
+"871622": {
+"content_id": "871622",
+"reference_id": 186584,
+"index_reference": "里衣、内衣、内袍",
+"localizations": {
+"eng": {
+"content_id": 341180,
+"language": "eng",
+"title": "tunic"
+},
+"fra": {
+"content_id": 871620,
+"language": "fra",
+"title": "tunique"
+},
+"por": {
+"content_id": 871621,
+"language": "por",
+"title": "túnica"
+}
+}
+},
+"871114": {
+"content_id": "871114",
+"reference_id": 186585,
+"index_reference": "约",
+"localizations": {
+"eng": {
+"content_id": 341181,
+"language": "eng",
+"title": "covenant"
+},
+"fra": {
+"content_id": 871112,
+"language": "fra",
+"title": "alliance"
+},
+"por": {
+"content_id": 871113,
+"language": "por",
+"title": "aliança"
+}
+}
+},
+"871458": {
+"content_id": "871458",
+"reference_id": 186586,
+"index_reference": "灵魂",
+"localizations": {
+"eng": {
+"content_id": 341182,
+"language": "eng",
+"title": "soul"
+},
+"fra": {
+"content_id": 871456,
+"language": "fra",
+"title": "âme"
+},
+"por": {
+"content_id": 871457,
+"language": "por",
+"title": "alma"
+}
+}
+},
+"871191": {
+"content_id": "871191",
+"reference_id": 186587,
+"index_reference": "渔网",
+"localizations": {
+"eng": {
+"content_id": 341183,
+"language": "eng",
+"title": "fishing net"
+},
+"fra": {
+"content_id": 871189,
+"language": "fra",
+"title": "filet de pêche"
+},
+"por": {
+"content_id": 871190,
+"language": "por",
+"title": "rede de pesca"
+}
+}
+},
+"871406": {
+"content_id": "871406",
+"reference_id": 186588,
+"index_reference": "救恩",
+"localizations": {
+"eng": {
+"content_id": 341184,
+"language": "eng",
+"title": "salvation"
+},
+"fra": {
+"content_id": 871404,
+"language": "fra",
+"title": "salut"
+},
+"por": {
+"content_id": 871405,
+"language": "por",
+"title": "salvação"
+}
+}
+},
+"871551": {
+"content_id": "871551",
+"reference_id": 186589,
+"index_reference": "记号",
+"localizations": {
+"eng": {
+"content_id": 341185,
+"language": "eng",
+"title": "sign"
+},
+"fra": {
+"content_id": 871549,
+"language": "fra",
+"title": "signe"
+},
+"por": {
+"content_id": 871550,
+"language": "por",
+"title": "sinal"
+}
+}
+},
+"871284": {
+"content_id": "871284",
+"reference_id": 186590,
+"index_reference": "约旦河",
+"localizations": {
+"eng": {
+"content_id": 341186,
+"language": "eng",
+"title": "Jordan River"
+},
+"fra": {
+"content_id": 871282,
+"language": "fra",
+"title": "Jourdain"
+},
+"por": {
+"content_id": 871283,
+"language": "por",
+"title": "Rio Jordão"
+}
+}
+},
+"871086": {
+"content_id": "871086",
+"reference_id": 186591,
+"index_reference": "骆驼",
+"localizations": {
+"eng": {
+"content_id": 341187,
+"language": "eng",
+"title": "camel"
+},
+"fra": {
+"content_id": 871084,
+"language": "fra",
+"title": "chameau"
+},
+"por": {
+"content_id": 871085,
+"language": "por",
+"title": "camelo"
+}
+}
+},
+"871503": {
+"content_id": "871503",
+"reference_id": 186592,
+"index_reference": "葡萄园",
+"localizations": {
+"eng": {
+"content_id": 341188,
+"language": "eng",
+"title": "vineyard"
+},
+"fra": {
+"content_id": 871501,
+"language": "fra",
+"title": "vignoble"
+},
+"por": {
+"content_id": 871502,
+"language": "por",
+"title": "vinha"
+}
+}
+},
+"871531": {
+"content_id": "871531",
+"reference_id": 186593,
+"index_reference": "心",
+"localizations": {
+"eng": {
+"content_id": 341189,
+"language": "eng",
+"title": "heart"
+},
+"fra": {
+"content_id": 871529,
+"language": "fra",
+"title": "cœur"
+},
+"por": {
+"content_id": 871530,
+"language": "por",
+"title": "coração"
+}
+}
+},
+"871257": {
+"content_id": "871257",
+"reference_id": 186594,
+"index_reference": "假冒为善",
+"localizations": {
+"eng": {
+"content_id": 341190,
+"language": "eng",
+"title": "hypocrisy"
+},
+"fra": {
+"content_id": 871255,
+"language": "fra",
+"title": "hypocrisie"
+},
+"por": {
+"content_id": 871256,
+"language": "por",
+"title": "hipocrisia"
+}
+}
+},
+"871416": {
+"content_id": "871416",
+"reference_id": 186595,
+"index_reference": "经文",
+"localizations": {
+"eng": {
+"content_id": 341191,
+"language": "eng",
+"title": "scriptures"
+},
+"fra": {
+"content_id": 871414,
+"language": "fra",
+"title": "Écritures"
+},
+"por": {
+"content_id": 871415,
+"language": "por",
+"title": "escrituras"
+}
+}
+},
+"871380": {
+"content_id": "871380",
+"reference_id": 186596,
+"index_reference": "悔改",
+"localizations": {
+"eng": {
+"content_id": 341192,
+"language": "eng",
+"title": "repentance"
+},
+"fra": {
+"content_id": 871378,
+"language": "fra",
+"title": "repentance"
+},
+"por": {
+"content_id": 871379,
+"language": "por",
+"title": "arrependimento"
+}
+}
+},
+"871359": {
+"content_id": "871359",
+"reference_id": 186597,
+"index_reference": "祷告",
+"localizations": {
+"eng": {
+"content_id": 341194,
+"language": "eng",
+"title": "pray"
+},
+"fra": {
+"content_id": 871357,
+"language": "fra",
+"title": "prier"
+},
+"por": {
+"content_id": 871358,
+"language": "por",
+"title": "orar"
+}
+}
+},
+"871656": {
+"content_id": "871656",
+"reference_id": 186598,
+"index_reference": "祭物",
+"localizations": {
+"eng": {
+"content_id": 341196,
+"language": "eng",
+"title": "offering"
+},
+"fra": {
+"content_id": 871654,
+"language": "fra",
+"title": "offrande"
+},
+"por": {
+"content_id": 871655,
+"language": "por",
+"title": "oferta"
+}
+}
+},
+"871110": {
+"content_id": "871110",
+"reference_id": 186599,
+"index_reference": "房角石",
+"localizations": {
+"eng": {
+"content_id": 341197,
+"language": "eng",
+"title": "cornerstone"
+},
+"fra": {
+"content_id": 871108,
+"language": "fra",
+"title": "pierre angulaire"
+},
+"por": {
+"content_id": 871109,
+"language": "por",
+"title": "pedra angular"
+}
+}
+},
+"871175": {
+"content_id": "871175",
+"reference_id": 186600,
+"index_reference": "邪灵",
+"localizations": {
+"eng": {
+"content_id": 341198,
+"language": "eng",
+"title": "evil spirit"
+},
+"fra": {
+"content_id": 871173,
+"language": "fra",
+"title": "mauvais esprit"
+},
+"por": {
+"content_id": 871174,
+"language": "por",
+"title": "espírito maligno"
+}
+}
+},
+"871034": {
+"content_id": "871034",
+"reference_id": 186601,
+"index_reference": "使徒",
+"localizations": {
+"eng": {
+"content_id": 341199,
+"language": "eng",
+"title": "apostle"
+},
+"fra": {
+"content_id": 871032,
+"language": "fra",
+"title": "apôtre"
+},
+"por": {
+"content_id": 871033,
+"language": "por",
+"title": "apóstolo"
+}
+}
+},
+"871082": {
+"content_id": "871082",
+"reference_id": 186602,
+"index_reference": "凯撒利亚•腓立比",
+"localizations": {
+"eng": {
+"content_id": 341201,
+"language": "eng",
+"title": "Caeserea Philippi"
+},
+"fra": {
+"content_id": 871080,
+"language": "fra",
+"title": "Césarée de Philippe"
+},
+"por": {
+"content_id": 871081,
+"language": "por",
+"title": "Cesareia de Filipe"
+}
+}
+},
+"871118": {
+"content_id": "871118",
+"reference_id": 186603,
+"index_reference": "十字架",
+"localizations": {
+"eng": {
+"content_id": 341202,
+"language": "eng",
+"title": "cross"
+},
+"fra": {
+"content_id": 871116,
+"language": "fra",
+"title": "croix"
+},
+"por": {
+"content_id": 871117,
+"language": "por",
+"title": "cruz"
+}
+}
+},
+"871499": {
+"content_id": "871499",
+"reference_id": 186604,
+"index_reference": "泰尔（有些译本译为：推罗）",
+"localizations": {
+"eng": {
+"content_id": 341203,
+"language": "eng",
+"title": "Tyre"
+},
+"fra": {
+"content_id": 871497,
+"language": "fra",
+"title": "Tyr"
+},
+"por": {
+"content_id": 871498,
+"language": "por",
+"title": "Tiro"
+}
+}
+},
+"871431": {
+"content_id": "871431",
+"reference_id": 186605,
+"index_reference": "住棚、帐篷",
+"localizations": {
+"eng": {
+"content_id": 341204,
+"language": "eng",
+"title": "shelter"
+},
+"fra": {
+"content_id": 871430,
+"language": "fra",
+"title": "cabane ou abri"
+}
+}
+},
+"871074": {
+"content_id": "871074",
+"reference_id": 186606,
+"index_reference": "屈身、跪拜",
+"localizations": {
+"eng": {
+"content_id": 341205,
+"language": "eng",
+"title": "bow"
+},
+"fra": {
+"content_id": 871072,
+"language": "fra",
+"title": "se prosterner"
+},
+"por": {
+"content_id": 871073,
+"language": "por",
+"title": "curvar"
+}
+}
+},
+"871221": {
+"content_id": "871221",
+"reference_id": 186607,
+"index_reference": "医治",
+"localizations": {
+"eng": {
+"content_id": 341206,
+"language": "eng",
+"title": "heal"
+},
+"fra": {
+"content_id": 871219,
+"language": "fra",
+"title": "guérir"
+},
+"por": {
+"content_id": 871220,
+"language": "por",
+"title": "curar"
+}
+}
+},
+"871539": {
+"content_id": "871539",
+"reference_id": 186608,
+"index_reference": "力量",
+"localizations": {
+"eng": {
+"content_id": 341207,
+"language": "eng",
+"title": "strength"
+},
+"fra": {
+"content_id": 871537,
+"language": "fra",
+"title": "force"
+},
+"por": {
+"content_id": 871538,
+"language": "por",
+"title": "força"
+}
+}
+},
+"871371": {
+"content_id": "871371",
+"reference_id": 186610,
+"index_reference": "赎价",
+"localizations": {
+"eng": {
+"content_id": 341210,
+"language": "eng",
+"title": "ransom"
+},
+"fra": {
+"content_id": 871369,
+"language": "fra",
+"title": "rançon"
+},
+"por": {
+"content_id": 871370,
+"language": "por",
+"title": "resgate"
+}
+}
+},
+"871308": {
+"content_id": "871308",
+"reference_id": 186611,
+"index_reference": "主",
+"localizations": {
+"eng": {
+"content_id": 341211,
+"language": "eng",
+"title": "Lord"
+},
+"fra": {
+"content_id": 871306,
+"language": "fra",
+"title": "Seigneur"
+},
+"por": {
+"content_id": 871307,
+"language": "por",
+"title": "Senhor"
+},
+"spa": {
+"content_id": 840367,
+"language": "spa",
+"title": "Señor"
+}
+}
+},
+"871392": {
+"content_id": "871392",
+"reference_id": 186612,
+"index_reference": "外袍",
+"localizations": {
+"eng": {
+"content_id": 341212,
+"language": "eng",
+"title": "robe"
+},
+"fra": {
+"content_id": 871390,
+"language": "fra",
+"title": "robe"
+},
+"por": {
+"content_id": 871391,
+"language": "por",
+"title": "manto"
+}
+}
+},
+"871046": {
+"content_id": "871046",
+"reference_id": 186613,
+"index_reference": "筐子、箱子、篮子",
+"localizations": {
+"eng": {
+"content_id": 341213,
+"language": "eng",
+"title": "basket"
+},
+"fra": {
+"content_id": 871044,
+"language": "fra",
+"title": "panier"
+},
+"por": {
+"content_id": 871045,
+"language": "por",
+"title": "cesta"
+}
+}
+},
+"871363": {
+"content_id": "871363",
+"reference_id": 186614,
+"index_reference": "祭司",
+"localizations": {
+"eng": {
+"content_id": 341214,
+"language": "eng",
+"title": "priest"
+},
+"fra": {
+"content_id": 871361,
+"language": "fra",
+"title": "sacrificateur"
+},
+"por": {
+"content_id": 871362,
+"language": "por",
+"title": "sacerdote"
+}
+}
+},
+"871102": {
+"content_id": "871102",
+"reference_id": 186615,
+"index_reference": "洁净/不洁净",
+"localizations": {
+"eng": {
+"content_id": 341215,
+"language": "eng",
+"title": "clean/unclean"
+},
+"fra": {
+"content_id": 871100,
+"language": "fra",
+"title": "pur/impur"
+},
+"por": {
+"content_id": 871101,
+"language": "por",
+"title": "puro/impuro"
+}
+}
+},
+"871334": {
+"content_id": "871334",
+"reference_id": 186616,
+"index_reference": "拿撒勒",
+"localizations": {
+"eng": {
+"content_id": 341216,
+"language": "eng",
+"title": "Nazareth"
+},
+"fra": {
+"content_id": 871332,
+"language": "fra",
+"title": "Nazareth"
+},
+"por": {
+"content_id": 871333,
+"language": "por",
+"title": "Nazaré"
+}
+}
+},
+"871438": {
+"content_id": "871438",
+"reference_id": 186617,
+"index_reference": "奴隶",
+"localizations": {
+"eng": {
+"content_id": 341217,
+"language": "eng",
+"title": "slave"
+},
+"fra": {
+"content_id": 871436,
+"language": "fra",
+"title": "esclave"
+},
+"por": {
+"content_id": 871437,
+"language": "por",
+"title": "escravo"
+}
+}
+},
+"871543": {
+"content_id": "871543",
+"reference_id": 186618,
+"index_reference": "燔祭",
+"localizations": {
+"eng": {
+"content_id": 341218,
+"language": "eng",
+"title": "burnt offering"
+},
+"fra": {
+"content_id": 871541,
+"language": "fra",
+"title": "holocauste"
+},
+"por": {
+"content_id": 871542,
+"language": "por",
+"title": "oferta queimada"
+}
+}
+},
+"871066": {
+"content_id": "871066",
+"reference_id": 186619,
+"index_reference": "祝福",
+"localizations": {
+"eng": {
+"content_id": 341219,
+"language": "eng",
+"title": "bless"
+},
+"fra": {
+"content_id": 871064,
+"language": "fra",
+"title": "bénir"
+},
+"por": {
+"content_id": 871065,
+"language": "por",
+"title": "abençoar"
+}
+}
+},
+"871237": {
+"content_id": "871237",
+"reference_id": 186620,
+"index_reference": "希律党人",
+"localizations": {
+"eng": {
+"content_id": 341220,
+"language": "eng",
+"title": "Herodian"
+},
+"fra": {
+"content_id": 871235,
+"language": "fra",
+"title": "Hérodiens"
+},
+"por": {
+"content_id": 871236,
+"language": "por",
+"title": "herodianos"
+}
+}
+},
+"871304": {
+"content_id": "871304",
+"reference_id": 186622,
+"index_reference": "痲疯病",
+"localizations": {
+"eng": {
+"content_id": 341223,
+"language": "eng",
+"title": "leprosy"
+},
+"fra": {
+"content_id": 871302,
+"language": "fra",
+"title": "lèpre"
+},
+"por": {
+"content_id": 871303,
+"language": "por",
+"title": "lepra"
+}
+}
+},
+"871142": {
+"content_id": "871142",
+"reference_id": 186623,
+"index_reference": "沙漠",
+"localizations": {
+"eng": {
+"content_id": 341224,
+"language": "eng",
+"title": "desert"
+},
+"fra": {
+"content_id": 871140,
+"language": "fra",
+"title": "désert"
+},
+"por": {
+"content_id": 871141,
+"language": "por",
+"title": "deserto"
+}
+}
+},
+"871595": {
+"content_id": "871595",
+"reference_id": 186624,
+"index_reference": "百夫长",
+"localizations": {
+"eng": {
+"content_id": 341225,
+"language": "eng",
+"title": "centurion"
+},
+"fra": {
+"content_id": 871593,
+"language": "fra",
+"title": "centurion"
+},
+"por": {
+"content_id": 871594,
+"language": "por",
+"title": "centurião"
+}
+}
+},
+"871138": {
+"content_id": "871138",
+"reference_id": 186626,
+"index_reference": "得拿利",
+"localizations": {
+"eng": {
+"content_id": 341228,
+"language": "eng",
+"title": "denarius"
+},
+"fra": {
+"content_id": 871136,
+"language": "fra",
+"title": "denier"
+},
+"por": {
+"content_id": 871137,
+"language": "por",
+"title": "denário"
+}
+}
+},
+"871300": {
+"content_id": "871300",
+"reference_id": 186628,
+"index_reference": "群",
+"localizations": {
+"eng": {
+"content_id": 341230,
+"language": "eng",
+"title": "legion"
+},
+"fra": {
+"content_id": 871298,
+"language": "fra",
+"title": "légion"
+},
+"por": {
+"content_id": 871299,
+"language": "por",
+"title": "legião"
+}
+}
+},
+"871420": {
+"content_id": "871420",
+"reference_id": 186629,
+"index_reference": "加利利海",
+"localizations": {
+"eng": {
+"content_id": 341231,
+"language": "eng",
+"title": "Sea of Galilee"
+},
+"fra": {
+"content_id": 871418,
+"language": "fra",
+"title": "mer de Galilée"
+},
+"por": {
+"content_id": 871419,
+"language": "por",
+"title": "Mar da Galileia"
+},
+"spa": {
+"content_id": 840369,
+"language": "spa",
+"title": "Mar de Galilea"
+}
+}
+},
+"871146": {
+"content_id": "871146",
+"reference_id": 186630,
+"index_reference": "门徒",
+"localizations": {
+"eng": {
+"content_id": 341232,
+"language": "eng",
+"title": "disciple"
+},
+"fra": {
+"content_id": 871144,
+"language": "fra",
+"title": "disciple"
+},
+"por": {
+"content_id": 871145,
+"language": "por",
+"title": "discípulo"
+},
+"spa": {
+"content_id": 840362,
+"language": "spa",
+"title": "discípulo"
+}
+}
+},
+"871070": {
+"content_id": "871070",
+"reference_id": 186631,
+"index_reference": "船",
+"localizations": {
+"eng": {
+"content_id": 341233,
+"language": "eng",
+"title": "boat"
+},
+"fra": {
+"content_id": 871068,
+"language": "fra",
+"title": "barque"
+},
+"por": {
+"content_id": 871069,
+"language": "por",
+"title": "barco"
+},
+"spa": {
+"content_id": 840360,
+"language": "spa",
+"title": "barco"
+}
+}
+},
+"871208": {
+"content_id": "871208",
+"reference_id": 186632,
+"index_reference": "格拉森人",
+"localizations": {
+"eng": {
+"content_id": 341234,
+"language": "eng",
+"title": "Gerasenes"
+},
+"fra": {
+"content_id": 871206,
+"language": "fra",
+"title": "Gérasa"
+},
+"por": {
+"content_id": 871207,
+"language": "por",
+"title": "Gerasenos"
+}
+}
+},
+"871225": {
+"content_id": "871225",
+"reference_id": 186634,
+"index_reference": "天堂、天、天上",
+"localizations": {
+"eng": {
+"content_id": 341236,
+"language": "eng",
+"title": "heaven"
+},
+"fra": {
+"content_id": 871223,
+"language": "fra",
+"title": "ciel ou cieux"
+},
+"por": {
+"content_id": 871224,
+"language": "por",
+"title": "céu"
+}
+}
+},
+"871424": {
+"content_id": "871424",
+"reference_id": 186636,
+"index_reference": "种子",
+"localizations": {
+"eng": {
+"content_id": 341238,
+"language": "eng",
+"title": "seed"
+},
+"fra": {
+"content_id": 871422,
+"language": "fra",
+"title": "semence"
+},
+"por": {
+"content_id": 871423,
+"language": "por",
+"title": "semente"
+}
+}
+},
+"871342": {
+"content_id": "871342",
+"reference_id": 186637,
+"index_reference": "油灯",
+"localizations": {
+"eng": {
+"content_id": 341239,
+"language": "eng",
+"title": "oil lamp"
+},
+"fra": {
+"content_id": 871340,
+"language": "fra",
+"title": "lampe ou lampe à huile"
+},
+"por": {
+"content_id": 871341,
+"language": "por",
+"title": "lâmpada de óleo"
+}
+}
+},
+"871608": {
+"content_id": "871608",
+"reference_id": 186638,
+"index_reference": "世代、后代",
+"localizations": {
+"eng": {
+"content_id": 341240,
+"language": "eng",
+"title": "generations"
+},
+"fra": {
+"content_id": 871606,
+"language": "fra",
+"title": "générations"
+},
+"por": {
+"content_id": 871607,
+"language": "por",
+"title": "gerações"
+}
+}
+},
+"871402": {
+"content_id": "871402",
+"reference_id": 186639,
+"index_reference": "撒都该人",
+"localizations": {
+"eng": {
+"content_id": 341242,
+"language": "eng",
+"title": "Sadducee"
+},
+"fra": {
+"content_id": 871400,
+"language": "fra",
+"title": "sadducéen"
+},
+"por": {
+"content_id": 871401,
+"language": "por",
+"title": "Saduceus"
+}
+}
+},
+"871680": {
+"content_id": "871680",
+"reference_id": 186640,
+"index_reference": "怜悯、怜恤",
+"localizations": {
+"eng": {
+"content_id": 341243,
+"language": "eng",
+"title": "compassion"
+},
+"fra": {
+"content_id": 871678,
+"language": "fra",
+"title": "compassion"
+},
+"por": {
+"content_id": 871679,
+"language": "por",
+"title": "compaixão"
+}
+}
+},
+"871288": {
+"content_id": "871288",
+"reference_id": 186641,
+"index_reference": "犹大（旧约）犹太（新约）",
+"localizations": {
+"eng": {
+"content_id": 341245,
+"language": "eng",
+"title": "Judea"
+},
+"fra": {
+"content_id": 871286,
+"language": "fra",
+"title": "Judée"
+},
+"por": {
+"content_id": 871287,
+"language": "por",
+"title": "Judeia"
+}
+}
+},
+"871245": {
+"content_id": "871245",
+"reference_id": 186642,
+"index_reference": "圣灵",
+"localizations": {
+"eng": {
+"content_id": 341246,
+"language": "eng",
+"title": "Holy Spirit"
+},
+"fra": {
+"content_id": 871243,
+"language": "fra",
+"title": "Saint-Esprit"
+},
+"por": {
+"content_id": 871244,
+"language": "por",
+"title": "Espírito Santo"
+}
+}
+},
+"871700": {
+"content_id": "871700",
+"reference_id": 186787,
+"index_reference": "邪恶",
+"localizations": {
+"eng": {
+"content_id": 341060,
+"language": "eng",
+"title": "wickedness"
+},
+"fra": {
+"content_id": 871698,
+"language": "fra",
+"title": "méchanceté ou impiété"
+},
+"por": {
+"content_id": 871699,
+"language": "por",
+"title": "perversão"
+}
+}
+},
+"871635": {
+"content_id": "871635",
+"reference_id": 186793,
+"index_reference": "会幕",
+"localizations": {
+"eng": {
+"content_id": 341107,
+"language": "eng",
+"title": "tabernacle"
+},
+"fra": {
+"content_id": 871633,
+"language": "fra",
+"title": "tabernacle"
+},
+"por": {
+"content_id": 871634,
+"language": "por",
+"title": "tabernáculo"
+}
+}
+},
+"871720": {
+"content_id": "871720",
+"reference_id": 186796,
+"index_reference": "王",
+"localizations": {
+"eng": {
+"content_id": 341119,
+"language": "eng",
+"title": "king"
+},
+"fra": {
+"content_id": 871718,
+"language": "fra",
+"title": "roi"
+},
+"por": {
+"content_id": 871719,
+"language": "por",
+"title": "rei"
+}
+}
+},
+"871688": {
+"content_id": "871688",
+"reference_id": 186802,
+"index_reference": "希腊人",
+"localizations": {
+"eng": {
+"content_id": 341159,
+"language": "eng",
+"title": "greeks"
+},
+"fra": {
+"content_id": 871686,
+"language": "fra",
+"title": "Grecs"
+},
+"por": {
+"content_id": 871687,
+"language": "por",
+"title": "gregos"
+}
+}
+},
+"871693": {
+"content_id": "871693",
+"reference_id": 186804,
+"index_reference": "方言",
+"localizations": {
+"eng": {
+"content_id": 341173,
+"language": "eng",
+"title": "tongues"
+},
+"fra": {
+"content_id": 871691,
+"language": "fra",
+"title": "langue(s)"
+},
+"por": {
+"content_id": 871692,
+"language": "por",
+"title": "línguas"
+}
+}
+},
+"871648": {
+"content_id": "871648",
+"reference_id": 186808,
+"index_reference": "神、上帝",
+"localizations": {
+"eng": {
+"content_id": 341195,
+"language": "eng",
+"title": "God"
+},
+"fra": {
+"content_id": 871646,
+"language": "fra",
+"title": "Dieu"
+},
+"por": {
+"content_id": 871647,
+"language": "por",
+"title": "Deus"
+}
+}
+},
+"871030": {
+"content_id": "871030",
+"reference_id": 222594,
+"index_reference": "膏抹",
+"localizations": {
+"eng": {
+"content_id": 871026,
+"language": "eng",
+"title": "anoint"
+},
+"fra": {
+"content_id": 871028,
+"language": "fra",
+"title": "oindre"
+},
+"por": {
+"content_id": 871029,
+"language": "por",
+"title": "ungir"
+}
+}
+},
+"871510": {
+"content_id": "871510",
+"reference_id": 222597,
+"index_reference": "守望台",
+"localizations": {
+"eng": {
+"content_id": 871506,
+"language": "eng",
+"title": "watchtower"
+},
+"fra": {
+"content_id": 871508,
+"language": "fra",
+"title": "tour"
+},
+"por": {
+"content_id": 871509,
+"language": "por",
+"title": "torre de vigia"
+}
+}
+},
+"871601": {
+"content_id": "871601",
+"reference_id": 222598,
+"index_reference": "抹",
+"localizations": {
+"eng": {
+"content_id": 871597,
+"language": "eng",
+"title": "anoint"
+},
+"fra": {
+"content_id": 871599,
+"language": "fra",
+"title": "embaumer"
+},
+"por": {
+"content_id": 871600,
+"language": "por",
+"title": "ungir"
+}
+}
+}
+}
+}

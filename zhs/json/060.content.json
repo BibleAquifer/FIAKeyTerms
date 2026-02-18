@@ -1,0 +1,80 @@
+[
+  {
+    "content_id": "871142",
+    "reference_id": 186623,
+    "version": "1.0.1",
+    "title": "沙漠",
+    "media_type": "Text",
+    "index_reference": "沙漠",
+    "language": "zhs",
+    "review_level": "Professional",
+    "content": "<p><strong>沙漠</strong>或<span data-bnType=\"resourceReference\" data-resourceId=\"186564\" data-resourceType=\"FIAKeyTerms\">旷野</span>是孤独、贫瘠的无水之地。沙漠中几乎没有树木或灌木生长。地面干燥，多石头，野生动物四处游走。人们不住在沙漠中。</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44013013",
+          "start_ref_usfm": "ACT 13:13",
+          "end_ref": "44013022",
+          "end_ref_usfm": "ACT 13:22"
+        },
+        {
+          "start_ref": "42007018",
+          "start_ref_usfm": "LUK 7:18",
+          "end_ref": "42007035",
+          "end_ref_usfm": "LUK 7:35"
+        },
+        {
+          "start_ref": "42003001",
+          "start_ref_usfm": "LUK 3:1",
+          "end_ref": "42003014",
+          "end_ref_usfm": "LUK 3:14"
+        },
+        {
+          "start_ref": "40024015",
+          "start_ref_usfm": "MAT 24:15",
+          "end_ref": "40024028",
+          "end_ref_usfm": "MAT 24:28"
+        },
+        {
+          "start_ref": "41001001",
+          "start_ref_usfm": "MRK 1:1",
+          "end_ref": "41001013",
+          "end_ref_usfm": "MRK 1:13"
+        },
+        {
+          "start_ref": "41008001",
+          "start_ref_usfm": "MRK 8:1",
+          "end_ref": "41008010",
+          "end_ref_usfm": "MRK 8:10"
+        },
+        {
+          "start_ref": "40003001",
+          "start_ref_usfm": "MAT 3:1",
+          "end_ref": "40003017",
+          "end_ref_usfm": "MAT 3:17"
+        },
+        {
+          "start_ref": "40012038",
+          "start_ref_usfm": "MAT 12:38",
+          "end_ref": "40012045",
+          "end_ref_usfm": "MAT 12:45"
+        },
+        {
+          "start_ref": "44007035",
+          "start_ref_usfm": "ACT 7:35",
+          "end_ref": "44007043",
+          "end_ref_usfm": "ACT 7:43"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 186564,
+          "content_id": 871514,
+          "resource_code": "FIAKeyTerms",
+          "label": "旷野",
+          "language": "zhs"
+        }
+      ]
+    }
+  }
+]
