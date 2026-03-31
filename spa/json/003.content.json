@@ -933,6 +933,15 @@
           "label": "buenas nuevas",
           "language": "spa"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Disciple",
+          "type": "keyterm",
+          "preferred_label": "ser discípulo",
+          "confidence": 0.653,
+          "match_method": "scored"
+        }
       ]
     }
   },

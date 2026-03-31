@@ -93,6 +93,15 @@
           "label": "God",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Jerusalem",
+          "confidence": 0.6615,
+          "match_method": "scored"
+        }
       ]
     }
   },

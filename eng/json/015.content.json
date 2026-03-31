@@ -396,7 +396,16 @@
           "end_ref_usfm": "1SA 14:46"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Oath",
+          "type": "keyterm",
+          "preferred_label": "Oath",
+          "confidence": 0.6113,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
@@ -1239,6 +1248,15 @@
           "label": "purify",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Offering",
+          "type": "keyterm",
+          "preferred_label": "Offering",
+          "confidence": 0.7069,
+          "match_method": "scored"
+        }
       ]
     }
   },
@@ -1784,6 +1802,15 @@
           "resource_code": "FIAKeyTerms",
           "label": "Israel",
           "language": "eng"
+        }
+      ],
+      "acai": [
+        {
+          "id": "realia:Lamp",
+          "type": "realia",
+          "preferred_label": "Lamp",
+          "confidence": 0.6232,
+          "match_method": "scored"
         }
       ]
     }

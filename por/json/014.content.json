@@ -376,6 +376,22 @@
           "label": "sacrifício",
           "language": "por"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Offering",
+          "type": "keyterm",
+          "preferred_label": "offering",
+          "confidence": 0.5134,
+          "match_method": "scored"
+        },
+        {
+          "id": "place:Ophrah.2",
+          "type": "place",
+          "preferred_label": "Ofra",
+          "confidence": 0.5112,
+          "match_method": "scored"
+        }
       ]
     }
   },
@@ -729,6 +745,3669 @@
           "resource_code": "FIAKeyTerms",
           "label": "sacrifício",
           "language": "por"
+        }
+      ],
+      "acai": [
+        {
+          "id": "place:Nile",
+          "type": "place",
+          "preferred_label": "Rio Nilo",
+          "confidence": 0.9435,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ichabod",
+          "type": "person",
+          "preferred_label": "Icabô",
+          "confidence": 0.9384,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Marmoutier",
+          "type": "place",
+          "preferred_label": "Marmoutier",
+          "confidence": 0.9367,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:PerazimMount",
+          "type": "place",
+          "preferred_label": "Monte Perazim",
+          "confidence": 0.9356,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Tiglath-pileser",
+          "type": "person",
+          "preferred_label": "Tiglate-Pileser",
+          "confidence": 0.9331,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Pathrusim",
+          "type": "group",
+          "preferred_label": "Pathrusim",
+          "confidence": 0.9309,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mephibosheth",
+          "type": "person",
+          "preferred_label": "Mefibosete",
+          "confidence": 0.9293,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mephibosheth.2",
+          "type": "person",
+          "preferred_label": "Mefibosete",
+          "confidence": 0.9293,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Beer-elim",
+          "type": "place",
+          "preferred_label": "Beer-Elim",
+          "confidence": 0.9264,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ittai",
+          "type": "person",
+          "preferred_label": "Itai",
+          "confidence": 0.9257,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ittai.2",
+          "type": "person",
+          "preferred_label": "Itai",
+          "confidence": 0.9257,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:EgyptianSlaveDrivers",
+          "type": "group",
+          "preferred_label": "Egyptian Slave Drivers",
+          "confidence": 0.9241,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ammon",
+          "type": "place",
+          "preferred_label": "Amom",
+          "confidence": 0.9227,
+          "match_method": "embedding"
+        },
+        {
+          "id": "fauna:MoleRat",
+          "type": "fauna",
+          "preferred_label": "Mole Rat",
+          "confidence": 0.918,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Sukkiim",
+          "type": "group",
+          "preferred_label": "Sukkiim",
+          "confidence": 0.917,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Iscah",
+          "type": "person",
+          "preferred_label": "Iscá",
+          "confidence": 0.9163,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:HusbandOfShimeath",
+          "type": "person",
+          "preferred_label": "Husband of Shimeath",
+          "confidence": 0.9159,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Mahanaim",
+          "type": "place",
+          "preferred_label": "Maanaim",
+          "confidence": 0.9136,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rab-saris",
+          "type": "person",
+          "preferred_label": "Rabe-Saris",
+          "confidence": 0.9128,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rab-saris.2",
+          "type": "person",
+          "preferred_label": "Rabe-Saris",
+          "confidence": 0.9128,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:HalfBrothersOfJephthah",
+          "type": "group",
+          "preferred_label": "Half-Brothers of Jephthah",
+          "confidence": 0.9123,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Beth-emek",
+          "type": "place",
+          "preferred_label": "Bete-Emeque",
+          "confidence": 0.9122,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Riphath",
+          "type": "person",
+          "preferred_label": "Rifate",
+          "confidence": 0.911,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Iezer",
+          "type": "group",
+          "preferred_label": "Iezerites",
+          "confidence": 0.9108,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ashteroth-karnaim",
+          "type": "place",
+          "preferred_label": "Asterote-Carnaim",
+          "confidence": 0.9094,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Moses",
+          "type": "person",
+          "preferred_label": "Moisés",
+          "confidence": 0.9091,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Yiron",
+          "type": "place",
+          "preferred_label": "Irom",
+          "confidence": 0.9071,
+          "match_method": "embedding"
+        },
+        {
+          "id": "flora:Chickpea",
+          "type": "flora",
+          "preferred_label": "Chickpea",
+          "confidence": 0.9065,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Moresheth-gath",
+          "type": "place",
+          "preferred_label": "Moresete-Gate",
+          "confidence": 0.9057,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:GeruthChimham",
+          "type": "place",
+          "preferred_label": "Gerute-Quimã",
+          "confidence": 0.9032,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mibzar",
+          "type": "person",
+          "preferred_label": "Mibzar",
+          "confidence": 0.9027,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ibleam",
+          "type": "place",
+          "preferred_label": "Ibleão",
+          "confidence": 0.9024,
+          "match_method": "embedding"
+        },
+        {
+          "id": "fauna:GiantCroccodile",
+          "type": "fauna",
+          "preferred_label": "Leviathan",
+          "confidence": 0.9021,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:En-haddah",
+          "type": "place",
+          "preferred_label": "En-Hada",
+          "confidence": 0.9018,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Ithrites",
+          "type": "group",
+          "preferred_label": "Ithrites",
+          "confidence": 0.9012,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Bichri",
+          "type": "person",
+          "preferred_label": "Bicri",
+          "confidence": 0.9012,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Baal-shalishah",
+          "type": "place",
+          "preferred_label": "Baal-Salisa",
+          "confidence": 0.9008,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:UnjustDeed",
+          "type": "keyterm",
+          "preferred_label": "injustiça",
+          "confidence": 0.9004,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Persia",
+          "type": "place",
+          "preferred_label": "Pérsia",
+          "confidence": 0.9003,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Bath-rabbim",
+          "type": "place",
+          "preferred_label": "Bate-Rabim",
+          "confidence": 0.9,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ammishaddai",
+          "type": "person",
+          "preferred_label": "Amisadai",
+          "confidence": 0.8977,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Hazar-gaddah",
+          "type": "place",
+          "preferred_label": "Hazar-Gada",
+          "confidence": 0.8971,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:SiddimValley",
+          "type": "place",
+          "preferred_label": "Vale de Sidim",
+          "confidence": 0.8969,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ikkesh",
+          "type": "person",
+          "preferred_label": "Iques",
+          "confidence": 0.8964,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Baal-hazor",
+          "type": "place",
+          "preferred_label": "Baal-Hazor",
+          "confidence": 0.8961,
+          "match_method": "embedding"
+        },
+        {
+          "id": "realia:Pit",
+          "type": "realia",
+          "preferred_label": "Pit",
+          "confidence": 0.8954,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:BrookOfTheArabah",
+          "type": "place",
+          "preferred_label": "Ribeiro de Arabá",
+          "confidence": 0.8938,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Akrabbim",
+          "type": "place",
+          "preferred_label": "Acrabim",
+          "confidence": 0.8934,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hushim",
+          "type": "person",
+          "preferred_label": "Husim",
+          "confidence": 0.8925,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hushim.2",
+          "type": "person",
+          "preferred_label": "Husim",
+          "confidence": 0.8925,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hushim.3",
+          "type": "person",
+          "preferred_label": "Husim",
+          "confidence": 0.8925,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Nazianzus",
+          "type": "place",
+          "preferred_label": "Nazianzus",
+          "confidence": 0.8922,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Haste",
+          "type": "keyterm",
+          "preferred_label": "prontidão",
+          "confidence": 0.8919,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:IphtahelValley",
+          "type": "place",
+          "preferred_label": "Vale de Ifta-El",
+          "confidence": 0.8907,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Aphik",
+          "type": "place",
+          "preferred_label": "Aphik",
+          "confidence": 0.8906,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rizia",
+          "type": "person",
+          "preferred_label": "Rizia",
+          "confidence": 0.8904,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:ShepherMount",
+          "type": "place",
+          "preferred_label": "Monte Sefer",
+          "confidence": 0.8904,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:PleasingOdor",
+          "type": "keyterm",
+          "preferred_label": "Pleasing Odor",
+          "confidence": 0.8901,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shaalim",
+          "type": "place",
+          "preferred_label": "Saalim",
+          "confidence": 0.8898,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Beth-rapha",
+          "type": "person",
+          "preferred_label": "Bete-Rafa",
+          "confidence": 0.8897,
+          "match_method": "embedding"
+        },
+        {
+          "id": "realia:Manger",
+          "type": "realia",
+          "preferred_label": "Manger",
+          "confidence": 0.8895,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Kiriath-jearim",
+          "type": "place",
+          "preferred_label": "Quiriate-Jearim",
+          "confidence": 0.8886,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Beri",
+          "type": "person",
+          "preferred_label": "Beri",
+          "confidence": 0.8884,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Girgashites",
+          "type": "group",
+          "preferred_label": "Girgashites",
+          "confidence": 0.8883,
+          "match_method": "embedding"
+        },
+        {
+          "id": "realia:Mile",
+          "type": "realia",
+          "preferred_label": "Mile",
+          "confidence": 0.888,
+          "match_method": "embedding"
+        },
+        {
+          "id": "fauna:Kid",
+          "type": "fauna",
+          "preferred_label": "Kid",
+          "confidence": 0.8879,
+          "match_method": "embedding"
+        },
+        {
+          "id": "realia:Razor",
+          "type": "realia",
+          "preferred_label": "Razor",
+          "confidence": 0.8875,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Manoah",
+          "type": "person",
+          "preferred_label": "Manoá",
+          "confidence": 0.8874,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jorim",
+          "type": "person",
+          "preferred_label": "Jorim",
+          "confidence": 0.8873,
+          "match_method": "embedding"
+        },
+        {
+          "id": "flora:Ivy",
+          "type": "flora",
+          "preferred_label": "Ivy",
+          "confidence": 0.8866,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rabshakeh",
+          "type": "person",
+          "preferred_label": "Rabsaqué",
+          "confidence": 0.8862,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Moresheth",
+          "type": "place",
+          "preferred_label": "Moresete",
+          "confidence": 0.8862,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Beth-gamul",
+          "type": "place",
+          "preferred_label": "Bete-Gamul",
+          "confidence": 0.8861,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Baal-perazim",
+          "type": "place",
+          "preferred_label": "Baal-Perazim",
+          "confidence": 0.885,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mahli",
+          "type": "person",
+          "preferred_label": "Mali",
+          "confidence": 0.8846,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mahli.2",
+          "type": "person",
+          "preferred_label": "Mali",
+          "confidence": 0.8846,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Rhodes",
+          "type": "place",
+          "preferred_label": "Rodes",
+          "confidence": 0.8844,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Sibraim",
+          "type": "place",
+          "preferred_label": "Sibraim",
+          "confidence": 0.884,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:FatherInLawOfSamson",
+          "type": "person",
+          "preferred_label": "Father-in-Law of Samson",
+          "confidence": 0.8839,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Japhlet",
+          "type": "group",
+          "preferred_label": "Japhletites",
+          "confidence": 0.8836,
+          "match_method": "embedding"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "SENHOR",
+          "confidence": 0.8835,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:HusbandOfMary",
+          "type": "person",
+          "preferred_label": "Husband of Mary",
+          "confidence": 0.8834,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:HusbandOfMary.2",
+          "type": "person",
+          "preferred_label": "Husband of Mary",
+          "confidence": 0.8834,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Machaerus",
+          "type": "place",
+          "preferred_label": "Machaerus",
+          "confidence": 0.8826,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Eglath-shelishiyah.1",
+          "type": "place",
+          "preferred_label": "Eglath-shelishiya",
+          "confidence": 0.8825,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pelatiah",
+          "type": "person",
+          "preferred_label": "Pelatias",
+          "confidence": 0.8821,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pelatiah.2",
+          "type": "person",
+          "preferred_label": "Pelatias",
+          "confidence": 0.8821,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pelatiah.3",
+          "type": "person",
+          "preferred_label": "Pelatias",
+          "confidence": 0.8821,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pelatiah.4",
+          "type": "person",
+          "preferred_label": "Pelatias",
+          "confidence": 0.8821,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Minni",
+          "type": "place",
+          "preferred_label": "Mini",
+          "confidence": 0.8813,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Mysia",
+          "type": "place",
+          "preferred_label": "Mísia",
+          "confidence": 0.8812,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ishbi-benob",
+          "type": "person",
+          "preferred_label": "Isbi-Benobe",
+          "confidence": 0.8797,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hodesh",
+          "type": "person",
+          "preferred_label": "Hodes",
+          "confidence": 0.8795,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Neriah",
+          "type": "person",
+          "preferred_label": "Nerias",
+          "confidence": 0.8794,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hoshama",
+          "type": "person",
+          "preferred_label": "Hosama",
+          "confidence": 0.8793,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:HusbandOfZeruiah",
+          "type": "person",
+          "preferred_label": "Husband of Zeruiah",
+          "confidence": 0.8792,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:InspectionGate",
+          "type": "place",
+          "preferred_label": "Muster Gate",
+          "confidence": 0.8792,
+          "match_method": "embedding"
+        },
+        {
+          "id": "realia:Two-drachmaPiece",
+          "type": "realia",
+          "preferred_label": "Two-Drachma Piece",
+          "confidence": 0.8792,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Levi",
+          "type": "group",
+          "preferred_label": "Levi",
+          "confidence": 0.8789,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Levi",
+          "type": "person",
+          "preferred_label": "Levi",
+          "confidence": 0.8789,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Levi.2",
+          "type": "person",
+          "preferred_label": "Levi",
+          "confidence": 0.8789,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Levi.3",
+          "type": "person",
+          "preferred_label": "Levi",
+          "confidence": 0.8789,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Menahem",
+          "type": "person",
+          "preferred_label": "Menaém",
+          "confidence": 0.8789,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Seorim",
+          "type": "person",
+          "preferred_label": "Seorim",
+          "confidence": 0.8788,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Miniamin.2",
+          "type": "person",
+          "preferred_label": "Miniamim",
+          "confidence": 0.8785,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Miniamin.3",
+          "type": "person",
+          "preferred_label": "Miniamim",
+          "confidence": 0.8785,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:RedSea.2",
+          "type": "place",
+          "preferred_label": "Gulf of Aqaba",
+          "confidence": 0.8778,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Rhegium",
+          "type": "place",
+          "preferred_label": "Régio",
+          "confidence": 0.8778,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abimael",
+          "type": "person",
+          "preferred_label": "Abimael",
+          "confidence": 0.8769,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Evil-merodach",
+          "type": "person",
+          "preferred_label": "Evil-Merodaque",
+          "confidence": 0.8768,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Atroth-beth-joab",
+          "type": "place",
+          "preferred_label": "Atrote-Bete-Joabe",
+          "confidence": 0.8766,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nergal-shar-ezer",
+          "type": "person",
+          "preferred_label": "Nergal-Sarezer",
+          "confidence": 0.8756,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nergal-shar-ezer.2",
+          "type": "person",
+          "preferred_label": "Nergal-Sarezer",
+          "confidence": 0.8756,
+          "match_method": "embedding"
+        },
+        {
+          "id": "realia:Chisel",
+          "type": "realia",
+          "preferred_label": "Chisel",
+          "confidence": 0.8735,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Shuphamite",
+          "type": "group",
+          "preferred_label": "Shuphamites",
+          "confidence": 0.8731,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Vercellae",
+          "type": "place",
+          "preferred_label": "Vercellae",
+          "confidence": 0.8731,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Goiim",
+          "type": "group",
+          "preferred_label": "Goiim",
+          "confidence": 0.873,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Goiim.1",
+          "type": "place",
+          "preferred_label": "Goiim",
+          "confidence": 0.873,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Goiim.2",
+          "type": "place",
+          "preferred_label": "Goiim",
+          "confidence": 0.873,
+          "match_method": "embedding"
+        },
+        {
+          "id": "realia:Deck",
+          "type": "realia",
+          "preferred_label": "Deck",
+          "confidence": 0.873,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:En-hakkore",
+          "type": "place",
+          "preferred_label": "En-Hacoré",
+          "confidence": 0.8729,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:HusbandOfMatred",
+          "type": "person",
+          "preferred_label": "Husband of Matred",
+          "confidence": 0.8723,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mishma",
+          "type": "person",
+          "preferred_label": "Misma",
+          "confidence": 0.8721,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mishma.2",
+          "type": "person",
+          "preferred_label": "Misma",
+          "confidence": 0.8721,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Chimham",
+          "type": "person",
+          "preferred_label": "Quimã",
+          "confidence": 0.8719,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Lud.2",
+          "type": "place",
+          "preferred_label": "Ludim",
+          "confidence": 0.8715,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ivvah",
+          "type": "place",
+          "preferred_label": "Iva",
+          "confidence": 0.8709,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Kiriathaim",
+          "type": "place",
+          "preferred_label": "Quiriataim",
+          "confidence": 0.8708,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Kiriathaim.2",
+          "type": "place",
+          "preferred_label": "Quiriataim",
+          "confidence": 0.8708,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Gaddiel",
+          "type": "person",
+          "preferred_label": "Gadiel",
+          "confidence": 0.8707,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Keren-happuch",
+          "type": "person",
+          "preferred_label": "Quéren-Hapuque",
+          "confidence": 0.8701,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Elonbeth-hanan",
+          "type": "place",
+          "preferred_label": "Elom e Bete-Hanã",
+          "confidence": 0.8699,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Bethabara",
+          "type": "place",
+          "preferred_label": "Bethany Beyond the Jordan",
+          "confidence": 0.8697,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Havvoth-jair",
+          "type": "place",
+          "preferred_label": "Havote-Jair",
+          "confidence": 0.8695,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Parmenas",
+          "type": "person",
+          "preferred_label": "Pármenas",
+          "confidence": 0.8688,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Misgab.1",
+          "type": "place",
+          "preferred_label": "Misgab",
+          "confidence": 0.8688,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Hazar-susah",
+          "type": "place",
+          "preferred_label": "Hazar-Susa",
+          "confidence": 0.8682,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Mushi",
+          "type": "group",
+          "preferred_label": "Mushites",
+          "confidence": 0.868,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Nephilim",
+          "type": "group",
+          "preferred_label": "Nephilim",
+          "confidence": 0.8673,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ammah",
+          "type": "place",
+          "preferred_label": "Amá",
+          "confidence": 0.8668,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Bahurim",
+          "type": "group",
+          "preferred_label": "Baurim",
+          "confidence": 0.8667,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Bahurim",
+          "type": "place",
+          "preferred_label": "Baurim",
+          "confidence": 0.8667,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Nimrod",
+          "type": "place",
+          "preferred_label": "Nimrod",
+          "confidence": 0.8667,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ibneiah",
+          "type": "person",
+          "preferred_label": "Ibnéias",
+          "confidence": 0.8663,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shikkeron",
+          "type": "place",
+          "preferred_label": "Shikkeron",
+          "confidence": 0.866,
+          "match_method": "embedding"
+        },
+        {
+          "id": "realia:Breastplate",
+          "type": "realia",
+          "preferred_label": "Breastplate",
+          "confidence": 0.866,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Helkath-hazzurim",
+          "type": "place",
+          "preferred_label": "Helcate-Hazurim",
+          "confidence": 0.8659,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ribai",
+          "type": "person",
+          "preferred_label": "Ribai",
+          "confidence": 0.8658,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rephael",
+          "type": "person",
+          "preferred_label": "Rafael",
+          "confidence": 0.8655,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Memphis",
+          "type": "place",
+          "preferred_label": "Mênfis",
+          "confidence": 0.8654,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Beth-azmaveth",
+          "type": "place",
+          "preferred_label": "Beth-azmaveth",
+          "confidence": 0.8653,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Huppah",
+          "type": "person",
+          "preferred_label": "Hupá",
+          "confidence": 0.8652,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Igal",
+          "type": "person",
+          "preferred_label": "Igal",
+          "confidence": 0.8651,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Igal.2",
+          "type": "person",
+          "preferred_label": "Igal",
+          "confidence": 0.8651,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Igal.3",
+          "type": "person",
+          "preferred_label": "Igal",
+          "confidence": 0.8651,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rohgah",
+          "type": "person",
+          "preferred_label": "Rohgah",
+          "confidence": 0.8651,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Hazar-shual",
+          "type": "place",
+          "preferred_label": "Hazar-Sual",
+          "confidence": 0.865,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ziddim",
+          "type": "place",
+          "preferred_label": "Zidim",
+          "confidence": 0.8649,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Marsena",
+          "type": "person",
+          "preferred_label": "Marsena",
+          "confidence": 0.8647,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Rabbah.2",
+          "type": "place",
+          "preferred_label": "Rabbah",
+          "confidence": 0.864,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ravenna",
+          "type": "place",
+          "preferred_label": "Ravenna",
+          "confidence": 0.8638,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Libni",
+          "type": "group",
+          "preferred_label": "Libnites",
+          "confidence": 0.8636,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Rephidim",
+          "type": "place",
+          "preferred_label": "Refidim",
+          "confidence": 0.8634,
+          "match_method": "embedding"
+        },
+        {
+          "id": "realia:Mast",
+          "type": "realia",
+          "preferred_label": "Mast",
+          "confidence": 0.8632,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:ShittimValley",
+          "type": "place",
+          "preferred_label": "Vale de Sitim",
+          "confidence": 0.8625,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hodaviah",
+          "type": "person",
+          "preferred_label": "Hodavias",
+          "confidence": 0.8623,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hodaviah.2",
+          "type": "person",
+          "preferred_label": "Hodavias",
+          "confidence": 0.8623,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hodaviah.3",
+          "type": "person",
+          "preferred_label": "Hodavias",
+          "confidence": 0.8623,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hodaviah.4",
+          "type": "person",
+          "preferred_label": "Hodavias",
+          "confidence": 0.8623,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Gurbaal",
+          "type": "place",
+          "preferred_label": "Gur-Baal",
+          "confidence": 0.8617,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mesha",
+          "type": "person",
+          "preferred_label": "Messa",
+          "confidence": 0.8613,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mesha.2",
+          "type": "person",
+          "preferred_label": "Messa",
+          "confidence": 0.8613,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Mesha",
+          "type": "place",
+          "preferred_label": "Messa",
+          "confidence": 0.8613,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Nazirite",
+          "type": "group",
+          "preferred_label": "Nazirites",
+          "confidence": 0.8608,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:DaughterOfJephthah",
+          "type": "person",
+          "preferred_label": "Daughter of Jephthah",
+          "confidence": 0.8606,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jaazaniah",
+          "type": "person",
+          "preferred_label": "Jazanias",
+          "confidence": 0.8606,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jaazaniah.2",
+          "type": "person",
+          "preferred_label": "Jazanias",
+          "confidence": 0.8606,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jaazaniah.3",
+          "type": "person",
+          "preferred_label": "Jazanias",
+          "confidence": 0.8606,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jezaniah",
+          "type": "person",
+          "preferred_label": "Jazanias",
+          "confidence": 0.8606,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Huri",
+          "type": "person",
+          "preferred_label": "Huri",
+          "confidence": 0.8605,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Abel-keramim",
+          "type": "place",
+          "preferred_label": "Abel-Queramim",
+          "confidence": 0.8603,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Micah.2",
+          "type": "person",
+          "preferred_label": "Miquéias",
+          "confidence": 0.8602,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Micah.3",
+          "type": "person",
+          "preferred_label": "Miquéias",
+          "confidence": 0.8602,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Micah.4",
+          "type": "person",
+          "preferred_label": "Miquéias",
+          "confidence": 0.8602,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Micah.5",
+          "type": "person",
+          "preferred_label": "Miquéias",
+          "confidence": 0.8602,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Micah.6",
+          "type": "person",
+          "preferred_label": "Miquéias",
+          "confidence": 0.8602,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mizzah",
+          "type": "person",
+          "preferred_label": "Mizá",
+          "confidence": 0.8595,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nicolaus",
+          "type": "person",
+          "preferred_label": "Nicolau",
+          "confidence": 0.8595,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nicanor",
+          "type": "person",
+          "preferred_label": "Nicanor",
+          "confidence": 0.8592,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ner.2",
+          "type": "person",
+          "preferred_label": "Ner",
+          "confidence": 0.8591,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mibhar",
+          "type": "person",
+          "preferred_label": "Mibar",
+          "confidence": 0.8588,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Immer",
+          "type": "person",
+          "preferred_label": "Imer",
+          "confidence": 0.8583,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Immer.2",
+          "type": "person",
+          "preferred_label": "Imer",
+          "confidence": 0.8583,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Immer.3",
+          "type": "person",
+          "preferred_label": "Imer",
+          "confidence": 0.8583,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Immer",
+          "type": "place",
+          "preferred_label": "Imer",
+          "confidence": 0.8583,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Shimron",
+          "type": "group",
+          "preferred_label": "Shimronites",
+          "confidence": 0.8582,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Asshurim",
+          "type": "group",
+          "preferred_label": "Asshurim",
+          "confidence": 0.8581,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shittim",
+          "type": "place",
+          "preferred_label": "Sitim",
+          "confidence": 0.8579,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:LovingWealth",
+          "type": "keyterm",
+          "preferred_label": "avarento",
+          "confidence": 0.8572,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jesimiel",
+          "type": "person",
+          "preferred_label": "Jesimiel",
+          "confidence": 0.8568,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Mahli",
+          "type": "group",
+          "preferred_label": "Mahlites",
+          "confidence": 0.8562,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ruth",
+          "type": "person",
+          "preferred_label": "Rute",
+          "confidence": 0.8562,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Beer-lahai-roi",
+          "type": "place",
+          "preferred_label": "Beer-Laai-Roi",
+          "confidence": 0.8561,
+          "match_method": "embedding"
+        },
+        {
+          "id": "fauna:Pig",
+          "type": "fauna",
+          "preferred_label": "Pig",
+          "confidence": 0.856,
+          "match_method": "embedding"
+        },
+        {
+          "id": "fauna:Gadfly",
+          "type": "fauna",
+          "preferred_label": "Gadfly",
+          "confidence": 0.8558,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Korah",
+          "type": "person",
+          "preferred_label": "Corá",
+          "confidence": 0.8556,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Korah.2",
+          "type": "person",
+          "preferred_label": "Corá",
+          "confidence": 0.8556,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Korah.3",
+          "type": "person",
+          "preferred_label": "Corá",
+          "confidence": 0.8556,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Korah.4",
+          "type": "person",
+          "preferred_label": "Corá",
+          "confidence": 0.8556,
+          "match_method": "embedding"
+        },
+        {
+          "id": "deity:Sikkuth",
+          "type": "deity",
+          "preferred_label": "Sicute",
+          "confidence": 0.8552,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Caphtorim",
+          "type": "group",
+          "preferred_label": "Caphtorim",
+          "confidence": 0.8552,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Iri",
+          "type": "person",
+          "preferred_label": "Iri",
+          "confidence": 0.855,
+          "match_method": "embedding"
+        },
+        {
+          "id": "fauna:Mosquito",
+          "type": "fauna",
+          "preferred_label": "Mosquito",
+          "confidence": 0.8549,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Zuzim",
+          "type": "group",
+          "preferred_label": "Zuzim",
+          "confidence": 0.8549,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shecaniah.2",
+          "type": "person",
+          "preferred_label": "Secanias",
+          "confidence": 0.8544,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shecaniah.3",
+          "type": "person",
+          "preferred_label": "Secanias",
+          "confidence": 0.8544,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shecaniah.4",
+          "type": "person",
+          "preferred_label": "Secanias",
+          "confidence": 0.8544,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shecaniah.5",
+          "type": "person",
+          "preferred_label": "Secanias",
+          "confidence": 0.8544,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shecaniah.6",
+          "type": "person",
+          "preferred_label": "Secanias",
+          "confidence": 0.8544,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shecaniah.7",
+          "type": "person",
+          "preferred_label": "Secanias",
+          "confidence": 0.8544,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shecaniah.8",
+          "type": "person",
+          "preferred_label": "Secanias",
+          "confidence": 0.8544,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Beth-gader",
+          "type": "place",
+          "preferred_label": "Bete-Gader",
+          "confidence": 0.8544,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shihor-libnath",
+          "type": "place",
+          "preferred_label": "Sior-Libnate",
+          "confidence": 0.8544,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hazarmaveth",
+          "type": "person",
+          "preferred_label": "Hazar-Mavé",
+          "confidence": 0.8542,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Beth-jeshimoth",
+          "type": "place",
+          "preferred_label": "Bete-Jesimote",
+          "confidence": 0.8537,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hoglah",
+          "type": "person",
+          "preferred_label": "Hogla",
+          "confidence": 0.8536,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:BrookOfEgypt",
+          "type": "place",
+          "preferred_label": "Ribeiro do Egito",
+          "confidence": 0.8534,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Middin",
+          "type": "place",
+          "preferred_label": "Midim",
+          "confidence": 0.8532,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Mecherathites",
+          "type": "group",
+          "preferred_label": "Mecherathites",
+          "confidence": 0.8525,
+          "match_method": "embedding"
+        },
+        {
+          "id": "realia:Breast-piece",
+          "type": "realia",
+          "preferred_label": "Breast-Piece",
+          "confidence": 0.8525,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nadab",
+          "type": "person",
+          "preferred_label": "Nadabe",
+          "confidence": 0.8522,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nadab.2",
+          "type": "person",
+          "preferred_label": "Nadabe",
+          "confidence": 0.8522,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nadab.3",
+          "type": "person",
+          "preferred_label": "Nadabe",
+          "confidence": 0.8522,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nadab.4",
+          "type": "person",
+          "preferred_label": "Nadabe",
+          "confidence": 0.8522,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:HusbandOfHammolecheth",
+          "type": "person",
+          "preferred_label": "Husband of Hammolecheth",
+          "confidence": 0.8521,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Uzal",
+          "type": "place",
+          "preferred_label": "Izal",
+          "confidence": 0.852,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hodiah",
+          "type": "person",
+          "preferred_label": "Hodias",
+          "confidence": 0.8518,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hodiah.2",
+          "type": "person",
+          "preferred_label": "Hodias",
+          "confidence": 0.8518,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hodiah.3",
+          "type": "person",
+          "preferred_label": "Hodias",
+          "confidence": 0.8518,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hodiah.4",
+          "type": "person",
+          "preferred_label": "Hodias",
+          "confidence": 0.8518,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Tanhumeth",
+          "type": "person",
+          "preferred_label": "Tanumete",
+          "confidence": 0.8518,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Iphtah",
+          "type": "place",
+          "preferred_label": "Ifta",
+          "confidence": 0.8513,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ben-hesed",
+          "type": "person",
+          "preferred_label": "Ben-Hesede",
+          "confidence": 0.851,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jaare-oregim",
+          "type": "person",
+          "preferred_label": "Jaaré-Oregim",
+          "confidence": 0.8507,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Puthites",
+          "type": "group",
+          "preferred_label": "Puthites",
+          "confidence": 0.8506,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shuppim",
+          "type": "person",
+          "preferred_label": "Supim",
+          "confidence": 0.8499,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shuppim.2",
+          "type": "person",
+          "preferred_label": "Supim",
+          "confidence": 0.8499,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Benjamin",
+          "type": "group",
+          "preferred_label": "Benjamim",
+          "confidence": 0.8495,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Benjamin",
+          "type": "person",
+          "preferred_label": "Benjamim",
+          "confidence": 0.8495,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Benjamin.2",
+          "type": "person",
+          "preferred_label": "Benjamim",
+          "confidence": 0.8495,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Benjamin.3",
+          "type": "person",
+          "preferred_label": "Benjamim",
+          "confidence": 0.8495,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Benjamin.4",
+          "type": "person",
+          "preferred_label": "Benjamim",
+          "confidence": 0.8495,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Benjamin.5",
+          "type": "person",
+          "preferred_label": "Benjamim",
+          "confidence": 0.8495,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pethahiah",
+          "type": "person",
+          "preferred_label": "Petaías",
+          "confidence": 0.8495,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pethahiah.2",
+          "type": "person",
+          "preferred_label": "Petaías",
+          "confidence": 0.8495,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pethahiah.3",
+          "type": "person",
+          "preferred_label": "Petaías",
+          "confidence": 0.8495,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pethahiah.4",
+          "type": "person",
+          "preferred_label": "Petaías",
+          "confidence": 0.8495,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Meroz",
+          "type": "place",
+          "preferred_label": "Meroz",
+          "confidence": 0.8492,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Iconium",
+          "type": "place",
+          "preferred_label": "Icônio",
+          "confidence": 0.849,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Kiriath-huzoth",
+          "type": "place",
+          "preferred_label": "Quiriate-Huzote",
+          "confidence": 0.849,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rezin",
+          "type": "person",
+          "preferred_label": "Rezim",
+          "confidence": 0.8488,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rezin.2",
+          "type": "person",
+          "preferred_label": "Rezim",
+          "confidence": 0.8488,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ben-hur",
+          "type": "person",
+          "preferred_label": "Ben-Hur",
+          "confidence": 0.8487,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Hazar-susim",
+          "type": "place",
+          "preferred_label": "Hazar-susim",
+          "confidence": 0.8474,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Meshech.2",
+          "type": "person",
+          "preferred_label": "Mesaque",
+          "confidence": 0.8468,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mibsam",
+          "type": "person",
+          "preferred_label": "Mibsão",
+          "confidence": 0.8468,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mibsam.2",
+          "type": "person",
+          "preferred_label": "Mibsão",
+          "confidence": 0.8468,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Meshech",
+          "type": "place",
+          "preferred_label": "Mesaque",
+          "confidence": 0.8468,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Shuham",
+          "type": "group",
+          "preferred_label": "Shuhamites",
+          "confidence": 0.8467,
+          "match_method": "embedding"
+        },
+        {
+          "id": "realia:PerimiterCurtain",
+          "type": "realia",
+          "preferred_label": "Perimiter Curtain",
+          "confidence": 0.846,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rapha",
+          "type": "person",
+          "preferred_label": "Rafa",
+          "confidence": 0.8457,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Raphah",
+          "type": "person",
+          "preferred_label": "Rafa",
+          "confidence": 0.8457,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Shiloni",
+          "type": "group",
+          "preferred_label": "Shiloni",
+          "confidence": 0.8449,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Taanach",
+          "type": "place",
+          "preferred_label": "Taanaque",
+          "confidence": 0.8448,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ziklag",
+          "type": "place",
+          "preferred_label": "Ziclague",
+          "confidence": 0.8448,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Iye-abarim",
+          "type": "place",
+          "preferred_label": "Ijé-Abarim",
+          "confidence": 0.8442,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Mearah",
+          "type": "place",
+          "preferred_label": "Meara",
+          "confidence": 0.844,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Maher-shalal-hash-baz",
+          "type": "person",
+          "preferred_label": "Maer-Salal-Hás-Baz",
+          "confidence": 0.8437,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mishmannah",
+          "type": "person",
+          "preferred_label": "Mismana",
+          "confidence": 0.8435,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Giddalti",
+          "type": "person",
+          "preferred_label": "Gidalti",
+          "confidence": 0.8433,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:WifeOfJerahmeel",
+          "type": "person",
+          "preferred_label": "Wife of Jerahmeel",
+          "confidence": 0.8432,
+          "match_method": "embedding"
+        },
+        {
+          "id": "realia:RamsHorn",
+          "type": "realia",
+          "preferred_label": "Rams Horn",
+          "confidence": 0.8429,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Raphu",
+          "type": "person",
+          "preferred_label": "Rafu",
+          "confidence": 0.8427,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Nibshan",
+          "type": "place",
+          "preferred_label": "Nibshan",
+          "confidence": 0.8423,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Misrephoth-maim",
+          "type": "place",
+          "preferred_label": "Misrefote-Maim",
+          "confidence": 0.8421,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Kelaiah",
+          "type": "person",
+          "preferred_label": "Kelaiah",
+          "confidence": 0.8417,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rezon",
+          "type": "person",
+          "preferred_label": "Rezom",
+          "confidence": 0.8417,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Tirhanah",
+          "type": "person",
+          "preferred_label": "Tiraná",
+          "confidence": 0.8416,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Kadesh-barnea",
+          "type": "place",
+          "preferred_label": "Cades-Barneia",
+          "confidence": 0.8416,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Avvim",
+          "type": "group",
+          "preferred_label": "Avim",
+          "confidence": 0.8411,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Avvim",
+          "type": "place",
+          "preferred_label": "Avim",
+          "confidence": 0.8411,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jabin",
+          "type": "person",
+          "preferred_label": "Jabim",
+          "confidence": 0.8409,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jabin.2",
+          "type": "person",
+          "preferred_label": "Jabim",
+          "confidence": 0.8409,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Mizpah.2",
+          "type": "place",
+          "preferred_label": "Mizpah",
+          "confidence": 0.8406,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jamin",
+          "type": "person",
+          "preferred_label": "Jamim",
+          "confidence": 0.8405,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jamin.2",
+          "type": "person",
+          "preferred_label": "Jamim",
+          "confidence": 0.8405,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jamin.3",
+          "type": "person",
+          "preferred_label": "Jamim",
+          "confidence": 0.8405,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Beth-hoglah",
+          "type": "place",
+          "preferred_label": "Bete-Hogla",
+          "confidence": 0.8405,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ibhar",
+          "type": "person",
+          "preferred_label": "Ibar",
+          "confidence": 0.8404,
+          "match_method": "embedding"
+        },
+        {
+          "id": "flora:BottleGourd",
+          "type": "flora",
+          "preferred_label": "Bottle Gourd",
+          "confidence": 0.8403,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ephes-dammim",
+          "type": "place",
+          "preferred_label": "Ephes-dammim",
+          "confidence": 0.84,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:MountColzim",
+          "type": "place",
+          "preferred_label": "Mount Colzim",
+          "confidence": 0.8396,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:SheddingOfBlood",
+          "type": "keyterm",
+          "preferred_label": "derramamento de sangue",
+          "confidence": 0.8392,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Husham",
+          "type": "person",
+          "preferred_label": "Husão",
+          "confidence": 0.8392,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hathath",
+          "type": "person",
+          "preferred_label": "Hatate",
+          "confidence": 0.8385,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Michael",
+          "type": "person",
+          "preferred_label": "Miguel",
+          "confidence": 0.8384,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Michael.10",
+          "type": "person",
+          "preferred_label": "Miguel",
+          "confidence": 0.8384,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Michael.11",
+          "type": "person",
+          "preferred_label": "Miguel",
+          "confidence": 0.8384,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Michael.2",
+          "type": "person",
+          "preferred_label": "Miguel",
+          "confidence": 0.8384,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Michael.3",
+          "type": "person",
+          "preferred_label": "Miguel",
+          "confidence": 0.8384,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Michael.4",
+          "type": "person",
+          "preferred_label": "Miguel",
+          "confidence": 0.8384,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Michael.5",
+          "type": "person",
+          "preferred_label": "Miguel",
+          "confidence": 0.8384,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Michael.6",
+          "type": "person",
+          "preferred_label": "Miguel",
+          "confidence": 0.8384,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Michael.7",
+          "type": "person",
+          "preferred_label": "Miguel",
+          "confidence": 0.8384,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Michael.8",
+          "type": "person",
+          "preferred_label": "Miguel",
+          "confidence": 0.8384,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Michael.9",
+          "type": "person",
+          "preferred_label": "Miguel",
+          "confidence": 0.8384,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:ZeboimValley",
+          "type": "place",
+          "preferred_label": "Vale de Zeboim",
+          "confidence": 0.8383,
+          "match_method": "embedding"
+        },
+        {
+          "id": "realia:Daric",
+          "type": "realia",
+          "preferred_label": "Daric",
+          "confidence": 0.8382,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Happizzez",
+          "type": "person",
+          "preferred_label": "Hapises",
+          "confidence": 0.8381,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:MightyOne",
+          "type": "keyterm",
+          "preferred_label": "Mighty One",
+          "confidence": 0.8374,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pithon",
+          "type": "person",
+          "preferred_label": "Pitom",
+          "confidence": 0.837,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Pithom",
+          "type": "place",
+          "preferred_label": "Pitom",
+          "confidence": 0.837,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shaalbim",
+          "type": "place",
+          "preferred_label": "Shaalbim",
+          "confidence": 0.837,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ijon",
+          "type": "place",
+          "preferred_label": "Ijom",
+          "confidence": 0.8369,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Miriam",
+          "type": "person",
+          "preferred_label": "Miriã",
+          "confidence": 0.8367,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Miriam.2",
+          "type": "person",
+          "preferred_label": "Miriã",
+          "confidence": 0.8367,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nebu-sar-sekim",
+          "type": "person",
+          "preferred_label": "Nebu-sar-sekim",
+          "confidence": 0.8367,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Manaen",
+          "type": "person",
+          "preferred_label": "Manaém",
+          "confidence": 0.8366,
+          "match_method": "embedding"
+        },
+        {
+          "id": "realia:PieceOfMoney",
+          "type": "realia",
+          "preferred_label": "Piece of Money",
+          "confidence": 0.8365,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hushah",
+          "type": "person",
+          "preferred_label": "Husa",
+          "confidence": 0.8363,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Betonim",
+          "type": "place",
+          "preferred_label": "Bethonim",
+          "confidence": 0.836,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Euphrates",
+          "type": "place",
+          "preferred_label": "Rio Eufrates",
+          "confidence": 0.836,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Amnon",
+          "type": "person",
+          "preferred_label": "Amnon",
+          "confidence": 0.8357,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Amnon.2",
+          "type": "person",
+          "preferred_label": "Amnon",
+          "confidence": 0.8357,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Heshmon",
+          "type": "place",
+          "preferred_label": "Hesmom",
+          "confidence": 0.8356,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Hethlon",
+          "type": "place",
+          "preferred_label": "Hetlom",
+          "confidence": 0.8355,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nimrod",
+          "type": "person",
+          "preferred_label": "Ninrode",
+          "confidence": 0.8354,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hoshea",
+          "type": "person",
+          "preferred_label": "Hoshea",
+          "confidence": 0.8352,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hoshea.2",
+          "type": "person",
+          "preferred_label": "Hoshea",
+          "confidence": 0.8352,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hoshea.3",
+          "type": "person",
+          "preferred_label": "Hoshea",
+          "confidence": 0.8352,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Engedi",
+          "type": "place",
+          "preferred_label": "En-Gedi",
+          "confidence": 0.8349,
+          "match_method": "embedding"
+        },
+        {
+          "id": "deity:Nibhaz",
+          "type": "deity",
+          "preferred_label": "Nibaz",
+          "confidence": 0.8345,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:ForumOfAppius",
+          "type": "place",
+          "preferred_label": "Praça de Ápio",
+          "confidence": 0.8342,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Chorazin",
+          "type": "place",
+          "preferred_label": "Corazim",
+          "confidence": 0.834,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Syene",
+          "type": "place",
+          "preferred_label": "Sinim",
+          "confidence": 0.8338,
+          "match_method": "embedding"
+        },
+        {
+          "id": "flora:Poplar",
+          "type": "flora",
+          "preferred_label": "Poplar",
+          "confidence": 0.8335,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Magic",
+          "type": "keyterm",
+          "preferred_label": "as artes mágicas",
+          "confidence": 0.8335,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Gallim",
+          "type": "place",
+          "preferred_label": "Galim",
+          "confidence": 0.8332,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Kibroth-hattaavah",
+          "type": "place",
+          "preferred_label": "Quibrote-Hataavá",
+          "confidence": 0.8332,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Meraiah",
+          "type": "person",
+          "preferred_label": "Meraías",
+          "confidence": 0.8331,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ophni",
+          "type": "place",
+          "preferred_label": "Ofni",
+          "confidence": 0.833,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ampliatus",
+          "type": "person",
+          "preferred_label": "Amplíato",
+          "confidence": 0.832,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Micaiah.3",
+          "type": "person",
+          "preferred_label": "Micaías",
+          "confidence": 0.8319,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Micaiah.4",
+          "type": "person",
+          "preferred_label": "Micaías",
+          "confidence": 0.8319,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Micaiah.5",
+          "type": "person",
+          "preferred_label": "Micaías",
+          "confidence": 0.8319,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Micaiah.6",
+          "type": "person",
+          "preferred_label": "Micaías",
+          "confidence": 0.8319,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Girzites",
+          "type": "group",
+          "preferred_label": "Girzites",
+          "confidence": 0.8316,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahio",
+          "type": "person",
+          "preferred_label": "Aiô",
+          "confidence": 0.8313,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahio.2",
+          "type": "person",
+          "preferred_label": "Aiô",
+          "confidence": 0.8313,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ahio.3",
+          "type": "person",
+          "preferred_label": "Aiô",
+          "confidence": 0.8313,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:GenericDaughter",
+          "type": "person",
+          "preferred_label": "A Daughter",
+          "confidence": 0.8311,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Migron",
+          "type": "place",
+          "preferred_label": "Migrom",
+          "confidence": 0.8308,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hermas",
+          "type": "person",
+          "preferred_label": "Hermas",
+          "confidence": 0.8306,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Beth-eked",
+          "type": "place",
+          "preferred_label": "Bete-Edeque",
+          "confidence": 0.8304,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Regem-melech",
+          "type": "person",
+          "preferred_label": "Regém-Meleque",
+          "confidence": 0.8302,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ramoth-gilead",
+          "type": "place",
+          "preferred_label": "Ramote-Gileade",
+          "confidence": 0.8302,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Pau",
+          "type": "place",
+          "preferred_label": "Pau",
+          "confidence": 0.8301,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Magicians",
+          "type": "group",
+          "preferred_label": "Magicians of Pharoah",
+          "confidence": 0.8295,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Cushan-rishathaim",
+          "type": "person",
+          "preferred_label": "Cusã-Risataim",
+          "confidence": 0.8286,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Anak",
+          "type": "group",
+          "preferred_label": "Anakim",
+          "confidence": 0.8281,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ibnijah",
+          "type": "person",
+          "preferred_label": "Ibnijas",
+          "confidence": 0.828,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:WifeOfCaiaphas",
+          "type": "person",
+          "preferred_label": "Wife of Caiaphas",
+          "confidence": 0.8278,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Humtah",
+          "type": "place",
+          "preferred_label": "Hunta",
+          "confidence": 0.8277,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Stewardship",
+          "type": "keyterm",
+          "preferred_label": "administração",
+          "confidence": 0.8274,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pahath-moab",
+          "type": "person",
+          "preferred_label": "Paate-Moabe",
+          "confidence": 0.8274,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pahath-moab.2",
+          "type": "person",
+          "preferred_label": "Paate-Moabe",
+          "confidence": 0.8274,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pahath-moab.3",
+          "type": "person",
+          "preferred_label": "Paate-Moabe",
+          "confidence": 0.8274,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Rakkon",
+          "type": "place",
+          "preferred_label": "Racom",
+          "confidence": 0.827,
+          "match_method": "embedding"
+        },
+        {
+          "id": "deity:Rimmon",
+          "type": "deity",
+          "preferred_label": "Rimom",
+          "confidence": 0.8269,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hirah",
+          "type": "person",
+          "preferred_label": "Hira",
+          "confidence": 0.8269,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rimmon",
+          "type": "person",
+          "preferred_label": "Rimom",
+          "confidence": 0.8269,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Adummim",
+          "type": "place",
+          "preferred_label": "Ascent of Adummim",
+          "confidence": 0.8263,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hasshub",
+          "type": "person",
+          "preferred_label": "Hassube",
+          "confidence": 0.8261,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hasshub.2",
+          "type": "person",
+          "preferred_label": "Hassube",
+          "confidence": 0.8261,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hasshub.3",
+          "type": "person",
+          "preferred_label": "Hassube",
+          "confidence": 0.8261,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hasshub.4",
+          "type": "person",
+          "preferred_label": "Hassube",
+          "confidence": 0.8261,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:EmptyTalk",
+          "type": "keyterm",
+          "preferred_label": "palavreado vazio",
+          "confidence": 0.826,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Beth-lebaoth",
+          "type": "place",
+          "preferred_label": "Bete-Lebaote",
+          "confidence": 0.826,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Beth-merchak",
+          "type": "place",
+          "preferred_label": "Bete-Lebaote",
+          "confidence": 0.826,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Gebim",
+          "type": "place",
+          "preferred_label": "Gebim",
+          "confidence": 0.8257,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:KinsmanRedeemer",
+          "type": "person",
+          "preferred_label": "Kinsman Redeemer",
+          "confidence": 0.8256,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Letushim",
+          "type": "group",
+          "preferred_label": "Letushim",
+          "confidence": 0.8251,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Shimei",
+          "type": "group",
+          "preferred_label": "Shimeites",
+          "confidence": 0.825,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Beth-rehob",
+          "type": "place",
+          "preferred_label": "Bete-Reobe",
+          "confidence": 0.8246,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:HavingLittleFaith",
+          "type": "keyterm",
+          "preferred_label": "de pequena fé",
+          "confidence": 0.8244,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Almon-diblathaim",
+          "type": "place",
+          "preferred_label": "Almom-Diblataim",
+          "confidence": 0.8244,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Moladah",
+          "type": "place",
+          "preferred_label": "Molada",
+          "confidence": 0.8243,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Amram",
+          "type": "person",
+          "preferred_label": "Amrão",
+          "confidence": 0.8237,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Amram.2",
+          "type": "person",
+          "preferred_label": "Amrão",
+          "confidence": 0.8237,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Col-hozeh",
+          "type": "person",
+          "preferred_label": "Col-Hozé",
+          "confidence": 0.8237,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Col-hozeh.2",
+          "type": "person",
+          "preferred_label": "Col-Hozé",
+          "confidence": 0.8237,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:En-gannim",
+          "type": "place",
+          "preferred_label": "En-Ganim",
+          "confidence": 0.8233,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:En-gannim.2",
+          "type": "place",
+          "preferred_label": "En-Ganim",
+          "confidence": 0.8233,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rufus",
+          "type": "person",
+          "preferred_label": "Rufo",
+          "confidence": 0.8229,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rufus.2",
+          "type": "person",
+          "preferred_label": "Rufo",
+          "confidence": 0.8229,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Iim",
+          "type": "place",
+          "preferred_label": "Iim",
+          "confidence": 0.8229,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Hena",
+          "type": "place",
+          "preferred_label": "Hena",
+          "confidence": 0.8228,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Hor-haggidgad",
+          "type": "place",
+          "preferred_label": "Hor-Hagidgade",
+          "confidence": 0.8225,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Persis",
+          "type": "person",
+          "preferred_label": "Pérside",
+          "confidence": 0.8213,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Beth-barah",
+          "type": "place",
+          "preferred_label": "Bete-Bará",
+          "confidence": 0.8212,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Vienne",
+          "type": "place",
+          "preferred_label": "Vienne",
+          "confidence": 0.8207,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jushab-hesed",
+          "type": "person",
+          "preferred_label": "Jusabe-Hesede",
+          "confidence": 0.8206,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Hardheartedness",
+          "type": "keyterm",
+          "preferred_label": "dureza de coração",
+          "confidence": 0.8204,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Abiathar",
+          "type": "person",
+          "preferred_label": "Abiatar",
+          "confidence": 0.8202,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Beth-haggan",
+          "type": "place",
+          "preferred_label": "Bete-Hagã",
+          "confidence": 0.82,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Beriah",
+          "type": "group",
+          "preferred_label": "Beriites",
+          "confidence": 0.8196,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Hazor-hadattah",
+          "type": "place",
+          "preferred_label": "Hazor-Hadata",
+          "confidence": 0.8195,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Salim",
+          "type": "place",
+          "preferred_label": "Salim",
+          "confidence": 0.8194,
+          "match_method": "embedding"
+        },
+        {
+          "id": "flora:Papyrus",
+          "type": "flora",
+          "preferred_label": "Papyrus",
+          "confidence": 0.8193,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Huppim",
+          "type": "person",
+          "preferred_label": "Hupim",
+          "confidence": 0.8193,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Huppim.2",
+          "type": "person",
+          "preferred_label": "Hupim",
+          "confidence": 0.8193,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Meshech-tubal",
+          "type": "place",
+          "preferred_label": "Meshech-tubal",
+          "confidence": 0.8191,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hushai",
+          "type": "person",
+          "preferred_label": "Husai",
+          "confidence": 0.8189,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Sharon.2",
+          "type": "place",
+          "preferred_label": "Sharon Plain",
+          "confidence": 0.8185,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Beth-shemesh",
+          "type": "group",
+          "preferred_label": "People From Beth-Shemesh",
+          "confidence": 0.8182,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ir-nahash",
+          "type": "person",
+          "preferred_label": "Ir-Nahash",
+          "confidence": 0.8182,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Netaim",
+          "type": "place",
+          "preferred_label": "Netaim",
+          "confidence": 0.8182,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehoiachin",
+          "type": "person",
+          "preferred_label": "Jeoaquim",
+          "confidence": 0.8177,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jehoiakim",
+          "type": "person",
+          "preferred_label": "Jeoaquim",
+          "confidence": 0.8177,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:MacedonianMan",
+          "type": "person",
+          "preferred_label": "Macedonian",
+          "confidence": 0.8177,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Pallu",
+          "type": "group",
+          "preferred_label": "Palluites",
+          "confidence": 0.8175,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Mahaneh-dan",
+          "type": "place",
+          "preferred_label": "Maané-Dã",
+          "confidence": 0.8175,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeremai",
+          "type": "person",
+          "preferred_label": "Jeremai",
+          "confidence": 0.8174,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Beth-pelet",
+          "type": "place",
+          "preferred_label": "Bete-Palete",
+          "confidence": 0.8172,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pagiel",
+          "type": "person",
+          "preferred_label": "Pagiel",
+          "confidence": 0.816,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Likhi",
+          "type": "person",
+          "preferred_label": "Liqui",
+          "confidence": 0.8159,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:TerritoryOfEphraim",
+          "type": "place",
+          "preferred_label": "Territory of Ephraim",
+          "confidence": 0.8158,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Merodach-baladan",
+          "type": "person",
+          "preferred_label": "Merodaque-Baladã",
+          "confidence": 0.8153,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Obed-edom",
+          "type": "person",
+          "preferred_label": "Obede-Edom",
+          "confidence": 0.8152,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Paseah",
+          "type": "person",
+          "preferred_label": "Paseia",
+          "confidence": 0.8151,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Paseah.2",
+          "type": "person",
+          "preferred_label": "Paseia",
+          "confidence": 0.8151,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Paseah.3",
+          "type": "person",
+          "preferred_label": "Paseia",
+          "confidence": 0.8151,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Diklah",
+          "type": "person",
+          "preferred_label": "Dicla",
+          "confidence": 0.8148,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Palti",
+          "type": "person",
+          "preferred_label": "Palti",
+          "confidence": 0.8147,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Palti.2",
+          "type": "person",
+          "preferred_label": "Palti",
+          "confidence": 0.8147,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Anamim",
+          "type": "group",
+          "preferred_label": "Anamim",
+          "confidence": 0.8146,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pilha",
+          "type": "person",
+          "preferred_label": "Pilha",
+          "confidence": 0.8144,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Kir.2",
+          "type": "place",
+          "preferred_label": "Kir",
+          "confidence": 0.8143,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pelaiah",
+          "type": "person",
+          "preferred_label": "Pelaías",
+          "confidence": 0.814,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pelaiah.2",
+          "type": "person",
+          "preferred_label": "Pelaías",
+          "confidence": 0.814,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zillethai",
+          "type": "person",
+          "preferred_label": "Ziletai",
+          "confidence": 0.814,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zillethai.2",
+          "type": "person",
+          "preferred_label": "Ziletai",
+          "confidence": 0.814,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shalmai",
+          "type": "person",
+          "preferred_label": "Salmai",
+          "confidence": 0.8139,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Rhoda",
+          "type": "person",
+          "preferred_label": "Rode",
+          "confidence": 0.8133,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Casluhim",
+          "type": "group",
+          "preferred_label": "Casluhim",
+          "confidence": 0.8132,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:CalebEphrathah",
+          "type": "place",
+          "preferred_label": "Calebe-Efrata",
+          "confidence": 0.8132,
+          "match_method": "embedding"
+        },
+        {
+          "id": "realia:Parchment",
+          "type": "realia",
+          "preferred_label": "Parchment",
+          "confidence": 0.8132,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Harosheth-hagoyim",
+          "type": "place",
+          "preferred_label": "Harosete-Hagoim",
+          "confidence": 0.8131,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Hadad-rimmon",
+          "type": "place",
+          "preferred_label": "Hadade-Rimom",
+          "confidence": 0.8127,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:GenericPriests",
+          "type": "group",
+          "preferred_label": "Priests",
+          "confidence": 0.8122,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nathan-melech",
+          "type": "person",
+          "preferred_label": "Natã-Meleque",
+          "confidence": 0.8122,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Pochereth-hazzebaim",
+          "type": "person",
+          "preferred_label": "Poquerete-Hazebaim",
+          "confidence": 0.8116,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Husband",
+          "type": "person",
+          "preferred_label": "Husband",
+          "confidence": 0.8115,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Bene-berak",
+          "type": "place",
+          "preferred_label": "Benê-Beraque",
+          "confidence": 0.8115,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Harim",
+          "type": "person",
+          "preferred_label": "Harim",
+          "confidence": 0.8111,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Harim.2",
+          "type": "person",
+          "preferred_label": "Harim",
+          "confidence": 0.8111,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Harim.3",
+          "type": "person",
+          "preferred_label": "Harim",
+          "confidence": 0.8111,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Harim.4",
+          "type": "person",
+          "preferred_label": "Harim",
+          "confidence": 0.8111,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ebed-melech",
+          "type": "person",
+          "preferred_label": "Ebede-Meleque",
+          "confidence": 0.811,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hesed",
+          "type": "person",
+          "preferred_label": "Hesede",
+          "confidence": 0.811,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Heth",
+          "type": "person",
+          "preferred_label": "Hete",
+          "confidence": 0.811,
+          "match_method": "embedding"
+        },
+        {
+          "id": "flora:Mallow",
+          "type": "flora",
+          "preferred_label": "Mallow",
+          "confidence": 0.8109,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nedabiah",
+          "type": "person",
+          "preferred_label": "Nedabias",
+          "confidence": 0.8106,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Kadmonites",
+          "type": "group",
+          "preferred_label": "Kadmonites",
+          "confidence": 0.8105,
+          "match_method": "embedding"
+        },
+        {
+          "id": "realia:Kor",
+          "type": "realia",
+          "preferred_label": "Kor",
+          "confidence": 0.8098,
+          "match_method": "embedding"
+        },
+        {
+          "id": "realia:Kor.2",
+          "type": "realia",
+          "preferred_label": "Kor",
+          "confidence": 0.8098,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:CanaaniteWoman",
+          "type": "person",
+          "preferred_label": "Canaanite Woman",
+          "confidence": 0.8096,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Michal",
+          "type": "person",
+          "preferred_label": "Mical",
+          "confidence": 0.8096,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Punon",
+          "type": "place",
+          "preferred_label": "Punom",
+          "confidence": 0.8089,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:PouredOut",
+          "type": "keyterm",
+          "preferred_label": "derramar",
+          "confidence": 0.8085,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ebed",
+          "type": "person",
+          "preferred_label": "Ebede",
+          "confidence": 0.8084,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ebed.2",
+          "type": "person",
+          "preferred_label": "Ebede",
+          "confidence": 0.8084,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ginnethon",
+          "type": "person",
+          "preferred_label": "Ginetom",
+          "confidence": 0.8083,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ben-hail",
+          "type": "person",
+          "preferred_label": "Ben-Hail",
+          "confidence": 0.8073,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Macedonia",
+          "type": "place",
+          "preferred_label": "Macedônia",
+          "confidence": 0.8068,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Rithmah",
+          "type": "place",
+          "preferred_label": "Ritma",
+          "confidence": 0.8068,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Beth-ashtoreth",
+          "type": "place",
+          "preferred_label": "Beth-ashtoreth",
+          "confidence": 0.8067,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Shaul",
+          "type": "group",
+          "preferred_label": "Shaulites",
+          "confidence": 0.8064,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Vedan",
+          "type": "place",
+          "preferred_label": "Vedan",
+          "confidence": 0.8064,
+          "match_method": "embedding"
+        },
+        {
+          "id": "fauna:Chameleon",
+          "type": "fauna",
+          "preferred_label": "Chameleon",
+          "confidence": 0.8062,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Haggedolim",
+          "type": "person",
+          "preferred_label": "Gedolim",
+          "confidence": 0.8062,
+          "match_method": "embedding"
+        },
+        {
+          "id": "realia:GoldJewelry",
+          "type": "realia",
+          "preferred_label": "Gold Jewelry",
+          "confidence": 0.8059,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zabdiel",
+          "type": "person",
+          "preferred_label": "Zabdiel",
+          "confidence": 0.8058,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zabdiel.2",
+          "type": "person",
+          "preferred_label": "Zabdiel",
+          "confidence": 0.8058,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hannah",
+          "type": "person",
+          "preferred_label": "Hannah",
+          "confidence": 0.805,
+          "match_method": "embedding"
+        },
+        {
+          "id": "fauna:Moth",
+          "type": "fauna",
+          "preferred_label": "Moth",
+          "confidence": 0.8048,
+          "match_method": "embedding"
+        },
+        {
+          "id": "deity:Molech",
+          "type": "deity",
+          "preferred_label": "Moleque",
+          "confidence": 0.8046,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Parnach",
+          "type": "person",
+          "preferred_label": "Parnaque",
+          "confidence": 0.8046,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Beth-diblathaim",
+          "type": "place",
+          "preferred_label": "Bete-Diblataim",
+          "confidence": 0.8042,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shemeber",
+          "type": "person",
+          "preferred_label": "Semeber",
+          "confidence": 0.8041,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jerimoth",
+          "type": "person",
+          "preferred_label": "Jerimote",
+          "confidence": 0.8039,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jerimoth.2",
+          "type": "person",
+          "preferred_label": "Jerimote",
+          "confidence": 0.8039,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jerimoth.3",
+          "type": "person",
+          "preferred_label": "Jerimote",
+          "confidence": 0.8039,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jerimoth.4",
+          "type": "person",
+          "preferred_label": "Jerimote",
+          "confidence": 0.8039,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jerimoth.5",
+          "type": "person",
+          "preferred_label": "Jerimote",
+          "confidence": 0.8039,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jerimoth.6",
+          "type": "person",
+          "preferred_label": "Jerimote",
+          "confidence": 0.8039,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jerimoth.7",
+          "type": "person",
+          "preferred_label": "Jerimote",
+          "confidence": 0.8039,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Riblah",
+          "type": "place",
+          "preferred_label": "Ribla",
+          "confidence": 0.8036,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Riblah.2",
+          "type": "place",
+          "preferred_label": "Ribla",
+          "confidence": 0.8036,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Meunim",
+          "type": "group",
+          "preferred_label": "Meunim",
+          "confidence": 0.8035,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Shallecheth",
+          "type": "place",
+          "preferred_label": "Salequete",
+          "confidence": 0.8026,
+          "match_method": "embedding"
+        },
+        {
+          "id": "group:Lehabim",
+          "type": "group",
+          "preferred_label": "Lehabim",
+          "confidence": 0.8019,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Mizpeh.2",
+          "type": "place",
+          "preferred_label": "Mizpeh",
+          "confidence": 0.8018,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Mizpeh.3",
+          "type": "place",
+          "preferred_label": "Mizpeh",
+          "confidence": 0.8018,
+          "match_method": "embedding"
+        },
+        {
+          "id": "deity:El-berith",
+          "type": "deity",
+          "preferred_label": "El-Berite",
+          "confidence": 0.8015,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Beth-horonUpper",
+          "type": "place",
+          "preferred_label": "Bete-Horom",
+          "confidence": 0.8015,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:LebanonValley",
+          "type": "place",
+          "preferred_label": "Vale do Líbano",
+          "confidence": 0.8014,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Rabbith",
+          "type": "place",
+          "preferred_label": "Rabite",
+          "confidence": 0.8014,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:OfThisLife",
+          "type": "keyterm",
+          "preferred_label": "(coisas) da vida diária",
+          "confidence": 0.8009,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Gibeath-elohim",
+          "type": "place",
+          "preferred_label": "Gibeá-Eloim",
+          "confidence": 0.8009,
+          "match_method": "embedding"
+        },
+        {
+          "id": "realia:RaisinCake",
+          "type": "realia",
+          "preferred_label": "Raisin Cake",
+          "confidence": 0.8005,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Mnason",
+          "type": "person",
+          "preferred_label": "Mnasom",
+          "confidence": 0.8001,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Baal-tamar",
+          "type": "place",
+          "preferred_label": "Baal-Tamar",
+          "confidence": 0.8,
+          "match_method": "embedding"
         }
       ]
     }
@@ -1179,6 +4858,15 @@
           "resource_code": "FIAKeyTerms",
           "label": "templo",
           "language": "por"
+        }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Pray",
+          "type": "keyterm",
+          "preferred_label": "orar",
+          "confidence": 0.636,
+          "match_method": "scored"
         }
       ]
     }

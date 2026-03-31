@@ -809,6 +809,29 @@
           "label": "Lord",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Jesus.2",
+          "type": "person",
+          "preferred_label": "Jesus",
+          "confidence": 1.0,
+          "match_method": "content_id"
+        },
+        {
+          "id": "place:Jerusalem",
+          "type": "place",
+          "preferred_label": "Jerusalem",
+          "confidence": 0.6005,
+          "match_method": "scored"
+        },
+        {
+          "id": "deity:Lord",
+          "type": "deity",
+          "preferred_label": "LORD",
+          "confidence": 0.5139,
+          "match_method": "scored"
+        }
       ]
     }
   },
@@ -1676,6 +1699,15 @@
           "resource_code": "FIAKeyTerms",
           "label": "slave",
           "language": "eng"
+        }
+      ],
+      "acai": [
+        {
+          "id": "realia:Yoke",
+          "type": "realia",
+          "preferred_label": "Yoke",
+          "confidence": 1.0,
+          "match_method": "content_id"
         }
       ]
     }

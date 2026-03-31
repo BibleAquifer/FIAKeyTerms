@@ -390,7 +390,16 @@
           "end_ref_usfm": "NUM 24:25"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Gentile",
+          "type": "group",
+          "preferred_label": "nation; peuple",
+          "confidence": 0.6051,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
@@ -952,6 +961,15 @@
           "resource_code": "FIAKeyTerms",
           "label": "Judée",
           "language": "fra"
+        }
+      ],
+      "acai": [
+        {
+          "id": "place:Nazareth",
+          "type": "place",
+          "preferred_label": "Nazareth",
+          "confidence": 0.6284,
+          "match_method": "scored"
         }
       ]
     }
