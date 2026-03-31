@@ -390,7 +390,16 @@
           "end_ref_usfm": "NUM 24:25"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "group:Gentile",
+          "type": "group",
+          "preferred_label": "Gentiles",
+          "confidence": 0.5691,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {
@@ -980,6 +989,15 @@
           "resource_code": "FIAKeyTerms",
           "label": "Mary",
           "language": "eng"
+        }
+      ],
+      "acai": [
+        {
+          "id": "place:Nazareth",
+          "type": "place",
+          "preferred_label": "Nazareth",
+          "confidence": 1.0,
+          "match_method": "content_id"
         }
       ]
     }

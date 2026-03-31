@@ -241,6 +241,15 @@
           "label": "wine",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "flora:Vine",
+          "type": "flora",
+          "preferred_label": "Vine",
+          "confidence": 0.6714,
+          "match_method": "scored"
+        }
       ]
     }
   },
@@ -637,6 +646,29 @@
           "label": "dream",
           "language": "eng"
         }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Vision",
+          "type": "keyterm",
+          "preferred_label": "Vision",
+          "confidence": 0.6038,
+          "match_method": "scored"
+        },
+        {
+          "id": "keyterm:HaveAVision",
+          "type": "keyterm",
+          "preferred_label": "Have a Vision",
+          "confidence": 0.6026,
+          "match_method": "scored"
+        },
+        {
+          "id": "person:Peter",
+          "type": "person",
+          "preferred_label": "Peter",
+          "confidence": 0.5066,
+          "match_method": "scored"
+        }
       ]
     }
   },
@@ -928,6 +960,15 @@
           "resource_code": "FIAKeyTerms",
           "label": "God",
           "language": "eng"
+        }
+      ],
+      "acai": [
+        {
+          "id": "keyterm:Vow",
+          "type": "keyterm",
+          "preferred_label": "Vow",
+          "confidence": 0.6651,
+          "match_method": "scored"
         }
       ]
     }

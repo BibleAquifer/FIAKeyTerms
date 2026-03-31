@@ -840,7 +840,16 @@
           "end_ref_usfm": "1SA 2:26"
         }
       ],
-      "resource": []
+      "resource": [],
+      "acai": [
+        {
+          "id": "keyterm:Sin",
+          "type": "keyterm",
+          "preferred_label": "pecar",
+          "confidence": 0.5118,
+          "match_method": "scored"
+        }
+      ]
     }
   },
   {

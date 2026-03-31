@@ -350,6 +350,316 @@
           "label": "献祭",
           "language": "zhs"
         }
+      ],
+      "acai": [
+        {
+          "id": "person:Shitrai",
+          "type": "person",
+          "preferred_label": "Shitrai",
+          "confidence": 0.9569,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nethaniah",
+          "type": "person",
+          "preferred_label": "Nethaniah",
+          "confidence": 0.9554,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nethaniah.2",
+          "type": "person",
+          "preferred_label": "Nethaniah",
+          "confidence": 0.9554,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nethaniah.3",
+          "type": "person",
+          "preferred_label": "Nethaniah",
+          "confidence": 0.9554,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nethaniah.4",
+          "type": "person",
+          "preferred_label": "Nethaniah",
+          "confidence": 0.9554,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Jeatherai",
+          "type": "person",
+          "preferred_label": "Jeatherai",
+          "confidence": 0.9408,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ira",
+          "type": "person",
+          "preferred_label": "Ira",
+          "confidence": 0.9373,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ira.2",
+          "type": "person",
+          "preferred_label": "Ira",
+          "confidence": 0.9373,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ira.3",
+          "type": "person",
+          "preferred_label": "Ira",
+          "confidence": 0.9373,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Heth",
+          "type": "person",
+          "preferred_label": "Heth",
+          "confidence": 0.9252,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Ephraim",
+          "type": "person",
+          "preferred_label": "Ephraim",
+          "confidence": 0.9244,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ephraim",
+          "type": "place",
+          "preferred_label": "Ephraim",
+          "confidence": 0.9244,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Ephraim.2",
+          "type": "place",
+          "preferred_label": "Ephraim",
+          "confidence": 0.9244,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Beth-pazzez",
+          "type": "place",
+          "preferred_label": "Beth-pazzez",
+          "confidence": 0.9125,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Beth-nimrah",
+          "type": "place",
+          "preferred_label": "Beth-nimrah",
+          "confidence": 0.9122,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:PerazimMount",
+          "type": "place",
+          "preferred_label": "Mount Perazim",
+          "confidence": 0.9118,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Amminadib",
+          "type": "person",
+          "preferred_label": "Amminadib",
+          "confidence": 0.9098,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:EphraimGate",
+          "type": "place",
+          "preferred_label": "Ephraim Gate",
+          "confidence": 0.9098,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shamsherai",
+          "type": "person",
+          "preferred_label": "Shamsherai",
+          "confidence": 0.9087,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Zethan",
+          "type": "person",
+          "preferred_label": "Zethan",
+          "confidence": 0.9029,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Kir-hareseth",
+          "type": "place",
+          "preferred_label": "Kir-hareseth",
+          "confidence": 0.9029,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Amok",
+          "type": "person",
+          "preferred_label": "Amok",
+          "confidence": 0.8938,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Amad",
+          "type": "place",
+          "preferred_label": "Amad",
+          "confidence": 0.8894,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Beth-anath",
+          "type": "place",
+          "preferred_label": "Beth-anath",
+          "confidence": 0.8799,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Methushael",
+          "type": "person",
+          "preferred_label": "Methushael",
+          "confidence": 0.8777,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nethanel",
+          "type": "person",
+          "preferred_label": "Nethanel",
+          "confidence": 0.8714,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nethanel.10",
+          "type": "person",
+          "preferred_label": "Nethanel",
+          "confidence": 0.8714,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nethanel.2",
+          "type": "person",
+          "preferred_label": "Nethanel",
+          "confidence": 0.8714,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nethanel.3",
+          "type": "person",
+          "preferred_label": "Nethanel",
+          "confidence": 0.8714,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nethanel.4",
+          "type": "person",
+          "preferred_label": "Nethanel",
+          "confidence": 0.8714,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nethanel.5",
+          "type": "person",
+          "preferred_label": "Nethanel",
+          "confidence": 0.8714,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nethanel.6",
+          "type": "person",
+          "preferred_label": "Nethanel",
+          "confidence": 0.8714,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nethanel.7",
+          "type": "person",
+          "preferred_label": "Nethanel",
+          "confidence": 0.8714,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nethanel.8",
+          "type": "person",
+          "preferred_label": "Nethanel",
+          "confidence": 0.8714,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Nethanel.9",
+          "type": "person",
+          "preferred_label": "Nethanel",
+          "confidence": 0.8714,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Hethlon",
+          "type": "place",
+          "preferred_label": "Hethlon",
+          "confidence": 0.8613,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shabbethai",
+          "type": "person",
+          "preferred_label": "Shabbethai",
+          "confidence": 0.83,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shabbethai.2",
+          "type": "person",
+          "preferred_label": "Shabbethai",
+          "confidence": 0.83,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Shabbethai.3",
+          "type": "person",
+          "preferred_label": "Shabbethai",
+          "confidence": 0.83,
+          "match_method": "embedding"
+        },
+        {
+          "id": "keyterm:Dishonor",
+          "type": "keyterm",
+          "preferred_label": "To Dishonor",
+          "confidence": 0.8288,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Amnon",
+          "type": "person",
+          "preferred_label": "Amnon",
+          "confidence": 0.8269,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Amnon.2",
+          "type": "person",
+          "preferred_label": "Amnon",
+          "confidence": 0.8269,
+          "match_method": "embedding"
+        },
+        {
+          "id": "person:Hophra",
+          "type": "person",
+          "preferred_label": "Hophra",
+          "confidence": 0.8154,
+          "match_method": "embedding"
+        },
+        {
+          "id": "place:Beth-diblathaim",
+          "type": "place",
+          "preferred_label": "Beth-diblathaim",
+          "confidence": 0.8108,
+          "match_method": "embedding"
+        }
       ]
     }
   }
