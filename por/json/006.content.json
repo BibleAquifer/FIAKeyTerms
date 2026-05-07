@@ -3920,18 +3920,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Phoenicia",
-"type": "place",
-"confidence": 0.6571,
-"match_method": "scored",
-"preferred_label": "Fenícia"
-},
-{
 "id": "group:Phoenicia",
 "type": "group",
 "confidence": 0.6571,
 "match_method": "scored",
 "preferred_label": "Syrophoenicians"
+},
+{
+"id": "place:Phoenicia",
+"type": "place",
+"confidence": 0.6571,
+"match_method": "scored",
+"preferred_label": "Fenícia"
 }
 ]
 }
