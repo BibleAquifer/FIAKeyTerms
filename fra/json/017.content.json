@@ -15539,18 +15539,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Phoenicia",
-"type": "place",
-"confidence": 0.6571,
-"match_method": "scored",
-"preferred_label": "Phénicie"
-},
-{
 "id": "group:Phoenicia",
 "type": "group",
 "confidence": 0.6571,
 "match_method": "scored",
 "preferred_label": "syro-phénicienne"
+},
+{
+"id": "place:Phoenicia",
+"type": "place",
+"confidence": 0.6571,
+"match_method": "scored",
+"preferred_label": "Phénicie"
 }
 ]
 }
