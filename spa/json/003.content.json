@@ -1,1885 +1,4682 @@
 [
-  {
-    "content_id": "840352",
-    "reference_id": 186630,
-    "version": "1.0.1",
-    "title": "discípulo",
-    "media_type": "Text",
-    "index_reference": "discípulo",
-    "language": "spa",
-    "review_level": "Professional",
-    "content": "<p>Un <strong>discípulo</strong> es una persona que sigue a un maestro religioso como estudiante.</p><p>En el Nuevo Testamento, todas las personas que siguen a Jesús y quieren aprender de él son discípulos. A veces, Jesús enviaba grupos de discípulos a predicar las <span data-bnType=\"resourceReference\" data-resourceId=\"186578\" data-resourceType=\"FIAKeyTerms\">buenas nuevas</span> de que el <span data-bnType=\"resourceReference\" data-resourceId=\"186541\" data-resourceType=\"FIAKeyTerms\">reino de Dios</span> había llegado y a <span data-bnType=\"resourceReference\" data-resourceId=\"186607\" data-resourceType=\"FIAKeyTerms\">sanar</span> a los enfermos.</p><p>Jesús también eligió a doce personas para que fueran sus discípulos especiales. Este pequeño grupo a menudo se llama &quot;los doce discípulos&quot;, o incluso solo &quot;los doce&quot;. Estas personas seguían a Jesús a todas partes, aprendiendo de él y observándolo. Estos doce discípulos también eran llamados de <span data-bnType=\"resourceReference\" data-resourceId=\"186601\" data-resourceType=\"FIAKeyTerms\">apóstoles</span>. Un apóstol es alguien que ha recibido una <span data-bnType=\"resourceReference\" data-resourceId=\"186527\" data-resourceType=\"FIAKeyTerms\">autoridad</span> especial de Jesús.</p><p>Antes de que Jesús regresara al <span data-bnType=\"resourceReference\" data-resourceId=\"186634\" data-resourceType=\"FIAKeyTerms\">cielo</span>, Jesús dijo a sus discípulos &quot;vayan y hagan a todas las personas de todas las <span data-bnType=\"resourceReference\" data-resourceId=\"186495\" data-resourceType=\"FIAKeyTerms\">naciones</span> mis discípulos&quot;. Cada persona que confía en Jesús y quiere obedecerle es un discípulo de Jesús.</p><p>A veces la palabra &quot;discípulos&quot; es utilizada para un grupo grande de personas, y a veces significa solamente los doce discípulos escogidos.</p><p><strong>Cuando estén traduciendo discípulo, tengan cuidado con las siguientes cosas:</strong></p><p>Si en su idioma tiene una palabra que significa seguidor de un maestro respetado, pueden usar ese término aquí.</p><p>Recuerden que ustedes necesitan tener una palabra diferente para <span data-bnType=\"resourceReference\" data-resourceId=\"186601\" data-resourceType=\"FIAKeyTerms\">apóstol</span> también.</p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "44009001",
-          "start_ref_usfm": "ACT 9:1",
-          "end_ref": "44009019",
-          "end_ref_usfm": "ACT 9:19"
-        },
-        {
-          "start_ref": "44009019",
-          "start_ref_usfm": "ACT 9:19",
-          "end_ref": "44009031",
-          "end_ref_usfm": "ACT 9:31"
-        },
-        {
-          "start_ref": "44009036",
-          "start_ref_usfm": "ACT 9:36",
-          "end_ref": "44009043",
-          "end_ref_usfm": "ACT 9:43"
-        },
-        {
-          "start_ref": "44011019",
-          "start_ref_usfm": "ACT 11:19",
-          "end_ref": "44011026",
-          "end_ref_usfm": "ACT 11:26"
-        },
-        {
-          "start_ref": "44011027",
-          "start_ref_usfm": "ACT 11:27",
-          "end_ref": "44011030",
-          "end_ref_usfm": "ACT 11:30"
-        },
-        {
-          "start_ref": "44014008",
-          "start_ref_usfm": "ACT 14:8",
-          "end_ref": "44014020",
-          "end_ref_usfm": "ACT 14:20"
-        },
-        {
-          "start_ref": "44018018",
-          "start_ref_usfm": "ACT 18:18",
-          "end_ref": "44018023",
-          "end_ref_usfm": "ACT 18:23"
-        },
-        {
-          "start_ref": "44018024",
-          "start_ref_usfm": "ACT 18:24",
-          "end_ref": "44018028",
-          "end_ref_usfm": "ACT 18:28"
-        },
-        {
-          "start_ref": "44019001",
-          "start_ref_usfm": "ACT 19:1",
-          "end_ref": "44019007",
-          "end_ref_usfm": "ACT 19:7"
-        },
-        {
-          "start_ref": "44019008",
-          "start_ref_usfm": "ACT 19:8",
-          "end_ref": "44019010",
-          "end_ref_usfm": "ACT 19:10"
-        },
-        {
-          "start_ref": "44020001",
-          "start_ref_usfm": "ACT 20:1",
-          "end_ref": "44020006",
-          "end_ref_usfm": "ACT 20:6"
-        },
-        {
-          "start_ref": "44021001",
-          "start_ref_usfm": "ACT 21:1",
-          "end_ref": "44021009",
-          "end_ref_usfm": "ACT 21:9"
-        },
-        {
-          "start_ref": "44021015",
-          "start_ref_usfm": "ACT 21:15",
-          "end_ref": "44021026",
-          "end_ref_usfm": "ACT 21:26"
-        },
-        {
-          "start_ref": "43004001",
-          "start_ref_usfm": "JHN 4:1",
-          "end_ref": "43004015",
-          "end_ref_usfm": "JHN 4:15"
-        },
-        {
-          "start_ref": "42005027",
-          "start_ref_usfm": "LUK 5:27",
-          "end_ref": "42005039",
-          "end_ref_usfm": "LUK 5:39"
-        },
-        {
-          "start_ref": "42006001",
-          "start_ref_usfm": "LUK 6:1",
-          "end_ref": "42006011",
-          "end_ref_usfm": "LUK 6:11"
-        },
-        {
-          "start_ref": "42006012",
-          "start_ref_usfm": "LUK 6:12",
-          "end_ref": "42006016",
-          "end_ref_usfm": "LUK 6:16"
-        },
-        {
-          "start_ref": "42006017",
-          "start_ref_usfm": "LUK 6:17",
-          "end_ref": "42006019",
-          "end_ref_usfm": "LUK 6:19"
-        },
-        {
-          "start_ref": "42006020",
-          "start_ref_usfm": "LUK 6:20",
-          "end_ref": "42006026",
-          "end_ref_usfm": "LUK 6:26"
-        },
-        {
-          "start_ref": "42006027",
-          "start_ref_usfm": "LUK 6:27",
-          "end_ref": "42006036",
-          "end_ref_usfm": "LUK 6:36"
-        },
-        {
-          "start_ref": "42006037",
-          "start_ref_usfm": "LUK 6:37",
-          "end_ref": "42006042",
-          "end_ref_usfm": "LUK 6:42"
-        },
-        {
-          "start_ref": "42006043",
-          "start_ref_usfm": "LUK 6:43",
-          "end_ref": "42006049",
-          "end_ref_usfm": "LUK 6:49"
-        },
-        {
-          "start_ref": "42007011",
-          "start_ref_usfm": "LUK 7:11",
-          "end_ref": "42007017",
-          "end_ref_usfm": "LUK 7:17"
-        },
-        {
-          "start_ref": "42007018",
-          "start_ref_usfm": "LUK 7:18",
-          "end_ref": "42007035",
-          "end_ref_usfm": "LUK 7:35"
-        },
-        {
-          "start_ref": "42008004",
-          "start_ref_usfm": "LUK 8:4",
-          "end_ref": "42008015",
-          "end_ref_usfm": "LUK 8:15"
-        },
-        {
-          "start_ref": "42008022",
-          "start_ref_usfm": "LUK 8:22",
-          "end_ref": "42008025",
-          "end_ref_usfm": "LUK 8:25"
-        },
-        {
-          "start_ref": "42016001",
-          "start_ref_usfm": "LUK 16:1",
-          "end_ref": "42016015",
-          "end_ref_usfm": "LUK 16:15"
-        },
-        {
-          "start_ref": "42017001",
-          "start_ref_usfm": "LUK 17:1",
-          "end_ref": "42017010",
-          "end_ref_usfm": "LUK 17:10"
-        },
-        {
-          "start_ref": "42017020",
-          "start_ref_usfm": "LUK 17:20",
-          "end_ref": "42017037",
-          "end_ref_usfm": "LUK 17:37"
-        },
-        {
-          "start_ref": "42018001",
-          "start_ref_usfm": "LUK 18:1",
-          "end_ref": "42018017",
-          "end_ref_usfm": "LUK 18:17"
-        },
-        {
-          "start_ref": "42018031",
-          "start_ref_usfm": "LUK 18:31",
-          "end_ref": "42018034",
-          "end_ref_usfm": "LUK 18:34"
-        },
-        {
-          "start_ref": "40027057",
-          "start_ref_usfm": "MAT 27:57",
-          "end_ref": "40027066",
-          "end_ref_usfm": "MAT 27:66"
-        },
-        {
-          "start_ref": "40028001",
-          "start_ref_usfm": "MAT 28:1",
-          "end_ref": "40028015",
-          "end_ref_usfm": "MAT 28:15"
-        },
-        {
-          "start_ref": "40028016",
-          "start_ref_usfm": "MAT 28:16",
-          "end_ref": "40028020",
-          "end_ref_usfm": "MAT 28:20"
-        },
-        {
-          "start_ref": "40010001",
-          "start_ref_usfm": "MAT 10:1",
-          "end_ref": "40010015",
-          "end_ref_usfm": "MAT 10:15"
-        },
-        {
-          "start_ref": "40013010",
-          "start_ref_usfm": "MAT 13:10",
-          "end_ref": "40013017",
-          "end_ref_usfm": "MAT 13:17"
-        },
-        {
-          "start_ref": "40013036",
-          "start_ref_usfm": "MAT 13:36",
-          "end_ref": "40013043",
-          "end_ref_usfm": "MAT 13:43"
-        },
-        {
-          "start_ref": "40013044",
-          "start_ref_usfm": "MAT 13:44",
-          "end_ref": "40013053",
-          "end_ref_usfm": "MAT 13:53"
-        },
-        {
-          "start_ref": "40014001",
-          "start_ref_usfm": "MAT 14:1",
-          "end_ref": "40014012",
-          "end_ref_usfm": "MAT 14:12"
-        },
-        {
-          "start_ref": "40014013",
-          "start_ref_usfm": "MAT 14:13",
-          "end_ref": "40014021",
-          "end_ref_usfm": "MAT 14:21"
-        },
-        {
-          "start_ref": "40017001",
-          "start_ref_usfm": "MAT 17:1",
-          "end_ref": "40017013",
-          "end_ref_usfm": "MAT 17:13"
-        },
-        {
-          "start_ref": "40017014",
-          "start_ref_usfm": "MAT 17:14",
-          "end_ref": "40017021",
-          "end_ref_usfm": "MAT 17:21"
-        },
-        {
-          "start_ref": "40017022",
-          "start_ref_usfm": "MAT 17:22",
-          "end_ref": "40017027",
-          "end_ref_usfm": "MAT 17:27"
-        },
-        {
-          "start_ref": "40018001",
-          "start_ref_usfm": "MAT 18:1",
-          "end_ref": "40018009",
-          "end_ref_usfm": "MAT 18:9"
-        },
-        {
-          "start_ref": "40019001",
-          "start_ref_usfm": "MAT 19:1",
-          "end_ref": "40019012",
-          "end_ref_usfm": "MAT 19:12"
-        },
-        {
-          "start_ref": "40019013",
-          "start_ref_usfm": "MAT 19:13",
-          "end_ref": "40019030",
-          "end_ref_usfm": "MAT 19:30"
-        },
-        {
-          "start_ref": "40020017",
-          "start_ref_usfm": "MAT 20:17",
-          "end_ref": "40020028",
-          "end_ref_usfm": "MAT 20:28"
-        },
-        {
-          "start_ref": "40005001",
-          "start_ref_usfm": "MAT 5:1",
-          "end_ref": "40005012",
-          "end_ref_usfm": "MAT 5:12"
-        },
-        {
-          "start_ref": "40024003",
-          "start_ref_usfm": "MAT 24:3",
-          "end_ref": "40024014",
-          "end_ref_usfm": "MAT 24:14"
-        },
-        {
-          "start_ref": "40005013",
-          "start_ref_usfm": "MAT 5:13",
-          "end_ref": "40005016",
-          "end_ref_usfm": "MAT 5:16"
-        },
-        {
-          "start_ref": "41002023",
-          "start_ref_usfm": "MRK 2:23",
-          "end_ref": "41003006",
-          "end_ref_usfm": "MRK 3:6"
-        },
-        {
-          "start_ref": "41003007",
-          "start_ref_usfm": "MRK 3:7",
-          "end_ref": "41003012",
-          "end_ref_usfm": "MRK 3:12"
-        },
-        {
-          "start_ref": "41003013",
-          "start_ref_usfm": "MRK 3:13",
-          "end_ref": "41003019",
-          "end_ref_usfm": "MRK 3:19"
-        },
-        {
-          "start_ref": "41003020",
-          "start_ref_usfm": "MRK 3:20",
-          "end_ref": "41003035",
-          "end_ref_usfm": "MRK 3:35"
-        },
-        {
-          "start_ref": "41004001",
-          "start_ref_usfm": "MRK 4:1",
-          "end_ref": "41004020",
-          "end_ref_usfm": "MRK 4:20"
-        },
-        {
-          "start_ref": "41004035",
-          "start_ref_usfm": "MRK 4:35",
-          "end_ref": "41004041",
-          "end_ref_usfm": "MRK 4:41"
-        },
-        {
-          "start_ref": "41005021",
-          "start_ref_usfm": "MRK 5:21",
-          "end_ref": "41005034",
-          "end_ref_usfm": "MRK 5:34"
-        },
-        {
-          "start_ref": "41006001",
-          "start_ref_usfm": "MRK 6:1",
-          "end_ref": "41006006",
-          "end_ref_usfm": "MRK 6:6"
-        },
-        {
-          "start_ref": "41006030",
-          "start_ref_usfm": "MRK 6:30",
-          "end_ref": "41006044",
-          "end_ref_usfm": "MRK 6:44"
-        },
-        {
-          "start_ref": "41006045",
-          "start_ref_usfm": "MRK 6:45",
-          "end_ref": "41006056",
-          "end_ref_usfm": "MRK 6:56"
-        },
-        {
-          "start_ref": "41007001",
-          "start_ref_usfm": "MRK 7:1",
-          "end_ref": "41007008",
-          "end_ref_usfm": "MRK 7:8"
-        },
-        {
-          "start_ref": "41007014",
-          "start_ref_usfm": "MRK 7:14",
-          "end_ref": "41007023",
-          "end_ref_usfm": "MRK 7:23"
-        },
-        {
-          "start_ref": "41008001",
-          "start_ref_usfm": "MRK 8:1",
-          "end_ref": "41008010",
-          "end_ref_usfm": "MRK 8:10"
-        },
-        {
-          "start_ref": "41008011",
-          "start_ref_usfm": "MRK 8:11",
-          "end_ref": "41008021",
-          "end_ref_usfm": "MRK 8:21"
-        },
-        {
-          "start_ref": "41008027",
-          "start_ref_usfm": "MRK 8:27",
-          "end_ref": "41008030",
-          "end_ref_usfm": "MRK 8:30"
-        },
-        {
-          "start_ref": "41009014",
-          "start_ref_usfm": "MRK 9:14",
-          "end_ref": "41009029",
-          "end_ref_usfm": "MRK 9:29"
-        },
-        {
-          "start_ref": "41009030",
-          "start_ref_usfm": "MRK 9:30",
-          "end_ref": "41009050",
-          "end_ref_usfm": "MRK 9:50"
-        },
-        {
-          "start_ref": "41010001",
-          "start_ref_usfm": "MRK 10:1",
-          "end_ref": "41010012",
-          "end_ref_usfm": "MRK 10:12"
-        },
-        {
-          "start_ref": "41010013",
-          "start_ref_usfm": "MRK 10:13",
-          "end_ref": "41010031",
-          "end_ref_usfm": "MRK 10:31"
-        },
-        {
-          "start_ref": "41010032",
-          "start_ref_usfm": "MRK 10:32",
-          "end_ref": "41010045",
-          "end_ref_usfm": "MRK 10:45"
-        },
-        {
-          "start_ref": "41010046",
-          "start_ref_usfm": "MRK 10:46",
-          "end_ref": "41010052",
-          "end_ref_usfm": "MRK 10:52"
-        },
-        {
-          "start_ref": "41011001",
-          "start_ref_usfm": "MRK 11:1",
-          "end_ref": "41011011",
-          "end_ref_usfm": "MRK 11:11"
-        },
-        {
-          "start_ref": "41011012",
-          "start_ref_usfm": "MRK 11:12",
-          "end_ref": "41011026",
-          "end_ref_usfm": "MRK 11:26"
-        },
-        {
-          "start_ref": "41011027",
-          "start_ref_usfm": "MRK 11:27",
-          "end_ref": "41011033",
-          "end_ref_usfm": "MRK 11:33"
-        },
-        {
-          "start_ref": "41013001",
-          "start_ref_usfm": "MRK 13:1",
-          "end_ref": "41013008",
-          "end_ref_usfm": "MRK 13:8"
-        },
-        {
-          "start_ref": "41014001",
-          "start_ref_usfm": "MRK 14:1",
-          "end_ref": "41014011",
-          "end_ref_usfm": "MRK 14:11"
-        },
-        {
-          "start_ref": "41014012",
-          "start_ref_usfm": "MRK 14:12",
-          "end_ref": "41014026",
-          "end_ref_usfm": "MRK 14:26"
-        },
-        {
-          "start_ref": "41014032",
-          "start_ref_usfm": "MRK 14:32",
-          "end_ref": "41014042",
-          "end_ref_usfm": "MRK 14:42"
-        },
-        {
-          "start_ref": "41016001",
-          "start_ref_usfm": "MRK 16:1",
-          "end_ref": "41016008",
-          "end_ref_usfm": "MRK 16:8"
-        },
-        {
-          "start_ref": "41016009",
-          "start_ref_usfm": "MRK 16:9",
-          "end_ref": "41016020",
-          "end_ref_usfm": "MRK 16:20"
-        },
-        {
-          "start_ref": "41002013",
-          "start_ref_usfm": "MRK 2:13",
-          "end_ref": "41002017",
-          "end_ref_usfm": "MRK 2:17"
-        },
-        {
-          "start_ref": "41002018",
-          "start_ref_usfm": "MRK 2:18",
-          "end_ref": "41002022",
-          "end_ref_usfm": "MRK 2:22"
-        },
-        {
-          "start_ref": "40008018",
-          "start_ref_usfm": "MAT 8:18",
-          "end_ref": "40008022",
-          "end_ref_usfm": "MAT 8:22"
-        },
-        {
-          "start_ref": "40026036",
-          "start_ref_usfm": "MAT 26:36",
-          "end_ref": "40026046",
-          "end_ref_usfm": "MAT 26:46"
-        },
-        {
-          "start_ref": "42022039",
-          "start_ref_usfm": "LUK 22:39",
-          "end_ref": "42022046",
-          "end_ref_usfm": "LUK 22:46"
-        },
-        {
-          "start_ref": "42009028",
-          "start_ref_usfm": "LUK 9:28",
-          "end_ref": "42009036",
-          "end_ref_usfm": "LUK 9:36"
-        },
-        {
-          "start_ref": "40015001",
-          "start_ref_usfm": "MAT 15:1",
-          "end_ref": "40015020",
-          "end_ref_usfm": "MAT 15:20"
-        },
-        {
-          "start_ref": "40008023",
-          "start_ref_usfm": "MAT 8:23",
-          "end_ref": "40008027",
-          "end_ref_usfm": "MAT 8:27"
-        },
-        {
-          "start_ref": "40012001",
-          "start_ref_usfm": "MAT 12:1",
-          "end_ref": "40012014",
-          "end_ref_usfm": "MAT 12:14"
-        },
-        {
-          "start_ref": "42009018",
-          "start_ref_usfm": "LUK 9:18",
-          "end_ref": "42009027",
-          "end_ref_usfm": "LUK 9:27"
-        },
-        {
-          "start_ref": "42011001",
-          "start_ref_usfm": "LUK 11:1",
-          "end_ref": "42011013",
-          "end_ref_usfm": "LUK 11:13"
-        },
-        {
-          "start_ref": "40021001",
-          "start_ref_usfm": "MAT 21:1",
-          "end_ref": "40021011",
-          "end_ref_usfm": "MAT 21:11"
-        },
-        {
-          "start_ref": "43018015",
-          "start_ref_usfm": "JHN 18:15",
-          "end_ref": "43018027",
-          "end_ref_usfm": "JHN 18:27"
-        },
-        {
-          "start_ref": "43003022",
-          "start_ref_usfm": "JHN 3:22",
-          "end_ref": "43003036",
-          "end_ref_usfm": "JHN 3:36"
-        },
-        {
-          "start_ref": "43006016",
-          "start_ref_usfm": "JHN 6:16",
-          "end_ref": "43006021",
-          "end_ref_usfm": "JHN 6:21"
-        },
-        {
-          "start_ref": "43021001",
-          "start_ref_usfm": "JHN 21:1",
-          "end_ref": "43021014",
-          "end_ref_usfm": "JHN 21:14"
-        },
-        {
-          "start_ref": "40009009",
-          "start_ref_usfm": "MAT 9:9",
-          "end_ref": "40009013",
-          "end_ref_usfm": "MAT 9:13"
-        },
-        {
-          "start_ref": "40012046",
-          "start_ref_usfm": "MAT 12:46",
-          "end_ref": "40012050",
-          "end_ref_usfm": "MAT 12:50"
-        },
-        {
-          "start_ref": "43017020",
-          "start_ref_usfm": "JHN 17:20",
-          "end_ref": "43017026",
-          "end_ref_usfm": "JHN 17:26"
-        },
-        {
-          "start_ref": "43015001",
-          "start_ref_usfm": "JHN 15:1",
-          "end_ref": "43015017",
-          "end_ref_usfm": "JHN 15:17"
-        },
-        {
-          "start_ref": "42010038",
-          "start_ref_usfm": "LUK 10:38",
-          "end_ref": "42010042",
-          "end_ref_usfm": "LUK 10:42"
-        },
-        {
-          "start_ref": "42019028",
-          "start_ref_usfm": "LUK 19:28",
-          "end_ref": "42019044",
-          "end_ref_usfm": "LUK 19:44"
-        },
-        {
-          "start_ref": "44016001",
-          "start_ref_usfm": "ACT 16:1",
-          "end_ref": "44016005",
-          "end_ref_usfm": "ACT 16:5"
-        },
-        {
-          "start_ref": "43012001",
-          "start_ref_usfm": "JHN 12:1",
-          "end_ref": "43012011",
-          "end_ref_usfm": "JHN 12:11"
-        },
-        {
-          "start_ref": "40009014",
-          "start_ref_usfm": "MAT 9:14",
-          "end_ref": "40009017",
-          "end_ref_usfm": "MAT 9:17"
-        },
-        {
-          "start_ref": "40016021",
-          "start_ref_usfm": "MAT 16:21",
-          "end_ref": "40016028",
-          "end_ref_usfm": "MAT 16:28"
-        },
-        {
-          "start_ref": "40026047",
-          "start_ref_usfm": "MAT 26:47",
-          "end_ref": "40026056",
-          "end_ref_usfm": "MAT 26:56"
-        },
-        {
-          "start_ref": "43001035",
-          "start_ref_usfm": "JHN 1:35",
-          "end_ref": "43001042",
-          "end_ref_usfm": "JHN 1:42"
-        },
-        {
-          "start_ref": "44006001",
-          "start_ref_usfm": "ACT 6:1",
-          "end_ref": "44006007",
-          "end_ref_usfm": "ACT 6:7"
-        },
-        {
-          "start_ref": "42012013",
-          "start_ref_usfm": "LUK 12:13",
-          "end_ref": "42012021",
-          "end_ref_usfm": "LUK 12:21"
-        },
-        {
-          "start_ref": "40009018",
-          "start_ref_usfm": "MAT 9:18",
-          "end_ref": "40009026",
-          "end_ref_usfm": "MAT 9:26"
-        },
-        {
-          "start_ref": "43007001",
-          "start_ref_usfm": "JHN 7:1",
-          "end_ref": "43007010",
-          "end_ref_usfm": "JHN 7:10"
-        },
-        {
-          "start_ref": "42012022",
-          "start_ref_usfm": "LUK 12:22",
-          "end_ref": "42012034",
-          "end_ref_usfm": "LUK 12:34"
-        },
-        {
-          "start_ref": "42014025",
-          "start_ref_usfm": "LUK 14:25",
-          "end_ref": "42014035",
-          "end_ref_usfm": "LUK 14:35"
-        },
-        {
-          "start_ref": "42008026",
-          "start_ref_usfm": "LUK 8:26",
-          "end_ref": "42008039",
-          "end_ref_usfm": "LUK 8:39"
-        },
-        {
-          "start_ref": "40022015",
-          "start_ref_usfm": "MAT 22:15",
-          "end_ref": "40022022",
-          "end_ref_usfm": "MAT 22:22"
-        },
-        {
-          "start_ref": "44014021",
-          "start_ref_usfm": "ACT 14:21",
-          "end_ref": "44014028",
-          "end_ref_usfm": "ACT 14:28"
-        },
-        {
-          "start_ref": "40026026",
-          "start_ref_usfm": "MAT 26:26",
-          "end_ref": "40026035",
-          "end_ref_usfm": "MAT 26:35"
-        },
-        {
-          "start_ref": "44013042",
-          "start_ref_usfm": "ACT 13:42",
-          "end_ref": "44013052",
-          "end_ref_usfm": "ACT 13:52"
-        },
-        {
-          "start_ref": "43009024",
-          "start_ref_usfm": "JHN 9:24",
-          "end_ref": "43009034",
-          "end_ref_usfm": "JHN 9:34"
-        },
-        {
-          "start_ref": "40010016",
-          "start_ref_usfm": "MAT 10:16",
-          "end_ref": "40010025",
-          "end_ref_usfm": "MAT 10:25"
-        },
-        {
-          "start_ref": "43013001",
-          "start_ref_usfm": "JHN 13:1",
-          "end_ref": "43013011",
-          "end_ref_usfm": "JHN 13:11"
-        },
-        {
-          "start_ref": "43013031",
-          "start_ref_usfm": "JHN 13:31",
-          "end_ref": "43013038",
-          "end_ref_usfm": "JHN 13:38"
-        },
-        {
-          "start_ref": "43020001",
-          "start_ref_usfm": "JHN 20:1",
-          "end_ref": "43020018",
-          "end_ref_usfm": "JHN 20:18"
-        },
-        {
-          "start_ref": "43012012",
-          "start_ref_usfm": "JHN 12:12",
-          "end_ref": "43012019",
-          "end_ref_usfm": "JHN 12:19"
-        },
-        {
-          "start_ref": "43002013",
-          "start_ref_usfm": "JHN 2:13",
-          "end_ref": "43002025",
-          "end_ref_usfm": "JHN 2:25"
-        },
-        {
-          "start_ref": "40026001",
-          "start_ref_usfm": "MAT 26:1",
-          "end_ref": "40026016",
-          "end_ref_usfm": "MAT 26:16"
-        },
-        {
-          "start_ref": "43004027",
-          "start_ref_usfm": "JHN 4:27",
-          "end_ref": "43004042",
-          "end_ref_usfm": "JHN 4:42"
-        },
-        {
-          "start_ref": "43020019",
-          "start_ref_usfm": "JHN 20:19",
-          "end_ref": "43020031",
-          "end_ref_usfm": "JHN 20:31"
-        },
-        {
-          "start_ref": "40014022",
-          "start_ref_usfm": "MAT 14:22",
-          "end_ref": "40014036",
-          "end_ref_usfm": "MAT 14:36"
-        },
-        {
-          "start_ref": "44003001",
-          "start_ref_usfm": "ACT 3:1",
-          "end_ref": "44003010",
-          "end_ref_usfm": "ACT 3:10"
-        },
-        {
-          "start_ref": "40009027",
-          "start_ref_usfm": "MAT 9:27",
-          "end_ref": "40009038",
-          "end_ref_usfm": "MAT 9:38"
-        },
-        {
-          "start_ref": "43013012",
-          "start_ref_usfm": "JHN 13:12",
-          "end_ref": "43013030",
-          "end_ref_usfm": "JHN 13:30"
-        },
-        {
-          "start_ref": "40023001",
-          "start_ref_usfm": "MAT 23:1",
-          "end_ref": "40023012",
-          "end_ref_usfm": "MAT 23:12"
-        },
-        {
-          "start_ref": "43019031",
-          "start_ref_usfm": "JHN 19:31",
-          "end_ref": "43019042",
-          "end_ref_usfm": "JHN 19:42"
-        },
-        {
-          "start_ref": "43011001",
-          "start_ref_usfm": "JHN 11:1",
-          "end_ref": "43011016",
-          "end_ref_usfm": "JHN 11:16"
-        },
-        {
-          "start_ref": "40026017",
-          "start_ref_usfm": "MAT 26:17",
-          "end_ref": "40026025",
-          "end_ref_usfm": "MAT 26:25"
-        },
-        {
-          "start_ref": "40011001",
-          "start_ref_usfm": "MAT 11:1",
-          "end_ref": "40011006",
-          "end_ref_usfm": "MAT 11:6"
-        },
-        {
-          "start_ref": "42009001",
-          "start_ref_usfm": "LUK 9:1",
-          "end_ref": "42009017",
-          "end_ref_usfm": "LUK 9:17"
-        },
-        {
-          "start_ref": "42012001",
-          "start_ref_usfm": "LUK 12:1",
-          "end_ref": "42012012",
-          "end_ref_usfm": "LUK 12:12"
-        },
-        {
-          "start_ref": "42020045",
-          "start_ref_usfm": "LUK 20:45",
-          "end_ref": "42021004",
-          "end_ref_usfm": "LUK 21:4"
-        },
-        {
-          "start_ref": "42022047",
-          "start_ref_usfm": "LUK 22:47",
-          "end_ref": "42022062",
-          "end_ref_usfm": "LUK 22:62"
-        },
-        {
-          "start_ref": "43021015",
-          "start_ref_usfm": "JHN 21:15",
-          "end_ref": "43021025",
-          "end_ref_usfm": "JHN 21:25"
-        },
-        {
-          "start_ref": "43008031",
-          "start_ref_usfm": "JHN 8:31",
-          "end_ref": "43008047",
-          "end_ref_usfm": "JHN 8:47"
-        },
-        {
-          "start_ref": "43018001",
-          "start_ref_usfm": "JHN 18:1",
-          "end_ref": "43018014",
-          "end_ref_usfm": "JHN 18:14"
-        },
-        {
-          "start_ref": "42009037",
-          "start_ref_usfm": "LUK 9:37",
-          "end_ref": "42009045",
-          "end_ref_usfm": "LUK 9:45"
-        },
-        {
-          "start_ref": "42009046",
-          "start_ref_usfm": "LUK 9:46",
-          "end_ref": "42009062",
-          "end_ref_usfm": "LUK 9:62"
-        },
-        {
-          "start_ref": "42010017",
-          "start_ref_usfm": "LUK 10:17",
-          "end_ref": "42010024",
-          "end_ref_usfm": "LUK 10:24"
-        },
-        {
-          "start_ref": "42021005",
-          "start_ref_usfm": "LUK 21:5",
-          "end_ref": "42021011",
-          "end_ref_usfm": "LUK 21:11"
-        },
-        {
-          "start_ref": "42010001",
-          "start_ref_usfm": "LUK 10:1",
-          "end_ref": "42010016",
-          "end_ref_usfm": "LUK 10:16"
-        },
-        {
-          "start_ref": "42022024",
-          "start_ref_usfm": "LUK 22:24",
-          "end_ref": "42022038",
-          "end_ref_usfm": "LUK 22:38"
-        }
-      ],
-      "resource": [
-        {
-          "reference_id": 186578,
-          "content_id": 840354,
-          "resource_code": "FIAKeyTerms",
-          "label": "buenas nuevas",
-          "language": "spa"
-        },
-        {
-          "reference_id": 186578,
-          "content_id": 840365,
-          "resource_code": "FIAKeyTerms",
-          "label": "buenas nuevas",
-          "language": "spa"
-        }
-      ],
-      "acai": [
-        {
-          "id": "keyterm:Disciple",
-          "type": "keyterm",
-          "preferred_label": "ser discípulo",
-          "confidence": 0.653,
-          "match_method": "scored"
-        }
-      ]
-    }
-  },
-  {
-    "content_id": "840362",
-    "reference_id": 186630,
-    "version": "1.0.1",
-    "title": "discípulo",
-    "media_type": "Audio",
-    "index_reference": "discípulo",
-    "language": "spa",
-    "review_level": "Professional",
-    "content": "<h3>Audio Content</h3>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAKeyTerms/SPA/audio/webm/t39-disciples.webm'>webm file</a> (946935 KB)</p>\n<p><a href='https://cdn.aquifer.bible/aquifer-content/resources/FIAKeyTerms/SPA/audio/mp3/t39-disciples.mp3'>mp3 file</a> (1178588 KB)</p>",
-    "associations": {
-      "passage": [
-        {
-          "start_ref": "44009001",
-          "start_ref_usfm": "ACT 9:1",
-          "end_ref": "44009019",
-          "end_ref_usfm": "ACT 9:19"
-        },
-        {
-          "start_ref": "44009019",
-          "start_ref_usfm": "ACT 9:19",
-          "end_ref": "44009031",
-          "end_ref_usfm": "ACT 9:31"
-        },
-        {
-          "start_ref": "44009036",
-          "start_ref_usfm": "ACT 9:36",
-          "end_ref": "44009043",
-          "end_ref_usfm": "ACT 9:43"
-        },
-        {
-          "start_ref": "44011019",
-          "start_ref_usfm": "ACT 11:19",
-          "end_ref": "44011026",
-          "end_ref_usfm": "ACT 11:26"
-        },
-        {
-          "start_ref": "44011027",
-          "start_ref_usfm": "ACT 11:27",
-          "end_ref": "44011030",
-          "end_ref_usfm": "ACT 11:30"
-        },
-        {
-          "start_ref": "44014008",
-          "start_ref_usfm": "ACT 14:8",
-          "end_ref": "44014020",
-          "end_ref_usfm": "ACT 14:20"
-        },
-        {
-          "start_ref": "44018018",
-          "start_ref_usfm": "ACT 18:18",
-          "end_ref": "44018023",
-          "end_ref_usfm": "ACT 18:23"
-        },
-        {
-          "start_ref": "44018024",
-          "start_ref_usfm": "ACT 18:24",
-          "end_ref": "44018028",
-          "end_ref_usfm": "ACT 18:28"
-        },
-        {
-          "start_ref": "44019001",
-          "start_ref_usfm": "ACT 19:1",
-          "end_ref": "44019007",
-          "end_ref_usfm": "ACT 19:7"
-        },
-        {
-          "start_ref": "44019008",
-          "start_ref_usfm": "ACT 19:8",
-          "end_ref": "44019010",
-          "end_ref_usfm": "ACT 19:10"
-        },
-        {
-          "start_ref": "44020001",
-          "start_ref_usfm": "ACT 20:1",
-          "end_ref": "44020006",
-          "end_ref_usfm": "ACT 20:6"
-        },
-        {
-          "start_ref": "44021001",
-          "start_ref_usfm": "ACT 21:1",
-          "end_ref": "44021009",
-          "end_ref_usfm": "ACT 21:9"
-        },
-        {
-          "start_ref": "44021015",
-          "start_ref_usfm": "ACT 21:15",
-          "end_ref": "44021026",
-          "end_ref_usfm": "ACT 21:26"
-        },
-        {
-          "start_ref": "43004001",
-          "start_ref_usfm": "JHN 4:1",
-          "end_ref": "43004015",
-          "end_ref_usfm": "JHN 4:15"
-        },
-        {
-          "start_ref": "42005027",
-          "start_ref_usfm": "LUK 5:27",
-          "end_ref": "42005039",
-          "end_ref_usfm": "LUK 5:39"
-        },
-        {
-          "start_ref": "42006001",
-          "start_ref_usfm": "LUK 6:1",
-          "end_ref": "42006011",
-          "end_ref_usfm": "LUK 6:11"
-        },
-        {
-          "start_ref": "42006012",
-          "start_ref_usfm": "LUK 6:12",
-          "end_ref": "42006016",
-          "end_ref_usfm": "LUK 6:16"
-        },
-        {
-          "start_ref": "42006017",
-          "start_ref_usfm": "LUK 6:17",
-          "end_ref": "42006019",
-          "end_ref_usfm": "LUK 6:19"
-        },
-        {
-          "start_ref": "42006020",
-          "start_ref_usfm": "LUK 6:20",
-          "end_ref": "42006026",
-          "end_ref_usfm": "LUK 6:26"
-        },
-        {
-          "start_ref": "42006027",
-          "start_ref_usfm": "LUK 6:27",
-          "end_ref": "42006036",
-          "end_ref_usfm": "LUK 6:36"
-        },
-        {
-          "start_ref": "42006037",
-          "start_ref_usfm": "LUK 6:37",
-          "end_ref": "42006042",
-          "end_ref_usfm": "LUK 6:42"
-        },
-        {
-          "start_ref": "42006043",
-          "start_ref_usfm": "LUK 6:43",
-          "end_ref": "42006049",
-          "end_ref_usfm": "LUK 6:49"
-        },
-        {
-          "start_ref": "42007011",
-          "start_ref_usfm": "LUK 7:11",
-          "end_ref": "42007017",
-          "end_ref_usfm": "LUK 7:17"
-        },
-        {
-          "start_ref": "42007018",
-          "start_ref_usfm": "LUK 7:18",
-          "end_ref": "42007035",
-          "end_ref_usfm": "LUK 7:35"
-        },
-        {
-          "start_ref": "42008004",
-          "start_ref_usfm": "LUK 8:4",
-          "end_ref": "42008015",
-          "end_ref_usfm": "LUK 8:15"
-        },
-        {
-          "start_ref": "42008022",
-          "start_ref_usfm": "LUK 8:22",
-          "end_ref": "42008025",
-          "end_ref_usfm": "LUK 8:25"
-        },
-        {
-          "start_ref": "42016001",
-          "start_ref_usfm": "LUK 16:1",
-          "end_ref": "42016015",
-          "end_ref_usfm": "LUK 16:15"
-        },
-        {
-          "start_ref": "42017001",
-          "start_ref_usfm": "LUK 17:1",
-          "end_ref": "42017010",
-          "end_ref_usfm": "LUK 17:10"
-        },
-        {
-          "start_ref": "42017020",
-          "start_ref_usfm": "LUK 17:20",
-          "end_ref": "42017037",
-          "end_ref_usfm": "LUK 17:37"
-        },
-        {
-          "start_ref": "42018001",
-          "start_ref_usfm": "LUK 18:1",
-          "end_ref": "42018017",
-          "end_ref_usfm": "LUK 18:17"
-        },
-        {
-          "start_ref": "42018031",
-          "start_ref_usfm": "LUK 18:31",
-          "end_ref": "42018034",
-          "end_ref_usfm": "LUK 18:34"
-        },
-        {
-          "start_ref": "40027057",
-          "start_ref_usfm": "MAT 27:57",
-          "end_ref": "40027066",
-          "end_ref_usfm": "MAT 27:66"
-        },
-        {
-          "start_ref": "40028001",
-          "start_ref_usfm": "MAT 28:1",
-          "end_ref": "40028015",
-          "end_ref_usfm": "MAT 28:15"
-        },
-        {
-          "start_ref": "40028016",
-          "start_ref_usfm": "MAT 28:16",
-          "end_ref": "40028020",
-          "end_ref_usfm": "MAT 28:20"
-        },
-        {
-          "start_ref": "40010001",
-          "start_ref_usfm": "MAT 10:1",
-          "end_ref": "40010015",
-          "end_ref_usfm": "MAT 10:15"
-        },
-        {
-          "start_ref": "40013010",
-          "start_ref_usfm": "MAT 13:10",
-          "end_ref": "40013017",
-          "end_ref_usfm": "MAT 13:17"
-        },
-        {
-          "start_ref": "40013036",
-          "start_ref_usfm": "MAT 13:36",
-          "end_ref": "40013043",
-          "end_ref_usfm": "MAT 13:43"
-        },
-        {
-          "start_ref": "40013044",
-          "start_ref_usfm": "MAT 13:44",
-          "end_ref": "40013053",
-          "end_ref_usfm": "MAT 13:53"
-        },
-        {
-          "start_ref": "40014001",
-          "start_ref_usfm": "MAT 14:1",
-          "end_ref": "40014012",
-          "end_ref_usfm": "MAT 14:12"
-        },
-        {
-          "start_ref": "40014013",
-          "start_ref_usfm": "MAT 14:13",
-          "end_ref": "40014021",
-          "end_ref_usfm": "MAT 14:21"
-        },
-        {
-          "start_ref": "40017001",
-          "start_ref_usfm": "MAT 17:1",
-          "end_ref": "40017013",
-          "end_ref_usfm": "MAT 17:13"
-        },
-        {
-          "start_ref": "40017014",
-          "start_ref_usfm": "MAT 17:14",
-          "end_ref": "40017021",
-          "end_ref_usfm": "MAT 17:21"
-        },
-        {
-          "start_ref": "40017022",
-          "start_ref_usfm": "MAT 17:22",
-          "end_ref": "40017027",
-          "end_ref_usfm": "MAT 17:27"
-        },
-        {
-          "start_ref": "40018001",
-          "start_ref_usfm": "MAT 18:1",
-          "end_ref": "40018009",
-          "end_ref_usfm": "MAT 18:9"
-        },
-        {
-          "start_ref": "40019001",
-          "start_ref_usfm": "MAT 19:1",
-          "end_ref": "40019012",
-          "end_ref_usfm": "MAT 19:12"
-        },
-        {
-          "start_ref": "40019013",
-          "start_ref_usfm": "MAT 19:13",
-          "end_ref": "40019030",
-          "end_ref_usfm": "MAT 19:30"
-        },
-        {
-          "start_ref": "40020017",
-          "start_ref_usfm": "MAT 20:17",
-          "end_ref": "40020028",
-          "end_ref_usfm": "MAT 20:28"
-        },
-        {
-          "start_ref": "40005001",
-          "start_ref_usfm": "MAT 5:1",
-          "end_ref": "40005012",
-          "end_ref_usfm": "MAT 5:12"
-        },
-        {
-          "start_ref": "40024003",
-          "start_ref_usfm": "MAT 24:3",
-          "end_ref": "40024014",
-          "end_ref_usfm": "MAT 24:14"
-        },
-        {
-          "start_ref": "40005013",
-          "start_ref_usfm": "MAT 5:13",
-          "end_ref": "40005016",
-          "end_ref_usfm": "MAT 5:16"
-        },
-        {
-          "start_ref": "41002023",
-          "start_ref_usfm": "MRK 2:23",
-          "end_ref": "41003006",
-          "end_ref_usfm": "MRK 3:6"
-        },
-        {
-          "start_ref": "41003007",
-          "start_ref_usfm": "MRK 3:7",
-          "end_ref": "41003012",
-          "end_ref_usfm": "MRK 3:12"
-        },
-        {
-          "start_ref": "41003013",
-          "start_ref_usfm": "MRK 3:13",
-          "end_ref": "41003019",
-          "end_ref_usfm": "MRK 3:19"
-        },
-        {
-          "start_ref": "41003020",
-          "start_ref_usfm": "MRK 3:20",
-          "end_ref": "41003035",
-          "end_ref_usfm": "MRK 3:35"
-        },
-        {
-          "start_ref": "41004001",
-          "start_ref_usfm": "MRK 4:1",
-          "end_ref": "41004020",
-          "end_ref_usfm": "MRK 4:20"
-        },
-        {
-          "start_ref": "41004035",
-          "start_ref_usfm": "MRK 4:35",
-          "end_ref": "41004041",
-          "end_ref_usfm": "MRK 4:41"
-        },
-        {
-          "start_ref": "41005021",
-          "start_ref_usfm": "MRK 5:21",
-          "end_ref": "41005034",
-          "end_ref_usfm": "MRK 5:34"
-        },
-        {
-          "start_ref": "41006001",
-          "start_ref_usfm": "MRK 6:1",
-          "end_ref": "41006006",
-          "end_ref_usfm": "MRK 6:6"
-        },
-        {
-          "start_ref": "41006030",
-          "start_ref_usfm": "MRK 6:30",
-          "end_ref": "41006044",
-          "end_ref_usfm": "MRK 6:44"
-        },
-        {
-          "start_ref": "41006045",
-          "start_ref_usfm": "MRK 6:45",
-          "end_ref": "41006056",
-          "end_ref_usfm": "MRK 6:56"
-        },
-        {
-          "start_ref": "41007001",
-          "start_ref_usfm": "MRK 7:1",
-          "end_ref": "41007008",
-          "end_ref_usfm": "MRK 7:8"
-        },
-        {
-          "start_ref": "41007014",
-          "start_ref_usfm": "MRK 7:14",
-          "end_ref": "41007023",
-          "end_ref_usfm": "MRK 7:23"
-        },
-        {
-          "start_ref": "41008001",
-          "start_ref_usfm": "MRK 8:1",
-          "end_ref": "41008010",
-          "end_ref_usfm": "MRK 8:10"
-        },
-        {
-          "start_ref": "41008011",
-          "start_ref_usfm": "MRK 8:11",
-          "end_ref": "41008021",
-          "end_ref_usfm": "MRK 8:21"
-        },
-        {
-          "start_ref": "41008027",
-          "start_ref_usfm": "MRK 8:27",
-          "end_ref": "41008030",
-          "end_ref_usfm": "MRK 8:30"
-        },
-        {
-          "start_ref": "41009014",
-          "start_ref_usfm": "MRK 9:14",
-          "end_ref": "41009029",
-          "end_ref_usfm": "MRK 9:29"
-        },
-        {
-          "start_ref": "41009030",
-          "start_ref_usfm": "MRK 9:30",
-          "end_ref": "41009050",
-          "end_ref_usfm": "MRK 9:50"
-        },
-        {
-          "start_ref": "41010001",
-          "start_ref_usfm": "MRK 10:1",
-          "end_ref": "41010012",
-          "end_ref_usfm": "MRK 10:12"
-        },
-        {
-          "start_ref": "41010013",
-          "start_ref_usfm": "MRK 10:13",
-          "end_ref": "41010031",
-          "end_ref_usfm": "MRK 10:31"
-        },
-        {
-          "start_ref": "41010032",
-          "start_ref_usfm": "MRK 10:32",
-          "end_ref": "41010045",
-          "end_ref_usfm": "MRK 10:45"
-        },
-        {
-          "start_ref": "41010046",
-          "start_ref_usfm": "MRK 10:46",
-          "end_ref": "41010052",
-          "end_ref_usfm": "MRK 10:52"
-        },
-        {
-          "start_ref": "41011001",
-          "start_ref_usfm": "MRK 11:1",
-          "end_ref": "41011011",
-          "end_ref_usfm": "MRK 11:11"
-        },
-        {
-          "start_ref": "41011012",
-          "start_ref_usfm": "MRK 11:12",
-          "end_ref": "41011026",
-          "end_ref_usfm": "MRK 11:26"
-        },
-        {
-          "start_ref": "41011027",
-          "start_ref_usfm": "MRK 11:27",
-          "end_ref": "41011033",
-          "end_ref_usfm": "MRK 11:33"
-        },
-        {
-          "start_ref": "41013001",
-          "start_ref_usfm": "MRK 13:1",
-          "end_ref": "41013008",
-          "end_ref_usfm": "MRK 13:8"
-        },
-        {
-          "start_ref": "41014001",
-          "start_ref_usfm": "MRK 14:1",
-          "end_ref": "41014011",
-          "end_ref_usfm": "MRK 14:11"
-        },
-        {
-          "start_ref": "41014012",
-          "start_ref_usfm": "MRK 14:12",
-          "end_ref": "41014026",
-          "end_ref_usfm": "MRK 14:26"
-        },
-        {
-          "start_ref": "41014032",
-          "start_ref_usfm": "MRK 14:32",
-          "end_ref": "41014042",
-          "end_ref_usfm": "MRK 14:42"
-        },
-        {
-          "start_ref": "41016001",
-          "start_ref_usfm": "MRK 16:1",
-          "end_ref": "41016008",
-          "end_ref_usfm": "MRK 16:8"
-        },
-        {
-          "start_ref": "41016009",
-          "start_ref_usfm": "MRK 16:9",
-          "end_ref": "41016020",
-          "end_ref_usfm": "MRK 16:20"
-        },
-        {
-          "start_ref": "41002013",
-          "start_ref_usfm": "MRK 2:13",
-          "end_ref": "41002017",
-          "end_ref_usfm": "MRK 2:17"
-        },
-        {
-          "start_ref": "41002018",
-          "start_ref_usfm": "MRK 2:18",
-          "end_ref": "41002022",
-          "end_ref_usfm": "MRK 2:22"
-        },
-        {
-          "start_ref": "40008018",
-          "start_ref_usfm": "MAT 8:18",
-          "end_ref": "40008022",
-          "end_ref_usfm": "MAT 8:22"
-        },
-        {
-          "start_ref": "40026036",
-          "start_ref_usfm": "MAT 26:36",
-          "end_ref": "40026046",
-          "end_ref_usfm": "MAT 26:46"
-        },
-        {
-          "start_ref": "42022039",
-          "start_ref_usfm": "LUK 22:39",
-          "end_ref": "42022046",
-          "end_ref_usfm": "LUK 22:46"
-        },
-        {
-          "start_ref": "42009028",
-          "start_ref_usfm": "LUK 9:28",
-          "end_ref": "42009036",
-          "end_ref_usfm": "LUK 9:36"
-        },
-        {
-          "start_ref": "40015001",
-          "start_ref_usfm": "MAT 15:1",
-          "end_ref": "40015020",
-          "end_ref_usfm": "MAT 15:20"
-        },
-        {
-          "start_ref": "40008023",
-          "start_ref_usfm": "MAT 8:23",
-          "end_ref": "40008027",
-          "end_ref_usfm": "MAT 8:27"
-        },
-        {
-          "start_ref": "40012001",
-          "start_ref_usfm": "MAT 12:1",
-          "end_ref": "40012014",
-          "end_ref_usfm": "MAT 12:14"
-        },
-        {
-          "start_ref": "42009018",
-          "start_ref_usfm": "LUK 9:18",
-          "end_ref": "42009027",
-          "end_ref_usfm": "LUK 9:27"
-        },
-        {
-          "start_ref": "42011001",
-          "start_ref_usfm": "LUK 11:1",
-          "end_ref": "42011013",
-          "end_ref_usfm": "LUK 11:13"
-        },
-        {
-          "start_ref": "40021001",
-          "start_ref_usfm": "MAT 21:1",
-          "end_ref": "40021011",
-          "end_ref_usfm": "MAT 21:11"
-        },
-        {
-          "start_ref": "43018015",
-          "start_ref_usfm": "JHN 18:15",
-          "end_ref": "43018027",
-          "end_ref_usfm": "JHN 18:27"
-        },
-        {
-          "start_ref": "43003022",
-          "start_ref_usfm": "JHN 3:22",
-          "end_ref": "43003036",
-          "end_ref_usfm": "JHN 3:36"
-        },
-        {
-          "start_ref": "43006016",
-          "start_ref_usfm": "JHN 6:16",
-          "end_ref": "43006021",
-          "end_ref_usfm": "JHN 6:21"
-        },
-        {
-          "start_ref": "43021001",
-          "start_ref_usfm": "JHN 21:1",
-          "end_ref": "43021014",
-          "end_ref_usfm": "JHN 21:14"
-        },
-        {
-          "start_ref": "40009009",
-          "start_ref_usfm": "MAT 9:9",
-          "end_ref": "40009013",
-          "end_ref_usfm": "MAT 9:13"
-        },
-        {
-          "start_ref": "40012046",
-          "start_ref_usfm": "MAT 12:46",
-          "end_ref": "40012050",
-          "end_ref_usfm": "MAT 12:50"
-        },
-        {
-          "start_ref": "43017020",
-          "start_ref_usfm": "JHN 17:20",
-          "end_ref": "43017026",
-          "end_ref_usfm": "JHN 17:26"
-        },
-        {
-          "start_ref": "43015001",
-          "start_ref_usfm": "JHN 15:1",
-          "end_ref": "43015017",
-          "end_ref_usfm": "JHN 15:17"
-        },
-        {
-          "start_ref": "42010038",
-          "start_ref_usfm": "LUK 10:38",
-          "end_ref": "42010042",
-          "end_ref_usfm": "LUK 10:42"
-        },
-        {
-          "start_ref": "42019028",
-          "start_ref_usfm": "LUK 19:28",
-          "end_ref": "42019044",
-          "end_ref_usfm": "LUK 19:44"
-        },
-        {
-          "start_ref": "44016001",
-          "start_ref_usfm": "ACT 16:1",
-          "end_ref": "44016005",
-          "end_ref_usfm": "ACT 16:5"
-        },
-        {
-          "start_ref": "43012001",
-          "start_ref_usfm": "JHN 12:1",
-          "end_ref": "43012011",
-          "end_ref_usfm": "JHN 12:11"
-        },
-        {
-          "start_ref": "40009014",
-          "start_ref_usfm": "MAT 9:14",
-          "end_ref": "40009017",
-          "end_ref_usfm": "MAT 9:17"
-        },
-        {
-          "start_ref": "40016021",
-          "start_ref_usfm": "MAT 16:21",
-          "end_ref": "40016028",
-          "end_ref_usfm": "MAT 16:28"
-        },
-        {
-          "start_ref": "40026047",
-          "start_ref_usfm": "MAT 26:47",
-          "end_ref": "40026056",
-          "end_ref_usfm": "MAT 26:56"
-        },
-        {
-          "start_ref": "43001035",
-          "start_ref_usfm": "JHN 1:35",
-          "end_ref": "43001042",
-          "end_ref_usfm": "JHN 1:42"
-        },
-        {
-          "start_ref": "44006001",
-          "start_ref_usfm": "ACT 6:1",
-          "end_ref": "44006007",
-          "end_ref_usfm": "ACT 6:7"
-        },
-        {
-          "start_ref": "42012013",
-          "start_ref_usfm": "LUK 12:13",
-          "end_ref": "42012021",
-          "end_ref_usfm": "LUK 12:21"
-        },
-        {
-          "start_ref": "40009018",
-          "start_ref_usfm": "MAT 9:18",
-          "end_ref": "40009026",
-          "end_ref_usfm": "MAT 9:26"
-        },
-        {
-          "start_ref": "43007001",
-          "start_ref_usfm": "JHN 7:1",
-          "end_ref": "43007010",
-          "end_ref_usfm": "JHN 7:10"
-        },
-        {
-          "start_ref": "42012022",
-          "start_ref_usfm": "LUK 12:22",
-          "end_ref": "42012034",
-          "end_ref_usfm": "LUK 12:34"
-        },
-        {
-          "start_ref": "42014025",
-          "start_ref_usfm": "LUK 14:25",
-          "end_ref": "42014035",
-          "end_ref_usfm": "LUK 14:35"
-        },
-        {
-          "start_ref": "42008026",
-          "start_ref_usfm": "LUK 8:26",
-          "end_ref": "42008039",
-          "end_ref_usfm": "LUK 8:39"
-        },
-        {
-          "start_ref": "40022015",
-          "start_ref_usfm": "MAT 22:15",
-          "end_ref": "40022022",
-          "end_ref_usfm": "MAT 22:22"
-        },
-        {
-          "start_ref": "44014021",
-          "start_ref_usfm": "ACT 14:21",
-          "end_ref": "44014028",
-          "end_ref_usfm": "ACT 14:28"
-        },
-        {
-          "start_ref": "40026026",
-          "start_ref_usfm": "MAT 26:26",
-          "end_ref": "40026035",
-          "end_ref_usfm": "MAT 26:35"
-        },
-        {
-          "start_ref": "44013042",
-          "start_ref_usfm": "ACT 13:42",
-          "end_ref": "44013052",
-          "end_ref_usfm": "ACT 13:52"
-        },
-        {
-          "start_ref": "43009024",
-          "start_ref_usfm": "JHN 9:24",
-          "end_ref": "43009034",
-          "end_ref_usfm": "JHN 9:34"
-        },
-        {
-          "start_ref": "40010016",
-          "start_ref_usfm": "MAT 10:16",
-          "end_ref": "40010025",
-          "end_ref_usfm": "MAT 10:25"
-        },
-        {
-          "start_ref": "43013001",
-          "start_ref_usfm": "JHN 13:1",
-          "end_ref": "43013011",
-          "end_ref_usfm": "JHN 13:11"
-        },
-        {
-          "start_ref": "43013031",
-          "start_ref_usfm": "JHN 13:31",
-          "end_ref": "43013038",
-          "end_ref_usfm": "JHN 13:38"
-        },
-        {
-          "start_ref": "43020001",
-          "start_ref_usfm": "JHN 20:1",
-          "end_ref": "43020018",
-          "end_ref_usfm": "JHN 20:18"
-        },
-        {
-          "start_ref": "43012012",
-          "start_ref_usfm": "JHN 12:12",
-          "end_ref": "43012019",
-          "end_ref_usfm": "JHN 12:19"
-        },
-        {
-          "start_ref": "43002013",
-          "start_ref_usfm": "JHN 2:13",
-          "end_ref": "43002025",
-          "end_ref_usfm": "JHN 2:25"
-        },
-        {
-          "start_ref": "40026001",
-          "start_ref_usfm": "MAT 26:1",
-          "end_ref": "40026016",
-          "end_ref_usfm": "MAT 26:16"
-        },
-        {
-          "start_ref": "43004027",
-          "start_ref_usfm": "JHN 4:27",
-          "end_ref": "43004042",
-          "end_ref_usfm": "JHN 4:42"
-        },
-        {
-          "start_ref": "43020019",
-          "start_ref_usfm": "JHN 20:19",
-          "end_ref": "43020031",
-          "end_ref_usfm": "JHN 20:31"
-        },
-        {
-          "start_ref": "40014022",
-          "start_ref_usfm": "MAT 14:22",
-          "end_ref": "40014036",
-          "end_ref_usfm": "MAT 14:36"
-        },
-        {
-          "start_ref": "44003001",
-          "start_ref_usfm": "ACT 3:1",
-          "end_ref": "44003010",
-          "end_ref_usfm": "ACT 3:10"
-        },
-        {
-          "start_ref": "40009027",
-          "start_ref_usfm": "MAT 9:27",
-          "end_ref": "40009038",
-          "end_ref_usfm": "MAT 9:38"
-        },
-        {
-          "start_ref": "43013012",
-          "start_ref_usfm": "JHN 13:12",
-          "end_ref": "43013030",
-          "end_ref_usfm": "JHN 13:30"
-        },
-        {
-          "start_ref": "40023001",
-          "start_ref_usfm": "MAT 23:1",
-          "end_ref": "40023012",
-          "end_ref_usfm": "MAT 23:12"
-        },
-        {
-          "start_ref": "43019031",
-          "start_ref_usfm": "JHN 19:31",
-          "end_ref": "43019042",
-          "end_ref_usfm": "JHN 19:42"
-        },
-        {
-          "start_ref": "43011001",
-          "start_ref_usfm": "JHN 11:1",
-          "end_ref": "43011016",
-          "end_ref_usfm": "JHN 11:16"
-        },
-        {
-          "start_ref": "40026017",
-          "start_ref_usfm": "MAT 26:17",
-          "end_ref": "40026025",
-          "end_ref_usfm": "MAT 26:25"
-        },
-        {
-          "start_ref": "40011001",
-          "start_ref_usfm": "MAT 11:1",
-          "end_ref": "40011006",
-          "end_ref_usfm": "MAT 11:6"
-        },
-        {
-          "start_ref": "42009001",
-          "start_ref_usfm": "LUK 9:1",
-          "end_ref": "42009017",
-          "end_ref_usfm": "LUK 9:17"
-        },
-        {
-          "start_ref": "42012001",
-          "start_ref_usfm": "LUK 12:1",
-          "end_ref": "42012012",
-          "end_ref_usfm": "LUK 12:12"
-        },
-        {
-          "start_ref": "42020045",
-          "start_ref_usfm": "LUK 20:45",
-          "end_ref": "42021004",
-          "end_ref_usfm": "LUK 21:4"
-        },
-        {
-          "start_ref": "42022047",
-          "start_ref_usfm": "LUK 22:47",
-          "end_ref": "42022062",
-          "end_ref_usfm": "LUK 22:62"
-        },
-        {
-          "start_ref": "43021015",
-          "start_ref_usfm": "JHN 21:15",
-          "end_ref": "43021025",
-          "end_ref_usfm": "JHN 21:25"
-        },
-        {
-          "start_ref": "43008031",
-          "start_ref_usfm": "JHN 8:31",
-          "end_ref": "43008047",
-          "end_ref_usfm": "JHN 8:47"
-        },
-        {
-          "start_ref": "43018001",
-          "start_ref_usfm": "JHN 18:1",
-          "end_ref": "43018014",
-          "end_ref_usfm": "JHN 18:14"
-        },
-        {
-          "start_ref": "42009037",
-          "start_ref_usfm": "LUK 9:37",
-          "end_ref": "42009045",
-          "end_ref_usfm": "LUK 9:45"
-        },
-        {
-          "start_ref": "42009046",
-          "start_ref_usfm": "LUK 9:46",
-          "end_ref": "42009062",
-          "end_ref_usfm": "LUK 9:62"
-        },
-        {
-          "start_ref": "42010017",
-          "start_ref_usfm": "LUK 10:17",
-          "end_ref": "42010024",
-          "end_ref_usfm": "LUK 10:24"
-        },
-        {
-          "start_ref": "42021005",
-          "start_ref_usfm": "LUK 21:5",
-          "end_ref": "42021011",
-          "end_ref_usfm": "LUK 21:11"
-        },
-        {
-          "start_ref": "42010001",
-          "start_ref_usfm": "LUK 10:1",
-          "end_ref": "42010016",
-          "end_ref_usfm": "LUK 10:16"
-        },
-        {
-          "start_ref": "42022024",
-          "start_ref_usfm": "LUK 22:24",
-          "end_ref": "42022038",
-          "end_ref_usfm": "LUK 22:38"
-        }
-      ],
-      "resource": [
-        {
-          "reference_id": 186578,
-          "content_id": 840354,
-          "resource_code": "Unknown",
-          "label": "buenas nuevas",
-          "language": "spa"
-        },
-        {
-          "reference_id": 186578,
-          "content_id": 840365,
-          "resource_code": "Unknown",
-          "label": "buenas nuevas",
-          "language": "spa"
-        }
-      ]
-    }
-  }
+{
+"content_id": "spa-t19-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "caesar",
+"media_type": "Text",
+"index_reference": "caesar",
+"language": "spa",
+"review_level": "None",
+"content": "<p><b>César</b> es el título para el emperador romano. Roma es una ciudad en el país llamado Italia. En la época del Nuevo Testamento, Roma era la capital del imperio romano.</p><p>Un imperio es un grupo de <b>naciones</b> o países que son gobernados por una persona o un gobierno. El líder de un imperio se llama de emperador. El emperador de los romanos se llamaba César.</p><p>El Imperio Romano incluía muchos países y grupos de personas. El Imperio Romano era muy grande. Las personas en todos esos países tenían que pagar impuestos al César. El César era tan poderoso que muchas personas lo trataban como a un dios. En algunas ciudades, las personas construían <b>templos</b> donde <b>adoraban</b> estatuas del César.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40022015",
+"start_ref_usfm": "MAT 22:15",
+"end_ref": "40022022",
+"end_ref_usfm": "MAT 22:22"
+},
+{
+"start_ref": "41012013",
+"start_ref_usfm": "MRK 12:13",
+"end_ref": "41012017",
+"end_ref_usfm": "MRK 12:17"
+},
+{
+"start_ref": "42020020",
+"start_ref_usfm": "LUK 20:20",
+"end_ref": "42020040",
+"end_ref_usfm": "LUK 20:40"
+},
+{
+"start_ref": "42023001",
+"start_ref_usfm": "LUK 23:1",
+"end_ref": "42023012",
+"end_ref_usfm": "LUK 23:12"
+},
+{
+"start_ref": "43019001",
+"start_ref_usfm": "JHN 19:1",
+"end_ref": "43019016",
+"end_ref_usfm": "JHN 19:16"
+},
+{
+"start_ref": "44025006",
+"start_ref_usfm": "ACT 25:6",
+"end_ref": "44025012",
+"end_ref_usfm": "ACT 25:12"
+},
+{
+"start_ref": "44025013",
+"start_ref_usfm": "ACT 25:13",
+"end_ref": "44025022",
+"end_ref_usfm": "ACT 25:22"
+},
+{
+"start_ref": "44025023",
+"start_ref_usfm": "ACT 25:23",
+"end_ref": "44025027",
+"end_ref_usfm": "ACT 25:27"
+},
+{
+"start_ref": "44026024",
+"start_ref_usfm": "ACT 26:24",
+"end_ref": "44026032",
+"end_ref_usfm": "ACT 26:32"
+},
+{
+"start_ref": "44027009",
+"start_ref_usfm": "ACT 27:9",
+"end_ref": "44027026",
+"end_ref_usfm": "ACT 27:26"
+},
+{
+"start_ref": "44028017",
+"start_ref_usfm": "ACT 28:17",
+"end_ref": "44028031",
+"end_ref_usfm": "ACT 28:31"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "spa-t20-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "caeserea-philippi",
+"media_type": "Text",
+"index_reference": "caesereaphilippi",
+"language": "spa",
+"review_level": "None",
+"content": "<p><b>Cesarea de Filipo</b> era una ciudad a unos 40 kilómetros al norte del <a href=\"#t121\">Mar de Galilea</a>. El pueblo que vivía en esta área no era <b>judío</b>. Dentro de esta ciudad había un templo que el pueblo había construido para <a href=\"#t149\">adorar</a> a <a href=\"#t19\">César</a>, el emperador romano.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "41008027",
+"start_ref_usfm": "MRK 8:27",
+"end_ref": "41008030",
+"end_ref_usfm": "MRK 8:30"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "spa-t22-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Cafarnaúm",
+"media_type": "Text",
+"index_reference": "cafarnaúm",
+"language": "spa",
+"review_level": "None",
+"content": "<p><b>Cafarnaúm</b> era una pequeña ciudad en la región llamada <a href=\"#t55\">Galilea</a>, cerca del <a href=\"#t121\">Mar de Galilea</a>. Muchas personas en Cafarnaúm se ganaban la vida pescando o comprando y vendiendo mercancías. La ciudad estaba cerca de un camino importante. Las personas viajaban por este camino a otros lugares para comprar y vender mercancías. Por lo tanto, la ciudad era importante en la región, aunque no fuera muy grande.</p><p>Varios de los <a href=\"#t39\">discípulos</a> de Jesús eran de Cafarnaúm. Jesús a menudo se quedaba en Cafarnaúm.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "41001021",
+"start_ref_usfm": "MRK 1:21",
+"end_ref": "41001028",
+"end_ref_usfm": "MRK 1:28"
+},
+{
+"start_ref": "41002001",
+"start_ref_usfm": "MRK 2:1",
+"end_ref": "41002012",
+"end_ref_usfm": "MRK 2:12"
+},
+{
+"start_ref": "41002013",
+"start_ref_usfm": "MRK 2:13",
+"end_ref": "41002017",
+"end_ref_usfm": "MRK 2:17"
+},
+{
+"start_ref": "41009030",
+"start_ref_usfm": "MRK 9:30",
+"end_ref": "41009050",
+"end_ref_usfm": "MRK 9:50"
+},
+{
+"start_ref": "41010001",
+"start_ref_usfm": "MRK 10:1",
+"end_ref": "41010012",
+"end_ref_usfm": "MRK 10:12"
+},
+{
+"start_ref": "42004031",
+"start_ref_usfm": "LUK 4:31",
+"end_ref": "42004044",
+"end_ref_usfm": "LUK 4:44"
+},
+{
+"start_ref": "42005001",
+"start_ref_usfm": "LUK 5:1",
+"end_ref": "42005011",
+"end_ref_usfm": "LUK 5:11"
+},
+{
+"start_ref": "42005017",
+"start_ref_usfm": "LUK 5:17",
+"end_ref": "42005026",
+"end_ref_usfm": "LUK 5:26"
+},
+{
+"start_ref": "42005027",
+"start_ref_usfm": "LUK 5:27",
+"end_ref": "42005039",
+"end_ref_usfm": "LUK 5:39"
+},
+{
+"start_ref": "42007001",
+"start_ref_usfm": "LUK 7:1",
+"end_ref": "42007010",
+"end_ref_usfm": "LUK 7:10"
+},
+{
+"start_ref": "42007011",
+"start_ref_usfm": "LUK 7:11",
+"end_ref": "42007017",
+"end_ref_usfm": "LUK 7:17"
+},
+{
+"start_ref": "42008022",
+"start_ref_usfm": "LUK 8:22",
+"end_ref": "42008025",
+"end_ref_usfm": "LUK 8:25"
+},
+{
+"start_ref": "42010001",
+"start_ref_usfm": "LUK 10:1",
+"end_ref": "42010016",
+"end_ref_usfm": "LUK 10:16"
+},
+{
+"start_ref": "43004043",
+"start_ref_usfm": "JHN 4:43",
+"end_ref": "43004054",
+"end_ref_usfm": "JHN 4:54"
+},
+{
+"start_ref": "43006016",
+"start_ref_usfm": "JHN 6:16",
+"end_ref": "43006021",
+"end_ref_usfm": "JHN 6:21"
+},
+{
+"start_ref": "43006022",
+"start_ref_usfm": "JHN 6:22",
+"end_ref": "43006027",
+"end_ref_usfm": "JHN 6:27"
+},
+{
+"start_ref": "43006052",
+"start_ref_usfm": "JHN 6:52",
+"end_ref": "43006059",
+"end_ref_usfm": "JHN 6:59"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Capernaum",
+"type": "place",
+"confidence": 0.6229,
+"match_method": "scored",
+"preferred_label": "Capernaum"
+}
+]
+}
+},
+{
+"content_id": "spa-t22-v1-audio",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Cafarnaúm",
+"media_type": "Audio",
+"index_reference": "cafarnaúm",
+"language": "spa",
+"review_level": "None",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/spa/t22/v1/vbr4.mp3'>mp3 file</a> (382220 KB)</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "41001021",
+"start_ref_usfm": "MRK 1:21",
+"end_ref": "41001028",
+"end_ref_usfm": "MRK 1:28"
+},
+{
+"start_ref": "41002001",
+"start_ref_usfm": "MRK 2:1",
+"end_ref": "41002012",
+"end_ref_usfm": "MRK 2:12"
+},
+{
+"start_ref": "41002013",
+"start_ref_usfm": "MRK 2:13",
+"end_ref": "41002017",
+"end_ref_usfm": "MRK 2:17"
+},
+{
+"start_ref": "41009030",
+"start_ref_usfm": "MRK 9:30",
+"end_ref": "41009050",
+"end_ref_usfm": "MRK 9:50"
+},
+{
+"start_ref": "41010001",
+"start_ref_usfm": "MRK 10:1",
+"end_ref": "41010012",
+"end_ref_usfm": "MRK 10:12"
+},
+{
+"start_ref": "42004031",
+"start_ref_usfm": "LUK 4:31",
+"end_ref": "42004044",
+"end_ref_usfm": "LUK 4:44"
+},
+{
+"start_ref": "42005001",
+"start_ref_usfm": "LUK 5:1",
+"end_ref": "42005011",
+"end_ref_usfm": "LUK 5:11"
+},
+{
+"start_ref": "42005017",
+"start_ref_usfm": "LUK 5:17",
+"end_ref": "42005026",
+"end_ref_usfm": "LUK 5:26"
+},
+{
+"start_ref": "42005027",
+"start_ref_usfm": "LUK 5:27",
+"end_ref": "42005039",
+"end_ref_usfm": "LUK 5:39"
+},
+{
+"start_ref": "42007001",
+"start_ref_usfm": "LUK 7:1",
+"end_ref": "42007010",
+"end_ref_usfm": "LUK 7:10"
+},
+{
+"start_ref": "42007011",
+"start_ref_usfm": "LUK 7:11",
+"end_ref": "42007017",
+"end_ref_usfm": "LUK 7:17"
+},
+{
+"start_ref": "42008022",
+"start_ref_usfm": "LUK 8:22",
+"end_ref": "42008025",
+"end_ref_usfm": "LUK 8:25"
+},
+{
+"start_ref": "42010001",
+"start_ref_usfm": "LUK 10:1",
+"end_ref": "42010016",
+"end_ref_usfm": "LUK 10:16"
+},
+{
+"start_ref": "43004043",
+"start_ref_usfm": "JHN 4:43",
+"end_ref": "43004054",
+"end_ref_usfm": "JHN 4:54"
+},
+{
+"start_ref": "43006016",
+"start_ref_usfm": "JHN 6:16",
+"end_ref": "43006021",
+"end_ref_usfm": "JHN 6:21"
+},
+{
+"start_ref": "43006022",
+"start_ref_usfm": "JHN 6:22",
+"end_ref": "43006027",
+"end_ref_usfm": "JHN 6:27"
+},
+{
+"start_ref": "43006052",
+"start_ref_usfm": "JHN 6:52",
+"end_ref": "43006059",
+"end_ref_usfm": "JHN 6:59"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "spa-t21-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "camel",
+"media_type": "Text",
+"index_reference": "camel",
+"language": "spa",
+"review_level": "None",
+"content": "<p>Un <b>camello</b> es un animal grande y fuerte que puede caminar una distancia muy larga sin necesitar comida o agua. Las personas se sentaban en camellos mientras viajaban, y usaban los camellos para transportar el equipaje. Un camello tiene una o dos jorobas en su espalda. Dentro de estas jorobas, el camello almacena grasa, lo que le permite pasar mucho tiempo sin comida ni agua. Una vez que un camello tiene la oportunidad de beber, beberá una enorme cantidad de agua de una vez.</p><p>El camello era el animal más grande que existía en <a href=\"#t74\">Israel</a>.</p><p>Las personas podían transformar, el pelo corto y rígido de un camello, en una tela. Esto hacía la ropa simple y áspera. <b>Juan el Bautista</b> usaba ropa hecha de pelo de camello.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01024001",
+"start_ref_usfm": "GEN 24:1",
+"end_ref": "01024014",
+"end_ref_usfm": "GEN 24:14"
+},
+{
+"start_ref": "01024015",
+"start_ref_usfm": "GEN 24:15",
+"end_ref": "01024028",
+"end_ref_usfm": "GEN 24:28"
+},
+{
+"start_ref": "01024029",
+"start_ref_usfm": "GEN 24:29",
+"end_ref": "01024049",
+"end_ref_usfm": "GEN 24:49"
+},
+{
+"start_ref": "07007009",
+"start_ref_usfm": "JDG 7:9",
+"end_ref": "07007015",
+"end_ref_usfm": "JDG 7:15"
+},
+{
+"start_ref": "07008004",
+"start_ref_usfm": "JDG 8:4",
+"end_ref": "07008021",
+"end_ref_usfm": "JDG 8:21"
+},
+{
+"start_ref": "09015001",
+"start_ref_usfm": "1SA 15:1",
+"end_ref": "09015009",
+"end_ref_usfm": "1SA 15:9"
+},
+{
+"start_ref": "11009026",
+"start_ref_usfm": "1KI 9:26",
+"end_ref": "11010013",
+"end_ref_usfm": "1KI 10:13"
+},
+{
+"start_ref": "13027025",
+"start_ref_usfm": "1CH 27:25",
+"end_ref": "13027031",
+"end_ref_usfm": "1CH 27:31"
+},
+{
+"start_ref": "15002064",
+"start_ref_usfm": "EZR 2:64",
+"end_ref": "15002070",
+"end_ref_usfm": "EZR 2:70"
+},
+{
+"start_ref": "41010013",
+"start_ref_usfm": "MRK 10:13",
+"end_ref": "41010031",
+"end_ref_usfm": "MRK 10:31"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "spa-t178-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "canaan",
+"media_type": "Text",
+"index_reference": "canaan",
+"language": "spa",
+"review_level": "None",
+"content": "<p>En el Antiguo Testamento, <b>Canaán</b> es un área que es aproximadamente una tira de tierra entre el <a href=\"#t80\">río Jordán</a> en el este, y el Mar Mediterráneo en el oeste. Esta es un área que hoy incluye parte de los países de <a href=\"#t74\">Israel</a> y Palestina, Líbano y Siria.</p><p>Dios había llamado a <a href=\"#t1\">Abraham</a> y le dijo que fuera al país que él le mostraría. Este país era Canaán. Dios prometió a Abraham que toda la tierra de Canaán pertenecería a sus descendientes.</p><p>Muchos otros grupos de personas vivían en esta área en ese momento: hititas, amorreos, cananeos y algunos otros. A veces, a todos ellos juntos se los llaman de cananeos, y a veces a todos ellos juntos se llaman amorreos.</p><p>Cuando los descendientes de Abraham, los <b>israelitas</b>, son liberados de la esclavitud en Egipto, Dios los trae de regreso a Canaán. Dios les da la tarea de expulsar a los cananeos y tomar la tierra. Dios iba a darles la tierra a los israelitas. Dios quería construir una <a href=\"#t94\">nación</a> a partir de los israelitas a través de quienes <a href=\"#t16\">bendeciría</a> a todos los pueblos de la tierra. Para que las personas permanecieran fieles a Dios, era importante que no fueran influenciadas por el pueblo cananeo. El pueblo cananeo <b>adoraba</b> a muchos dioses y hacía muchas cosas que Dios había prohibido específicamente en sus <b>mandamientos</b>. Pero los israelitas no lograron expulsar a los cananeos, y a menudo <b>pecaron</b> siguiendo las costumbres y a los dioses de los cananeos.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01011027",
+"start_ref_usfm": "GEN 11:27",
+"end_ref": "01011032",
+"end_ref_usfm": "GEN 11:32"
+},
+{
+"start_ref": "01012001",
+"start_ref_usfm": "GEN 12:1",
+"end_ref": "01012009",
+"end_ref_usfm": "GEN 12:9"
+},
+{
+"start_ref": "02005022",
+"start_ref_usfm": "EXO 5:22",
+"end_ref": "02006013",
+"end_ref_usfm": "EXO 6:13"
+},
+{
+"start_ref": "02013017",
+"start_ref_usfm": "EXO 13:17",
+"end_ref": "02013022",
+"end_ref_usfm": "EXO 13:22"
+},
+{
+"start_ref": "02015011",
+"start_ref_usfm": "EXO 15:11",
+"end_ref": "02015018",
+"end_ref_usfm": "EXO 15:18"
+},
+{
+"start_ref": "02016022",
+"start_ref_usfm": "EXO 16:22",
+"end_ref": "02016036",
+"end_ref_usfm": "EXO 16:36"
+},
+{
+"start_ref": "02023020",
+"start_ref_usfm": "EXO 23:20",
+"end_ref": "02023033",
+"end_ref_usfm": "EXO 23:33"
+},
+{
+"start_ref": "02033001",
+"start_ref_usfm": "EXO 33:1",
+"end_ref": "02033011",
+"end_ref_usfm": "EXO 33:11"
+},
+{
+"start_ref": "02033012",
+"start_ref_usfm": "EXO 33:12",
+"end_ref": "02033023",
+"end_ref_usfm": "EXO 33:23"
+},
+{
+"start_ref": "02034001",
+"start_ref_usfm": "EXO 34:1",
+"end_ref": "02034009",
+"end_ref_usfm": "EXO 34:9"
+},
+{
+"start_ref": "02034010",
+"start_ref_usfm": "EXO 34:10",
+"end_ref": "02034017",
+"end_ref_usfm": "EXO 34:17"
+},
+{
+"start_ref": "04013001",
+"start_ref_usfm": "NUM 13:1",
+"end_ref": "04013016",
+"end_ref_usfm": "NUM 13:16"
+},
+{
+"start_ref": "04013017",
+"start_ref_usfm": "NUM 13:17",
+"end_ref": "04013033",
+"end_ref_usfm": "NUM 13:33"
+},
+{
+"start_ref": "04021001",
+"start_ref_usfm": "NUM 21:1",
+"end_ref": "04021009",
+"end_ref_usfm": "NUM 21:9"
+},
+{
+"start_ref": "04032028",
+"start_ref_usfm": "NUM 32:28",
+"end_ref": "04032032",
+"end_ref_usfm": "NUM 32:32"
+},
+{
+"start_ref": "04033037",
+"start_ref_usfm": "NUM 33:37",
+"end_ref": "04033049",
+"end_ref_usfm": "NUM 33:49"
+},
+{
+"start_ref": "04033050",
+"start_ref_usfm": "NUM 33:50",
+"end_ref": "04033056",
+"end_ref_usfm": "NUM 33:56"
+},
+{
+"start_ref": "04034001",
+"start_ref_usfm": "NUM 34:1",
+"end_ref": "04034015",
+"end_ref_usfm": "NUM 34:15"
+},
+{
+"start_ref": "04034016",
+"start_ref_usfm": "NUM 34:16",
+"end_ref": "04034029",
+"end_ref_usfm": "NUM 34:29"
+},
+{
+"start_ref": "06005010",
+"start_ref_usfm": "JOS 5:10",
+"end_ref": "06005015",
+"end_ref_usfm": "JOS 5:15"
+},
+{
+"start_ref": "06007001",
+"start_ref_usfm": "JOS 7:1",
+"end_ref": "06007009",
+"end_ref_usfm": "JOS 7:9"
+},
+{
+"start_ref": "06014001",
+"start_ref_usfm": "JOS 14:1",
+"end_ref": "06014015",
+"end_ref_usfm": "JOS 14:15"
+},
+{
+"start_ref": "06016001",
+"start_ref_usfm": "JOS 16:1",
+"end_ref": "06016010",
+"end_ref_usfm": "JOS 16:10"
+},
+{
+"start_ref": "06021001",
+"start_ref_usfm": "JOS 21:1",
+"end_ref": "06021008",
+"end_ref_usfm": "JOS 21:8"
+},
+{
+"start_ref": "06022001",
+"start_ref_usfm": "JOS 22:1",
+"end_ref": "06022012",
+"end_ref_usfm": "JOS 22:12"
+},
+{
+"start_ref": "06024001",
+"start_ref_usfm": "JOS 24:1",
+"end_ref": "06024013",
+"end_ref_usfm": "JOS 24:13"
+},
+{
+"start_ref": "07001001",
+"start_ref_usfm": "JDG 1:1",
+"end_ref": "07001008",
+"end_ref_usfm": "JDG 1:8"
+},
+{
+"start_ref": "07001009",
+"start_ref_usfm": "JDG 1:9",
+"end_ref": "07001017",
+"end_ref_usfm": "JDG 1:17"
+},
+{
+"start_ref": "07001027",
+"start_ref_usfm": "JDG 1:27",
+"end_ref": "07001036",
+"end_ref_usfm": "JDG 1:36"
+},
+{
+"start_ref": "07002020",
+"start_ref_usfm": "JDG 2:20",
+"end_ref": "07003006",
+"end_ref_usfm": "JDG 3:6"
+},
+{
+"start_ref": "07004001",
+"start_ref_usfm": "JDG 4:1",
+"end_ref": "07004010",
+"end_ref_usfm": "JDG 4:10"
+},
+{
+"start_ref": "07004011",
+"start_ref_usfm": "JDG 4:11",
+"end_ref": "07004024",
+"end_ref_usfm": "JDG 4:24"
+},
+{
+"start_ref": "07011012",
+"start_ref_usfm": "JDG 11:12",
+"end_ref": "07011028",
+"end_ref_usfm": "JDG 11:28"
+},
+{
+"start_ref": "11009010",
+"start_ref_usfm": "1KI 9:10",
+"end_ref": "11009025",
+"end_ref_usfm": "1KI 9:25"
+},
+{
+"start_ref": "13002001",
+"start_ref_usfm": "1CH 2:1",
+"end_ref": "13002008",
+"end_ref_usfm": "1CH 2:8"
+},
+{
+"start_ref": "13016014",
+"start_ref_usfm": "1CH 16:14",
+"end_ref": "13016022",
+"end_ref_usfm": "1CH 16:22"
+},
+{
+"start_ref": "14008001",
+"start_ref_usfm": "2CH 8:1",
+"end_ref": "14008018",
+"end_ref_usfm": "2CH 8:18"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "spa-t170-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "centurion",
+"media_type": "Text",
+"index_reference": "centurion",
+"language": "spa",
+"review_level": "None",
+"content": "<p>Un <b>centurión</b> es un oficial militar romano que comanda a un grupo de cien soldados.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01041037",
+"start_ref_usfm": "GEN 41:37",
+"end_ref": "01041057",
+"end_ref_usfm": "GEN 41:57"
+},
+{
+"start_ref": "40008001",
+"start_ref_usfm": "MAT 8:1",
+"end_ref": "40008017",
+"end_ref_usfm": "MAT 8:17"
+},
+{
+"start_ref": "40027045",
+"start_ref_usfm": "MAT 27:45",
+"end_ref": "40027056",
+"end_ref_usfm": "MAT 27:56"
+},
+{
+"start_ref": "41015033",
+"start_ref_usfm": "MRK 15:33",
+"end_ref": "41015039",
+"end_ref_usfm": "MRK 15:39"
+},
+{
+"start_ref": "41015040",
+"start_ref_usfm": "MRK 15:40",
+"end_ref": "41015047",
+"end_ref_usfm": "MRK 15:47"
+},
+{
+"start_ref": "42007001",
+"start_ref_usfm": "LUK 7:1",
+"end_ref": "42007010",
+"end_ref_usfm": "LUK 7:10"
+},
+{
+"start_ref": "42023044",
+"start_ref_usfm": "LUK 23:44",
+"end_ref": "42023049",
+"end_ref_usfm": "LUK 23:49"
+},
+{
+"start_ref": "44010001",
+"start_ref_usfm": "ACT 10:1",
+"end_ref": "44010008",
+"end_ref_usfm": "ACT 10:8"
+},
+{
+"start_ref": "44010009",
+"start_ref_usfm": "ACT 10:9",
+"end_ref": "44010023",
+"end_ref_usfm": "ACT 10:23"
+},
+{
+"start_ref": "44021027",
+"start_ref_usfm": "ACT 21:27",
+"end_ref": "44021036",
+"end_ref_usfm": "ACT 21:36"
+},
+{
+"start_ref": "44022022",
+"start_ref_usfm": "ACT 22:22",
+"end_ref": "44022029",
+"end_ref_usfm": "ACT 22:29"
+},
+{
+"start_ref": "44023012",
+"start_ref_usfm": "ACT 23:12",
+"end_ref": "44023035",
+"end_ref_usfm": "ACT 23:35"
+},
+{
+"start_ref": "44024010",
+"start_ref_usfm": "ACT 24:10",
+"end_ref": "44024023",
+"end_ref_usfm": "ACT 24:23"
+},
+{
+"start_ref": "44027001",
+"start_ref_usfm": "ACT 27:1",
+"end_ref": "44027008",
+"end_ref_usfm": "ACT 27:8"
+},
+{
+"start_ref": "44027009",
+"start_ref_usfm": "ACT 27:9",
+"end_ref": "44027026",
+"end_ref_usfm": "ACT 27:26"
+},
+{
+"start_ref": "44027027",
+"start_ref_usfm": "ACT 27:27",
+"end_ref": "44027038",
+"end_ref_usfm": "ACT 27:38"
+},
+{
+"start_ref": "44027039",
+"start_ref_usfm": "ACT 27:39",
+"end_ref": "44027044",
+"end_ref_usfm": "ACT 27:44"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "spa-t230-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "cherubim",
+"media_type": "Text",
+"index_reference": "cherubim",
+"language": "spa",
+"review_level": "None",
+"content": "<p>Un <b>querubín</b>, o varios <b>querubines</b>, son un tipo de <a href=\"#t4\">ángel</a>. Los querubines parecen proteger especialmente los lugares sagrados, o <a href=\"#t67\">santos</a>. Por lo tanto, había cuadros e imágenes de querubines en el <a href=\"#t138\">templo</a> y en el tabernáculo. En estas imágenes, los querubines tienen el cuerpo de un león, las alas de un ave y el rostro de un humano. Los querubines son una advertencia para las personas de que Dios está presente. De hecho, querubines de oro extendían sus alas sobre la parte superior del arca del pacto y protegían el trono donde Dios se reunía con su pueblo desde la parte superior del arca del pacto. En el libro de Ezequiel, Ezequiel ve una <a href=\"#t143\">visión</a> en la que los querubines están llevando el trono de Dios. En algunas de las descripciones de los querubines en Ezequiel, estos se parecen a personas pero tienen cuatro alas y cuatro rostros.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01003001",
+"start_ref_usfm": "GEN 3:1",
+"end_ref": "01003024",
+"end_ref_usfm": "GEN 3:24"
+},
+{
+"start_ref": "02025010",
+"start_ref_usfm": "EXO 25:10",
+"end_ref": "02025022",
+"end_ref_usfm": "EXO 25:22"
+},
+{
+"start_ref": "02026001",
+"start_ref_usfm": "EXO 26:1",
+"end_ref": "02026014",
+"end_ref_usfm": "EXO 26:14"
+},
+{
+"start_ref": "02026031",
+"start_ref_usfm": "EXO 26:31",
+"end_ref": "02026037",
+"end_ref_usfm": "EXO 26:37"
+},
+{
+"start_ref": "02036008",
+"start_ref_usfm": "EXO 36:8",
+"end_ref": "02036019",
+"end_ref_usfm": "EXO 36:19"
+},
+{
+"start_ref": "02036035",
+"start_ref_usfm": "EXO 36:35",
+"end_ref": "02036038",
+"end_ref_usfm": "EXO 36:38"
+},
+{
+"start_ref": "02037001",
+"start_ref_usfm": "EXO 37:1",
+"end_ref": "02037009",
+"end_ref_usfm": "EXO 37:9"
+},
+{
+"start_ref": "04007084",
+"start_ref_usfm": "NUM 7:84",
+"end_ref": "04007089",
+"end_ref_usfm": "NUM 7:89"
+},
+{
+"start_ref": "09004001",
+"start_ref_usfm": "1SA 4:1",
+"end_ref": "09004011",
+"end_ref_usfm": "1SA 4:11"
+},
+{
+"start_ref": "10006001",
+"start_ref_usfm": "2SA 6:1",
+"end_ref": "10006015",
+"end_ref_usfm": "2SA 6:15"
+},
+{
+"start_ref": "10022005",
+"start_ref_usfm": "2SA 22:5",
+"end_ref": "10022020",
+"end_ref_usfm": "2SA 22:20"
+},
+{
+"start_ref": "11006014",
+"start_ref_usfm": "1KI 6:14",
+"end_ref": "11006038",
+"end_ref_usfm": "1KI 6:38"
+},
+{
+"start_ref": "11007023",
+"start_ref_usfm": "1KI 7:23",
+"end_ref": "11007039",
+"end_ref_usfm": "1KI 7:39"
+},
+{
+"start_ref": "11008001",
+"start_ref_usfm": "1KI 8:1",
+"end_ref": "11008011",
+"end_ref_usfm": "1KI 8:11"
+},
+{
+"start_ref": "13013001",
+"start_ref_usfm": "1CH 13:1",
+"end_ref": "13013014",
+"end_ref_usfm": "1CH 13:14"
+},
+{
+"start_ref": "13028009",
+"start_ref_usfm": "1CH 28:9",
+"end_ref": "13028021",
+"end_ref_usfm": "1CH 28:21"
+},
+{
+"start_ref": "14003001",
+"start_ref_usfm": "2CH 3:1",
+"end_ref": "14003014",
+"end_ref_usfm": "2CH 3:14"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "spa-t23-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "christ",
+"media_type": "Text",
+"index_reference": "christ",
+"language": "spa",
+"review_level": "None",
+"content": "<p>La palabra <b>Cristo</b> es la misma que la palabra <a href=\"#t92\">Mesías</a>. Cristo es la palabra en <b>griego</b>, y Mesías es la misma palabra en <a href=\"#t227\">hebreo</a>. El griego es el idioma del Nuevo Testamento, mientras que el hebreo es el idioma del Antiguo Testamento. </p><p>La palabra &quot;Mesías&quot; se refiere al <a href=\"#t226\">rey</a> y <a href=\"#t119\">Salvador</a> especial que Dios había prometido enviar.</p><p>Mesías literalmente significaba alguien que había sido <b>ungido</b>. Esto quiere decir que otra persona había derramado aceite sobre él. Esta era una señal de que Dios le había dado a esta persona una tarea especial. Por ejemplo, en el Antiguo Testamento, Dios le dijo al <a href=\"#t104\">profeta</a> Samuel que derramara aceite sobre <a href=\"#t33\">David</a>. Esta fue una señal de que Dios eligió a David para convertirse en el próximo rey de <a href=\"#t74\">Israel</a>.</p><p>Más tarde, las personas llamaban a alguien de ungido si Dios había nombrado a esa persona para una tarea especial, aunque nadie hubiera derramado aceite sobre su cabeza.</p><p>David se convirtió en el rey más amado de Israel. Pero después de David, otras personas gobernaron sobre Israel, y muchos de ellos no fueron buenos reyes. Estos reyes alejaban a las personas de Dios, y por lo tanto Dios tuvo que castigar a las personas. El país de Israel fue destruido y quedó bajo el control de otras <b>naciones</b>. Pero aún así, Dios prometió al pueblo de Israel que les enviaría a un nuevo rey. Este rey salvaría a las personas de sus problemas. Este rey sería un descendiente de David.</p><p>Los <b>israelitas</b> comenzaron a referirse a este rey que Dios prometió enviar como &quot;el Mesías&quot;, que significaba &quot;el ungido&quot;.</p><p>Cuando Jesús vino, mostró a las personas que <b>él</b> es el Mesías que Dios había prometido enviar. Jesús era descendiente de David. Jesús demostró que Dios lo había nombrado a través del poder y la <a href=\"#t8\">autoridad</a> extraordinaria que él tenía.</p><p>Jesús casi nunca dijo directamente a las personas: “¡Yo soy el Mesías!” Esto es porque las personas aún no sabían lo que significaría que Jesús fuera el Mesías. Ellos <b>creían</b> erróneamente que el Mesías restauraría el reino de Israel y les devolvería el poder político. Jesús, en cambio, se llamaba a sí mismo el <a href=\"#t130\">Hijo del Hombre</a>, lo cual era una manera indirecta de decir que él era el Mesías.</p><p>Después de que Jesús resucitó de entre los muertos, sus <b>discípulos</b> supieron con gran certeza que él era el Mesías y comenzaron a compartir estas buenas nuevas con otras personas. ¡Dios había enviado a su Salvador! Pero Jesús no fue un Salvador que solo liberó a las personas de un gobierno terrenal. Jesús era un Salvador que hizo mucho más: Jesús liberó a las personas del <a href=\"#t125\">pecado</a> y de la muerte.</p><p><b>Cuando estén traduciendo las palabras &quot;Mesías&quot; o &quot;Cristo&quot;, tengan cuidado con las siguientes cosas:</b></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40001001",
+"start_ref_usfm": "MAT 1:1",
+"end_ref": "40001017",
+"end_ref_usfm": "MAT 1:17"
+},
+{
+"start_ref": "40001018",
+"start_ref_usfm": "MAT 1:18",
+"end_ref": "40001025",
+"end_ref_usfm": "MAT 1:25"
+},
+{
+"start_ref": "40011001",
+"start_ref_usfm": "MAT 11:1",
+"end_ref": "40011006",
+"end_ref_usfm": "MAT 11:6"
+},
+{
+"start_ref": "40012015",
+"start_ref_usfm": "MAT 12:15",
+"end_ref": "40012021",
+"end_ref_usfm": "MAT 12:21"
+},
+{
+"start_ref": "40012022",
+"start_ref_usfm": "MAT 12:22",
+"end_ref": "40012032",
+"end_ref_usfm": "MAT 12:32"
+},
+{
+"start_ref": "40016013",
+"start_ref_usfm": "MAT 16:13",
+"end_ref": "40016020",
+"end_ref_usfm": "MAT 16:20"
+},
+{
+"start_ref": "41001001",
+"start_ref_usfm": "MRK 1:1",
+"end_ref": "41001013",
+"end_ref_usfm": "MRK 1:13"
+},
+{
+"start_ref": "41008027",
+"start_ref_usfm": "MRK 8:27",
+"end_ref": "41008030",
+"end_ref_usfm": "MRK 8:30"
+},
+{
+"start_ref": "41009002",
+"start_ref_usfm": "MRK 9:2",
+"end_ref": "41009013",
+"end_ref_usfm": "MRK 9:13"
+},
+{
+"start_ref": "41009030",
+"start_ref_usfm": "MRK 9:30",
+"end_ref": "41009050",
+"end_ref_usfm": "MRK 9:50"
+},
+{
+"start_ref": "41012035",
+"start_ref_usfm": "MRK 12:35",
+"end_ref": "41012037",
+"end_ref_usfm": "MRK 12:37"
+},
+{
+"start_ref": "41013001",
+"start_ref_usfm": "MRK 13:1",
+"end_ref": "41013008",
+"end_ref_usfm": "MRK 13:8"
+},
+{
+"start_ref": "41013009",
+"start_ref_usfm": "MRK 13:9",
+"end_ref": "41013023",
+"end_ref_usfm": "MRK 13:23"
+},
+{
+"start_ref": "42003015",
+"start_ref_usfm": "LUK 3:15",
+"end_ref": "42003022",
+"end_ref_usfm": "LUK 3:22"
+},
+{
+"start_ref": "42004031",
+"start_ref_usfm": "LUK 4:31",
+"end_ref": "42004044",
+"end_ref_usfm": "LUK 4:44"
+},
+{
+"start_ref": "42009018",
+"start_ref_usfm": "LUK 9:18",
+"end_ref": "42009027",
+"end_ref_usfm": "LUK 9:27"
+},
+{
+"start_ref": "42022063",
+"start_ref_usfm": "LUK 22:63",
+"end_ref": "42022071",
+"end_ref_usfm": "LUK 22:71"
+},
+{
+"start_ref": "42023001",
+"start_ref_usfm": "LUK 23:1",
+"end_ref": "42023012",
+"end_ref_usfm": "LUK 23:12"
+},
+{
+"start_ref": "43001006",
+"start_ref_usfm": "JHN 1:6",
+"end_ref": "43001018",
+"end_ref_usfm": "JHN 1:18"
+},
+{
+"start_ref": "43001019",
+"start_ref_usfm": "JHN 1:19",
+"end_ref": "43001028",
+"end_ref_usfm": "JHN 1:28"
+},
+{
+"start_ref": "43001035",
+"start_ref_usfm": "JHN 1:35",
+"end_ref": "43001042",
+"end_ref_usfm": "JHN 1:42"
+},
+{
+"start_ref": "43003022",
+"start_ref_usfm": "JHN 3:22",
+"end_ref": "43003036",
+"end_ref_usfm": "JHN 3:36"
+},
+{
+"start_ref": "43004016",
+"start_ref_usfm": "JHN 4:16",
+"end_ref": "43004026",
+"end_ref_usfm": "JHN 4:26"
+},
+{
+"start_ref": "43004027",
+"start_ref_usfm": "JHN 4:27",
+"end_ref": "43004042",
+"end_ref_usfm": "JHN 4:42"
+},
+{
+"start_ref": "43007025",
+"start_ref_usfm": "JHN 7:25",
+"end_ref": "43007036",
+"end_ref_usfm": "JHN 7:36"
+},
+{
+"start_ref": "43007037",
+"start_ref_usfm": "JHN 7:37",
+"end_ref": "43007044",
+"end_ref_usfm": "JHN 7:44"
+},
+{
+"start_ref": "43010022",
+"start_ref_usfm": "JHN 10:22",
+"end_ref": "43010042",
+"end_ref_usfm": "JHN 10:42"
+},
+{
+"start_ref": "43011017",
+"start_ref_usfm": "JHN 11:17",
+"end_ref": "43011027",
+"end_ref_usfm": "JHN 11:27"
+},
+{
+"start_ref": "43017001",
+"start_ref_usfm": "JHN 17:1",
+"end_ref": "43017019",
+"end_ref_usfm": "JHN 17:19"
+},
+{
+"start_ref": "43020019",
+"start_ref_usfm": "JHN 20:19",
+"end_ref": "43020031",
+"end_ref_usfm": "JHN 20:31"
+},
+{
+"start_ref": "44002014",
+"start_ref_usfm": "ACT 2:14",
+"end_ref": "44002036",
+"end_ref_usfm": "ACT 2:36"
+},
+{
+"start_ref": "44003001",
+"start_ref_usfm": "ACT 3:1",
+"end_ref": "44003010",
+"end_ref_usfm": "ACT 3:10"
+},
+{
+"start_ref": "44003011",
+"start_ref_usfm": "ACT 3:11",
+"end_ref": "44003026",
+"end_ref_usfm": "ACT 3:26"
+},
+{
+"start_ref": "44004001",
+"start_ref_usfm": "ACT 4:1",
+"end_ref": "44004022",
+"end_ref_usfm": "ACT 4:22"
+},
+{
+"start_ref": "44008004",
+"start_ref_usfm": "ACT 8:4",
+"end_ref": "44008025",
+"end_ref_usfm": "ACT 8:25"
+},
+{
+"start_ref": "44009032",
+"start_ref_usfm": "ACT 9:32",
+"end_ref": "44009035",
+"end_ref_usfm": "ACT 9:35"
+},
+{
+"start_ref": "44009036",
+"start_ref_usfm": "ACT 9:36",
+"end_ref": "44009043",
+"end_ref_usfm": "ACT 9:43"
+},
+{
+"start_ref": "44010034",
+"start_ref_usfm": "ACT 10:34",
+"end_ref": "44010048",
+"end_ref_usfm": "ACT 10:48"
+},
+{
+"start_ref": "44011019",
+"start_ref_usfm": "ACT 11:19",
+"end_ref": "44011026",
+"end_ref_usfm": "ACT 11:26"
+},
+{
+"start_ref": "44015022",
+"start_ref_usfm": "ACT 15:22",
+"end_ref": "44015035",
+"end_ref_usfm": "ACT 15:35"
+},
+{
+"start_ref": "44017001",
+"start_ref_usfm": "ACT 17:1",
+"end_ref": "44017009",
+"end_ref_usfm": "ACT 17:9"
+},
+{
+"start_ref": "44018001",
+"start_ref_usfm": "ACT 18:1",
+"end_ref": "44018017",
+"end_ref_usfm": "ACT 18:17"
+},
+{
+"start_ref": "44018024",
+"start_ref_usfm": "ACT 18:24",
+"end_ref": "44018028",
+"end_ref_usfm": "ACT 18:28"
+},
+{
+"start_ref": "44024024",
+"start_ref_usfm": "ACT 24:24",
+"end_ref": "44024027",
+"end_ref_usfm": "ACT 24:27"
+},
+{
+"start_ref": "44028017",
+"start_ref_usfm": "ACT 28:17",
+"end_ref": "44028031",
+"end_ref_usfm": "ACT 28:31"
+},
+{
+"start_ref": "46001001",
+"start_ref_usfm": "1CO 1:1",
+"end_ref": "46001009",
+"end_ref_usfm": "1CO 1:9"
+},
+{
+"start_ref": "46001010",
+"start_ref_usfm": "1CO 1:10",
+"end_ref": "46001017",
+"end_ref_usfm": "1CO 1:17"
+},
+{
+"start_ref": "46001026",
+"start_ref_usfm": "1CO 1:26",
+"end_ref": "46001031",
+"end_ref_usfm": "1CO 1:31"
+},
+{
+"start_ref": "46002001",
+"start_ref_usfm": "1CO 2:1",
+"end_ref": "46002005",
+"end_ref_usfm": "1CO 2:5"
+},
+{
+"start_ref": "46002006",
+"start_ref_usfm": "1CO 2:6",
+"end_ref": "46002016",
+"end_ref_usfm": "1CO 2:16"
+},
+{
+"start_ref": "46003001",
+"start_ref_usfm": "1CO 3:1",
+"end_ref": "46003004",
+"end_ref_usfm": "1CO 3:4"
+},
+{
+"start_ref": "46003010",
+"start_ref_usfm": "1CO 3:10",
+"end_ref": "46003017",
+"end_ref_usfm": "1CO 3:17"
+},
+{
+"start_ref": "46003018",
+"start_ref_usfm": "1CO 3:18",
+"end_ref": "46003023",
+"end_ref_usfm": "1CO 3:23"
+},
+{
+"start_ref": "46004001",
+"start_ref_usfm": "1CO 4:1",
+"end_ref": "46004005",
+"end_ref_usfm": "1CO 4:5"
+},
+{
+"start_ref": "46004006",
+"start_ref_usfm": "1CO 4:6",
+"end_ref": "46004013",
+"end_ref_usfm": "1CO 4:13"
+},
+{
+"start_ref": "46004014",
+"start_ref_usfm": "1CO 4:14",
+"end_ref": "46004021",
+"end_ref_usfm": "1CO 4:21"
+},
+{
+"start_ref": "46005001",
+"start_ref_usfm": "1CO 5:1",
+"end_ref": "46005013",
+"end_ref_usfm": "1CO 5:13"
+},
+{
+"start_ref": "46006001",
+"start_ref_usfm": "1CO 6:1",
+"end_ref": "46006011",
+"end_ref_usfm": "1CO 6:11"
+},
+{
+"start_ref": "46006012",
+"start_ref_usfm": "1CO 6:12",
+"end_ref": "46006020",
+"end_ref_usfm": "1CO 6:20"
+},
+{
+"start_ref": "46007017",
+"start_ref_usfm": "1CO 7:17",
+"end_ref": "46007024",
+"end_ref_usfm": "1CO 7:24"
+},
+{
+"start_ref": "46008001",
+"start_ref_usfm": "1CO 8:1",
+"end_ref": "46008013",
+"end_ref_usfm": "1CO 8:13"
+},
+{
+"start_ref": "46009015",
+"start_ref_usfm": "1CO 9:15",
+"end_ref": "46009023",
+"end_ref_usfm": "1CO 9:23"
+},
+{
+"start_ref": "46010001",
+"start_ref_usfm": "1CO 10:1",
+"end_ref": "46010013",
+"end_ref_usfm": "1CO 10:13"
+},
+{
+"start_ref": "46010014",
+"start_ref_usfm": "1CO 10:14",
+"end_ref": "46010022",
+"end_ref_usfm": "1CO 10:22"
+},
+{
+"start_ref": "46010023",
+"start_ref_usfm": "1CO 10:23",
+"end_ref": "46011001",
+"end_ref_usfm": "1CO 11:1"
+},
+{
+"start_ref": "46011002",
+"start_ref_usfm": "1CO 11:2",
+"end_ref": "46011016",
+"end_ref_usfm": "1CO 11:16"
+},
+{
+"start_ref": "46012012",
+"start_ref_usfm": "1CO 12:12",
+"end_ref": "46012026",
+"end_ref_usfm": "1CO 12:26"
+},
+{
+"start_ref": "46012027",
+"start_ref_usfm": "1CO 12:27",
+"end_ref": "46012031",
+"end_ref_usfm": "1CO 12:31"
+},
+{
+"start_ref": "46015001",
+"start_ref_usfm": "1CO 15:1",
+"end_ref": "46015011",
+"end_ref_usfm": "1CO 15:11"
+},
+{
+"start_ref": "46015012",
+"start_ref_usfm": "1CO 15:12",
+"end_ref": "46015019",
+"end_ref_usfm": "1CO 15:19"
+},
+{
+"start_ref": "46015020",
+"start_ref_usfm": "1CO 15:20",
+"end_ref": "46015028",
+"end_ref_usfm": "1CO 15:28"
+},
+{
+"start_ref": "46015029",
+"start_ref_usfm": "1CO 15:29",
+"end_ref": "46015034",
+"end_ref_usfm": "1CO 15:34"
+},
+{
+"start_ref": "46015050",
+"start_ref_usfm": "1CO 15:50",
+"end_ref": "46015058",
+"end_ref_usfm": "1CO 15:58"
+},
+{
+"start_ref": "46016019",
+"start_ref_usfm": "1CO 16:19",
+"end_ref": "46016024",
+"end_ref_usfm": "1CO 16:24"
+},
+{
+"start_ref": "47001001",
+"start_ref_usfm": "2CO 1:1",
+"end_ref": "47001007",
+"end_ref_usfm": "2CO 1:7"
+},
+{
+"start_ref": "47001012",
+"start_ref_usfm": "2CO 1:12",
+"end_ref": "47001022",
+"end_ref_usfm": "2CO 1:22"
+},
+{
+"start_ref": "47002005",
+"start_ref_usfm": "2CO 2:5",
+"end_ref": "47002011",
+"end_ref_usfm": "2CO 2:11"
+},
+{
+"start_ref": "47002012",
+"start_ref_usfm": "2CO 2:12",
+"end_ref": "47003003",
+"end_ref_usfm": "2CO 3:3"
+},
+{
+"start_ref": "47003004",
+"start_ref_usfm": "2CO 3:4",
+"end_ref": "47003011",
+"end_ref_usfm": "2CO 3:11"
+},
+{
+"start_ref": "47003012",
+"start_ref_usfm": "2CO 3:12",
+"end_ref": "47003018",
+"end_ref_usfm": "2CO 3:18"
+},
+{
+"start_ref": "47004001",
+"start_ref_usfm": "2CO 4:1",
+"end_ref": "47004006",
+"end_ref_usfm": "2CO 4:6"
+},
+{
+"start_ref": "47005001",
+"start_ref_usfm": "2CO 5:1",
+"end_ref": "47005010",
+"end_ref_usfm": "2CO 5:10"
+},
+{
+"start_ref": "47005011",
+"start_ref_usfm": "2CO 5:11",
+"end_ref": "47005015",
+"end_ref_usfm": "2CO 5:15"
+},
+{
+"start_ref": "47005016",
+"start_ref_usfm": "2CO 5:16",
+"end_ref": "47006002",
+"end_ref_usfm": "2CO 6:2"
+},
+{
+"start_ref": "47006014",
+"start_ref_usfm": "2CO 6:14",
+"end_ref": "47007001",
+"end_ref_usfm": "2CO 7:1"
+},
+{
+"start_ref": "48001001",
+"start_ref_usfm": "GAL 1:1",
+"end_ref": "48001005",
+"end_ref_usfm": "GAL 1:5"
+},
+{
+"start_ref": "48001006",
+"start_ref_usfm": "GAL 1:6",
+"end_ref": "48001010",
+"end_ref_usfm": "GAL 1:10"
+},
+{
+"start_ref": "48001011",
+"start_ref_usfm": "GAL 1:11",
+"end_ref": "48001024",
+"end_ref_usfm": "GAL 1:24"
+},
+{
+"start_ref": "48002001",
+"start_ref_usfm": "GAL 2:1",
+"end_ref": "48002010",
+"end_ref_usfm": "GAL 2:10"
+},
+{
+"start_ref": "48002015",
+"start_ref_usfm": "GAL 2:15",
+"end_ref": "48002021",
+"end_ref_usfm": "GAL 2:21"
+},
+{
+"start_ref": "48003001",
+"start_ref_usfm": "GAL 3:1",
+"end_ref": "48003009",
+"end_ref_usfm": "GAL 3:9"
+},
+{
+"start_ref": "48003010",
+"start_ref_usfm": "GAL 3:10",
+"end_ref": "48003014",
+"end_ref_usfm": "GAL 3:14"
+},
+{
+"start_ref": "48003015",
+"start_ref_usfm": "GAL 3:15",
+"end_ref": "48003018",
+"end_ref_usfm": "GAL 3:18"
+},
+{
+"start_ref": "48003019",
+"start_ref_usfm": "GAL 3:19",
+"end_ref": "48003025",
+"end_ref_usfm": "GAL 3:25"
+},
+{
+"start_ref": "48003026",
+"start_ref_usfm": "GAL 3:26",
+"end_ref": "48004007",
+"end_ref_usfm": "GAL 4:7"
+},
+{
+"start_ref": "48004008",
+"start_ref_usfm": "GAL 4:8",
+"end_ref": "48004020",
+"end_ref_usfm": "GAL 4:20"
+},
+{
+"start_ref": "48005002",
+"start_ref_usfm": "GAL 5:2",
+"end_ref": "48005006",
+"end_ref_usfm": "GAL 5:6"
+},
+{
+"start_ref": "48005019",
+"start_ref_usfm": "GAL 5:19",
+"end_ref": "48005026",
+"end_ref_usfm": "GAL 5:26"
+},
+{
+"start_ref": "48006001",
+"start_ref_usfm": "GAL 6:1",
+"end_ref": "48006010",
+"end_ref_usfm": "GAL 6:10"
+},
+{
+"start_ref": "48006011",
+"start_ref_usfm": "GAL 6:11",
+"end_ref": "48006018",
+"end_ref_usfm": "GAL 6:18"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "spa-t175-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "christian",
+"media_type": "Text",
+"index_reference": "christian",
+"language": "spa",
+"review_level": "None",
+"content": "<p>Un cristiano es alguien que cree que Jesús es el <a href=\"#t129\">hijo de Dios</a> y el <a href=\"#t119\">Salvador</a>, o <a href=\"#t23\">Cristo</a>, que Dios prometió enviar para rescatar a las personas de sus <b>pecados</b> y hacer posible una relación correcta con <a href=\"#t189\">Dios</a>. Un cristiano confía en Jesús y quiere obedecerlo, y un cristiano tiene una buena relación con Dios a través del conocimiento de Jesús. Un cristiano es un ciudadano del <b>Reino de Dios</b>. Los cristianos creen que confiar en Jesús es la única manera de que Dios los acepte.</p><p>En el libro de Hechos, las personas llaman a los seguidores de Jesús &quot;creyentes&quot;, o a veces &quot;seguidores del camino&quot;. En algún momento, las personas en la ciudad de Antioquía comenzaron a usar la palabra “cristianos” para describir a los creyentes como las personas que siguen a Cristo. Las personas en Antioquía que comenzaron a llamar a los creyentes de cristianos probablemente no eran cristianos.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "44011019",
+"start_ref_usfm": "ACT 11:19",
+"end_ref": "44011026",
+"end_ref_usfm": "ACT 11:26"
+},
+{
+"start_ref": "44026024",
+"start_ref_usfm": "ACT 26:24",
+"end_ref": "44026032",
+"end_ref_usfm": "ACT 26:32"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "spa-t24-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "church",
+"media_type": "Text",
+"index_reference": "church",
+"language": "spa",
+"review_level": "None",
+"content": "<p>En la Biblia, las personas nunca usan la palabra <b>iglesia</b> para denotar un edificio. En cambio, la iglesia es una comunidad de personas que creen en Jesús. A veces, la palabra iglesia se usa para un grupo de creyentes en un lugar específico, y a veces la palabra quiere decir todas las personas en la tierra juntas que creen en Jesús.</p><p>Las personas que pertenecen a la iglesia se reúnen regularmente para <a href=\"#t102\">orar</a>, para <a href=\"#t149\">adorar</a> a Dios, para celebrar la cena del Señor y para estudiar juntos la palabra de Dios.</p><p>El libro de Hechos nos dice cómo la iglesia estaba creciendo de un pequeño grupo de personas en <a href=\"#t76\">Jerusalén</a> a miles de personas en muchos países diferentes.</p><p>Las epístolas son cartas de los apóstoles a las iglesias, o comunidades de creyentes, en diferentes partes del mundo. Pablo, un apóstol que escribió muchas cartas a las iglesias, compara a la iglesia con el cuerpo de Cristo en su carta a los Corintios. Cada persona en la iglesia es como una parte del cuerpo y hace un trabajo importante. Todos juntos, el cuerpo de Cristo, o la iglesia, hacemos el trabajo de Cristo en el mundo.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40016013",
+"start_ref_usfm": "MAT 16:13",
+"end_ref": "40016020",
+"end_ref_usfm": "MAT 16:20"
+},
+{
+"start_ref": "40018015",
+"start_ref_usfm": "MAT 18:15",
+"end_ref": "40018020",
+"end_ref_usfm": "MAT 18:20"
+},
+{
+"start_ref": "44007054",
+"start_ref_usfm": "ACT 7:54",
+"end_ref": "44008003",
+"end_ref_usfm": "ACT 8:3"
+},
+{
+"start_ref": "44009019",
+"start_ref_usfm": "ACT 9:19",
+"end_ref": "44009031",
+"end_ref_usfm": "ACT 9:31"
+},
+{
+"start_ref": "44011019",
+"start_ref_usfm": "ACT 11:19",
+"end_ref": "44011026",
+"end_ref_usfm": "ACT 11:26"
+},
+{
+"start_ref": "44012025",
+"start_ref_usfm": "ACT 12:25",
+"end_ref": "44013003",
+"end_ref_usfm": "ACT 13:3"
+},
+{
+"start_ref": "44014021",
+"start_ref_usfm": "ACT 14:21",
+"end_ref": "44014028",
+"end_ref_usfm": "ACT 14:28"
+},
+{
+"start_ref": "44015001",
+"start_ref_usfm": "ACT 15:1",
+"end_ref": "44015021",
+"end_ref_usfm": "ACT 15:21"
+},
+{
+"start_ref": "44015022",
+"start_ref_usfm": "ACT 15:22",
+"end_ref": "44015035",
+"end_ref_usfm": "ACT 15:35"
+},
+{
+"start_ref": "44015036",
+"start_ref_usfm": "ACT 15:36",
+"end_ref": "44015041",
+"end_ref_usfm": "ACT 15:41"
+},
+{
+"start_ref": "44016001",
+"start_ref_usfm": "ACT 16:1",
+"end_ref": "44016005",
+"end_ref_usfm": "ACT 16:5"
+},
+{
+"start_ref": "44018018",
+"start_ref_usfm": "ACT 18:18",
+"end_ref": "44018023",
+"end_ref_usfm": "ACT 18:23"
+},
+{
+"start_ref": "44020013",
+"start_ref_usfm": "ACT 20:13",
+"end_ref": "44020017",
+"end_ref_usfm": "ACT 20:17"
+},
+{
+"start_ref": "44020018",
+"start_ref_usfm": "ACT 20:18",
+"end_ref": "44020038",
+"end_ref_usfm": "ACT 20:38"
+},
+{
+"start_ref": "44021015",
+"start_ref_usfm": "ACT 21:15",
+"end_ref": "44021026",
+"end_ref_usfm": "ACT 21:26"
+},
+{
+"start_ref": "46001001",
+"start_ref_usfm": "1CO 1:1",
+"end_ref": "46001009",
+"end_ref_usfm": "1CO 1:9"
+},
+{
+"start_ref": "46004014",
+"start_ref_usfm": "1CO 4:14",
+"end_ref": "46004021",
+"end_ref_usfm": "1CO 4:21"
+},
+{
+"start_ref": "46005001",
+"start_ref_usfm": "1CO 5:1",
+"end_ref": "46005013",
+"end_ref_usfm": "1CO 5:13"
+},
+{
+"start_ref": "46006001",
+"start_ref_usfm": "1CO 6:1",
+"end_ref": "46006011",
+"end_ref_usfm": "1CO 6:11"
+},
+{
+"start_ref": "46007017",
+"start_ref_usfm": "1CO 7:17",
+"end_ref": "46007024",
+"end_ref_usfm": "1CO 7:24"
+},
+{
+"start_ref": "46010023",
+"start_ref_usfm": "1CO 10:23",
+"end_ref": "46011001",
+"end_ref_usfm": "1CO 11:1"
+},
+{
+"start_ref": "46011002",
+"start_ref_usfm": "1CO 11:2",
+"end_ref": "46011016",
+"end_ref_usfm": "1CO 11:16"
+},
+{
+"start_ref": "46011017",
+"start_ref_usfm": "1CO 11:17",
+"end_ref": "46011026",
+"end_ref_usfm": "1CO 11:26"
+},
+{
+"start_ref": "46012027",
+"start_ref_usfm": "1CO 12:27",
+"end_ref": "46012031",
+"end_ref_usfm": "1CO 12:31"
+},
+{
+"start_ref": "46014020",
+"start_ref_usfm": "1CO 14:20",
+"end_ref": "46014025",
+"end_ref_usfm": "1CO 14:25"
+},
+{
+"start_ref": "46014026",
+"start_ref_usfm": "1CO 14:26",
+"end_ref": "46014033",
+"end_ref_usfm": "1CO 14:33"
+},
+{
+"start_ref": "46014034",
+"start_ref_usfm": "1CO 14:34",
+"end_ref": "46014040",
+"end_ref_usfm": "1CO 14:40"
+},
+{
+"start_ref": "46015001",
+"start_ref_usfm": "1CO 15:1",
+"end_ref": "46015011",
+"end_ref_usfm": "1CO 15:11"
+},
+{
+"start_ref": "46016001",
+"start_ref_usfm": "1CO 16:1",
+"end_ref": "46016004",
+"end_ref_usfm": "1CO 16:4"
+},
+{
+"start_ref": "46016019",
+"start_ref_usfm": "1CO 16:19",
+"end_ref": "46016024",
+"end_ref_usfm": "1CO 16:24"
+},
+{
+"start_ref": "47001001",
+"start_ref_usfm": "2CO 1:1",
+"end_ref": "47001007",
+"end_ref_usfm": "2CO 1:7"
+},
+{
+"start_ref": "48001001",
+"start_ref_usfm": "GAL 1:1",
+"end_ref": "48001005",
+"end_ref_usfm": "GAL 1:5"
+},
+{
+"start_ref": "48001011",
+"start_ref_usfm": "GAL 1:11",
+"end_ref": "48001024",
+"end_ref_usfm": "GAL 1:24"
+},
+{
+"start_ref": "49001015",
+"start_ref_usfm": "EPH 1:15",
+"end_ref": "49001023",
+"end_ref_usfm": "EPH 1:23"
+},
+{
+"start_ref": "49003007",
+"start_ref_usfm": "EPH 3:7",
+"end_ref": "49003013",
+"end_ref_usfm": "EPH 3:13"
+},
+{
+"start_ref": "49003014",
+"start_ref_usfm": "EPH 3:14",
+"end_ref": "49003021",
+"end_ref_usfm": "EPH 3:21"
+},
+{
+"start_ref": "49005022",
+"start_ref_usfm": "EPH 5:22",
+"end_ref": "49005033",
+"end_ref_usfm": "EPH 5:33"
+},
+{
+"start_ref": "52001001",
+"start_ref_usfm": "1TH 1:1",
+"end_ref": "52001010",
+"end_ref_usfm": "1TH 1:10"
+},
+{
+"start_ref": "52002014",
+"start_ref_usfm": "1TH 2:14",
+"end_ref": "52002016",
+"end_ref_usfm": "1TH 2:16"
+},
+{
+"start_ref": "53001001",
+"start_ref_usfm": "2TH 1:1",
+"end_ref": "53001004",
+"end_ref_usfm": "2TH 1:4"
+},
+{
+"start_ref": "54003001",
+"start_ref_usfm": "1TI 3:1",
+"end_ref": "54003007",
+"end_ref_usfm": "1TI 3:7"
+},
+{
+"start_ref": "54003014",
+"start_ref_usfm": "1TI 3:14",
+"end_ref": "54003016",
+"end_ref_usfm": "1TI 3:16"
+},
+{
+"start_ref": "54005009",
+"start_ref_usfm": "1TI 5:9",
+"end_ref": "54005016",
+"end_ref_usfm": "1TI 5:16"
+},
+{
+"start_ref": "54005017",
+"start_ref_usfm": "1TI 5:17",
+"end_ref": "54005025",
+"end_ref_usfm": "1TI 5:25"
+},
+{
+"start_ref": "59005013",
+"start_ref_usfm": "JAS 5:13",
+"end_ref": "59005020",
+"end_ref_usfm": "JAS 5:20"
+},
+{
+"start_ref": "64001001",
+"start_ref_usfm": "3JN 1:1",
+"end_ref": "64001008",
+"end_ref_usfm": "3JN 1:8"
+},
+{
+"start_ref": "64001009",
+"start_ref_usfm": "3JN 1:9",
+"end_ref": "64001010",
+"end_ref_usfm": "3JN 1:10"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "spa-t25-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "circumcision",
+"media_type": "Text",
+"index_reference": "circumcision",
+"language": "spa",
+"review_level": "None",
+"content": "<p>La <b>circuncisión</b> es la costumbre <b>judía</b> de cortar la piel suelta del extremo del pene de un niño. El padre del bebé, o alguien que estaba especialmente entrenado, generalmente hacía esto. La circuncisión ocurría cuando el bebé tenía ocho días de edad.</p><p>La costumbre comenzó cuando Dios le dijo a <a href=\"#t1\">Abraham</a> que se circuncidara a sí mismo y a todos los hombres en su <a href=\"#t70\">casa</a>. La circuncisión era una señal de que la persona estaba incluida en el <a href=\"#t29\">pacto</a> que Dios había hecho con Abraham. A partir de ese momento, todos los hombres <a href=\"#t259\">israelitas</a> tenían que ser circuncidados. Si alguien que no era descendiente de Abraham quería formar parte de los israelitas y ser parte del pacto que los israelitas tenían con Dios, también tenía que ser circuncidado. Los hombres tenían que ser circuncidados para ser aceptables para Dios.</p><p>La Biblia también habla de la &quot;circuncisión del corazón&quot;. Este es un lenguaje figurado para <b>arrepentirse</b> y para dedicarse a Dios. Solo cuando las personas se han arrepentido, o se han alejado de sus <b>pecados</b>, son aceptables ante Dios. Los israelitas, o judíos, pensaban que eran mejores que todas las otras personas en el mundo porque estaban circuncidados. Pero Dios les dijo que estar circuncidado no significaba nada si las personas no estaban verdaderamente dedicadas a Dios. La circuncisión del cuerpo es inútil si el corazón también no está circuncidado.</p><p>En el Nuevo Testamento, los nuevos <b>creyentes</b> en Jesús tenían diferentes opiniones sobre la circuncisión. Algunos cristianos judíos pensaban que todos los creyentes debían ser circuncidados. Ellos pensaban que solo alguien que estaba circuncidado podía pertenecer realmente al pueblo de Dios. Pablo y los otros <b>apóstoles</b> entonces enseñaron a la iglesia que Dios ya no requería la circuncisión del cuerpo para pertenecer al pueblo de Dios. En cambio, las personas necesitan una circuncisión espiritual del corazón: arrepentimiento, <a href=\"#t48\">fe</a> y obediencia a Jesús.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01017001",
+"start_ref_usfm": "GEN 17:1",
+"end_ref": "01017027",
+"end_ref_usfm": "GEN 17:27"
+},
+{
+"start_ref": "01021001",
+"start_ref_usfm": "GEN 21:1",
+"end_ref": "01021021",
+"end_ref_usfm": "GEN 21:21"
+},
+{
+"start_ref": "01034001",
+"start_ref_usfm": "GEN 34:1",
+"end_ref": "01034017",
+"end_ref_usfm": "GEN 34:17"
+},
+{
+"start_ref": "01034018",
+"start_ref_usfm": "GEN 34:18",
+"end_ref": "01034031",
+"end_ref_usfm": "GEN 34:31"
+},
+{
+"start_ref": "02004018",
+"start_ref_usfm": "EXO 4:18",
+"end_ref": "02004031",
+"end_ref_usfm": "EXO 4:31"
+},
+{
+"start_ref": "02012043",
+"start_ref_usfm": "EXO 12:43",
+"end_ref": "02012051",
+"end_ref_usfm": "EXO 12:51"
+},
+{
+"start_ref": "05010012",
+"start_ref_usfm": "DEU 10:12",
+"end_ref": "05010022",
+"end_ref_usfm": "DEU 10:22"
+},
+{
+"start_ref": "05030001",
+"start_ref_usfm": "DEU 30:1",
+"end_ref": "05030010",
+"end_ref_usfm": "DEU 30:10"
+},
+{
+"start_ref": "06005002",
+"start_ref_usfm": "JOS 5:2",
+"end_ref": "06005009",
+"end_ref_usfm": "JOS 5:9"
+},
+{
+"start_ref": "06005010",
+"start_ref_usfm": "JOS 5:10",
+"end_ref": "06005015",
+"end_ref_usfm": "JOS 5:15"
+},
+{
+"start_ref": "07014001",
+"start_ref_usfm": "JDG 14:1",
+"end_ref": "07014009",
+"end_ref_usfm": "JDG 14:9"
+},
+{
+"start_ref": "07015009",
+"start_ref_usfm": "JDG 15:9",
+"end_ref": "07015020",
+"end_ref_usfm": "JDG 15:20"
+},
+{
+"start_ref": "09014001",
+"start_ref_usfm": "1SA 14:1",
+"end_ref": "09014015",
+"end_ref_usfm": "1SA 14:15"
+},
+{
+"start_ref": "09017020",
+"start_ref_usfm": "1SA 17:20",
+"end_ref": "09017030",
+"end_ref_usfm": "1SA 17:30"
+},
+{
+"start_ref": "09017031",
+"start_ref_usfm": "1SA 17:31",
+"end_ref": "09017040",
+"end_ref_usfm": "1SA 17:40"
+},
+{
+"start_ref": "09031001",
+"start_ref_usfm": "1SA 31:1",
+"end_ref": "09031013",
+"end_ref_usfm": "1SA 31:13"
+},
+{
+"start_ref": "10001017",
+"start_ref_usfm": "2SA 1:17",
+"end_ref": "10001027",
+"end_ref_usfm": "2SA 1:27"
+},
+{
+"start_ref": "13010001",
+"start_ref_usfm": "1CH 10:1",
+"end_ref": "13010014",
+"end_ref_usfm": "1CH 10:14"
+},
+{
+"start_ref": "42001057",
+"start_ref_usfm": "LUK 1:57",
+"end_ref": "42001080",
+"end_ref_usfm": "LUK 1:80"
+},
+{
+"start_ref": "42002001",
+"start_ref_usfm": "LUK 2:1",
+"end_ref": "42002021",
+"end_ref_usfm": "LUK 2:21"
+},
+{
+"start_ref": "43007011",
+"start_ref_usfm": "JHN 7:11",
+"end_ref": "43007024",
+"end_ref_usfm": "JHN 7:24"
+},
+{
+"start_ref": "44007001",
+"start_ref_usfm": "ACT 7:1",
+"end_ref": "44007008",
+"end_ref_usfm": "ACT 7:8"
+},
+{
+"start_ref": "44007044",
+"start_ref_usfm": "ACT 7:44",
+"end_ref": "44007053",
+"end_ref_usfm": "ACT 7:53"
+},
+{
+"start_ref": "44010001",
+"start_ref_usfm": "ACT 10:1",
+"end_ref": "44010008",
+"end_ref_usfm": "ACT 10:8"
+},
+{
+"start_ref": "44010034",
+"start_ref_usfm": "ACT 10:34",
+"end_ref": "44010048",
+"end_ref_usfm": "ACT 10:48"
+},
+{
+"start_ref": "44011001",
+"start_ref_usfm": "ACT 11:1",
+"end_ref": "44011018",
+"end_ref_usfm": "ACT 11:18"
+},
+{
+"start_ref": "44015001",
+"start_ref_usfm": "ACT 15:1",
+"end_ref": "44015021",
+"end_ref_usfm": "ACT 15:21"
+},
+{
+"start_ref": "44016001",
+"start_ref_usfm": "ACT 16:1",
+"end_ref": "44016005",
+"end_ref_usfm": "ACT 16:5"
+},
+{
+"start_ref": "44021015",
+"start_ref_usfm": "ACT 21:15",
+"end_ref": "44021026",
+"end_ref_usfm": "ACT 21:26"
+},
+{
+"start_ref": "46007017",
+"start_ref_usfm": "1CO 7:17",
+"end_ref": "46007024",
+"end_ref_usfm": "1CO 7:24"
+},
+{
+"start_ref": "48002001",
+"start_ref_usfm": "GAL 2:1",
+"end_ref": "48002010",
+"end_ref_usfm": "GAL 2:10"
+},
+{
+"start_ref": "48002011",
+"start_ref_usfm": "GAL 2:11",
+"end_ref": "48002014",
+"end_ref_usfm": "GAL 2:14"
+},
+{
+"start_ref": "48005002",
+"start_ref_usfm": "GAL 5:2",
+"end_ref": "48005006",
+"end_ref_usfm": "GAL 5:6"
+},
+{
+"start_ref": "48005007",
+"start_ref_usfm": "GAL 5:7",
+"end_ref": "48005012",
+"end_ref_usfm": "GAL 5:12"
+},
+{
+"start_ref": "48006011",
+"start_ref_usfm": "GAL 6:11",
+"end_ref": "48006018",
+"end_ref_usfm": "GAL 6:18"
+},
+{
+"start_ref": "49002011",
+"start_ref_usfm": "EPH 2:11",
+"end_ref": "49002018",
+"end_ref_usfm": "EPH 2:18"
+},
+{
+"start_ref": "56001010",
+"start_ref_usfm": "TIT 1:10",
+"end_ref": "56001016",
+"end_ref_usfm": "TIT 1:16"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "spa-t26-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "clean-unclean",
+"media_type": "Text",
+"index_reference": "cleanunclean",
+"language": "spa",
+"review_level": "None",
+"content": "<p>Las palabras “limpio” e “impuro” en la Biblia no tratan sobre si algo está limpio o sucio por fuera. En la Biblia, una persona <b>limpia</b> quere decir que es una persona que está apta para servir a Dios, alguien que es aceptable para participar en la adoración a Dios. Una persona que es <b>impura</b> no está apta para servir a Dios. Los animales e incluso los objetos también pueden ser limpios o impuros.</p><p>Estar limpio es el estado normal de una persona, pero una persona podía volverse impura si no seguía las reglas de la limpieza. Las reglas sobre qué cosas estaban limpias o impuras ayudaban a los <b>israelitas</b> a recordar que eran el pueblo especial de Dios. Así como un objeto limpio debe mantenerse alejado de algo impuro, los israelitas tenían que mantenerse alejados de las cosas impuras. Estas cosas podían ser animales u objetos impuros, o acciones impuras como el pecado.</p><p>Las reglas sobre lo limpio y lo impuro también ayudaban a las personas a recordar que Dios da la vida, y que sin Dios hay muerte. La sangre y las enfermedades están asociadas con la muerte. Es por esto que alguien que estaba enfermo o sangrando era impuro. Un cuerpo muerto era la cosa más impura de todas.</p><p>La impureza también era contagiosa. Si una persona impura tocaba a una persona limpia, entonces la persona limpia se volvía impura. Si una persona limpia tocaba un objeto impuro, por ejemplo, un pedazo de tela ensangrentado, la persona limpia se volvía impura. Si una persona limpia tocaba un cuerpo muerto, entonces la persona limpia también se volvía impura.</p><p>La distinción entre lo limpio y lo impuro era muy importante en la <a href=\"#t149\">adoración</a> a Dios. Nada que fuera impuro podía entrar en el <a href=\"#t138\">templo</a>. Dios había <b>nombrado</b> a <b>sacerdotes</b> para cuidar del templo. Los sacerdotes tenían que tener mucho cuidado para permanecer limpios.</p><p>Si alguien estaba impuro porque había estado menstruando, había tenido relaciones sexuales o había tocado un cuerpo muerto, necesitaba esperar un cierto tiempo y luego tomar un baño. Después de eso, estaban limpios nuevamente.</p><p>Si alguien tenía una enfermedad en la piel, era impuro hasta que el sacerdote confirmaba que había sanado. La persona que era sanada entonces tenía que ofrecer un sacrificio animal a Dios. Después de eso, era considerado limpio nuevamente.</p><p>Dios les dijo a los israelitas cuales animales podían comer y cuales no comer. Por ejemplo, podían comer cabras, ovejas, vacas y ciertas aves. Estos animales eran limpios. Los animales que no podían comer incluían a los cerdos, animales salvajes y reptiles. Si una persona comía un animal impuro, la persona se volvía impura.</p><p>Cuando las personas ofrecían un <a href=\"#t114\">sacrificio</a> a Dios, solo podían ofrecer un animal limpio. El animal también tenía que estar completamente sano. De lo contrario, todavía sería impuro e inadecuado para sacrificar.</p><p>En el Antiguo Testamento, las personas podían volverse impuras por el pecado o por tocar una cosa impura. Un animal podía ser impuro por naturaleza.</p><p>Sin embargo, en el Nuevo Testamento, Jesús enseña a las personas que estar limpio no es solo cuestión de mantenerse alejado de ciertos alimentos o de tomar un baño ritual. Jesús nos enseña que nos volvemos impuros si tenemos <a href=\"#t187\">malos</a> pensamientos y hacemos cosas incorrectas. Estas cosas nos hacen inadecuados para servir o adorar a Dios. Nos volvemos impuros si desobedecemos a Dios. Es por esto que los <b>espíritus malignos</b> a menudo son llamados &quot;<b>espíritus impuros</b>&quot;, porque se están rebelando contra Dios.</p><p>Después de que Jesús regresó al <a href=\"#t63\">cielo</a>, más y más personas se convirtieron en sus seguidores. Entre ellos también había personas que no eran <b>judías</b>. La <a href=\"#t24\">iglesia</a> al principio pensaba que las personas que no eran judías eran impuras, y por lo tanto no podían formar parte del pueblo de Dios. Pero Dios enseñó a la iglesia que las antiguas reglas sobre quién o qué estaba limpio ya no valían. Las personas de todas las <b>naciones</b> eran bienvenidas ante Dios, y ya no era importante lo que alguien comía o no comía. Jesús había hecho limpias a las personas. Lo que ahora es importante es mantenerse limpio estando alejados del <a href=\"#t125\">pecado</a>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01007001",
+"start_ref_usfm": "GEN 7:1",
+"end_ref": "01007024",
+"end_ref_usfm": "GEN 7:24"
+},
+{
+"start_ref": "01008020",
+"start_ref_usfm": "GEN 8:20",
+"end_ref": "01009017",
+"end_ref_usfm": "GEN 9:17"
+},
+{
+"start_ref": "04005001",
+"start_ref_usfm": "NUM 5:1",
+"end_ref": "04005004",
+"end_ref_usfm": "NUM 5:4"
+},
+{
+"start_ref": "04005011",
+"start_ref_usfm": "NUM 5:11",
+"end_ref": "04005031",
+"end_ref_usfm": "NUM 5:31"
+},
+{
+"start_ref": "04006001",
+"start_ref_usfm": "NUM 6:1",
+"end_ref": "04006012",
+"end_ref_usfm": "NUM 6:12"
+},
+{
+"start_ref": "04008005",
+"start_ref_usfm": "NUM 8:5",
+"end_ref": "04008022",
+"end_ref_usfm": "NUM 8:22"
+},
+{
+"start_ref": "04009001",
+"start_ref_usfm": "NUM 9:1",
+"end_ref": "04009014",
+"end_ref_usfm": "NUM 9:14"
+},
+{
+"start_ref": "04018008",
+"start_ref_usfm": "NUM 18:8",
+"end_ref": "04018020",
+"end_ref_usfm": "NUM 18:20"
+},
+{
+"start_ref": "04019001",
+"start_ref_usfm": "NUM 19:1",
+"end_ref": "04019010",
+"end_ref_usfm": "NUM 19:10"
+},
+{
+"start_ref": "04019011",
+"start_ref_usfm": "NUM 19:11",
+"end_ref": "04019022",
+"end_ref_usfm": "NUM 19:22"
+},
+{
+"start_ref": "05012015",
+"start_ref_usfm": "DEU 12:15",
+"end_ref": "05012028",
+"end_ref_usfm": "DEU 12:28"
+},
+{
+"start_ref": "05014001",
+"start_ref_usfm": "DEU 14:1",
+"end_ref": "05014010",
+"end_ref_usfm": "DEU 14:10"
+},
+{
+"start_ref": "05014011",
+"start_ref_usfm": "DEU 14:11",
+"end_ref": "05014021",
+"end_ref_usfm": "DEU 14:21"
+},
+{
+"start_ref": "06022013",
+"start_ref_usfm": "JOS 22:13",
+"end_ref": "06022020",
+"end_ref_usfm": "JOS 22:20"
+},
+{
+"start_ref": "07013001",
+"start_ref_usfm": "JDG 13:1",
+"end_ref": "07013007",
+"end_ref_usfm": "JDG 13:7"
+},
+{
+"start_ref": "07013008",
+"start_ref_usfm": "JDG 13:8",
+"end_ref": "07013025",
+"end_ref_usfm": "JDG 13:25"
+},
+{
+"start_ref": "09020018",
+"start_ref_usfm": "1SA 20:18",
+"end_ref": "09020034",
+"end_ref_usfm": "1SA 20:34"
+},
+{
+"start_ref": "10011001",
+"start_ref_usfm": "2SA 11:1",
+"end_ref": "10011013",
+"end_ref_usfm": "2SA 11:13"
+},
+{
+"start_ref": "14013001",
+"start_ref_usfm": "2CH 13:1",
+"end_ref": "14013012",
+"end_ref_usfm": "2CH 13:12"
+},
+{
+"start_ref": "14023016",
+"start_ref_usfm": "2CH 23:16",
+"end_ref": "14023021",
+"end_ref_usfm": "2CH 23:21"
+},
+{
+"start_ref": "15002059",
+"start_ref_usfm": "EZR 2:59",
+"end_ref": "15002063",
+"end_ref_usfm": "EZR 2:63"
+},
+{
+"start_ref": "15006019",
+"start_ref_usfm": "EZR 6:19",
+"end_ref": "15006022",
+"end_ref_usfm": "EZR 6:22"
+},
+{
+"start_ref": "15009005",
+"start_ref_usfm": "EZR 9:5",
+"end_ref": "15009015",
+"end_ref_usfm": "EZR 9:15"
+},
+{
+"start_ref": "40008001",
+"start_ref_usfm": "MAT 8:1",
+"end_ref": "40008017",
+"end_ref_usfm": "MAT 8:17"
+},
+{
+"start_ref": "40009018",
+"start_ref_usfm": "MAT 9:18",
+"end_ref": "40009026",
+"end_ref_usfm": "MAT 9:26"
+},
+{
+"start_ref": "40010001",
+"start_ref_usfm": "MAT 10:1",
+"end_ref": "40010015",
+"end_ref_usfm": "MAT 10:15"
+},
+{
+"start_ref": "40011001",
+"start_ref_usfm": "MAT 11:1",
+"end_ref": "40011006",
+"end_ref_usfm": "MAT 11:6"
+},
+{
+"start_ref": "40015001",
+"start_ref_usfm": "MAT 15:1",
+"end_ref": "40015020",
+"end_ref_usfm": "MAT 15:20"
+},
+{
+"start_ref": "40023023",
+"start_ref_usfm": "MAT 23:23",
+"end_ref": "40023028",
+"end_ref_usfm": "MAT 23:28"
+},
+{
+"start_ref": "40024015",
+"start_ref_usfm": "MAT 24:15",
+"end_ref": "40024028",
+"end_ref_usfm": "MAT 24:28"
+},
+{
+"start_ref": "41001040",
+"start_ref_usfm": "MRK 1:40",
+"end_ref": "41001045",
+"end_ref_usfm": "MRK 1:45"
+},
+{
+"start_ref": "42005012",
+"start_ref_usfm": "LUK 5:12",
+"end_ref": "42005016",
+"end_ref_usfm": "LUK 5:16"
+},
+{
+"start_ref": "42007018",
+"start_ref_usfm": "LUK 7:18",
+"end_ref": "42007035",
+"end_ref_usfm": "LUK 7:35"
+},
+{
+"start_ref": "42011033",
+"start_ref_usfm": "LUK 11:33",
+"end_ref": "42011054",
+"end_ref_usfm": "LUK 11:54"
+},
+{
+"start_ref": "42017011",
+"start_ref_usfm": "LUK 17:11",
+"end_ref": "42017019",
+"end_ref_usfm": "LUK 17:19"
+},
+{
+"start_ref": "43015001",
+"start_ref_usfm": "JHN 15:1",
+"end_ref": "43015017",
+"end_ref_usfm": "JHN 15:17"
+},
+{
+"start_ref": "43018028",
+"start_ref_usfm": "JHN 18:28",
+"end_ref": "43018040",
+"end_ref_usfm": "JHN 18:40"
+},
+{
+"start_ref": "44010009",
+"start_ref_usfm": "ACT 10:9",
+"end_ref": "44010023",
+"end_ref_usfm": "ACT 10:23"
+},
+{
+"start_ref": "44010023",
+"start_ref_usfm": "ACT 10:23",
+"end_ref": "44010033",
+"end_ref_usfm": "ACT 10:33"
+},
+{
+"start_ref": "44011001",
+"start_ref_usfm": "ACT 11:1",
+"end_ref": "44011018",
+"end_ref_usfm": "ACT 11:18"
+},
+{
+"start_ref": "44015001",
+"start_ref_usfm": "ACT 15:1",
+"end_ref": "44015021",
+"end_ref_usfm": "ACT 15:21"
+},
+{
+"start_ref": "44021015",
+"start_ref_usfm": "ACT 21:15",
+"end_ref": "44021026",
+"end_ref_usfm": "ACT 21:26"
+},
+{
+"start_ref": "46007010",
+"start_ref_usfm": "1CO 7:10",
+"end_ref": "46007016",
+"end_ref_usfm": "1CO 7:16"
+},
+{
+"start_ref": "46008001",
+"start_ref_usfm": "1CO 8:1",
+"end_ref": "46008013",
+"end_ref_usfm": "1CO 8:13"
+},
+{
+"start_ref": "47006014",
+"start_ref_usfm": "2CO 6:14",
+"end_ref": "47007001",
+"end_ref_usfm": "2CO 7:1"
+},
+{
+"start_ref": "48005019",
+"start_ref_usfm": "GAL 5:19",
+"end_ref": "48005026",
+"end_ref_usfm": "GAL 5:26"
+},
+{
+"start_ref": "65001008",
+"start_ref_usfm": "JUD 1:8",
+"end_ref": "65001011",
+"end_ref_usfm": "JUD 1:11"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "spa-t27-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "cloak",
+"media_type": "Text",
+"index_reference": "cloak",
+"language": "spa",
+"review_level": "None",
+"content": "<p>Un <b>manto</b>, que también se llama <a href=\"#t112\">túnica</a>, es una pieza de ropa. Las personas usan un manto encima de otras ropas. Un manto ayuda a mantener a las personas calientes y secas, y puede usarse como manta por la noche. Las personas hacían mantos de piel o lana de animales. La lana es el pelo de un animal llamado oveja. Un manto a menudo era una simple pieza cuadrada de material con agujeros para los brazos.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02004001",
+"start_ref_usfm": "EXO 4:1",
+"end_ref": "02004017",
+"end_ref_usfm": "EXO 4:17"
+},
+{
+"start_ref": "02022007",
+"start_ref_usfm": "EXO 22:7",
+"end_ref": "02022015",
+"end_ref_usfm": "EXO 22:15"
+},
+{
+"start_ref": "02022025",
+"start_ref_usfm": "EXO 22:25",
+"end_ref": "02022031",
+"end_ref_usfm": "EXO 22:31"
+},
+{
+"start_ref": "11011026",
+"start_ref_usfm": "1KI 11:26",
+"end_ref": "11011043",
+"end_ref_usfm": "1KI 11:43"
+},
+{
+"start_ref": "15009001",
+"start_ref_usfm": "EZR 9:1",
+"end_ref": "15009004",
+"end_ref_usfm": "EZR 9:4"
+},
+{
+"start_ref": "15009005",
+"start_ref_usfm": "EZR 9:5",
+"end_ref": "15009015",
+"end_ref_usfm": "EZR 9:15"
+},
+{
+"start_ref": "40005033",
+"start_ref_usfm": "MAT 5:33",
+"end_ref": "40005042",
+"end_ref_usfm": "MAT 5:42"
+},
+{
+"start_ref": "40024015",
+"start_ref_usfm": "MAT 24:15",
+"end_ref": "40024028",
+"end_ref_usfm": "MAT 24:28"
+},
+{
+"start_ref": "40026047",
+"start_ref_usfm": "MAT 26:47",
+"end_ref": "40026056",
+"end_ref_usfm": "MAT 26:56"
+},
+{
+"start_ref": "41010046",
+"start_ref_usfm": "MRK 10:46",
+"end_ref": "41010052",
+"end_ref_usfm": "MRK 10:52"
+},
+{
+"start_ref": "41011001",
+"start_ref_usfm": "MRK 11:1",
+"end_ref": "41011011",
+"end_ref_usfm": "MRK 11:11"
+},
+{
+"start_ref": "41013009",
+"start_ref_usfm": "MRK 13:9",
+"end_ref": "41013023",
+"end_ref_usfm": "MRK 13:23"
+},
+{
+"start_ref": "42006027",
+"start_ref_usfm": "LUK 6:27",
+"end_ref": "42006036",
+"end_ref_usfm": "LUK 6:36"
+},
+{
+"start_ref": "42008040",
+"start_ref_usfm": "LUK 8:40",
+"end_ref": "42008056",
+"end_ref_usfm": "LUK 8:56"
+},
+{
+"start_ref": "42019028",
+"start_ref_usfm": "LUK 19:28",
+"end_ref": "42019044",
+"end_ref_usfm": "LUK 19:44"
+},
+{
+"start_ref": "42022024",
+"start_ref_usfm": "LUK 22:24",
+"end_ref": "42022038",
+"end_ref_usfm": "LUK 22:38"
+},
+{
+"start_ref": "43021001",
+"start_ref_usfm": "JHN 21:1",
+"end_ref": "43021014",
+"end_ref_usfm": "JHN 21:14"
+},
+{
+"start_ref": "44009036",
+"start_ref_usfm": "ACT 9:36",
+"end_ref": "44009043",
+"end_ref_usfm": "ACT 9:43"
+},
+{
+"start_ref": "44012006",
+"start_ref_usfm": "ACT 12:6",
+"end_ref": "44012019",
+"end_ref_usfm": "ACT 12:19"
+},
+{
+"start_ref": "44022022",
+"start_ref_usfm": "ACT 22:22",
+"end_ref": "44022029",
+"end_ref_usfm": "ACT 22:29"
+},
+{
+"start_ref": "55004009",
+"start_ref_usfm": "2TI 4:9",
+"end_ref": "55004022",
+"end_ref_usfm": "2TI 4:22"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "spa-t195-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "commander",
+"media_type": "Text",
+"index_reference": "commander",
+"language": "spa",
+"review_level": "None",
+"content": "<p>Un <b>comandante</b> en el Nuevo Testamento es el nombre de un oficial en el ejército romano. Las personas a veces llamaban a los comandantes &quot;tribuno&quot;. Un comandante o tribuno tenía más autoridad que un <a href=\"#t170\">centurión</a>, que estaba a cargo de solo cien personas. Un comandante a menudo estaría a cargo de 6 a 10 centuriones y sus soldados. Por lo tanto, un comandante estaba a cargo de aproximadamente 600 a 1000 soldados en total.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "44021027",
+"start_ref_usfm": "ACT 21:27",
+"end_ref": "44021036",
+"end_ref_usfm": "ACT 21:36"
+},
+{
+"start_ref": "44021037",
+"start_ref_usfm": "ACT 21:37",
+"end_ref": "44022021",
+"end_ref_usfm": "ACT 22:21"
+},
+{
+"start_ref": "44022022",
+"start_ref_usfm": "ACT 22:22",
+"end_ref": "44022029",
+"end_ref_usfm": "ACT 22:29"
+},
+{
+"start_ref": "44022030",
+"start_ref_usfm": "ACT 22:30",
+"end_ref": "44023011",
+"end_ref_usfm": "ACT 23:11"
+},
+{
+"start_ref": "44023012",
+"start_ref_usfm": "ACT 23:12",
+"end_ref": "44023035",
+"end_ref_usfm": "ACT 23:35"
+},
+{
+"start_ref": "44024010",
+"start_ref_usfm": "ACT 24:10",
+"end_ref": "44024023",
+"end_ref_usfm": "ACT 24:23"
+},
+{
+"start_ref": "44025023",
+"start_ref_usfm": "ACT 25:23",
+"end_ref": "44025027",
+"end_ref_usfm": "ACT 25:27"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "spa-t245-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "commandment",
+"media_type": "Text",
+"index_reference": "commandment",
+"language": "spa",
+"review_level": "None",
+"content": "<p>Un <b>mandamiento</b> es una ley, una regla o una instrucción. Dios da mandamientos a las personas para mostrarles cómo vivir bien, en una buena relación con Dios y con los demás. Cuando la Biblia habla de los mandamientos de Dios, a veces está hablando de los 10 mandamientos que Dios dio a los israelitas a través de Moisés en las dos tablas de piedra. Las personas a veces llaman a estos 10 mandamientos las 10 “palabras”. Pero a veces, cuando escuchamos hablar de los mandamientos de Dios en la Biblia, esto quiere decir <b>todas</b> las instrucciones que Dios ha dado a su pueblo.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02015019",
+"start_ref_usfm": "EXO 15:19",
+"end_ref": "02015027",
+"end_ref_usfm": "EXO 15:27"
+},
+{
+"start_ref": "02016022",
+"start_ref_usfm": "EXO 16:22",
+"end_ref": "02016036",
+"end_ref_usfm": "EXO 16:36"
+},
+{
+"start_ref": "02020001",
+"start_ref_usfm": "EXO 20:1",
+"end_ref": "02020007",
+"end_ref_usfm": "EXO 20:7"
+},
+{
+"start_ref": "02020008",
+"start_ref_usfm": "EXO 20:8",
+"end_ref": "02020017",
+"end_ref_usfm": "EXO 20:17"
+},
+{
+"start_ref": "02024001",
+"start_ref_usfm": "EXO 24:1",
+"end_ref": "02024008",
+"end_ref_usfm": "EXO 24:8"
+},
+{
+"start_ref": "02024009",
+"start_ref_usfm": "EXO 24:9",
+"end_ref": "02024018",
+"end_ref_usfm": "EXO 24:18"
+},
+{
+"start_ref": "02025010",
+"start_ref_usfm": "EXO 25:10",
+"end_ref": "02025022",
+"end_ref_usfm": "EXO 25:22"
+},
+{
+"start_ref": "02034001",
+"start_ref_usfm": "EXO 34:1",
+"end_ref": "02034009",
+"end_ref_usfm": "EXO 34:9"
+},
+{
+"start_ref": "02034010",
+"start_ref_usfm": "EXO 34:10",
+"end_ref": "02034017",
+"end_ref_usfm": "EXO 34:17"
+},
+{
+"start_ref": "02034018",
+"start_ref_usfm": "EXO 34:18",
+"end_ref": "02034028",
+"end_ref_usfm": "EXO 34:28"
+},
+{
+"start_ref": "02034029",
+"start_ref_usfm": "EXO 34:29",
+"end_ref": "02034035",
+"end_ref_usfm": "EXO 34:35"
+},
+{
+"start_ref": "04036001",
+"start_ref_usfm": "NUM 36:1",
+"end_ref": "04036013",
+"end_ref_usfm": "NUM 36:13"
+},
+{
+"start_ref": "05005006",
+"start_ref_usfm": "DEU 5:6",
+"end_ref": "05005011",
+"end_ref_usfm": "DEU 5:11"
+},
+{
+"start_ref": "05005022",
+"start_ref_usfm": "DEU 5:22",
+"end_ref": "05005027",
+"end_ref_usfm": "DEU 5:27"
+},
+{
+"start_ref": "05005028",
+"start_ref_usfm": "DEU 5:28",
+"end_ref": "05005033",
+"end_ref_usfm": "DEU 5:33"
+},
+{
+"start_ref": "05007001",
+"start_ref_usfm": "DEU 7:1",
+"end_ref": "05007011",
+"end_ref_usfm": "DEU 7:11"
+},
+{
+"start_ref": "05008001",
+"start_ref_usfm": "DEU 8:1",
+"end_ref": "05008010",
+"end_ref_usfm": "DEU 8:10"
+},
+{
+"start_ref": "05008011",
+"start_ref_usfm": "DEU 8:11",
+"end_ref": "05008020",
+"end_ref_usfm": "DEU 8:20"
+},
+{
+"start_ref": "05009007",
+"start_ref_usfm": "DEU 9:7",
+"end_ref": "05009017",
+"end_ref_usfm": "DEU 9:17"
+},
+{
+"start_ref": "05010001",
+"start_ref_usfm": "DEU 10:1",
+"end_ref": "05010005",
+"end_ref_usfm": "DEU 10:5"
+},
+{
+"start_ref": "05010012",
+"start_ref_usfm": "DEU 10:12",
+"end_ref": "05010022",
+"end_ref_usfm": "DEU 10:22"
+},
+{
+"start_ref": "05012029",
+"start_ref_usfm": "DEU 12:29",
+"end_ref": "05013005",
+"end_ref_usfm": "DEU 13:5"
+},
+{
+"start_ref": "05013012",
+"start_ref_usfm": "DEU 13:12",
+"end_ref": "05013018",
+"end_ref_usfm": "DEU 13:18"
+},
+{
+"start_ref": "05028015",
+"start_ref_usfm": "DEU 28:15",
+"end_ref": "05028024",
+"end_ref_usfm": "DEU 28:24"
+},
+{
+"start_ref": "05030001",
+"start_ref_usfm": "DEU 30:1",
+"end_ref": "05030010",
+"end_ref_usfm": "DEU 30:10"
+},
+{
+"start_ref": "05030011",
+"start_ref_usfm": "DEU 30:11",
+"end_ref": "05030020",
+"end_ref_usfm": "DEU 30:20"
+},
+{
+"start_ref": "06022001",
+"start_ref_usfm": "JOS 22:1",
+"end_ref": "06022012",
+"end_ref_usfm": "JOS 22:12"
+},
+{
+"start_ref": "07002011",
+"start_ref_usfm": "JDG 2:11",
+"end_ref": "07002019",
+"end_ref_usfm": "JDG 2:19"
+},
+{
+"start_ref": "07002020",
+"start_ref_usfm": "JDG 2:20",
+"end_ref": "07003006",
+"end_ref_usfm": "JDG 3:6"
+},
+{
+"start_ref": "09013001",
+"start_ref_usfm": "1SA 13:1",
+"end_ref": "09013014",
+"end_ref_usfm": "1SA 13:14"
+},
+{
+"start_ref": "11002001",
+"start_ref_usfm": "1KI 2:1",
+"end_ref": "11002012",
+"end_ref_usfm": "1KI 2:12"
+},
+{
+"start_ref": "11003001",
+"start_ref_usfm": "1KI 3:1",
+"end_ref": "11003015",
+"end_ref_usfm": "1KI 3:15"
+},
+{
+"start_ref": "11006001",
+"start_ref_usfm": "1KI 6:1",
+"end_ref": "11006013",
+"end_ref_usfm": "1KI 6:13"
+},
+{
+"start_ref": "11008054",
+"start_ref_usfm": "1KI 8:54",
+"end_ref": "11008061",
+"end_ref_usfm": "1KI 8:61"
+},
+{
+"start_ref": "11009001",
+"start_ref_usfm": "1KI 9:1",
+"end_ref": "11009009",
+"end_ref_usfm": "1KI 9:9"
+},
+{
+"start_ref": "11011026",
+"start_ref_usfm": "1KI 11:26",
+"end_ref": "11011043",
+"end_ref_usfm": "1KI 11:43"
+},
+{
+"start_ref": "11014001",
+"start_ref_usfm": "1KI 14:1",
+"end_ref": "11014011",
+"end_ref_usfm": "1KI 14:11"
+},
+{
+"start_ref": "11018016",
+"start_ref_usfm": "1KI 18:16",
+"end_ref": "11018029",
+"end_ref_usfm": "1KI 18:29"
+},
+{
+"start_ref": "13028001",
+"start_ref_usfm": "1CH 28:1",
+"end_ref": "13028008",
+"end_ref_usfm": "1CH 28:8"
+},
+{
+"start_ref": "13029010",
+"start_ref_usfm": "1CH 29:10",
+"end_ref": "13029020",
+"end_ref_usfm": "1CH 29:20"
+},
+{
+"start_ref": "14007011",
+"start_ref_usfm": "2CH 7:11",
+"end_ref": "14007022",
+"end_ref_usfm": "2CH 7:22"
+},
+{
+"start_ref": "14014002",
+"start_ref_usfm": "2CH 14:2",
+"end_ref": "14014015",
+"end_ref_usfm": "2CH 14:15"
+},
+{
+"start_ref": "14017001",
+"start_ref_usfm": "2CH 17:1",
+"end_ref": "14017009",
+"end_ref_usfm": "2CH 17:9"
+},
+{
+"start_ref": "14019001",
+"start_ref_usfm": "2CH 19:1",
+"end_ref": "14019011",
+"end_ref_usfm": "2CH 19:11"
+},
+{
+"start_ref": "14024017",
+"start_ref_usfm": "2CH 24:17",
+"end_ref": "14024027",
+"end_ref_usfm": "2CH 24:27"
+},
+{
+"start_ref": "15007011",
+"start_ref_usfm": "EZR 7:11",
+"end_ref": "15007028",
+"end_ref_usfm": "EZR 7:28"
+},
+{
+"start_ref": "15009005",
+"start_ref_usfm": "EZR 9:5",
+"end_ref": "15009015",
+"end_ref_usfm": "EZR 9:15"
+},
+{
+"start_ref": "16001001",
+"start_ref_usfm": "NEH 1:1",
+"end_ref": "16001011",
+"end_ref_usfm": "NEH 1:11"
+},
+{
+"start_ref": "40015001",
+"start_ref_usfm": "MAT 15:1",
+"end_ref": "40015020",
+"end_ref_usfm": "MAT 15:20"
+},
+{
+"start_ref": "40019013",
+"start_ref_usfm": "MAT 19:13",
+"end_ref": "40019030",
+"end_ref_usfm": "MAT 19:30"
+},
+{
+"start_ref": "40022034",
+"start_ref_usfm": "MAT 22:34",
+"end_ref": "40022046",
+"end_ref_usfm": "MAT 22:46"
+},
+{
+"start_ref": "46007017",
+"start_ref_usfm": "1CO 7:17",
+"end_ref": "46007024",
+"end_ref_usfm": "1CO 7:24"
+},
+{
+"start_ref": "48005013",
+"start_ref_usfm": "GAL 5:13",
+"end_ref": "48005018",
+"end_ref_usfm": "GAL 5:18"
+},
+{
+"start_ref": "49002011",
+"start_ref_usfm": "EPH 2:11",
+"end_ref": "49002018",
+"end_ref_usfm": "EPH 2:18"
+},
+{
+"start_ref": "49006001",
+"start_ref_usfm": "EPH 6:1",
+"end_ref": "49006009",
+"end_ref_usfm": "EPH 6:9"
+},
+{
+"start_ref": "56001001",
+"start_ref_usfm": "TIT 1:1",
+"end_ref": "56001004",
+"end_ref_usfm": "TIT 1:4"
+},
+{
+"start_ref": "56001010",
+"start_ref_usfm": "TIT 1:10",
+"end_ref": "56001016",
+"end_ref_usfm": "TIT 1:16"
+},
+{
+"start_ref": "62002003",
+"start_ref_usfm": "1JN 2:3",
+"end_ref": "62002011",
+"end_ref_usfm": "1JN 2:11"
+},
+{
+"start_ref": "62003019",
+"start_ref_usfm": "1JN 3:19",
+"end_ref": "62003024",
+"end_ref_usfm": "1JN 3:24"
+},
+{
+"start_ref": "62004013",
+"start_ref_usfm": "1JN 4:13",
+"end_ref": "62004021",
+"end_ref_usfm": "1JN 4:21"
+},
+{
+"start_ref": "62005001",
+"start_ref_usfm": "1JN 5:1",
+"end_ref": "62005005",
+"end_ref_usfm": "1JN 5:5"
+},
+{
+"start_ref": "63001004",
+"start_ref_usfm": "2JN 1:4",
+"end_ref": "63001006",
+"end_ref_usfm": "2JN 1:6"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "spa-t205-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "compassion",
+"media_type": "Text",
+"index_reference": "compassion",
+"language": "spa",
+"review_level": "None",
+"content": "<p>Cuando alguien tiene <b>compasión</b> por alguien, tiene un profundo afecto o amor por alguien.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02022025",
+"start_ref_usfm": "EXO 22:25",
+"end_ref": "02022031",
+"end_ref_usfm": "EXO 22:31"
+},
+{
+"start_ref": "02033012",
+"start_ref_usfm": "EXO 33:12",
+"end_ref": "02033023",
+"end_ref_usfm": "EXO 33:23"
+},
+{
+"start_ref": "02034001",
+"start_ref_usfm": "EXO 34:1",
+"end_ref": "02034009",
+"end_ref_usfm": "EXO 34:9"
+},
+{
+"start_ref": "05013006",
+"start_ref_usfm": "DEU 13:6",
+"end_ref": "05013011",
+"end_ref_usfm": "DEU 13:11"
+},
+{
+"start_ref": "05013012",
+"start_ref_usfm": "DEU 13:12",
+"end_ref": "05013018",
+"end_ref_usfm": "DEU 13:18"
+},
+{
+"start_ref": "07021013",
+"start_ref_usfm": "JDG 21:13",
+"end_ref": "07021025",
+"end_ref_usfm": "JDG 21:25"
+},
+{
+"start_ref": "10012001",
+"start_ref_usfm": "2SA 12:1",
+"end_ref": "10012015",
+"end_ref_usfm": "2SA 12:15"
+},
+{
+"start_ref": "40014013",
+"start_ref_usfm": "MAT 14:13",
+"end_ref": "40014021",
+"end_ref_usfm": "MAT 14:21"
+},
+{
+"start_ref": "41001040",
+"start_ref_usfm": "MRK 1:40",
+"end_ref": "41001045",
+"end_ref_usfm": "MRK 1:45"
+},
+{
+"start_ref": "47001001",
+"start_ref_usfm": "2CO 1:1",
+"end_ref": "47001007",
+"end_ref_usfm": "2CO 1:7"
+},
+{
+"start_ref": "49004025",
+"start_ref_usfm": "EPH 4:25",
+"end_ref": "49004032",
+"end_ref_usfm": "EPH 4:32"
+},
+{
+"start_ref": "59005007",
+"start_ref_usfm": "JAS 5:7",
+"end_ref": "59005012",
+"end_ref_usfm": "JAS 5:12"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "spa-t254-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "consecrate",
+"media_type": "Text",
+"index_reference": "consecrate",
+"language": "spa",
+"review_level": "None",
+"content": "<p>En el Antiguo Testamento, cuando <b>consagraban</b> o <b>santificaban</b> a alguien, separaban a la persona para servir especialmente a Dios. La persona entonces pertenece a Dios; Estás personas son <a href=\"#t67\">santas</a>. En el Antiguo Testamento, los <b>sacerdotes</b> y <b>levitas</b> eran las personas que trabajaban en el templo de Dios. Ellos tenían que consagrarse antes de poder cumplir sus obligaciones para Dios. Esto quiere decir que no tenían relaciones sexuales con su esposa durante un cierto de tiempo, y entonces tomaban un baño especial y se ponían una ropa nueva.</p><p>Las personas también podían consagrar o santificar un objeto para realizar una tarea especial para Dios. Por ejemplo, los sacerdotes consagraban el <a href=\"#t138\">templo</a> de Dios y todos los objetos en el templo. Los sacerdotes hacían esto rociando la sangre de los animales que habían sacrificado en el templo y sobre los objetos del templo. Estos objetos ahora eran santos, pertenecían a Dios. Las personas no podían usar estos objetos para un uso ordinario. Si hicieran esto, sería un terrible insulto a Dios.</p><p>Si Dios consagra a alguien, esa persona está <b>limpia</b>. En la Biblia, cuando alguien está limpio, no se refiere a nuestros cuerpos estar limpios. Cuando estamos limpios, simplemente significa que estamos aptos para servir a Dios.</p><p>En el Nuevo Testamento, la mayoría de las traducciones usan la palabra consagrar para hablar de un objeto o una persona que el pueblo dedicaba a un propósito especial o una tarea para Dios. Las traducciones usan entonces una palabra diferente, santificar, para hablar del proceso en que las personas van aprendiendo a vivir cada vez más como Dios quiere que vivamos. Sin embargo, el lenguaje original usa las mismas palabras tanto para dedicar un objeto a una tarea especial, como para el proceso de aprender a vivir como Dios quiere que vivamos.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02013001",
+"start_ref_usfm": "EXO 13:1",
+"end_ref": "02013016",
+"end_ref_usfm": "EXO 13:16"
+},
+{
+"start_ref": "02019001",
+"start_ref_usfm": "EXO 19:1",
+"end_ref": "02019015",
+"end_ref_usfm": "EXO 19:15"
+},
+{
+"start_ref": "02019016",
+"start_ref_usfm": "EXO 19:16",
+"end_ref": "02019025",
+"end_ref_usfm": "EXO 19:25"
+},
+{
+"start_ref": "02028031",
+"start_ref_usfm": "EXO 28:31",
+"end_ref": "02028043",
+"end_ref_usfm": "EXO 28:43"
+},
+{
+"start_ref": "02029001",
+"start_ref_usfm": "EXO 29:1",
+"end_ref": "02029009",
+"end_ref_usfm": "EXO 29:9"
+},
+{
+"start_ref": "02029010",
+"start_ref_usfm": "EXO 29:10",
+"end_ref": "02029018",
+"end_ref_usfm": "EXO 29:18"
+},
+{
+"start_ref": "02029019",
+"start_ref_usfm": "EXO 29:19",
+"end_ref": "02029028",
+"end_ref_usfm": "EXO 29:28"
+},
+{
+"start_ref": "02029029",
+"start_ref_usfm": "EXO 29:29",
+"end_ref": "02029037",
+"end_ref_usfm": "EXO 29:37"
+},
+{
+"start_ref": "02029038",
+"start_ref_usfm": "EXO 29:38",
+"end_ref": "02029046",
+"end_ref_usfm": "EXO 29:46"
+},
+{
+"start_ref": "02030001",
+"start_ref_usfm": "EXO 30:1",
+"end_ref": "02030010",
+"end_ref_usfm": "EXO 30:10"
+},
+{
+"start_ref": "02030022",
+"start_ref_usfm": "EXO 30:22",
+"end_ref": "02030033",
+"end_ref_usfm": "EXO 30:33"
+},
+{
+"start_ref": "02039001",
+"start_ref_usfm": "EXO 39:1",
+"end_ref": "02039007",
+"end_ref_usfm": "EXO 39:7"
+},
+{
+"start_ref": "02040001",
+"start_ref_usfm": "EXO 40:1",
+"end_ref": "02040015",
+"end_ref_usfm": "EXO 40:15"
+},
+{
+"start_ref": "04003001",
+"start_ref_usfm": "NUM 3:1",
+"end_ref": "04003013",
+"end_ref_usfm": "NUM 3:13"
+},
+{
+"start_ref": "04007001",
+"start_ref_usfm": "NUM 7:1",
+"end_ref": "04007009",
+"end_ref_usfm": "NUM 7:9"
+},
+{
+"start_ref": "04011016",
+"start_ref_usfm": "NUM 11:16",
+"end_ref": "04011030",
+"end_ref_usfm": "NUM 11:30"
+},
+{
+"start_ref": "04018008",
+"start_ref_usfm": "NUM 18:8",
+"end_ref": "04018020",
+"end_ref_usfm": "NUM 18:20"
+},
+{
+"start_ref": "06003001",
+"start_ref_usfm": "JOS 3:1",
+"end_ref": "06003017",
+"end_ref_usfm": "JOS 3:17"
+},
+{
+"start_ref": "06007010",
+"start_ref_usfm": "JOS 7:10",
+"end_ref": "06007026",
+"end_ref_usfm": "JOS 7:26"
+},
+{
+"start_ref": "07017001",
+"start_ref_usfm": "JDG 17:1",
+"end_ref": "07017013",
+"end_ref_usfm": "JDG 17:13"
+},
+{
+"start_ref": "09006019",
+"start_ref_usfm": "1SA 6:19",
+"end_ref": "09007002",
+"end_ref_usfm": "1SA 7:2"
+},
+{
+"start_ref": "09021001",
+"start_ref_usfm": "1SA 21:1",
+"end_ref": "09021009",
+"end_ref_usfm": "1SA 21:9"
+},
+{
+"start_ref": "11008062",
+"start_ref_usfm": "1KI 8:62",
+"end_ref": "11008066",
+"end_ref_usfm": "1KI 8:66"
+},
+{
+"start_ref": "11009001",
+"start_ref_usfm": "1KI 9:1",
+"end_ref": "11009009",
+"end_ref_usfm": "1KI 9:9"
+},
+{
+"start_ref": "13015001",
+"start_ref_usfm": "1CH 15:1",
+"end_ref": "13015024",
+"end_ref_usfm": "1CH 15:24"
+},
+{
+"start_ref": "13023012",
+"start_ref_usfm": "1CH 23:12",
+"end_ref": "13023020",
+"end_ref_usfm": "1CH 23:20"
+},
+{
+"start_ref": "13024001",
+"start_ref_usfm": "1CH 24:1",
+"end_ref": "13024019",
+"end_ref_usfm": "1CH 24:19"
+},
+{
+"start_ref": "13026020",
+"start_ref_usfm": "1CH 26:20",
+"end_ref": "13026028",
+"end_ref_usfm": "1CH 26:28"
+},
+{
+"start_ref": "13029001",
+"start_ref_usfm": "1CH 29:1",
+"end_ref": "13029009",
+"end_ref_usfm": "1CH 29:9"
+},
+{
+"start_ref": "14007004",
+"start_ref_usfm": "2CH 7:4",
+"end_ref": "14007010",
+"end_ref_usfm": "2CH 7:10"
+},
+{
+"start_ref": "14007011",
+"start_ref_usfm": "2CH 7:11",
+"end_ref": "14007022",
+"end_ref_usfm": "2CH 7:22"
+},
+{
+"start_ref": "14013001",
+"start_ref_usfm": "2CH 13:1",
+"end_ref": "14013012",
+"end_ref_usfm": "2CH 13:12"
+},
+{
+"start_ref": "14026016",
+"start_ref_usfm": "2CH 26:16",
+"end_ref": "14026023",
+"end_ref_usfm": "2CH 26:23"
+},
+{
+"start_ref": "14029001",
+"start_ref_usfm": "2CH 29:1",
+"end_ref": "14029017",
+"end_ref_usfm": "2CH 29:17"
+},
+{
+"start_ref": "15008024",
+"start_ref_usfm": "EZR 8:24",
+"end_ref": "15008030",
+"end_ref_usfm": "EZR 8:30"
+},
+{
+"start_ref": "16003001",
+"start_ref_usfm": "NEH 3:1",
+"end_ref": "16003005",
+"end_ref_usfm": "NEH 3:5"
+},
+{
+"start_ref": "54004001",
+"start_ref_usfm": "1TI 4:1",
+"end_ref": "54004005",
+"end_ref_usfm": "1TI 4:5"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "spa-t238-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "convict",
+"media_type": "Text",
+"index_reference": "convict",
+"language": "spa",
+"review_level": "None",
+"content": "<p>Si las personas declaran que alguien más es culpable de haber hecho algo malo, decimos que <b>condenan</b> a esa persona.</p><p>Por ejemplo, en un caso judicial, las personas acusan a otra persona de haber cometido un crimen. Un juez es la persona que decide si esta persona es realmente culpable o no. Si el juez cree que la persona es realmente culpable, decimos que condena a la persona. El juez entonces decidirá qué castigo le dará a la persona.</p><p>Las personas pueden condenar a una persona porque esperan que esta persona cambie sus maneras. Una persona que se siente condenada se da cuenta de que ha actuado mal, y quiere cambiar.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "43016001",
+"start_ref_usfm": "JHN 16:1",
+"end_ref": "43016015",
+"end_ref_usfm": "JHN 16:15"
+},
+{
+"start_ref": "52001001",
+"start_ref_usfm": "1TH 1:1",
+"end_ref": "52001010",
+"end_ref_usfm": "1TH 1:10"
+},
+{
+"start_ref": "65001012",
+"start_ref_usfm": "JUD 1:12",
+"end_ref": "65001016",
+"end_ref_usfm": "JUD 1:16"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "spa-t28-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "cornerstone",
+"media_type": "Text",
+"index_reference": "cornerstone",
+"language": "spa",
+"review_level": "None",
+"content": "<p>Una <b>piedra angular</b>, a veces llamada &quot;piedra base&quot;, es la piedra más importante en un edificio.</p><p>Existen dos piedras diferentes en un edificio que pueden llamarse piedra angular.</p><p>Una piedra angular puede ser una piedra grande colocada en una de las esquinas en la parte inferior de un edificio. Las personas ponen esta piedra primero. Entonces, cuando construyen el resto de la casa, la construyen en relación a esta piedra. Saben dónde construir los otros muros porque pueden ver esta primera piedra y hacer que los otros muros se conecten con esta piedra. Como esta piedra es grande, une dos paredes diferentes y soporta una gran parte del peso de la casa. En este caso, la piedra angular es la piedra más importante porque hace que la casa sea fuerte.</p><p>Una piedra angular también puede significar una piedra que se coloca en la parte superior de un edificio. Esta piedra une dos arcos para formar una puerta, o para apoyar el techo. En este caso, la piedra angular es la piedra más importante porque completa la casa y la une.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40021033",
+"start_ref_usfm": "MAT 21:33",
+"end_ref": "40021046",
+"end_ref_usfm": "MAT 21:46"
+},
+{
+"start_ref": "41012001",
+"start_ref_usfm": "MRK 12:1",
+"end_ref": "41012012",
+"end_ref_usfm": "MRK 12:12"
+},
+{
+"start_ref": "49002019",
+"start_ref_usfm": "EPH 2:19",
+"end_ref": "49002022",
+"end_ref_usfm": "EPH 2:22"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "spa-t29-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "covenant",
+"media_type": "Text",
+"index_reference": "covenant",
+"language": "spa",
+"review_level": "None",
+"content": "<p>Cuando las personas hacen un <b>pacto</b>, hacen una promesa solemne entre sí que no pueden romper. Cuando las personas hacen un pacto, dicen que quieren tener una buena relación entre ellas. Por lo tanto, las personas que hacen el pacto a veces se llaman hermano, o padre, o hijo. Un pacto es para siempre.</p><p>Cuando las personas hacen un pacto, hacen un <a href=\"#t96\">juramento</a>. En el juramento dicen: “Yo mantendré mi promesa. Si no lo hago, Dios puede castigarme&quot;. Pueden realizar un ritual que simboliza el castigo que Dios les dará si rompen su juramento. Por ejemplo, cuando las personas hacían un pacto entre sí, cada una debía matar a un animal. Esto les recordaba que si uno de ellos rompía el pacto, Dios los castigaría. A menudo, comer una comida juntos también era parte del ritual del pacto.</p><p>Personas individuales o familias enteras podían hacer un pacto entre sí. Los países o grupos de personas también podían hacer un pacto entre sí. Por ejemplo, podían prometer que no lucharían entre sí y que ayudarían al otro grupo si este grupo tenía un problema. Al hacer un pacto entre sí, estaban diciendo que querían tener una buena <b>relación</b> entre sí. En esta relación, ambas partes eran iguales. Ellos tenían la opción de hacer el pacto entre sí o no, y podían ponerse de acuerdo juntos sobre lo que querían prometerse el uno al otro. En el Antiguo Testamento, el pueblo de <a href=\"#t74\">Israel</a> a veces hacía un pacto con personas de otra <a href=\"#t94\">nación</a>.</p><p>Un <a href=\"#t226\">rey</a> o un gobernante también podía hacer un pacto con otro gobernante o <a href=\"#t157\">reino</a> que era más débil que él. El rey podía decir a estas otras personas: &quot;Los protegeré, pero tendrán que pagarme&quot;, o &quot;Tendrán que trabajar para mí&quot;. Estas otras personas tenían que prometer hacer lo que el rey quería. Si rompían la promesa, el rey los castigaría. Si mantenían su promesa, el rey haría cosas buenas por ellos. En este tipo de pacto, el rey no hacía un juramento. Solo las personas que tenían que hacer lo que el rey quería que hagan tenían que hacer un juramento.</p><p>Pero a veces era al revés, y solo el rey hacía un juramento. Esto podía suceder si algunas personas habían hecho algo muy bueno para el rey, y el rey quería recompensarlos. Esto generalmente significaba que el rey les daría alguna tierra. El rey entonces hizo un juramento, diciendo que las personas podían tener este pedazo de tierra para siempre.</p><p>Dios hizo varios pactos con las personas. Estos tipos de pactos eran como los dos tipos diferentes de pactos que un rey podía establecer con las personas.</p><p>Dios hizo un pacto con <a href=\"#t1\">Abraham</a>. Dios prometió dar a Abraham una tierra y muchos descendientes. Dios fue el único que hizo un juramento aquí. Dios confirmó su juramento a través de un ritual que implicaba la muerte de animales. Esto simbolizaba la sinceridad del juramento de Dios. A partir de ese momento, Abraham y sus <b>descendientes</b> necesitaban ser <b>circuncidados</b>. La circuncisión es la costumbre judía de cortar la piel suelta del extremo del pene de un hombre. En <a href=\"#t227\">hebreo</a>, el idioma del Antiguo Testamento, cuando las personas hacen un pacto, dicen que “<b>cortan</b> un pacto”. Al hacer este corte en su cuerpo, los descendientes de Abraham recordarían el pacto que Dios había “cortado” con ellos. Si los descendientes de Abraham dejaban de circuncidar a sus hijos, romperían su parte del pacto.</p><p>Más tarde, Dios confirmó este pacto con los descendientes de Abraham, los <b>israelitas</b>, varias veces. Por ejemplo, esto sucedió en el Monte Sinaí después de que Moisés guió a los israelitas fuera de la esclavitud de Egipto. Los descendientes de Abraham se habían convertido en un gran grupo de personas, tal como Dios había prometido. Pero aún no tenían su propia tierra. En el Monte Sinaí, Dios dio a los israelitas sus mandamientos, que eran sus leyes. Los israelitas necesitaban obedecer estos mandamientos. Esta era su parte del acuerdo del pacto. Dios prometió a los israelitas que si lo obedecían y mantenían su parte del pacto, serían las personas especiales de Dios. Dios los <a href=\"#t16\">bendeciría</a> y les daría una tierra propia, y muchas otras cosas buenas. Pero si los israelitas desobedecían a Dios, y rompían el pacto, Dios los castigaría y les quitaría su tierra.</p><p>Los israelitas prometieron mantener el pacto de Dios y obedecerlo completamente. Para confirmar esta promesa, hicieron un ritual. Moisés mató a varios animales y roció parte de la sangre de esos animales en el <a href=\"#t3\">altar</a>, el lugar donde las personas ofrecían <b>sacrificios</b> a Dios. Y roció parte de la sangre sobre las personas. Él llamó a esto la “sangre del pacto”. La sangre en el altar simbolizaba el juramento de Dios, y la sangre sobre las personas simbolizaba el juramento de las personas. La sangre hacía del pacto un acuerdo formal que no podía romperse.</p><p>Sin embargo, los israelitas no mantuvieron su promesa. Continuaron rompiendo los mandamientos de Dios, y Dios tuvo que castigarlos.</p><p>En el Nuevo Testamento, este pacto del Antiguo Testamento con los israelitas se llama “el primer pacto”. Jesús dijo que estaba haciendo un <b>nuevo</b> pacto con las personas. Era necesario que Dios hiciera un nuevo pacto porque las personas son muy <b>pecadoras</b>. Por lo tanto, nunca podían obedecer a Dios completamente, y no podían mantener su parte del pacto. Justo antes de que Jesús fuera muerto, Jesús habló de su propia muerte. Jesús dijo que su sangre era la sangre del nuevo pacto. Así como la sangre en el altar y sobre las personas en la época de Moisés formalizó el primer pacto, la muerte de Jesús formaliza el nuevo pacto entre Dios y las personas. El nuevo pacto es una promesa solemne de Dios a las personas de que serán salvas si confían en Jesús.</p><p><b>Cuando estén traduciendo pacto, tengan cuidado con las siguientes cosas:</b></p><p>Su cultura puede tener una palabra o frase para pacto que es similar a un pacto en la Biblia. Algunos idiomas usan lenguaje figurado para describir a las personas haciendo un pacto. ¿Las personas hacen cierta actividad cuando están haciendo una promesa solemne entre sí? Si fuera así, esto podría ayudarlos a decidir un término para pacto.</p><p>Algunas opciones para traducir pacto podrían ser:</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01006009",
+"start_ref_usfm": "GEN 6:9",
+"end_ref": "01006022",
+"end_ref_usfm": "GEN 6:22"
+},
+{
+"start_ref": "01008020",
+"start_ref_usfm": "GEN 8:20",
+"end_ref": "01009017",
+"end_ref_usfm": "GEN 9:17"
+},
+{
+"start_ref": "01015001",
+"start_ref_usfm": "GEN 15:1",
+"end_ref": "01015021",
+"end_ref_usfm": "GEN 15:21"
+},
+{
+"start_ref": "01017001",
+"start_ref_usfm": "GEN 17:1",
+"end_ref": "01017027",
+"end_ref_usfm": "GEN 17:27"
+},
+{
+"start_ref": "01021022",
+"start_ref_usfm": "GEN 21:22",
+"end_ref": "01021034",
+"end_ref_usfm": "GEN 21:34"
+},
+{
+"start_ref": "01026001",
+"start_ref_usfm": "GEN 26:1",
+"end_ref": "01026033",
+"end_ref_usfm": "GEN 26:33"
+},
+{
+"start_ref": "01031036",
+"start_ref_usfm": "GEN 31:36",
+"end_ref": "01031055",
+"end_ref_usfm": "GEN 31:55"
+},
+{
+"start_ref": "02002016",
+"start_ref_usfm": "EXO 2:16",
+"end_ref": "02002025",
+"end_ref_usfm": "EXO 2:25"
+},
+{
+"start_ref": "02005022",
+"start_ref_usfm": "EXO 5:22",
+"end_ref": "02006013",
+"end_ref_usfm": "EXO 6:13"
+},
+{
+"start_ref": "02012043",
+"start_ref_usfm": "EXO 12:43",
+"end_ref": "02012051",
+"end_ref_usfm": "EXO 12:51"
+},
+{
+"start_ref": "02019001",
+"start_ref_usfm": "EXO 19:1",
+"end_ref": "02019015",
+"end_ref_usfm": "EXO 19:15"
+},
+{
+"start_ref": "02020001",
+"start_ref_usfm": "EXO 20:1",
+"end_ref": "02020007",
+"end_ref_usfm": "EXO 20:7"
+},
+{
+"start_ref": "02023020",
+"start_ref_usfm": "EXO 23:20",
+"end_ref": "02023033",
+"end_ref_usfm": "EXO 23:33"
+},
+{
+"start_ref": "02024001",
+"start_ref_usfm": "EXO 24:1",
+"end_ref": "02024008",
+"end_ref_usfm": "EXO 24:8"
+},
+{
+"start_ref": "02024009",
+"start_ref_usfm": "EXO 24:9",
+"end_ref": "02024018",
+"end_ref_usfm": "EXO 24:18"
+},
+{
+"start_ref": "02025010",
+"start_ref_usfm": "EXO 25:10",
+"end_ref": "02025022",
+"end_ref_usfm": "EXO 25:22"
+},
+{
+"start_ref": "02026031",
+"start_ref_usfm": "EXO 26:31",
+"end_ref": "02026037",
+"end_ref_usfm": "EXO 26:37"
+},
+{
+"start_ref": "02030001",
+"start_ref_usfm": "EXO 30:1",
+"end_ref": "02030010",
+"end_ref_usfm": "EXO 30:10"
+},
+{
+"start_ref": "02031012",
+"start_ref_usfm": "EXO 31:12",
+"end_ref": "02031018",
+"end_ref_usfm": "EXO 31:18"
+},
+{
+"start_ref": "02032015",
+"start_ref_usfm": "EXO 32:15",
+"end_ref": "02032024",
+"end_ref_usfm": "EXO 32:24"
+},
+{
+"start_ref": "02034001",
+"start_ref_usfm": "EXO 34:1",
+"end_ref": "02034009",
+"end_ref_usfm": "EXO 34:9"
+},
+{
+"start_ref": "02034010",
+"start_ref_usfm": "EXO 34:10",
+"end_ref": "02034017",
+"end_ref_usfm": "EXO 34:17"
+},
+{
+"start_ref": "02034018",
+"start_ref_usfm": "EXO 34:18",
+"end_ref": "02034028",
+"end_ref_usfm": "EXO 34:28"
+},
+{
+"start_ref": "02034029",
+"start_ref_usfm": "EXO 34:29",
+"end_ref": "02034035",
+"end_ref_usfm": "EXO 34:35"
+},
+{
+"start_ref": "02038021",
+"start_ref_usfm": "EXO 38:21",
+"end_ref": "02038031",
+"end_ref_usfm": "EXO 38:31"
+},
+{
+"start_ref": "04001048",
+"start_ref_usfm": "NUM 1:48",
+"end_ref": "04001054",
+"end_ref_usfm": "NUM 1:54"
+},
+{
+"start_ref": "04009015",
+"start_ref_usfm": "NUM 9:15",
+"end_ref": "04009023",
+"end_ref_usfm": "NUM 9:23"
+},
+{
+"start_ref": "04018001",
+"start_ref_usfm": "NUM 18:1",
+"end_ref": "04018007",
+"end_ref_usfm": "NUM 18:7"
+},
+{
+"start_ref": "04018008",
+"start_ref_usfm": "NUM 18:8",
+"end_ref": "04018020",
+"end_ref_usfm": "NUM 18:20"
+},
+{
+"start_ref": "04025010",
+"start_ref_usfm": "NUM 25:10",
+"end_ref": "04025018",
+"end_ref_usfm": "NUM 25:18"
+},
+{
+"start_ref": "05005001",
+"start_ref_usfm": "DEU 5:1",
+"end_ref": "05005005",
+"end_ref_usfm": "DEU 5:5"
+},
+{
+"start_ref": "05007001",
+"start_ref_usfm": "DEU 7:1",
+"end_ref": "05007011",
+"end_ref_usfm": "DEU 7:11"
+},
+{
+"start_ref": "05008011",
+"start_ref_usfm": "DEU 8:11",
+"end_ref": "05008020",
+"end_ref_usfm": "DEU 8:20"
+},
+{
+"start_ref": "05009007",
+"start_ref_usfm": "DEU 9:7",
+"end_ref": "05009017",
+"end_ref_usfm": "DEU 9:17"
+},
+{
+"start_ref": "06007010",
+"start_ref_usfm": "JOS 7:10",
+"end_ref": "06007026",
+"end_ref_usfm": "JOS 7:26"
+},
+{
+"start_ref": "06009001",
+"start_ref_usfm": "JOS 9:1",
+"end_ref": "06009015",
+"end_ref_usfm": "JOS 9:15"
+},
+{
+"start_ref": "06009016",
+"start_ref_usfm": "JOS 9:16",
+"end_ref": "06009027",
+"end_ref_usfm": "JOS 9:27"
+},
+{
+"start_ref": "06010001",
+"start_ref_usfm": "JOS 10:1",
+"end_ref": "06010015",
+"end_ref_usfm": "JOS 10:15"
+},
+{
+"start_ref": "06023009",
+"start_ref_usfm": "JOS 23:9",
+"end_ref": "06023016",
+"end_ref_usfm": "JOS 23:16"
+},
+{
+"start_ref": "06024014",
+"start_ref_usfm": "JOS 24:14",
+"end_ref": "06024028",
+"end_ref_usfm": "JOS 24:28"
+},
+{
+"start_ref": "07002001",
+"start_ref_usfm": "JDG 2:1",
+"end_ref": "07002010",
+"end_ref_usfm": "JDG 2:10"
+},
+{
+"start_ref": "07002020",
+"start_ref_usfm": "JDG 2:20",
+"end_ref": "07003006",
+"end_ref_usfm": "JDG 3:6"
+},
+{
+"start_ref": "09011001",
+"start_ref_usfm": "1SA 11:1",
+"end_ref": "09011015",
+"end_ref_usfm": "1SA 11:15"
+},
+{
+"start_ref": "09017055",
+"start_ref_usfm": "1SA 17:55",
+"end_ref": "09018005",
+"end_ref_usfm": "1SA 18:5"
+},
+{
+"start_ref": "09020001",
+"start_ref_usfm": "1SA 20:1",
+"end_ref": "09020017",
+"end_ref_usfm": "1SA 20:17"
+},
+{
+"start_ref": "09023015",
+"start_ref_usfm": "1SA 23:15",
+"end_ref": "09023029",
+"end_ref_usfm": "1SA 23:29"
+},
+{
+"start_ref": "10003006",
+"start_ref_usfm": "2SA 3:6",
+"end_ref": "10003021",
+"end_ref_usfm": "2SA 3:21"
+},
+{
+"start_ref": "10005001",
+"start_ref_usfm": "2SA 5:1",
+"end_ref": "10005016",
+"end_ref_usfm": "2SA 5:16"
+},
+{
+"start_ref": "10023001",
+"start_ref_usfm": "2SA 23:1",
+"end_ref": "10023007",
+"end_ref_usfm": "2SA 23:7"
+},
+{
+"start_ref": "11008012",
+"start_ref_usfm": "1KI 8:12",
+"end_ref": "11008021",
+"end_ref_usfm": "1KI 8:21"
+},
+{
+"start_ref": "11008022",
+"start_ref_usfm": "1KI 8:22",
+"end_ref": "11008030",
+"end_ref_usfm": "1KI 8:30"
+},
+{
+"start_ref": "11011001",
+"start_ref_usfm": "1KI 11:1",
+"end_ref": "11011013",
+"end_ref_usfm": "1KI 11:13"
+},
+{
+"start_ref": "11015009",
+"start_ref_usfm": "1KI 15:9",
+"end_ref": "11015024",
+"end_ref_usfm": "1KI 15:24"
+},
+{
+"start_ref": "11019009",
+"start_ref_usfm": "1KI 19:9",
+"end_ref": "11019021",
+"end_ref_usfm": "1KI 19:21"
+},
+{
+"start_ref": "11020023",
+"start_ref_usfm": "1KI 20:23",
+"end_ref": "11020034",
+"end_ref_usfm": "1KI 20:34"
+},
+{
+"start_ref": "13011001",
+"start_ref_usfm": "1CH 11:1",
+"end_ref": "13011009",
+"end_ref_usfm": "1CH 11:9"
+},
+{
+"start_ref": "13016014",
+"start_ref_usfm": "1CH 16:14",
+"end_ref": "13016022",
+"end_ref_usfm": "1CH 16:22"
+},
+{
+"start_ref": "13016037",
+"start_ref_usfm": "1CH 16:37",
+"end_ref": "13016043",
+"end_ref_usfm": "1CH 16:43"
+},
+{
+"start_ref": "14007011",
+"start_ref_usfm": "2CH 7:11",
+"end_ref": "14007022",
+"end_ref_usfm": "2CH 7:22"
+},
+{
+"start_ref": "14013001",
+"start_ref_usfm": "2CH 13:1",
+"end_ref": "14013012",
+"end_ref_usfm": "2CH 13:12"
+},
+{
+"start_ref": "14015001",
+"start_ref_usfm": "2CH 15:1",
+"end_ref": "14015019",
+"end_ref_usfm": "2CH 15:19"
+},
+{
+"start_ref": "14016001",
+"start_ref_usfm": "2CH 16:1",
+"end_ref": "14016014",
+"end_ref_usfm": "2CH 16:14"
+},
+{
+"start_ref": "14021001",
+"start_ref_usfm": "2CH 21:1",
+"end_ref": "14021010",
+"end_ref_usfm": "2CH 21:10"
+},
+{
+"start_ref": "14023001",
+"start_ref_usfm": "2CH 23:1",
+"end_ref": "14023015",
+"end_ref_usfm": "2CH 23:15"
+},
+{
+"start_ref": "14023016",
+"start_ref_usfm": "2CH 23:16",
+"end_ref": "14023021",
+"end_ref_usfm": "2CH 23:21"
+},
+{
+"start_ref": "14024001",
+"start_ref_usfm": "2CH 24:1",
+"end_ref": "14024016",
+"end_ref_usfm": "2CH 24:16"
+},
+{
+"start_ref": "14029001",
+"start_ref_usfm": "2CH 29:1",
+"end_ref": "14029017",
+"end_ref_usfm": "2CH 29:17"
+},
+{
+"start_ref": "15010001",
+"start_ref_usfm": "EZR 10:1",
+"end_ref": "15010008",
+"end_ref_usfm": "EZR 10:8"
+},
+{
+"start_ref": "16001001",
+"start_ref_usfm": "NEH 1:1",
+"end_ref": "16001011",
+"end_ref_usfm": "NEH 1:11"
+},
+{
+"start_ref": "40026026",
+"start_ref_usfm": "MAT 26:26",
+"end_ref": "40026035",
+"end_ref_usfm": "MAT 26:35"
+},
+{
+"start_ref": "41014012",
+"start_ref_usfm": "MRK 14:12",
+"end_ref": "41014026",
+"end_ref_usfm": "MRK 14:26"
+},
+{
+"start_ref": "42001057",
+"start_ref_usfm": "LUK 1:57",
+"end_ref": "42001080",
+"end_ref_usfm": "LUK 1:80"
+},
+{
+"start_ref": "42022007",
+"start_ref_usfm": "LUK 22:7",
+"end_ref": "42022023",
+"end_ref_usfm": "LUK 22:23"
+},
+{
+"start_ref": "44007001",
+"start_ref_usfm": "ACT 7:1",
+"end_ref": "44007008",
+"end_ref_usfm": "ACT 7:8"
+},
+{
+"start_ref": "46011017",
+"start_ref_usfm": "1CO 11:17",
+"end_ref": "46011026",
+"end_ref_usfm": "1CO 11:26"
+},
+{
+"start_ref": "47003004",
+"start_ref_usfm": "2CO 3:4",
+"end_ref": "47003011",
+"end_ref_usfm": "2CO 3:11"
+},
+{
+"start_ref": "47003012",
+"start_ref_usfm": "2CO 3:12",
+"end_ref": "47003018",
+"end_ref_usfm": "2CO 3:18"
+},
+{
+"start_ref": "48003015",
+"start_ref_usfm": "GAL 3:15",
+"end_ref": "48003018",
+"end_ref_usfm": "GAL 3:18"
+},
+{
+"start_ref": "48004021",
+"start_ref_usfm": "GAL 4:21",
+"end_ref": "48004027",
+"end_ref_usfm": "GAL 4:27"
+},
+{
+"start_ref": "49002011",
+"start_ref_usfm": "EPH 2:11",
+"end_ref": "49002018",
+"end_ref_usfm": "EPH 2:18"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "spa-t30-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "cross",
+"media_type": "Text",
+"index_reference": "cross",
+"language": "spa",
+"review_level": "None",
+"content": "<p>Una <b>cruz</b> es una pieza de madera vertical con otra pieza de madera llamada &quot;viga cruzada&quot; unida a ella transversalmente cerca de la parte superior. El pueblo romano la usaba como una herramienta para torturar y ejecutar a las personas que pensaban que eran los peores criminales. Las personas llamaban esto de &quot;<a href=\"#t169\">crucifixión</a>&quot;. La crucifixión era la manera más dolorosa y humillante de morir. Una persona que iba a ser crucificada primero era severamente azotada, y luego tenía que llevar la viga cruzada de la cruz hasta el lugar de la ejecución. Los soldados entonces acostaban a la víctima encima de la cruz de madera, con los brazos extendidos. Los soldados entonces martillaban grandes clavos de hierro a través de las muñecas, o manos, de la persona, y luego a través de los pies de la víctima, de tal modo que quedaba sujetada a la cruz. Entonces levantaban la cruz y dejaban a la víctima desnuda colgando hasta que moría, a la vista de otras personas. Una cruz era un símbolo de profunda vergüenza y humillación.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40010034",
+"start_ref_usfm": "MAT 10:34",
+"end_ref": "40010042",
+"end_ref_usfm": "MAT 10:42"
+},
+{
+"start_ref": "40016021",
+"start_ref_usfm": "MAT 16:21",
+"end_ref": "40016028",
+"end_ref_usfm": "MAT 16:28"
+},
+{
+"start_ref": "41008031",
+"start_ref_usfm": "MRK 8:31",
+"end_ref": "41009001",
+"end_ref_usfm": "MRK 9:1"
+},
+{
+"start_ref": "41015001",
+"start_ref_usfm": "MRK 15:1",
+"end_ref": "41015015",
+"end_ref_usfm": "MRK 15:15"
+},
+{
+"start_ref": "41015016",
+"start_ref_usfm": "MRK 15:16",
+"end_ref": "41015032",
+"end_ref_usfm": "MRK 15:32"
+},
+{
+"start_ref": "41015040",
+"start_ref_usfm": "MRK 15:40",
+"end_ref": "41015047",
+"end_ref_usfm": "MRK 15:47"
+},
+{
+"start_ref": "42009018",
+"start_ref_usfm": "LUK 9:18",
+"end_ref": "42009027",
+"end_ref_usfm": "LUK 9:27"
+},
+{
+"start_ref": "42014025",
+"start_ref_usfm": "LUK 14:25",
+"end_ref": "42014035",
+"end_ref_usfm": "LUK 14:35"
+},
+{
+"start_ref": "42023026",
+"start_ref_usfm": "LUK 23:26",
+"end_ref": "42023043",
+"end_ref_usfm": "LUK 23:43"
+},
+{
+"start_ref": "43019017",
+"start_ref_usfm": "JHN 19:17",
+"end_ref": "43019030",
+"end_ref_usfm": "JHN 19:30"
+},
+{
+"start_ref": "43019031",
+"start_ref_usfm": "JHN 19:31",
+"end_ref": "43019042",
+"end_ref_usfm": "JHN 19:42"
+},
+{
+"start_ref": "44005027",
+"start_ref_usfm": "ACT 5:27",
+"end_ref": "44005042",
+"end_ref_usfm": "ACT 5:42"
+},
+{
+"start_ref": "44013023",
+"start_ref_usfm": "ACT 13:23",
+"end_ref": "44013041",
+"end_ref_usfm": "ACT 13:41"
+},
+{
+"start_ref": "46001018",
+"start_ref_usfm": "1CO 1:18",
+"end_ref": "46001025",
+"end_ref_usfm": "1CO 1:25"
+},
+{
+"start_ref": "48005007",
+"start_ref_usfm": "GAL 5:7",
+"end_ref": "48005012",
+"end_ref_usfm": "GAL 5:12"
+},
+{
+"start_ref": "48006011",
+"start_ref_usfm": "GAL 6:11",
+"end_ref": "48006018",
+"end_ref_usfm": "GAL 6:18"
+},
+{
+"start_ref": "49002011",
+"start_ref_usfm": "EPH 2:11",
+"end_ref": "49002018",
+"end_ref_usfm": "EPH 2:18"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "spa-t169-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "crucifixion",
+"media_type": "Text",
+"index_reference": "crucifixion",
+"language": "spa",
+"review_level": "None",
+"content": "<p>La <b>crucifixión</b> era la manera romana de ejecutar a las personas. Solo se usaba para los <b>esclavos</b> y los peores criminales. La crucifixión era la manera más dolorosa y humillante de morir. Crucifixión quiere decir que alguien es clavado a una <a href=\"#t30\">cruz</a> y luego dejado para morir.</p><p>Una cruz es una pieza de madera vertical con otra pieza de madera llamada &quot;viga cruzada&quot; unida a ella transversalmente cerca de la parte superior. La persona que iba a ser crucificada primero era severamente azotada, y luego tenía que llevar la viga cruzada de la cruz hasta el lugar de la ejecución. Los soldados entonces acostaban a la víctima encima de la cruz de madera, con los brazos extendidos. Los soldados entonces martillaban grandes clavos de hierro a través de las muñecas, o manos, y en los pies de la víctima, de tal modo que quedaba sujetada a la cruz. A veces, los soldados solo ataban a la persona con una cuerda y no usaban clavos. Entonces los soldados levantaban la cruz y dejaban a la víctima desnuda colgando hasta que moría, a la vista de otras personas. La víctima no se podía mover y estaba en constante dolor. Eventualmente moriría debido al dolor, al hambre y la sed, o porque ya no podía respirar correctamente. Esto podía llevar varias horas o incluso días. A veces, los soldados hacían que la víctima muriera más rápidamente rompiéndole las piernas para que no pudiera soportarse para respirar.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40023029",
+"start_ref_usfm": "MAT 23:29",
+"end_ref": "40023036",
+"end_ref_usfm": "MAT 23:36"
+},
+{
+"start_ref": "40026001",
+"start_ref_usfm": "MAT 26:1",
+"end_ref": "40026016",
+"end_ref_usfm": "MAT 26:16"
+},
+{
+"start_ref": "40027011",
+"start_ref_usfm": "MAT 27:11",
+"end_ref": "40027026",
+"end_ref_usfm": "MAT 27:26"
+},
+{
+"start_ref": "40027027",
+"start_ref_usfm": "MAT 27:27",
+"end_ref": "40027031",
+"end_ref_usfm": "MAT 27:31"
+},
+{
+"start_ref": "40027032",
+"start_ref_usfm": "MAT 27:32",
+"end_ref": "40027044",
+"end_ref_usfm": "MAT 27:44"
+},
+{
+"start_ref": "40028001",
+"start_ref_usfm": "MAT 28:1",
+"end_ref": "40028015",
+"end_ref_usfm": "MAT 28:15"
+},
+{
+"start_ref": "41015001",
+"start_ref_usfm": "MRK 15:1",
+"end_ref": "41015015",
+"end_ref_usfm": "MRK 15:15"
+},
+{
+"start_ref": "41015016",
+"start_ref_usfm": "MRK 15:16",
+"end_ref": "41015032",
+"end_ref_usfm": "MRK 15:32"
+},
+{
+"start_ref": "41015040",
+"start_ref_usfm": "MRK 15:40",
+"end_ref": "41015047",
+"end_ref_usfm": "MRK 15:47"
+},
+{
+"start_ref": "41016001",
+"start_ref_usfm": "MRK 16:1",
+"end_ref": "41016008",
+"end_ref_usfm": "MRK 16:8"
+},
+{
+"start_ref": "42023013",
+"start_ref_usfm": "LUK 23:13",
+"end_ref": "42023025",
+"end_ref_usfm": "LUK 23:25"
+},
+{
+"start_ref": "42023026",
+"start_ref_usfm": "LUK 23:26",
+"end_ref": "42023043",
+"end_ref_usfm": "LUK 23:43"
+},
+{
+"start_ref": "42024001",
+"start_ref_usfm": "LUK 24:1",
+"end_ref": "42024012",
+"end_ref_usfm": "LUK 24:12"
+},
+{
+"start_ref": "42024013",
+"start_ref_usfm": "LUK 24:13",
+"end_ref": "42024035",
+"end_ref_usfm": "LUK 24:35"
+},
+{
+"start_ref": "43019001",
+"start_ref_usfm": "JHN 19:1",
+"end_ref": "43019016",
+"end_ref_usfm": "JHN 19:16"
+},
+{
+"start_ref": "43019017",
+"start_ref_usfm": "JHN 19:17",
+"end_ref": "43019030",
+"end_ref_usfm": "JHN 19:30"
+},
+{
+"start_ref": "43019031",
+"start_ref_usfm": "JHN 19:31",
+"end_ref": "43019042",
+"end_ref_usfm": "JHN 19:42"
+},
+{
+"start_ref": "44002014",
+"start_ref_usfm": "ACT 2:14",
+"end_ref": "44002036",
+"end_ref_usfm": "ACT 2:36"
+},
+{
+"start_ref": "44004001",
+"start_ref_usfm": "ACT 4:1",
+"end_ref": "44004022",
+"end_ref_usfm": "ACT 4:22"
+},
+{
+"start_ref": "46001010",
+"start_ref_usfm": "1CO 1:10",
+"end_ref": "46001017",
+"end_ref_usfm": "1CO 1:17"
+},
+{
+"start_ref": "46001018",
+"start_ref_usfm": "1CO 1:18",
+"end_ref": "46001025",
+"end_ref_usfm": "1CO 1:25"
+},
+{
+"start_ref": "46002001",
+"start_ref_usfm": "1CO 2:1",
+"end_ref": "46002005",
+"end_ref_usfm": "1CO 2:5"
+},
+{
+"start_ref": "46002006",
+"start_ref_usfm": "1CO 2:6",
+"end_ref": "46002016",
+"end_ref_usfm": "1CO 2:16"
+},
+{
+"start_ref": "48002015",
+"start_ref_usfm": "GAL 2:15",
+"end_ref": "48002021",
+"end_ref_usfm": "GAL 2:21"
+},
+{
+"start_ref": "48003001",
+"start_ref_usfm": "GAL 3:1",
+"end_ref": "48003009",
+"end_ref_usfm": "GAL 3:9"
+},
+{
+"start_ref": "48005019",
+"start_ref_usfm": "GAL 5:19",
+"end_ref": "48005026",
+"end_ref_usfm": "GAL 5:26"
+},
+{
+"start_ref": "48006011",
+"start_ref_usfm": "GAL 6:11",
+"end_ref": "48006018",
+"end_ref_usfm": "GAL 6:18"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "spa-t177-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "cubit",
+"media_type": "Text",
+"index_reference": "cubit",
+"language": "spa",
+"review_level": "None",
+"content": "<p>Un <b>codo</b> es una manera de medir cuán largo es algo. Un codo es aproximadamente tan largo como el brazo de un hombre desde su codo hasta las yemas de los dedos, que es de unos 50 centímetros.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01006009",
+"start_ref_usfm": "GEN 6:9",
+"end_ref": "01006022",
+"end_ref_usfm": "GEN 6:22"
+},
+{
+"start_ref": "01007001",
+"start_ref_usfm": "GEN 7:1",
+"end_ref": "01007024",
+"end_ref_usfm": "GEN 7:24"
+},
+{
+"start_ref": "02025010",
+"start_ref_usfm": "EXO 25:10",
+"end_ref": "02025022",
+"end_ref_usfm": "EXO 25:22"
+},
+{
+"start_ref": "02025023",
+"start_ref_usfm": "EXO 25:23",
+"end_ref": "02025030",
+"end_ref_usfm": "EXO 25:30"
+},
+{
+"start_ref": "02026015",
+"start_ref_usfm": "EXO 26:15",
+"end_ref": "02026030",
+"end_ref_usfm": "EXO 26:30"
+},
+{
+"start_ref": "02027001",
+"start_ref_usfm": "EXO 27:1",
+"end_ref": "02027008",
+"end_ref_usfm": "EXO 27:8"
+},
+{
+"start_ref": "02027009",
+"start_ref_usfm": "EXO 27:9",
+"end_ref": "02027021",
+"end_ref_usfm": "EXO 27:21"
+},
+{
+"start_ref": "02030001",
+"start_ref_usfm": "EXO 30:1",
+"end_ref": "02030010",
+"end_ref_usfm": "EXO 30:10"
+},
+{
+"start_ref": "02036020",
+"start_ref_usfm": "EXO 36:20",
+"end_ref": "02036034",
+"end_ref_usfm": "EXO 36:34"
+},
+{
+"start_ref": "02037001",
+"start_ref_usfm": "EXO 37:1",
+"end_ref": "02037009",
+"end_ref_usfm": "EXO 37:9"
+},
+{
+"start_ref": "02037010",
+"start_ref_usfm": "EXO 37:10",
+"end_ref": "02037016",
+"end_ref_usfm": "EXO 37:16"
+},
+{
+"start_ref": "02037025",
+"start_ref_usfm": "EXO 37:25",
+"end_ref": "02038008",
+"end_ref_usfm": "EXO 38:8"
+},
+{
+"start_ref": "02038009",
+"start_ref_usfm": "EXO 38:9",
+"end_ref": "02038020",
+"end_ref_usfm": "EXO 38:20"
+},
+{
+"start_ref": "04011031",
+"start_ref_usfm": "NUM 11:31",
+"end_ref": "04011035",
+"end_ref_usfm": "NUM 11:35"
+},
+{
+"start_ref": "04035001",
+"start_ref_usfm": "NUM 35:1",
+"end_ref": "04035008",
+"end_ref_usfm": "NUM 35:8"
+},
+{
+"start_ref": "06003001",
+"start_ref_usfm": "JOS 3:1",
+"end_ref": "06003017",
+"end_ref_usfm": "JOS 3:17"
+},
+{
+"start_ref": "07003012",
+"start_ref_usfm": "JDG 3:12",
+"end_ref": "07003031",
+"end_ref_usfm": "JDG 3:31"
+},
+{
+"start_ref": "09017001",
+"start_ref_usfm": "1SA 17:1",
+"end_ref": "09017011",
+"end_ref_usfm": "1SA 17:11"
+},
+{
+"start_ref": "11006001",
+"start_ref_usfm": "1KI 6:1",
+"end_ref": "11006013",
+"end_ref_usfm": "1KI 6:13"
+},
+{
+"start_ref": "11006014",
+"start_ref_usfm": "1KI 6:14",
+"end_ref": "11006038",
+"end_ref_usfm": "1KI 6:38"
+},
+{
+"start_ref": "11007001",
+"start_ref_usfm": "1KI 7:1",
+"end_ref": "11007012",
+"end_ref_usfm": "1KI 7:12"
+},
+{
+"start_ref": "11007013",
+"start_ref_usfm": "1KI 7:13",
+"end_ref": "11007022",
+"end_ref_usfm": "1KI 7:22"
+},
+{
+"start_ref": "11007023",
+"start_ref_usfm": "1KI 7:23",
+"end_ref": "11007039",
+"end_ref_usfm": "1KI 7:39"
+},
+{
+"start_ref": "13011020",
+"start_ref_usfm": "1CH 11:20",
+"end_ref": "13011025",
+"end_ref_usfm": "1CH 11:25"
+},
+{
+"start_ref": "14003001",
+"start_ref_usfm": "2CH 3:1",
+"end_ref": "14003014",
+"end_ref_usfm": "2CH 3:14"
+},
+{
+"start_ref": "14003015",
+"start_ref_usfm": "2CH 3:15",
+"end_ref": "14004010",
+"end_ref_usfm": "2CH 4:10"
+},
+{
+"start_ref": "14025014",
+"start_ref_usfm": "2CH 25:14",
+"end_ref": "14025028",
+"end_ref_usfm": "2CH 25:28"
+},
+{
+"start_ref": "15006001",
+"start_ref_usfm": "EZR 6:1",
+"end_ref": "15006012",
+"end_ref_usfm": "EZR 6:12"
+},
+{
+"start_ref": "42012022",
+"start_ref_usfm": "LUK 12:22",
+"end_ref": "42012034",
+"end_ref_usfm": "LUK 12:34"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "spa-t31-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "curse",
+"media_type": "Text",
+"index_reference": "curse",
+"language": "spa",
+"review_level": "None",
+"content": "<p><b>Maldecir</b> a alguien es lo opuesto de <a href=\"#t16\">bendecir</a> a alguien. Cuando bendicen a alguien, desean que algo bueno le suceda a la persona que bendicen. Cuando maldicen a alguien, desean que algo malo les suceda. Las personas <b>creían</b> que una maldición se haría realidad. Si alguien los maldecía, se asustaban mucho.</p><p>Cuando Dios maldice a alguien, lo malo que Dios dice que sucederá ciertamente sucederá. Dios maldice a las personas para castigarlas. Dios les dijo a los <b>israelitas</b> que si obedecían a Dios, Dios los bendeciría. Si desobedecían a Dios, Dios los maldeciría.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01003001",
+"start_ref_usfm": "GEN 3:1",
+"end_ref": "01003024",
+"end_ref_usfm": "GEN 3:24"
+},
+{
+"start_ref": "01004001",
+"start_ref_usfm": "GEN 4:1",
+"end_ref": "01004016",
+"end_ref_usfm": "GEN 4:16"
+},
+{
+"start_ref": "01008020",
+"start_ref_usfm": "GEN 8:20",
+"end_ref": "01009017",
+"end_ref_usfm": "GEN 9:17"
+},
+{
+"start_ref": "01009018",
+"start_ref_usfm": "GEN 9:18",
+"end_ref": "01009029",
+"end_ref_usfm": "GEN 9:29"
+},
+{
+"start_ref": "01012001",
+"start_ref_usfm": "GEN 12:1",
+"end_ref": "01012009",
+"end_ref_usfm": "GEN 12:9"
+},
+{
+"start_ref": "01026034",
+"start_ref_usfm": "GEN 26:34",
+"end_ref": "01027017",
+"end_ref_usfm": "GEN 27:17"
+},
+{
+"start_ref": "01027018",
+"start_ref_usfm": "GEN 27:18",
+"end_ref": "01027029",
+"end_ref_usfm": "GEN 27:29"
+},
+{
+"start_ref": "01049001",
+"start_ref_usfm": "GEN 49:1",
+"end_ref": "01049028",
+"end_ref_usfm": "GEN 49:28"
+},
+{
+"start_ref": "02021012",
+"start_ref_usfm": "EXO 21:12",
+"end_ref": "02021017",
+"end_ref_usfm": "EXO 21:17"
+},
+{
+"start_ref": "02022025",
+"start_ref_usfm": "EXO 22:25",
+"end_ref": "02022031",
+"end_ref_usfm": "EXO 22:31"
+},
+{
+"start_ref": "04005011",
+"start_ref_usfm": "NUM 5:11",
+"end_ref": "04005031",
+"end_ref_usfm": "NUM 5:31"
+},
+{
+"start_ref": "04022001",
+"start_ref_usfm": "NUM 22:1",
+"end_ref": "04022021",
+"end_ref_usfm": "NUM 22:21"
+},
+{
+"start_ref": "04023007",
+"start_ref_usfm": "NUM 23:7",
+"end_ref": "04023012",
+"end_ref_usfm": "NUM 23:12"
+},
+{
+"start_ref": "04023013",
+"start_ref_usfm": "NUM 23:13",
+"end_ref": "04023026",
+"end_ref_usfm": "NUM 23:26"
+},
+{
+"start_ref": "04023027",
+"start_ref_usfm": "NUM 23:27",
+"end_ref": "04024013",
+"end_ref_usfm": "NUM 24:13"
+},
+{
+"start_ref": "05028015",
+"start_ref_usfm": "DEU 28:15",
+"end_ref": "05028024",
+"end_ref_usfm": "DEU 28:24"
+},
+{
+"start_ref": "05030001",
+"start_ref_usfm": "DEU 30:1",
+"end_ref": "05030010",
+"end_ref_usfm": "DEU 30:10"
+},
+{
+"start_ref": "05030011",
+"start_ref_usfm": "DEU 30:11",
+"end_ref": "05030020",
+"end_ref_usfm": "DEU 30:20"
+},
+{
+"start_ref": "06006015",
+"start_ref_usfm": "JOS 6:15",
+"end_ref": "06006027",
+"end_ref_usfm": "JOS 6:27"
+},
+{
+"start_ref": "06008030",
+"start_ref_usfm": "JOS 8:30",
+"end_ref": "06008035",
+"end_ref_usfm": "JOS 8:35"
+},
+{
+"start_ref": "06009016",
+"start_ref_usfm": "JOS 9:16",
+"end_ref": "06009027",
+"end_ref_usfm": "JOS 9:27"
+},
+{
+"start_ref": "06024001",
+"start_ref_usfm": "JOS 24:1",
+"end_ref": "06024013",
+"end_ref_usfm": "JOS 24:13"
+},
+{
+"start_ref": "07005019",
+"start_ref_usfm": "JDG 5:19",
+"end_ref": "07005023",
+"end_ref_usfm": "JDG 5:23"
+},
+{
+"start_ref": "07009022",
+"start_ref_usfm": "JDG 9:22",
+"end_ref": "07009029",
+"end_ref_usfm": "JDG 9:29"
+},
+{
+"start_ref": "07009050",
+"start_ref_usfm": "JDG 9:50",
+"end_ref": "07009057",
+"end_ref_usfm": "JDG 9:57"
+},
+{
+"start_ref": "07017001",
+"start_ref_usfm": "JDG 17:1",
+"end_ref": "07017013",
+"end_ref_usfm": "JDG 17:13"
+},
+{
+"start_ref": "07021013",
+"start_ref_usfm": "JDG 21:13",
+"end_ref": "07021025",
+"end_ref_usfm": "JDG 21:25"
+},
+{
+"start_ref": "09003001",
+"start_ref_usfm": "1SA 3:1",
+"end_ref": "09003014",
+"end_ref_usfm": "1SA 3:14"
+},
+{
+"start_ref": "09014024",
+"start_ref_usfm": "1SA 14:24",
+"end_ref": "09014035",
+"end_ref_usfm": "1SA 14:35"
+},
+{
+"start_ref": "09017041",
+"start_ref_usfm": "1SA 17:41",
+"end_ref": "09017054",
+"end_ref_usfm": "1SA 17:54"
+},
+{
+"start_ref": "09026013",
+"start_ref_usfm": "1SA 26:13",
+"end_ref": "09026025",
+"end_ref_usfm": "1SA 26:25"
+},
+{
+"start_ref": "10003022",
+"start_ref_usfm": "2SA 3:22",
+"end_ref": "10003030",
+"end_ref_usfm": "2SA 3:30"
+},
+{
+"start_ref": "10016005",
+"start_ref_usfm": "2SA 16:5",
+"end_ref": "10016014",
+"end_ref_usfm": "2SA 16:14"
+},
+{
+"start_ref": "10019018",
+"start_ref_usfm": "2SA 19:18",
+"end_ref": "10019023",
+"end_ref_usfm": "2SA 19:23"
+},
+{
+"start_ref": "11002001",
+"start_ref_usfm": "1KI 2:1",
+"end_ref": "11002012",
+"end_ref_usfm": "1KI 2:12"
+},
+{
+"start_ref": "11021001",
+"start_ref_usfm": "1KI 21:1",
+"end_ref": "11021016",
+"end_ref_usfm": "1KI 21:16"
+},
+{
+"start_ref": "18001001",
+"start_ref_usfm": "JOB 1:1",
+"end_ref": "18001005",
+"end_ref_usfm": "JOB 1:5"
+},
+{
+"start_ref": "18001006",
+"start_ref_usfm": "JOB 1:6",
+"end_ref": "18001012",
+"end_ref_usfm": "JOB 1:12"
+},
+{
+"start_ref": "18002001",
+"start_ref_usfm": "JOB 2:1",
+"end_ref": "18002006",
+"end_ref_usfm": "JOB 2:6"
+},
+{
+"start_ref": "18002007",
+"start_ref_usfm": "JOB 2:7",
+"end_ref": "18002013",
+"end_ref_usfm": "JOB 2:13"
+},
+{
+"start_ref": "40025031",
+"start_ref_usfm": "MAT 25:31",
+"end_ref": "40025046",
+"end_ref_usfm": "MAT 25:46"
+},
+{
+"start_ref": "41011012",
+"start_ref_usfm": "MRK 11:12",
+"end_ref": "41011026",
+"end_ref_usfm": "MRK 11:26"
+},
+{
+"start_ref": "41014066",
+"start_ref_usfm": "MRK 14:66",
+"end_ref": "41014072",
+"end_ref_usfm": "MRK 14:72"
+},
+{
+"start_ref": "42006027",
+"start_ref_usfm": "LUK 6:27",
+"end_ref": "42006036",
+"end_ref_usfm": "LUK 6:36"
+},
+{
+"start_ref": "46004006",
+"start_ref_usfm": "1CO 4:6",
+"end_ref": "46004013",
+"end_ref_usfm": "1CO 4:13"
+},
+{
+"start_ref": "46012001",
+"start_ref_usfm": "1CO 12:1",
+"end_ref": "46012011",
+"end_ref_usfm": "1CO 12:11"
+},
+{
+"start_ref": "46016019",
+"start_ref_usfm": "1CO 16:19",
+"end_ref": "46016024",
+"end_ref_usfm": "1CO 16:24"
+},
+{
+"start_ref": "48001006",
+"start_ref_usfm": "GAL 1:6",
+"end_ref": "48001010",
+"end_ref_usfm": "GAL 1:10"
+},
+{
+"start_ref": "48003010",
+"start_ref_usfm": "GAL 3:10",
+"end_ref": "48003014",
+"end_ref_usfm": "GAL 3:14"
+},
+{
+"start_ref": "59003001",
+"start_ref_usfm": "JAS 3:1",
+"end_ref": "59003012",
+"end_ref_usfm": "JAS 3:12"
+}
+],
+"resource": [],
+"acai": []
+}
+}
 ]

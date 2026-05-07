@@ -1,0 +1,31 @@
+[
+{
+"content_id": "zht-t159-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "客店、旅店、客棧",
+"media_type": "Text",
+"index_reference": "客店旅店客棧",
+"language": "zht",
+"review_level": "None",
+"content": "<p><b>客店</b>是一個通用的詞語，意思是旅行者可以住宿的地方。 這可能是一個人們必須支付一些錢才能住的地方，但經常是指某人家中預留給客人的房間。 當親戚或朋友來拜訪時，他們可以住在這個房間裏。</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "42002001",
+"start_ref_usfm": "LUK 2:1",
+"end_ref": "42002021",
+"end_ref_usfm": "LUK 2:21"
+},
+{
+"start_ref": "42010025",
+"start_ref_usfm": "LUK 10:25",
+"end_ref": "42010037",
+"end_ref_usfm": "LUK 10:37"
+}
+],
+"resource": [],
+"acai": []
+}
+}
+]

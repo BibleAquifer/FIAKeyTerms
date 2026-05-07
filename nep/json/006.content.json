@@ -1,0 +1,985 @@
+[
+{
+"content_id": "nep-t177-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "एकहात",
+"media_type": "Text",
+"index_reference": "एकहात",
+"language": "nep",
+"review_level": "None",
+"content": "<p><b>एक हात</b> भनेको कुनै चिज कति लामो छ भनेर नाप्ने तरिका हो। एक हात भनेको लगभग कुहिनोदेखि औलाहरूको टुप्पो सम्मको पाखुरा जत्तिको लामो हुन्छ, जुन लगभग ५० सेन्टिमिटर हुन्छ।</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01006009",
+"start_ref_usfm": "GEN 6:9",
+"end_ref": "01006022",
+"end_ref_usfm": "GEN 6:22"
+},
+{
+"start_ref": "01007001",
+"start_ref_usfm": "GEN 7:1",
+"end_ref": "01007024",
+"end_ref_usfm": "GEN 7:24"
+},
+{
+"start_ref": "02025010",
+"start_ref_usfm": "EXO 25:10",
+"end_ref": "02025022",
+"end_ref_usfm": "EXO 25:22"
+},
+{
+"start_ref": "02025023",
+"start_ref_usfm": "EXO 25:23",
+"end_ref": "02025030",
+"end_ref_usfm": "EXO 25:30"
+},
+{
+"start_ref": "02026015",
+"start_ref_usfm": "EXO 26:15",
+"end_ref": "02026030",
+"end_ref_usfm": "EXO 26:30"
+},
+{
+"start_ref": "02027001",
+"start_ref_usfm": "EXO 27:1",
+"end_ref": "02027008",
+"end_ref_usfm": "EXO 27:8"
+},
+{
+"start_ref": "02027009",
+"start_ref_usfm": "EXO 27:9",
+"end_ref": "02027021",
+"end_ref_usfm": "EXO 27:21"
+},
+{
+"start_ref": "02030001",
+"start_ref_usfm": "EXO 30:1",
+"end_ref": "02030010",
+"end_ref_usfm": "EXO 30:10"
+},
+{
+"start_ref": "02036020",
+"start_ref_usfm": "EXO 36:20",
+"end_ref": "02036034",
+"end_ref_usfm": "EXO 36:34"
+},
+{
+"start_ref": "02037001",
+"start_ref_usfm": "EXO 37:1",
+"end_ref": "02037009",
+"end_ref_usfm": "EXO 37:9"
+},
+{
+"start_ref": "02037010",
+"start_ref_usfm": "EXO 37:10",
+"end_ref": "02037016",
+"end_ref_usfm": "EXO 37:16"
+},
+{
+"start_ref": "02037025",
+"start_ref_usfm": "EXO 37:25",
+"end_ref": "02038008",
+"end_ref_usfm": "EXO 38:8"
+},
+{
+"start_ref": "02038009",
+"start_ref_usfm": "EXO 38:9",
+"end_ref": "02038020",
+"end_ref_usfm": "EXO 38:20"
+},
+{
+"start_ref": "04011031",
+"start_ref_usfm": "NUM 11:31",
+"end_ref": "04011035",
+"end_ref_usfm": "NUM 11:35"
+},
+{
+"start_ref": "04035001",
+"start_ref_usfm": "NUM 35:1",
+"end_ref": "04035008",
+"end_ref_usfm": "NUM 35:8"
+},
+{
+"start_ref": "06003001",
+"start_ref_usfm": "JOS 3:1",
+"end_ref": "06003017",
+"end_ref_usfm": "JOS 3:17"
+},
+{
+"start_ref": "07003012",
+"start_ref_usfm": "JDG 3:12",
+"end_ref": "07003031",
+"end_ref_usfm": "JDG 3:31"
+},
+{
+"start_ref": "09017001",
+"start_ref_usfm": "1SA 17:1",
+"end_ref": "09017011",
+"end_ref_usfm": "1SA 17:11"
+},
+{
+"start_ref": "11006001",
+"start_ref_usfm": "1KI 6:1",
+"end_ref": "11006013",
+"end_ref_usfm": "1KI 6:13"
+},
+{
+"start_ref": "11006014",
+"start_ref_usfm": "1KI 6:14",
+"end_ref": "11006038",
+"end_ref_usfm": "1KI 6:38"
+},
+{
+"start_ref": "11007001",
+"start_ref_usfm": "1KI 7:1",
+"end_ref": "11007012",
+"end_ref_usfm": "1KI 7:12"
+},
+{
+"start_ref": "11007013",
+"start_ref_usfm": "1KI 7:13",
+"end_ref": "11007022",
+"end_ref_usfm": "1KI 7:22"
+},
+{
+"start_ref": "11007023",
+"start_ref_usfm": "1KI 7:23",
+"end_ref": "11007039",
+"end_ref_usfm": "1KI 7:39"
+},
+{
+"start_ref": "13011020",
+"start_ref_usfm": "1CH 11:20",
+"end_ref": "13011025",
+"end_ref_usfm": "1CH 11:25"
+},
+{
+"start_ref": "14003001",
+"start_ref_usfm": "2CH 3:1",
+"end_ref": "14003014",
+"end_ref_usfm": "2CH 3:14"
+},
+{
+"start_ref": "14003015",
+"start_ref_usfm": "2CH 3:15",
+"end_ref": "14004010",
+"end_ref_usfm": "2CH 4:10"
+},
+{
+"start_ref": "14025014",
+"start_ref_usfm": "2CH 25:14",
+"end_ref": "14025028",
+"end_ref_usfm": "2CH 25:28"
+},
+{
+"start_ref": "15006001",
+"start_ref_usfm": "EZR 6:1",
+"end_ref": "15006012",
+"end_ref_usfm": "EZR 6:12"
+},
+{
+"start_ref": "42012022",
+"start_ref_usfm": "LUK 12:22",
+"end_ref": "42012034",
+"end_ref_usfm": "LUK 12:34"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "nep-t209-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "एल-एल्योन",
+"media_type": "Text",
+"index_reference": "एलएल्योन",
+"language": "nep",
+"review_level": "None",
+"content": "<p> मानिसहरूले <a href=\"#t189\">परमेश्वरको</a> लागि प्रयोग गर्ने नाम <b>सर्वोच्च परमेश्वर</b> हो। सर्वोच्च परमेश्वरको अर्थ &quot;सबैभन्दा उच्च परमेश्वर&quot; हो। जब मानिसहरूले परमेश्वरको लागि यो नाम प्रयोग गर्छन्, तिनीहरूलाई परमेश्वर सबै प्राणी भन्दा शक्तिशाली हुनुहुन्छ भनेर सम्झना हुन्छ। यस नामको अर्थ यो हो कि त्यहाँ परमेश्वर भन्दा बढी महत्त्वपूर्ण वा बढि <a href=\"#t8\">अधिकार</a> भएको वा बढी शक्ति भएको कोही छैन।  प्राय: मानिसहरूले भजनमा यो नाम परमेश्वरको लागि प्रयोग गर्छन्, तर पुरानो नियमका धेरै अन्य पुस्तकहरूमा पनि प्रयोग गर्छन्।</p><p>&quot;एल&quot; शब्दको अर्थ परमेश्वर हो, त्यसैले हामीले बाइबलमा परमेश्वरको लागि धेरै अन्य नामहरू फेला पार्छौं जुन यस शब्द &quot;एल&quot; बाट सुरु हुन्छ। यी प्रत्येक नामले हामीलाई परमेश्वरको बारेमा केही महत्त्वपूर्ण कुरा बताउँछ।</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01014017",
+"start_ref_usfm": "GEN 14:17",
+"end_ref": "01014024",
+"end_ref_usfm": "GEN 14:24"
+},
+{
+"start_ref": "04024014",
+"start_ref_usfm": "NUM 24:14",
+"end_ref": "04024019",
+"end_ref_usfm": "NUM 24:19"
+},
+{
+"start_ref": "10022005",
+"start_ref_usfm": "2SA 22:5",
+"end_ref": "10022020",
+"end_ref_usfm": "2SA 22:20"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "nep-t210-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "एल-रोइ",
+"media_type": "Text",
+"index_reference": "एलरोइ",
+"language": "nep",
+"review_level": "None",
+"content": "<p><b>एल-रोई</b> उत्पत्तिको पुस्तकमा हागारले परमेश्वरलाई दिएको नाम हो। यस नामको अर्थ &quot;परमेश्वरले मलाई देख्नुहुन्छ&quot; हो। हागारले परमेश्वरलाई यो नाम दिएकि थिईन किनभने उहाँ र उनको छोरा इश्माएल <a href=\"#t38\">मरुभूमिमा</a> एक्लै र तिर्खाले मर्न लागेको बेला परमेश्वरले उनलाई मद्दत गर्नुभयो।</p><p>&quot;एल&quot; शब्दको अर्थ परमेश्वर हो, त्यसैले हामीले बाइबलमा परमेश्वरको लागि धेरै अन्य नामहरू फेला पार्छौं जुन शब्द &quot;एल&quot; बाट सुरु हुन्छ। यी प्रत्येक नामले हामीलाई परमेश्वरको बारेमा केही महत्त्वपूर्ण कुरा बताउँछ।</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01016001",
+"start_ref_usfm": "GEN 16:1",
+"end_ref": "01016016",
+"end_ref_usfm": "GEN 16:16"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "nep-t207-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "एल-शद्दाई",
+"media_type": "Text",
+"index_reference": "एलशद्दाई",
+"language": "nep",
+"review_level": "None",
+"content": "<p><b>एल-शद्दाई</b> नामको अर्थ ठ्याक्कै के हो भनेर विद्वानहरू निश्चित छैनन्। एल-शद्दाई <a href=\"#t189\">परमेश्वरको</a> नाम हो जसको अर्थ सम्भवतः सर्वशक्तिमान परमेश्वर वा सवै भन्दा शक्तिशाली परमेश्वर हो। शाद्दाईको अर्थ &quot;प्रशस्त&quot; हुन सक्छ, त्यसैले परमेश्वरको यस नामले परमेश्वर आफ्ना मानिसहरूको आवश्यकताको पुरा गर्नकालागि सवै भन्दा शक्तिशाली र पूर्ण हुनुहुन्छ भनेर देखाउँछ।  विशेष गरी उत्पत्तिको पुस्तकमा परमेश्वरको लागि यो नाम प्रयोग गरिएको छ।</p><p>&quot;एल&quot; शब्दको अर्थ परमेश्वर हो, त्यसैले हामीले बाइबलमा परमेश्वरको लागि धेरै अन्य नामहरू फेला पार्छौं जुन शब्द &quot;एल&quot; बाट सुरु हुन्छ। यी प्रत्येक नामले हामीलाई परमेश्वरको बारेमा केही महत्त्वपूर्ण कुरा बताउँछ।</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01017001",
+"start_ref_usfm": "GEN 17:1",
+"end_ref": "01017027",
+"end_ref_usfm": "GEN 17:27"
+},
+{
+"start_ref": "01027041",
+"start_ref_usfm": "GEN 27:41",
+"end_ref": "01028009",
+"end_ref_usfm": "GEN 28:9"
+},
+{
+"start_ref": "01035001",
+"start_ref_usfm": "GEN 35:1",
+"end_ref": "01035015",
+"end_ref_usfm": "GEN 35:15"
+},
+{
+"start_ref": "01043001",
+"start_ref_usfm": "GEN 43:1",
+"end_ref": "01043034",
+"end_ref_usfm": "GEN 43:34"
+},
+{
+"start_ref": "01048001",
+"start_ref_usfm": "GEN 48:1",
+"end_ref": "01048022",
+"end_ref_usfm": "GEN 48:22"
+},
+{
+"start_ref": "01049001",
+"start_ref_usfm": "GEN 49:1",
+"end_ref": "01049028",
+"end_ref_usfm": "GEN 49:28"
+},
+{
+"start_ref": "02005022",
+"start_ref_usfm": "EXO 5:22",
+"end_ref": "02006013",
+"end_ref_usfm": "EXO 6:13"
+},
+{
+"start_ref": "04023027",
+"start_ref_usfm": "NUM 23:27",
+"end_ref": "04024013",
+"end_ref_usfm": "NUM 24:13"
+},
+{
+"start_ref": "04024014",
+"start_ref_usfm": "NUM 24:14",
+"end_ref": "04024019",
+"end_ref_usfm": "NUM 24:19"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "nep-t44-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "एलिया",
+"media_type": "Text",
+"index_reference": "एलिया",
+"language": "nep",
+"review_level": "None",
+"content": "<p><b>एलिया</b> एक महत्त्वपूर्ण <a href=\"#t104\">अगमवक्ता</a> थिए जो येशू जन्मनु भन्दा लगभग ८०० वर्ष अघिका थिए। अगमवक्ता त्यो व्यक्ति हो जसले मानिसहरूलाई परमेश्वरको सन्देशहरू दिन्छ।</p><p>एलिया परमेश्वरको आज्ञा पालन नगर्ने <b>राजाहरूले</b> <a href=\"#t74\">इस्राएलमा</a> शासन गरेका समयका थिए र यी राजाहरूले इस्राएलका मानिसहरूलाई परमेश्वरबाट टाढा लगेका थिए। मानिसहरूले झूटा <a href=\"#t235\">देवताहरू</a> विशेष गरी बाल नाम गरेको देवताको <a href=\"#t149\">आराधना</a> गर्न थालेका थिए। मानिसहरूलाई वर्षा दिनेे काम बालको हो भनेर मानिसहरूले सोचे । त्यसैले, एलियाले इस्राएलको राजालाई भने, उनले भने जति लामो समयसम्म इस्राएलमा वर्षा हुने छैन! र साँच्चै तीन वर्षसम्म वर्षा भएन यस कारणले गर्दा सम्पूर्ण देशमा अनिकाल आयो। त्यो पछि, एलियाले प्रार्थना गरे र परमेश्वरले फेरि वर्षा पठाउनुभयो। यसले मानिसहरूलाई सिकायो कि बर्षा दिेने <a href=\"#t189\">परमेस्वर</a> हो बाल होइन!</p><p>एलियाले आफ्नो जीवनकालमा धेरै चमत्कारहरू गरे जुन धेरै वर्षपछि येशूले गर्नुहुने चमत्कारहरू जस्तै थियो। एलिया मार्फत परमेश्वरले अनिकालको समयमा विधवा र उनको छोरालाई चमत्कारी खाना उपलब्ध गर्नुभयो। विधवाको छोरा मरेपछि एलियाले उक्त बच्चालाई मरेकाबाट ब्यूँताए।</p><p>आफ्नो जीवनको अन्तमा, एलियाले आफ्नो <a href=\"#t27\">खास्टोले</a> <a href=\"#t80\">यर्दन नदी</a>को पानीलाई छुट्टाए र पानी पार गरेर अर्को किनारमा गए। यो <b>चमत्कार</b> एलिया हुनु भन्दा सयौं वर्ष अघि मोशा र यहोशूले गरेका चमत्कारहरू जस्तै थियो।  एलिया र मोशाका बीच अझ बढी समानताहरू छन्: उदाहरणको लागि, दुबैले सीनै पर्वतमा परमेश्वरसँग कुरा गरे। र नयाँ नियममा मोशा र एलिया येशूको मृत्युको केही हप्ता अघि येशूसँग पहाडको टुप्पामा देखा पर्छन्।</p><p>एलिया अरू मानिसहरू मरे जस्तै मरेनन्। परमेश्वरले एलियालाई रथमा <a href=\"#t63\">स्वर्गमा</a> उठउनु भयो जुन रथचाँहि सानो गाडा जसलाई घोडाहरूले तानेको आगो सहितको थियो। एलीशा नाम गरेको एलियाको सहयोगी एलियाको उत्तराधिकारी भए।</p><p>एलियाको जीवनपछि सयौं वर्षपछि लेखिएको अगमवक्ता मलाकीको पुस्तकमा परमेश्वरले इस्राएलका मानिसहरूलाई भन्नुभयो कि परमेश्वर सम्पूर्ण संसारको न्याय गर्न फर्केर आउनु अघि परमेश्वरले एलिया अगमवक्तालाई पठाउनुहुनेछ । यसको अर्थ परमेश्वरले एलिया जस्तै अर्को अगमवक्ता पठाउनुहुन्थ्यो। यो नयाँ एलियाले इस्राएलका मानिसहरूलाई <b>पश्चात्ताप</b> गर्न तयार गराउने छन ताकि तिनीहरू परमेश्वरलाई ग्रहण गर्न तयार हुनेछन। मलाकीले भनेको एलिया <b>बप्तिष्मा दिने यूहन्ना</b> हो भनेर येशूले पछि आफ्ना <b>चेलाहरूलाई</b> व्याख्या गर्नुहुन्छ। यसको अर्थ यूहन्ना साँच्चै एलिया थिए भन्ने होइन, यसको अर्थ यूहन्ना एलिया जस्तै व्यक्ति थिए भन्ने हो। इस्राएलका मानिसहरूलाई पश्चात्ताप गर्न भन्नलाई परमेश्वरले एलियालाई दिनु भएको काम यूहन्नाले गरिरहेका थिए।</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "11017001",
+"start_ref_usfm": "1KI 17:1",
+"end_ref": "11017007",
+"end_ref_usfm": "1KI 17:7"
+},
+{
+"start_ref": "11018016",
+"start_ref_usfm": "1KI 18:16",
+"end_ref": "11018029",
+"end_ref_usfm": "1KI 18:29"
+},
+{
+"start_ref": "40016013",
+"start_ref_usfm": "MAT 16:13",
+"end_ref": "40016020",
+"end_ref_usfm": "MAT 16:20"
+},
+{
+"start_ref": "40017001",
+"start_ref_usfm": "MAT 17:1",
+"end_ref": "40017013",
+"end_ref_usfm": "MAT 17:13"
+},
+{
+"start_ref": "40027045",
+"start_ref_usfm": "MAT 27:45",
+"end_ref": "40027056",
+"end_ref_usfm": "MAT 27:56"
+},
+{
+"start_ref": "41008027",
+"start_ref_usfm": "MRK 8:27",
+"end_ref": "41008030",
+"end_ref_usfm": "MRK 8:30"
+},
+{
+"start_ref": "41009002",
+"start_ref_usfm": "MRK 9:2",
+"end_ref": "41009013",
+"end_ref_usfm": "MRK 9:13"
+},
+{
+"start_ref": "41015033",
+"start_ref_usfm": "MRK 15:33",
+"end_ref": "41015039",
+"end_ref_usfm": "MRK 15:39"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "nep-t45-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "एलीशिबा",
+"media_type": "Text",
+"index_reference": "एलीशिबा",
+"language": "nep",
+"review_level": "None",
+"content": "<p>एलीशिबा <b>बप्तिस्मा दिने यूहन्नाको</b> आमा थिइन्। एलीशिबाको पति जकरिया थिए। जकरिया एक <a href=\"#t103\">पूजाहारी</a> थिए र <a href=\"#t76\">यरूशलेमको</a> <a href=\"#t138\">मन्दिरमा</a> परमेश्वरको सेवा गर्थे। एलीशिबा बच्चा जन्माउन असमर्थ थिइन्।</p><p>एक पटक, उनका पति जकरिया मन्दिरमा थिए, <a href=\"#t4\">स्वर्गदूत</a> जकरियाकहाँ देखा परे, उनकी पत्नी एलीशिबाको छोरा हुनेछ भनेर उनलाई भने। यो छोरा <a href=\"#t44\">एलिया</a> <a href=\"#t104\">अगमवक्ता</a> जस्तै परमेश्वरको सेवक हुनेछ र परमेश्वरलाई ग्रहण गर्न मानिसहरूलाई तयार पार्न <a href=\"#t74\">इस्राएलका</a> मानिसहरूलाई <b>पश्चात्ताप</b> गर भनेर भन्नेछ। स्वर्गदूतले भनेको कुरा सत्य हो भनेर जकरियाले <b>विश्वास</b> गर्न सकेनन्, किनभने जकरिया र उनकी पत्नी एलीशिबा पहिले नै बृद्ध थिए। किनभने जकरियाले स्वर्गदूतलाई विश्वास गरेनन् त्यसैले स्वर्गदूतले जकरियालाई बच्चा नजन्मेसम्म  बोल्न सक्ने छैनौ भनेर भने। </p><p>एलीशिबा साँच्चै गर्भवती भइन। एलीशिबा <a href=\"#t89\">मरियमको</a> आफन्त थिइन्, मरियम येशूको आमा बन्नेवाला थिइन। यसको केही समयपछि, एउटा स्वर्गदूत मरियमकहाँ देखा परे, उहाँ कन्या भएतापनि गर्भवती हुनेछौ भनेर उनलाई भने। उनको छोरा धेरै महत्त्वपूर्ण व्यक्ति, <a href=\"#t129\">परमेश्वरको पुत्र</a> हुनेछ र सदाको लागि राजाको रूपमा शासन गर्नेछ भने। त्यसपछि मरियम एलीशिबालाई भेट्न गइन। मरियम एलीशिबाकहाँ आइन, एलीशिबाको गर्भमा भएको शिशु आनन्दले उफ्र्यो, किनभने मरियम प्रतिज्ञा गरिएको राजा र <a href=\"#t119\">मुक्तिदाता</a> <a href=\"#t92\">मसीहको</a> आमा बन्नेवाला थिइन्।</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "42001026",
+"start_ref_usfm": "LUK 1:26",
+"end_ref": "42001038",
+"end_ref_usfm": "LUK 1:38"
+},
+{
+"start_ref": "42001039",
+"start_ref_usfm": "LUK 1:39",
+"end_ref": "42001056",
+"end_ref_usfm": "LUK 1:56"
+},
+{
+"start_ref": "42001057",
+"start_ref_usfm": "LUK 1:57",
+"end_ref": "42001080",
+"end_ref_usfm": "LUK 1:80"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "nep-t43-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "एल्डर",
+"media_type": "Text",
+"index_reference": "एल्डर",
+"language": "nep",
+"review_level": "None",
+"content": "<p><b>एल्डर</b> समुदायमा <a href=\"#t8\">अधिकार</a> भएको व्यक्ति हो। पुरानो नियममा, एल्डर सामान्यतया परिवार वा परिवारहरूको समूहको प्रमुख थिए। समुदायको मामिलाहरूको बारेमा निर्णय लिन एल्डरहरूको समूह एकसाथ भेला हुन्थ्ये।</p><p>नयाँ नियममा, एल्डरहरू <a href=\"#t24\">मण्डलीका</a> अधिकार प्राप्त मानिसहरू हुन्। <b>प्रेरितहरू</b>, जस्तो पावलले एल्डरहरूलाई नियुक्त गरे। प्रेरितहरूले मण्डली समुदायका मानिसहरूले आदरणीय मानेका मानिसहरूलाई एल्डरको निम्ति छनोट गरे। एल्डर अरू मानिसहरूको सेवा गर्न इच्छुक र दोषरहित हुनुपर्थ्यो।</p><p><b>तपाईं एल्डरलाई अनुवाद गर्दै हुनुहुन्छ, भने निम्न कुराहरूमा सावधान रहनुहोस्:</b></p><p> तपाईं यो शब्दलाई अनुवाद गर्दै हुनुहुन्छ भने &quot;बृद्ध मानिसहरू&quot; मात्र अर्थ लाग्ने शब्द प्रयोग नगर्न तपाईं सावधान रहनुहोस्। एल्डर बृद्ध व्यक्ति हुनु जरुरी थिएन, तापनि तिनीहरू धेरै जवान व्यक्ति पनि हुने थिएनन्।</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02003011",
+"start_ref_usfm": "EXO 3:11",
+"end_ref": "02003022",
+"end_ref_usfm": "EXO 3:22"
+},
+{
+"start_ref": "02004018",
+"start_ref_usfm": "EXO 4:18",
+"end_ref": "02004031",
+"end_ref_usfm": "EXO 4:31"
+},
+{
+"start_ref": "02012014",
+"start_ref_usfm": "EXO 12:14",
+"end_ref": "02012028",
+"end_ref_usfm": "EXO 12:28"
+},
+{
+"start_ref": "02017001",
+"start_ref_usfm": "EXO 17:1",
+"end_ref": "02017007",
+"end_ref_usfm": "EXO 17:7"
+},
+{
+"start_ref": "02018001",
+"start_ref_usfm": "EXO 18:1",
+"end_ref": "02018012",
+"end_ref_usfm": "EXO 18:12"
+},
+{
+"start_ref": "02019001",
+"start_ref_usfm": "EXO 19:1",
+"end_ref": "02019015",
+"end_ref_usfm": "EXO 19:15"
+},
+{
+"start_ref": "02024001",
+"start_ref_usfm": "EXO 24:1",
+"end_ref": "02024008",
+"end_ref_usfm": "EXO 24:8"
+},
+{
+"start_ref": "02024009",
+"start_ref_usfm": "EXO 24:9",
+"end_ref": "02024018",
+"end_ref_usfm": "EXO 24:18"
+},
+{
+"start_ref": "04011016",
+"start_ref_usfm": "NUM 11:16",
+"end_ref": "04011030",
+"end_ref_usfm": "NUM 11:30"
+},
+{
+"start_ref": "04016020",
+"start_ref_usfm": "NUM 16:20",
+"end_ref": "04016035",
+"end_ref_usfm": "NUM 16:35"
+},
+{
+"start_ref": "05005022",
+"start_ref_usfm": "DEU 5:22",
+"end_ref": "05005027",
+"end_ref_usfm": "DEU 5:27"
+},
+{
+"start_ref": "05021001",
+"start_ref_usfm": "DEU 21:1",
+"end_ref": "05021009",
+"end_ref_usfm": "DEU 21:9"
+},
+{
+"start_ref": "05021010",
+"start_ref_usfm": "DEU 21:10",
+"end_ref": "05021021",
+"end_ref_usfm": "DEU 21:21"
+},
+{
+"start_ref": "05022013",
+"start_ref_usfm": "DEU 22:13",
+"end_ref": "05022021",
+"end_ref_usfm": "DEU 22:21"
+},
+{
+"start_ref": "06007001",
+"start_ref_usfm": "JOS 7:1",
+"end_ref": "06007009",
+"end_ref_usfm": "JOS 7:9"
+},
+{
+"start_ref": "06008001",
+"start_ref_usfm": "JOS 8:1",
+"end_ref": "06008013",
+"end_ref_usfm": "JOS 8:13"
+},
+{
+"start_ref": "06008030",
+"start_ref_usfm": "JOS 8:30",
+"end_ref": "06008035",
+"end_ref_usfm": "JOS 8:35"
+},
+{
+"start_ref": "06009001",
+"start_ref_usfm": "JOS 9:1",
+"end_ref": "06009015",
+"end_ref_usfm": "JOS 9:15"
+},
+{
+"start_ref": "06023001",
+"start_ref_usfm": "JOS 23:1",
+"end_ref": "06023008",
+"end_ref_usfm": "JOS 23:8"
+},
+{
+"start_ref": "06023009",
+"start_ref_usfm": "JOS 23:9",
+"end_ref": "06023016",
+"end_ref_usfm": "JOS 23:16"
+},
+{
+"start_ref": "06024001",
+"start_ref_usfm": "JOS 24:1",
+"end_ref": "06024013",
+"end_ref_usfm": "JOS 24:13"
+},
+{
+"start_ref": "06024029",
+"start_ref_usfm": "JOS 24:29",
+"end_ref": "06024033",
+"end_ref_usfm": "JOS 24:33"
+},
+{
+"start_ref": "07002001",
+"start_ref_usfm": "JDG 2:1",
+"end_ref": "07002010",
+"end_ref_usfm": "JDG 2:10"
+},
+{
+"start_ref": "07008004",
+"start_ref_usfm": "JDG 8:4",
+"end_ref": "07008021",
+"end_ref_usfm": "JDG 8:21"
+},
+{
+"start_ref": "07010017",
+"start_ref_usfm": "JDG 10:17",
+"end_ref": "07011011",
+"end_ref_usfm": "JDG 11:11"
+},
+{
+"start_ref": "09004001",
+"start_ref_usfm": "1SA 4:1",
+"end_ref": "09004011",
+"end_ref_usfm": "1SA 4:11"
+},
+{
+"start_ref": "09008001",
+"start_ref_usfm": "1SA 8:1",
+"end_ref": "09008009",
+"end_ref_usfm": "1SA 8:9"
+},
+{
+"start_ref": "09011001",
+"start_ref_usfm": "1SA 11:1",
+"end_ref": "09011015",
+"end_ref_usfm": "1SA 11:15"
+},
+{
+"start_ref": "09015024",
+"start_ref_usfm": "1SA 15:24",
+"end_ref": "09015035",
+"end_ref_usfm": "1SA 15:35"
+},
+{
+"start_ref": "10003006",
+"start_ref_usfm": "2SA 3:6",
+"end_ref": "10003021",
+"end_ref_usfm": "2SA 3:21"
+},
+{
+"start_ref": "10005001",
+"start_ref_usfm": "2SA 5:1",
+"end_ref": "10005016",
+"end_ref_usfm": "2SA 5:16"
+},
+{
+"start_ref": "10012015",
+"start_ref_usfm": "2SA 12:15",
+"end_ref": "10012025",
+"end_ref_usfm": "2SA 12:25"
+},
+{
+"start_ref": "10017001",
+"start_ref_usfm": "2SA 17:1",
+"end_ref": "10017014",
+"end_ref_usfm": "2SA 17:14"
+},
+{
+"start_ref": "10017015",
+"start_ref_usfm": "2SA 17:15",
+"end_ref": "10017029",
+"end_ref_usfm": "2SA 17:29"
+},
+{
+"start_ref": "10019008",
+"start_ref_usfm": "2SA 19:8",
+"end_ref": "10019018",
+"end_ref_usfm": "2SA 19:18"
+},
+{
+"start_ref": "11008001",
+"start_ref_usfm": "1KI 8:1",
+"end_ref": "11008011",
+"end_ref_usfm": "1KI 8:11"
+},
+{
+"start_ref": "11012001",
+"start_ref_usfm": "1KI 12:1",
+"end_ref": "11012015",
+"end_ref_usfm": "1KI 12:15"
+},
+{
+"start_ref": "11020001",
+"start_ref_usfm": "1KI 20:1",
+"end_ref": "11020012",
+"end_ref_usfm": "1KI 20:12"
+},
+{
+"start_ref": "11021001",
+"start_ref_usfm": "1KI 21:1",
+"end_ref": "11021016",
+"end_ref_usfm": "1KI 21:16"
+},
+{
+"start_ref": "13011001",
+"start_ref_usfm": "1CH 11:1",
+"end_ref": "13011009",
+"end_ref_usfm": "1CH 11:9"
+},
+{
+"start_ref": "13015025",
+"start_ref_usfm": "1CH 15:25",
+"end_ref": "13016007",
+"end_ref_usfm": "1CH 16:7"
+},
+{
+"start_ref": "13021007",
+"start_ref_usfm": "1CH 21:7",
+"end_ref": "13021017",
+"end_ref_usfm": "1CH 21:17"
+},
+{
+"start_ref": "14010001",
+"start_ref_usfm": "2CH 10:1",
+"end_ref": "14010007",
+"end_ref_usfm": "2CH 10:7"
+},
+{
+"start_ref": "14010008",
+"start_ref_usfm": "2CH 10:8",
+"end_ref": "14010019",
+"end_ref_usfm": "2CH 10:19"
+},
+{
+"start_ref": "15005001",
+"start_ref_usfm": "EZR 5:1",
+"end_ref": "15005005",
+"end_ref_usfm": "EZR 5:5"
+},
+{
+"start_ref": "15005006",
+"start_ref_usfm": "EZR 5:6",
+"end_ref": "15005017",
+"end_ref_usfm": "EZR 5:17"
+},
+{
+"start_ref": "15006001",
+"start_ref_usfm": "EZR 6:1",
+"end_ref": "15006012",
+"end_ref_usfm": "EZR 6:12"
+},
+{
+"start_ref": "15006013",
+"start_ref_usfm": "EZR 6:13",
+"end_ref": "15006018",
+"end_ref_usfm": "EZR 6:18"
+},
+{
+"start_ref": "15010001",
+"start_ref_usfm": "EZR 10:1",
+"end_ref": "15010008",
+"end_ref_usfm": "EZR 10:8"
+},
+{
+"start_ref": "15010009",
+"start_ref_usfm": "EZR 10:9",
+"end_ref": "15010017",
+"end_ref_usfm": "EZR 10:17"
+},
+{
+"start_ref": "40016021",
+"start_ref_usfm": "MAT 16:21",
+"end_ref": "40016028",
+"end_ref_usfm": "MAT 16:28"
+},
+{
+"start_ref": "40021023",
+"start_ref_usfm": "MAT 21:23",
+"end_ref": "40021032",
+"end_ref_usfm": "MAT 21:32"
+},
+{
+"start_ref": "40022001",
+"start_ref_usfm": "MAT 22:1",
+"end_ref": "40022014",
+"end_ref_usfm": "MAT 22:14"
+},
+{
+"start_ref": "40026001",
+"start_ref_usfm": "MAT 26:1",
+"end_ref": "40026016",
+"end_ref_usfm": "MAT 26:16"
+},
+{
+"start_ref": "40026047",
+"start_ref_usfm": "MAT 26:47",
+"end_ref": "40026056",
+"end_ref_usfm": "MAT 26:56"
+},
+{
+"start_ref": "40026057",
+"start_ref_usfm": "MAT 26:57",
+"end_ref": "40026068",
+"end_ref_usfm": "MAT 26:68"
+},
+{
+"start_ref": "40027001",
+"start_ref_usfm": "MAT 27:1",
+"end_ref": "40027010",
+"end_ref_usfm": "MAT 27:10"
+},
+{
+"start_ref": "40027011",
+"start_ref_usfm": "MAT 27:11",
+"end_ref": "40027026",
+"end_ref_usfm": "MAT 27:26"
+},
+{
+"start_ref": "40027032",
+"start_ref_usfm": "MAT 27:32",
+"end_ref": "40027044",
+"end_ref_usfm": "MAT 27:44"
+},
+{
+"start_ref": "40028001",
+"start_ref_usfm": "MAT 28:1",
+"end_ref": "40028015",
+"end_ref_usfm": "MAT 28:15"
+},
+{
+"start_ref": "41008031",
+"start_ref_usfm": "MRK 8:31",
+"end_ref": "41009001",
+"end_ref_usfm": "MRK 9:1"
+},
+{
+"start_ref": "41011027",
+"start_ref_usfm": "MRK 11:27",
+"end_ref": "41011033",
+"end_ref_usfm": "MRK 11:33"
+},
+{
+"start_ref": "41014043",
+"start_ref_usfm": "MRK 14:43",
+"end_ref": "41014052",
+"end_ref_usfm": "MRK 14:52"
+},
+{
+"start_ref": "41014053",
+"start_ref_usfm": "MRK 14:53",
+"end_ref": "41014065",
+"end_ref_usfm": "MRK 14:65"
+},
+{
+"start_ref": "41015001",
+"start_ref_usfm": "MRK 15:1",
+"end_ref": "41015015",
+"end_ref_usfm": "MRK 15:15"
+},
+{
+"start_ref": "42007001",
+"start_ref_usfm": "LUK 7:1",
+"end_ref": "42007010",
+"end_ref_usfm": "LUK 7:10"
+},
+{
+"start_ref": "42009018",
+"start_ref_usfm": "LUK 9:18",
+"end_ref": "42009027",
+"end_ref_usfm": "LUK 9:27"
+},
+{
+"start_ref": "42019045",
+"start_ref_usfm": "LUK 19:45",
+"end_ref": "42020008",
+"end_ref_usfm": "LUK 20:8"
+},
+{
+"start_ref": "42022047",
+"start_ref_usfm": "LUK 22:47",
+"end_ref": "42022062",
+"end_ref_usfm": "LUK 22:62"
+},
+{
+"start_ref": "42022063",
+"start_ref_usfm": "LUK 22:63",
+"end_ref": "42022071",
+"end_ref_usfm": "LUK 22:71"
+},
+{
+"start_ref": "44004001",
+"start_ref_usfm": "ACT 4:1",
+"end_ref": "44004022",
+"end_ref_usfm": "ACT 4:22"
+},
+{
+"start_ref": "44004023",
+"start_ref_usfm": "ACT 4:23",
+"end_ref": "44004031",
+"end_ref_usfm": "ACT 4:31"
+},
+{
+"start_ref": "44006008",
+"start_ref_usfm": "ACT 6:8",
+"end_ref": "44006015",
+"end_ref_usfm": "ACT 6:15"
+},
+{
+"start_ref": "44011027",
+"start_ref_usfm": "ACT 11:27",
+"end_ref": "44011030",
+"end_ref_usfm": "ACT 11:30"
+},
+{
+"start_ref": "44014021",
+"start_ref_usfm": "ACT 14:21",
+"end_ref": "44014028",
+"end_ref_usfm": "ACT 14:28"
+},
+{
+"start_ref": "44015001",
+"start_ref_usfm": "ACT 15:1",
+"end_ref": "44015021",
+"end_ref_usfm": "ACT 15:21"
+},
+{
+"start_ref": "44015022",
+"start_ref_usfm": "ACT 15:22",
+"end_ref": "44015035",
+"end_ref_usfm": "ACT 15:35"
+},
+{
+"start_ref": "44016001",
+"start_ref_usfm": "ACT 16:1",
+"end_ref": "44016005",
+"end_ref_usfm": "ACT 16:5"
+},
+{
+"start_ref": "44020013",
+"start_ref_usfm": "ACT 20:13",
+"end_ref": "44020017",
+"end_ref_usfm": "ACT 20:17"
+},
+{
+"start_ref": "44020018",
+"start_ref_usfm": "ACT 20:18",
+"end_ref": "44020038",
+"end_ref_usfm": "ACT 20:38"
+},
+{
+"start_ref": "44021015",
+"start_ref_usfm": "ACT 21:15",
+"end_ref": "44021026",
+"end_ref_usfm": "ACT 21:26"
+},
+{
+"start_ref": "44023012",
+"start_ref_usfm": "ACT 23:12",
+"end_ref": "44023035",
+"end_ref_usfm": "ACT 23:35"
+},
+{
+"start_ref": "44024001",
+"start_ref_usfm": "ACT 24:1",
+"end_ref": "44024009",
+"end_ref_usfm": "ACT 24:9"
+},
+{
+"start_ref": "44025013",
+"start_ref_usfm": "ACT 25:13",
+"end_ref": "44025022",
+"end_ref_usfm": "ACT 25:22"
+},
+{
+"start_ref": "54003001",
+"start_ref_usfm": "1TI 3:1",
+"end_ref": "54003007",
+"end_ref_usfm": "1TI 3:7"
+},
+{
+"start_ref": "54004011",
+"start_ref_usfm": "1TI 4:11",
+"end_ref": "54004016",
+"end_ref_usfm": "1TI 4:16"
+},
+{
+"start_ref": "54005017",
+"start_ref_usfm": "1TI 5:17",
+"end_ref": "54005025",
+"end_ref_usfm": "1TI 5:25"
+},
+{
+"start_ref": "56001005",
+"start_ref_usfm": "TIT 1:5",
+"end_ref": "56001009",
+"end_ref_usfm": "TIT 1:9"
+},
+{
+"start_ref": "59005013",
+"start_ref_usfm": "JAS 5:13",
+"end_ref": "59005020",
+"end_ref_usfm": "JAS 5:20"
+},
+{
+"start_ref": "63001001",
+"start_ref_usfm": "2JN 1:1",
+"end_ref": "63001003",
+"end_ref_usfm": "2JN 1:3"
+},
+{
+"start_ref": "64001001",
+"start_ref_usfm": "3JN 1:1",
+"end_ref": "64001008",
+"end_ref_usfm": "3JN 1:8"
+}
+],
+"resource": [],
+"acai": []
+}
+}
+]

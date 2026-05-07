@@ -1,0 +1,997 @@
+[
+{
+"content_id": "arb-t147-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "الحكمة",
+"media_type": "Text",
+"index_reference": "الحكمة",
+"language": "arb",
+"review_level": "None",
+"content": "<p>عندما يكون شخص ما حكيمًا، فإن لديه <b>حكمة</b>. وفي الكتاب المُقدَّس، الشخص الذي لديه الحكمة يفهم الكثير من الأمور، ويكون قادرًا على اتخاذ قرارات جيدة تؤدي إلى نتائج جيدة. وعندما يكون لدى الشخص مهارات معينة، مثل القدرة على البناء أو جعل شيئًا ما جميلًا، فإن الكتاب المُقدَّس يقول أيضًا أن هذا الشخص لديه حكمة.</p><p>إن الله هو الذي يعطي الحكمة للناس. وإذا تظاهر الشخص بأنه حكيم لكنه لا يقبل الله، فإن حكمته تكون عديمة الفائدة، وفي النهاية ستفشل خططه. وحده الشخص الذي يقبل ويطيع الله، هو الذي يكون حكيمًا حقًا.</p><p>ويمكننا أن نسمع الكثير عن الحكمة في سفر الأمثال. ففي هذا السفر، يتحدث الكاتب أحيانًا عن الحكمة كما لو كانت شخصًا. وهذه لغة تصويرية يستخدمها الناس كي يساعدوا الآخرين على تعلم الحكمة. وعلى هذا القياس، يمكن أن يقول سفر الأمثال إن &quot;الحكمة تنادي وتدعو الناس، محاولة أن تجعلهم حكماء&quot;. فالحكمة تنادي تمامًا كما ينادي الشخص. في رسالة كورنثوس الأولى، يتحدث بولس عن يسوع ويدعوه &quot;حكمة الله&quot;. وخطة الله لخلاص العالم من خلال يسوع كانت حكيمة للغاية – ولذلك، يمكننا أن نكون متأكدين أن هذه الخطة ستنجح!</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01003001",
+"start_ref_usfm": "GEN 3:1",
+"end_ref": "01003024",
+"end_ref_usfm": "GEN 3:24"
+},
+{
+"start_ref": "02028001",
+"start_ref_usfm": "EXO 28:1",
+"end_ref": "02028014",
+"end_ref_usfm": "EXO 28:14"
+},
+{
+"start_ref": "05001009",
+"start_ref_usfm": "DEU 1:9",
+"end_ref": "05001018",
+"end_ref_usfm": "DEU 1:18"
+},
+{
+"start_ref": "05031030",
+"start_ref_usfm": "DEU 31:30",
+"end_ref": "05032006",
+"end_ref_usfm": "DEU 32:6"
+},
+{
+"start_ref": "05032026",
+"start_ref_usfm": "DEU 32:26",
+"end_ref": "05032035",
+"end_ref_usfm": "DEU 32:35"
+},
+{
+"start_ref": "10014001",
+"start_ref_usfm": "2SA 14:1",
+"end_ref": "10014011",
+"end_ref_usfm": "2SA 14:11"
+},
+{
+"start_ref": "10014012",
+"start_ref_usfm": "2SA 14:12",
+"end_ref": "10014024",
+"end_ref_usfm": "2SA 14:24"
+},
+{
+"start_ref": "10024010",
+"start_ref_usfm": "2SA 24:10",
+"end_ref": "10024017",
+"end_ref_usfm": "2SA 24:17"
+},
+{
+"start_ref": "11002001",
+"start_ref_usfm": "1KI 2:1",
+"end_ref": "11002012",
+"end_ref_usfm": "1KI 2:12"
+},
+{
+"start_ref": "11003001",
+"start_ref_usfm": "1KI 3:1",
+"end_ref": "11003015",
+"end_ref_usfm": "1KI 3:15"
+},
+{
+"start_ref": "11003016",
+"start_ref_usfm": "1KI 3:16",
+"end_ref": "11003028",
+"end_ref_usfm": "1KI 3:28"
+},
+{
+"start_ref": "11004029",
+"start_ref_usfm": "1KI 4:29",
+"end_ref": "11004034",
+"end_ref_usfm": "1KI 4:34"
+},
+{
+"start_ref": "11005001",
+"start_ref_usfm": "1KI 5:1",
+"end_ref": "11005012",
+"end_ref_usfm": "1KI 5:12"
+},
+{
+"start_ref": "11009026",
+"start_ref_usfm": "1KI 9:26",
+"end_ref": "11010013",
+"end_ref_usfm": "1KI 10:13"
+},
+{
+"start_ref": "11010014",
+"start_ref_usfm": "1KI 10:14",
+"end_ref": "11010029",
+"end_ref_usfm": "1KI 10:29"
+},
+{
+"start_ref": "11011026",
+"start_ref_usfm": "1KI 11:26",
+"end_ref": "11011043",
+"end_ref_usfm": "1KI 11:43"
+},
+{
+"start_ref": "14001007",
+"start_ref_usfm": "2CH 1:7",
+"end_ref": "14001013",
+"end_ref_usfm": "2CH 1:13"
+},
+{
+"start_ref": "14009001",
+"start_ref_usfm": "2CH 9:1",
+"end_ref": "14009012",
+"end_ref_usfm": "2CH 9:12"
+},
+{
+"start_ref": "14009013",
+"start_ref_usfm": "2CH 9:13",
+"end_ref": "14009031",
+"end_ref_usfm": "2CH 9:31"
+},
+{
+"start_ref": "15007011",
+"start_ref_usfm": "EZR 7:11",
+"end_ref": "15007028",
+"end_ref_usfm": "EZR 7:28"
+},
+{
+"start_ref": "40010016",
+"start_ref_usfm": "MAT 10:16",
+"end_ref": "40010025",
+"end_ref_usfm": "MAT 10:25"
+},
+{
+"start_ref": "40011007",
+"start_ref_usfm": "MAT 11:7",
+"end_ref": "40011019",
+"end_ref_usfm": "MAT 11:19"
+},
+{
+"start_ref": "40012038",
+"start_ref_usfm": "MAT 12:38",
+"end_ref": "40012045",
+"end_ref_usfm": "MAT 12:45"
+},
+{
+"start_ref": "40013054",
+"start_ref_usfm": "MAT 13:54",
+"end_ref": "40013058",
+"end_ref_usfm": "MAT 13:58"
+},
+{
+"start_ref": "40024045",
+"start_ref_usfm": "MAT 24:45",
+"end_ref": "40024051",
+"end_ref_usfm": "MAT 24:51"
+},
+{
+"start_ref": "40025001",
+"start_ref_usfm": "MAT 25:1",
+"end_ref": "40025013",
+"end_ref_usfm": "MAT 25:13"
+},
+{
+"start_ref": "41006001",
+"start_ref_usfm": "MRK 6:1",
+"end_ref": "41006006",
+"end_ref_usfm": "MRK 6:6"
+},
+{
+"start_ref": "42002022",
+"start_ref_usfm": "LUK 2:22",
+"end_ref": "42002040",
+"end_ref_usfm": "LUK 2:40"
+},
+{
+"start_ref": "42002041",
+"start_ref_usfm": "LUK 2:41",
+"end_ref": "42002052",
+"end_ref_usfm": "LUK 2:52"
+},
+{
+"start_ref": "42007018",
+"start_ref_usfm": "LUK 7:18",
+"end_ref": "42007035",
+"end_ref_usfm": "LUK 7:35"
+},
+{
+"start_ref": "42011014",
+"start_ref_usfm": "LUK 11:14",
+"end_ref": "42011032",
+"end_ref_usfm": "LUK 11:32"
+},
+{
+"start_ref": "42011033",
+"start_ref_usfm": "LUK 11:33",
+"end_ref": "42011054",
+"end_ref_usfm": "LUK 11:54"
+},
+{
+"start_ref": "42021012",
+"start_ref_usfm": "LUK 21:12",
+"end_ref": "42021019",
+"end_ref_usfm": "LUK 21:19"
+},
+{
+"start_ref": "42021020",
+"start_ref_usfm": "LUK 21:20",
+"end_ref": "42021028",
+"end_ref_usfm": "LUK 21:28"
+},
+{
+"start_ref": "44006008",
+"start_ref_usfm": "ACT 6:8",
+"end_ref": "44006015",
+"end_ref_usfm": "ACT 6:15"
+},
+{
+"start_ref": "46001010",
+"start_ref_usfm": "1CO 1:10",
+"end_ref": "46001017",
+"end_ref_usfm": "1CO 1:17"
+},
+{
+"start_ref": "46001018",
+"start_ref_usfm": "1CO 1:18",
+"end_ref": "46001025",
+"end_ref_usfm": "1CO 1:25"
+},
+{
+"start_ref": "46001026",
+"start_ref_usfm": "1CO 1:26",
+"end_ref": "46001031",
+"end_ref_usfm": "1CO 1:31"
+},
+{
+"start_ref": "46002001",
+"start_ref_usfm": "1CO 2:1",
+"end_ref": "46002005",
+"end_ref_usfm": "1CO 2:5"
+},
+{
+"start_ref": "46002006",
+"start_ref_usfm": "1CO 2:6",
+"end_ref": "46002016",
+"end_ref_usfm": "1CO 2:16"
+},
+{
+"start_ref": "46003010",
+"start_ref_usfm": "1CO 3:10",
+"end_ref": "46003017",
+"end_ref_usfm": "1CO 3:17"
+},
+{
+"start_ref": "46003018",
+"start_ref_usfm": "1CO 3:18",
+"end_ref": "46003023",
+"end_ref_usfm": "1CO 3:23"
+},
+{
+"start_ref": "46004006",
+"start_ref_usfm": "1CO 4:6",
+"end_ref": "46004013",
+"end_ref_usfm": "1CO 4:13"
+},
+{
+"start_ref": "46010014",
+"start_ref_usfm": "1CO 10:14",
+"end_ref": "46010022",
+"end_ref_usfm": "1CO 10:22"
+},
+{
+"start_ref": "46012001",
+"start_ref_usfm": "1CO 12:1",
+"end_ref": "46012011",
+"end_ref_usfm": "1CO 12:11"
+},
+{
+"start_ref": "47001012",
+"start_ref_usfm": "2CO 1:12",
+"end_ref": "47001022",
+"end_ref_usfm": "2CO 1:22"
+},
+{
+"start_ref": "49001007",
+"start_ref_usfm": "EPH 1:7",
+"end_ref": "49001010",
+"end_ref_usfm": "EPH 1:10"
+},
+{
+"start_ref": "49001015",
+"start_ref_usfm": "EPH 1:15",
+"end_ref": "49001023",
+"end_ref_usfm": "EPH 1:23"
+},
+{
+"start_ref": "49003007",
+"start_ref_usfm": "EPH 3:7",
+"end_ref": "49003013",
+"end_ref_usfm": "EPH 3:13"
+},
+{
+"start_ref": "49005015",
+"start_ref_usfm": "EPH 5:15",
+"end_ref": "49005021",
+"end_ref_usfm": "EPH 5:21"
+},
+{
+"start_ref": "55003010",
+"start_ref_usfm": "2TI 3:10",
+"end_ref": "55003017",
+"end_ref_usfm": "2TI 3:17"
+},
+{
+"start_ref": "59001001",
+"start_ref_usfm": "JAS 1:1",
+"end_ref": "59001011",
+"end_ref_usfm": "JAS 1:11"
+},
+{
+"start_ref": "59003013",
+"start_ref_usfm": "JAS 3:13",
+"end_ref": "59003018",
+"end_ref_usfm": "JAS 3:18"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "arb-t202-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "الحُلم",
+"media_type": "Text",
+"index_reference": "الحُلم",
+"language": "arb",
+"review_level": "None",
+"content": "<p>فعندما تكون نائمًا لكنك تختبر بعض الأحداث التي لا تحدث في الحقيقة، أو ترى أشياء ليست موجودة في الحقيقة، فإنك ترى <b>حلمًا</b>. ويمكن <a href=\"#t189\">لله</a> استخدام الأحلام للتواصل مع الناس. ويمكن لله أيضًا استخدام الأحلام ليخبر الناس بما سيحدث في المستقبل، أو ليخبرهم بشيء يجب عليهم فعله.</p><p>والحلم يختلف عن <a href=\"#t143\">الرؤيا</a>. فالحلم يحدث عندما تكون نائمًا، لكن الرؤيا تحدث عندما تكون مستيقظًا. وعندما تكون لديك رؤيا، ترى أو تسمع شيئًا لا يتمكن الآخرين من رؤيته أو سماعه، مع أنهم قد يكونون بجوارك مباشرة. ويستخدم الله أيضًا الرؤى للتواصل مع الناس، تمامًا كما يستخدم الأحلام.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01020001",
+"start_ref_usfm": "GEN 20:1",
+"end_ref": "01020018",
+"end_ref_usfm": "GEN 20:18"
+},
+{
+"start_ref": "01028010",
+"start_ref_usfm": "GEN 28:10",
+"end_ref": "01028022",
+"end_ref_usfm": "GEN 28:22"
+},
+{
+"start_ref": "01031001",
+"start_ref_usfm": "GEN 31:1",
+"end_ref": "01031021",
+"end_ref_usfm": "GEN 31:21"
+},
+{
+"start_ref": "01031022",
+"start_ref_usfm": "GEN 31:22",
+"end_ref": "01031035",
+"end_ref_usfm": "GEN 31:35"
+},
+{
+"start_ref": "01037001",
+"start_ref_usfm": "GEN 37:1",
+"end_ref": "01037011",
+"end_ref_usfm": "GEN 37:11"
+},
+{
+"start_ref": "01040001",
+"start_ref_usfm": "GEN 40:1",
+"end_ref": "01040023",
+"end_ref_usfm": "GEN 40:23"
+},
+{
+"start_ref": "01041001",
+"start_ref_usfm": "GEN 41:1",
+"end_ref": "01041036",
+"end_ref_usfm": "GEN 41:36"
+},
+{
+"start_ref": "01042001",
+"start_ref_usfm": "GEN 42:1",
+"end_ref": "01042026",
+"end_ref_usfm": "GEN 42:26"
+},
+{
+"start_ref": "04012001",
+"start_ref_usfm": "NUM 12:1",
+"end_ref": "04012016",
+"end_ref_usfm": "NUM 12:16"
+},
+{
+"start_ref": "09028015",
+"start_ref_usfm": "1SA 28:15",
+"end_ref": "09028025",
+"end_ref_usfm": "1SA 28:25"
+},
+{
+"start_ref": "11003001",
+"start_ref_usfm": "1KI 3:1",
+"end_ref": "11003015",
+"end_ref_usfm": "1KI 3:15"
+},
+{
+"start_ref": "40027011",
+"start_ref_usfm": "MAT 27:11",
+"end_ref": "40027026",
+"end_ref_usfm": "MAT 27:26"
+},
+{
+"start_ref": "44001006",
+"start_ref_usfm": "ACT 1:6",
+"end_ref": "44001011",
+"end_ref_usfm": "ACT 1:11"
+},
+{
+"start_ref": "44002014",
+"start_ref_usfm": "ACT 2:14",
+"end_ref": "44002036",
+"end_ref_usfm": "ACT 2:36"
+},
+{
+"start_ref": "65001008",
+"start_ref_usfm": "JUD 1:8",
+"end_ref": "65001011",
+"end_ref_usfm": "JUD 1:11"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "arb-t191-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "حبرون",
+"media_type": "Text",
+"index_reference": "حبرون",
+"language": "arb",
+"review_level": "None",
+"content": "<p><b>حبرون</b> هو اسم مدينة في <a href=\"#t74\">إسرائيل</a>، في العهد القديم، حيث حدثت عدة قصص مهمة.</p><p>وقبل أن يصبح هذا المكان مدينة، كان مكانًا قد عاش فيه <a href=\"#t1\">إبراهيم</a> لبعض الوقت. وفي ذلك الوقت، كان المكان يُدعى مَمرا، لكن الناس كانوا يعرفونه أيضًا باسم قرية أربع. ولقد ماتت سارة أولًا، ثم إبراهيم تاليًا، ودُفِنا في هذا المكان. كما أن ابنهما إسحاق وزوجته رفقة، وابنه يعقوب وزوجته ليئة قد دفنوا هناك أيضًا.</p><p>ثم بعد ذلك بوقت طويل، وأثناء الوقت الذي كان يشوع يقود فيه <b>بني إسرائيل</b> لدخول الأرض، هاجم بنو إسرائيل حبرون وأخذوها من الكنعانيين الذين كانوا يعيشون فيها.</p><p>ثم بعد ذلك بوقت طويل، صار <a href=\"#t33\">داود</a> <a href=\"#t226\">ملكًا</a> على شعب يهوذا في أثناء إقامته في حبرون. وبعد عدة سنوات، انتقل داود إلى <a href=\"#t76\">أورشليم</a>. ومنذ ذلك الوقت فصاعدًا، أصبحت مدينة أورشليم المدينة الأكثر أهمية لبني إسرائيل، ولا نسمع الكثير عن حبرون بعد ذلك.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01023001",
+"start_ref_usfm": "GEN 23:1",
+"end_ref": "01023020",
+"end_ref_usfm": "GEN 23:20"
+},
+{
+"start_ref": "06021009",
+"start_ref_usfm": "JOS 21:9",
+"end_ref": "06021019",
+"end_ref_usfm": "JOS 21:19"
+},
+{
+"start_ref": "10002001",
+"start_ref_usfm": "2SA 2:1",
+"end_ref": "10002007",
+"end_ref_usfm": "2SA 2:7"
+},
+{
+"start_ref": "10015001",
+"start_ref_usfm": "2SA 15:1",
+"end_ref": "10015012",
+"end_ref_usfm": "2SA 15:12"
+},
+{
+"start_ref": "13011001",
+"start_ref_usfm": "1CH 11:1",
+"end_ref": "13011009",
+"end_ref_usfm": "1CH 11:9"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "arb-t28-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "حجر الزاوية",
+"media_type": "Text",
+"index_reference": "حجر الزاوية",
+"language": "arb",
+"review_level": "None",
+"content": "<p><b>حجر الزاوية</b>، الذي يُدعى أحيانًا &quot;رأس الزاوية&quot;، هو الحجر الأكثر أهمية في البناء. </p><p>وهناك حجران مختلفان في البناء يمكن أن نسميهما حجر الزاوية.</p><p>فحجر الزاوية يمكن أن يكون حجرًا كبيرًا يُوضع عند إحدى الزوايا في أسفل المبنى، وكان الناس يضعون هذا الحجر أولًا. ثم كانوا يقومون ببناء بقية البيت، وكانوا يبنونه معتمدين على هذا الحجر. وكانوا يعرفون أين يبنون باقي حوائط البناء الأخرى لأنهم كانوا يستطيعون النظر إلى هذا الحجر الأول ثم يصلوا الحوائط الأخرى بهذا الحجر. ولأن هذا الحجر كان كبيرًا، فإنه كان يربط حائطين مختلفين وكان يحمل جزءًا كبيرًا من وزن البيت. وفي هذه الحالة، فإن حجر الزاوية هو الحجر الأكثر أهمية لأنه يجعل البيت قويًا.</p><p>وحجر الزاوية أيضًا يمكن أن يشير إلى حجر يُوضع في الجزء العلوي من المبنى. وكان هذا الحجر يربط أو يجمع قوسين ليشكّل مدخل الباب، أو ليدعم السقف. وفي هذه الحالة، فإن حجر الزاوية هو الحجر الأكثر أهمية لأنه يُكمل البيت ويربطه معًا.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40021033",
+"start_ref_usfm": "MAT 21:33",
+"end_ref": "40021046",
+"end_ref_usfm": "MAT 21:46"
+},
+{
+"start_ref": "41012001",
+"start_ref_usfm": "MRK 12:1",
+"end_ref": "41012012",
+"end_ref_usfm": "MRK 12:12"
+},
+{
+"start_ref": "49002019",
+"start_ref_usfm": "EPH 2:19",
+"end_ref": "49002022",
+"end_ref_usfm": "EPH 2:22"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "arb-t41-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "حمار",
+"media_type": "Text",
+"index_reference": "حمار",
+"language": "arb",
+"review_level": "None",
+"content": "<p><b>الحمار</b> هو حيوان كبير بما يكفي كي يحمل أحمالًا ثقيلة أو أشخاصًا. وكان الناس يحتفظون بحمير لتساعدهم على العمل في حقولهم أو على حمل الأثقال. كما أن الحمار كان يُعتبر حيوانًا مسالمًا، وذلك على النقيض من الحصان، وهو حيوان أكبر حجمًا كان يركبه الجنود عندما كانوا يخوضون المعارك في الحروب.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02004018",
+"start_ref_usfm": "EXO 4:18",
+"end_ref": "02004031",
+"end_ref_usfm": "EXO 4:31"
+},
+{
+"start_ref": "02010021",
+"start_ref_usfm": "EXO 10:21",
+"end_ref": "02010029",
+"end_ref_usfm": "EXO 10:29"
+},
+{
+"start_ref": "02011001",
+"start_ref_usfm": "EXO 11:1",
+"end_ref": "02011010",
+"end_ref_usfm": "EXO 11:10"
+},
+{
+"start_ref": "02021028",
+"start_ref_usfm": "EXO 21:28",
+"end_ref": "02021036",
+"end_ref_usfm": "EXO 21:36"
+},
+{
+"start_ref": "02022001",
+"start_ref_usfm": "EXO 22:1",
+"end_ref": "02022006",
+"end_ref_usfm": "EXO 22:6"
+},
+{
+"start_ref": "02022007",
+"start_ref_usfm": "EXO 22:7",
+"end_ref": "02022015",
+"end_ref_usfm": "EXO 22:15"
+},
+{
+"start_ref": "02023001",
+"start_ref_usfm": "EXO 23:1",
+"end_ref": "02023009",
+"end_ref_usfm": "EXO 23:9"
+},
+{
+"start_ref": "02023010",
+"start_ref_usfm": "EXO 23:10",
+"end_ref": "02023019",
+"end_ref_usfm": "EXO 23:19"
+},
+{
+"start_ref": "05028025",
+"start_ref_usfm": "DEU 28:25",
+"end_ref": "05028037",
+"end_ref_usfm": "DEU 28:37"
+},
+{
+"start_ref": "06009001",
+"start_ref_usfm": "JOS 9:1",
+"end_ref": "06009015",
+"end_ref_usfm": "JOS 9:15"
+},
+{
+"start_ref": "06015013",
+"start_ref_usfm": "JOS 15:13",
+"end_ref": "06015019",
+"end_ref_usfm": "JOS 15:19"
+},
+{
+"start_ref": "07001009",
+"start_ref_usfm": "JDG 1:9",
+"end_ref": "07001017",
+"end_ref_usfm": "JDG 1:17"
+},
+{
+"start_ref": "07005001",
+"start_ref_usfm": "JDG 5:1",
+"end_ref": "07005011",
+"end_ref_usfm": "JDG 5:11"
+},
+{
+"start_ref": "07010001",
+"start_ref_usfm": "JDG 10:1",
+"end_ref": "07010005",
+"end_ref_usfm": "JDG 10:5"
+},
+{
+"start_ref": "07012008",
+"start_ref_usfm": "JDG 12:8",
+"end_ref": "07012015",
+"end_ref_usfm": "JDG 12:15"
+},
+{
+"start_ref": "07015009",
+"start_ref_usfm": "JDG 15:9",
+"end_ref": "07015020",
+"end_ref_usfm": "JDG 15:20"
+},
+{
+"start_ref": "07019001",
+"start_ref_usfm": "JDG 19:1",
+"end_ref": "07019010",
+"end_ref_usfm": "JDG 19:10"
+},
+{
+"start_ref": "07019011",
+"start_ref_usfm": "JDG 19:11",
+"end_ref": "07019021",
+"end_ref_usfm": "JDG 19:21"
+},
+{
+"start_ref": "09010001",
+"start_ref_usfm": "1SA 10:1",
+"end_ref": "09010016",
+"end_ref_usfm": "1SA 10:16"
+},
+{
+"start_ref": "09015001",
+"start_ref_usfm": "1SA 15:1",
+"end_ref": "09015009",
+"end_ref_usfm": "1SA 15:9"
+},
+{
+"start_ref": "09016014",
+"start_ref_usfm": "1SA 16:14",
+"end_ref": "09016023",
+"end_ref_usfm": "1SA 16:23"
+},
+{
+"start_ref": "09025014",
+"start_ref_usfm": "1SA 25:14",
+"end_ref": "09025022",
+"end_ref_usfm": "1SA 25:22"
+},
+{
+"start_ref": "09025023",
+"start_ref_usfm": "1SA 25:23",
+"end_ref": "09025038",
+"end_ref_usfm": "1SA 25:38"
+},
+{
+"start_ref": "09025039",
+"start_ref_usfm": "1SA 25:39",
+"end_ref": "09025044",
+"end_ref_usfm": "1SA 25:44"
+},
+{
+"start_ref": "10016001",
+"start_ref_usfm": "2SA 16:1",
+"end_ref": "10016004",
+"end_ref_usfm": "2SA 16:4"
+},
+{
+"start_ref": "10017015",
+"start_ref_usfm": "2SA 17:15",
+"end_ref": "10017029",
+"end_ref_usfm": "2SA 17:29"
+},
+{
+"start_ref": "10019024",
+"start_ref_usfm": "2SA 19:24",
+"end_ref": "10019030",
+"end_ref_usfm": "2SA 19:30"
+},
+{
+"start_ref": "11002036",
+"start_ref_usfm": "1KI 2:36",
+"end_ref": "11002046",
+"end_ref_usfm": "1KI 2:46"
+},
+{
+"start_ref": "11013011",
+"start_ref_usfm": "1KI 13:11",
+"end_ref": "11013022",
+"end_ref_usfm": "1KI 13:22"
+},
+{
+"start_ref": "11013023",
+"start_ref_usfm": "1KI 13:23",
+"end_ref": "11013034",
+"end_ref_usfm": "1KI 13:34"
+},
+{
+"start_ref": "13012023",
+"start_ref_usfm": "1CH 12:23",
+"end_ref": "13012040",
+"end_ref_usfm": "1CH 12:40"
+},
+{
+"start_ref": "13027025",
+"start_ref_usfm": "1CH 27:25",
+"end_ref": "13027031",
+"end_ref_usfm": "1CH 27:31"
+},
+{
+"start_ref": "15002064",
+"start_ref_usfm": "EZR 2:64",
+"end_ref": "15002070",
+"end_ref_usfm": "EZR 2:70"
+},
+{
+"start_ref": "41011001",
+"start_ref_usfm": "MRK 11:1",
+"end_ref": "41011011",
+"end_ref_usfm": "MRK 11:11"
+},
+{
+"start_ref": "43012012",
+"start_ref_usfm": "JHN 12:12",
+"end_ref": "43012019",
+"end_ref_usfm": "JHN 12:19"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "arb-t42-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "حمامة",
+"media_type": "Text",
+"index_reference": "حمامة",
+"language": "arb",
+"review_level": "None",
+"content": "<p><b>الحمامة</b> هي نوع من الطيور الشائعة جدًا في <a href=\"#t74\">إسرائيل</a>. وهناك أنواع وأحجام مختلفة من الحمام. بعضها أبيض، والبعض الآخر أرقط أو يحتوي على عدة ألوان. تعتبر الحمامة طائرًا وديعًا ومسالمًا. ويمكن للحمام أن يطير لمسافات طويلة، وهي ماهرة للغاية في تمييز طريق العودة، إلى المكان الذي جاءت منه.</p><p>كان الله يطلب من <b>بني إسرائيل</b> أن يقدموا له <b>ذبائح</b> من الحيوانات في طقوس وتطهيرات مختلفة. وعادةً ما كانت هذه الحيوانات غنمًا أو ماعزًا أو ثيرانًا. لكن للفقراء، هذه الحيوانات كانت مكلفة للغاية. ولذلك، سمح الله للناس أن يقدموا زوجًا من الحمام كذبيحة.</p><p>وعندما <b>اعتمد</b> يسوع، نزل <a href=\"#t68\">الروح القدس</a> عليه في هيئة حمامة. وهذا لا يعني أن الروح القدس حمامة، لكن أن الروح القدس قد ظهر في ذلك الوقت في هيئة حمامة.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "41011012",
+"start_ref_usfm": "MRK 11:12",
+"end_ref": "41011026",
+"end_ref_usfm": "MRK 11:26"
+},
+{
+"start_ref": "42002022",
+"start_ref_usfm": "LUK 2:22",
+"end_ref": "42002040",
+"end_ref_usfm": "LUK 2:40"
+},
+{
+"start_ref": "42003015",
+"start_ref_usfm": "LUK 3:15",
+"end_ref": "42003022",
+"end_ref_usfm": "LUK 3:22"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "arb-t46-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "حياة أبدية",
+"media_type": "Text",
+"index_reference": "حياة أبدية",
+"language": "arb",
+"review_level": "None",
+"content": "<p><b>الحياة الأبدية</b> تعني حياة مع الله لن تنتهي أبدًا. كما أن الحياة الأبدية هي العطية التي يعطيها الله لأبنائه إذا <b>آمنوا</b> به. وهي ليست شيئًا يمكن للناس أن يحصلوا عليه إذا عملوا بجد بما يكفي، أو إذا قاموا بما يكفي من الطقوس أو الفرائض. فعندما يضع الشخص ثقته في يسوع، يُعطيه الله هذه الهبة. </p><p>والحياة الأبدية هي حياة أفضل وأغنى بكثير من الحياة العادية. وبدون هذه الهبة من الحياة الأبدية، قد نعيش ونتنفس فقط، لكن هذه ليست سوى حياة جسدية، وستنتهي بمجرد موتنا. لكن الحياة الأبدية التي يعطيها الله لنا لن تنتهي أبدًا! فهي تبدأ الآن، وتغييرنا وتسمح لنا بأن نعيش في <b>علاقة</b> وثيقة بالله. وعندما يعود يسوع ويؤسس <a href=\"#t157\">ملكوته</a> إلى الأبد، سنعيش نحن أيضًا معه إلى الأبد. هذه هي عطية الله: الحياة في المستقبل، والحياة الحقيقية بالفعل من الآن!</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40019013",
+"start_ref_usfm": "MAT 19:13",
+"end_ref": "40019030",
+"end_ref_usfm": "MAT 19:30"
+},
+{
+"start_ref": "41010013",
+"start_ref_usfm": "MRK 10:13",
+"end_ref": "41010031",
+"end_ref_usfm": "MRK 10:31"
+},
+{
+"start_ref": "42010025",
+"start_ref_usfm": "LUK 10:25",
+"end_ref": "42010037",
+"end_ref_usfm": "LUK 10:37"
+},
+{
+"start_ref": "42018018",
+"start_ref_usfm": "LUK 18:18",
+"end_ref": "42018030",
+"end_ref_usfm": "LUK 18:30"
+},
+{
+"start_ref": "43003009",
+"start_ref_usfm": "JHN 3:9",
+"end_ref": "43003021",
+"end_ref_usfm": "JHN 3:21"
+},
+{
+"start_ref": "43003022",
+"start_ref_usfm": "JHN 3:22",
+"end_ref": "43003036",
+"end_ref_usfm": "JHN 3:36"
+},
+{
+"start_ref": "43004001",
+"start_ref_usfm": "JHN 4:1",
+"end_ref": "43004015",
+"end_ref_usfm": "JHN 4:15"
+},
+{
+"start_ref": "43004027",
+"start_ref_usfm": "JHN 4:27",
+"end_ref": "43004042",
+"end_ref_usfm": "JHN 4:42"
+},
+{
+"start_ref": "43005024",
+"start_ref_usfm": "JHN 5:24",
+"end_ref": "43005030",
+"end_ref_usfm": "JHN 5:30"
+},
+{
+"start_ref": "43005031",
+"start_ref_usfm": "JHN 5:31",
+"end_ref": "43005047",
+"end_ref_usfm": "JHN 5:47"
+},
+{
+"start_ref": "43006022",
+"start_ref_usfm": "JHN 6:22",
+"end_ref": "43006027",
+"end_ref_usfm": "JHN 6:27"
+},
+{
+"start_ref": "43006028",
+"start_ref_usfm": "JHN 6:28",
+"end_ref": "43006040",
+"end_ref_usfm": "JHN 6:40"
+},
+{
+"start_ref": "43006041",
+"start_ref_usfm": "JHN 6:41",
+"end_ref": "43006051",
+"end_ref_usfm": "JHN 6:51"
+},
+{
+"start_ref": "43006052",
+"start_ref_usfm": "JHN 6:52",
+"end_ref": "43006059",
+"end_ref_usfm": "JHN 6:59"
+},
+{
+"start_ref": "43006060",
+"start_ref_usfm": "JHN 6:60",
+"end_ref": "43006071",
+"end_ref_usfm": "JHN 6:71"
+},
+{
+"start_ref": "43010022",
+"start_ref_usfm": "JHN 10:22",
+"end_ref": "43010042",
+"end_ref_usfm": "JHN 10:42"
+},
+{
+"start_ref": "43012020",
+"start_ref_usfm": "JHN 12:20",
+"end_ref": "43012036",
+"end_ref_usfm": "JHN 12:36"
+},
+{
+"start_ref": "43012037",
+"start_ref_usfm": "JHN 12:37",
+"end_ref": "43012050",
+"end_ref_usfm": "JHN 12:50"
+},
+{
+"start_ref": "43017001",
+"start_ref_usfm": "JHN 17:1",
+"end_ref": "43017019",
+"end_ref_usfm": "JHN 17:19"
+},
+{
+"start_ref": "44013042",
+"start_ref_usfm": "ACT 13:42",
+"end_ref": "44013052",
+"end_ref_usfm": "ACT 13:52"
+},
+{
+"start_ref": "47004007",
+"start_ref_usfm": "2CO 4:7",
+"end_ref": "47004012",
+"end_ref_usfm": "2CO 4:12"
+},
+{
+"start_ref": "48006001",
+"start_ref_usfm": "GAL 6:1",
+"end_ref": "48006010",
+"end_ref_usfm": "GAL 6:10"
+},
+{
+"start_ref": "54001012",
+"start_ref_usfm": "1TI 1:12",
+"end_ref": "54001020",
+"end_ref_usfm": "1TI 1:20"
+},
+{
+"start_ref": "54006011",
+"start_ref_usfm": "1TI 6:11",
+"end_ref": "54006016",
+"end_ref_usfm": "1TI 6:16"
+},
+{
+"start_ref": "55001008",
+"start_ref_usfm": "2TI 1:8",
+"end_ref": "55001014",
+"end_ref_usfm": "2TI 1:14"
+},
+{
+"start_ref": "56001001",
+"start_ref_usfm": "TIT 1:1",
+"end_ref": "56001004",
+"end_ref_usfm": "TIT 1:4"
+},
+{
+"start_ref": "56003001",
+"start_ref_usfm": "TIT 3:1",
+"end_ref": "56003011",
+"end_ref_usfm": "TIT 3:11"
+},
+{
+"start_ref": "62001001",
+"start_ref_usfm": "1JN 1:1",
+"end_ref": "62001004",
+"end_ref_usfm": "1JN 1:4"
+},
+{
+"start_ref": "62002018",
+"start_ref_usfm": "1JN 2:18",
+"end_ref": "62002028",
+"end_ref_usfm": "1JN 2:28"
+},
+{
+"start_ref": "62003011",
+"start_ref_usfm": "1JN 3:11",
+"end_ref": "62003018",
+"end_ref_usfm": "1JN 3:18"
+},
+{
+"start_ref": "62005006",
+"start_ref_usfm": "1JN 5:6",
+"end_ref": "62005012",
+"end_ref_usfm": "1JN 5:12"
+},
+{
+"start_ref": "62005013",
+"start_ref_usfm": "1JN 5:13",
+"end_ref": "62005021",
+"end_ref_usfm": "1JN 5:21"
+}
+],
+"resource": [],
+"acai": []
+}
+}
+]
