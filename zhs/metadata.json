@@ -29,14 +29,14 @@
 },
 "adaptation_notice": "<p><b>Familiarization, Internalization, Articulation (FIA) Key Terms</b> © 2023 SRV Partners Released under CC BY-SA 4.0 license. <cite>Familiarization, Internalization, Articulation (FIA) Key Terms</cite> has been adapted in the following languages Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Familiarization, Internalization, Articulation (FIA)</cite> © 2023 SRV Partners. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "FIAKeyTerms",
-"date_created": "2026-05-07",
+"date_created": "2026-05-11",
 "language": "zhs",
 "localizations": [
 "eng",
 "fra",
 "por",
-"rus",
-"spa"
+"spa",
+"rus"
 ],
 "order": "alphabetical",
 "content_type": "Html"
@@ -47,7 +47,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-05-07T16:20:07.465096"
+"dateCreated": "2026-05-11T13:54:59.038194"
 },
 "idAuthorities": {
 "aquifer": {
@@ -61,7 +61,7 @@
 "primary": {
 "aquifer": {
 "FIAKeyTerms": {
-"timestamp": "2026-05-07T16:20:07.465096"
+"timestamp": "2026-05-11T13:54:59.038194"
 }
 }
 },
@@ -2277,6 +2277,11 @@
 "content_id": "por-t2-v1",
 "language": "por",
 "title": "adultério"
+},
+"spa": {
+"content_id": "spa-t2-v1",
+"language": "spa",
+"title": "adultery"
 }
 }
 },
@@ -2326,6 +2331,11 @@
 "content_id": "rus-t4-v1",
 "language": "rus",
 "title": "Ангелы"
+},
+"spa": {
+"content_id": "spa-t4-v1",
+"language": "spa",
+"title": "angel"
 }
 }
 },
@@ -2375,6 +2385,11 @@
 "content_id": "por-t5-v1",
 "language": "por",
 "title": "ungir"
+},
+"spa": {
+"content_id": "spa-t5-v1",
+"language": "spa",
+"title": "anoint"
 }
 }
 },
@@ -2419,6 +2434,11 @@
 "content_id": "por-t6-v1",
 "language": "por",
 "title": "apóstolo"
+},
+"spa": {
+"content_id": "spa-t6-v1",
+"language": "spa",
+"title": "apostle"
 }
 }
 },
@@ -2468,6 +2488,11 @@
 "content_id": "rus-t8-v1",
 "language": "rus",
 "title": "Власть или Авторитет"
+},
+"spa": {
+"content_id": "spa-t8-v1",
+"language": "spa",
+"title": "authority"
 }
 }
 },
@@ -2522,6 +2547,11 @@
 "content_id": "rus-t9-v1",
 "language": "rus",
 "title": "Крещение"
+},
+"spa": {
+"content_id": "spa-t9-v1",
+"language": "spa",
+"title": "baptism"
 }
 }
 },
@@ -2571,6 +2601,11 @@
 "content_id": "por-t10-v1",
 "language": "por",
 "title": "cesta"
+},
+"spa": {
+"content_id": "spa-t10-v1",
+"language": "spa",
+"title": "basket"
 }
 }
 },
@@ -2620,6 +2655,11 @@
 "content_id": "rus-t11-v1",
 "language": "rus",
 "title": "Вера/верить"
+},
+"spa": {
+"content_id": "spa-t11-v1",
+"language": "spa",
+"title": "belief"
 }
 }
 },
@@ -2669,6 +2709,11 @@
 "content_id": "por-t14-v1",
 "language": "por",
 "title": "Betsaida"
+},
+"spa": {
+"content_id": "spa-t14-v1",
+"language": "spa",
+"title": "bethsaida"
 }
 }
 },
@@ -2713,6 +2758,11 @@
 "content_id": "por-t15-v1",
 "language": "por",
 "title": "blasfêmia"
+},
+"spa": {
+"content_id": "spa-t15-v1",
+"language": "spa",
+"title": "blasphemy"
 }
 }
 },
@@ -2757,6 +2807,11 @@
 "content_id": "por-t16-v1",
 "language": "por",
 "title": "abençoar"
+},
+"spa": {
+"content_id": "spa-t16-v1",
+"language": "spa",
+"title": "bless"
 }
 }
 },
@@ -2865,6 +2920,11 @@
 "content_id": "por-t18-v1",
 "language": "por",
 "title": "curvar"
+},
+"spa": {
+"content_id": "spa-t18-v1",
+"language": "spa",
+"title": "bow"
 }
 }
 },
@@ -2909,6 +2969,11 @@
 "content_id": "por-t19-v1",
 "language": "por",
 "title": "César"
+},
+"spa": {
+"content_id": "spa-t19-v1",
+"language": "spa",
+"title": "caesar"
 }
 }
 },
@@ -2953,6 +3018,11 @@
 "content_id": "por-t20-v1",
 "language": "por",
 "title": "Cesareia de Filipe"
+},
+"spa": {
+"content_id": "spa-t20-v1",
+"language": "spa",
+"title": "caeserea-philippi"
 }
 }
 },
@@ -2997,6 +3067,11 @@
 "content_id": "por-t21-v1",
 "language": "por",
 "title": "camelo"
+},
+"spa": {
+"content_id": "spa-t21-v1",
+"language": "spa",
+"title": "camel"
 }
 }
 },
@@ -3110,6 +3185,11 @@
 "content_id": "rus-t23-v1",
 "language": "rus",
 "title": "Христос"
+},
+"spa": {
+"content_id": "spa-t23-v1",
+"language": "spa",
+"title": "christ"
 }
 }
 },
@@ -3164,6 +3244,11 @@
 "content_id": "rus-t26-v1",
 "language": "rus",
 "title": "Чистый и нечистый"
+},
+"spa": {
+"content_id": "spa-t26-v1",
+"language": "spa",
+"title": "clean-unclean"
 }
 }
 },
@@ -3213,6 +3298,11 @@
 "content_id": "por-t27-v1",
 "language": "por",
 "title": "capa"
+},
+"spa": {
+"content_id": "spa-t27-v1",
+"language": "spa",
+"title": "cloak"
 }
 }
 },
@@ -3257,6 +3347,11 @@
 "content_id": "por-t28-v1",
 "language": "por",
 "title": "pedra angular"
+},
+"spa": {
+"content_id": "spa-t28-v1",
+"language": "spa",
+"title": "cornerstone"
 }
 }
 },
@@ -3301,6 +3396,11 @@
 "content_id": "por-t29-v1",
 "language": "por",
 "title": "aliança"
+},
+"spa": {
+"content_id": "spa-t29-v1",
+"language": "spa",
+"title": "covenant"
 }
 }
 },
@@ -3345,6 +3445,11 @@
 "content_id": "por-t30-v1",
 "language": "por",
 "title": "cruz"
+},
+"spa": {
+"content_id": "spa-t30-v1",
+"language": "spa",
+"title": "cross"
 }
 }
 },
@@ -3389,6 +3494,11 @@
 "content_id": "por-t31-v1",
 "language": "por",
 "title": "maldição"
+},
+"spa": {
+"content_id": "spa-t31-v1",
+"language": "spa",
+"title": "curse"
 }
 }
 },
@@ -3433,6 +3543,11 @@
 "content_id": "por-t33-v1",
 "language": "por",
 "title": "Davi "
+},
+"spa": {
+"content_id": "spa-t33-v1",
+"language": "spa",
+"title": "david"
 }
 }
 },
@@ -3477,6 +3592,11 @@
 "content_id": "por-t35-v1",
 "language": "por",
 "title": "Decápolis"
+},
+"spa": {
+"content_id": "spa-t35-v1",
+"language": "spa",
+"title": "decapolis"
 }
 }
 },
@@ -3526,6 +3646,11 @@
 "content_id": "rus-t36-v1",
 "language": "rus",
 "title": "Бес"
+},
+"spa": {
+"content_id": "spa-t36-v1",
+"language": "spa",
+"title": "demon"
 }
 }
 },
@@ -3575,6 +3700,11 @@
 "content_id": "por-t37-v1",
 "language": "por",
 "title": "denário"
+},
+"spa": {
+"content_id": "spa-t37-v1",
+"language": "spa",
+"title": "denarius"
 }
 }
 },
@@ -3624,6 +3754,11 @@
 "content_id": "rus-t38-v1",
 "language": "rus",
 "title": "Пустыня, пустошь"
+},
+"spa": {
+"content_id": "spa-t38-v1",
+"language": "spa",
+"title": "desert"
 }
 }
 },
@@ -3727,6 +3862,11 @@
 "content_id": "por-t40-v1",
 "language": "por",
 "title": "divórcio"
+},
+"spa": {
+"content_id": "spa-t40-v1",
+"language": "spa",
+"title": "divorce"
 }
 }
 },
@@ -3771,6 +3911,11 @@
 "content_id": "por-t41-v1",
 "language": "por",
 "title": "burro"
+},
+"spa": {
+"content_id": "spa-t41-v1",
+"language": "spa",
+"title": "donkey"
 }
 }
 },
@@ -3815,6 +3960,11 @@
 "content_id": "por-t42-v1",
 "language": "por",
 "title": "pomba"
+},
+"spa": {
+"content_id": "spa-t42-v1",
+"language": "spa",
+"title": "dove"
 }
 }
 },
@@ -3859,6 +4009,11 @@
 "content_id": "por-t43-v1",
 "language": "por",
 "title": "ancião"
+},
+"spa": {
+"content_id": "spa-t43-v1",
+"language": "spa",
+"title": "elder"
 }
 }
 },
@@ -3903,6 +4058,11 @@
 "content_id": "por-t44-v1",
 "language": "por",
 "title": "Elias"
+},
+"spa": {
+"content_id": "spa-t44-v1",
+"language": "spa",
+"title": "elijah"
 }
 }
 },
@@ -3947,6 +4107,11 @@
 "content_id": "por-t46-v1",
 "language": "por",
 "title": "vida eterna"
+},
+"spa": {
+"content_id": "spa-t46-v1",
+"language": "spa",
+"title": "eternal-life"
 }
 }
 },
@@ -3991,6 +4156,11 @@
 "content_id": "por-t47-v1",
 "language": "por",
 "title": "espírito maligno"
+},
+"spa": {
+"content_id": "spa-t47-v1",
+"language": "spa",
+"title": "evil-spirit"
 }
 }
 },
@@ -4099,6 +4269,11 @@
 "content_id": "por-t49-v1",
 "language": "por",
 "title": "jejum"
+},
+"spa": {
+"content_id": "spa-t49-v1",
+"language": "spa",
+"title": "fasting"
 }
 }
 },
@@ -4143,6 +4318,11 @@
 "content_id": "por-t51-v1",
 "language": "por",
 "title": "figueira"
+},
+"spa": {
+"content_id": "spa-t51-v1",
+"language": "spa",
+"title": "fig-tree"
 }
 }
 },
@@ -4192,6 +4372,11 @@
 "content_id": "rus-t52-v1",
 "language": "rus",
 "title": "Рыболовная сеть"
+},
+"spa": {
+"content_id": "spa-t52-v1",
+"language": "spa",
+"title": "fishing-net"
 }
 }
 },
@@ -4246,6 +4431,11 @@
 "content_id": "rus-t53-v1",
 "language": "rus",
 "title": "Простить, прощение"
+},
+"spa": {
+"content_id": "spa-t53-v1",
+"language": "spa",
+"title": "forgiveness"
 }
 }
 },
@@ -4300,6 +4490,11 @@
 "content_id": "rus-t55-v1",
 "language": "rus",
 "title": "Галилея"
+},
+"spa": {
+"content_id": "spa-t55-v1",
+"language": "spa",
+"title": "galilee"
 }
 }
 },
@@ -4349,6 +4544,11 @@
 "content_id": "por-t56-v1",
 "language": "por",
 "title": "Gentio"
+},
+"spa": {
+"content_id": "spa-t56-v1",
+"language": "spa",
+"title": "gentile"
 }
 }
 },
@@ -4393,6 +4593,11 @@
 "content_id": "por-t57-v1",
 "language": "por",
 "title": "Gerasenos"
+},
+"spa": {
+"content_id": "spa-t57-v2.1",
+"language": "spa",
+"title": "gerasenes"
 }
 }
 },
@@ -4437,6 +4642,11 @@
 "content_id": "por-t58-v1",
 "language": "por",
 "title": "glória"
+},
+"spa": {
+"content_id": "spa-t58-v1",
+"language": "spa",
+"title": "glory"
 }
 }
 },
@@ -4486,6 +4696,11 @@
 "content_id": "rus-t60-v1",
 "language": "rus",
 "title": "Евангелие"
+},
+"spa": {
+"content_id": "spa-t60-v1",
+"language": "spa",
+"title": "gospel"
 }
 }
 },
@@ -4540,6 +4755,11 @@
 "content_id": "rus-t62-v1",
 "language": "rus",
 "title": "Исцелять"
+},
+"spa": {
+"content_id": "spa-t62-v1",
+"language": "spa",
+"title": "heal"
 }
 }
 },
@@ -4594,6 +4814,11 @@
 "content_id": "rus-t63-v1",
 "language": "rus",
 "title": "Небеса"
+},
+"spa": {
+"content_id": "spa-t63-v1",
+"language": "spa",
+"title": "heaven"
 }
 }
 },
@@ -4643,6 +4868,11 @@
 "content_id": "por-t64-v1",
 "language": "por",
 "title": "herdeiro"
+},
+"spa": {
+"content_id": "spa-t64-v1",
+"language": "spa",
+"title": "heir"
 }
 }
 },
@@ -4687,6 +4917,11 @@
 "content_id": "por-t65-v1",
 "language": "por",
 "title": "inferno"
+},
+"spa": {
+"content_id": "spa-t65-v1",
+"language": "spa",
+"title": "hell"
 }
 }
 },
@@ -4731,6 +4966,11 @@
 "content_id": "por-t66-v1",
 "language": "por",
 "title": "herodianos"
+},
+"spa": {
+"content_id": "spa-t66-v1",
+"language": "spa",
+"title": "herodian"
 }
 }
 },
@@ -4780,6 +5020,11 @@
 "content_id": "rus-t67-v1",
 "language": "rus",
 "title": "Святой"
+},
+"spa": {
+"content_id": "spa-t67-v1",
+"language": "spa",
+"title": "holy"
 }
 }
 },
@@ -4834,6 +5079,11 @@
 "content_id": "rus-t68-v1",
 "language": "rus",
 "title": "Дух Святой"
+},
+"spa": {
+"content_id": "spa-t68-v1",
+"language": "spa",
+"title": "holy-spirit"
 }
 }
 },
@@ -4883,6 +5133,11 @@
 "content_id": "por-t69-v1",
 "language": "por",
 "title": "Hosana"
+},
+"spa": {
+"content_id": "spa-t69-v1",
+"language": "spa",
+"title": "hosanna"
 }
 }
 },
@@ -4927,6 +5182,11 @@
 "content_id": "por-t70-v1",
 "language": "por",
 "title": "família"
+},
+"spa": {
+"content_id": "spa-t70-v1",
+"language": "spa",
+"title": "household"
 }
 }
 },
@@ -4971,6 +5231,11 @@
 "content_id": "por-t71-v1",
 "language": "por",
 "title": "hipocrisia"
+},
+"spa": {
+"content_id": "spa-t71-v1",
+"language": "spa",
+"title": "hypocrisy"
 }
 }
 },
@@ -5015,6 +5280,11 @@
 "content_id": "por-t73-v1",
 "language": "por",
 "title": "Isaías"
+},
+"spa": {
+"content_id": "spa-t73-v1",
+"language": "spa",
+"title": "isaiah"
 }
 }
 },
@@ -5059,6 +5329,11 @@
 "content_id": "por-t75-v1",
 "language": "por",
 "title": "Tiago"
+},
+"spa": {
+"content_id": "spa-t75-v1",
+"language": "spa",
+"title": "james"
 }
 }
 },
@@ -5108,6 +5383,11 @@
 "content_id": "rus-t76-v1",
 "language": "rus",
 "title": "Иерусалим"
+},
+"spa": {
+"content_id": "spa-t76-v1",
+"language": "spa",
+"title": "jerusalem"
 }
 }
 },
@@ -5157,6 +5437,11 @@
 "content_id": "por-t78-v1",
 "language": "por",
 "title": "João "
+},
+"spa": {
+"content_id": "spa-t78-v1",
+"language": "spa",
+"title": "john"
 }
 }
 },
@@ -5201,6 +5486,11 @@
 "content_id": "por-t79-v1",
 "language": "por",
 "title": "João Batista"
+},
+"spa": {
+"content_id": "spa-t79-v1",
+"language": "spa",
+"title": "john-the-baptist"
 }
 }
 },
@@ -5245,6 +5535,11 @@
 "content_id": "por-t80-v1",
 "language": "por",
 "title": "Rio Jordão"
+},
+"spa": {
+"content_id": "spa-t80-v1",
+"language": "spa",
+"title": "jordan-river"
 }
 }
 },
@@ -5289,6 +5584,11 @@
 "content_id": "por-t81-v1",
 "language": "por",
 "title": "Judeia"
+},
+"spa": {
+"content_id": "spa-t81-v1",
+"language": "spa",
+"title": "judea"
 }
 }
 },
@@ -5338,6 +5638,11 @@
 "content_id": "rus-t82-v1",
 "language": "rus",
 "title": "Царство Божие"
+},
+"spa": {
+"content_id": "spa-t82-v1",
+"language": "spa",
+"title": "kingdom-of-god"
 }
 }
 },
@@ -5392,6 +5697,11 @@
 "content_id": "rus-t83-v1",
 "language": "rus",
 "title": "Закон"
+},
+"spa": {
+"content_id": "spa-t83-v1",
+"language": "spa",
+"title": "law"
 }
 }
 },
@@ -5441,6 +5751,11 @@
 "content_id": "por-t84-v1",
 "language": "por",
 "title": "legião"
+},
+"spa": {
+"content_id": "spa-t84-v1",
+"language": "spa",
+"title": "legion"
 }
 }
 },
@@ -5490,6 +5805,11 @@
 "content_id": "rus-t85-v1",
 "language": "rus",
 "title": "Проказа"
+},
+"spa": {
+"content_id": "spa-t85-v1",
+"language": "spa",
+"title": "leprosy"
 }
 }
 },
@@ -5647,6 +5967,11 @@
 "content_id": "por-t91-v1",
 "language": "por",
 "title": "misericórdia"
+},
+"spa": {
+"content_id": "spa-t91-v1",
+"language": "spa",
+"title": "mercy"
 }
 }
 },
@@ -5691,6 +6016,11 @@
 "content_id": "por-t92-v1",
 "language": "por",
 "title": "Messias"
+},
+"spa": {
+"content_id": "spa-t92-v1",
+"language": "spa",
+"title": "messiah"
 }
 }
 },
@@ -5735,6 +6065,11 @@
 "content_id": "por-t93-v1",
 "language": "por",
 "title": "milagres"
+},
+"spa": {
+"content_id": "spa-t93-v1",
+"language": "spa",
+"title": "miracles"
 }
 }
 },
@@ -5779,6 +6114,11 @@
 "content_id": "por-t94-v1",
 "language": "por",
 "title": "nação"
+},
+"spa": {
+"content_id": "spa-t94-v1",
+"language": "spa",
+"title": "nation"
 }
 }
 },
@@ -5828,6 +6168,11 @@
 "content_id": "rus-t95-v1",
 "language": "rus",
 "title": "Назарет"
+},
+"spa": {
+"content_id": "spa-t95-v1",
+"language": "spa",
+"title": "nazareth"
 }
 }
 },
@@ -5877,6 +6222,11 @@
 "content_id": "por-t96-v1",
 "language": "por",
 "title": "juramento"
+},
+"spa": {
+"content_id": "spa-t96-v1",
+"language": "spa",
+"title": "oath"
 }
 }
 },
@@ -5921,6 +6271,11 @@
 "content_id": "por-t97-v1",
 "language": "por",
 "title": "lâmpada de óleo"
+},
+"spa": {
+"content_id": "spa-t97-v1",
+"language": "spa",
+"title": "oil-lamp"
 }
 }
 },
@@ -5965,6 +6320,11 @@
 "content_id": "por-t98-v1",
 "language": "por",
 "title": "parábola"
+},
+"spa": {
+"content_id": "spa-t98-v1",
+"language": "spa",
+"title": "parable"
 }
 }
 },
@@ -6009,6 +6369,11 @@
 "content_id": "por-t100-v1",
 "language": "por",
 "title": "Fariseu"
+},
+"spa": {
+"content_id": "spa-t100-v1",
+"language": "spa",
+"title": "pharisee"
 }
 }
 },
@@ -6058,6 +6423,11 @@
 "content_id": "rus-t101-v1",
 "language": "rus",
 "title": "Одержимый (одержимый бесом)"
+},
+"spa": {
+"content_id": "spa-t101-v1",
+"language": "spa",
+"title": "possessed"
 }
 }
 },
@@ -6112,6 +6482,11 @@
 "content_id": "rus-t102-v1",
 "language": "rus",
 "title": "Молиться"
+},
+"spa": {
+"content_id": "spa-t102-v1",
+"language": "spa",
+"title": "pray"
 }
 }
 },
@@ -6166,6 +6541,11 @@
 "content_id": "rus-t103-v1",
 "language": "rus",
 "title": "Cвященник"
+},
+"spa": {
+"content_id": "spa-t103-v1",
+"language": "spa",
+"title": "priest"
 }
 }
 },
@@ -6220,6 +6600,11 @@
 "content_id": "rus-t104-v1",
 "language": "rus",
 "title": "пророк"
+},
+"spa": {
+"content_id": "spa-t104-v1",
+"language": "spa",
+"title": "prophet"
 }
 }
 },
@@ -6269,6 +6654,11 @@
 "content_id": "por-t105-v1",
 "language": "por",
 "title": "resgate"
+},
+"spa": {
+"content_id": "spa-t105-v1",
+"language": "spa",
+"title": "ransom"
 }
 }
 },
@@ -6313,6 +6703,11 @@
 "content_id": "por-t106-v1",
 "language": "por",
 "title": "rabi"
+},
+"spa": {
+"content_id": "spa-t106-v1",
+"language": "spa",
+"title": "rabbi"
 }
 }
 },
@@ -6357,6 +6752,11 @@
 "content_id": "por-t109-v1",
 "language": "por",
 "title": "arrependimento"
+},
+"spa": {
+"content_id": "spa-t109-v1",
+"language": "spa",
+"title": "repentance"
 }
 }
 },
@@ -6401,6 +6801,11 @@
 "content_id": "por-t110-v1",
 "language": "por",
 "title": "ressurreição"
+},
+"spa": {
+"content_id": "spa-t110-v1",
+"language": "spa",
+"title": "resurrection"
 }
 }
 },
@@ -6445,6 +6850,11 @@
 "content_id": "por-t111-v1",
 "language": "por",
 "title": "retidão"
+},
+"spa": {
+"content_id": "spa-t111-v1",
+"language": "spa",
+"title": "righteousness"
 }
 }
 },
@@ -6489,6 +6899,11 @@
 "content_id": "por-t112-v1",
 "language": "por",
 "title": "manto"
+},
+"spa": {
+"content_id": "spa-t112-v1",
+"language": "spa",
+"title": "robe"
 }
 }
 },
@@ -6538,6 +6953,11 @@
 "content_id": "rus-t113-v1",
 "language": "rus",
 "title": "суббота"
+},
+"spa": {
+"content_id": "spa-t113-v1",
+"language": "spa",
+"title": "sabbath"
 }
 }
 },
@@ -6587,6 +7007,11 @@
 "content_id": "rus-t114-v1",
 "language": "rus",
 "title": "Жертва/ жертвоприношение"
+},
+"spa": {
+"content_id": "spa-t114-v1",
+"language": "spa",
+"title": "sacrifice"
 }
 }
 },
@@ -6631,6 +7056,11 @@
 "content_id": "por-t115-v1",
 "language": "por",
 "title": "Saduceus"
+},
+"spa": {
+"content_id": "spa-t115-v1",
+"language": "spa",
+"title": "sadducee"
 }
 }
 },
@@ -6675,6 +7105,11 @@
 "content_id": "por-t116-v1",
 "language": "por",
 "title": "salvação"
+},
+"spa": {
+"content_id": "spa-t116-v1",
+"language": "spa",
+"title": "salvation"
 }
 }
 },
@@ -6724,6 +7159,11 @@
 "content_id": "rus-t118-v1",
 "language": "rus",
 "title": "Сатана"
+},
+"spa": {
+"content_id": "spa-t118-v1",
+"language": "spa",
+"title": "satan"
 }
 }
 },
@@ -6773,6 +7213,11 @@
 "content_id": "por-t120-v1",
 "language": "por",
 "title": "escrituras"
+},
+"spa": {
+"content_id": "spa-t120-v1",
+"language": "spa",
+"title": "scriptures"
 }
 }
 },
@@ -6881,6 +7326,11 @@
 "content_id": "por-t122-v1",
 "language": "por",
 "title": "semente"
+},
+"spa": {
+"content_id": "spa-t122-v1",
+"language": "spa",
+"title": "seed"
 }
 }
 },
@@ -6925,6 +7375,11 @@
 "content_id": "por-t123-v2",
 "language": "por",
 "title": "servo"
+},
+"spa": {
+"content_id": "spa-t123-v2",
+"language": "spa",
+"title": "servant"
 }
 }
 },
@@ -6969,6 +7424,11 @@
 "content_id": "por-t124-v1",
 "language": "por",
 "title": "abrigo"
+},
+"spa": {
+"content_id": "spa-t124-v1",
+"language": "spa",
+"title": "shelter"
 }
 }
 },
@@ -7077,6 +7537,11 @@
 "content_id": "por-t126-v2",
 "language": "por",
 "title": "escravo"
+},
+"spa": {
+"content_id": "spa-t126-v2",
+"language": "spa",
+"title": "slave"
 }
 }
 },
@@ -7121,6 +7586,11 @@
 "content_id": "por-t127-v1",
 "language": "por",
 "title": "filho"
+},
+"spa": {
+"content_id": "spa-t127-v1",
+"language": "spa",
+"title": "son"
 }
 }
 },
@@ -7165,6 +7635,11 @@
 "content_id": "por-t128-v1",
 "language": "por",
 "title": "Filho de Davi"
+},
+"spa": {
+"content_id": "spa-t128-v1",
+"language": "spa",
+"title": "son-of-david"
 }
 }
 },
@@ -7214,6 +7689,11 @@
 "content_id": "rus-t129-v1",
 "language": "rus",
 "title": "Сын Божий"
+},
+"spa": {
+"content_id": "spa-t129-v1",
+"language": "spa",
+"title": "son-of-god"
 }
 }
 },
@@ -7263,6 +7743,11 @@
 "content_id": "por-t130-v1",
 "language": "por",
 "title": "Filho do Homem"
+},
+"spa": {
+"content_id": "spa-t130-v1",
+"language": "spa",
+"title": "son-of-man"
 }
 }
 },
@@ -7307,6 +7792,11 @@
 "content_id": "por-t131-v1",
 "language": "por",
 "title": "alma"
+},
+"spa": {
+"content_id": "spa-t131-v1",
+"language": "spa",
+"title": "soul"
 }
 }
 },
@@ -7351,6 +7841,11 @@
 "content_id": "por-t132-v1",
 "language": "por",
 "title": "espírito"
+},
+"spa": {
+"content_id": "spa-t132-v1",
+"language": "spa",
+"title": "spirit"
 }
 }
 },
@@ -7395,6 +7890,11 @@
 "content_id": "por-t133-v1",
 "language": "por",
 "title": "sinagoga"
+},
+"spa": {
+"content_id": "spa-t133-v1",
+"language": "spa",
+"title": "synagogue"
 }
 }
 },
@@ -7439,6 +7939,11 @@
 "content_id": "por-t134-v1",
 "language": "por",
 "title": "chefe da sinagoga"
+},
+"spa": {
+"content_id": "spa-t134-v1",
+"language": "spa",
+"title": "synagogue-ruler"
 }
 }
 },
@@ -7483,6 +7988,11 @@
 "content_id": "por-t135-v1",
 "language": "por",
 "title": "Fenícia da Síria"
+},
+"spa": {
+"content_id": "spa-t135-v1",
+"language": "spa",
+"title": "syrian-phoenicia"
 }
 }
 },
@@ -7527,6 +8037,11 @@
 "content_id": "por-t136-v1",
 "language": "por",
 "title": "mestre"
+},
+"spa": {
+"content_id": "spa-t136-v1",
+"language": "spa",
+"title": "teacher"
 }
 }
 },
@@ -7576,6 +8091,11 @@
 "content_id": "rus-t137-v1",
 "language": "rus",
 "title": "Учителя Закона"
+},
+"spa": {
+"content_id": "spa-t137-v1",
+"language": "spa",
+"title": "teachers-of-the-law"
 }
 }
 },
@@ -7625,6 +8145,11 @@
 "content_id": "por-t138-v1",
 "language": "por",
 "title": "templo"
+},
+"spa": {
+"content_id": "spa-t138-v1",
+"language": "spa",
+"title": "temple"
 }
 }
 },
@@ -7669,6 +8194,11 @@
 "content_id": "por-t139-v1",
 "language": "por",
 "title": "arrendatários"
+},
+"spa": {
+"content_id": "spa-t139-v1",
+"language": "spa",
+"title": "tenants"
 }
 }
 },
@@ -7713,6 +8243,11 @@
 "content_id": "por-t140-v1",
 "language": "por",
 "title": "túmulo"
+},
+"spa": {
+"content_id": "spa-t140-v1",
+"language": "spa",
+"title": "tomb"
 }
 }
 },
@@ -7757,6 +8292,11 @@
 "content_id": "por-t141-v1",
 "language": "por",
 "title": "Tiro"
+},
+"spa": {
+"content_id": "spa-t141-v1",
+"language": "spa",
+"title": "tyre"
 }
 }
 },
@@ -7801,6 +8341,11 @@
 "content_id": "por-t142-v1",
 "language": "por",
 "title": "vinha"
+},
+"spa": {
+"content_id": "spa-t142-v1",
+"language": "spa",
+"title": "vineyard"
 }
 }
 },
@@ -7845,6 +8390,11 @@
 "content_id": "por-t144-v1",
 "language": "por",
 "title": "torre de vigia"
+},
+"spa": {
+"content_id": "spa-t144-v1",
+"language": "spa",
+"title": "watchtower"
 }
 }
 },
@@ -7889,6 +8439,11 @@
 "content_id": "por-t145-v1",
 "language": "por",
 "title": "região desabitada"
+},
+"spa": {
+"content_id": "spa-t145-v1",
+"language": "spa",
+"title": "wilderness"
 }
 }
 },
@@ -7933,6 +8488,11 @@
 "content_id": "por-t146-v1",
 "language": "por",
 "title": "lagar"
+},
+"spa": {
+"content_id": "spa-t146-v1",
+"language": "spa",
+"title": "winepress"
 }
 }
 },
@@ -7977,6 +8537,11 @@
 "content_id": "por-t147-v1",
 "language": "por",
 "title": "sabedoria"
+},
+"spa": {
+"content_id": "spa-t147-v1",
+"language": "spa",
+"title": "wisdom"
 }
 }
 },
@@ -8021,6 +8586,11 @@
 "content_id": "por-t148-v1",
 "language": "por",
 "title": "Palavra"
+},
+"spa": {
+"content_id": "spa-t148-v1",
+"language": "spa",
+"title": "word"
 }
 }
 },
@@ -8065,6 +8635,11 @@
 "content_id": "por-t150-v1",
 "language": "por",
 "title": "coração"
+},
+"spa": {
+"content_id": "spa-t150-v1",
+"language": "spa",
+"title": "heart"
 }
 }
 },
@@ -8109,6 +8684,11 @@
 "content_id": "por-t151-v1",
 "language": "por",
 "title": "mente"
+},
+"spa": {
+"content_id": "spa-t151-v1",
+"language": "spa",
+"title": "mind"
 }
 }
 },
@@ -8153,6 +8733,11 @@
 "content_id": "por-t152-v1",
 "language": "por",
 "title": "força"
+},
+"spa": {
+"content_id": "spa-t152-v1",
+"language": "spa",
+"title": "strength"
 }
 }
 },
@@ -8197,6 +8782,11 @@
 "content_id": "por-t154-v1",
 "language": "por",
 "title": "oferta queimada"
+},
+"spa": {
+"content_id": "spa-t154-v1",
+"language": "spa",
+"title": "burnt-offering"
 }
 }
 },
@@ -8241,6 +8831,11 @@
 "content_id": "por-t155-v1",
 "language": "por",
 "title": "escriba"
+},
+"spa": {
+"content_id": "spa-t155-v1",
+"language": "spa",
+"title": "scribe"
 }
 }
 },
@@ -8285,6 +8880,11 @@
 "content_id": "por-t156-v1",
 "language": "por",
 "title": "sinal"
+},
+"spa": {
+"content_id": "spa-t156-v1",
+"language": "spa",
+"title": "sign"
 }
 }
 },
@@ -8329,6 +8929,11 @@
 "content_id": "por-t157-v1",
 "language": "por",
 "title": "reino"
+},
+"spa": {
+"content_id": "spa-t157-v1",
+"language": "spa",
+"title": "kingdom"
 }
 }
 },
@@ -8427,6 +9032,11 @@
 "content_id": "por-t162-v1",
 "language": "por",
 "title": "Páscoa"
+},
+"spa": {
+"content_id": "spa-t162-v1",
+"language": "spa",
+"title": "passover"
 }
 }
 },
@@ -8471,6 +9081,11 @@
 "content_id": "por-t164-v1",
 "language": "por",
 "title": "Festa dos Pães Asmos"
+},
+"spa": {
+"content_id": "spa-t164-v1",
+"language": "spa",
+"title": "festival-of-unleavened-bread"
 }
 }
 },
@@ -8515,6 +9130,11 @@
 "content_id": "por-t165-v1",
 "language": "por",
 "title": "hino"
+},
+"spa": {
+"content_id": "spa-t165-v1",
+"language": "spa",
+"title": "hymn"
 }
 }
 },
@@ -8559,6 +9179,11 @@
 "content_id": "por-t166-v1",
 "language": "por",
 "title": "pastor"
+},
+"spa": {
+"content_id": "spa-t166-v1",
+"language": "spa",
+"title": "shepherd"
 }
 }
 },
@@ -8602,6 +9227,11 @@
 "por": {
 "content_id": "por-t167-v1",
 "language": "por",
+"title": "abba"
+},
+"spa": {
+"content_id": "spa-t167-v1",
+"language": "spa",
 "title": "abba"
 }
 }
@@ -8647,6 +9277,11 @@
 "content_id": "por-t168-v1",
 "language": "por",
 "title": "sinédrio"
+},
+"spa": {
+"content_id": "spa-t168-v1",
+"language": "spa",
+"title": "sanhedrin"
 }
 }
 },
@@ -8691,6 +9326,11 @@
 "content_id": "por-t169-v1",
 "language": "por",
 "title": "crucificação"
+},
+"spa": {
+"content_id": "spa-t169-v1",
+"language": "spa",
+"title": "crucifixion"
 }
 }
 },
@@ -8735,6 +9375,11 @@
 "content_id": "por-t170-v1",
 "language": "por",
 "title": "centurião"
+},
+"spa": {
+"content_id": "spa-t170-v1",
+"language": "spa",
+"title": "centurion"
 }
 }
 },
@@ -8779,6 +9424,11 @@
 "content_id": "por-t171-v1",
 "language": "por",
 "title": "ungir"
+},
+"spa": {
+"content_id": "spa-t171-v1",
+"language": "spa",
+"title": "anoint"
 }
 }
 },
@@ -8823,6 +9473,11 @@
 "content_id": "por-t173-v1",
 "language": "por",
 "title": "gerações"
+},
+"spa": {
+"content_id": "spa-t173-v1",
+"language": "spa",
+"title": "generations"
 }
 }
 },
@@ -8867,6 +9522,11 @@
 "content_id": "por-t180-v1",
 "language": "por",
 "title": "túnica"
+},
+"spa": {
+"content_id": "spa-t180-v2",
+"language": "spa",
+"title": "tunic"
 }
 }
 },
@@ -8911,6 +9571,11 @@
 "content_id": "por-t181-v1",
 "language": "por",
 "title": "diabo"
+},
+"spa": {
+"content_id": "spa-t181-v1",
+"language": "spa",
+"title": "devil"
 }
 }
 },
@@ -8955,6 +9620,11 @@
 "content_id": "por-t183-v1",
 "language": "por",
 "title": "casa de Deus"
+},
+"spa": {
+"content_id": "spa-t183-v1",
+"language": "spa",
+"title": "house-of-god"
 }
 }
 },
@@ -8999,6 +9669,11 @@
 "content_id": "por-t184-v1",
 "language": "por",
 "title": "tabernáculo"
+},
+"spa": {
+"content_id": "spa-t184-v1",
+"language": "spa",
+"title": "tabernacle"
 }
 }
 },
@@ -9043,6 +9718,11 @@
 "content_id": "por-t187-v1",
 "language": "por",
 "title": "mal"
+},
+"spa": {
+"content_id": "spa-t187-v1",
+"language": "spa",
+"title": "evil"
 }
 }
 },
@@ -9087,6 +9767,11 @@
 "content_id": "por-t189-v1",
 "language": "por",
 "title": "Deus"
+},
+"spa": {
+"content_id": "spa-t189-v1",
+"language": "spa",
+"title": "god"
 }
 }
 },
@@ -9136,6 +9821,11 @@
 "content_id": "rus-t194-v1",
 "language": "rus",
 "title": "Приношение или жертва"
+},
+"spa": {
+"content_id": "spa-t194-v1",
+"language": "spa",
+"title": "offering"
 }
 }
 },
@@ -9185,6 +9875,11 @@
 "content_id": "por-t199-v1",
 "language": "por",
 "title": "glorificar"
+},
+"spa": {
+"content_id": "spa-t199-v1",
+"language": "spa",
+"title": "glorify"
 }
 }
 },
@@ -9229,6 +9924,11 @@
 "content_id": "por-t200-v1",
 "language": "por",
 "title": "profecia"
+},
+"spa": {
+"content_id": "spa-t200-v1",
+"language": "spa",
+"title": "prophecy"
 }
 }
 },
@@ -9278,6 +9978,11 @@
 "content_id": "rus-t205-v1",
 "language": "rus",
 "title": "Сострадание"
+},
+"spa": {
+"content_id": "spa-t205-v1",
+"language": "spa",
+"title": "compassion"
 }
 }
 },
@@ -9327,6 +10032,11 @@
 "content_id": "por-t211-v1",
 "language": "por",
 "title": "gregos"
+},
+"spa": {
+"content_id": "spa-t211-v1",
+"language": "spa",
+"title": "greeks"
 }
 }
 },
@@ -9371,6 +10081,11 @@
 "content_id": "por-t213-v1",
 "language": "por",
 "title": "línguas"
+},
+"spa": {
+"content_id": "spa-t213-v1",
+"language": "spa",
+"title": "tongues"
 }
 }
 },
@@ -9415,6 +10130,11 @@
 "content_id": "por-t215-v1",
 "language": "por",
 "title": "perversão"
+},
+"spa": {
+"content_id": "spa-t215-v1",
+"language": "spa",
+"title": "wickedness"
 }
 }
 },
@@ -9459,6 +10179,11 @@
 "content_id": "por-t226-v1",
 "language": "por",
 "title": "rei"
+},
+"spa": {
+"content_id": "spa-t226-v2",
+"language": "spa",
+"title": "king"
 }
 }
 },
@@ -9503,6 +10228,11 @@
 "content_id": "por-t236-v1",
 "language": "por",
 "title": "amém"
+},
+"spa": {
+"content_id": "spa-t236-v1",
+"language": "spa",
+"title": "amen"
 }
 }
 },
