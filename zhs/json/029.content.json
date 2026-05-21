@@ -78,12 +78,6 @@
 "end_ref_usfm": "MRK 12:37"
 },
 {
-"start_ref": "41013001",
-"start_ref_usfm": "MRK 13:1",
-"end_ref": "41013008",
-"end_ref_usfm": "MRK 13:8"
-},
-{
 "start_ref": "41013009",
 "start_ref_usfm": "MRK 13:9",
 "end_ref": "41013023",
@@ -610,6 +604,12 @@
 "start_ref_usfm": "GAL 6:11",
 "end_ref": "48006018",
 "end_ref_usfm": "GAL 6:18"
+},
+{
+"start_ref": "49001001",
+"start_ref_usfm": "EPH 1:1",
+"end_ref": "49001006",
+"end_ref_usfm": "EPH 1:6"
 }
 ],
 "resource": [],
@@ -617,7 +617,7 @@
 {
 "id": "person:Jesus.2",
 "type": "person",
-"confidence": 0.7005,
+"confidence": 0.7015,
 "match_method": "scored",
 "preferred_label": "Jesus"
 }
@@ -703,12 +703,6 @@
 "end_ref_usfm": "MRK 12:37"
 },
 {
-"start_ref": "41013001",
-"start_ref_usfm": "MRK 13:1",
-"end_ref": "41013008",
-"end_ref_usfm": "MRK 13:8"
-},
-{
 "start_ref": "41013009",
 "start_ref_usfm": "MRK 13:9",
 "end_ref": "41013023",
@@ -1235,6 +1229,12 @@
 "start_ref_usfm": "GAL 6:11",
 "end_ref": "48006018",
 "end_ref_usfm": "GAL 6:18"
+},
+{
+"start_ref": "49001001",
+"start_ref_usfm": "EPH 1:1",
+"end_ref": "49001006",
+"end_ref_usfm": "EPH 1:6"
 }
 ],
 "resource": []

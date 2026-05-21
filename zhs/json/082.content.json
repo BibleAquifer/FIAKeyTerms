@@ -480,6 +480,12 @@
 "end_ref_usfm": "NEH 7:25"
 },
 {
+"start_ref": "17002001",
+"start_ref_usfm": "EST 2:1",
+"end_ref": "17002011",
+"end_ref_usfm": "EST 2:11"
+},
+{
 "start_ref": "40010001",
 "start_ref_usfm": "MAT 10:1",
 "end_ref": "40010015",
@@ -581,7 +587,7 @@
 {
 "id": "place:Judea",
 "type": "place",
-"confidence": 0.6058,
+"confidence": 0.6057,
 "match_method": "scored",
 "preferred_label": "Judea"
 }
@@ -1067,6 +1073,12 @@
 "start_ref_usfm": "NEH 7:5",
 "end_ref": "16007025",
 "end_ref_usfm": "NEH 7:25"
+},
+{
+"start_ref": "17002001",
+"start_ref_usfm": "EST 2:1",
+"end_ref": "17002011",
+"end_ref_usfm": "EST 2:11"
 },
 {
 "start_ref": "40010001",

@@ -2930,12 +2930,6 @@
 "end_ref_usfm": "MRK 5:34"
 },
 {
-"start_ref": "41006045",
-"start_ref_usfm": "MRK 6:45",
-"end_ref": "41006056",
-"end_ref_usfm": "MRK 6:56"
-},
-{
 "start_ref": "41010046",
 "start_ref_usfm": "MRK 10:46",
 "end_ref": "41010052",
@@ -3153,12 +3147,6 @@
 "end_ref_usfm": "MRK 5:34"
 },
 {
-"start_ref": "41006045",
-"start_ref_usfm": "MRK 6:45",
-"end_ref": "41006056",
-"end_ref_usfm": "MRK 6:56"
-},
-{
 "start_ref": "41010046",
 "start_ref_usfm": "MRK 10:46",
 "end_ref": "41010052",
@@ -3319,12 +3307,6 @@
 "end_ref_usfm": "MRK 7:37"
 },
 {
-"start_ref": "41008027",
-"start_ref_usfm": "MRK 8:27",
-"end_ref": "41008030",
-"end_ref_usfm": "MRK 8:30"
-},
-{
 "start_ref": "41009030",
 "start_ref_usfm": "MRK 9:30",
 "end_ref": "41009050",
@@ -3414,21 +3396,21 @@
 {
 "id": "place:Galilee",
 "type": "place",
-"confidence": 0.6151,
+"confidence": 0.6153,
 "match_method": "scored",
 "preferred_label": "Galileia"
 },
 {
 "id": "place:GalileeSea",
 "type": "place",
-"confidence": 0.6069,
+"confidence": 0.607,
 "match_method": "scored",
 "preferred_label": "Sea of Galilee"
 },
 {
 "id": "place:Gennesaret",
 "type": "place",
-"confidence": 0.6041,
+"confidence": 0.6042,
 "match_method": "scored",
 "preferred_label": "Genesaré"
 }
@@ -3536,12 +3518,6 @@
 "start_ref_usfm": "MRK 7:31",
 "end_ref": "41007037",
 "end_ref_usfm": "MRK 7:37"
-},
-{
-"start_ref": "41008027",
-"start_ref_usfm": "MRK 8:27",
-"end_ref": "41008030",
-"end_ref_usfm": "MRK 8:30"
 },
 {
 "start_ref": "41009030",
@@ -4147,6 +4123,12 @@
 "end_ref_usfm": "JHN 20:31"
 },
 {
+"start_ref": "43021015",
+"start_ref_usfm": "JHN 21:15",
+"end_ref": "43021025",
+"end_ref_usfm": "JHN 21:25"
+},
+{
 "start_ref": "44005027",
 "start_ref_usfm": "ACT 5:27",
 "end_ref": "44005042",
@@ -4188,7 +4170,7 @@
 {
 "id": "person:Jesus.2",
 "type": "person",
-"confidence": 0.6937,
+"confidence": 0.697,
 "match_method": "scored",
 "preferred_label": "Jesus"
 }
@@ -4476,6 +4458,12 @@
 "start_ref_usfm": "JHN 20:19",
 "end_ref": "43020031",
 "end_ref_usfm": "JHN 20:31"
+},
+{
+"start_ref": "43021015",
+"start_ref_usfm": "JHN 21:15",
+"end_ref": "43021025",
+"end_ref_usfm": "JHN 21:25"
 },
 {
 "start_ref": "44005027",
@@ -6618,6 +6606,12 @@
 "end_ref_usfm": "1CH 21:17"
 },
 {
+"start_ref": "17004001",
+"start_ref_usfm": "EST 4:1",
+"end_ref": "17004011",
+"end_ref_usfm": "EST 4:11"
+},
+{
 "start_ref": "40005001",
 "start_ref_usfm": "MAT 5:1",
 "end_ref": "40005012",
@@ -6935,6 +6929,12 @@
 "start_ref_usfm": "1CH 21:7",
 "end_ref": "13021017",
 "end_ref_usfm": "1CH 21:17"
+},
+{
+"start_ref": "17004001",
+"start_ref_usfm": "EST 4:1",
+"end_ref": "17004011",
+"end_ref_usfm": "EST 4:11"
 },
 {
 "start_ref": "40005001",

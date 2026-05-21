@@ -300,12 +300,6 @@
 "end_ref_usfm": "MRK 2:17"
 },
 {
-"start_ref": "41003007",
-"start_ref_usfm": "MRK 3:7",
-"end_ref": "41003012",
-"end_ref_usfm": "MRK 3:12"
-},
-{
 "start_ref": "41003020",
 "start_ref_usfm": "MRK 3:20",
 "end_ref": "41003035",
@@ -352,6 +346,12 @@
 "start_ref_usfm": "LUK 2:41",
 "end_ref": "42002052",
 "end_ref_usfm": "LUK 2:52"
+},
+{
+"start_ref": "42004001",
+"start_ref_usfm": "LUK 4:1",
+"end_ref": "42004013",
+"end_ref_usfm": "LUK 4:13"
 },
 {
 "start_ref": "42004014",
@@ -557,7 +557,7 @@
 {
 "id": "place:Jerusalem",
 "type": "place",
-"confidence": 0.6489,
+"confidence": 0.6486,
 "match_method": "scored",
 "preferred_label": "Jerusalem"
 },
@@ -872,12 +872,6 @@
 "end_ref_usfm": "MRK 2:17"
 },
 {
-"start_ref": "41003007",
-"start_ref_usfm": "MRK 3:7",
-"end_ref": "41003012",
-"end_ref_usfm": "MRK 3:12"
-},
-{
 "start_ref": "41003020",
 "start_ref_usfm": "MRK 3:20",
 "end_ref": "41003035",
@@ -924,6 +918,12 @@
 "start_ref_usfm": "LUK 2:41",
 "end_ref": "42002052",
 "end_ref_usfm": "LUK 2:52"
+},
+{
+"start_ref": "42004001",
+"start_ref_usfm": "LUK 4:1",
+"end_ref": "42004013",
+"end_ref_usfm": "LUK 4:13"
 },
 {
 "start_ref": "42004014",

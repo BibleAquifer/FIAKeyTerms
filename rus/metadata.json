@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Familiarization, Internalization, Articulation (FIA) Key Terms</b> © 2023 SRV Partners Released under CC BY-SA 4.0 license. <cite>Familiarization, Internalization, Articulation (FIA) Key Terms</cite> has been adapted in the following languages Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Familiarization, Internalization, Articulation (FIA)</cite> © 2023 SRV Partners. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "FIAKeyTerms",
-"date_created": "2026-05-11",
+"date_created": "2026-05-20",
 "language": "rus",
 "localizations": [
 "eng",
@@ -47,7 +47,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-05-11T13:54:57.814730"
+"dateCreated": "2026-05-20T10:32:47.078111"
 },
 "idAuthorities": {
 "aquifer": {
@@ -61,7 +61,7 @@
 "primary": {
 "aquifer": {
 "FIAKeyTerms": {
-"timestamp": "2026-05-11T13:54:57.814730"
+"timestamp": "2026-05-20T10:32:47.078111"
 }
 }
 },
@@ -102,7 +102,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 5536,
+"size": 5421,
 "scope": {
 "б": [
 "Бес"
@@ -111,7 +111,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 20847,
+"size": 20615,
 "scope": {
 "в": [
 "Вера/верить",
@@ -122,7 +122,7 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 15456,
+"size": 16037,
 "scope": {
 "г": [
 "Галилея",
@@ -150,7 +150,7 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 12178,
+"size": 12182,
 "scope": {
 "ж": [
 "Жертва/ жертвоприношение"
@@ -178,7 +178,7 @@
 },
 "json/010.content.json": {
 "mimeType": "text/json",
-"size": 7034,
+"size": 7148,
 "scope": {
 "к": [
 "Капернаум",
@@ -188,7 +188,7 @@
 },
 "json/011.content.json": {
 "mimeType": "text/json",
-"size": 2392,
+"size": 2508,
 "scope": {
 "л": [
 "Лодка"
@@ -197,7 +197,7 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 13453,
+"size": 13337,
 "scope": {
 "м": [
 "Молиться",
@@ -207,7 +207,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 14380,
+"size": 14494,
 "scope": {
 "н": [
 "Назарет",
@@ -226,7 +226,7 @@
 },
 "json/015.content.json": {
 "mimeType": "text/json",
-"size": 30639,
+"size": 30641,
 "scope": {
 "п": [
 "Приношение или жертва",
@@ -270,7 +270,7 @@
 },
 "json/019.content.json": {
 "mimeType": "text/json",
-"size": 12041,
+"size": 12039,
 "scope": {
 "х": [
 "Христос"
@@ -310,15 +310,15 @@
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 1890
+"size": 1866
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 5768
+"size": 5718
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
-"size": 4075
+"size": 4196
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
@@ -330,7 +330,7 @@
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
-"size": 3311
+"size": 3350
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
@@ -338,23 +338,23 @@
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 3793
+"size": 3791
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 2297
+"size": 2320
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 1187
+"size": 1212
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 3846
+"size": 3821
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 4005
+"size": 4028
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
@@ -362,7 +362,7 @@
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 7979
+"size": 7996
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
@@ -378,7 +378,7 @@
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 3663
+"size": 3666
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
@@ -482,91 +482,91 @@
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
-"size": 53135
+"size": 43668
 },
 "pdf/002.content.pdf": {
 "mimeType": "application/pdf",
-"size": 52099
+"size": 43063
 },
 "pdf/003.content.pdf": {
 "mimeType": "application/pdf",
-"size": 58073
+"size": 48506
 },
 "pdf/004.content.pdf": {
 "mimeType": "application/pdf",
-"size": 55582
+"size": 45860
 },
 "pdf/005.content.pdf": {
 "mimeType": "application/pdf",
-"size": 54376
+"size": 44591
 },
 "pdf/006.content.pdf": {
 "mimeType": "application/pdf",
-"size": 53628
+"size": 44031
 },
 "pdf/007.content.pdf": {
 "mimeType": "application/pdf",
-"size": 55456
+"size": 45406
 },
 "pdf/008.content.pdf": {
 "mimeType": "application/pdf",
-"size": 52909
+"size": 43590
 },
 "pdf/009.content.pdf": {
 "mimeType": "application/pdf",
-"size": 56708
+"size": 46871
 },
 "pdf/010.content.pdf": {
 "mimeType": "application/pdf",
-"size": 56102
+"size": 46215
 },
 "pdf/011.content.pdf": {
 "mimeType": "application/pdf",
-"size": 52737
+"size": 43441
 },
 "pdf/012.content.pdf": {
 "mimeType": "application/pdf",
-"size": 56916
+"size": 47054
 },
 "pdf/013.content.pdf": {
 "mimeType": "application/pdf",
-"size": 55070
+"size": 45896
 },
 "pdf/014.content.pdf": {
 "mimeType": "application/pdf",
-"size": 55134
+"size": 45607
 },
 "pdf/015.content.pdf": {
 "mimeType": "application/pdf",
-"size": 63141
+"size": 52987
 },
 "pdf/016.content.pdf": {
 "mimeType": "application/pdf",
-"size": 54842
+"size": 45235
 },
 "pdf/017.content.pdf": {
 "mimeType": "application/pdf",
-"size": 61416
+"size": 51677
 },
 "pdf/018.content.pdf": {
 "mimeType": "application/pdf",
-"size": 54560
+"size": 44817
 },
 "pdf/019.content.pdf": {
 "mimeType": "application/pdf",
-"size": 53406
+"size": 43754
 },
 "pdf/020.content.pdf": {
 "mimeType": "application/pdf",
-"size": 54741
+"size": 45045
 },
 "pdf/021.content.pdf": {
 "mimeType": "application/pdf",
-"size": 53850
+"size": 44234
 },
 "pdf/022.content.pdf": {
 "mimeType": "application/pdf",
-"size": 53981
+"size": 44343
 }
 },
 "copyright": {

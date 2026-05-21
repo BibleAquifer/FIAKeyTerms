@@ -876,7 +876,7 @@
 {
 "id": "keyterm:Slaughtering",
 "type": "keyterm",
-"confidence": 0.5699,
+"confidence": 0.5701,
 "match_method": "scored",
 "preferred_label": "sacrificio"
 }
@@ -8746,18 +8746,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Phoenicia",
-"type": "place",
-"confidence": 0.6571,
-"match_method": "scored",
-"preferred_label": "Fenicia"
-},
-{
 "id": "group:Phoenicia",
 "type": "group",
 "confidence": 0.6571,
 "match_method": "scored",
 "preferred_label": "mujer sirofenicia"
+},
+{
+"id": "place:Phoenicia",
+"type": "place",
+"confidence": 0.6571,
+"match_method": "scored",
+"preferred_label": "Fenicia"
 }
 ]
 }

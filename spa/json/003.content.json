@@ -159,6 +159,12 @@
 "end_ref_usfm": "MRK 2:17"
 },
 {
+"start_ref": "41006001",
+"start_ref_usfm": "MRK 6:1",
+"end_ref": "41006006",
+"end_ref_usfm": "MRK 6:6"
+},
+{
 "start_ref": "41009030",
 "start_ref_usfm": "MRK 9:30",
 "end_ref": "41009050",
@@ -248,7 +254,7 @@
 {
 "id": "place:Capernaum",
 "type": "place",
-"confidence": 0.6229,
+"confidence": 0.6221,
 "match_method": "scored",
 "preferred_label": "Capernaum"
 }
@@ -284,6 +290,12 @@
 "start_ref_usfm": "MRK 2:13",
 "end_ref": "41002017",
 "end_ref_usfm": "MRK 2:17"
+},
+{
+"start_ref": "41006001",
+"start_ref_usfm": "MRK 6:1",
+"end_ref": "41006006",
+"end_ref_usfm": "MRK 6:6"
 },
 {
 "start_ref": "41009030",
@@ -1576,7 +1588,7 @@
 {
 "id": "person:Jesus.2",
 "type": "person",
-"confidence": 0.7005,
+"confidence": 0.7015,
 "match_method": "scored",
 "preferred_label": "Jesús"
 }

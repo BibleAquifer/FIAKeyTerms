@@ -512,12 +512,6 @@
 "end_ref_usfm": "MRK 7:37"
 },
 {
-"start_ref": "41008027",
-"start_ref_usfm": "MRK 8:27",
-"end_ref": "41008030",
-"end_ref_usfm": "MRK 8:30"
-},
-{
 "start_ref": "41009030",
 "start_ref_usfm": "MRK 9:30",
 "end_ref": "41009050",
@@ -607,21 +601,21 @@
 {
 "id": "place:Galilee",
 "type": "place",
-"confidence": 0.6151,
+"confidence": 0.6153,
 "match_method": "scored",
 "preferred_label": "Galilea"
 },
 {
 "id": "place:GalileeSea",
 "type": "place",
-"confidence": 0.6069,
+"confidence": 0.607,
 "match_method": "scored",
 "preferred_label": "Sea of Galilee"
 },
 {
 "id": "place:Gennesaret",
 "type": "place",
-"confidence": 0.6041,
+"confidence": 0.6042,
 "match_method": "scored",
 "preferred_label": "Genezaret"
 }
@@ -729,12 +723,6 @@
 "start_ref_usfm": "MRK 7:31",
 "end_ref": "41007037",
 "end_ref_usfm": "MRK 7:37"
-},
-{
-"start_ref": "41008027",
-"start_ref_usfm": "MRK 8:27",
-"end_ref": "41008030",
-"end_ref_usfm": "MRK 8:30"
 },
 {
 "start_ref": "41009030",
@@ -1504,7 +1492,7 @@
 {
 "id": "person:Jesus.2",
 "type": "person",
-"confidence": 0.6937,
+"confidence": 0.697,
 "match_method": "scored",
 "preferred_label": "Jesús"
 }

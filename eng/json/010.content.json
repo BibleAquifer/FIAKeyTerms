@@ -353,12 +353,6 @@
 "end_ref_usfm": "MRK 2:17"
 },
 {
-"start_ref": "41003007",
-"start_ref_usfm": "MRK 3:7",
-"end_ref": "41003012",
-"end_ref_usfm": "MRK 3:12"
-},
-{
 "start_ref": "41003020",
 "start_ref_usfm": "MRK 3:20",
 "end_ref": "41003035",
@@ -405,6 +399,12 @@
 "start_ref_usfm": "LUK 2:41",
 "end_ref": "42002052",
 "end_ref_usfm": "LUK 2:52"
+},
+{
+"start_ref": "42004001",
+"start_ref_usfm": "LUK 4:1",
+"end_ref": "42004013",
+"end_ref_usfm": "LUK 4:13"
 },
 {
 "start_ref": "42004014",
@@ -610,7 +610,7 @@
 {
 "id": "place:Jerusalem",
 "type": "place",
-"confidence": 0.6489,
+"confidence": 0.6486,
 "match_method": "scored",
 "preferred_label": "Jerusalem"
 },
@@ -925,12 +925,6 @@
 "end_ref_usfm": "MRK 2:17"
 },
 {
-"start_ref": "41003007",
-"start_ref_usfm": "MRK 3:7",
-"end_ref": "41003012",
-"end_ref_usfm": "MRK 3:12"
-},
-{
 "start_ref": "41003020",
 "start_ref_usfm": "MRK 3:20",
 "end_ref": "41003035",
@@ -977,6 +971,12 @@
 "start_ref_usfm": "LUK 2:41",
 "end_ref": "42002052",
 "end_ref_usfm": "LUK 2:52"
+},
+{
+"start_ref": "42004001",
+"start_ref_usfm": "LUK 4:1",
+"end_ref": "42004013",
+"end_ref_usfm": "LUK 4:13"
 },
 {
 "start_ref": "42004014",
@@ -1293,6 +1293,18 @@
 "start_ref_usfm": "NEH 6:1",
 "end_ref": "16006014",
 "end_ref_usfm": "NEH 6:14"
+},
+{
+"start_ref": "17003007",
+"start_ref_usfm": "EST 3:7",
+"end_ref": "17003015",
+"end_ref_usfm": "EST 3:15"
+},
+{
+"start_ref": "17004001",
+"start_ref_usfm": "EST 4:1",
+"end_ref": "17004011",
+"end_ref_usfm": "EST 4:11"
 },
 {
 "start_ref": "40002001",
@@ -1744,7 +1756,7 @@
 {
 "id": "place:Jerusalem",
 "type": "place",
-"confidence": 0.5625,
+"confidence": 0.5619,
 "match_method": "scored",
 "preferred_label": "Jerusalem"
 }
@@ -1864,6 +1876,18 @@
 "start_ref_usfm": "NEH 6:1",
 "end_ref": "16006014",
 "end_ref_usfm": "NEH 6:14"
+},
+{
+"start_ref": "17003007",
+"start_ref_usfm": "EST 3:7",
+"end_ref": "17003015",
+"end_ref_usfm": "EST 3:15"
+},
+{
+"start_ref": "17004001",
+"start_ref_usfm": "EST 4:1",
+"end_ref": "17004011",
+"end_ref_usfm": "EST 4:11"
 },
 {
 "start_ref": "40002001",
@@ -3674,6 +3698,12 @@
 "end_ref_usfm": "NEH 7:25"
 },
 {
+"start_ref": "17002001",
+"start_ref_usfm": "EST 2:1",
+"end_ref": "17002011",
+"end_ref_usfm": "EST 2:11"
+},
+{
 "start_ref": "40010001",
 "start_ref_usfm": "MAT 10:1",
 "end_ref": "40010015",
@@ -3775,7 +3805,7 @@
 {
 "id": "place:Judea",
 "type": "place",
-"confidence": 0.6058,
+"confidence": 0.6057,
 "match_method": "scored",
 "preferred_label": "Judea"
 }
@@ -4261,6 +4291,12 @@
 "start_ref_usfm": "NEH 7:5",
 "end_ref": "16007025",
 "end_ref_usfm": "NEH 7:25"
+},
+{
+"start_ref": "17002001",
+"start_ref_usfm": "EST 2:1",
+"end_ref": "17002011",
+"end_ref_usfm": "EST 2:11"
 },
 {
 "start_ref": "40010001",
@@ -5064,6 +5100,12 @@
 "end_ref_usfm": "2CH 9:12"
 },
 {
+"start_ref": "17001010",
+"start_ref_usfm": "EST 1:10",
+"end_ref": "17001022",
+"end_ref_usfm": "EST 1:22"
+},
+{
 "start_ref": "40023023",
 "start_ref_usfm": "MAT 23:23",
 "end_ref": "40023028",
@@ -5181,6 +5223,12 @@
 "start_ref_usfm": "2CH 9:1",
 "end_ref": "14009012",
 "end_ref_usfm": "2CH 9:12"
+},
+{
+"start_ref": "17001010",
+"start_ref_usfm": "EST 1:10",
+"end_ref": "17001022",
+"end_ref_usfm": "EST 1:22"
 },
 {
 "start_ref": "40023023",
