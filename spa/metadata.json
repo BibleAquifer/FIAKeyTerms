@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Familiarization, Internalization, Articulation (FIA) Key Terms</b> © 2023 SRV Partners Released under CC BY-SA 4.0 license. <cite>Familiarization, Internalization, Articulation (FIA) Key Terms</cite> has been adapted in the following languages Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Familiarization, Internalization, Articulation (FIA)</cite> © 2023 SRV Partners. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "FIAKeyTerms",
-"date_created": "2026-05-11",
+"date_created": "2026-05-20",
 "language": "spa",
 "localizations": [
 "eng",
@@ -47,7 +47,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-05-11T13:54:58.022801"
+"dateCreated": "2026-05-20T10:32:47.191475"
 },
 "idAuthorities": {
 "aquifer": {
@@ -61,7 +61,7 @@
 "primary": {
 "aquifer": {
 "FIAKeyTerms": {
-"timestamp": "2026-05-11T13:54:58.022801"
+"timestamp": "2026-05-20T10:32:47.191475"
 }
 }
 },
@@ -115,7 +115,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 75368,
+"size": 75834,
 "scope": {
 "b": [
 "baptism",
@@ -138,7 +138,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 121662,
+"size": 121890,
 "scope": {
 "c": [
 "caesar",
@@ -336,7 +336,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 49157,
+"size": 48925,
 "scope": {
 "m": [
 "maestro",
@@ -529,11 +529,11 @@
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 27578
+"size": 27642
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 46529
+"size": 46557
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
@@ -573,7 +573,7 @@
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 19372
+"size": 19340
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
@@ -709,95 +709,95 @@
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
-"size": 119400
+"size": 108880
 },
 "pdf/002.content.pdf": {
 "mimeType": "application/pdf",
-"size": 125424
+"size": 116825
 },
 "pdf/003.content.pdf": {
 "mimeType": "application/pdf",
-"size": 167360
+"size": 160337
 },
 "pdf/004.content.pdf": {
 "mimeType": "application/pdf",
-"size": 110450
+"size": 101846
 },
 "pdf/005.content.pdf": {
 "mimeType": "application/pdf",
-"size": 99151
+"size": 89006
 },
 "pdf/006.content.pdf": {
 "mimeType": "application/pdf",
-"size": 113996
+"size": 104279
 },
 "pdf/007.content.pdf": {
 "mimeType": "application/pdf",
-"size": 107572
+"size": 99826
 },
 "pdf/008.content.pdf": {
 "mimeType": "application/pdf",
-"size": 154684
+"size": 147227
 },
 "pdf/009.content.pdf": {
 "mimeType": "application/pdf",
-"size": 87687
+"size": 78918
 },
 "pdf/010.content.pdf": {
 "mimeType": "application/pdf",
-"size": 116523
+"size": 108005
 },
 "pdf/011.content.pdf": {
 "mimeType": "application/pdf",
-"size": 71484
+"size": 61099
 },
 "pdf/012.content.pdf": {
 "mimeType": "application/pdf",
-"size": 76687
+"size": 66882
 },
 "pdf/013.content.pdf": {
 "mimeType": "application/pdf",
-"size": 112361
+"size": 103460
 },
 "pdf/014.content.pdf": {
 "mimeType": "application/pdf",
-"size": 55026
+"size": 45140
 },
 "pdf/015.content.pdf": {
 "mimeType": "application/pdf",
-"size": 58547
+"size": 48418
 },
 "pdf/016.content.pdf": {
 "mimeType": "application/pdf",
-"size": 189198
+"size": 182718
 },
 "pdf/017.content.pdf": {
 "mimeType": "application/pdf",
-"size": 78638
+"size": 68787
 },
 "pdf/018.content.pdf": {
 "mimeType": "application/pdf",
-"size": 236099
+"size": 229732
 },
 "pdf/019.content.pdf": {
 "mimeType": "application/pdf",
-"size": 132202
+"size": 123900
 },
 "pdf/020.content.pdf": {
 "mimeType": "application/pdf",
-"size": 61213
+"size": 51350
 },
 "pdf/021.content.pdf": {
 "mimeType": "application/pdf",
-"size": 76468
+"size": 66124
 },
 "pdf/022.content.pdf": {
 "mimeType": "application/pdf",
-"size": 61392
+"size": 51157
 },
 "pdf/023.content.pdf": {
 "mimeType": "application/pdf",
-"size": 51625
+"size": 42053
 }
 },
 "copyright": {

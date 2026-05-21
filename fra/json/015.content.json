@@ -1205,12 +1205,6 @@
 "end_ref_usfm": "MAT 16:12"
 },
 {
-"start_ref": "41006030",
-"start_ref_usfm": "MRK 6:30",
-"end_ref": "41006044",
-"end_ref_usfm": "MRK 6:44"
-},
-{
 "start_ref": "41008001",
 "start_ref_usfm": "MRK 8:1",
 "end_ref": "41008010",
@@ -1276,12 +1270,6 @@
 "start_ref_usfm": "MAT 16:1",
 "end_ref": "40016012",
 "end_ref_usfm": "MAT 16:12"
-},
-{
-"start_ref": "41006030",
-"start_ref_usfm": "MRK 6:30",
-"end_ref": "41006044",
-"end_ref_usfm": "MRK 6:44"
 },
 {
 "start_ref": "41008001",
@@ -6378,12 +6366,6 @@
 "end_ref_usfm": "MRK 3:6"
 },
 {
-"start_ref": "41003020",
-"start_ref_usfm": "MRK 3:20",
-"end_ref": "41003035",
-"end_ref_usfm": "MRK 3:35"
-},
-{
 "start_ref": "41007001",
 "start_ref_usfm": "MRK 7:1",
 "end_ref": "41007008",
@@ -6599,7 +6581,7 @@
 {
 "id": "group:Pharisee",
 "type": "group",
-"confidence": 0.6222,
+"confidence": 0.6234,
 "match_method": "scored",
 "preferred_label": "Pharisien"
 }
@@ -6761,12 +6743,6 @@
 "start_ref_usfm": "MRK 2:23",
 "end_ref": "41003006",
 "end_ref_usfm": "MRK 3:6"
-},
-{
-"start_ref": "41003020",
-"start_ref_usfm": "MRK 3:20",
-"end_ref": "41003035",
-"end_ref_usfm": "MRK 3:35"
 },
 {
 "start_ref": "41007001",
@@ -8694,6 +8670,12 @@
 "end_ref_usfm": "2CH 28:15"
 },
 {
+"start_ref": "14029018",
+"start_ref_usfm": "2CH 29:18",
+"end_ref": "14029030",
+"end_ref_usfm": "2CH 29:30"
+},
+{
 "start_ref": "15005001",
 "start_ref_usfm": "EZR 5:1",
 "end_ref": "15005005",
@@ -8878,12 +8860,6 @@
 "start_ref_usfm": "MRK 6:14",
 "end_ref": "41006029",
 "end_ref_usfm": "MRK 6:29"
-},
-{
-"start_ref": "41008027",
-"start_ref_usfm": "MRK 8:27",
-"end_ref": "41008030",
-"end_ref_usfm": "MRK 8:30"
 }
 ],
 "resource": [],
@@ -9311,6 +9287,12 @@
 "end_ref_usfm": "2CH 28:15"
 },
 {
+"start_ref": "14029018",
+"start_ref_usfm": "2CH 29:18",
+"end_ref": "14029030",
+"end_ref_usfm": "2CH 29:30"
+},
+{
 "start_ref": "15005001",
 "start_ref_usfm": "EZR 5:1",
 "end_ref": "15005005",
@@ -9495,12 +9477,6 @@
 "start_ref_usfm": "MRK 6:14",
 "end_ref": "41006029",
 "end_ref_usfm": "MRK 6:29"
-},
-{
-"start_ref": "41008027",
-"start_ref_usfm": "MRK 8:27",
-"end_ref": "41008030",
-"end_ref_usfm": "MRK 8:30"
 }
 ],
 "resource": []
@@ -10055,6 +10031,12 @@
 "end_ref_usfm": "2CH 29:17"
 },
 {
+"start_ref": "14029018",
+"start_ref_usfm": "2CH 29:18",
+"end_ref": "14029030",
+"end_ref_usfm": "2CH 29:30"
+},
+{
 "start_ref": "15006019",
 "start_ref_usfm": "EZR 6:19",
 "end_ref": "15006022",
@@ -10178,6 +10160,12 @@
 "start_ref_usfm": "2CH 29:1",
 "end_ref": "14029017",
 "end_ref_usfm": "2CH 29:17"
+},
+{
+"start_ref": "14029018",
+"start_ref_usfm": "2CH 29:18",
+"end_ref": "14029030",
+"end_ref_usfm": "2CH 29:30"
 },
 {
 "start_ref": "15006019",

@@ -282,6 +282,12 @@
 "end_ref_usfm": "JHN 20:31"
 },
 {
+"start_ref": "43021015",
+"start_ref_usfm": "JHN 21:15",
+"end_ref": "43021025",
+"end_ref_usfm": "JHN 21:25"
+},
+{
 "start_ref": "44005027",
 "start_ref_usfm": "ACT 5:27",
 "end_ref": "44005042",
@@ -323,7 +329,7 @@
 {
 "id": "person:Jesus.2",
 "type": "person",
-"confidence": 0.6937,
+"confidence": 0.697,
 "match_method": "scored",
 "preferred_label": "Jesus"
 }
@@ -611,6 +617,12 @@
 "start_ref_usfm": "JHN 20:19",
 "end_ref": "43020031",
 "end_ref_usfm": "JHN 20:31"
+},
+{
+"start_ref": "43021015",
+"start_ref_usfm": "JHN 21:15",
+"end_ref": "43021025",
+"end_ref_usfm": "JHN 21:25"
 },
 {
 "start_ref": "44005027",

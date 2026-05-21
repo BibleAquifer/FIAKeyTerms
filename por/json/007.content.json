@@ -131,6 +131,12 @@
 "end_ref_usfm": "MAT 28:20"
 },
 {
+"start_ref": "41001014",
+"start_ref_usfm": "MRK 1:14",
+"end_ref": "41001020",
+"end_ref_usfm": "MRK 1:20"
+},
+{
 "start_ref": "41001021",
 "start_ref_usfm": "MRK 1:21",
 "end_ref": "41001028",
@@ -149,10 +155,22 @@
 "end_ref_usfm": "MRK 6:29"
 },
 {
+"start_ref": "41008027",
+"start_ref_usfm": "MRK 8:27",
+"end_ref": "41008030",
+"end_ref_usfm": "MRK 8:30"
+},
+{
 "start_ref": "41009030",
 "start_ref_usfm": "MRK 9:30",
 "end_ref": "41009050",
 "end_ref_usfm": "MRK 9:50"
+},
+{
+"start_ref": "41014027",
+"start_ref_usfm": "MRK 14:27",
+"end_ref": "41014031",
+"end_ref_usfm": "MRK 14:31"
 },
 {
 "start_ref": "41014066",
@@ -179,10 +197,22 @@
 "end_ref_usfm": "LUK 1:38"
 },
 {
+"start_ref": "42003001",
+"start_ref_usfm": "LUK 3:1",
+"end_ref": "42003014",
+"end_ref_usfm": "LUK 3:14"
+},
+{
 "start_ref": "42004014",
 "start_ref_usfm": "LUK 4:14",
 "end_ref": "42004030",
 "end_ref_usfm": "LUK 4:30"
+},
+{
+"start_ref": "42008026",
+"start_ref_usfm": "LUK 8:26",
+"end_ref": "42008039",
+"end_ref_usfm": "LUK 8:39"
 },
 {
 "start_ref": "42008040",
@@ -232,21 +262,21 @@
 {
 "id": "place:Galilee",
 "type": "place",
-"confidence": 0.6373,
+"confidence": 0.6372,
 "match_method": "scored",
 "preferred_label": "Galileia"
 },
 {
 "id": "place:Judea",
 "type": "place",
-"confidence": 0.61,
+"confidence": 0.6099,
 "match_method": "scored",
 "preferred_label": "Judeia"
 },
 {
 "id": "group:Galilee",
 "type": "group",
-"confidence": 0.6057,
+"confidence": 0.605,
 "match_method": "scored",
 "preferred_label": "Galileans"
 }
@@ -320,6 +350,12 @@
 "end_ref_usfm": "MAT 28:20"
 },
 {
+"start_ref": "41001014",
+"start_ref_usfm": "MRK 1:14",
+"end_ref": "41001020",
+"end_ref_usfm": "MRK 1:20"
+},
+{
 "start_ref": "41001021",
 "start_ref_usfm": "MRK 1:21",
 "end_ref": "41001028",
@@ -338,10 +374,22 @@
 "end_ref_usfm": "MRK 6:29"
 },
 {
+"start_ref": "41008027",
+"start_ref_usfm": "MRK 8:27",
+"end_ref": "41008030",
+"end_ref_usfm": "MRK 8:30"
+},
+{
 "start_ref": "41009030",
 "start_ref_usfm": "MRK 9:30",
 "end_ref": "41009050",
 "end_ref_usfm": "MRK 9:50"
+},
+{
+"start_ref": "41014027",
+"start_ref_usfm": "MRK 14:27",
+"end_ref": "41014031",
+"end_ref_usfm": "MRK 14:31"
 },
 {
 "start_ref": "41014066",
@@ -368,10 +416,22 @@
 "end_ref_usfm": "LUK 1:38"
 },
 {
+"start_ref": "42003001",
+"start_ref_usfm": "LUK 3:1",
+"end_ref": "42003014",
+"end_ref_usfm": "LUK 3:14"
+},
+{
 "start_ref": "42004014",
 "start_ref_usfm": "LUK 4:14",
 "end_ref": "42004030",
 "end_ref_usfm": "LUK 4:30"
+},
+{
+"start_ref": "42008026",
+"start_ref_usfm": "LUK 8:26",
+"end_ref": "42008039",
+"end_ref_usfm": "LUK 8:39"
 },
 {
 "start_ref": "42008040",
