@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Familiarization, Internalization, Articulation (FIA) Key Terms</b> © 2023 SRV Partners Released under CC BY-SA 4.0 license. <cite>Familiarization, Internalization, Articulation (FIA) Key Terms</cite> has been adapted in the following languages Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Familiarization, Internalization, Articulation (FIA)</cite> © 2023 SRV Partners. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "FIAKeyTerms",
-"date_created": "2026-05-20",
+"date_created": "2026-06-03",
 "language": "fra",
 "localizations": [
 "eng",
@@ -47,7 +47,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-05-20T10:32:45.503072"
+"dateCreated": "2026-06-03T17:17:38.957597"
 },
 "idAuthorities": {
 "aquifer": {
@@ -61,7 +61,7 @@
 "primary": {
 "aquifer": {
 "FIAKeyTerms": {
-"timestamp": "2026-05-20T10:32:45.503072"
+"timestamp": "2026-06-03T17:17:38.957597"
 }
 }
 },
@@ -804,86 +804,6 @@
 "md/020.content.md": {
 "mimeType": "text/markdown",
 "size": 7915
-},
-"docx/001.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 53950
-},
-"docx/002.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 48701
-},
-"docx/003.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 56615
-},
-"docx/004.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 50904
-},
-"docx/005.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 52594
-},
-"docx/006.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 50991
-},
-"docx/007.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 47790
-},
-"docx/008.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 47021
-},
-"docx/009.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46595
-},
-"docx/010.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 52259
-},
-"docx/011.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 48011
-},
-"docx/012.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 52664
-},
-"docx/013.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42879
-},
-"docx/014.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44931
-},
-"docx/015.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 60558
-},
-"docx/016.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 49107
-},
-"docx/017.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 62447
-},
-"docx/018.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 49988
-},
-"docx/019.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45184
-},
-"docx/020.content.docx": {
-"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43950
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
