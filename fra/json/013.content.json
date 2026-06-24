@@ -120,6 +120,12 @@
 "end_ref_usfm": "EXO 34:28"
 },
 {
+"start_ref": "03018024",
+"start_ref_usfm": "LEV 18:24",
+"end_ref": "03018030",
+"end_ref_usfm": "LEV 18:30"
+},
+{
 "start_ref": "04023007",
 "start_ref_usfm": "NUM 23:7",
 "end_ref": "04023012",
@@ -352,6 +358,18 @@
 "start_ref_usfm": "2CH 28:1",
 "end_ref": "14028008",
 "end_ref_usfm": "2CH 28:8"
+},
+{
+"start_ref": "14032009",
+"start_ref_usfm": "2CH 32:9",
+"end_ref": "14032023",
+"end_ref_usfm": "2CH 32:23"
+},
+{
+"start_ref": "14033001",
+"start_ref_usfm": "2CH 33:1",
+"end_ref": "14033009",
+"end_ref_usfm": "2CH 33:9"
 },
 {
 "start_ref": "15006019",
@@ -515,7 +533,7 @@
 {
 "id": "group:Gentile",
 "type": "group",
-"confidence": 0.5688,
+"confidence": 0.5687,
 "match_method": "scored",
 "preferred_label": "nation; peuple"
 }
@@ -641,6 +659,12 @@
 "start_ref_usfm": "EXO 34:18",
 "end_ref": "02034028",
 "end_ref_usfm": "EXO 34:28"
+},
+{
+"start_ref": "03018024",
+"start_ref_usfm": "LEV 18:24",
+"end_ref": "03018030",
+"end_ref_usfm": "LEV 18:30"
 },
 {
 "start_ref": "04023007",
@@ -875,6 +899,18 @@
 "start_ref_usfm": "2CH 28:1",
 "end_ref": "14028008",
 "end_ref_usfm": "2CH 28:8"
+},
+{
+"start_ref": "14032009",
+"start_ref_usfm": "2CH 32:9",
+"end_ref": "14032023",
+"end_ref_usfm": "2CH 32:23"
+},
+{
+"start_ref": "14033001",
+"start_ref_usfm": "2CH 33:1",
+"end_ref": "14033009",
+"end_ref_usfm": "2CH 33:9"
 },
 {
 "start_ref": "15006019",

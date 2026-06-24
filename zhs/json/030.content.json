@@ -162,6 +162,18 @@
 "end_ref_usfm": "LUK 10:16"
 },
 {
+"start_ref": "42013001",
+"start_ref_usfm": "LUK 13:1",
+"end_ref": "42013009",
+"end_ref_usfm": "LUK 13:9"
+},
+{
+"start_ref": "42024001",
+"start_ref_usfm": "LUK 24:1",
+"end_ref": "42024012",
+"end_ref_usfm": "LUK 24:12"
+},
+{
 "start_ref": "43004001",
 "start_ref_usfm": "JHN 4:1",
 "end_ref": "43004015",
@@ -197,21 +209,21 @@
 {
 "id": "place:Galilee",
 "type": "place",
-"confidence": 0.6372,
+"confidence": 0.6384,
 "match_method": "scored",
 "preferred_label": "Galilee"
 },
 {
 "id": "place:Judea",
 "type": "place",
-"confidence": 0.6099,
+"confidence": 0.6093,
 "match_method": "scored",
 "preferred_label": "Judea"
 },
 {
 "id": "group:Galilee",
 "type": "group",
-"confidence": 0.605,
+"confidence": 0.607,
 "match_method": "scored",
 "preferred_label": "Galileans"
 }
@@ -379,6 +391,18 @@
 "start_ref_usfm": "LUK 10:1",
 "end_ref": "42010016",
 "end_ref_usfm": "LUK 10:16"
+},
+{
+"start_ref": "42013001",
+"start_ref_usfm": "LUK 13:1",
+"end_ref": "42013009",
+"end_ref_usfm": "LUK 13:9"
+},
+{
+"start_ref": "42024001",
+"start_ref_usfm": "LUK 24:1",
+"end_ref": "42024012",
+"end_ref_usfm": "LUK 24:12"
 },
 {
 "start_ref": "43004001",
@@ -1141,6 +1165,18 @@
 "end_ref_usfm": "EXO 40:38"
 },
 {
+"start_ref": "03016006",
+"start_ref_usfm": "LEV 16:6",
+"end_ref": "03016014",
+"end_ref_usfm": "LEV 16:14"
+},
+{
+"start_ref": "03022010",
+"start_ref_usfm": "LEV 22:10",
+"end_ref": "03022016",
+"end_ref_usfm": "LEV 22:16"
+},
+{
 "start_ref": "04018025",
 "start_ref_usfm": "NUM 18:25",
 "end_ref": "04018032",
@@ -1549,6 +1585,12 @@
 "end_ref_usfm": "2CH 26:23"
 },
 {
+"start_ref": "14031011",
+"start_ref_usfm": "2CH 31:11",
+"end_ref": "14031021",
+"end_ref_usfm": "2CH 31:21"
+},
+{
 "start_ref": "15001001",
 "start_ref_usfm": "EZR 1:1",
 "end_ref": "15001011",
@@ -1667,24 +1709,6 @@
 "start_ref_usfm": "EPH 2:19",
 "end_ref": "49002022",
 "end_ref_usfm": "EPH 2:22"
-},
-{
-"start_ref": "54003001",
-"start_ref_usfm": "1TI 3:1",
-"end_ref": "54003007",
-"end_ref_usfm": "1TI 3:7"
-},
-{
-"start_ref": "54003008",
-"start_ref_usfm": "1TI 3:8",
-"end_ref": "54003013",
-"end_ref_usfm": "1TI 3:13"
-},
-{
-"start_ref": "54003014",
-"start_ref_usfm": "1TI 3:14",
-"end_ref": "54003016",
-"end_ref_usfm": "1TI 3:16"
 }
 ],
 "resource": [],
@@ -1758,6 +1782,18 @@
 "end_ref_usfm": "EXO 40:38"
 },
 {
+"start_ref": "03016006",
+"start_ref_usfm": "LEV 16:6",
+"end_ref": "03016014",
+"end_ref_usfm": "LEV 16:14"
+},
+{
+"start_ref": "03022010",
+"start_ref_usfm": "LEV 22:10",
+"end_ref": "03022016",
+"end_ref_usfm": "LEV 22:16"
+},
+{
 "start_ref": "04018025",
 "start_ref_usfm": "NUM 18:25",
 "end_ref": "04018032",
@@ -2166,6 +2202,12 @@
 "end_ref_usfm": "2CH 26:23"
 },
 {
+"start_ref": "14031011",
+"start_ref_usfm": "2CH 31:11",
+"end_ref": "14031021",
+"end_ref_usfm": "2CH 31:21"
+},
+{
 "start_ref": "15001001",
 "start_ref_usfm": "EZR 1:1",
 "end_ref": "15001011",
@@ -2284,24 +2326,6 @@
 "start_ref_usfm": "EPH 2:19",
 "end_ref": "49002022",
 "end_ref_usfm": "EPH 2:22"
-},
-{
-"start_ref": "54003001",
-"start_ref_usfm": "1TI 3:1",
-"end_ref": "54003007",
-"end_ref_usfm": "1TI 3:7"
-},
-{
-"start_ref": "54003008",
-"start_ref_usfm": "1TI 3:8",
-"end_ref": "54003013",
-"end_ref_usfm": "1TI 3:13"
-},
-{
-"start_ref": "54003014",
-"start_ref_usfm": "1TI 3:14",
-"end_ref": "54003016",
-"end_ref_usfm": "1TI 3:16"
 }
 ],
 "resource": []

@@ -1752,6 +1752,18 @@
 "end_ref_usfm": "2CH 29:36"
 },
 {
+"start_ref": "14031001",
+"start_ref_usfm": "2CH 31:1",
+"end_ref": "14031010",
+"end_ref_usfm": "2CH 31:10"
+},
+{
+"start_ref": "14031011",
+"start_ref_usfm": "2CH 31:11",
+"end_ref": "14031021",
+"end_ref_usfm": "2CH 31:21"
+},
+{
 "start_ref": "15001001",
 "start_ref_usfm": "EZR 1:1",
 "end_ref": "15001011",
@@ -2045,6 +2057,18 @@
 "end_ref_usfm": "2CH 29:36"
 },
 {
+"start_ref": "14031001",
+"start_ref_usfm": "2CH 31:1",
+"end_ref": "14031010",
+"end_ref_usfm": "2CH 31:10"
+},
+{
+"start_ref": "14031011",
+"start_ref_usfm": "2CH 31:11",
+"end_ref": "14031021",
+"end_ref_usfm": "2CH 31:21"
+},
+{
 "start_ref": "15001001",
 "start_ref_usfm": "EZR 1:1",
 "end_ref": "15001011",
@@ -2245,6 +2269,12 @@
 "start_ref_usfm": "1CH 16:14",
 "end_ref": "13016022",
 "end_ref_usfm": "1CH 16:22"
+},
+{
+"start_ref": "14032024",
+"start_ref_usfm": "2CH 32:24",
+"end_ref": "14032033",
+"end_ref_usfm": "2CH 32:33"
 },
 {
 "start_ref": "40007013",
@@ -2532,6 +2562,12 @@
 "start_ref_usfm": "1CH 16:14",
 "end_ref": "13016022",
 "end_ref_usfm": "1CH 16:22"
+},
+{
+"start_ref": "14032024",
+"start_ref_usfm": "2CH 32:24",
+"end_ref": "14032033",
+"end_ref_usfm": "2CH 32:33"
 },
 {
 "start_ref": "40007013",
@@ -3084,6 +3120,12 @@
 "end_ref_usfm": "EXO 13:22"
 },
 {
+"start_ref": "02014001",
+"start_ref_usfm": "EXO 14:1",
+"end_ref": "02014014",
+"end_ref_usfm": "EXO 14:14"
+},
+{
 "start_ref": "02014015",
 "start_ref_usfm": "EXO 14:15",
 "end_ref": "02014031",
@@ -3340,12 +3382,6 @@
 "start_ref_usfm": "EXO 36:35",
 "end_ref": "02036038",
 "end_ref_usfm": "EXO 36:38"
-},
-{
-"start_ref": "02037001",
-"start_ref_usfm": "EXO 37:1",
-"end_ref": "02037009",
-"end_ref_usfm": "EXO 37:9"
 }
 ],
 "resource": [],
@@ -3353,7 +3389,7 @@
 {
 "id": "deity:Lord",
 "type": "deity",
-"confidence": 0.7324,
+"confidence": 0.7336,
 "match_method": "scored",
 "preferred_label": "LORD"
 }
@@ -3709,6 +3745,12 @@
 "end_ref_usfm": "EXO 13:22"
 },
 {
+"start_ref": "02014001",
+"start_ref_usfm": "EXO 14:1",
+"end_ref": "02014014",
+"end_ref_usfm": "EXO 14:14"
+},
+{
 "start_ref": "02014015",
 "start_ref_usfm": "EXO 14:15",
 "end_ref": "02014031",
@@ -3965,12 +4007,6 @@
 "start_ref_usfm": "EXO 36:35",
 "end_ref": "02036038",
 "end_ref_usfm": "EXO 36:38"
-},
-{
-"start_ref": "02037001",
-"start_ref_usfm": "EXO 37:1",
-"end_ref": "02037009",
-"end_ref_usfm": "EXO 37:9"
 }
 ],
 "resource": []

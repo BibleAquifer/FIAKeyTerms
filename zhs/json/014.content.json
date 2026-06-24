@@ -252,6 +252,12 @@
 "end_ref_usfm": "LUK 16:15"
 },
 {
+"start_ref": "42016016",
+"start_ref_usfm": "LUK 16:16",
+"end_ref": "42016018",
+"end_ref_usfm": "LUK 16:18"
+},
+{
 "start_ref": "42017020",
 "start_ref_usfm": "LUK 17:20",
 "end_ref": "42017037",
@@ -364,6 +370,12 @@
 "start_ref_usfm": "ACT 26:1",
 "end_ref": "44026023",
 "end_ref_usfm": "ACT 26:23"
+},
+{
+"start_ref": "50003002",
+"start_ref_usfm": "PHP 3:2",
+"end_ref": "50003011",
+"end_ref_usfm": "PHP 3:11"
 }
 ],
 "resource": [],
@@ -371,7 +383,7 @@
 {
 "id": "group:Pharisee",
 "type": "group",
-"confidence": 0.6234,
+"confidence": 0.623,
 "match_method": "scored",
 "preferred_label": "Pharisees"
 }
@@ -631,6 +643,12 @@
 "end_ref_usfm": "LUK 16:15"
 },
 {
+"start_ref": "42016016",
+"start_ref_usfm": "LUK 16:16",
+"end_ref": "42016018",
+"end_ref_usfm": "LUK 16:18"
+},
+{
 "start_ref": "42017020",
 "start_ref_usfm": "LUK 17:20",
 "end_ref": "42017037",
@@ -743,6 +761,12 @@
 "start_ref_usfm": "ACT 26:1",
 "end_ref": "44026023",
 "end_ref_usfm": "ACT 26:23"
+},
+{
+"start_ref": "50003002",
+"start_ref_usfm": "PHP 3:2",
+"end_ref": "50003011",
+"end_ref_usfm": "PHP 3:11"
 }
 ],
 "resource": []

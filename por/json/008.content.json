@@ -241,6 +241,12 @@
 "start_ref_usfm": "ACT 26:1",
 "end_ref": "44026023",
 "end_ref_usfm": "ACT 26:23"
+},
+{
+"start_ref": "50003002",
+"start_ref_usfm": "PHP 3:2",
+"end_ref": "50003011",
+"end_ref_usfm": "PHP 3:11"
 }
 ],
 "resource": [],
@@ -248,7 +254,7 @@
 {
 "id": "group:Hebrews",
 "type": "group",
-"confidence": 0.6298,
+"confidence": 0.6301,
 "match_method": "scored",
 "preferred_label": "Hebrews"
 }
@@ -416,6 +422,12 @@
 "start_ref_usfm": "ACT 26:1",
 "end_ref": "44026023",
 "end_ref_usfm": "ACT 26:23"
+},
+{
+"start_ref": "50003002",
+"start_ref_usfm": "PHP 3:2",
+"end_ref": "50003011",
+"end_ref_usfm": "PHP 3:11"
 }
 ],
 "resource": []

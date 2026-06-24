@@ -1275,6 +1275,12 @@
 "end_ref_usfm": "EXO 23:19"
 },
 {
+"start_ref": "03019009",
+"start_ref_usfm": "LEV 19:9",
+"end_ref": "03019014",
+"end_ref_usfm": "LEV 19:14"
+},
+{
 "start_ref": "04020014",
 "start_ref_usfm": "NUM 20:14",
 "end_ref": "04020021",
@@ -1418,7 +1424,7 @@
 {
 "id": "flora:Vine",
 "type": "flora",
-"confidence": 0.6148,
+"confidence": 0.6147,
 "match_method": "scored",
 "preferred_label": "Vine"
 }
@@ -1466,6 +1472,12 @@
 "start_ref_usfm": "EXO 23:10",
 "end_ref": "02023019",
 "end_ref_usfm": "EXO 23:19"
+},
+{
+"start_ref": "03019009",
+"start_ref_usfm": "LEV 19:9",
+"end_ref": "03019014",
+"end_ref_usfm": "LEV 19:14"
 },
 {
 "start_ref": "04020014",

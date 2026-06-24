@@ -60,6 +60,18 @@
 "end_ref_usfm": "EXO 24:18"
 },
 {
+"start_ref": "03004013",
+"start_ref_usfm": "LEV 4:13",
+"end_ref": "03004026",
+"end_ref_usfm": "LEV 4:26"
+},
+{
+"start_ref": "03009001",
+"start_ref_usfm": "LEV 9:1",
+"end_ref": "03009007",
+"end_ref_usfm": "LEV 9:7"
+},
+{
 "start_ref": "04011016",
 "start_ref_usfm": "NUM 11:16",
 "end_ref": "04011030",
@@ -274,6 +286,12 @@
 "start_ref_usfm": "2CH 10:8",
 "end_ref": "14010019",
 "end_ref_usfm": "2CH 10:19"
+},
+{
+"start_ref": "14034022",
+"start_ref_usfm": "2CH 34:22",
+"end_ref": "14034033",
+"end_ref_usfm": "2CH 34:33"
 },
 {
 "start_ref": "15005001",
@@ -623,6 +641,18 @@
 "end_ref_usfm": "EXO 24:18"
 },
 {
+"start_ref": "03004013",
+"start_ref_usfm": "LEV 4:13",
+"end_ref": "03004026",
+"end_ref_usfm": "LEV 4:26"
+},
+{
+"start_ref": "03009001",
+"start_ref_usfm": "LEV 9:1",
+"end_ref": "03009007",
+"end_ref_usfm": "LEV 9:7"
+},
+{
 "start_ref": "04011016",
 "start_ref_usfm": "NUM 11:16",
 "end_ref": "04011030",
@@ -837,6 +867,12 @@
 "start_ref_usfm": "2CH 10:8",
 "end_ref": "14010019",
 "end_ref_usfm": "2CH 10:19"
+},
+{
+"start_ref": "14034022",
+"start_ref_usfm": "2CH 34:22",
+"end_ref": "14034033",
+"end_ref_usfm": "2CH 34:33"
 },
 {
 "start_ref": "15005001",
@@ -1218,6 +1254,12 @@
 "end_ref_usfm": "1KI 18:29"
 },
 {
+"start_ref": "12001001",
+"start_ref_usfm": "2KI 1:1",
+"end_ref": "12001018",
+"end_ref_usfm": "2KI 1:18"
+},
+{
 "start_ref": "40016013",
 "start_ref_usfm": "MAT 16:13",
 "end_ref": "40016020",
@@ -1259,7 +1301,7 @@
 {
 "id": "person:Elijah",
 "type": "person",
-"confidence": 0.7195,
+"confidence": 0.7305,
 "match_method": "scored",
 "preferred_label": "Elijah"
 }
@@ -1289,6 +1331,12 @@
 "start_ref_usfm": "1KI 18:16",
 "end_ref": "11018029",
 "end_ref_usfm": "1KI 18:29"
+},
+{
+"start_ref": "12001001",
+"start_ref_usfm": "2KI 1:1",
+"end_ref": "12001018",
+"end_ref_usfm": "2KI 1:18"
 },
 {
 "start_ref": "40016013",
@@ -1594,7 +1642,7 @@
 }
 },
 {
-"content_id": "eng-t46-v1",
+"content_id": "eng-t46-v2",
 "reference_id": 0,
 "version": "1.0.4",
 "title": "eternal life",
@@ -1602,7 +1650,7 @@
 "index_reference": "eternal life",
 "language": "eng",
 "review_level": "None",
-"content": "<p><b>Eternal life</b> means a life with God that will never end. Eternal life is the gift that God gives to his children if they <a href=\"#t11\">believe</a> in him. It is not something that people can get if they work hard enough, or if they perform enough rituals. When a person puts his trust in Jesus, God gives this gift to them.</p><p>Eternal life is a much better and richer life than ordinary life. Without this gift of eternal life, we may live and breathe, but this is only physical life, and it will end as soon as we die. But the eternal life that God gives us will never end! It begins now, changing us and making it possible for us to live in a close <a href=\"#t108\">relationship</a> with God. When Jesus will come back and establish his <a href=\"#t157\">kingdom</a> forever, we will also live with him forever. That is the gift from God: life in the future, and real life already now!</p>",
+"content": "<p><b>Eternal life</b> means a perfect quality of life with <a href=\"#t189\">God</a> that will never end. Eternal life is the gift that God gives to his children if they <a href=\"#t11\">believe</a> in God. Eternal life is not something that people can get if they work hard enough or perform enough rituals. When a person puts his trust in Jesus, God gives that person this gift.</p><p>Eternal life is a much better and richer life than ordinary life. Without this gift of eternal life, we may live and breathe, but this is only physical life, and it will end as soon as we die. But the eternal life that God gives us will never end! Eternal life begins now. Eternal life changes us and makes it possible for us to live in a close <a href=\"#t108\">relationship</a> with God. This eternal life means that not just your body but also your <a href=\"#t132\">spirit</a> is alive. Death cannot destroy this kind of life! When Jesus will come back and establish his <a href=\"#t157\">kingdom</a> forever, we will also live with Jesus forever. That is the gift from God: life in the future, and real life already now!</p>",
 "associations": {
 "passage": [
 {
@@ -1803,7 +1851,7 @@
 }
 },
 {
-"content_id": "eng-t46-v1-audio",
+"content_id": "eng-t46-v2-audio",
 "reference_id": 0,
 "version": "1.0.4",
 "title": "eternal life",
@@ -1811,7 +1859,7 @@
 "index_reference": "eternal life",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t46/v1/vbr4.mp3'>mp3 file</a> (787196 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t46/v2/vbr4.mp3'>mp3 file</a> (714909 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -2470,6 +2518,24 @@
 "end_ref_usfm": "2CH 29:17"
 },
 {
+"start_ref": "14033001",
+"start_ref_usfm": "2CH 33:1",
+"end_ref": "14033009",
+"end_ref_usfm": "2CH 33:9"
+},
+{
+"start_ref": "14033021",
+"start_ref_usfm": "2CH 33:21",
+"end_ref": "14033025",
+"end_ref_usfm": "2CH 33:25"
+},
+{
+"start_ref": "14036001",
+"start_ref_usfm": "2CH 36:1",
+"end_ref": "14036016",
+"end_ref_usfm": "2CH 36:16"
+},
+{
 "start_ref": "15009005",
 "start_ref_usfm": "EZR 9:5",
 "end_ref": "15009015",
@@ -2584,6 +2650,12 @@
 "end_ref_usfm": "EPH 6:20"
 },
 {
+"start_ref": "50003002",
+"start_ref_usfm": "PHP 3:2",
+"end_ref": "50003011",
+"end_ref_usfm": "PHP 3:11"
+},
+{
 "start_ref": "52005001",
 "start_ref_usfm": "1TH 5:1",
 "end_ref": "52005011",
@@ -2666,30 +2738,6 @@
 "start_ref_usfm": "JAS 4:11",
 "end_ref": "59004017",
 "end_ref_usfm": "JAS 4:17"
-},
-{
-"start_ref": "62002012",
-"start_ref_usfm": "1JN 2:12",
-"end_ref": "62002017",
-"end_ref_usfm": "1JN 2:17"
-},
-{
-"start_ref": "62003011",
-"start_ref_usfm": "1JN 3:11",
-"end_ref": "62003018",
-"end_ref_usfm": "1JN 3:18"
-},
-{
-"start_ref": "62005013",
-"start_ref_usfm": "1JN 5:13",
-"end_ref": "62005021",
-"end_ref_usfm": "1JN 5:21"
-},
-{
-"start_ref": "63001007",
-"start_ref_usfm": "2JN 1:7",
-"end_ref": "63001013",
-"end_ref_usfm": "2JN 1:13"
 }
 ],
 "resource": [],
@@ -3087,6 +3135,24 @@
 "end_ref_usfm": "2CH 29:17"
 },
 {
+"start_ref": "14033001",
+"start_ref_usfm": "2CH 33:1",
+"end_ref": "14033009",
+"end_ref_usfm": "2CH 33:9"
+},
+{
+"start_ref": "14033021",
+"start_ref_usfm": "2CH 33:21",
+"end_ref": "14033025",
+"end_ref_usfm": "2CH 33:25"
+},
+{
+"start_ref": "14036001",
+"start_ref_usfm": "2CH 36:1",
+"end_ref": "14036016",
+"end_ref_usfm": "2CH 36:16"
+},
+{
 "start_ref": "15009005",
 "start_ref_usfm": "EZR 9:5",
 "end_ref": "15009015",
@@ -3201,6 +3267,12 @@
 "end_ref_usfm": "EPH 6:20"
 },
 {
+"start_ref": "50003002",
+"start_ref_usfm": "PHP 3:2",
+"end_ref": "50003011",
+"end_ref_usfm": "PHP 3:11"
+},
+{
 "start_ref": "52005001",
 "start_ref_usfm": "1TH 5:1",
 "end_ref": "52005011",
@@ -3283,30 +3355,6 @@
 "start_ref_usfm": "JAS 4:11",
 "end_ref": "59004017",
 "end_ref_usfm": "JAS 4:17"
-},
-{
-"start_ref": "62002012",
-"start_ref_usfm": "1JN 2:12",
-"end_ref": "62002017",
-"end_ref_usfm": "1JN 2:17"
-},
-{
-"start_ref": "62003011",
-"start_ref_usfm": "1JN 3:11",
-"end_ref": "62003018",
-"end_ref_usfm": "1JN 3:18"
-},
-{
-"start_ref": "62005013",
-"start_ref_usfm": "1JN 5:13",
-"end_ref": "62005021",
-"end_ref_usfm": "1JN 5:21"
-},
-{
-"start_ref": "63001007",
-"start_ref_usfm": "2JN 1:7",
-"end_ref": "63001013",
-"end_ref_usfm": "2JN 1:13"
 }
 ],
 "resource": []

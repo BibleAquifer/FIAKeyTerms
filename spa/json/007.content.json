@@ -204,21 +204,21 @@
 {
 "id": "place:Galilee",
 "type": "place",
-"confidence": 0.6372,
+"confidence": 0.6384,
 "match_method": "scored",
 "preferred_label": "Galilea"
 },
 {
 "id": "place:Judea",
 "type": "place",
-"confidence": 0.6099,
+"confidence": 0.6093,
 "match_method": "scored",
 "preferred_label": "Judíos"
 },
 {
 "id": "group:Galilee",
 "type": "group",
-"confidence": 0.605,
+"confidence": 0.607,
 "match_method": "scored",
 "preferred_label": "galileo"
 }
@@ -2350,7 +2350,7 @@
 {
 "id": "deity:Lord",
 "type": "deity",
-"confidence": 0.7324,
+"confidence": 0.7336,
 "match_method": "scored",
 "preferred_label": "Jehová"
 }
