@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Familiarization, Internalization, Articulation (FIA) Key Terms</b> © 2023 SRV Partners Released under CC BY-SA 4.0 license. <cite>Familiarization, Internalization, Articulation (FIA) Key Terms</cite> has been adapted in the following languages Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Familiarization, Internalization, Articulation (FIA)</cite> © 2023 SRV Partners. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "FIAKeyTerms",
-"date_created": "2026-06-10",
+"date_created": "2026-06-24",
 "language": "por",
 "localizations": [
 "eng",
@@ -47,7 +47,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-06-10T14:02:51.956495"
+"dateCreated": "2026-06-24T16:52:38.515646"
 },
 "idAuthorities": {
 "aquifer": {
@@ -61,7 +61,7 @@
 "primary": {
 "aquifer": {
 "FIAKeyTerms": {
-"timestamp": "2026-06-10T14:02:51.956495"
+"timestamp": "2026-06-24T16:52:38.515646"
 }
 }
 },
@@ -93,7 +93,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 231323,
+"size": 225806,
 "scope": {
 "a": [
 "abba",
@@ -141,7 +141,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 48003,
+"size": 46732,
 "scope": {
 "b": [
 "barco",
@@ -163,7 +163,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 227760,
+"size": 224241,
 "scope": {
 "c": [
 "Cafarnaum",
@@ -225,7 +225,7 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 137900,
+"size": 134409,
 "scope": {
 "d": [
 "Davi",
@@ -259,7 +259,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 131219,
+"size": 130026,
 "scope": {
 "e": [
 "Elias",
@@ -295,7 +295,7 @@
 },
 "json/006.content.json": {
 "mimeType": "text/json",
-"size": 160308,
+"size": 155831,
 "scope": {
 "f": [
 "família",
@@ -331,7 +331,7 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 95423,
+"size": 95498,
 "scope": {
 "g": [
 "Gabriel",
@@ -359,7 +359,7 @@
 },
 "json/008.content.json": {
 "mimeType": "text/json",
-"size": 34724,
+"size": 33653,
 "scope": {
 "h": [
 "hades",
@@ -383,7 +383,7 @@
 },
 "json/009.content.json": {
 "mimeType": "text/json",
-"size": 100522,
+"size": 93593,
 "scope": {
 "i": [
 "ídolo",
@@ -392,8 +392,6 @@
 "igreja",
 "imagem de Deus",
 "imagem de Deus",
-"imoralidade",
-"imoralidade",
 "inferno",
 "inferno",
 "iniquidade",
@@ -411,7 +409,7 @@
 },
 "json/010.content.json": {
 "mimeType": "text/json",
-"size": 133178,
+"size": 132387,
 "scope": {
 "j": [
 "jejum",
@@ -441,7 +439,7 @@
 },
 "json/011.content.json": {
 "mimeType": "text/json",
-"size": 80637,
+"size": 81070,
 "scope": {
 "l": [
 "lagar",
@@ -465,7 +463,7 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 158485,
+"size": 154986,
 "scope": {
 "m": [
 "mágico",
@@ -501,7 +499,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 25635,
+"size": 25036,
 "scope": {
 "n": [
 "nação",
@@ -513,7 +511,7 @@
 },
 "json/014.content.json": {
 "mimeType": "text/json",
-"size": 57575,
+"size": 66114,
 "scope": {
 "o": [
 "oferta",
@@ -529,7 +527,7 @@
 },
 "json/015.content.json": {
 "mimeType": "text/json",
-"size": 222848,
+"size": 229037,
 "scope": {
 "p": [
 "Palavra",
@@ -579,7 +577,7 @@
 },
 "json/016.content.json": {
 "mimeType": "text/json",
-"size": 5445,
+"size": 5208,
 "scope": {
 "q": [
 "querubim",
@@ -589,7 +587,7 @@
 },
 "json/017.content.json": {
 "mimeType": "text/json",
-"size": 153621,
+"size": 148286,
 "scope": {
 "r": [
 "rabi",
@@ -619,7 +617,7 @@
 },
 "json/018.content.json": {
 "mimeType": "text/json",
-"size": 307055,
+"size": 304268,
 "scope": {
 "s": [
 "sábado",
@@ -677,7 +675,7 @@
 },
 "json/019.content.json": {
 "mimeType": "text/json",
-"size": 108372,
+"size": 108213,
 "scope": {
 "t": [
 "tabernáculo",
@@ -703,7 +701,7 @@
 },
 "json/020.content.json": {
 "mimeType": "text/json",
-"size": 22044,
+"size": 23311,
 "scope": {
 "u": [
 "ungir",
@@ -717,7 +715,7 @@
 },
 "json/021.content.json": {
 "mimeType": "text/json",
-"size": 41880,
+"size": 41757,
 "scope": {
 "v": [
 "vida eterna",
@@ -735,100 +733,100 @@
 },
 "json/022.content.json": {
 "mimeType": "text/json",
-"size": 14408,
+"size": 13791,
 "scope": {
 "y": [
 "Yavé"
 ]
 }
 },
-"md/001.content.md": {
-"mimeType": "text/markdown",
-"size": 64376
-},
-"md/002.content.md": {
-"mimeType": "text/markdown",
-"size": 16737
-},
-"md/003.content.md": {
-"mimeType": "text/markdown",
-"size": 61769
-},
-"md/004.content.md": {
-"mimeType": "text/markdown",
-"size": 33475
-},
-"md/005.content.md": {
-"mimeType": "text/markdown",
-"size": 39061
-},
-"md/006.content.md": {
-"mimeType": "text/markdown",
-"size": 43338
-},
-"md/007.content.md": {
-"mimeType": "text/markdown",
-"size": 25076
-},
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 14475
+"size": 14340
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 29571
+"size": 28165
 },
-"md/010.content.md": {
+"md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 36050
+"size": 62492
+},
+"md/004.content.md": {
+"mimeType": "text/markdown",
+"size": 33796
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 22287
-},
-"md/012.content.md": {
-"mimeType": "text/markdown",
-"size": 42708
-},
-"md/013.content.md": {
-"mimeType": "text/markdown",
-"size": 5538
-},
-"md/014.content.md": {
-"mimeType": "text/markdown",
-"size": 13074
-},
-"md/015.content.md": {
-"mimeType": "text/markdown",
-"size": 72462
+"size": 22899
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 2227
-},
-"md/017.content.md": {
-"mimeType": "text/markdown",
-"size": 37164
-},
-"md/018.content.md": {
-"mimeType": "text/markdown",
-"size": 85572
-},
-"md/019.content.md": {
-"mimeType": "text/markdown",
-"size": 36039
+"size": 2202
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 7054
+"size": 7356
+},
+"md/017.content.md": {
+"mimeType": "text/markdown",
+"size": 37256
+},
+"md/010.content.md": {
+"mimeType": "text/markdown",
+"size": 36959
+},
+"md/005.content.md": {
+"mimeType": "text/markdown",
+"size": 39530
+},
+"md/002.content.md": {
+"mimeType": "text/markdown",
+"size": 16672
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 11412
+"size": 11627
+},
+"md/012.content.md": {
+"mimeType": "text/markdown",
+"size": 43045
+},
+"md/015.content.md": {
+"mimeType": "text/markdown",
+"size": 74767
+},
+"md/007.content.md": {
+"mimeType": "text/markdown",
+"size": 25602
+},
+"md/006.content.md": {
+"mimeType": "text/markdown",
+"size": 43503
+},
+"md/001.content.md": {
+"mimeType": "text/markdown",
+"size": 64664
+},
+"md/014.content.md": {
+"mimeType": "text/markdown",
+"size": 14972
+},
+"md/013.content.md": {
+"mimeType": "text/markdown",
+"size": 5616
 },
 "md/022.content.md": {
 "mimeType": "text/markdown",
-"size": 4710
+"size": 4683
+},
+"md/019.content.md": {
+"mimeType": "text/markdown",
+"size": 36623
+},
+"md/018.content.md": {
+"mimeType": "text/markdown",
+"size": 87211
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -864,7 +862,7 @@
 },
 "docx/009.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 48930
+"size": 48551
 },
 "docx/010.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -920,91 +918,91 @@
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
-"size": 205814
+"size": 187428
 },
 "pdf/002.content.pdf": {
 "mimeType": "application/pdf",
-"size": 97618
+"size": 83017
 },
 "pdf/003.content.pdf": {
 "mimeType": "application/pdf",
-"size": 211633
+"size": 194170
 },
 "pdf/004.content.pdf": {
 "mimeType": "application/pdf",
-"size": 127598
+"size": 112515
 },
 "pdf/005.content.pdf": {
 "mimeType": "application/pdf",
-"size": 150103
+"size": 133457
 },
 "pdf/006.content.pdf": {
 "mimeType": "application/pdf",
-"size": 151160
+"size": 133742
 },
 "pdf/007.content.pdf": {
 "mimeType": "application/pdf",
-"size": 107153
+"size": 92148
 },
 "pdf/008.content.pdf": {
 "mimeType": "application/pdf",
-"size": 96237
+"size": 81836
 },
 "pdf/009.content.pdf": {
 "mimeType": "application/pdf",
-"size": 124382
+"size": 105649
 },
 "pdf/010.content.pdf": {
 "mimeType": "application/pdf",
-"size": 137041
+"size": 120228
 },
 "pdf/011.content.pdf": {
 "mimeType": "application/pdf",
-"size": 94380
+"size": 80214
 },
 "pdf/012.content.pdf": {
 "mimeType": "application/pdf",
-"size": 156441
+"size": 138850
 },
 "pdf/013.content.pdf": {
 "mimeType": "application/pdf",
-"size": 51583
+"size": 38129
 },
 "pdf/014.content.pdf": {
 "mimeType": "application/pdf",
-"size": 68632
+"size": 53651
 },
 "pdf/015.content.pdf": {
 "mimeType": "application/pdf",
-"size": 230636
+"size": 212878
 },
 "pdf/016.content.pdf": {
 "mimeType": "application/pdf",
-"size": 47856
+"size": 34667
 },
 "pdf/017.content.pdf": {
 "mimeType": "application/pdf",
-"size": 119396
+"size": 104381
 },
 "pdf/018.content.pdf": {
 "mimeType": "application/pdf",
-"size": 269835
+"size": 251604
 },
 "pdf/019.content.pdf": {
 "mimeType": "application/pdf",
-"size": 142770
+"size": 127130
 },
 "pdf/020.content.pdf": {
 "mimeType": "application/pdf",
-"size": 66944
+"size": 53985
 },
 "pdf/021.content.pdf": {
 "mimeType": "application/pdf",
-"size": 68733
+"size": 54654
 },
 "pdf/022.content.pdf": {
 "mimeType": "application/pdf",
-"size": 47348
+"size": 34989
 }
 },
 "copyright": {
@@ -3132,7 +3130,7 @@
 "index_reference": "vida eterna",
 "localizations": {
 "eng": {
-"content_id": "eng-t46-v1",
+"content_id": "eng-t46-v2",
 "language": "eng",
 "title": "eternal life"
 },
@@ -3159,7 +3157,7 @@
 "index_reference": "vida eterna",
 "localizations": {
 "eng": {
-"content_id": "eng-t46-v1-audio",
+"content_id": "eng-t46-v2-audio",
 "language": "eng",
 "title": "eternal life"
 },
@@ -3971,7 +3969,7 @@
 "index_reference": "herdeiro",
 "localizations": {
 "eng": {
-"content_id": "eng-t64-v1",
+"content_id": "eng-t64-v2",
 "language": "eng",
 "title": "heir"
 },
@@ -3998,7 +3996,7 @@
 "index_reference": "herdeiro",
 "localizations": {
 "eng": {
-"content_id": "eng-t64-v1-audio",
+"content_id": "eng-t64-v2-audio",
 "language": "eng",
 "title": "heir"
 },
@@ -4285,7 +4283,7 @@
 "index_reference": "família",
 "localizations": {
 "eng": {
-"content_id": "eng-t70-v1",
+"content_id": "eng-t70-v2",
 "language": "eng",
 "title": "household"
 },
@@ -4312,7 +4310,7 @@
 "index_reference": "família",
 "localizations": {
 "eng": {
-"content_id": "eng-t70-v1-audio",
+"content_id": "eng-t70-v2-audio",
 "language": "eng",
 "title": "household"
 },
@@ -4804,7 +4802,7 @@
 "index_reference": "judeia",
 "localizations": {
 "eng": {
-"content_id": "eng-t81-v1",
+"content_id": "eng-t81-v2",
 "language": "eng",
 "title": "Judea"
 },
@@ -4831,7 +4829,7 @@
 "index_reference": "judeia",
 "localizations": {
 "eng": {
-"content_id": "eng-t81-v1-audio",
+"content_id": "eng-t81-v2-audio",
 "language": "eng",
 "title": "Judea"
 },
@@ -5417,7 +5415,7 @@
 "index_reference": "nação",
 "localizations": {
 "eng": {
-"content_id": "eng-t94-v1",
+"content_id": "eng-t94-v2",
 "language": "eng",
 "title": "nation"
 },
@@ -5444,7 +5442,7 @@
 "index_reference": "nação",
 "localizations": {
 "eng": {
-"content_id": "eng-t94-v1-audio",
+"content_id": "eng-t94-v2-audio",
 "language": "eng",
 "title": "nation"
 },
@@ -6094,7 +6092,7 @@
 "index_reference": "redimir",
 "localizations": {
 "eng": {
-"content_id": "eng-t107-v1",
+"content_id": "eng-t107-v2",
 "language": "eng",
 "title": "redeem"
 },
@@ -6116,7 +6114,7 @@
 "index_reference": "redimir",
 "localizations": {
 "eng": {
-"content_id": "eng-t107-v1-audio",
+"content_id": "eng-t107-v2-audio",
 "language": "eng",
 "title": "redeem"
 },
@@ -6231,7 +6229,7 @@
 "index_reference": "retidão",
 "localizations": {
 "eng": {
-"content_id": "eng-t111-v1",
+"content_id": "eng-t111-v2",
 "language": "eng",
 "title": "righteousness"
 },
@@ -6258,7 +6256,7 @@
 "index_reference": "retidão",
 "localizations": {
 "eng": {
-"content_id": "eng-t111-v1-audio",
+"content_id": "eng-t111-v2-audio",
 "language": "eng",
 "title": "righteousness"
 },
@@ -6329,7 +6327,7 @@
 "index_reference": "sábado",
 "localizations": {
 "eng": {
-"content_id": "eng-t113-v1",
+"content_id": "eng-t113-v2",
 "language": "eng",
 "title": "sabbath"
 },
@@ -6361,7 +6359,7 @@
 "index_reference": "sábado",
 "localizations": {
 "eng": {
-"content_id": "eng-t113-v1-audio",
+"content_id": "eng-t113-v2-audio",
 "language": "eng",
 "title": "sabbath"
 },
@@ -6834,7 +6832,7 @@
 "index_reference": "servo",
 "localizations": {
 "eng": {
-"content_id": "eng-t123-v2",
+"content_id": "eng-t123-v3",
 "language": "eng",
 "title": "servant"
 },
@@ -6861,7 +6859,7 @@
 "index_reference": "servo",
 "localizations": {
 "eng": {
-"content_id": "eng-t123-v2-audio",
+"content_id": "eng-t123-v3-audio",
 "language": "eng",
 "title": "servant"
 },
@@ -6996,7 +6994,7 @@
 "index_reference": "escravo",
 "localizations": {
 "eng": {
-"content_id": "eng-t126-v2",
+"content_id": "eng-t126-v3",
 "language": "eng",
 "title": "slave"
 },
@@ -7023,7 +7021,7 @@
 "index_reference": "escravo",
 "localizations": {
 "eng": {
-"content_id": "eng-t126-v2-audio",
+"content_id": "eng-t126-v3-audio",
 "language": "eng",
 "title": "slave"
 },
@@ -7045,7 +7043,7 @@
 "index_reference": "filho",
 "localizations": {
 "eng": {
-"content_id": "eng-t127-v1",
+"content_id": "eng-t127-v2",
 "language": "eng",
 "title": "son"
 },
@@ -7072,7 +7070,7 @@
 "index_reference": "filho",
 "localizations": {
 "eng": {
-"content_id": "eng-t127-v1-audio",
+"content_id": "eng-t127-v2-audio",
 "language": "eng",
 "title": "son"
 },
@@ -8270,7 +8268,7 @@
 "index_reference": "força",
 "localizations": {
 "eng": {
-"content_id": "eng-t152-v1",
+"content_id": "eng-t152-v2",
 "language": "eng",
 "title": "strength"
 },
@@ -8297,7 +8295,7 @@
 "index_reference": "força",
 "localizations": {
 "eng": {
-"content_id": "eng-t152-v1-audio",
+"content_id": "eng-t152-v2-audio",
 "language": "eng",
 "title": "strength"
 },
@@ -9938,7 +9936,7 @@
 "index_reference": "estrangeiro",
 "localizations": {
 "eng": {
-"content_id": "eng-t192-v1",
+"content_id": "eng-t192-v2",
 "language": "eng",
 "title": "foreigner"
 },
@@ -9960,7 +9958,7 @@
 "index_reference": "estrangeiro",
 "localizations": {
 "eng": {
-"content_id": "eng-t192-v1-audio",
+"content_id": "eng-t192-v2-audio",
 "language": "eng",
 "title": "foreigner"
 },
@@ -9977,7 +9975,7 @@
 "index_reference": "peregrino",
 "localizations": {
 "eng": {
-"content_id": "eng-t193-v1",
+"content_id": "eng-t193-v2",
 "language": "eng",
 "title": "sojourner"
 },
@@ -9999,7 +9997,7 @@
 "index_reference": "peregrino",
 "localizations": {
 "eng": {
-"content_id": "eng-t193-v1-audio",
+"content_id": "eng-t193-v2-audio",
 "language": "eng",
 "title": "sojourner"
 },
@@ -11598,7 +11596,7 @@
 "index_reference": "descendente",
 "localizations": {
 "eng": {
-"content_id": "eng-t234-v1",
+"content_id": "eng-t234-v2",
 "language": "eng",
 "title": "descendant"
 },
@@ -11620,7 +11618,7 @@
 "index_reference": "descendente",
 "localizations": {
 "eng": {
-"content_id": "eng-t234-v1-audio",
+"content_id": "eng-t234-v2-audio",
 "language": "eng",
 "title": "descendant"
 },
@@ -11637,7 +11635,7 @@
 "index_reference": "deuses",
 "localizations": {
 "eng": {
-"content_id": "eng-t235-v1",
+"content_id": "eng-t235-v2",
 "language": "eng",
 "title": "gods"
 },
@@ -11659,7 +11657,7 @@
 "index_reference": "deuses",
 "localizations": {
 "eng": {
-"content_id": "eng-t235-v1-audio",
+"content_id": "eng-t235-v2-audio",
 "language": "eng",
 "title": "gods"
 },
@@ -12154,7 +12152,7 @@
 "index_reference": "juiz",
 "localizations": {
 "eng": {
-"content_id": "eng-t289-v1",
+"content_id": "eng-t289-v2",
 "language": "eng",
 "title": "judge"
 },
@@ -12176,7 +12174,7 @@
 "index_reference": "juiz",
 "localizations": {
 "eng": {
-"content_id": "eng-t289-v1-audio",
+"content_id": "eng-t289-v2-audio",
 "language": "eng",
 "title": "judge"
 },
@@ -12184,45 +12182,6 @@
 "content_id": "fra-t289-v1-audio",
 "language": "fra",
 "title": "juge"
-}
-}
-},
-"por-t293-v1": {
-"content_id": "por-t293-v1",
-"reference_id": 0,
-"index_reference": "imoralidade",
-"localizations": {
-"eng": {
-"content_id": "eng-t293-v1",
-"language": "eng",
-"title": "immorality"
-},
-"fra": {
-"content_id": "fra-t293-v1",
-"language": "fra",
-"title": "immoralité"
-},
-"spa": {
-"content_id": "spa-t293-v1",
-"language": "spa",
-"title": "immorality"
-}
-}
-},
-"por-t293-v1-audio": {
-"content_id": "por-t293-v1-audio",
-"reference_id": 0,
-"index_reference": "imoralidade",
-"localizations": {
-"eng": {
-"content_id": "eng-t293-v1-audio",
-"language": "eng",
-"title": "immorality"
-},
-"fra": {
-"content_id": "fra-t293-v1-audio",
-"language": "fra",
-"title": "immoralité"
 }
 }
 },

@@ -365,6 +365,12 @@
 "end_ref_usfm": "EPH 6:20"
 },
 {
+"start_ref": "50001018",
+"start_ref_usfm": "PHP 1:18",
+"end_ref": "50001026",
+"end_ref_usfm": "PHP 1:26"
+},
+{
 "start_ref": "52005001",
 "start_ref_usfm": "1TH 5:1",
 "end_ref": "52005011",
@@ -436,7 +442,7 @@
 {
 "id": "keyterm:Salvation",
 "type": "keyterm",
-"confidence": 0.5971,
+"confidence": 0.597,
 "match_method": "scored",
 "preferred_label": "Salvation"
 }
@@ -694,6 +700,12 @@
 "start_ref_usfm": "EPH 6:10",
 "end_ref": "49006020",
 "end_ref_usfm": "EPH 6:20"
+},
+{
+"start_ref": "50001018",
+"start_ref_usfm": "PHP 1:18",
+"end_ref": "50001026",
+"end_ref_usfm": "PHP 1:26"
 },
 {
 "start_ref": "52005001",

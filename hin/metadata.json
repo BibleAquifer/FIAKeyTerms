@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Familiarization, Internalization, Articulation (FIA) Key Terms</b> © 2023 SRV Partners Released under CC BY-SA 4.0 license. <cite>Familiarization, Internalization, Articulation (FIA) Key Terms</cite> has been adapted in the following languages Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Familiarization, Internalization, Articulation (FIA)</cite> © 2023 SRV Partners. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "FIAKeyTerms",
-"date_created": "2026-06-10",
+"date_created": "2026-06-24",
 "language": "hin",
 "localizations": [
 "arb",
@@ -52,7 +52,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-06-10T14:02:51.168978"
+"dateCreated": "2026-06-24T16:52:38.433528"
 },
 "idAuthorities": {
 "aquifer": {
@@ -66,7 +66,7 @@
 "primary": {
 "aquifer": {
 "FIAKeyTerms": {
-"timestamp": "2026-06-10T14:02:51.168978"
+"timestamp": "2026-06-24T16:52:38.433528"
 }
 }
 },
@@ -98,7 +98,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 68335,
+"size": 66704,
 "scope": {
 "अ": [
 "अंगूर की बारी",
@@ -116,7 +116,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 44022,
+"size": 42611,
 "scope": {
 "आ": [
 "आत्मा",
@@ -130,7 +130,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 14677,
+"size": 14060,
 "scope": {
 "इ": [
 "इस्राएल"
@@ -139,7 +139,7 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 17380,
+"size": 16927,
 "scope": {
 "उ": [
 "उद्धार",
@@ -149,7 +149,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 3042,
+"size": 2965,
 "scope": {
 "ऊ": [
 "ऊँट"
@@ -158,7 +158,7 @@
 },
 "json/006.content.json": {
 "mimeType": "text/json",
-"size": 7862,
+"size": 7797,
 "scope": {
 "ए": [
 "एलिय्याह"
@@ -167,7 +167,7 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 33878,
+"size": 33045,
 "scope": {
 "क": [
 "कफरनहूम",
@@ -185,7 +185,7 @@
 },
 "json/008.content.json": {
 "mimeType": "text/json",
-"size": 11448,
+"size": 11151,
 "scope": {
 "कर": [
 "क्रूस",
@@ -195,7 +195,7 @@
 },
 "json/009.content.json": {
 "mimeType": "text/json",
-"size": 11132,
+"size": 10773,
 "scope": {
 "कष": [
 "क्षमा"
@@ -204,7 +204,7 @@
 },
 "json/010.content.json": {
 "mimeType": "text/json",
-"size": 24406,
+"size": 23575,
 "scope": {
 "ग": [
 "गधा",
@@ -217,7 +217,7 @@
 },
 "json/011.content.json": {
 "mimeType": "text/json",
-"size": 2602,
+"size": 2543,
 "scope": {
 "गर": [
 "ग्रस्त"
@@ -226,7 +226,7 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 13836,
+"size": 13219,
 "scope": {
 "घ": [
 "घराना"
@@ -235,7 +235,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 44757,
+"size": 43254,
 "scope": {
 "च": [
 "चंगा",
@@ -248,7 +248,7 @@
 },
 "json/014.content.json": {
 "mimeType": "text/json",
-"size": 2511,
+"size": 2452,
 "scope": {
 "छ": [
 "छुड़ौती"
@@ -257,7 +257,7 @@
 },
 "json/015.content.json": {
 "mimeType": "text/json",
-"size": 12523,
+"size": 11906,
 "scope": {
 "ज": [
 "जंगल"
@@ -266,7 +266,7 @@
 },
 "json/016.content.json": {
 "mimeType": "text/json",
-"size": 4551,
+"size": 4360,
 "scope": {
 "झ": [
 "झुकना"
@@ -275,7 +275,7 @@
 },
 "json/017.content.json": {
 "mimeType": "text/json",
-"size": 6478,
+"size": 6319,
 "scope": {
 "त": [
 "तलाक",
@@ -285,7 +285,7 @@
 },
 "json/018.content.json": {
 "mimeType": "text/json",
-"size": 77956,
+"size": 75649,
 "scope": {
 "द": [
 "दया",
@@ -304,7 +304,7 @@
 },
 "json/019.content.json": {
 "mimeType": "text/json",
-"size": 15221,
+"size": 14676,
 "scope": {
 "ध": [
 "धार्मिकता"
@@ -313,7 +313,7 @@
 },
 "json/020.content.json": {
 "mimeType": "text/json",
-"size": 21896,
+"size": 21537,
 "scope": {
 "न": [
 "नरक",
@@ -325,7 +325,7 @@
 },
 "json/021.content.json": {
 "mimeType": "text/json",
-"size": 162081,
+"size": 156640,
 "scope": {
 "प": [
 "परमेश्वर",
@@ -346,7 +346,7 @@
 },
 "json/022.content.json": {
 "mimeType": "text/json",
-"size": 40313,
+"size": 38868,
 "scope": {
 "पर": [
 "प्रभु",
@@ -358,7 +358,7 @@
 },
 "json/023.content.json": {
 "mimeType": "text/json",
-"size": 14783,
+"size": 14580,
 "scope": {
 "फ": [
 "फसह"
@@ -367,7 +367,7 @@
 },
 "json/024.content.json": {
 "mimeType": "text/json",
-"size": 73632,
+"size": 71277,
 "scope": {
 "ब": [
 "बपतिस्मा",
@@ -383,7 +383,7 @@
 },
 "json/025.content.json": {
 "mimeType": "text/json",
-"size": 18080,
+"size": 17455,
 "scope": {
 "भ": [
 "भजन",
@@ -394,7 +394,7 @@
 },
 "json/026.content.json": {
 "mimeType": "text/json",
-"size": 140916,
+"size": 137129,
 "scope": {
 "म": [
 "मछली पकड़ने का जाल",
@@ -414,7 +414,7 @@
 },
 "json/027.content.json": {
 "mimeType": "text/json",
-"size": 83460,
+"size": 81191,
 "scope": {
 "य": [
 "यरदन नदी",
@@ -431,7 +431,7 @@
 },
 "json/028.content.json": {
 "mimeType": "text/json",
-"size": 33584,
+"size": 31953,
 "scope": {
 "र": [
 "राजा",
@@ -443,7 +443,7 @@
 },
 "json/029.content.json": {
 "mimeType": "text/json",
-"size": 65979,
+"size": 63954,
 "scope": {
 "व": [
 "वचन",
@@ -456,7 +456,7 @@
 },
 "json/030.content.json": {
 "mimeType": "text/json",
-"size": 35946,
+"size": 34895,
 "scope": {
 "वय": [
 "व्यभिचार",
@@ -467,7 +467,7 @@
 },
 "json/031.content.json": {
 "mimeType": "text/json",
-"size": 70863,
+"size": 69042,
 "scope": {
 "श": [
 "शक्ति",
@@ -483,7 +483,7 @@
 },
 "json/032.content.json": {
 "mimeType": "text/json",
-"size": 7689,
+"size": 7372,
 "scope": {
 "शर": [
 "श्राप"
@@ -492,7 +492,7 @@
 },
 "json/033.content.json": {
 "mimeType": "text/json",
-"size": 45579,
+"size": 44154,
 "scope": {
 "स": [
 "सदूकी",
@@ -508,7 +508,7 @@
 },
 "json/034.content.json": {
 "mimeType": "text/json",
-"size": 32489,
+"size": 31358,
 "scope": {
 "सव": [
 "स्वर्ग",
@@ -518,7 +518,7 @@
 },
 "json/035.content.json": {
 "mimeType": "text/json",
-"size": 14228,
+"size": 13729,
 "scope": {
 "ह": [
 "हेरोदी",
@@ -527,145 +527,145 @@
 ]
 }
 },
-"md/001.content.md": {
-"mimeType": "text/markdown",
-"size": 45316
-},
-"md/002.content.md": {
-"mimeType": "text/markdown",
-"size": 24726
-},
-"md/003.content.md": {
-"mimeType": "text/markdown",
-"size": 6415
-},
-"md/004.content.md": {
-"mimeType": "text/markdown",
-"size": 11786
-},
-"md/005.content.md": {
-"mimeType": "text/markdown",
-"size": 2519
-},
-"md/006.content.md": {
-"mimeType": "text/markdown",
-"size": 7340
-},
-"md/007.content.md": {
-"mimeType": "text/markdown",
-"size": 22122
-},
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 7746
+"size": 7722
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 6538
+"size": 6513
 },
-"md/010.content.md": {
+"md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 12455
+"size": 6388
+},
+"md/004.content.md": {
+"mimeType": "text/markdown",
+"size": 11740
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 2321
-},
-"md/012.content.md": {
-"mimeType": "text/markdown",
-"size": 5618
-},
-"md/013.content.md": {
-"mimeType": "text/markdown",
-"size": 23195
-},
-"md/014.content.md": {
-"mimeType": "text/markdown",
-"size": 2205
-},
-"md/015.content.md": {
-"mimeType": "text/markdown",
-"size": 4165
+"size": 2304
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 2391
-},
-"md/017.content.md": {
-"mimeType": "text/markdown",
-"size": 4769
-},
-"md/018.content.md": {
-"mimeType": "text/markdown",
-"size": 44676
-},
-"md/019.content.md": {
-"mimeType": "text/markdown",
-"size": 7998
+"size": 2374
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 16892
-},
-"md/021.content.md": {
-"mimeType": "text/markdown",
-"size": 84604
-},
-"md/022.content.md": {
-"mimeType": "text/markdown",
-"size": 20596
-},
-"md/023.content.md": {
-"mimeType": "text/markdown",
-"size": 12317
-},
-"md/024.content.md": {
-"mimeType": "text/markdown",
-"size": 40503
-},
-"md/025.content.md": {
-"mimeType": "text/markdown",
-"size": 9654
-},
-"md/026.content.md": {
-"mimeType": "text/markdown",
-"size": 86309
+"size": 16836
 },
 "md/027.content.md": {
 "mimeType": "text/markdown",
-"size": 51620
-},
-"md/028.content.md": {
-"mimeType": "text/markdown",
-"size": 10903
-},
-"md/029.content.md": {
-"mimeType": "text/markdown",
-"size": 37998
-},
-"md/030.content.md": {
-"mimeType": "text/markdown",
-"size": 21078
-},
-"md/031.content.md": {
-"mimeType": "text/markdown",
-"size": 44901
+"size": 51479
 },
 "md/032.content.md": {
 "mimeType": "text/markdown",
-"size": 3769
-},
-"md/033.content.md": {
-"mimeType": "text/markdown",
-"size": 25766
-},
-"md/034.content.md": {
-"mimeType": "text/markdown",
-"size": 16714
+"size": 3752
 },
 "md/035.content.md": {
 "mimeType": "text/markdown",
-"size": 7448
+"size": 7413
+},
+"md/017.content.md": {
+"mimeType": "text/markdown",
+"size": 4743
+},
+"md/010.content.md": {
+"mimeType": "text/markdown",
+"size": 12400
+},
+"md/005.content.md": {
+"mimeType": "text/markdown",
+"size": 2500
+},
+"md/002.content.md": {
+"mimeType": "text/markdown",
+"size": 24634
+},
+"md/034.content.md": {
+"mimeType": "text/markdown",
+"size": 16666
+},
+"md/033.content.md": {
+"mimeType": "text/markdown",
+"size": 25674
+},
+"md/026.content.md": {
+"mimeType": "text/markdown",
+"size": 86063
+},
+"md/021.content.md": {
+"mimeType": "text/markdown",
+"size": 84409
+},
+"md/012.content.md": {
+"mimeType": "text/markdown",
+"size": 5599
+},
+"md/015.content.md": {
+"mimeType": "text/markdown",
+"size": 4150
+},
+"md/007.content.md": {
+"mimeType": "text/markdown",
+"size": 22012
+},
+"md/031.content.md": {
+"mimeType": "text/markdown",
+"size": 44771
+},
+"md/023.content.md": {
+"mimeType": "text/markdown",
+"size": 12284
+},
+"md/024.content.md": {
+"mimeType": "text/markdown",
+"size": 40393
+},
+"md/006.content.md": {
+"mimeType": "text/markdown",
+"size": 7315
+},
+"md/001.content.md": {
+"mimeType": "text/markdown",
+"size": 45182
+},
+"md/014.content.md": {
+"mimeType": "text/markdown",
+"size": 2188
+},
+"md/013.content.md": {
+"mimeType": "text/markdown",
+"size": 23116
+},
+"md/025.content.md": {
+"mimeType": "text/markdown",
+"size": 9617
+},
+"md/022.content.md": {
+"mimeType": "text/markdown",
+"size": 20526
+},
+"md/030.content.md": {
+"mimeType": "text/markdown",
+"size": 21021
+},
+"md/028.content.md": {
+"mimeType": "text/markdown",
+"size": 10865
+},
+"md/019.content.md": {
+"mimeType": "text/markdown",
+"size": 7969
+},
+"md/029.content.md": {
+"mimeType": "text/markdown",
+"size": 37901
+},
+"md/018.content.md": {
+"mimeType": "text/markdown",
+"size": 44525
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -809,143 +809,143 @@
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
-"size": 169443
+"size": 161775
 },
 "pdf/002.content.pdf": {
 "mimeType": "application/pdf",
-"size": 105062
+"size": 94747
 },
 "pdf/003.content.pdf": {
 "mimeType": "application/pdf",
-"size": 53681
+"size": 41048
 },
 "pdf/004.content.pdf": {
 "mimeType": "application/pdf",
-"size": 75120
+"size": 63038
 },
 "pdf/005.content.pdf": {
 "mimeType": "application/pdf",
-"size": 50203
+"size": 37927
 },
 "pdf/006.content.pdf": {
 "mimeType": "application/pdf",
-"size": 68058
+"size": 56560
 },
 "pdf/007.content.pdf": {
 "mimeType": "application/pdf",
-"size": 110892
+"size": 97704
 },
 "pdf/008.content.pdf": {
 "mimeType": "application/pdf",
-"size": 61747
+"size": 48588
 },
 "pdf/009.content.pdf": {
 "mimeType": "application/pdf",
-"size": 59196
+"size": 47789
 },
 "pdf/010.content.pdf": {
 "mimeType": "application/pdf",
-"size": 81021
+"size": 70785
 },
 "pdf/011.content.pdf": {
 "mimeType": "application/pdf",
-"size": 50879
+"size": 38973
 },
 "pdf/012.content.pdf": {
 "mimeType": "application/pdf",
-"size": 50386
+"size": 38391
 },
 "pdf/013.content.pdf": {
 "mimeType": "application/pdf",
-"size": 100653
+"size": 89841
 },
 "pdf/014.content.pdf": {
 "mimeType": "application/pdf",
-"size": 48589
+"size": 36105
 },
 "pdf/015.content.pdf": {
 "mimeType": "application/pdf",
-"size": 44265
+"size": 32106
 },
 "pdf/016.content.pdf": {
 "mimeType": "application/pdf",
-"size": 45472
+"size": 33474
 },
 "pdf/017.content.pdf": {
 "mimeType": "application/pdf",
-"size": 55649
+"size": 44044
 },
 "pdf/018.content.pdf": {
 "mimeType": "application/pdf",
-"size": 159554
+"size": 150230
 },
 "pdf/019.content.pdf": {
 "mimeType": "application/pdf",
-"size": 61699
+"size": 50163
 },
 "pdf/020.content.pdf": {
 "mimeType": "application/pdf",
-"size": 97072
+"size": 85943
 },
 "pdf/021.content.pdf": {
 "mimeType": "application/pdf",
-"size": 223569
+"size": 211366
 },
 "pdf/022.content.pdf": {
 "mimeType": "application/pdf",
-"size": 87070
+"size": 76081
 },
 "pdf/023.content.pdf": {
 "mimeType": "application/pdf",
-"size": 76222
+"size": 65613
 },
 "pdf/024.content.pdf": {
 "mimeType": "application/pdf",
-"size": 144689
+"size": 131601
 },
 "pdf/025.content.pdf": {
 "mimeType": "application/pdf",
-"size": 69978
+"size": 58224
 },
 "pdf/026.content.pdf": {
 "mimeType": "application/pdf",
-"size": 265040
+"size": 251484
 },
 "pdf/027.content.pdf": {
 "mimeType": "application/pdf",
-"size": 178418
+"size": 167014
 },
 "pdf/028.content.pdf": {
 "mimeType": "application/pdf",
-"size": 52510
+"size": 39969
 },
 "pdf/029.content.pdf": {
 "mimeType": "application/pdf",
-"size": 128328
+"size": 118999
 },
 "pdf/030.content.pdf": {
 "mimeType": "application/pdf",
-"size": 97564
+"size": 85385
 },
 "pdf/031.content.pdf": {
 "mimeType": "application/pdf",
-"size": 157072
+"size": 146568
 },
 "pdf/032.content.pdf": {
 "mimeType": "application/pdf",
-"size": 49628
+"size": 37069
 },
 "pdf/033.content.pdf": {
 "mimeType": "application/pdf",
-"size": 109014
+"size": 98541
 },
 "pdf/034.content.pdf": {
 "mimeType": "application/pdf",
-"size": 80456
+"size": 68985
 },
 "pdf/035.content.pdf": {
 "mimeType": "application/pdf",
-"size": 63828
+"size": 52076
 }
 },
 "copyright": {

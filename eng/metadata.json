@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Familiarization, Internalization, Articulation (FIA) Key Terms</b> © 2023 SRV Partners Released under CC BY-SA 4.0 license. <cite>Familiarization, Internalization, Articulation (FIA) Key Terms</cite> has been adapted in the following languages Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Familiarization, Internalization, Articulation (FIA)</cite> © 2023 SRV Partners. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "FIAKeyTerms",
-"date_created": "2026-06-10",
+"date_created": "2026-06-24",
 "language": "eng",
 "localizations": [
 "fra",
@@ -47,7 +47,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-06-10T14:02:50.308446"
+"dateCreated": "2026-06-24T16:52:37.944922"
 },
 "idAuthorities": {
 "aquifer": {
@@ -61,7 +61,7 @@
 "primary": {
 "aquifer": {
 "FIAKeyTerms": {
-"timestamp": "2026-06-10T14:02:50.308446"
+"timestamp": "2026-06-24T16:52:37.944922"
 }
 }
 },
@@ -93,7 +93,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 125063,
+"size": 123258,
 "scope": {
 "a": [
 "abba",
@@ -129,7 +129,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 118693,
+"size": 122324,
 "scope": {
 "b": [
 "baptism",
@@ -161,7 +161,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 210297,
+"size": 219404,
 "scope": {
 "c": [
 "Caesar",
@@ -217,9 +217,11 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 111234,
+"size": 110829,
 "scope": {
 "d": [
+"Dalmanutha",
+"Dalmanutha",
 "David",
 "David",
 "Decapolis",
@@ -253,7 +255,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 83416,
+"size": 80817,
 "scope": {
 "e": [
 "elder",
@@ -281,7 +283,7 @@
 },
 "json/006.content.json": {
 "mimeType": "text/json",
-"size": 93937,
+"size": 99962,
 "scope": {
 "f": [
 "faith",
@@ -290,6 +292,8 @@
 "fasting",
 "fear of God",
 "fear of God",
+"fellowship",
+"fellowship",
 "Festival of Dedication",
 "Festival of Dedication",
 "Festival of Tabernacles",
@@ -309,7 +313,7 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 158894,
+"size": 158002,
 "scope": {
 "g": [
 "Gabriel",
@@ -345,7 +349,7 @@
 },
 "json/008.content.json": {
 "mimeType": "text/json",
-"size": 202639,
+"size": 197702,
 "scope": {
 "h": [
 "hades",
@@ -389,7 +393,7 @@
 },
 "json/009.content.json": {
 "mimeType": "text/json",
-"size": 82415,
+"size": 75971,
 "scope": {
 "i": [
 "I am",
@@ -398,8 +402,6 @@
 "idol",
 "image of God",
 "image of God",
-"immorality",
-"immorality",
 "inn",
 "inn",
 "Isaiah",
@@ -413,7 +415,7 @@
 },
 "json/010.content.json": {
 "mimeType": "text/json",
-"size": 119410,
+"size": 120434,
 "scope": {
 "j": [
 "James",
@@ -441,7 +443,7 @@
 },
 "json/011.content.json": {
 "mimeType": "text/json",
-"size": 67066,
+"size": 64591,
 "scope": {
 "k": [
 "king",
@@ -455,7 +457,7 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 97037,
+"size": 95886,
 "scope": {
 "l": [
 "law",
@@ -477,7 +479,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 62770,
+"size": 60675,
 "scope": {
 "m": [
 "magician",
@@ -499,7 +501,7 @@
 },
 "json/014.content.json": {
 "mimeType": "text/json",
-"size": 25762,
+"size": 26400,
 "scope": {
 "n": [
 "nation",
@@ -511,7 +513,7 @@
 },
 "json/015.content.json": {
 "mimeType": "text/json",
-"size": 40049,
+"size": 41202,
 "scope": {
 "o": [
 "oath",
@@ -525,7 +527,7 @@
 },
 "json/016.content.json": {
 "mimeType": "text/json",
-"size": 200669,
+"size": 198070,
 "scope": {
 "p": [
 "parable",
@@ -567,7 +569,7 @@
 },
 "json/017.content.json": {
 "mimeType": "text/json",
-"size": 64688,
+"size": 64153,
 "scope": {
 "r": [
 "rabbi",
@@ -589,7 +591,7 @@
 },
 "json/018.content.json": {
 "mimeType": "text/json",
-"size": 350654,
+"size": 351948,
 "scope": {
 "s": [
 "sabbath",
@@ -663,7 +665,7 @@
 },
 "json/019.content.json": {
 "mimeType": "text/json",
-"size": 124117,
+"size": 123258,
 "scope": {
 "t": [
 "tabernacle",
@@ -693,7 +695,7 @@
 },
 "json/020.content.json": {
 "mimeType": "text/json",
-"size": 20897,
+"size": 21098,
 "scope": {
 "v": [
 "vineyard",
@@ -707,7 +709,7 @@
 },
 "json/021.content.json": {
 "mimeType": "text/json",
-"size": 111554,
+"size": 109313,
 "scope": {
 "w": [
 "watchtower",
@@ -731,7 +733,7 @@
 },
 "json/022.content.json": {
 "mimeType": "text/json",
-"size": 30260,
+"size": 28947,
 "scope": {
 "y": [
 "Yahweh",
@@ -743,7 +745,7 @@
 },
 "json/023.content.json": {
 "mimeType": "text/json",
-"size": 2227,
+"size": 2146,
 "scope": {
 "z": [
 "Zion",
@@ -751,97 +753,97 @@
 ]
 }
 },
-"md/001.content.md": {
-"mimeType": "text/markdown",
-"size": 33992
-},
-"md/002.content.md": {
-"mimeType": "text/markdown",
-"size": 33617
-},
-"md/003.content.md": {
-"mimeType": "text/markdown",
-"size": 61749
-},
-"md/004.content.md": {
-"mimeType": "text/markdown",
-"size": 29465
-},
-"md/005.content.md": {
-"mimeType": "text/markdown",
-"size": 22956
-},
-"md/006.content.md": {
-"mimeType": "text/markdown",
-"size": 30269
-},
-"md/007.content.md": {
-"mimeType": "text/markdown",
-"size": 39498
-},
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 55355
+"size": 57453
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 22491
+"size": 21173
 },
-"md/010.content.md": {
+"md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 32679
+"size": 64426
+},
+"md/004.content.md": {
+"mimeType": "text/markdown",
+"size": 31017
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 15568
-},
-"md/012.content.md": {
-"mimeType": "text/markdown",
-"size": 23157
-},
-"md/013.content.md": {
-"mimeType": "text/markdown",
-"size": 20879
-},
-"md/014.content.md": {
-"mimeType": "text/markdown",
-"size": 5578
-},
-"md/015.content.md": {
-"mimeType": "text/markdown",
-"size": 8627
+"size": 15623
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 59463
-},
-"md/017.content.md": {
-"mimeType": "text/markdown",
-"size": 18772
-},
-"md/018.content.md": {
-"mimeType": "text/markdown",
-"size": 100120
-},
-"md/019.content.md": {
-"mimeType": "text/markdown",
-"size": 39668
+"size": 60360
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 6518
+"size": 6650
+},
+"md/017.content.md": {
+"mimeType": "text/markdown",
+"size": 19559
+},
+"md/010.content.md": {
+"mimeType": "text/markdown",
+"size": 35720
+},
+"md/005.content.md": {
+"mimeType": "text/markdown",
+"size": 23124
+},
+"md/002.content.md": {
+"mimeType": "text/markdown",
+"size": 34913
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 24946
+"size": 25394
 },
-"md/022.content.md": {
+"md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 9014
+"size": 23671
+},
+"md/015.content.md": {
+"mimeType": "text/markdown",
+"size": 9107
+},
+"md/007.content.md": {
+"mimeType": "text/markdown",
+"size": 40753
 },
 "md/023.content.md": {
 "mimeType": "text/markdown",
-"size": 1584
+"size": 1559
+},
+"md/006.content.md": {
+"mimeType": "text/markdown",
+"size": 33818
+},
+"md/001.content.md": {
+"mimeType": "text/markdown",
+"size": 34209
+},
+"md/014.content.md": {
+"mimeType": "text/markdown",
+"size": 6768
+},
+"md/013.content.md": {
+"mimeType": "text/markdown",
+"size": 20783
+},
+"md/022.content.md": {
+"mimeType": "text/markdown",
+"size": 8952
+},
+"md/019.content.md": {
+"mimeType": "text/markdown",
+"size": 40245
+},
+"md/018.content.md": {
+"mimeType": "text/markdown",
+"size": 106482
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -857,31 +859,31 @@
 },
 "docx/004.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 48676
+"size": 49125
 },
 "docx/005.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 47608
+"size": 47680
 },
 "docx/006.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 49719
+"size": 50614
 },
 "docx/007.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 48683
+"size": 48943
 },
 "docx/008.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 53684
+"size": 54199
 },
 "docx/009.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46980
+"size": 46606
 },
 "docx/010.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 49252
+"size": 49986
 },
 "docx/011.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -897,7 +899,7 @@
 },
 "docx/014.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42740
+"size": 43312
 },
 "docx/015.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -909,11 +911,11 @@
 },
 "docx/017.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46347
+"size": 46724
 },
 "docx/018.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 63264
+"size": 64992
 },
 "docx/019.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -937,95 +939,95 @@
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
-"size": 143365
+"size": 127478
 },
 "pdf/002.content.pdf": {
 "mimeType": "application/pdf",
-"size": 132905
+"size": 117452
 },
 "pdf/003.content.pdf": {
 "mimeType": "application/pdf",
-"size": 210556
+"size": 195990
 },
 "pdf/004.content.pdf": {
 "mimeType": "application/pdf",
-"size": 124925
+"size": 115889
 },
 "pdf/005.content.pdf": {
 "mimeType": "application/pdf",
-"size": 110245
+"size": 96951
 },
 "pdf/006.content.pdf": {
 "mimeType": "application/pdf",
-"size": 127162
+"size": 120593
 },
 "pdf/007.content.pdf": {
 "mimeType": "application/pdf",
-"size": 134901
+"size": 122802
 },
 "pdf/008.content.pdf": {
 "mimeType": "application/pdf",
-"size": 190717
+"size": 177351
 },
 "pdf/009.content.pdf": {
 "mimeType": "application/pdf",
-"size": 97046
+"size": 79410
 },
 "pdf/010.content.pdf": {
 "mimeType": "application/pdf",
-"size": 132067
+"size": 121002
 },
 "pdf/011.content.pdf": {
 "mimeType": "application/pdf",
-"size": 71187
+"size": 57087
 },
 "pdf/012.content.pdf": {
 "mimeType": "application/pdf",
-"size": 90762
+"size": 77012
 },
 "pdf/013.content.pdf": {
 "mimeType": "application/pdf",
-"size": 117231
+"size": 101285
 },
 "pdf/014.content.pdf": {
 "mimeType": "application/pdf",
-"size": 51691
+"size": 44294
 },
 "pdf/015.content.pdf": {
 "mimeType": "application/pdf",
-"size": 56063
+"size": 42761
 },
 "pdf/016.content.pdf": {
 "mimeType": "application/pdf",
-"size": 193517
+"size": 175470
 },
 "pdf/017.content.pdf": {
 "mimeType": "application/pdf",
-"size": 89868
+"size": 78265
 },
 "pdf/018.content.pdf": {
 "mimeType": "application/pdf",
-"size": 317086
+"size": 313106
 },
 "pdf/019.content.pdf": {
 "mimeType": "application/pdf",
-"size": 153056
+"size": 138183
 },
 "pdf/020.content.pdf": {
 "mimeType": "application/pdf",
-"size": 58991
+"size": 45455
 },
 "pdf/021.content.pdf": {
 "mimeType": "application/pdf",
-"size": 82671
+"size": 68035
 },
 "pdf/022.content.pdf": {
 "mimeType": "application/pdf",
-"size": 62139
+"size": 48604
 },
 "pdf/023.content.pdf": {
 "mimeType": "application/pdf",
-"size": 47028
+"size": 34232
 }
 },
 "copyright": {
@@ -2544,6 +2546,18 @@
 }
 }
 },
+"eng-t32-v1": {
+"content_id": "eng-t32-v1",
+"reference_id": 0,
+"index_reference": "dalmanutha",
+"localizations": {}
+},
+"eng-t32-v1-audio": {
+"content_id": "eng-t32-v1-audio",
+"reference_id": 0,
+"index_reference": "dalmanutha",
+"localizations": {}
+},
 "eng-t33-v1": {
 "content_id": "eng-t33-v1",
 "reference_id": 0,
@@ -3147,8 +3161,8 @@
 }
 }
 },
-"eng-t46-v1": {
-"content_id": "eng-t46-v1",
+"eng-t46-v2": {
+"content_id": "eng-t46-v2",
 "reference_id": 0,
 "index_reference": "eternal life",
 "localizations": {
@@ -3174,8 +3188,8 @@
 }
 }
 },
-"eng-t46-v1-audio": {
-"content_id": "eng-t46-v1-audio",
+"eng-t46-v2-audio": {
+"content_id": "eng-t46-v2-audio",
 "reference_id": 0,
 "index_reference": "eternal life",
 "localizations": {
@@ -3357,6 +3371,18 @@
 "title": "禁食"
 }
 }
+},
+"eng-t50-v1": {
+"content_id": "eng-t50-v1",
+"reference_id": 0,
+"index_reference": "fellowship",
+"localizations": {}
+},
+"eng-t50-v1-audio": {
+"content_id": "eng-t50-v1-audio",
+"reference_id": 0,
+"index_reference": "fellowship",
+"localizations": {}
 },
 "eng-t51-v1": {
 "content_id": "eng-t51-v1",
@@ -3986,8 +4012,8 @@
 }
 }
 },
-"eng-t64-v1": {
-"content_id": "eng-t64-v1",
+"eng-t64-v2": {
+"content_id": "eng-t64-v2",
 "reference_id": 0,
 "index_reference": "heir",
 "localizations": {
@@ -4013,8 +4039,8 @@
 }
 }
 },
-"eng-t64-v1-audio": {
-"content_id": "eng-t64-v1-audio",
+"eng-t64-v2-audio": {
+"content_id": "eng-t64-v2-audio",
 "reference_id": 0,
 "index_reference": "heir",
 "localizations": {
@@ -4300,8 +4326,8 @@
 }
 }
 },
-"eng-t70-v1": {
-"content_id": "eng-t70-v1",
+"eng-t70-v2": {
+"content_id": "eng-t70-v2",
 "reference_id": 0,
 "index_reference": "household",
 "localizations": {
@@ -4327,8 +4353,8 @@
 }
 }
 },
-"eng-t70-v1-audio": {
-"content_id": "eng-t70-v1-audio",
+"eng-t70-v2-audio": {
+"content_id": "eng-t70-v2-audio",
 "reference_id": 0,
 "index_reference": "household",
 "localizations": {
@@ -4819,8 +4845,8 @@
 }
 }
 },
-"eng-t81-v1": {
-"content_id": "eng-t81-v1",
+"eng-t81-v2": {
+"content_id": "eng-t81-v2",
 "reference_id": 0,
 "index_reference": "judea",
 "localizations": {
@@ -4846,8 +4872,8 @@
 }
 }
 },
-"eng-t81-v1-audio": {
-"content_id": "eng-t81-v1-audio",
+"eng-t81-v2-audio": {
+"content_id": "eng-t81-v2-audio",
 "reference_id": 0,
 "index_reference": "judea",
 "localizations": {
@@ -5432,8 +5458,8 @@
 }
 }
 },
-"eng-t94-v1": {
-"content_id": "eng-t94-v1",
+"eng-t94-v2": {
+"content_id": "eng-t94-v2",
 "reference_id": 0,
 "index_reference": "nation",
 "localizations": {
@@ -5459,8 +5485,8 @@
 }
 }
 },
-"eng-t94-v1-audio": {
-"content_id": "eng-t94-v1-audio",
+"eng-t94-v2-audio": {
+"content_id": "eng-t94-v2-audio",
 "reference_id": 0,
 "index_reference": "nation",
 "localizations": {
@@ -6109,8 +6135,8 @@
 }
 }
 },
-"eng-t107-v1": {
-"content_id": "eng-t107-v1",
+"eng-t107-v2": {
+"content_id": "eng-t107-v2",
 "reference_id": 0,
 "index_reference": "redeem",
 "localizations": {
@@ -6131,8 +6157,8 @@
 }
 }
 },
-"eng-t107-v1-audio": {
-"content_id": "eng-t107-v1-audio",
+"eng-t107-v2-audio": {
+"content_id": "eng-t107-v2-audio",
 "reference_id": 0,
 "index_reference": "redeem",
 "localizations": {
@@ -6246,8 +6272,8 @@
 }
 }
 },
-"eng-t111-v1": {
-"content_id": "eng-t111-v1",
+"eng-t111-v2": {
+"content_id": "eng-t111-v2",
 "reference_id": 0,
 "index_reference": "righteousness",
 "localizations": {
@@ -6273,8 +6299,8 @@
 }
 }
 },
-"eng-t111-v1-audio": {
-"content_id": "eng-t111-v1-audio",
+"eng-t111-v2-audio": {
+"content_id": "eng-t111-v2-audio",
 "reference_id": 0,
 "index_reference": "righteousness",
 "localizations": {
@@ -6344,8 +6370,8 @@
 }
 }
 },
-"eng-t113-v1": {
-"content_id": "eng-t113-v1",
+"eng-t113-v2": {
+"content_id": "eng-t113-v2",
 "reference_id": 0,
 "index_reference": "sabbath",
 "localizations": {
@@ -6376,8 +6402,8 @@
 }
 }
 },
-"eng-t113-v1-audio": {
-"content_id": "eng-t113-v1-audio",
+"eng-t113-v2-audio": {
+"content_id": "eng-t113-v2-audio",
 "reference_id": 0,
 "index_reference": "sabbath",
 "localizations": {
@@ -6849,8 +6875,8 @@
 }
 }
 },
-"eng-t123-v2": {
-"content_id": "eng-t123-v2",
+"eng-t123-v3": {
+"content_id": "eng-t123-v3",
 "reference_id": 0,
 "index_reference": "servant",
 "localizations": {
@@ -6876,8 +6902,8 @@
 }
 }
 },
-"eng-t123-v2-audio": {
-"content_id": "eng-t123-v2-audio",
+"eng-t123-v3-audio": {
+"content_id": "eng-t123-v3-audio",
 "reference_id": 0,
 "index_reference": "servant",
 "localizations": {
@@ -7011,8 +7037,8 @@
 }
 }
 },
-"eng-t126-v2": {
-"content_id": "eng-t126-v2",
+"eng-t126-v3": {
+"content_id": "eng-t126-v3",
 "reference_id": 0,
 "index_reference": "slave",
 "localizations": {
@@ -7038,8 +7064,8 @@
 }
 }
 },
-"eng-t126-v2-audio": {
-"content_id": "eng-t126-v2-audio",
+"eng-t126-v3-audio": {
+"content_id": "eng-t126-v3-audio",
 "reference_id": 0,
 "index_reference": "slave",
 "localizations": {
@@ -7060,8 +7086,8 @@
 }
 }
 },
-"eng-t127-v1": {
-"content_id": "eng-t127-v1",
+"eng-t127-v2": {
+"content_id": "eng-t127-v2",
 "reference_id": 0,
 "index_reference": "son",
 "localizations": {
@@ -7087,8 +7113,8 @@
 }
 }
 },
-"eng-t127-v1-audio": {
-"content_id": "eng-t127-v1-audio",
+"eng-t127-v2-audio": {
+"content_id": "eng-t127-v2-audio",
 "reference_id": 0,
 "index_reference": "son",
 "localizations": {
@@ -8285,8 +8311,8 @@
 }
 }
 },
-"eng-t152-v1": {
-"content_id": "eng-t152-v1",
+"eng-t152-v2": {
+"content_id": "eng-t152-v2",
 "reference_id": 0,
 "index_reference": "strength",
 "localizations": {
@@ -8312,8 +8338,8 @@
 }
 }
 },
-"eng-t152-v1-audio": {
-"content_id": "eng-t152-v1-audio",
+"eng-t152-v2-audio": {
+"content_id": "eng-t152-v2-audio",
 "reference_id": 0,
 "index_reference": "strength",
 "localizations": {
@@ -9987,8 +10013,8 @@
 }
 }
 },
-"eng-t192-v1": {
-"content_id": "eng-t192-v1",
+"eng-t192-v2": {
+"content_id": "eng-t192-v2",
 "reference_id": 0,
 "index_reference": "foreigner",
 "localizations": {
@@ -10009,8 +10035,8 @@
 }
 }
 },
-"eng-t192-v1-audio": {
-"content_id": "eng-t192-v1-audio",
+"eng-t192-v2-audio": {
+"content_id": "eng-t192-v2-audio",
 "reference_id": 0,
 "index_reference": "foreigner",
 "localizations": {
@@ -10026,8 +10052,8 @@
 }
 }
 },
-"eng-t193-v1": {
-"content_id": "eng-t193-v1",
+"eng-t193-v2": {
+"content_id": "eng-t193-v2",
 "reference_id": 0,
 "index_reference": "sojourner",
 "localizations": {
@@ -10048,8 +10074,8 @@
 }
 }
 },
-"eng-t193-v1-audio": {
-"content_id": "eng-t193-v1-audio",
+"eng-t193-v2-audio": {
+"content_id": "eng-t193-v2-audio",
 "reference_id": 0,
 "index_reference": "sojourner",
 "localizations": {
@@ -11647,8 +11673,8 @@
 }
 }
 },
-"eng-t234-v1": {
-"content_id": "eng-t234-v1",
+"eng-t234-v2": {
+"content_id": "eng-t234-v2",
 "reference_id": 0,
 "index_reference": "descendant",
 "localizations": {
@@ -11669,8 +11695,8 @@
 }
 }
 },
-"eng-t234-v1-audio": {
-"content_id": "eng-t234-v1-audio",
+"eng-t234-v2-audio": {
+"content_id": "eng-t234-v2-audio",
 "reference_id": 0,
 "index_reference": "descendant",
 "localizations": {
@@ -11686,8 +11712,8 @@
 }
 }
 },
-"eng-t235-v1": {
-"content_id": "eng-t235-v1",
+"eng-t235-v2": {
+"content_id": "eng-t235-v2",
 "reference_id": 0,
 "index_reference": "gods",
 "localizations": {
@@ -11708,8 +11734,8 @@
 }
 }
 },
-"eng-t235-v1-audio": {
-"content_id": "eng-t235-v1-audio",
+"eng-t235-v2-audio": {
+"content_id": "eng-t235-v2-audio",
 "reference_id": 0,
 "index_reference": "gods",
 "localizations": {
@@ -12203,8 +12229,8 @@
 }
 }
 },
-"eng-t289-v1": {
-"content_id": "eng-t289-v1",
+"eng-t289-v2": {
+"content_id": "eng-t289-v2",
 "reference_id": 0,
 "index_reference": "judge",
 "localizations": {
@@ -12225,8 +12251,8 @@
 }
 }
 },
-"eng-t289-v1-audio": {
-"content_id": "eng-t289-v1-audio",
+"eng-t289-v2-audio": {
+"content_id": "eng-t289-v2-audio",
 "reference_id": 0,
 "index_reference": "judge",
 "localizations": {
@@ -12239,45 +12265,6 @@
 "content_id": "por-t289-v1-audio",
 "language": "por",
 "title": "juiz"
-}
-}
-},
-"eng-t293-v1": {
-"content_id": "eng-t293-v1",
-"reference_id": 0,
-"index_reference": "immorality",
-"localizations": {
-"fra": {
-"content_id": "fra-t293-v1",
-"language": "fra",
-"title": "immoralité"
-},
-"por": {
-"content_id": "por-t293-v1",
-"language": "por",
-"title": "imoralidade"
-},
-"spa": {
-"content_id": "spa-t293-v1",
-"language": "spa",
-"title": "immorality"
-}
-}
-},
-"eng-t293-v1-audio": {
-"content_id": "eng-t293-v1-audio",
-"reference_id": 0,
-"index_reference": "immorality",
-"localizations": {
-"fra": {
-"content_id": "fra-t293-v1-audio",
-"language": "fra",
-"title": "immoralité"
-},
-"por": {
-"content_id": "por-t293-v1-audio",
-"language": "por",
-"title": "imoralidade"
 }
 }
 }

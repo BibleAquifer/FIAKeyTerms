@@ -227,6 +227,18 @@
 "end_ref_usfm": "LUK 10:16"
 },
 {
+"start_ref": "42013001",
+"start_ref_usfm": "LUK 13:1",
+"end_ref": "42013009",
+"end_ref_usfm": "LUK 13:9"
+},
+{
+"start_ref": "42024001",
+"start_ref_usfm": "LUK 24:1",
+"end_ref": "42024012",
+"end_ref_usfm": "LUK 24:12"
+},
+{
 "start_ref": "43004001",
 "start_ref_usfm": "JHN 4:1",
 "end_ref": "43004015",
@@ -262,21 +274,21 @@
 {
 "id": "place:Galilee",
 "type": "place",
-"confidence": 0.6372,
+"confidence": 0.6384,
 "match_method": "scored",
 "preferred_label": "Galilee"
 },
 {
 "id": "place:Judea",
 "type": "place",
-"confidence": 0.6099,
+"confidence": 0.6093,
 "match_method": "scored",
 "preferred_label": "Judea"
 },
 {
 "id": "group:Galilee",
 "type": "group",
-"confidence": 0.605,
+"confidence": 0.607,
 "match_method": "scored",
 "preferred_label": "Galileans"
 }
@@ -446,6 +458,18 @@
 "end_ref_usfm": "LUK 10:16"
 },
 {
+"start_ref": "42013001",
+"start_ref_usfm": "LUK 13:1",
+"end_ref": "42013009",
+"end_ref_usfm": "LUK 13:9"
+},
+{
+"start_ref": "42024001",
+"start_ref_usfm": "LUK 24:1",
+"end_ref": "42024012",
+"end_ref_usfm": "LUK 24:12"
+},
+{
 "start_ref": "43004001",
 "start_ref_usfm": "JHN 4:1",
 "end_ref": "43004015",
@@ -582,6 +606,12 @@
 "end_ref_usfm": "2CH 12:16"
 },
 {
+"start_ref": "14031011",
+"start_ref_usfm": "2CH 31:11",
+"end_ref": "14031021",
+"end_ref_usfm": "2CH 31:21"
+},
+{
 "start_ref": "15002059",
 "start_ref_usfm": "EZR 2:59",
 "end_ref": "15002063",
@@ -711,6 +741,12 @@
 "start_ref_usfm": "2CH 12:1",
 "end_ref": "14012016",
 "end_ref_usfm": "2CH 12:16"
+},
+{
+"start_ref": "14031011",
+"start_ref_usfm": "2CH 31:11",
+"end_ref": "14031021",
+"end_ref_usfm": "2CH 31:21"
 },
 {
 "start_ref": "15002059",
@@ -901,6 +937,72 @@
 "start_ref_usfm": "EXO 31:12",
 "end_ref": "02031018",
 "end_ref_usfm": "EXO 31:18"
+},
+{
+"start_ref": "03003001",
+"start_ref_usfm": "LEV 3:1",
+"end_ref": "03003017",
+"end_ref_usfm": "LEV 3:17"
+},
+{
+"start_ref": "03006008",
+"start_ref_usfm": "LEV 6:8",
+"end_ref": "03006018",
+"end_ref_usfm": "LEV 6:18"
+},
+{
+"start_ref": "03007028",
+"start_ref_usfm": "LEV 7:28",
+"end_ref": "03007028",
+"end_ref_usfm": "LEV 7:28"
+},
+{
+"start_ref": "03017001",
+"start_ref_usfm": "LEV 17:1",
+"end_ref": "03017009",
+"end_ref_usfm": "LEV 17:9"
+},
+{
+"start_ref": "03021017",
+"start_ref_usfm": "LEV 21:17",
+"end_ref": "03021025",
+"end_ref_usfm": "LEV 21:25"
+},
+{
+"start_ref": "03022001",
+"start_ref_usfm": "LEV 22:1",
+"end_ref": "03022009",
+"end_ref_usfm": "LEV 22:9"
+},
+{
+"start_ref": "03023009",
+"start_ref_usfm": "LEV 23:9",
+"end_ref": "03023014",
+"end_ref_usfm": "LEV 23:14"
+},
+{
+"start_ref": "03023015",
+"start_ref_usfm": "LEV 23:15",
+"end_ref": "03023022",
+"end_ref_usfm": "LEV 23:22"
+},
+{
+"start_ref": "03023023",
+"start_ref_usfm": "LEV 23:23",
+"end_ref": "03023032",
+"end_ref_usfm": "LEV 23:32"
+},
+{
+"start_ref": "03023033",
+"start_ref_usfm": "LEV 23:33",
+"end_ref": "03023044",
+"end_ref_usfm": "LEV 23:44"
+},
+{
+"start_ref": "03024001",
+"start_ref_usfm": "LEV 24:1",
+"end_ref": "03024009",
+"end_ref_usfm": "LEV 24:9"
 },
 {
 "start_ref": "04003001",
@@ -1260,6 +1362,72 @@
 "start_ref_usfm": "EXO 31:12",
 "end_ref": "02031018",
 "end_ref_usfm": "EXO 31:18"
+},
+{
+"start_ref": "03003001",
+"start_ref_usfm": "LEV 3:1",
+"end_ref": "03003017",
+"end_ref_usfm": "LEV 3:17"
+},
+{
+"start_ref": "03006008",
+"start_ref_usfm": "LEV 6:8",
+"end_ref": "03006018",
+"end_ref_usfm": "LEV 6:18"
+},
+{
+"start_ref": "03007028",
+"start_ref_usfm": "LEV 7:28",
+"end_ref": "03007028",
+"end_ref_usfm": "LEV 7:28"
+},
+{
+"start_ref": "03017001",
+"start_ref_usfm": "LEV 17:1",
+"end_ref": "03017009",
+"end_ref_usfm": "LEV 17:9"
+},
+{
+"start_ref": "03021017",
+"start_ref_usfm": "LEV 21:17",
+"end_ref": "03021025",
+"end_ref_usfm": "LEV 21:25"
+},
+{
+"start_ref": "03022001",
+"start_ref_usfm": "LEV 22:1",
+"end_ref": "03022009",
+"end_ref_usfm": "LEV 22:9"
+},
+{
+"start_ref": "03023009",
+"start_ref_usfm": "LEV 23:9",
+"end_ref": "03023014",
+"end_ref_usfm": "LEV 23:14"
+},
+{
+"start_ref": "03023015",
+"start_ref_usfm": "LEV 23:15",
+"end_ref": "03023022",
+"end_ref_usfm": "LEV 23:22"
+},
+{
+"start_ref": "03023023",
+"start_ref_usfm": "LEV 23:23",
+"end_ref": "03023032",
+"end_ref_usfm": "LEV 23:32"
+},
+{
+"start_ref": "03023033",
+"start_ref_usfm": "LEV 23:33",
+"end_ref": "03023044",
+"end_ref_usfm": "LEV 23:44"
+},
+{
+"start_ref": "03024001",
+"start_ref_usfm": "LEV 24:1",
+"end_ref": "03024009",
+"end_ref_usfm": "LEV 24:9"
 },
 {
 "start_ref": "04003001",
@@ -2237,6 +2405,12 @@
 "end_ref_usfm": "EXO 28:14"
 },
 {
+"start_ref": "03010001",
+"start_ref_usfm": "LEV 10:1",
+"end_ref": "03010011",
+"end_ref_usfm": "LEV 10:11"
+},
+{
 "start_ref": "19117001",
 "start_ref_usfm": "PSA 117:1",
 "end_ref": "19117002",
@@ -2360,6 +2534,12 @@
 "start_ref_usfm": "EXO 28:1",
 "end_ref": "02028014",
 "end_ref_usfm": "EXO 28:14"
+},
+{
+"start_ref": "03010001",
+"start_ref_usfm": "LEV 10:1",
+"end_ref": "03010011",
+"end_ref_usfm": "LEV 10:11"
 },
 {
 "start_ref": "19117001",
@@ -2516,6 +2696,18 @@
 "end_ref_usfm": "EXO 40:38"
 },
 {
+"start_ref": "03009001",
+"start_ref_usfm": "LEV 9:1",
+"end_ref": "03009007",
+"end_ref_usfm": "LEV 9:7"
+},
+{
+"start_ref": "03009015",
+"start_ref_usfm": "LEV 9:15",
+"end_ref": "03009024",
+"end_ref_usfm": "LEV 9:24"
+},
+{
 "start_ref": "04014001",
 "start_ref_usfm": "NUM 14:1",
 "end_ref": "04014010",
@@ -2892,6 +3084,12 @@
 "start_ref_usfm": "EPH 3:14",
 "end_ref": "49003021",
 "end_ref_usfm": "EPH 3:21"
+},
+{
+"start_ref": "50001001",
+"start_ref_usfm": "PHP 1:1",
+"end_ref": "50001011",
+"end_ref_usfm": "PHP 1:11"
 },
 {
 "start_ref": "52002009",
@@ -3015,6 +3213,18 @@
 "end_ref_usfm": "EXO 40:38"
 },
 {
+"start_ref": "03009001",
+"start_ref_usfm": "LEV 9:1",
+"end_ref": "03009007",
+"end_ref_usfm": "LEV 9:7"
+},
+{
+"start_ref": "03009015",
+"start_ref_usfm": "LEV 9:15",
+"end_ref": "03009024",
+"end_ref_usfm": "LEV 9:24"
+},
+{
 "start_ref": "04014001",
 "start_ref_usfm": "NUM 14:1",
 "end_ref": "04014010",
@@ -3391,6 +3601,12 @@
 "start_ref_usfm": "EPH 3:14",
 "end_ref": "49003021",
 "end_ref_usfm": "EPH 3:21"
+},
+{
+"start_ref": "50001001",
+"start_ref_usfm": "PHP 1:1",
+"end_ref": "50001011",
+"end_ref_usfm": "PHP 1:11"
 },
 {
 "start_ref": "52002009",
@@ -3805,6 +4021,12 @@
 "end_ref_usfm": "EXO 13:22"
 },
 {
+"start_ref": "02014001",
+"start_ref_usfm": "EXO 14:1",
+"end_ref": "02014014",
+"end_ref_usfm": "EXO 14:14"
+},
+{
 "start_ref": "02014015",
 "start_ref_usfm": "EXO 14:15",
 "end_ref": "02014031",
@@ -4061,12 +4283,6 @@
 "start_ref_usfm": "EXO 36:35",
 "end_ref": "02036038",
 "end_ref_usfm": "EXO 36:38"
-},
-{
-"start_ref": "02037001",
-"start_ref_usfm": "EXO 37:1",
-"end_ref": "02037009",
-"end_ref_usfm": "EXO 37:9"
 }
 ],
 "resource": [],
@@ -4074,7 +4290,7 @@
 {
 "id": "deity:Lord",
 "type": "deity",
-"confidence": 0.7324,
+"confidence": 0.7336,
 "match_method": "scored",
 "preferred_label": "LORD"
 }
@@ -4430,6 +4646,12 @@
 "end_ref_usfm": "EXO 13:22"
 },
 {
+"start_ref": "02014001",
+"start_ref_usfm": "EXO 14:1",
+"end_ref": "02014014",
+"end_ref_usfm": "EXO 14:14"
+},
+{
 "start_ref": "02014015",
 "start_ref_usfm": "EXO 14:15",
 "end_ref": "02014031",
@@ -4686,19 +4908,13 @@
 "start_ref_usfm": "EXO 36:35",
 "end_ref": "02036038",
 "end_ref_usfm": "EXO 36:38"
-},
-{
-"start_ref": "02037001",
-"start_ref_usfm": "EXO 37:1",
-"end_ref": "02037009",
-"end_ref_usfm": "EXO 37:9"
 }
 ],
 "resource": []
 }
 },
 {
-"content_id": "eng-t235-v1",
+"content_id": "eng-t235-v2",
 "reference_id": 0,
 "version": "1.0.4",
 "title": "gods",
@@ -4706,7 +4922,7 @@
 "index_reference": "gods",
 "language": "eng",
 "review_level": "None",
-"content": "<p>In the Bible, <a href=\"#t189\">God</a> refers to <a href=\"#t174\">Yahweh</a>, the God who created everything, the most powerful spiritual being. This is the God who made a covenant, a special promise, to <a href=\"#t1\">Abraham</a> and Abraham's grandson Jacob, and their <a href=\"#t234\">descendants</a>, the <a href=\"#t259\">Israelites</a>. This is the God who sent his son Jesus to earth in order to save people from the punishment for their disobedience. Yahweh, the creator God, told the people of Israel not to worship or follow any other god but Yahweh. However, sometimes people worship other spirit beings or idols as if they have power. Sometimes people use wood or metal to make statues or pillars to represent their gods. People call these statues <a href=\"#t72\">idols</a>.</p><p>Examples of other gods in the Old Testament include the Baals and Ashtaroths of the Canaanites, and Dagon the god of the Philistines. In the New Testament, some of the people in the places Paul went served other gods, and they even built temples and idols to these other gods, just like the people in the Old Testament times did.</p>",
+"content": "<p>In the Bible, <a href=\"#t189\">God</a> refers to the most powerful spiritual being, the Creator God, whose name is <a href=\"#t174\">Yahweh</a>. This is the God who made a <a href=\"#t29\">covenant</a>, a special promise, to <a href=\"#t1\">Abraham</a> and Abraham's grandson Jacob, and their <a href=\"#t234\">descendants</a>, the <a href=\"#t259\">Israelites</a>. This is the God who sent his Son, Jesus, to earth in order to save people from the punishment for their disobedience.</p><p>Yahweh, the Creator God, told the people of <a href=\"#t74\">Israel</a> not to <a href=\"#t149\">worship</a> or follow any other god but Yahweh. However, sometimes people worship other supernatural spiritual beings, or \"gods,\" as if those beings have the same power as Yahweh. Sometimes people use wood or metal to make statues or pillars to represent these gods. People call these statues \"<a href=\"#t72\">idols</a>.\"</p><p>Examples of other gods in the Old Testament include the <a href=\"#t285\">Baals</a> and Ashtaroths of the Canaanites, and Dagon, the god of the Philistines. In the New Testament, some of the people in the places Paul went served other gods. These people even built temples and idols to these other gods, just like the people in the Old Testament times did.</p><p>These supernatural spiritual beings, or \"gods,\" are not the true God, Yahweh. Yahweh created everything that exists, and Yahweh also created these supernatural spiritual beings. Yahweh created these beings good, as <a href=\"#t4\">angels</a>, to do his work. But some angels rebelled against God, and these became <a href=\"#t47\">evil spirits</a>. People also call these spirits \"demons\" or \"unclean spirits.\" These evil spirits try to deceive people and make people think that Yahweh is not the true Creator God.</p>",
 "associations": {
 "passage": [
 {
@@ -4768,6 +4984,12 @@
 "start_ref_usfm": "EXO 32:15",
 "end_ref": "02032024",
 "end_ref_usfm": "EXO 32:24"
+},
+{
+"start_ref": "03019001",
+"start_ref_usfm": "LEV 19:1",
+"end_ref": "03019008",
+"end_ref_usfm": "LEV 19:8"
 },
 {
 "start_ref": "04021027",
@@ -5104,6 +5326,12 @@
 "start_ref_usfm": "2CH 28:16",
 "end_ref": "14028027",
 "end_ref_usfm": "2CH 28:27"
+},
+{
+"start_ref": "14032009",
+"start_ref_usfm": "2CH 32:9",
+"end_ref": "14032023",
+"end_ref_usfm": "2CH 32:23"
 },
 {
 "start_ref": "15001001",
@@ -5171,7 +5399,7 @@
 }
 },
 {
-"content_id": "eng-t235-v1-audio",
+"content_id": "eng-t235-v2-audio",
 "reference_id": 0,
 "version": "1.0.4",
 "title": "gods",
@@ -5179,7 +5407,7 @@
 "index_reference": "gods",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t235/v1/vbr4.mp3'>mp3 file</a> (870836 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t235/v2/vbr4.mp3'>mp3 file</a> (990549 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -5241,6 +5469,12 @@
 "start_ref_usfm": "EXO 32:15",
 "end_ref": "02032024",
 "end_ref_usfm": "EXO 32:24"
+},
+{
+"start_ref": "03019001",
+"start_ref_usfm": "LEV 19:1",
+"end_ref": "03019008",
+"end_ref_usfm": "LEV 19:8"
 },
 {
 "start_ref": "04021027",
@@ -5577,6 +5811,12 @@
 "start_ref_usfm": "2CH 28:16",
 "end_ref": "14028027",
 "end_ref_usfm": "2CH 28:27"
+},
+{
+"start_ref": "14032009",
+"start_ref_usfm": "2CH 32:9",
+"end_ref": "14032023",
+"end_ref_usfm": "2CH 32:23"
 },
 {
 "start_ref": "15001001",
@@ -5745,6 +5985,18 @@
 "end_ref_usfm": "LUK 8:3"
 },
 {
+"start_ref": "42016016",
+"start_ref_usfm": "LUK 16:16",
+"end_ref": "42016018",
+"end_ref_usfm": "LUK 16:18"
+},
+{
+"start_ref": "42019045",
+"start_ref_usfm": "LUK 19:45",
+"end_ref": "42020008",
+"end_ref_usfm": "LUK 20:8"
+},
+{
 "start_ref": "44010034",
 "start_ref_usfm": "ACT 10:34",
 "end_ref": "44010048",
@@ -5774,7 +6026,7 @@
 {
 "id": "keyterm:GoodNews",
 "type": "keyterm",
-"confidence": 0.629,
+"confidence": 0.6305,
 "match_method": "scored",
 "preferred_label": "Good News"
 }
@@ -5882,6 +6134,18 @@
 "start_ref_usfm": "LUK 7:36",
 "end_ref": "42008003",
 "end_ref_usfm": "LUK 8:3"
+},
+{
+"start_ref": "42016016",
+"start_ref_usfm": "LUK 16:16",
+"end_ref": "42016018",
+"end_ref_usfm": "LUK 16:18"
+},
+{
+"start_ref": "42019045",
+"start_ref_usfm": "LUK 19:45",
+"end_ref": "42020008",
+"end_ref_usfm": "LUK 20:8"
 },
 {
 "start_ref": "44010034",
@@ -6120,6 +6384,18 @@
 "start_ref_usfm": "EPH 6:10",
 "end_ref": "49006020",
 "end_ref_usfm": "EPH 6:20"
+},
+{
+"start_ref": "50001001",
+"start_ref_usfm": "PHP 1:1",
+"end_ref": "50001011",
+"end_ref_usfm": "PHP 1:11"
+},
+{
+"start_ref": "50001012",
+"start_ref_usfm": "PHP 1:12",
+"end_ref": "50001018",
+"end_ref_usfm": "PHP 1:18"
 },
 {
 "start_ref": "52001001",
@@ -6391,6 +6667,18 @@
 "end_ref_usfm": "EPH 6:20"
 },
 {
+"start_ref": "50001001",
+"start_ref_usfm": "PHP 1:1",
+"end_ref": "50001011",
+"end_ref_usfm": "PHP 1:11"
+},
+{
+"start_ref": "50001012",
+"start_ref_usfm": "PHP 1:12",
+"end_ref": "50001018",
+"end_ref_usfm": "PHP 1:18"
+},
+{
 "start_ref": "52001001",
 "start_ref_usfm": "1TH 1:1",
 "end_ref": "52001010",
@@ -6483,6 +6771,12 @@
 "start_ref_usfm": "2SA 12:15",
 "end_ref": "10012025",
 "end_ref_usfm": "2SA 12:25"
+},
+{
+"start_ref": "14030001",
+"start_ref_usfm": "2CH 30:1",
+"end_ref": "14030012",
+"end_ref_usfm": "2CH 30:12"
 },
 {
 "start_ref": "15009005",
@@ -6693,6 +6987,12 @@
 "start_ref_usfm": "EPH 6:21",
 "end_ref": "49006024",
 "end_ref_usfm": "EPH 6:24"
+},
+{
+"start_ref": "50001001",
+"start_ref_usfm": "PHP 1:1",
+"end_ref": "50001011",
+"end_ref_usfm": "PHP 1:11"
 },
 {
 "start_ref": "52001001",
@@ -6856,6 +7156,12 @@
 "end_ref_usfm": "2SA 12:25"
 },
 {
+"start_ref": "14030001",
+"start_ref_usfm": "2CH 30:1",
+"end_ref": "14030012",
+"end_ref_usfm": "2CH 30:12"
+},
+{
 "start_ref": "15009005",
 "start_ref_usfm": "EZR 9:5",
 "end_ref": "15009015",
@@ -7064,6 +7370,12 @@
 "start_ref_usfm": "EPH 6:21",
 "end_ref": "49006024",
 "end_ref_usfm": "EPH 6:24"
+},
+{
+"start_ref": "50001001",
+"start_ref_usfm": "PHP 1:1",
+"end_ref": "50001011",
+"end_ref_usfm": "PHP 1:11"
 },
 {
 "start_ref": "52001001",

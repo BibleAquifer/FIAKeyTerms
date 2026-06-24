@@ -1,5 +1,50 @@
 [
 {
+"content_id": "eng-t32-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Dalmanutha",
+"media_type": "Text",
+"index_reference": "dalmanutha",
+"language": "eng",
+"review_level": "None",
+"content": "<p><b>Dalmanutha</b> is a village on the west coast of the <a href=\"#t121\">Sea of Galilee</a>. Mark says in Mark 8:10 that Jesus and his <a href=\"#t39\">disciples</a> went to Dalmanutha after Jesus fed 4,000 people on the northeast side of the Sea of Galilee. Some people believe that this is the same village as Magdala or Magadan, because Matthew says in Matthew 15:39 that after Jesus fed 4,000 people, Jesus and his disciples went to Magadan.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "41008001",
+"start_ref_usfm": "MRK 8:1",
+"end_ref": "41008010",
+"end_ref_usfm": "MRK 8:10"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "eng-t32-v1-audio",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Dalmanutha",
+"media_type": "Audio",
+"index_reference": "dalmanutha",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t32/v1/vbr4.mp3'>mp3 file</a> (369597 KB)</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "41008001",
+"start_ref_usfm": "MRK 8:1",
+"end_ref": "41008010",
+"end_ref_usfm": "MRK 8:10"
+}
+],
+"resource": []
+}
+},
+{
 "content_id": "eng-t33-v1",
 "reference_id": 0,
 "version": "1.0.4",
@@ -84,6 +129,12 @@
 "end_ref_usfm": "1CH 23:6"
 },
 {
+"start_ref": "14002001",
+"start_ref_usfm": "2CH 2:1",
+"end_ref": "14002018",
+"end_ref_usfm": "2CH 2:18"
+},
+{
 "start_ref": "14003001",
 "start_ref_usfm": "2CH 3:1",
 "end_ref": "14003014",
@@ -106,6 +157,36 @@
 "start_ref_usfm": "2CH 24:1",
 "end_ref": "14024016",
 "end_ref_usfm": "2CH 24:16"
+},
+{
+"start_ref": "14030021",
+"start_ref_usfm": "2CH 30:21",
+"end_ref": "14030027",
+"end_ref_usfm": "2CH 30:27"
+},
+{
+"start_ref": "14032024",
+"start_ref_usfm": "2CH 32:24",
+"end_ref": "14032033",
+"end_ref_usfm": "2CH 32:33"
+},
+{
+"start_ref": "14033001",
+"start_ref_usfm": "2CH 33:1",
+"end_ref": "14033009",
+"end_ref_usfm": "2CH 33:9"
+},
+{
+"start_ref": "14034001",
+"start_ref_usfm": "2CH 34:1",
+"end_ref": "14034007",
+"end_ref_usfm": "2CH 34:7"
+},
+{
+"start_ref": "14035001",
+"start_ref_usfm": "2CH 35:1",
+"end_ref": "14035019",
+"end_ref_usfm": "2CH 35:19"
 },
 {
 "start_ref": "40009027",
@@ -173,7 +254,7 @@
 {
 "id": "person:David",
 "type": "person",
-"confidence": 0.5797,
+"confidence": 0.57,
 "match_method": "scored",
 "preferred_label": "David"
 }
@@ -265,6 +346,12 @@
 "end_ref_usfm": "1CH 23:6"
 },
 {
+"start_ref": "14002001",
+"start_ref_usfm": "2CH 2:1",
+"end_ref": "14002018",
+"end_ref_usfm": "2CH 2:18"
+},
+{
 "start_ref": "14003001",
 "start_ref_usfm": "2CH 3:1",
 "end_ref": "14003014",
@@ -287,6 +374,36 @@
 "start_ref_usfm": "2CH 24:1",
 "end_ref": "14024016",
 "end_ref_usfm": "2CH 24:16"
+},
+{
+"start_ref": "14030021",
+"start_ref_usfm": "2CH 30:21",
+"end_ref": "14030027",
+"end_ref_usfm": "2CH 30:27"
+},
+{
+"start_ref": "14032024",
+"start_ref_usfm": "2CH 32:24",
+"end_ref": "14032033",
+"end_ref_usfm": "2CH 32:33"
+},
+{
+"start_ref": "14033001",
+"start_ref_usfm": "2CH 33:1",
+"end_ref": "14033009",
+"end_ref_usfm": "2CH 33:9"
+},
+{
+"start_ref": "14034001",
+"start_ref_usfm": "2CH 34:1",
+"end_ref": "14034007",
+"end_ref_usfm": "2CH 34:7"
+},
+{
+"start_ref": "14035001",
+"start_ref_usfm": "2CH 35:1",
+"end_ref": "14035019",
+"end_ref_usfm": "2CH 35:19"
 },
 {
 "start_ref": "40009027",
@@ -429,6 +546,12 @@
 "content": "<p>The phrases <b>demon</b>, <a href=\"#t47\">evil spirits</a>, or <b>unclean spirit</b> all refer to the same thing. A demon is a spirit that is rebelling against God. The leader of all demons is called <a href=\"#t118\">Satan</a>, the <a href=\"#t181\">devil</a>, or sometimes Beelzebul. Because God created everything that exists, God also created these spirits. God created them good, as <a href=\"#t4\">angels</a>, to do his work. But some <a href=\"#t4\">angels</a> rebelled against God, and these became evil spirits. These evil spirits try to destroy and deceive people.</p><p>Demons can take control of people so that people become sick or behave in a strange way. When a demon takes control of a person, we say that the person is \"<a href=\"#t101\">demon possessed</a>.\" A person who was possessed by a demon could become deaf, mute, or have fits that resemble epileptic attacks. The person could become very violent and shout. <a href=\"#t77\">Jewish</a> people tried to drive out demons from people through rituals that could last a long time. But Jesus drove out many demons from people during his time on earth, and he did this only by commanding the demons to leave!</p><p>Demons can also be called evil spirits. This makes clear that their intentions are <a href=\"#t187\">evil</a>. They sometimes are called unclean spirits. Something that is <a href=\"#t26\">unclean</a> is unfit for service to God.</p><p><strong>When you are translating demon, be careful about the following things:</strong></p><p>Demons are not the spirits of humans who have died, though in many cultures they may pretend that this is what they are. If you have to use a term that means spirits of dead people, then be aware that the people will have to learn over time that these spirits are not really spirits of dead people, but are only pretending to be so.</p>",
 "associations": {
 "passage": [
+{
+"start_ref": "03017001",
+"start_ref_usfm": "LEV 17:1",
+"end_ref": "03017009",
+"end_ref_usfm": "LEV 17:9"
+},
 {
 "start_ref": "40004012",
 "start_ref_usfm": "MAT 4:12",
@@ -704,6 +827,12 @@
 "content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t36/v1/vbr4.mp3'>mp3 file</a> (1498388 KB)</p>",
 "associations": {
 "passage": [
+{
+"start_ref": "03017001",
+"start_ref_usfm": "LEV 17:1",
+"end_ref": "03017009",
+"end_ref_usfm": "LEV 17:9"
+},
 {
 "start_ref": "40004012",
 "start_ref_usfm": "MAT 4:12",
@@ -1128,7 +1257,7 @@
 }
 },
 {
-"content_id": "eng-t234-v1",
+"content_id": "eng-t234-v2",
 "reference_id": 0,
 "version": "1.0.4",
 "title": "descendant",
@@ -1136,7 +1265,7 @@
 "index_reference": "descendant",
 "language": "eng",
 "review_level": "None",
-"content": "<p>A person's <b>descendants</b> are his children, grandchildren, and all future generations from the same family line. The <a href=\"#t259\">Israelites</a> are descendants of Jacob, <a href=\"#t1\">Abraham's</a> grandson. Jacob is the ancestor of the Israelites.</p>",
+"content": "<p>A person's <b>descendants</b> are his children, grandchildren, and all future generations from the same family line. The <a href=\"#t259\">Israelites</a> are descendants of Jacob, <a href=\"#t1\">Abraham</a>'s grandson. Jacob is the ancestor of the Israelites.</p><p>Sometimes, storytellers will use the words for \"son\" or a person's male child to talk about a descendant. For example, people sometimes refer to King <a href=\"#t33\">David</a>'s descendants as \"the sons of David\" even if those people are David's grandchildren or later descendants. People called Jesus \"the Son of David\" even though there were many generations between Jesus and his ancestor David!</p><p>If you have a passage where the storyteller uses the word \"son\" to mean \"descendant,\" you can also refer to the information in the Master Glossary about the word <a href=\"#t127\">son</a>.</p>",
 "associations": {
 "passage": [
 {
@@ -1276,6 +1405,48 @@
 "start_ref_usfm": "EXO 35:30",
 "end_ref": "02036007",
 "end_ref_usfm": "EXO 36:7"
+},
+{
+"start_ref": "03006008",
+"start_ref_usfm": "LEV 6:8",
+"end_ref": "03006018",
+"end_ref_usfm": "LEV 6:18"
+},
+{
+"start_ref": "03006019",
+"start_ref_usfm": "LEV 6:19",
+"end_ref": "03006023",
+"end_ref_usfm": "LEV 6:23"
+},
+{
+"start_ref": "03006024",
+"start_ref_usfm": "LEV 6:24",
+"end_ref": "03006030",
+"end_ref_usfm": "LEV 6:30"
+},
+{
+"start_ref": "03007001",
+"start_ref_usfm": "LEV 7:1",
+"end_ref": "03007010",
+"end_ref_usfm": "LEV 7:10"
+},
+{
+"start_ref": "03007028",
+"start_ref_usfm": "LEV 7:28",
+"end_ref": "03007028",
+"end_ref_usfm": "LEV 7:28"
+},
+{
+"start_ref": "03021017",
+"start_ref_usfm": "LEV 21:17",
+"end_ref": "03021025",
+"end_ref_usfm": "LEV 21:25"
+},
+{
+"start_ref": "03022001",
+"start_ref_usfm": "LEV 22:1",
+"end_ref": "03022009",
+"end_ref_usfm": "LEV 22:9"
 },
 {
 "start_ref": "04001017",
@@ -1680,64 +1851,22 @@
 "end_ref_usfm": "2CH 23:15"
 },
 {
+"start_ref": "14032024",
+"start_ref_usfm": "2CH 32:24",
+"end_ref": "14032033",
+"end_ref_usfm": "2CH 32:33"
+},
+{
+"start_ref": "14035001",
+"start_ref_usfm": "2CH 35:1",
+"end_ref": "14035019",
+"end_ref_usfm": "2CH 35:19"
+},
+{
 "start_ref": "15002001",
 "start_ref_usfm": "EZR 2:1",
 "end_ref": "15002020",
 "end_ref_usfm": "EZR 2:20"
-},
-{
-"start_ref": "15002036",
-"start_ref_usfm": "EZR 2:36",
-"end_ref": "15002042",
-"end_ref_usfm": "EZR 2:42"
-},
-{
-"start_ref": "15002043",
-"start_ref_usfm": "EZR 2:43",
-"end_ref": "15002058",
-"end_ref_usfm": "EZR 2:58"
-},
-{
-"start_ref": "15002059",
-"start_ref_usfm": "EZR 2:59",
-"end_ref": "15002063",
-"end_ref_usfm": "EZR 2:63"
-},
-{
-"start_ref": "15005001",
-"start_ref_usfm": "EZR 5:1",
-"end_ref": "15005005",
-"end_ref_usfm": "EZR 5:5"
-},
-{
-"start_ref": "15007001",
-"start_ref_usfm": "EZR 7:1",
-"end_ref": "15007010",
-"end_ref_usfm": "EZR 7:10"
-},
-{
-"start_ref": "15007011",
-"start_ref_usfm": "EZR 7:11",
-"end_ref": "15007028",
-"end_ref_usfm": "EZR 7:28"
-},
-{
-"start_ref": "15008001",
-"start_ref_usfm": "EZR 8:1",
-"end_ref": "15008014",
-"end_ref_usfm": "EZR 8:14"
-},
-{
-"start_ref": "15010001",
-"start_ref_usfm": "EZR 10:1",
-"end_ref": "15010008",
-"end_ref_usfm": "EZR 10:8"
-},
-{
-"start_ref": "15010018",
-"start_ref_usfm": "EZR 10:18",
-"end_ref": "15010024",
-"end_ref_usfm": "EZR 10:24"
 }
 ],
 "resource": [],
@@ -1745,7 +1874,7 @@
 }
 },
 {
-"content_id": "eng-t234-v1-audio",
+"content_id": "eng-t234-v2-audio",
 "reference_id": 0,
 "version": "1.0.4",
 "title": "descendant",
@@ -1753,7 +1882,7 @@
 "index_reference": "descendant",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t234/v1/vbr4.mp3'>mp3 file</a> (269660 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t234/v2/vbr4.mp3'>mp3 file</a> (548397 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -1893,6 +2022,48 @@
 "start_ref_usfm": "EXO 35:30",
 "end_ref": "02036007",
 "end_ref_usfm": "EXO 36:7"
+},
+{
+"start_ref": "03006008",
+"start_ref_usfm": "LEV 6:8",
+"end_ref": "03006018",
+"end_ref_usfm": "LEV 6:18"
+},
+{
+"start_ref": "03006019",
+"start_ref_usfm": "LEV 6:19",
+"end_ref": "03006023",
+"end_ref_usfm": "LEV 6:23"
+},
+{
+"start_ref": "03006024",
+"start_ref_usfm": "LEV 6:24",
+"end_ref": "03006030",
+"end_ref_usfm": "LEV 6:30"
+},
+{
+"start_ref": "03007001",
+"start_ref_usfm": "LEV 7:1",
+"end_ref": "03007010",
+"end_ref_usfm": "LEV 7:10"
+},
+{
+"start_ref": "03007028",
+"start_ref_usfm": "LEV 7:28",
+"end_ref": "03007028",
+"end_ref_usfm": "LEV 7:28"
+},
+{
+"start_ref": "03021017",
+"start_ref_usfm": "LEV 21:17",
+"end_ref": "03021025",
+"end_ref_usfm": "LEV 21:25"
+},
+{
+"start_ref": "03022001",
+"start_ref_usfm": "LEV 22:1",
+"end_ref": "03022009",
+"end_ref_usfm": "LEV 22:9"
 },
 {
 "start_ref": "04001017",
@@ -2297,64 +2468,22 @@
 "end_ref_usfm": "2CH 23:15"
 },
 {
+"start_ref": "14032024",
+"start_ref_usfm": "2CH 32:24",
+"end_ref": "14032033",
+"end_ref_usfm": "2CH 32:33"
+},
+{
+"start_ref": "14035001",
+"start_ref_usfm": "2CH 35:1",
+"end_ref": "14035019",
+"end_ref_usfm": "2CH 35:19"
+},
+{
 "start_ref": "15002001",
 "start_ref_usfm": "EZR 2:1",
 "end_ref": "15002020",
 "end_ref_usfm": "EZR 2:20"
-},
-{
-"start_ref": "15002036",
-"start_ref_usfm": "EZR 2:36",
-"end_ref": "15002042",
-"end_ref_usfm": "EZR 2:42"
-},
-{
-"start_ref": "15002043",
-"start_ref_usfm": "EZR 2:43",
-"end_ref": "15002058",
-"end_ref_usfm": "EZR 2:58"
-},
-{
-"start_ref": "15002059",
-"start_ref_usfm": "EZR 2:59",
-"end_ref": "15002063",
-"end_ref_usfm": "EZR 2:63"
-},
-{
-"start_ref": "15005001",
-"start_ref_usfm": "EZR 5:1",
-"end_ref": "15005005",
-"end_ref_usfm": "EZR 5:5"
-},
-{
-"start_ref": "15007001",
-"start_ref_usfm": "EZR 7:1",
-"end_ref": "15007010",
-"end_ref_usfm": "EZR 7:10"
-},
-{
-"start_ref": "15007011",
-"start_ref_usfm": "EZR 7:11",
-"end_ref": "15007028",
-"end_ref_usfm": "EZR 7:28"
-},
-{
-"start_ref": "15008001",
-"start_ref_usfm": "EZR 8:1",
-"end_ref": "15008014",
-"end_ref_usfm": "EZR 8:14"
-},
-{
-"start_ref": "15010001",
-"start_ref_usfm": "EZR 10:1",
-"end_ref": "15010008",
-"end_ref_usfm": "EZR 10:8"
-},
-{
-"start_ref": "15010018",
-"start_ref_usfm": "EZR 10:18",
-"end_ref": "15010024",
-"end_ref_usfm": "EZR 10:24"
 }
 ],
 "resource": []
@@ -3081,6 +3210,12 @@
 "end_ref_usfm": "MRK 7:23"
 },
 {
+"start_ref": "41007031",
+"start_ref_usfm": "MRK 7:31",
+"end_ref": "41007037",
+"end_ref_usfm": "MRK 7:37"
+},
+{
 "start_ref": "41008001",
 "start_ref_usfm": "MRK 8:1",
 "end_ref": "41008010",
@@ -3343,12 +3478,6 @@
 "start_ref_usfm": "LUK 14:25",
 "end_ref": "42014035",
 "end_ref_usfm": "LUK 14:35"
-},
-{
-"start_ref": "42016001",
-"start_ref_usfm": "LUK 16:1",
-"end_ref": "42016015",
-"end_ref_usfm": "LUK 16:15"
 }
 ],
 "resource": [],
@@ -3698,6 +3827,12 @@
 "end_ref_usfm": "MRK 7:23"
 },
 {
+"start_ref": "41007031",
+"start_ref_usfm": "MRK 7:31",
+"end_ref": "41007037",
+"end_ref_usfm": "MRK 7:37"
+},
+{
 "start_ref": "41008001",
 "start_ref_usfm": "MRK 8:1",
 "end_ref": "41008010",
@@ -3960,12 +4095,6 @@
 "start_ref_usfm": "LUK 14:25",
 "end_ref": "42014035",
 "end_ref_usfm": "LUK 14:35"
-},
-{
-"start_ref": "42016001",
-"start_ref_usfm": "LUK 16:1",
-"end_ref": "42016015",
-"end_ref_usfm": "LUK 16:15"
 }
 ],
 "resource": []
@@ -4000,6 +4129,12 @@
 "start_ref_usfm": "GEN 44:14",
 "end_ref": "01044034",
 "end_ref_usfm": "GEN 44:34"
+},
+{
+"start_ref": "03019026",
+"start_ref_usfm": "LEV 19:26",
+"end_ref": "03019030",
+"end_ref_usfm": "LEV 19:30"
 },
 {
 "start_ref": "04022001",
@@ -4048,6 +4183,12 @@
 "start_ref_usfm": "1SA 15:10",
 "end_ref": "09015023",
 "end_ref_usfm": "1SA 15:23"
+},
+{
+"start_ref": "14033001",
+"start_ref_usfm": "2CH 33:1",
+"end_ref": "14033009",
+"end_ref_usfm": "2CH 33:9"
 },
 {
 "start_ref": "44016016",
@@ -4091,6 +4232,12 @@
 "end_ref_usfm": "GEN 44:34"
 },
 {
+"start_ref": "03019026",
+"start_ref_usfm": "LEV 19:26",
+"end_ref": "03019030",
+"end_ref_usfm": "LEV 19:30"
+},
+{
 "start_ref": "04022001",
 "start_ref_usfm": "NUM 22:1",
 "end_ref": "04022021",
@@ -4139,6 +4286,12 @@
 "end_ref_usfm": "1SA 15:23"
 },
 {
+"start_ref": "14033001",
+"start_ref_usfm": "2CH 33:1",
+"end_ref": "14033009",
+"end_ref_usfm": "2CH 33:9"
+},
+{
 "start_ref": "44016016",
 "start_ref_usfm": "ACT 16:16",
 "end_ref": "44016024",
@@ -4160,6 +4313,18 @@
 "content": "<p><b>Divorce</b> is a permanent and legal separation between a husband and wife. In the Old Testament, the <a href=\"#t83\">law</a> of God allowed a man to divorce his wife if he thought she had a relationship with another man. However, God makes clear that he hates divorce. God wants husband and wife to live together in harmony and to be dedicated to each other.</p><p>In the New Testament, Jesus also teaches the people that divorce is wrong. God meant for husband and wife to live together in unity.</p>",
 "associations": {
 "passage": [
+{
+"start_ref": "03021001",
+"start_ref_usfm": "LEV 21:1",
+"end_ref": "03021009",
+"end_ref_usfm": "LEV 21:9"
+},
+{
+"start_ref": "03022010",
+"start_ref_usfm": "LEV 22:10",
+"end_ref": "03022016",
+"end_ref_usfm": "LEV 22:16"
+},
 {
 "start_ref": "04030001",
 "start_ref_usfm": "NUM 30:1",
@@ -4219,6 +4384,18 @@
 "content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t40/v1/vbr4.mp3'>mp3 file</a> (474212 KB)</p>",
 "associations": {
 "passage": [
+{
+"start_ref": "03021001",
+"start_ref_usfm": "LEV 21:1",
+"end_ref": "03021009",
+"end_ref_usfm": "LEV 21:9"
+},
+{
+"start_ref": "03022010",
+"start_ref_usfm": "LEV 22:10",
+"end_ref": "03022016",
+"end_ref_usfm": "LEV 22:16"
+},
 {
 "start_ref": "04030001",
 "start_ref_usfm": "NUM 30:1",
@@ -4739,6 +4916,12 @@
 "associations": {
 "passage": [
 {
+"start_ref": "03001001",
+"start_ref_usfm": "LEV 1:1",
+"end_ref": "03001017",
+"end_ref_usfm": "LEV 1:17"
+},
+{
 "start_ref": "41011012",
 "start_ref_usfm": "MRK 11:12",
 "end_ref": "41011026",
@@ -4781,6 +4964,12 @@
 "content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t42/v1/vbr4.mp3'>mp3 file</a> (669356 KB)</p>",
 "associations": {
 "passage": [
+{
+"start_ref": "03001001",
+"start_ref_usfm": "LEV 1:1",
+"end_ref": "03001017",
+"end_ref_usfm": "LEV 1:17"
+},
 {
 "start_ref": "41011012",
 "start_ref_usfm": "MRK 11:12",

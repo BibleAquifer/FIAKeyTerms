@@ -251,7 +251,7 @@
 {
 "id": "keyterm:Sabbath",
 "type": "keyterm",
-"confidence": 0.6049,
+"confidence": 0.6011,
 "match_method": "scored",
 "preferred_label": "sábado"
 }
@@ -876,7 +876,7 @@
 {
 "id": "keyterm:Slaughtering",
 "type": "keyterm",
-"confidence": 0.5701,
+"confidence": 0.5745,
 "match_method": "scored",
 "preferred_label": "sacrificio"
 }
@@ -1423,7 +1423,7 @@
 {
 "id": "keyterm:Salvation",
 "type": "keyterm",
-"confidence": 0.5971,
+"confidence": 0.597,
 "match_method": "scored",
 "preferred_label": "salvación"
 }
@@ -1514,7 +1514,7 @@
 {
 "id": "group:Samaritan",
 "type": "group",
-"confidence": 0.6146,
+"confidence": 0.6129,
 "match_method": "scored",
 "preferred_label": "Simrat"
 },
@@ -3431,6 +3431,12 @@
 "end_ref_usfm": "1CH 22:1"
 },
 {
+"start_ref": "14002001",
+"start_ref_usfm": "2CH 2:1",
+"end_ref": "14002018",
+"end_ref_usfm": "2CH 2:18"
+},
+{
 "start_ref": "14013001",
 "start_ref_usfm": "2CH 13:1",
 "end_ref": "14013012",
@@ -3597,12 +3603,6 @@
 "start_ref_usfm": "MRK 7:24",
 "end_ref": "41007030",
 "end_ref_usfm": "MRK 7:30"
-},
-{
-"start_ref": "41011001",
-"start_ref_usfm": "MRK 11:1",
-"end_ref": "41011011",
-"end_ref_usfm": "MRK 11:11"
 }
 ],
 "resource": [],
@@ -4056,6 +4056,12 @@
 "end_ref_usfm": "1CH 22:1"
 },
 {
+"start_ref": "14002001",
+"start_ref_usfm": "2CH 2:1",
+"end_ref": "14002018",
+"end_ref_usfm": "2CH 2:18"
+},
+{
 "start_ref": "14013001",
 "start_ref_usfm": "2CH 13:1",
 "end_ref": "14013012",
@@ -4222,12 +4228,6 @@
 "start_ref_usfm": "MRK 7:24",
 "end_ref": "41007030",
 "end_ref_usfm": "MRK 7:30"
-},
-{
-"start_ref": "41011001",
-"start_ref_usfm": "MRK 11:1",
-"end_ref": "41011011",
-"end_ref_usfm": "MRK 11:11"
 }
 ],
 "resource": []

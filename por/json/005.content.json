@@ -24,6 +24,12 @@
 "end_ref_usfm": "1KI 18:29"
 },
 {
+"start_ref": "12001001",
+"start_ref_usfm": "2KI 1:1",
+"end_ref": "12001018",
+"end_ref_usfm": "2KI 1:18"
+},
+{
 "start_ref": "40016013",
 "start_ref_usfm": "MAT 16:13",
 "end_ref": "40016020",
@@ -65,7 +71,7 @@
 {
 "id": "person:Elijah",
 "type": "person",
-"confidence": 0.7195,
+"confidence": 0.7305,
 "match_method": "scored",
 "preferred_label": "Elias"
 }
@@ -95,6 +101,12 @@
 "start_ref_usfm": "1KI 18:16",
 "end_ref": "11018029",
 "end_ref_usfm": "1KI 18:29"
+},
+{
+"start_ref": "12001001",
+"start_ref_usfm": "2KI 1:1",
+"end_ref": "12001018",
+"end_ref_usfm": "2KI 1:18"
 },
 {
 "start_ref": "40016013",
@@ -494,6 +506,18 @@
 "end_ref_usfm": "EXO 23:19"
 },
 {
+"start_ref": "03019019",
+"start_ref_usfm": "LEV 19:19",
+"end_ref": "03019025",
+"end_ref_usfm": "LEV 19:25"
+},
+{
+"start_ref": "03022010",
+"start_ref_usfm": "LEV 22:10",
+"end_ref": "03022016",
+"end_ref_usfm": "LEV 22:16"
+},
+{
 "start_ref": "04016001",
 "start_ref_usfm": "NUM 16:1",
 "end_ref": "04016019",
@@ -738,6 +762,12 @@
 "start_ref_usfm": "EPH 6:1",
 "end_ref": "49006009",
 "end_ref_usfm": "EPH 6:9"
+},
+{
+"start_ref": "50001001",
+"start_ref_usfm": "PHP 1:1",
+"end_ref": "50001011",
+"end_ref_usfm": "PHP 1:11"
 },
 {
 "start_ref": "54001008",
@@ -871,6 +901,18 @@
 "end_ref_usfm": "EXO 23:19"
 },
 {
+"start_ref": "03019019",
+"start_ref_usfm": "LEV 19:19",
+"end_ref": "03019025",
+"end_ref_usfm": "LEV 19:25"
+},
+{
+"start_ref": "03022010",
+"start_ref_usfm": "LEV 22:10",
+"end_ref": "03022016",
+"end_ref_usfm": "LEV 22:16"
+},
+{
 "start_ref": "04016001",
 "start_ref_usfm": "NUM 16:1",
 "end_ref": "04016019",
@@ -1117,6 +1159,12 @@
 "end_ref_usfm": "EPH 6:9"
 },
 {
+"start_ref": "50001001",
+"start_ref_usfm": "PHP 1:1",
+"end_ref": "50001011",
+"end_ref_usfm": "PHP 1:11"
+},
+{
 "start_ref": "54001008",
 "start_ref_usfm": "1TI 1:8",
 "end_ref": "54001011",
@@ -1173,6 +1221,12 @@
 "start_ref_usfm": "1CH 27:32",
 "end_ref": "13027034",
 "end_ref_usfm": "1CH 27:34"
+},
+{
+"start_ref": "14034008",
+"start_ref_usfm": "2CH 34:8",
+"end_ref": "14034021",
+"end_ref_usfm": "2CH 34:21"
 },
 {
 "start_ref": "15004007",
@@ -1394,6 +1448,12 @@
 "start_ref_usfm": "1CH 27:32",
 "end_ref": "13027034",
 "end_ref_usfm": "1CH 27:34"
+},
+{
+"start_ref": "14034008",
+"start_ref_usfm": "2CH 34:8",
+"end_ref": "14034021",
+"end_ref_usfm": "2CH 34:21"
 },
 {
 "start_ref": "15004007",
@@ -2231,6 +2291,12 @@
 "end_ref_usfm": "2CH 18:27"
 },
 {
+"start_ref": "14036017",
+"start_ref_usfm": "2CH 36:17",
+"end_ref": "14036023",
+"end_ref_usfm": "2CH 36:23"
+},
+{
 "start_ref": "15001001",
 "start_ref_usfm": "EZR 1:1",
 "end_ref": "15001011",
@@ -2542,6 +2608,12 @@
 "start_ref_usfm": "2CH 18:9",
 "end_ref": "14018027",
 "end_ref_usfm": "2CH 18:27"
+},
+{
+"start_ref": "14036017",
+"start_ref_usfm": "2CH 36:17",
+"end_ref": "14036023",
+"end_ref_usfm": "2CH 36:23"
 },
 {
 "start_ref": "15001001",
@@ -4500,6 +4572,66 @@
 "end_ref_usfm": "EXO 23:19"
 },
 {
+"start_ref": "03016029",
+"start_ref_usfm": "LEV 16:29",
+"end_ref": "03016034",
+"end_ref_usfm": "LEV 16:34"
+},
+{
+"start_ref": "03017001",
+"start_ref_usfm": "LEV 17:1",
+"end_ref": "03017009",
+"end_ref_usfm": "LEV 17:9"
+},
+{
+"start_ref": "03017010",
+"start_ref_usfm": "LEV 17:10",
+"end_ref": "03017016",
+"end_ref_usfm": "LEV 17:16"
+},
+{
+"start_ref": "03018024",
+"start_ref_usfm": "LEV 18:24",
+"end_ref": "03018030",
+"end_ref_usfm": "LEV 18:30"
+},
+{
+"start_ref": "03019009",
+"start_ref_usfm": "LEV 19:9",
+"end_ref": "03019014",
+"end_ref_usfm": "LEV 19:14"
+},
+{
+"start_ref": "03019031",
+"start_ref_usfm": "LEV 19:31",
+"end_ref": "03019037",
+"end_ref_usfm": "LEV 19:37"
+},
+{
+"start_ref": "03020001",
+"start_ref_usfm": "LEV 20:1",
+"end_ref": "03020009",
+"end_ref_usfm": "LEV 20:9"
+},
+{
+"start_ref": "03022017",
+"start_ref_usfm": "LEV 22:17",
+"end_ref": "03022025",
+"end_ref_usfm": "LEV 22:25"
+},
+{
+"start_ref": "03023015",
+"start_ref_usfm": "LEV 23:15",
+"end_ref": "03023022",
+"end_ref_usfm": "LEV 23:22"
+},
+{
+"start_ref": "03024010",
+"start_ref_usfm": "LEV 24:10",
+"end_ref": "03024023",
+"end_ref_usfm": "LEV 24:23"
+},
+{
 "start_ref": "04009001",
 "start_ref_usfm": "NUM 9:1",
 "end_ref": "04009014",
@@ -4606,6 +4738,18 @@
 "start_ref_usfm": "1CH 22:2",
 "end_ref": "13022019",
 "end_ref_usfm": "1CH 22:19"
+},
+{
+"start_ref": "14002001",
+"start_ref_usfm": "2CH 2:1",
+"end_ref": "14002018",
+"end_ref_usfm": "2CH 2:18"
+},
+{
+"start_ref": "14030021",
+"start_ref_usfm": "2CH 30:21",
+"end_ref": "14030027",
+"end_ref_usfm": "2CH 30:27"
 },
 {
 "start_ref": "42017011",
@@ -4721,6 +4865,66 @@
 "end_ref_usfm": "EXO 23:19"
 },
 {
+"start_ref": "03016029",
+"start_ref_usfm": "LEV 16:29",
+"end_ref": "03016034",
+"end_ref_usfm": "LEV 16:34"
+},
+{
+"start_ref": "03017001",
+"start_ref_usfm": "LEV 17:1",
+"end_ref": "03017009",
+"end_ref_usfm": "LEV 17:9"
+},
+{
+"start_ref": "03017010",
+"start_ref_usfm": "LEV 17:10",
+"end_ref": "03017016",
+"end_ref_usfm": "LEV 17:16"
+},
+{
+"start_ref": "03018024",
+"start_ref_usfm": "LEV 18:24",
+"end_ref": "03018030",
+"end_ref_usfm": "LEV 18:30"
+},
+{
+"start_ref": "03019009",
+"start_ref_usfm": "LEV 19:9",
+"end_ref": "03019014",
+"end_ref_usfm": "LEV 19:14"
+},
+{
+"start_ref": "03019031",
+"start_ref_usfm": "LEV 19:31",
+"end_ref": "03019037",
+"end_ref_usfm": "LEV 19:37"
+},
+{
+"start_ref": "03020001",
+"start_ref_usfm": "LEV 20:1",
+"end_ref": "03020009",
+"end_ref_usfm": "LEV 20:9"
+},
+{
+"start_ref": "03022017",
+"start_ref_usfm": "LEV 22:17",
+"end_ref": "03022025",
+"end_ref_usfm": "LEV 22:25"
+},
+{
+"start_ref": "03023015",
+"start_ref_usfm": "LEV 23:15",
+"end_ref": "03023022",
+"end_ref_usfm": "LEV 23:22"
+},
+{
+"start_ref": "03024010",
+"start_ref_usfm": "LEV 24:10",
+"end_ref": "03024023",
+"end_ref_usfm": "LEV 24:23"
+},
+{
 "start_ref": "04009001",
 "start_ref_usfm": "NUM 9:1",
 "end_ref": "04009014",
@@ -4827,6 +5031,18 @@
 "start_ref_usfm": "1CH 22:2",
 "end_ref": "13022019",
 "end_ref_usfm": "1CH 22:19"
+},
+{
+"start_ref": "14002001",
+"start_ref_usfm": "2CH 2:1",
+"end_ref": "14002018",
+"end_ref_usfm": "2CH 2:18"
+},
+{
+"start_ref": "14030021",
+"start_ref_usfm": "2CH 30:21",
+"end_ref": "14030027",
+"end_ref_usfm": "2CH 30:27"
 },
 {
 "start_ref": "42017011",
@@ -5274,6 +5490,18 @@
 "end_ref_usfm": "EPH 6:20"
 },
 {
+"start_ref": "50001001",
+"start_ref_usfm": "PHP 1:1",
+"end_ref": "50001011",
+"end_ref_usfm": "PHP 1:11"
+},
+{
+"start_ref": "50001012",
+"start_ref_usfm": "PHP 1:12",
+"end_ref": "50001018",
+"end_ref_usfm": "PHP 1:18"
+},
+{
 "start_ref": "52001001",
 "start_ref_usfm": "1TH 1:1",
 "end_ref": "52001010",
@@ -5541,6 +5769,18 @@
 "start_ref_usfm": "EPH 6:10",
 "end_ref": "49006020",
 "end_ref_usfm": "EPH 6:20"
+},
+{
+"start_ref": "50001001",
+"start_ref_usfm": "PHP 1:1",
+"end_ref": "50001011",
+"end_ref_usfm": "PHP 1:11"
+},
+{
+"start_ref": "50001012",
+"start_ref_usfm": "PHP 1:12",
+"end_ref": "50001018",
+"end_ref_usfm": "PHP 1:18"
 },
 {
 "start_ref": "52001001",

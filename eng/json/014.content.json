@@ -1,6 +1,6 @@
 [
 {
-"content_id": "eng-t94-v1",
+"content_id": "eng-t94-v2",
 "reference_id": 0,
 "version": "1.0.4",
 "title": "nation",
@@ -8,7 +8,7 @@
 "index_reference": "nation",
 "language": "eng",
 "review_level": "None",
-"content": "<p>A <b>nation</b> is a group of people that belong together and who live in the same country, and who have the same ruler.</p><p>Whenever the Bible talks about \"all the nations of the earth,\" this is another way of saying \"all the people who live on earth.\"</p>",
+"content": "<p>A <b>nation</b> is a group of people who belong together. These people usually live in the same country and have the same ruler.</p><p>Sometimes people use the word nation to refer to a people group who have something in common, even if those people do not have a king or a country. A people group may be <a href=\"#t234\">descendants</a> from the same person or share a similar purpose. For example, the nation of <a href=\"#t74\">Israel</a> was a people group before they had their own land or <a href=\"#t226\">king</a> because the <a href=\"#t259\">Israelites</a> were all descendants of the same man. The nation of Israel was also a nation because God chose the Israelites to be God's special people. Sometimes translations simply call these kinds of groups \"people.\" The Israelites especially liked to call themselves the \"people of <a href=\"#t174\">Yahweh</a>,\" or the \"people of Israel,\" rather than a nation. The Israelites often called non-Israelite groups of people who belonged together \"nations.\" Yahweh promised <a href=\"#t1\">Abraham</a> that Yahweh would <a href=\"#t16\">bless</a> all the nations of the earth through Abraham's descendants. We see that Yahweh kept his promise when Jesus' <a href=\"#t39\">disciples</a> shared the <a href=\"#t160\">good news</a> about Jesus not just to the Israelite nation but to all people groups.</p><p>Whenever the Bible talks about \"all the nations of the earth,\" this is another way to say \"all the people who live on earth.\"</p>",
 "associations": {
 "passage": [
 {
@@ -118,6 +118,12 @@
 "start_ref_usfm": "EXO 34:18",
 "end_ref": "02034028",
 "end_ref_usfm": "EXO 34:28"
+},
+{
+"start_ref": "03018024",
+"start_ref_usfm": "LEV 18:24",
+"end_ref": "03018030",
+"end_ref_usfm": "LEV 18:30"
 },
 {
 "start_ref": "04023007",
@@ -352,6 +358,18 @@
 "start_ref_usfm": "2CH 28:1",
 "end_ref": "14028008",
 "end_ref_usfm": "2CH 28:8"
+},
+{
+"start_ref": "14032009",
+"start_ref_usfm": "2CH 32:9",
+"end_ref": "14032023",
+"end_ref_usfm": "2CH 32:23"
+},
+{
+"start_ref": "14033001",
+"start_ref_usfm": "2CH 33:1",
+"end_ref": "14033009",
+"end_ref_usfm": "2CH 33:9"
 },
 {
 "start_ref": "15006019",
@@ -515,7 +533,7 @@
 {
 "id": "group:Gentile",
 "type": "group",
-"confidence": 0.5688,
+"confidence": 0.5687,
 "match_method": "scored",
 "preferred_label": "Gentiles"
 }
@@ -523,7 +541,7 @@
 }
 },
 {
-"content_id": "eng-t94-v1-audio",
+"content_id": "eng-t94-v2-audio",
 "reference_id": 0,
 "version": "1.0.4",
 "title": "nation",
@@ -531,7 +549,7 @@
 "index_reference": "nation",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t94/v1/vbr4.mp3'>mp3 file</a> (229484 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t94/v2/vbr4.mp3'>mp3 file</a> (825573 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -641,6 +659,12 @@
 "start_ref_usfm": "EXO 34:18",
 "end_ref": "02034028",
 "end_ref_usfm": "EXO 34:28"
+},
+{
+"start_ref": "03018024",
+"start_ref_usfm": "LEV 18:24",
+"end_ref": "03018030",
+"end_ref_usfm": "LEV 18:30"
 },
 {
 "start_ref": "04023007",
@@ -875,6 +899,18 @@
 "start_ref_usfm": "2CH 28:1",
 "end_ref": "14028008",
 "end_ref_usfm": "2CH 28:8"
+},
+{
+"start_ref": "14032009",
+"start_ref_usfm": "2CH 32:9",
+"end_ref": "14032023",
+"end_ref_usfm": "2CH 32:23"
+},
+{
+"start_ref": "14033001",
+"start_ref_usfm": "2CH 33:1",
+"end_ref": "14033009",
+"end_ref_usfm": "2CH 33:9"
 },
 {
 "start_ref": "15006019",

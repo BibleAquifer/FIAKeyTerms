@@ -391,7 +391,7 @@
 {
 "id": "keyterm:Passover",
 "type": "keyterm",
-"confidence": 0.6551,
+"confidence": 0.6637,
 "match_method": "scored",
 "preferred_label": "pascua"
 }
@@ -1156,6 +1156,72 @@
 "end_ref_usfm": "EXO 40:33"
 },
 {
+"start_ref": "03004001",
+"start_ref_usfm": "LEV 4:1",
+"end_ref": "03004012",
+"end_ref_usfm": "LEV 4:12"
+},
+{
+"start_ref": "03004013",
+"start_ref_usfm": "LEV 4:13",
+"end_ref": "03004026",
+"end_ref_usfm": "LEV 4:26"
+},
+{
+"start_ref": "03004027",
+"start_ref_usfm": "LEV 4:27",
+"end_ref": "03004035",
+"end_ref_usfm": "LEV 4:35"
+},
+{
+"start_ref": "03005001",
+"start_ref_usfm": "LEV 5:1",
+"end_ref": "03005013",
+"end_ref_usfm": "LEV 5:13"
+},
+{
+"start_ref": "03005014",
+"start_ref_usfm": "LEV 5:14",
+"end_ref": "03006007",
+"end_ref_usfm": "LEV 6:7"
+},
+{
+"start_ref": "03016015",
+"start_ref_usfm": "LEV 16:15",
+"end_ref": "03016022",
+"end_ref_usfm": "LEV 16:22"
+},
+{
+"start_ref": "03016029",
+"start_ref_usfm": "LEV 16:29",
+"end_ref": "03016034",
+"end_ref_usfm": "LEV 16:34"
+},
+{
+"start_ref": "03019015",
+"start_ref_usfm": "LEV 19:15",
+"end_ref": "03019018",
+"end_ref_usfm": "LEV 19:18"
+},
+{
+"start_ref": "03019019",
+"start_ref_usfm": "LEV 19:19",
+"end_ref": "03019025",
+"end_ref_usfm": "LEV 19:25"
+},
+{
+"start_ref": "03022001",
+"start_ref_usfm": "LEV 22:1",
+"end_ref": "03022009",
+"end_ref_usfm": "LEV 22:9"
+},
+{
+"start_ref": "03024010",
+"start_ref_usfm": "LEV 24:10",
+"end_ref": "03024023",
+"end_ref_usfm": "LEV 24:23"
+},
+{
 "start_ref": "04005005",
 "start_ref_usfm": "NUM 5:5",
 "end_ref": "04005010",
@@ -1532,72 +1598,6 @@
 "start_ref_usfm": "2CH 28:9",
 "end_ref": "14028015",
 "end_ref_usfm": "2CH 28:15"
-},
-{
-"start_ref": "14028016",
-"start_ref_usfm": "2CH 28:16",
-"end_ref": "14028027",
-"end_ref_usfm": "2CH 28:27"
-},
-{
-"start_ref": "16001001",
-"start_ref_usfm": "NEH 1:1",
-"end_ref": "16001011",
-"end_ref_usfm": "NEH 1:11"
-},
-{
-"start_ref": "16004001",
-"start_ref_usfm": "NEH 4:1",
-"end_ref": "16004014",
-"end_ref_usfm": "NEH 4:14"
-},
-{
-"start_ref": "16006001",
-"start_ref_usfm": "NEH 6:1",
-"end_ref": "16006014",
-"end_ref_usfm": "NEH 6:14"
-},
-{
-"start_ref": "18001001",
-"start_ref_usfm": "JOB 1:1",
-"end_ref": "18001005",
-"end_ref_usfm": "JOB 1:5"
-},
-{
-"start_ref": "19001001",
-"start_ref_usfm": "PSA 1:1",
-"end_ref": "19001006",
-"end_ref_usfm": "PSA 1:6"
-},
-{
-"start_ref": "40001018",
-"start_ref_usfm": "MAT 1:18",
-"end_ref": "40001025",
-"end_ref_usfm": "MAT 1:25"
-},
-{
-"start_ref": "40005027",
-"start_ref_usfm": "MAT 5:27",
-"end_ref": "40005032",
-"end_ref_usfm": "MAT 5:32"
-},
-{
-"start_ref": "40006009",
-"start_ref_usfm": "MAT 6:9",
-"end_ref": "40006018",
-"end_ref_usfm": "MAT 6:18"
-},
-{
-"start_ref": "40009001",
-"start_ref_usfm": "MAT 9:1",
-"end_ref": "40009008",
-"end_ref_usfm": "MAT 9:8"
-},
-{
-"start_ref": "40009009",
-"start_ref_usfm": "MAT 9:9",
-"end_ref": "40009013",
-"end_ref_usfm": "MAT 9:13"
 }
 ],
 "resource": [],
@@ -1773,6 +1773,72 @@
 "end_ref_usfm": "EXO 40:33"
 },
 {
+"start_ref": "03004001",
+"start_ref_usfm": "LEV 4:1",
+"end_ref": "03004012",
+"end_ref_usfm": "LEV 4:12"
+},
+{
+"start_ref": "03004013",
+"start_ref_usfm": "LEV 4:13",
+"end_ref": "03004026",
+"end_ref_usfm": "LEV 4:26"
+},
+{
+"start_ref": "03004027",
+"start_ref_usfm": "LEV 4:27",
+"end_ref": "03004035",
+"end_ref_usfm": "LEV 4:35"
+},
+{
+"start_ref": "03005001",
+"start_ref_usfm": "LEV 5:1",
+"end_ref": "03005013",
+"end_ref_usfm": "LEV 5:13"
+},
+{
+"start_ref": "03005014",
+"start_ref_usfm": "LEV 5:14",
+"end_ref": "03006007",
+"end_ref_usfm": "LEV 6:7"
+},
+{
+"start_ref": "03016015",
+"start_ref_usfm": "LEV 16:15",
+"end_ref": "03016022",
+"end_ref_usfm": "LEV 16:22"
+},
+{
+"start_ref": "03016029",
+"start_ref_usfm": "LEV 16:29",
+"end_ref": "03016034",
+"end_ref_usfm": "LEV 16:34"
+},
+{
+"start_ref": "03019015",
+"start_ref_usfm": "LEV 19:15",
+"end_ref": "03019018",
+"end_ref_usfm": "LEV 19:18"
+},
+{
+"start_ref": "03019019",
+"start_ref_usfm": "LEV 19:19",
+"end_ref": "03019025",
+"end_ref_usfm": "LEV 19:25"
+},
+{
+"start_ref": "03022001",
+"start_ref_usfm": "LEV 22:1",
+"end_ref": "03022009",
+"end_ref_usfm": "LEV 22:9"
+},
+{
+"start_ref": "03024010",
+"start_ref_usfm": "LEV 24:10",
+"end_ref": "03024023",
+"end_ref_usfm": "LEV 24:23"
+},
+{
 "start_ref": "04005005",
 "start_ref_usfm": "NUM 5:5",
 "end_ref": "04005010",
@@ -2149,72 +2215,6 @@
 "start_ref_usfm": "2CH 28:9",
 "end_ref": "14028015",
 "end_ref_usfm": "2CH 28:15"
-},
-{
-"start_ref": "14028016",
-"start_ref_usfm": "2CH 28:16",
-"end_ref": "14028027",
-"end_ref_usfm": "2CH 28:27"
-},
-{
-"start_ref": "16001001",
-"start_ref_usfm": "NEH 1:1",
-"end_ref": "16001011",
-"end_ref_usfm": "NEH 1:11"
-},
-{
-"start_ref": "16004001",
-"start_ref_usfm": "NEH 4:1",
-"end_ref": "16004014",
-"end_ref_usfm": "NEH 4:14"
-},
-{
-"start_ref": "16006001",
-"start_ref_usfm": "NEH 6:1",
-"end_ref": "16006014",
-"end_ref_usfm": "NEH 6:14"
-},
-{
-"start_ref": "18001001",
-"start_ref_usfm": "JOB 1:1",
-"end_ref": "18001005",
-"end_ref_usfm": "JOB 1:5"
-},
-{
-"start_ref": "19001001",
-"start_ref_usfm": "PSA 1:1",
-"end_ref": "19001006",
-"end_ref_usfm": "PSA 1:6"
-},
-{
-"start_ref": "40001018",
-"start_ref_usfm": "MAT 1:18",
-"end_ref": "40001025",
-"end_ref_usfm": "MAT 1:25"
-},
-{
-"start_ref": "40005027",
-"start_ref_usfm": "MAT 5:27",
-"end_ref": "40005032",
-"end_ref_usfm": "MAT 5:32"
-},
-{
-"start_ref": "40006009",
-"start_ref_usfm": "MAT 6:9",
-"end_ref": "40006018",
-"end_ref_usfm": "MAT 6:18"
-},
-{
-"start_ref": "40009001",
-"start_ref_usfm": "MAT 9:1",
-"end_ref": "40009008",
-"end_ref_usfm": "MAT 9:8"
-},
-{
-"start_ref": "40009009",
-"start_ref_usfm": "MAT 9:9",
-"end_ref": "40009013",
-"end_ref_usfm": "MAT 9:13"
 }
 ],
 "resource": []
@@ -3162,7 +3162,7 @@
 {
 "id": "group:Pharisee",
 "type": "group",
-"confidence": 0.6234,
+"confidence": 0.623,
 "match_method": "scored",
 "preferred_label": "fariseo"
 }

@@ -418,7 +418,7 @@
 {
 "id": "deity:Teraphim",
 "type": "deity",
-"confidence": 0.6078,
+"confidence": 0.6071,
 "match_method": "scored",
 "preferred_label": "teraphim"
 }
@@ -1252,7 +1252,7 @@
 {
 "id": "person:Israel",
 "type": "person",
-"confidence": 0.7009,
+"confidence": 0.6972,
 "match_method": "scored",
 "preferred_label": "Israel"
 },
@@ -1884,8 +1884,8 @@
 {
 "id": "group:Israel",
 "type": "group",
-"confidence": 0.8663,
-"match_method": "embedding",
+"confidence": 0.5786,
+"match_method": "scored",
 "preferred_label": "Israel"
 }
 ]

@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Familiarization, Internalization, Articulation (FIA) Key Terms</b> © 2023 SRV Partners Released under CC BY-SA 4.0 license. <cite>Familiarization, Internalization, Articulation (FIA) Key Terms</cite> has been adapted in the following languages Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Familiarization, Internalization, Articulation (FIA)</cite> © 2023 SRV Partners. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "FIAKeyTerms",
-"date_created": "2026-06-10",
+"date_created": "2026-06-24",
 "language": "rus",
 "localizations": [
 "eng",
@@ -47,7 +47,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-06-10T14:02:52.383383"
+"dateCreated": "2026-06-24T16:52:39.156519"
 },
 "idAuthorities": {
 "aquifer": {
@@ -61,7 +61,7 @@
 "primary": {
 "aquifer": {
 "FIAKeyTerms": {
-"timestamp": "2026-06-10T14:02:52.383383"
+"timestamp": "2026-06-24T16:52:39.156519"
 }
 }
 },
@@ -93,7 +93,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 10107,
+"size": 9703,
 "scope": {
 "а": [
 "Ангелы"
@@ -102,7 +102,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 5421,
+"size": 5256,
 "scope": {
 "б": [
 "Бес"
@@ -111,7 +111,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 20615,
+"size": 19572,
 "scope": {
 "в": [
 "Вера/верить",
@@ -122,7 +122,7 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 16037,
+"size": 15461,
 "scope": {
 "г": [
 "Галилея",
@@ -132,7 +132,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 12090,
+"size": 11473,
 "scope": {
 "д": [
 "Дух Святой"
@@ -141,7 +141,7 @@
 },
 "json/006.content.json": {
 "mimeType": "text/json",
-"size": 5295,
+"size": 5245,
 "scope": {
 "е": [
 "Евангелие"
@@ -150,7 +150,7 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 12182,
+"size": 11561,
 "scope": {
 "ж": [
 "Жертва/ жертвоприношение"
@@ -159,7 +159,7 @@
 },
 "json/008.content.json": {
 "mimeType": "text/json",
-"size": 12083,
+"size": 11483,
 "scope": {
 "з": [
 "Закон"
@@ -168,7 +168,7 @@
 },
 "json/009.content.json": {
 "mimeType": "text/json",
-"size": 12538,
+"size": 13135,
 "scope": {
 "и": [
 "Иерусалим",
@@ -178,7 +178,7 @@
 },
 "json/010.content.json": {
 "mimeType": "text/json",
-"size": 7148,
+"size": 6791,
 "scope": {
 "к": [
 "Капернаум",
@@ -188,7 +188,7 @@
 },
 "json/011.content.json": {
 "mimeType": "text/json",
-"size": 2508,
+"size": 2383,
 "scope": {
 "л": [
 "Лодка"
@@ -197,7 +197,7 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 13337,
+"size": 13440,
 "scope": {
 "м": [
 "Молиться",
@@ -207,7 +207,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 14494,
+"size": 13754,
 "scope": {
 "н": [
 "Назарет",
@@ -217,7 +217,7 @@
 },
 "json/014.content.json": {
 "mimeType": "text/json",
-"size": 1316,
+"size": 1257,
 "scope": {
 "о": [
 "Одержимый (одержимый бесом)"
@@ -226,7 +226,7 @@
 },
 "json/015.content.json": {
 "mimeType": "text/json",
-"size": 30641,
+"size": 31876,
 "scope": {
 "п": [
 "Приношение или жертва",
@@ -239,7 +239,7 @@
 },
 "json/016.content.json": {
 "mimeType": "text/json",
-"size": 692,
+"size": 663,
 "scope": {
 "р": [
 "Рыболовная сеть"
@@ -248,7 +248,7 @@
 },
 "json/017.content.json": {
 "mimeType": "text/json",
-"size": 29543,
+"size": 29516,
 "scope": {
 "с": [
 "Сатана",
@@ -261,7 +261,7 @@
 },
 "json/018.content.json": {
 "mimeType": "text/json",
-"size": 6292,
+"size": 5975,
 "scope": {
 "у": [
 "Учителя Закона"
@@ -270,7 +270,7 @@
 },
 "json/019.content.json": {
 "mimeType": "text/json",
-"size": 12039,
+"size": 11422,
 "scope": {
 "х": [
 "Христос"
@@ -279,7 +279,7 @@
 },
 "json/020.content.json": {
 "mimeType": "text/json",
-"size": 10018,
+"size": 9509,
 "scope": {
 "ц": [
 "Царство Божие"
@@ -288,7 +288,7 @@
 },
 "json/021.content.json": {
 "mimeType": "text/json",
-"size": 5945,
+"size": 10319,
 "scope": {
 "ч": [
 "Чистый и нечистый"
@@ -297,100 +297,100 @@
 },
 "json/022.content.json": {
 "mimeType": "text/json",
-"size": 12124,
+"size": 11506,
 "scope": {
 "c": [
 "Cвященник"
 ]
 }
 },
-"md/001.content.md": {
-"mimeType": "text/markdown",
-"size": 2847
-},
-"md/002.content.md": {
-"mimeType": "text/markdown",
-"size": 1866
-},
-"md/003.content.md": {
-"mimeType": "text/markdown",
-"size": 5718
-},
-"md/004.content.md": {
-"mimeType": "text/markdown",
-"size": 4196
-},
-"md/005.content.md": {
-"mimeType": "text/markdown",
-"size": 3274
-},
-"md/006.content.md": {
-"mimeType": "text/markdown",
-"size": 2046
-},
-"md/007.content.md": {
-"mimeType": "text/markdown",
-"size": 3350
-},
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 3399
+"size": 3394
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 3791
+"size": 4337
 },
-"md/010.content.md": {
+"md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 2320
+"size": 5714
+},
+"md/004.content.md": {
+"mimeType": "text/markdown",
+"size": 4164
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 1212
-},
-"md/012.content.md": {
-"mimeType": "text/markdown",
-"size": 3821
-},
-"md/013.content.md": {
-"mimeType": "text/markdown",
-"size": 4028
-},
-"md/014.content.md": {
-"mimeType": "text/markdown",
-"size": 970
-},
-"md/015.content.md": {
-"mimeType": "text/markdown",
-"size": 7996
+"size": 1195
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 829
-},
-"md/017.content.md": {
-"mimeType": "text/markdown",
-"size": 7733
-},
-"md/018.content.md": {
-"mimeType": "text/markdown",
-"size": 2037
-},
-"md/019.content.md": {
-"mimeType": "text/markdown",
-"size": 3666
+"size": 812
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 2934
+"size": 2917
+},
+"md/017.content.md": {
+"mimeType": "text/markdown",
+"size": 7867
+},
+"md/010.content.md": {
+"mimeType": "text/markdown",
+"size": 2294
+},
+"md/005.content.md": {
+"mimeType": "text/markdown",
+"size": 3257
+},
+"md/002.content.md": {
+"mimeType": "text/markdown",
+"size": 1868
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 1974
+"size": 2833
+},
+"md/012.content.md": {
+"mimeType": "text/markdown",
+"size": 4073
+},
+"md/015.content.md": {
+"mimeType": "text/markdown",
+"size": 8598
+},
+"md/007.content.md": {
+"mimeType": "text/markdown",
+"size": 3358
+},
+"md/006.content.md": {
+"mimeType": "text/markdown",
+"size": 2098
+},
+"md/001.content.md": {
+"mimeType": "text/markdown",
+"size": 2871
+},
+"md/014.content.md": {
+"mimeType": "text/markdown",
+"size": 953
+},
+"md/013.content.md": {
+"mimeType": "text/markdown",
+"size": 4075
 },
 "md/022.content.md": {
 "mimeType": "text/markdown",
-"size": 3189
+"size": 2925
+},
+"md/019.content.md": {
+"mimeType": "text/markdown",
+"size": 3649
+},
+"md/018.content.md": {
+"mimeType": "text/markdown",
+"size": 2020
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -482,91 +482,91 @@
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
-"size": 43668
+"size": 36080
 },
 "pdf/002.content.pdf": {
 "mimeType": "application/pdf",
-"size": 43063
+"size": 34965
 },
 "pdf/003.content.pdf": {
 "mimeType": "application/pdf",
-"size": 48506
+"size": 41522
 },
 "pdf/004.content.pdf": {
 "mimeType": "application/pdf",
-"size": 45860
+"size": 38550
 },
 "pdf/005.content.pdf": {
 "mimeType": "application/pdf",
-"size": 44591
+"size": 37364
 },
 "pdf/006.content.pdf": {
 "mimeType": "application/pdf",
-"size": 44031
+"size": 36604
 },
 "pdf/007.content.pdf": {
 "mimeType": "application/pdf",
-"size": 45406
+"size": 38605
 },
 "pdf/008.content.pdf": {
 "mimeType": "application/pdf",
-"size": 43590
+"size": 35776
 },
 "pdf/009.content.pdf": {
 "mimeType": "application/pdf",
-"size": 46871
+"size": 39946
 },
 "pdf/010.content.pdf": {
 "mimeType": "application/pdf",
-"size": 46215
+"size": 39242
 },
 "pdf/011.content.pdf": {
 "mimeType": "application/pdf",
-"size": 43441
+"size": 35698
 },
 "pdf/012.content.pdf": {
 "mimeType": "application/pdf",
-"size": 47054
+"size": 40113
 },
 "pdf/013.content.pdf": {
 "mimeType": "application/pdf",
-"size": 45896
+"size": 38176
 },
 "pdf/014.content.pdf": {
 "mimeType": "application/pdf",
-"size": 45607
+"size": 38094
 },
 "pdf/015.content.pdf": {
 "mimeType": "application/pdf",
-"size": 52987
+"size": 46610
 },
 "pdf/016.content.pdf": {
 "mimeType": "application/pdf",
-"size": 45235
+"size": 38015
 },
 "pdf/017.content.pdf": {
 "mimeType": "application/pdf",
-"size": 51677
+"size": 44773
 },
 "pdf/018.content.pdf": {
 "mimeType": "application/pdf",
-"size": 44817
+"size": 37656
 },
 "pdf/019.content.pdf": {
 "mimeType": "application/pdf",
-"size": 43754
+"size": 36270
 },
 "pdf/020.content.pdf": {
 "mimeType": "application/pdf",
-"size": 45045
+"size": 37965
 },
 "pdf/021.content.pdf": {
 "mimeType": "application/pdf",
-"size": 44234
+"size": 36884
 },
 "pdf/022.content.pdf": {
 "mimeType": "application/pdf",
-"size": 44343
+"size": 36603
 }
 },
 "copyright": {
@@ -1362,7 +1362,7 @@
 "index_reference": "суббота",
 "localizations": {
 "eng": {
-"content_id": "eng-t113-v1-audio",
+"content_id": "eng-t113-v2-audio",
 "language": "eng",
 "title": "sabbath"
 },

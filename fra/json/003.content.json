@@ -12,6 +12,12 @@
 "associations": {
 "passage": [
 {
+"start_ref": "03023033",
+"start_ref_usfm": "LEV 23:33",
+"end_ref": "03023044",
+"end_ref_usfm": "LEV 23:44"
+},
+{
 "start_ref": "41009002",
 "start_ref_usfm": "MRK 9:2",
 "end_ref": "41009013",
@@ -34,6 +40,12 @@
 "content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t124/v1/vbr4.mp3'>mp3 file</a> (659276 KB)</p>",
 "associations": {
 "passage": [
+{
+"start_ref": "03023033",
+"start_ref_usfm": "LEV 23:33",
+"end_ref": "03023044",
+"end_ref_usfm": "LEV 23:44"
+},
 {
 "start_ref": "41009002",
 "start_ref_usfm": "MRK 9:2",
@@ -121,6 +133,12 @@
 "start_ref_usfm": "EXO 34:10",
 "end_ref": "02034017",
 "end_ref_usfm": "EXO 34:17"
+},
+{
+"start_ref": "03014033",
+"start_ref_usfm": "LEV 14:33",
+"end_ref": "03014042",
+"end_ref_usfm": "LEV 14:42"
 },
 {
 "start_ref": "04013001",
@@ -284,14 +302,14 @@
 {
 "id": "place:Canaan",
 "type": "place",
-"confidence": 0.6516,
+"confidence": 0.6513,
 "match_method": "scored",
 "preferred_label": "Canaan"
 },
 {
 "id": "group:Canaan",
 "type": "group",
-"confidence": 0.6282,
+"confidence": 0.6276,
 "match_method": "scored",
 "preferred_label": "Canaan"
 }
@@ -375,6 +393,12 @@
 "start_ref_usfm": "EXO 34:10",
 "end_ref": "02034017",
 "end_ref_usfm": "EXO 34:17"
+},
+{
+"start_ref": "03014033",
+"start_ref_usfm": "LEV 14:33",
+"end_ref": "03014042",
+"end_ref_usfm": "LEV 14:42"
 },
 {
 "start_ref": "04013001",
@@ -3261,6 +3285,12 @@
 "end_ref_usfm": "1KI 22:28"
 },
 {
+"start_ref": "12001001",
+"start_ref_usfm": "2KI 1:1",
+"end_ref": "12001018",
+"end_ref_usfm": "2KI 1:18"
+},
+{
 "start_ref": "13016023",
 "start_ref_usfm": "1CH 16:23",
 "end_ref": "13016033",
@@ -3285,6 +3315,12 @@
 "end_ref_usfm": "1CH 29:20"
 },
 {
+"start_ref": "14002001",
+"start_ref_usfm": "2CH 2:1",
+"end_ref": "14002018",
+"end_ref_usfm": "2CH 2:18"
+},
+{
 "start_ref": "14007011",
 "start_ref_usfm": "2CH 7:11",
 "end_ref": "14007022",
@@ -3307,6 +3343,24 @@
 "start_ref_usfm": "2CH 28:9",
 "end_ref": "14028015",
 "end_ref_usfm": "2CH 28:15"
+},
+{
+"start_ref": "14030021",
+"start_ref_usfm": "2CH 30:21",
+"end_ref": "14030027",
+"end_ref_usfm": "2CH 30:27"
+},
+{
+"start_ref": "14032009",
+"start_ref_usfm": "2CH 32:9",
+"end_ref": "14032023",
+"end_ref_usfm": "2CH 32:23"
+},
+{
+"start_ref": "14036017",
+"start_ref_usfm": "2CH 36:17",
+"end_ref": "14036023",
+"end_ref_usfm": "2CH 36:23"
 },
 {
 "start_ref": "15001001",
@@ -3613,36 +3667,6 @@
 "start_ref_usfm": "LUK 11:1",
 "end_ref": "42011013",
 "end_ref_usfm": "LUK 11:13"
-},
-{
-"start_ref": "42011014",
-"start_ref_usfm": "LUK 11:14",
-"end_ref": "42011032",
-"end_ref_usfm": "LUK 11:32"
-},
-{
-"start_ref": "42012022",
-"start_ref_usfm": "LUK 12:22",
-"end_ref": "42012034",
-"end_ref_usfm": "LUK 12:34"
-},
-{
-"start_ref": "42015001",
-"start_ref_usfm": "LUK 15:1",
-"end_ref": "42015010",
-"end_ref_usfm": "LUK 15:10"
-},
-{
-"start_ref": "42015011",
-"start_ref_usfm": "LUK 15:11",
-"end_ref": "42015032",
-"end_ref_usfm": "LUK 15:32"
-},
-{
-"start_ref": "42018001",
-"start_ref_usfm": "LUK 18:1",
-"end_ref": "42018017",
-"end_ref_usfm": "LUK 18:17"
 }
 ],
 "resource": [],
@@ -3878,6 +3902,12 @@
 "end_ref_usfm": "1KI 22:28"
 },
 {
+"start_ref": "12001001",
+"start_ref_usfm": "2KI 1:1",
+"end_ref": "12001018",
+"end_ref_usfm": "2KI 1:18"
+},
+{
 "start_ref": "13016023",
 "start_ref_usfm": "1CH 16:23",
 "end_ref": "13016033",
@@ -3902,6 +3932,12 @@
 "end_ref_usfm": "1CH 29:20"
 },
 {
+"start_ref": "14002001",
+"start_ref_usfm": "2CH 2:1",
+"end_ref": "14002018",
+"end_ref_usfm": "2CH 2:18"
+},
+{
 "start_ref": "14007011",
 "start_ref_usfm": "2CH 7:11",
 "end_ref": "14007022",
@@ -3924,6 +3960,24 @@
 "start_ref_usfm": "2CH 28:9",
 "end_ref": "14028015",
 "end_ref_usfm": "2CH 28:15"
+},
+{
+"start_ref": "14030021",
+"start_ref_usfm": "2CH 30:21",
+"end_ref": "14030027",
+"end_ref_usfm": "2CH 30:27"
+},
+{
+"start_ref": "14032009",
+"start_ref_usfm": "2CH 32:9",
+"end_ref": "14032023",
+"end_ref_usfm": "2CH 32:23"
+},
+{
+"start_ref": "14036017",
+"start_ref_usfm": "2CH 36:17",
+"end_ref": "14036023",
+"end_ref_usfm": "2CH 36:23"
 },
 {
 "start_ref": "15001001",
@@ -4230,36 +4284,6 @@
 "start_ref_usfm": "LUK 11:1",
 "end_ref": "42011013",
 "end_ref_usfm": "LUK 11:13"
-},
-{
-"start_ref": "42011014",
-"start_ref_usfm": "LUK 11:14",
-"end_ref": "42011032",
-"end_ref_usfm": "LUK 11:32"
-},
-{
-"start_ref": "42012022",
-"start_ref_usfm": "LUK 12:22",
-"end_ref": "42012034",
-"end_ref_usfm": "LUK 12:34"
-},
-{
-"start_ref": "42015001",
-"start_ref_usfm": "LUK 15:1",
-"end_ref": "42015010",
-"end_ref_usfm": "LUK 15:10"
-},
-{
-"start_ref": "42015011",
-"start_ref_usfm": "LUK 15:11",
-"end_ref": "42015032",
-"end_ref_usfm": "LUK 15:32"
-},
-{
-"start_ref": "42018001",
-"start_ref_usfm": "LUK 18:1",
-"end_ref": "42018017",
-"end_ref_usfm": "LUK 18:17"
 }
 ],
 "resource": []
@@ -4312,6 +4336,18 @@
 "start_ref_usfm": "EXO 12:43",
 "end_ref": "02012051",
 "end_ref_usfm": "EXO 12:51"
+},
+{
+"start_ref": "03012001",
+"start_ref_usfm": "LEV 12:1",
+"end_ref": "03012008",
+"end_ref_usfm": "LEV 12:8"
+},
+{
+"start_ref": "03019019",
+"start_ref_usfm": "LEV 19:19",
+"end_ref": "03019025",
+"end_ref_usfm": "LEV 19:25"
 },
 {
 "start_ref": "05010012",
@@ -4494,6 +4530,12 @@
 "end_ref_usfm": "EPH 2:18"
 },
 {
+"start_ref": "50003002",
+"start_ref_usfm": "PHP 3:2",
+"end_ref": "50003011",
+"end_ref_usfm": "PHP 3:11"
+},
+{
 "start_ref": "56001010",
 "start_ref_usfm": "TIT 1:10",
 "end_ref": "56001016",
@@ -4505,7 +4547,7 @@
 {
 "id": "keyterm:Circumcision",
 "type": "keyterm",
-"confidence": 0.6009,
+"confidence": 0.6015,
 "match_method": "scored",
 "preferred_label": "Circumcision"
 }
@@ -4561,6 +4603,18 @@
 "end_ref_usfm": "EXO 12:51"
 },
 {
+"start_ref": "03012001",
+"start_ref_usfm": "LEV 12:1",
+"end_ref": "03012008",
+"end_ref_usfm": "LEV 12:8"
+},
+{
+"start_ref": "03019019",
+"start_ref_usfm": "LEV 19:19",
+"end_ref": "03019025",
+"end_ref_usfm": "LEV 19:25"
+},
+{
 "start_ref": "05010012",
 "start_ref_usfm": "DEU 10:12",
 "end_ref": "05010022",
@@ -4739,6 +4793,12 @@
 "start_ref_usfm": "EPH 2:11",
 "end_ref": "49002018",
 "end_ref_usfm": "EPH 2:18"
+},
+{
+"start_ref": "50003002",
+"start_ref_usfm": "PHP 3:2",
+"end_ref": "50003011",
+"end_ref_usfm": "PHP 3:11"
 },
 {
 "start_ref": "56001010",
@@ -4829,6 +4889,12 @@
 "end_ref_usfm": "EXO 11:10"
 },
 {
+"start_ref": "02014001",
+"start_ref_usfm": "EXO 14:1",
+"end_ref": "02014014",
+"end_ref_usfm": "EXO 14:14"
+},
+{
 "start_ref": "02014015",
 "start_ref_usfm": "EXO 14:15",
 "end_ref": "02014031",
@@ -4845,6 +4911,12 @@
 "start_ref_usfm": "EXO 28:1",
 "end_ref": "02028014",
 "end_ref_usfm": "EXO 28:14"
+},
+{
+"start_ref": "03019015",
+"start_ref_usfm": "LEV 19:15",
+"end_ref": "03019018",
+"end_ref_usfm": "LEV 19:18"
 },
 {
 "start_ref": "05001019",
@@ -5273,6 +5345,36 @@
 "end_ref_usfm": "2CH 29:17"
 },
 {
+"start_ref": "14030013",
+"start_ref_usfm": "2CH 30:13",
+"end_ref": "14030020",
+"end_ref_usfm": "2CH 30:20"
+},
+{
+"start_ref": "14031011",
+"start_ref_usfm": "2CH 31:11",
+"end_ref": "14031021",
+"end_ref_usfm": "2CH 31:21"
+},
+{
+"start_ref": "14032024",
+"start_ref_usfm": "2CH 32:24",
+"end_ref": "14032033",
+"end_ref_usfm": "2CH 32:33"
+},
+{
+"start_ref": "14034022",
+"start_ref_usfm": "2CH 34:22",
+"end_ref": "14034033",
+"end_ref_usfm": "2CH 34:33"
+},
+{
+"start_ref": "14036001",
+"start_ref_usfm": "2CH 36:1",
+"end_ref": "14036016",
+"end_ref_usfm": "2CH 36:16"
+},
+{
 "start_ref": "16002001",
 "start_ref_usfm": "NEH 2:1",
 "end_ref": "16002010",
@@ -5319,48 +5421,6 @@
 "start_ref_usfm": "MRK 2:23",
 "end_ref": "41003006",
 "end_ref_usfm": "MRK 3:6"
-},
-{
-"start_ref": "41007014",
-"start_ref_usfm": "MRK 7:14",
-"end_ref": "41007023",
-"end_ref_usfm": "MRK 7:23"
-},
-{
-"start_ref": "41012028",
-"start_ref_usfm": "MRK 12:28",
-"end_ref": "41012034",
-"end_ref_usfm": "MRK 12:34"
-},
-{
-"start_ref": "42002041",
-"start_ref_usfm": "LUK 2:41",
-"end_ref": "42002052",
-"end_ref_usfm": "LUK 2:52"
-},
-{
-"start_ref": "42012022",
-"start_ref_usfm": "LUK 12:22",
-"end_ref": "42012034",
-"end_ref_usfm": "LUK 12:34"
-},
-{
-"start_ref": "42024036",
-"start_ref_usfm": "LUK 24:36",
-"end_ref": "42024053",
-"end_ref_usfm": "LUK 24:53"
-},
-{
-"start_ref": "43014001",
-"start_ref_usfm": "JHN 14:1",
-"end_ref": "43014014",
-"end_ref_usfm": "JHN 14:14"
-},
-{
-"start_ref": "44002014",
-"start_ref_usfm": "ACT 2:14",
-"end_ref": "44002036",
-"end_ref_usfm": "ACT 2:36"
 }
 ],
 "resource": [],
@@ -5454,6 +5514,12 @@
 "end_ref_usfm": "EXO 11:10"
 },
 {
+"start_ref": "02014001",
+"start_ref_usfm": "EXO 14:1",
+"end_ref": "02014014",
+"end_ref_usfm": "EXO 14:14"
+},
+{
 "start_ref": "02014015",
 "start_ref_usfm": "EXO 14:15",
 "end_ref": "02014031",
@@ -5470,6 +5536,12 @@
 "start_ref_usfm": "EXO 28:1",
 "end_ref": "02028014",
 "end_ref_usfm": "EXO 28:14"
+},
+{
+"start_ref": "03019015",
+"start_ref_usfm": "LEV 19:15",
+"end_ref": "03019018",
+"end_ref_usfm": "LEV 19:18"
 },
 {
 "start_ref": "05001019",
@@ -5898,6 +5970,36 @@
 "end_ref_usfm": "2CH 29:17"
 },
 {
+"start_ref": "14030013",
+"start_ref_usfm": "2CH 30:13",
+"end_ref": "14030020",
+"end_ref_usfm": "2CH 30:20"
+},
+{
+"start_ref": "14031011",
+"start_ref_usfm": "2CH 31:11",
+"end_ref": "14031021",
+"end_ref_usfm": "2CH 31:21"
+},
+{
+"start_ref": "14032024",
+"start_ref_usfm": "2CH 32:24",
+"end_ref": "14032033",
+"end_ref_usfm": "2CH 32:33"
+},
+{
+"start_ref": "14034022",
+"start_ref_usfm": "2CH 34:22",
+"end_ref": "14034033",
+"end_ref_usfm": "2CH 34:33"
+},
+{
+"start_ref": "14036001",
+"start_ref_usfm": "2CH 36:1",
+"end_ref": "14036016",
+"end_ref_usfm": "2CH 36:16"
+},
+{
 "start_ref": "16002001",
 "start_ref_usfm": "NEH 2:1",
 "end_ref": "16002010",
@@ -5944,48 +6046,6 @@
 "start_ref_usfm": "MRK 2:23",
 "end_ref": "41003006",
 "end_ref_usfm": "MRK 3:6"
-},
-{
-"start_ref": "41007014",
-"start_ref_usfm": "MRK 7:14",
-"end_ref": "41007023",
-"end_ref_usfm": "MRK 7:23"
-},
-{
-"start_ref": "41012028",
-"start_ref_usfm": "MRK 12:28",
-"end_ref": "41012034",
-"end_ref_usfm": "MRK 12:34"
-},
-{
-"start_ref": "42002041",
-"start_ref_usfm": "LUK 2:41",
-"end_ref": "42002052",
-"end_ref_usfm": "LUK 2:52"
-},
-{
-"start_ref": "42012022",
-"start_ref_usfm": "LUK 12:22",
-"end_ref": "42012034",
-"end_ref_usfm": "LUK 12:34"
-},
-{
-"start_ref": "42024036",
-"start_ref_usfm": "LUK 24:36",
-"end_ref": "42024053",
-"end_ref_usfm": "LUK 24:53"
-},
-{
-"start_ref": "43014001",
-"start_ref_usfm": "JHN 14:1",
-"end_ref": "43014014",
-"end_ref_usfm": "JHN 14:14"
-},
-{
-"start_ref": "44002014",
-"start_ref_usfm": "ACT 2:14",
-"end_ref": "44002036",
-"end_ref_usfm": "ACT 2:36"
 }
 ],
 "resource": []
@@ -6003,6 +6063,12 @@
 "content": "<p>La <b>colombe</b> est une espèce d'oiseau qui se rencontre très fréquemment en <a href=\"#t74\">Israël</a>. Il y a différents types de colombes de tailles différentes. Certaines sont blanches et d'autres sont tachetées ou de plusieurs couleurs. La colombe est un oiseau doux et pacifique. Les colombes peuvent parcourir de longues distances et elles sont très douées pour retrouver leur chemin.</p><p>Dieu exigeait des <a href=\"#t259\">Israélites</a> qu'ils lui offrent des <a href=\"#t114\">sacrifices</a> d'animaux dans différents rituels. Il s'agissait généralement d'agneaux, de brebis, de chèvres ou de taureaux. Cependant, pour les gens pauvres, ces animaux coûtaient trop cher. C'est pour cela que Dieu a permis aux gens de sacrifier des colombes à la place.</p><p>Quand Jésus a été <a href=\"#t9\">baptisé</a>, le <a href=\"#t68\">Saint-Esprit</a> est descendu sur lui sous la forme d'une colombe. Cela ne signifie pas que le Saint-Esprit est une colombe. Cela signifie seulement qu'à ce moment-là, le Saint-Esprit a pris une forme qui ressemblait à une colombe.</p>",
 "associations": {
 "passage": [
+{
+"start_ref": "03001001",
+"start_ref_usfm": "LEV 1:1",
+"end_ref": "03001017",
+"end_ref_usfm": "LEV 1:17"
+},
 {
 "start_ref": "41011012",
 "start_ref_usfm": "MRK 11:12",
@@ -6046,6 +6112,12 @@
 "content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t42/v1/vbr4.mp3'>mp3 file</a> (948045 KB)</p>",
 "associations": {
 "passage": [
+{
+"start_ref": "03001001",
+"start_ref_usfm": "LEV 1:1",
+"end_ref": "03001017",
+"end_ref_usfm": "LEV 1:17"
+},
 {
 "start_ref": "41011012",
 "start_ref_usfm": "MRK 11:12",
@@ -6264,6 +6336,36 @@
 "end_ref_usfm": "EXO 34:35"
 },
 {
+"start_ref": "03004001",
+"start_ref_usfm": "LEV 4:1",
+"end_ref": "03004012",
+"end_ref_usfm": "LEV 4:12"
+},
+{
+"start_ref": "03004013",
+"start_ref_usfm": "LEV 4:13",
+"end_ref": "03004026",
+"end_ref_usfm": "LEV 4:26"
+},
+{
+"start_ref": "03004027",
+"start_ref_usfm": "LEV 4:27",
+"end_ref": "03004035",
+"end_ref_usfm": "LEV 4:35"
+},
+{
+"start_ref": "03005014",
+"start_ref_usfm": "LEV 5:14",
+"end_ref": "03006007",
+"end_ref_usfm": "LEV 6:7"
+},
+{
+"start_ref": "03022026",
+"start_ref_usfm": "LEV 22:26",
+"end_ref": "03022033",
+"end_ref_usfm": "LEV 22:33"
+},
+{
 "start_ref": "04036001",
 "start_ref_usfm": "NUM 36:1",
 "end_ref": "04036013",
@@ -6466,6 +6568,24 @@
 "start_ref_usfm": "2CH 24:17",
 "end_ref": "14024027",
 "end_ref_usfm": "2CH 24:27"
+},
+{
+"start_ref": "14031011",
+"start_ref_usfm": "2CH 31:11",
+"end_ref": "14031021",
+"end_ref_usfm": "2CH 31:21"
+},
+{
+"start_ref": "14033001",
+"start_ref_usfm": "2CH 33:1",
+"end_ref": "14033009",
+"end_ref_usfm": "2CH 33:9"
+},
+{
+"start_ref": "14034022",
+"start_ref_usfm": "2CH 34:22",
+"end_ref": "14034033",
+"end_ref_usfm": "2CH 34:33"
 },
 {
 "start_ref": "15007011",
@@ -6575,7 +6695,7 @@
 {
 "id": "keyterm:Commandment",
 "type": "keyterm",
-"confidence": 0.5735,
+"confidence": 0.5718,
 "match_method": "scored",
 "preferred_label": "commandement"
 }
@@ -6659,6 +6779,36 @@
 "start_ref_usfm": "EXO 34:29",
 "end_ref": "02034035",
 "end_ref_usfm": "EXO 34:35"
+},
+{
+"start_ref": "03004001",
+"start_ref_usfm": "LEV 4:1",
+"end_ref": "03004012",
+"end_ref_usfm": "LEV 4:12"
+},
+{
+"start_ref": "03004013",
+"start_ref_usfm": "LEV 4:13",
+"end_ref": "03004026",
+"end_ref_usfm": "LEV 4:26"
+},
+{
+"start_ref": "03004027",
+"start_ref_usfm": "LEV 4:27",
+"end_ref": "03004035",
+"end_ref_usfm": "LEV 4:35"
+},
+{
+"start_ref": "03005014",
+"start_ref_usfm": "LEV 5:14",
+"end_ref": "03006007",
+"end_ref_usfm": "LEV 6:7"
+},
+{
+"start_ref": "03022026",
+"start_ref_usfm": "LEV 22:26",
+"end_ref": "03022033",
+"end_ref_usfm": "LEV 22:33"
 },
 {
 "start_ref": "04036001",
@@ -6863,6 +7013,24 @@
 "start_ref_usfm": "2CH 24:17",
 "end_ref": "14024027",
 "end_ref_usfm": "2CH 24:27"
+},
+{
+"start_ref": "14031011",
+"start_ref_usfm": "2CH 31:11",
+"end_ref": "14031021",
+"end_ref_usfm": "2CH 31:21"
+},
+{
+"start_ref": "14033001",
+"start_ref_usfm": "2CH 33:1",
+"end_ref": "14033009",
+"end_ref_usfm": "2CH 33:9"
+},
+{
+"start_ref": "14034022",
+"start_ref_usfm": "2CH 34:22",
+"end_ref": "14034033",
+"end_ref_usfm": "2CH 34:33"
 },
 {
 "start_ref": "15007011",
@@ -7025,6 +7193,12 @@
 "end_ref_usfm": "2SA 12:15"
 },
 {
+"start_ref": "14030001",
+"start_ref_usfm": "2CH 30:1",
+"end_ref": "14030012",
+"end_ref_usfm": "2CH 30:12"
+},
+{
 "start_ref": "40014013",
 "start_ref_usfm": "MAT 14:13",
 "end_ref": "40014021",
@@ -7112,6 +7286,12 @@
 "start_ref_usfm": "2SA 12:1",
 "end_ref": "10012015",
 "end_ref_usfm": "2SA 12:15"
+},
+{
+"start_ref": "14030001",
+"start_ref_usfm": "2CH 30:1",
+"end_ref": "14030012",
+"end_ref_usfm": "2CH 30:12"
 },
 {
 "start_ref": "40014013",
@@ -7307,6 +7487,54 @@
 "end_ref_usfm": "EXO 40:15"
 },
 {
+"start_ref": "03008001",
+"start_ref_usfm": "LEV 8:1",
+"end_ref": "03008013",
+"end_ref_usfm": "LEV 8:13"
+},
+{
+"start_ref": "03008014",
+"start_ref_usfm": "LEV 8:14",
+"end_ref": "03008021",
+"end_ref_usfm": "LEV 8:21"
+},
+{
+"start_ref": "03008030",
+"start_ref_usfm": "LEV 8:30",
+"end_ref": "03008036",
+"end_ref_usfm": "LEV 8:36"
+},
+{
+"start_ref": "03011039",
+"start_ref_usfm": "LEV 11:39",
+"end_ref": "03011047",
+"end_ref_usfm": "LEV 11:47"
+},
+{
+"start_ref": "03016015",
+"start_ref_usfm": "LEV 16:15",
+"end_ref": "03016022",
+"end_ref_usfm": "LEV 16:22"
+},
+{
+"start_ref": "03020001",
+"start_ref_usfm": "LEV 20:1",
+"end_ref": "03020009",
+"end_ref_usfm": "LEV 20:9"
+},
+{
+"start_ref": "03021010",
+"start_ref_usfm": "LEV 21:10",
+"end_ref": "03021016",
+"end_ref_usfm": "LEV 21:16"
+},
+{
+"start_ref": "03022001",
+"start_ref_usfm": "LEV 22:1",
+"end_ref": "03022009",
+"end_ref_usfm": "LEV 22:9"
+},
+{
 "start_ref": "04003001",
 "start_ref_usfm": "NUM 3:1",
 "end_ref": "04003013",
@@ -7403,6 +7631,12 @@
 "end_ref_usfm": "1CH 29:9"
 },
 {
+"start_ref": "14002001",
+"start_ref_usfm": "2CH 2:1",
+"end_ref": "14002018",
+"end_ref_usfm": "2CH 2:18"
+},
+{
 "start_ref": "14007004",
 "start_ref_usfm": "2CH 7:4",
 "end_ref": "14007010",
@@ -7443,6 +7677,48 @@
 "start_ref_usfm": "2CH 29:31",
 "end_ref": "14029036",
 "end_ref_usfm": "2CH 29:36"
+},
+{
+"start_ref": "14030001",
+"start_ref_usfm": "2CH 30:1",
+"end_ref": "14030012",
+"end_ref_usfm": "2CH 30:12"
+},
+{
+"start_ref": "14030013",
+"start_ref_usfm": "2CH 30:13",
+"end_ref": "14030020",
+"end_ref_usfm": "2CH 30:20"
+},
+{
+"start_ref": "14030021",
+"start_ref_usfm": "2CH 30:21",
+"end_ref": "14030027",
+"end_ref_usfm": "2CH 30:27"
+},
+{
+"start_ref": "14031001",
+"start_ref_usfm": "2CH 31:1",
+"end_ref": "14031010",
+"end_ref_usfm": "2CH 31:10"
+},
+{
+"start_ref": "14031011",
+"start_ref_usfm": "2CH 31:11",
+"end_ref": "14031021",
+"end_ref_usfm": "2CH 31:21"
+},
+{
+"start_ref": "14035001",
+"start_ref_usfm": "2CH 35:1",
+"end_ref": "14035019",
+"end_ref_usfm": "2CH 35:19"
+},
+{
+"start_ref": "14036001",
+"start_ref_usfm": "2CH 36:1",
+"end_ref": "14036016",
+"end_ref_usfm": "2CH 36:16"
 },
 {
 "start_ref": "15008024",
@@ -7558,6 +7834,54 @@
 "end_ref_usfm": "EXO 40:15"
 },
 {
+"start_ref": "03008001",
+"start_ref_usfm": "LEV 8:1",
+"end_ref": "03008013",
+"end_ref_usfm": "LEV 8:13"
+},
+{
+"start_ref": "03008014",
+"start_ref_usfm": "LEV 8:14",
+"end_ref": "03008021",
+"end_ref_usfm": "LEV 8:21"
+},
+{
+"start_ref": "03008030",
+"start_ref_usfm": "LEV 8:30",
+"end_ref": "03008036",
+"end_ref_usfm": "LEV 8:36"
+},
+{
+"start_ref": "03011039",
+"start_ref_usfm": "LEV 11:39",
+"end_ref": "03011047",
+"end_ref_usfm": "LEV 11:47"
+},
+{
+"start_ref": "03016015",
+"start_ref_usfm": "LEV 16:15",
+"end_ref": "03016022",
+"end_ref_usfm": "LEV 16:22"
+},
+{
+"start_ref": "03020001",
+"start_ref_usfm": "LEV 20:1",
+"end_ref": "03020009",
+"end_ref_usfm": "LEV 20:9"
+},
+{
+"start_ref": "03021010",
+"start_ref_usfm": "LEV 21:10",
+"end_ref": "03021016",
+"end_ref_usfm": "LEV 21:16"
+},
+{
+"start_ref": "03022001",
+"start_ref_usfm": "LEV 22:1",
+"end_ref": "03022009",
+"end_ref_usfm": "LEV 22:9"
+},
+{
 "start_ref": "04003001",
 "start_ref_usfm": "NUM 3:1",
 "end_ref": "04003013",
@@ -7654,6 +7978,12 @@
 "end_ref_usfm": "1CH 29:9"
 },
 {
+"start_ref": "14002001",
+"start_ref_usfm": "2CH 2:1",
+"end_ref": "14002018",
+"end_ref_usfm": "2CH 2:18"
+},
+{
 "start_ref": "14007004",
 "start_ref_usfm": "2CH 7:4",
 "end_ref": "14007010",
@@ -7694,6 +8024,48 @@
 "start_ref_usfm": "2CH 29:31",
 "end_ref": "14029036",
 "end_ref_usfm": "2CH 29:36"
+},
+{
+"start_ref": "14030001",
+"start_ref_usfm": "2CH 30:1",
+"end_ref": "14030012",
+"end_ref_usfm": "2CH 30:12"
+},
+{
+"start_ref": "14030013",
+"start_ref_usfm": "2CH 30:13",
+"end_ref": "14030020",
+"end_ref_usfm": "2CH 30:20"
+},
+{
+"start_ref": "14030021",
+"start_ref_usfm": "2CH 30:21",
+"end_ref": "14030027",
+"end_ref_usfm": "2CH 30:27"
+},
+{
+"start_ref": "14031001",
+"start_ref_usfm": "2CH 31:1",
+"end_ref": "14031010",
+"end_ref_usfm": "2CH 31:10"
+},
+{
+"start_ref": "14031011",
+"start_ref_usfm": "2CH 31:11",
+"end_ref": "14031021",
+"end_ref_usfm": "2CH 31:21"
+},
+{
+"start_ref": "14035001",
+"start_ref_usfm": "2CH 35:1",
+"end_ref": "14035019",
+"end_ref_usfm": "2CH 35:19"
+},
+{
+"start_ref": "14036001",
+"start_ref_usfm": "2CH 36:1",
+"end_ref": "14036016",
+"end_ref_usfm": "2CH 36:16"
 },
 {
 "start_ref": "15008024",
@@ -8159,6 +8531,18 @@
 "end_ref_usfm": "EXO 20:26"
 },
 {
+"start_ref": "03019009",
+"start_ref_usfm": "LEV 19:9",
+"end_ref": "03019014",
+"end_ref_usfm": "LEV 19:14"
+},
+{
+"start_ref": "03019031",
+"start_ref_usfm": "LEV 19:31",
+"end_ref": "03019037",
+"end_ref_usfm": "LEV 19:37"
+},
+{
 "start_ref": "05005028",
 "start_ref_usfm": "DEU 5:28",
 "end_ref": "05005033",
@@ -8476,6 +8860,18 @@
 "start_ref_usfm": "EXO 20:18",
 "end_ref": "02020026",
 "end_ref_usfm": "EXO 20:26"
+},
+{
+"start_ref": "03019009",
+"start_ref_usfm": "LEV 19:9",
+"end_ref": "03019014",
+"end_ref_usfm": "LEV 19:14"
+},
+{
+"start_ref": "03019031",
+"start_ref_usfm": "LEV 19:31",
+"end_ref": "03019037",
+"end_ref_usfm": "LEV 19:37"
 },
 {
 "start_ref": "05005028",
@@ -9253,6 +9649,12 @@
 "end_ref_usfm": "LUK 14:35"
 },
 {
+"start_ref": "42023013",
+"start_ref_usfm": "LUK 23:13",
+"end_ref": "42023025",
+"end_ref_usfm": "LUK 23:25"
+},
+{
 "start_ref": "42023026",
 "start_ref_usfm": "LUK 23:26",
 "end_ref": "42023043",
@@ -9378,6 +9780,12 @@
 "start_ref_usfm": "LUK 14:25",
 "end_ref": "42014035",
 "end_ref_usfm": "LUK 14:35"
+},
+{
+"start_ref": "42023013",
+"start_ref_usfm": "LUK 23:13",
+"end_ref": "42023025",
+"end_ref_usfm": "LUK 23:25"
 },
 {
 "start_ref": "42023026",
@@ -9648,6 +10056,12 @@
 "end_ref_usfm": "EPH 6:24"
 },
 {
+"start_ref": "50003012",
+"start_ref_usfm": "PHP 3:12",
+"end_ref": "50003016",
+"end_ref_usfm": "PHP 3:16"
+},
+{
 "start_ref": "52001001",
 "start_ref_usfm": "1TH 1:1",
 "end_ref": "52001010",
@@ -9909,6 +10323,12 @@
 "start_ref_usfm": "EPH 6:21",
 "end_ref": "49006024",
 "end_ref_usfm": "EPH 6:24"
+},
+{
+"start_ref": "50003012",
+"start_ref_usfm": "PHP 3:12",
+"end_ref": "50003016",
+"end_ref_usfm": "PHP 3:16"
 },
 {
 "start_ref": "52001001",

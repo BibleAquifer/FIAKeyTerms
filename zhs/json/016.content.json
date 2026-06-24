@@ -225,6 +225,12 @@
 "end_ref_usfm": "MRK 12:12"
 },
 {
+"start_ref": "42020009",
+"start_ref_usfm": "LUK 20:9",
+"end_ref": "42020019",
+"end_ref_usfm": "LUK 20:19"
+},
+{
 "start_ref": "49002019",
 "start_ref_usfm": "EPH 2:19",
 "end_ref": "49002022",
@@ -236,14 +242,14 @@
 {
 "id": "realia:Cornerstone",
 "type": "realia",
-"confidence": 0.5995,
+"confidence": 0.5985,
 "match_method": "scored",
 "preferred_label": "Cornerstone"
 },
 {
 "id": "realia:Foundation",
 "type": "realia",
-"confidence": 0.5728,
+"confidence": 0.5693,
 "match_method": "scored",
 "preferred_label": "Foundation"
 }
@@ -273,6 +279,12 @@
 "start_ref_usfm": "MRK 12:1",
 "end_ref": "41012012",
 "end_ref_usfm": "MRK 12:12"
+},
+{
+"start_ref": "42020009",
+"start_ref_usfm": "LUK 20:9",
+"end_ref": "42020019",
+"end_ref_usfm": "LUK 20:19"
 },
 {
 "start_ref": "49002019",

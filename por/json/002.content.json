@@ -969,6 +969,12 @@
 "end_ref_usfm": "EXO 22:31"
 },
 {
+"start_ref": "03024010",
+"start_ref_usfm": "LEV 24:10",
+"end_ref": "03024023",
+"end_ref_usfm": "LEV 24:23"
+},
+{
 "start_ref": "04015022",
 "start_ref_usfm": "NUM 15:22",
 "end_ref": "04015031",
@@ -1136,6 +1142,12 @@
 "start_ref_usfm": "EXO 22:25",
 "end_ref": "02022031",
 "end_ref_usfm": "EXO 22:31"
+},
+{
+"start_ref": "03024010",
+"start_ref_usfm": "LEV 24:10",
+"end_ref": "03024023",
+"end_ref_usfm": "LEV 24:23"
 },
 {
 "start_ref": "04015022",
@@ -1382,6 +1394,18 @@
 "end_ref_usfm": "LUK 8:3"
 },
 {
+"start_ref": "42016016",
+"start_ref_usfm": "LUK 16:16",
+"end_ref": "42016018",
+"end_ref_usfm": "LUK 16:18"
+},
+{
+"start_ref": "42019045",
+"start_ref_usfm": "LUK 19:45",
+"end_ref": "42020008",
+"end_ref_usfm": "LUK 20:8"
+},
+{
 "start_ref": "44010034",
 "start_ref_usfm": "ACT 10:34",
 "end_ref": "44010048",
@@ -1411,7 +1435,7 @@
 {
 "id": "keyterm:GoodNews",
 "type": "keyterm",
-"confidence": 0.629,
+"confidence": 0.6305,
 "match_method": "scored",
 "preferred_label": "boa notícia"
 }
@@ -1519,6 +1543,18 @@
 "start_ref_usfm": "LUK 7:36",
 "end_ref": "42008003",
 "end_ref_usfm": "LUK 8:3"
+},
+{
+"start_ref": "42016016",
+"start_ref_usfm": "LUK 16:16",
+"end_ref": "42016018",
+"end_ref_usfm": "LUK 16:18"
+},
+{
+"start_ref": "42019045",
+"start_ref_usfm": "LUK 19:45",
+"end_ref": "42020008",
+"end_ref_usfm": "LUK 20:8"
 },
 {
 "start_ref": "44010034",

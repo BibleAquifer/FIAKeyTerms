@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Familiarization, Internalization, Articulation (FIA) Key Terms</b> © 2023 SRV Partners Released under CC BY-SA 4.0 license. <cite>Familiarization, Internalization, Articulation (FIA) Key Terms</cite> has been adapted in the following languages Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Familiarization, Internalization, Articulation (FIA)</cite> © 2023 SRV Partners. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "FIAKeyTerms",
-"date_created": "2026-06-10",
+"date_created": "2026-06-24",
 "language": "spa",
 "localizations": [
 "eng",
@@ -47,7 +47,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-06-10T14:02:52.499432"
+"dateCreated": "2026-06-24T16:52:38.685009"
 },
 "idAuthorities": {
 "aquifer": {
@@ -61,7 +61,7 @@
 "primary": {
 "aquifer": {
 "FIAKeyTerms": {
-"timestamp": "2026-06-10T14:02:52.499432"
+"timestamp": "2026-06-24T16:52:38.685009"
 }
 }
 },
@@ -93,7 +93,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 70443,
+"size": 67668,
 "scope": {
 "a": [
 "abba",
@@ -115,7 +115,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 75834,
+"size": 73297,
 "scope": {
 "b": [
 "baptism",
@@ -138,7 +138,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 121890,
+"size": 117229,
 "scope": {
 "c": [
 "caesar",
@@ -171,7 +171,7 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 74742,
+"size": 71607,
 "scope": {
 "d": [
 "david",
@@ -194,7 +194,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 47542,
+"size": 45689,
 "scope": {
 "e": [
 "elder",
@@ -212,7 +212,7 @@
 },
 "json/006.content.json": {
 "mimeType": "text/json",
-"size": 66937,
+"size": 64388,
 "scope": {
 "f": [
 "fasting",
@@ -231,7 +231,7 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 82868,
+"size": 79371,
 "scope": {
 "g": [
 "gabriel",
@@ -252,7 +252,7 @@
 },
 "json/008.content.json": {
 "mimeType": "text/json",
-"size": 114947,
+"size": 110476,
 "scope": {
 "h": [
 "hades",
@@ -278,7 +278,7 @@
 },
 "json/009.content.json": {
 "mimeType": "text/json",
-"size": 46468,
+"size": 44629,
 "scope": {
 "i": [
 "i-am",
@@ -294,7 +294,7 @@
 },
 "json/010.content.json": {
 "mimeType": "text/json",
-"size": 67433,
+"size": 64812,
 "scope": {
 "j": [
 "james",
@@ -312,7 +312,7 @@
 },
 "json/011.content.json": {
 "mimeType": "text/json",
-"size": 36243,
+"size": 34688,
 "scope": {
 "k": [
 "king",
@@ -323,7 +323,7 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 33766,
+"size": 32407,
 "scope": {
 "l": [
 "law",
@@ -336,7 +336,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 48925,
+"size": 47114,
 "scope": {
 "m": [
 "maestro",
@@ -354,7 +354,7 @@
 },
 "json/014.content.json": {
 "mimeType": "text/json",
-"size": 13215,
+"size": 12588,
 "scope": {
 "n": [
 "nation",
@@ -364,7 +364,7 @@
 },
 "json/015.content.json": {
 "mimeType": "text/json",
-"size": 20939,
+"size": 19966,
 "scope": {
 "o": [
 "oath",
@@ -375,7 +375,7 @@
 },
 "json/016.content.json": {
 "mimeType": "text/json",
-"size": 148775,
+"size": 143276,
 "scope": {
 "p": [
 "parable",
@@ -402,7 +402,7 @@
 },
 "json/017.content.json": {
 "mimeType": "text/json",
-"size": 35598,
+"size": 34183,
 "scope": {
 "r": [
 "rabbi",
@@ -417,7 +417,7 @@
 },
 "json/018.content.json": {
 "mimeType": "text/json",
-"size": 215181,
+"size": 206588,
 "scope": {
 "s": [
 "sabbath",
@@ -460,7 +460,7 @@
 },
 "json/019.content.json": {
 "mimeType": "text/json",
-"size": 74275,
+"size": 71722,
 "scope": {
 "t": [
 "tabernacle",
@@ -479,7 +479,7 @@
 },
 "json/020.content.json": {
 "mimeType": "text/json",
-"size": 11775,
+"size": 11318,
 "scope": {
 "v": [
 "vineyard",
@@ -490,7 +490,7 @@
 },
 "json/021.content.json": {
 "mimeType": "text/json",
-"size": 59152,
+"size": 56497,
 "scope": {
 "w": [
 "watchtower",
@@ -506,7 +506,7 @@
 },
 "json/022.content.json": {
 "mimeType": "text/json",
-"size": 16354,
+"size": 15697,
 "scope": {
 "y": [
 "yahweh",
@@ -516,104 +516,104 @@
 },
 "json/023.content.json": {
 "mimeType": "text/json",
-"size": 1420,
+"size": 1379,
 "scope": {
 "z": [
 "zion"
 ]
 }
 },
-"md/001.content.md": {
-"mimeType": "text/markdown",
-"size": 25254
-},
-"md/002.content.md": {
-"mimeType": "text/markdown",
-"size": 27642
-},
-"md/003.content.md": {
-"mimeType": "text/markdown",
-"size": 46557
-},
-"md/004.content.md": {
-"mimeType": "text/markdown",
-"size": 23697
-},
-"md/005.content.md": {
-"mimeType": "text/markdown",
-"size": 17518
-},
-"md/006.content.md": {
-"mimeType": "text/markdown",
-"size": 25535
-},
-"md/007.content.md": {
-"mimeType": "text/markdown",
-"size": 26249
-},
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 41810
+"size": 41563
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 16902
+"size": 16800
 },
-"md/010.content.md": {
+"md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 24971
+"size": 46241
+},
+"md/004.content.md": {
+"mimeType": "text/markdown",
+"size": 23522
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 11036
-},
-"md/012.content.md": {
-"mimeType": "text/markdown",
-"size": 12079
-},
-"md/013.content.md": {
-"mimeType": "text/markdown",
-"size": 19340
-},
-"md/014.content.md": {
-"mimeType": "text/markdown",
-"size": 3606
-},
-"md/015.content.md": {
-"mimeType": "text/markdown",
-"size": 5631
+"size": 10982
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 57979
-},
-"md/017.content.md": {
-"mimeType": "text/markdown",
-"size": 13038
-},
-"md/018.content.md": {
-"mimeType": "text/markdown",
-"size": 73889
-},
-"md/019.content.md": {
-"mimeType": "text/markdown",
-"size": 32462
+"size": 57757
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 4944
+"size": 4903
+},
+"md/017.content.md": {
+"mimeType": "text/markdown",
+"size": 12938
+},
+"md/010.content.md": {
+"mimeType": "text/markdown",
+"size": 24824
+},
+"md/005.content.md": {
+"mimeType": "text/markdown",
+"size": 17396
+},
+"md/002.content.md": {
+"mimeType": "text/markdown",
+"size": 27496
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 16730
+"size": 16632
 },
-"md/022.content.md": {
+"md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 6042
+"size": 12010
+},
+"md/015.content.md": {
+"mimeType": "text/markdown",
+"size": 5594
+},
+"md/007.content.md": {
+"mimeType": "text/markdown",
+"size": 26091
 },
 "md/023.content.md": {
 "mimeType": "text/markdown",
-"size": 1383
+"size": 1367
+},
+"md/006.content.md": {
+"mimeType": "text/markdown",
+"size": 25391
+},
+"md/001.content.md": {
+"mimeType": "text/markdown",
+"size": 25070
+},
+"md/014.content.md": {
+"mimeType": "text/markdown",
+"size": 3580
+},
+"md/013.content.md": {
+"mimeType": "text/markdown",
+"size": 19193
+},
+"md/022.content.md": {
+"mimeType": "text/markdown",
+"size": 6003
+},
+"md/019.content.md": {
+"mimeType": "text/markdown",
+"size": 32276
+},
+"md/018.content.md": {
+"mimeType": "text/markdown",
+"size": 73420
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -709,95 +709,95 @@
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
-"size": 108880
+"size": 95068
 },
 "pdf/002.content.pdf": {
 "mimeType": "application/pdf",
-"size": 116825
+"size": 99976
 },
 "pdf/003.content.pdf": {
 "mimeType": "application/pdf",
-"size": 160337
+"size": 145842
 },
 "pdf/004.content.pdf": {
 "mimeType": "application/pdf",
-"size": 101846
+"size": 86341
 },
 "pdf/005.content.pdf": {
 "mimeType": "application/pdf",
-"size": 89006
+"size": 74918
 },
 "pdf/006.content.pdf": {
 "mimeType": "application/pdf",
-"size": 104279
+"size": 90246
 },
 "pdf/007.content.pdf": {
 "mimeType": "application/pdf",
-"size": 99826
+"size": 85045
 },
 "pdf/008.content.pdf": {
 "mimeType": "application/pdf",
-"size": 147227
+"size": 130333
 },
 "pdf/009.content.pdf": {
 "mimeType": "application/pdf",
-"size": 78918
+"size": 66720
 },
 "pdf/010.content.pdf": {
 "mimeType": "application/pdf",
-"size": 108005
+"size": 92939
 },
 "pdf/011.content.pdf": {
 "mimeType": "application/pdf",
-"size": 61099
+"size": 48117
 },
 "pdf/012.content.pdf": {
 "mimeType": "application/pdf",
-"size": 66882
+"size": 53933
 },
 "pdf/013.content.pdf": {
 "mimeType": "application/pdf",
-"size": 103460
+"size": 88296
 },
 "pdf/014.content.pdf": {
 "mimeType": "application/pdf",
-"size": 45140
+"size": 32275
 },
 "pdf/015.content.pdf": {
 "mimeType": "application/pdf",
-"size": 48418
+"size": 35598
 },
 "pdf/016.content.pdf": {
 "mimeType": "application/pdf",
-"size": 182718
+"size": 164099
 },
 "pdf/017.content.pdf": {
 "mimeType": "application/pdf",
-"size": 68787
+"size": 55529
 },
 "pdf/018.content.pdf": {
 "mimeType": "application/pdf",
-"size": 229732
+"size": 211038
 },
 "pdf/019.content.pdf": {
 "mimeType": "application/pdf",
-"size": 123900
+"size": 107602
 },
 "pdf/020.content.pdf": {
 "mimeType": "application/pdf",
-"size": 51350
+"size": 38306
 },
 "pdf/021.content.pdf": {
 "mimeType": "application/pdf",
-"size": 66124
+"size": 52789
 },
 "pdf/022.content.pdf": {
 "mimeType": "application/pdf",
-"size": 51157
+"size": 38341
 },
 "pdf/023.content.pdf": {
 "mimeType": "application/pdf",
-"size": 42053
+"size": 29667
 }
 },
 "copyright": {
@@ -2460,7 +2460,7 @@
 "index_reference": "eternallife",
 "localizations": {
 "eng": {
-"content_id": "eng-t46-v1",
+"content_id": "eng-t46-v2",
 "language": "eng",
 "title": "eternal life"
 },
@@ -2885,7 +2885,7 @@
 "index_reference": "heir",
 "localizations": {
 "eng": {
-"content_id": "eng-t64-v1",
+"content_id": "eng-t64-v2",
 "language": "eng",
 "title": "heir"
 },
@@ -3057,7 +3057,7 @@
 "index_reference": "household",
 "localizations": {
 "eng": {
-"content_id": "eng-t70-v1",
+"content_id": "eng-t70-v2",
 "language": "eng",
 "title": "household"
 },
@@ -3344,7 +3344,7 @@
 "index_reference": "judea",
 "localizations": {
 "eng": {
-"content_id": "eng-t81-v1",
+"content_id": "eng-t81-v2",
 "language": "eng",
 "title": "Judea"
 },
@@ -3597,7 +3597,7 @@
 "index_reference": "nation",
 "localizations": {
 "eng": {
-"content_id": "eng-t94-v1",
+"content_id": "eng-t94-v2",
 "language": "eng",
 "title": "nation"
 },
@@ -3968,7 +3968,7 @@
 "index_reference": "redeem",
 "localizations": {
 "eng": {
-"content_id": "eng-t107-v1",
+"content_id": "eng-t107-v2",
 "language": "eng",
 "title": "redeem"
 },
@@ -4044,7 +4044,7 @@
 "index_reference": "righteousness",
 "localizations": {
 "eng": {
-"content_id": "eng-t111-v1",
+"content_id": "eng-t111-v2",
 "language": "eng",
 "title": "righteousness"
 },
@@ -4098,7 +4098,7 @@
 "index_reference": "sabbath",
 "localizations": {
 "eng": {
-"content_id": "eng-t113-v1",
+"content_id": "eng-t113-v2",
 "language": "eng",
 "title": "sabbath"
 },
@@ -4341,7 +4341,7 @@
 "index_reference": "servant",
 "localizations": {
 "eng": {
-"content_id": "eng-t123-v2",
+"content_id": "eng-t123-v3",
 "language": "eng",
 "title": "servant"
 },
@@ -4395,7 +4395,7 @@
 "index_reference": "slave",
 "localizations": {
 "eng": {
-"content_id": "eng-t126-v2",
+"content_id": "eng-t126-v3",
 "language": "eng",
 "title": "slave"
 },
@@ -4422,7 +4422,7 @@
 "index_reference": "son",
 "localizations": {
 "eng": {
-"content_id": "eng-t127-v1",
+"content_id": "eng-t127-v2",
 "language": "eng",
 "title": "son"
 },
@@ -5097,7 +5097,7 @@
 "index_reference": "strength",
 "localizations": {
 "eng": {
-"content_id": "eng-t152-v1",
+"content_id": "eng-t152-v2",
 "language": "eng",
 "title": "strength"
 },
@@ -6016,7 +6016,7 @@
 "index_reference": "foreigner",
 "localizations": {
 "eng": {
-"content_id": "eng-t192-v1",
+"content_id": "eng-t192-v2",
 "language": "eng",
 "title": "foreigner"
 },
@@ -6038,7 +6038,7 @@
 "index_reference": "sojourner",
 "localizations": {
 "eng": {
-"content_id": "eng-t193-v1",
+"content_id": "eng-t193-v2",
 "language": "eng",
 "title": "sojourner"
 },
@@ -6946,7 +6946,7 @@
 "index_reference": "descendant",
 "localizations": {
 "eng": {
-"content_id": "eng-t234-v1",
+"content_id": "eng-t234-v2",
 "language": "eng",
 "title": "descendant"
 },
@@ -6968,7 +6968,7 @@
 "index_reference": "gods",
 "localizations": {
 "eng": {
-"content_id": "eng-t235-v1",
+"content_id": "eng-t235-v2",
 "language": "eng",
 "title": "gods"
 },
@@ -7259,7 +7259,7 @@
 "index_reference": "judge",
 "localizations": {
 "eng": {
-"content_id": "eng-t289-v1",
+"content_id": "eng-t289-v2",
 "language": "eng",
 "title": "judge"
 },
@@ -7279,23 +7279,7 @@
 "content_id": "spa-t293-v1",
 "reference_id": 0,
 "index_reference": "immorality",
-"localizations": {
-"eng": {
-"content_id": "eng-t293-v1",
-"language": "eng",
-"title": "immorality"
-},
-"fra": {
-"content_id": "fra-t293-v1",
-"language": "fra",
-"title": "immoralité"
-},
-"por": {
-"content_id": "por-t293-v1",
-"language": "por",
-"title": "imoralidade"
-}
-}
+"localizations": {}
 }
 }
 }
