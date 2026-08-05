@@ -478,6 +478,12 @@
 "end_ref_usfm": "LEV 14:42"
 },
 {
+"start_ref": "03025035",
+"start_ref_usfm": "LEV 25:35",
+"end_ref": "03025046",
+"end_ref_usfm": "LEV 25:46"
+},
+{
 "start_ref": "04013001",
 "start_ref_usfm": "NUM 13:1",
 "end_ref": "04013016",
@@ -639,14 +645,14 @@
 {
 "id": "place:Canaan",
 "type": "place",
-"confidence": 0.6513,
+"confidence": 0.6508,
 "match_method": "scored",
 "preferred_label": "Canaan"
 },
 {
 "id": "group:Canaan",
 "type": "group",
-"confidence": 0.6276,
+"confidence": 0.6268,
 "match_method": "scored",
 "preferred_label": "Canaanites"
 }
@@ -736,6 +742,12 @@
 "start_ref_usfm": "LEV 14:33",
 "end_ref": "03014042",
 "end_ref_usfm": "LEV 14:42"
+},
+{
+"start_ref": "03025035",
+"start_ref_usfm": "LEV 25:35",
+"end_ref": "03025046",
+"end_ref_usfm": "LEV 25:46"
 },
 {
 "start_ref": "04013001",
@@ -1504,6 +1516,12 @@
 "start_ref_usfm": "2CH 3:1",
 "end_ref": "14003014",
 "end_ref_usfm": "2CH 3:14"
+},
+{
+"start_ref": "14005002",
+"start_ref_usfm": "2CH 5:2",
+"end_ref": "14005014",
+"end_ref_usfm": "2CH 5:14"
 }
 ],
 "resource": [],
@@ -1511,7 +1529,7 @@
 {
 "id": "realia:WingedCreature",
 "type": "realia",
-"confidence": 0.6118,
+"confidence": 0.6115,
 "match_method": "scored",
 "preferred_label": "Winged Creature"
 }
@@ -1631,6 +1649,12 @@
 "start_ref_usfm": "2CH 3:1",
 "end_ref": "14003014",
 "end_ref_usfm": "2CH 3:14"
+},
+{
+"start_ref": "14005002",
+"start_ref_usfm": "2CH 5:2",
+"end_ref": "14005014",
+"end_ref_usfm": "2CH 5:14"
 }
 ],
 "resource": []
@@ -3620,6 +3644,12 @@
 "end_ref_usfm": "LEV 19:25"
 },
 {
+"start_ref": "03026010",
+"start_ref_usfm": "LEV 26:10",
+"end_ref": "03026046",
+"end_ref_usfm": "LEV 26:46"
+},
+{
 "start_ref": "05010012",
 "start_ref_usfm": "DEU 10:12",
 "end_ref": "05010022",
@@ -3817,7 +3847,7 @@
 {
 "id": "keyterm:Circumcision",
 "type": "keyterm",
-"confidence": 0.6015,
+"confidence": 0.5988,
 "match_method": "scored",
 "preferred_label": "Circumcision"
 }
@@ -3883,6 +3913,12 @@
 "start_ref_usfm": "LEV 19:19",
 "end_ref": "03019025",
 "end_ref_usfm": "LEV 19:25"
+},
+{
+"start_ref": "03026010",
+"start_ref_usfm": "LEV 26:10",
+"end_ref": "03026046",
+"end_ref_usfm": "LEV 26:46"
 },
 {
 "start_ref": "05010012",
@@ -4349,6 +4385,18 @@
 "start_ref_usfm": "LEV 22:1",
 "end_ref": "03022009",
 "end_ref_usfm": "LEV 22:9"
+},
+{
+"start_ref": "03027009",
+"start_ref_usfm": "LEV 27:9",
+"end_ref": "03027015",
+"end_ref_usfm": "LEV 27:15"
+},
+{
+"start_ref": "03027026",
+"start_ref_usfm": "LEV 27:26",
+"end_ref": "03027034",
+"end_ref_usfm": "LEV 27:34"
 },
 {
 "start_ref": "04005001",
@@ -4902,6 +4950,18 @@
 "end_ref_usfm": "LEV 22:9"
 },
 {
+"start_ref": "03027009",
+"start_ref_usfm": "LEV 27:9",
+"end_ref": "03027015",
+"end_ref_usfm": "LEV 27:15"
+},
+{
+"start_ref": "03027026",
+"start_ref_usfm": "LEV 27:26",
+"end_ref": "03027034",
+"end_ref_usfm": "LEV 27:34"
+},
+{
 "start_ref": "04005001",
 "start_ref_usfm": "NUM 5:1",
 "end_ref": "04005004",
@@ -5224,6 +5284,18 @@
 "end_ref_usfm": "2KI 1:18"
 },
 {
+"start_ref": "12002001",
+"start_ref_usfm": "2KI 2:1",
+"end_ref": "12002012",
+"end_ref_usfm": "2KI 2:12"
+},
+{
+"start_ref": "12002013",
+"start_ref_usfm": "2KI 2:13",
+"end_ref": "12002025",
+"end_ref_usfm": "2KI 2:25"
+},
+{
 "start_ref": "15009001",
 "start_ref_usfm": "EZR 9:1",
 "end_ref": "15009004",
@@ -5379,6 +5451,18 @@
 "start_ref_usfm": "2KI 1:1",
 "end_ref": "12001018",
 "end_ref_usfm": "2KI 1:18"
+},
+{
+"start_ref": "12002001",
+"start_ref_usfm": "2KI 2:1",
+"end_ref": "12002012",
+"end_ref_usfm": "2KI 2:12"
+},
+{
+"start_ref": "12002013",
+"start_ref_usfm": "2KI 2:13",
+"end_ref": "12002025",
+"end_ref_usfm": "2KI 2:25"
 },
 {
 "start_ref": "15009001",
@@ -5712,6 +5796,24 @@
 "end_ref_usfm": "LEV 22:33"
 },
 {
+"start_ref": "03026001",
+"start_ref_usfm": "LEV 26:1",
+"end_ref": "03026005",
+"end_ref_usfm": "LEV 26:5"
+},
+{
+"start_ref": "03026014",
+"start_ref_usfm": "LEV 26:14",
+"end_ref": "03026020",
+"end_ref_usfm": "LEV 26:20"
+},
+{
+"start_ref": "03027026",
+"start_ref_usfm": "LEV 27:26",
+"end_ref": "03027034",
+"end_ref_usfm": "LEV 27:34"
+},
+{
 "start_ref": "04036001",
 "start_ref_usfm": "NUM 36:1",
 "end_ref": "04036013",
@@ -6041,7 +6143,7 @@
 {
 "id": "keyterm:Commandment",
 "type": "keyterm",
-"confidence": 0.5718,
+"confidence": 0.5714,
 "match_method": "scored",
 "preferred_label": "Commandment"
 }
@@ -6155,6 +6257,24 @@
 "start_ref_usfm": "LEV 22:26",
 "end_ref": "03022033",
 "end_ref_usfm": "LEV 22:33"
+},
+{
+"start_ref": "03026001",
+"start_ref_usfm": "LEV 26:1",
+"end_ref": "03026005",
+"end_ref_usfm": "LEV 26:5"
+},
+{
+"start_ref": "03026014",
+"start_ref_usfm": "LEV 26:14",
+"end_ref": "03026020",
+"end_ref_usfm": "LEV 26:20"
+},
+{
+"start_ref": "03027026",
+"start_ref_usfm": "LEV 27:26",
+"end_ref": "03027034",
+"end_ref_usfm": "LEV 27:34"
 },
 {
 "start_ref": "04036001",
@@ -6674,6 +6794,203 @@
 }
 },
 {
+"content_id": "eng-t278-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "conscience",
+"media_type": "Text",
+"index_reference": "conscience",
+"language": "eng",
+"review_level": "None",
+"content": "<p><strong>t278: conscience</strong></p><p>Conscience is our inner ability to feel if something is right or wrong. The things we believe about what is right or wrong affect how we \"feel.\" For example, if we believe that to say bad things about another person is ok, then our conscience will \"feel\" good or clear even if we say those things. But if we believe that to say bad things about other people is wrong, but we still say those things, our conscience will \"feel\" guilty.</p><p>In Acts 24:16, Paul describes how he works hard to have a clear conscience before God. Paul follows God's teachings so that Paul does not feel guilty or worried about how he is putting God's teachings into practice. Paul also writes to Timothy in 1 Timothy 3:9 that leaders in the church should have a clear conscience because of how those leaders live.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "44022030",
+"start_ref_usfm": "ACT 22:30",
+"end_ref": "44023011",
+"end_ref_usfm": "ACT 23:11"
+},
+{
+"start_ref": "46004001",
+"start_ref_usfm": "1CO 4:1",
+"end_ref": "46004005",
+"end_ref_usfm": "1CO 4:5"
+},
+{
+"start_ref": "46008001",
+"start_ref_usfm": "1CO 8:1",
+"end_ref": "46008013",
+"end_ref_usfm": "1CO 8:13"
+},
+{
+"start_ref": "46010023",
+"start_ref_usfm": "1CO 10:23",
+"end_ref": "46011001",
+"end_ref_usfm": "1CO 11:1"
+},
+{
+"start_ref": "47001012",
+"start_ref_usfm": "2CO 1:12",
+"end_ref": "47001022",
+"end_ref_usfm": "2CO 1:22"
+},
+{
+"start_ref": "47004001",
+"start_ref_usfm": "2CO 4:1",
+"end_ref": "47004006",
+"end_ref_usfm": "2CO 4:6"
+},
+{
+"start_ref": "47005011",
+"start_ref_usfm": "2CO 5:11",
+"end_ref": "47005015",
+"end_ref_usfm": "2CO 5:15"
+},
+{
+"start_ref": "54001003",
+"start_ref_usfm": "1TI 1:3",
+"end_ref": "54001007",
+"end_ref_usfm": "1TI 1:7"
+},
+{
+"start_ref": "54001012",
+"start_ref_usfm": "1TI 1:12",
+"end_ref": "54001020",
+"end_ref_usfm": "1TI 1:20"
+},
+{
+"start_ref": "54003008",
+"start_ref_usfm": "1TI 3:8",
+"end_ref": "54003013",
+"end_ref_usfm": "1TI 3:13"
+},
+{
+"start_ref": "54004001",
+"start_ref_usfm": "1TI 4:1",
+"end_ref": "54004005",
+"end_ref_usfm": "1TI 4:5"
+},
+{
+"start_ref": "55001001",
+"start_ref_usfm": "2TI 1:1",
+"end_ref": "55001007",
+"end_ref_usfm": "2TI 1:7"
+},
+{
+"start_ref": "56001010",
+"start_ref_usfm": "TIT 1:10",
+"end_ref": "56001016",
+"end_ref_usfm": "TIT 1:16"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "keyterm:Conscience",
+"type": "keyterm",
+"confidence": 0.621,
+"match_method": "scored",
+"preferred_label": "Conscience"
+}
+]
+}
+},
+{
+"content_id": "eng-t278-v1-audio",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "conscience",
+"media_type": "Audio",
+"index_reference": "conscience",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t278/v1/vbr4.mp3'>mp3 file</a> (880797 KB)</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "44022030",
+"start_ref_usfm": "ACT 22:30",
+"end_ref": "44023011",
+"end_ref_usfm": "ACT 23:11"
+},
+{
+"start_ref": "46004001",
+"start_ref_usfm": "1CO 4:1",
+"end_ref": "46004005",
+"end_ref_usfm": "1CO 4:5"
+},
+{
+"start_ref": "46008001",
+"start_ref_usfm": "1CO 8:1",
+"end_ref": "46008013",
+"end_ref_usfm": "1CO 8:13"
+},
+{
+"start_ref": "46010023",
+"start_ref_usfm": "1CO 10:23",
+"end_ref": "46011001",
+"end_ref_usfm": "1CO 11:1"
+},
+{
+"start_ref": "47001012",
+"start_ref_usfm": "2CO 1:12",
+"end_ref": "47001022",
+"end_ref_usfm": "2CO 1:22"
+},
+{
+"start_ref": "47004001",
+"start_ref_usfm": "2CO 4:1",
+"end_ref": "47004006",
+"end_ref_usfm": "2CO 4:6"
+},
+{
+"start_ref": "47005011",
+"start_ref_usfm": "2CO 5:11",
+"end_ref": "47005015",
+"end_ref_usfm": "2CO 5:15"
+},
+{
+"start_ref": "54001003",
+"start_ref_usfm": "1TI 1:3",
+"end_ref": "54001007",
+"end_ref_usfm": "1TI 1:7"
+},
+{
+"start_ref": "54001012",
+"start_ref_usfm": "1TI 1:12",
+"end_ref": "54001020",
+"end_ref_usfm": "1TI 1:20"
+},
+{
+"start_ref": "54003008",
+"start_ref_usfm": "1TI 3:8",
+"end_ref": "54003013",
+"end_ref_usfm": "1TI 3:13"
+},
+{
+"start_ref": "54004001",
+"start_ref_usfm": "1TI 4:1",
+"end_ref": "54004005",
+"end_ref_usfm": "1TI 4:5"
+},
+{
+"start_ref": "55001001",
+"start_ref_usfm": "2TI 1:1",
+"end_ref": "55001007",
+"end_ref_usfm": "2TI 1:7"
+},
+{
+"start_ref": "56001010",
+"start_ref_usfm": "TIT 1:10",
+"end_ref": "56001016",
+"end_ref_usfm": "TIT 1:16"
+}
+],
+"resource": []
+}
+},
+{
 "content_id": "eng-t254-v1",
 "reference_id": 0,
 "version": "1.0.4",
@@ -6812,6 +7129,30 @@
 "end_ref_usfm": "LEV 22:9"
 },
 {
+"start_ref": "03025008",
+"start_ref_usfm": "LEV 25:8",
+"end_ref": "03025022",
+"end_ref_usfm": "LEV 25:22"
+},
+{
+"start_ref": "03027009",
+"start_ref_usfm": "LEV 27:9",
+"end_ref": "03027015",
+"end_ref_usfm": "LEV 27:15"
+},
+{
+"start_ref": "03027016",
+"start_ref_usfm": "LEV 27:16",
+"end_ref": "03027025",
+"end_ref_usfm": "LEV 27:25"
+},
+{
+"start_ref": "03027026",
+"start_ref_usfm": "LEV 27:26",
+"end_ref": "03027034",
+"end_ref_usfm": "LEV 27:34"
+},
+{
 "start_ref": "04003001",
 "start_ref_usfm": "NUM 3:1",
 "end_ref": "04003013",
@@ -6912,6 +7253,12 @@
 "start_ref_usfm": "2CH 2:1",
 "end_ref": "14002018",
 "end_ref_usfm": "2CH 2:18"
+},
+{
+"start_ref": "14005002",
+"start_ref_usfm": "2CH 5:2",
+"end_ref": "14005014",
+"end_ref_usfm": "2CH 5:14"
 },
 {
 "start_ref": "14007004",
@@ -7159,6 +7506,30 @@
 "end_ref_usfm": "LEV 22:9"
 },
 {
+"start_ref": "03025008",
+"start_ref_usfm": "LEV 25:8",
+"end_ref": "03025022",
+"end_ref_usfm": "LEV 25:22"
+},
+{
+"start_ref": "03027009",
+"start_ref_usfm": "LEV 27:9",
+"end_ref": "03027015",
+"end_ref_usfm": "LEV 27:15"
+},
+{
+"start_ref": "03027016",
+"start_ref_usfm": "LEV 27:16",
+"end_ref": "03027025",
+"end_ref_usfm": "LEV 27:25"
+},
+{
+"start_ref": "03027026",
+"start_ref_usfm": "LEV 27:26",
+"end_ref": "03027034",
+"end_ref_usfm": "LEV 27:34"
+},
+{
 "start_ref": "04003001",
 "start_ref_usfm": "NUM 3:1",
 "end_ref": "04003013",
@@ -7259,6 +7630,12 @@
 "start_ref_usfm": "2CH 2:1",
 "end_ref": "14002018",
 "end_ref_usfm": "2CH 2:18"
+},
+{
+"start_ref": "14005002",
+"start_ref_usfm": "2CH 5:2",
+"end_ref": "14005014",
+"end_ref_usfm": "2CH 5:14"
 },
 {
 "start_ref": "14007004",
@@ -7706,6 +8083,30 @@
 "end_ref_usfm": "LEV 24:9"
 },
 {
+"start_ref": "03026006",
+"start_ref_usfm": "LEV 26:6",
+"end_ref": "03026013",
+"end_ref_usfm": "LEV 26:13"
+},
+{
+"start_ref": "03026014",
+"start_ref_usfm": "LEV 26:14",
+"end_ref": "03026020",
+"end_ref_usfm": "LEV 26:20"
+},
+{
+"start_ref": "03026021",
+"start_ref_usfm": "LEV 26:21",
+"end_ref": "03026026",
+"end_ref_usfm": "LEV 26:26"
+},
+{
+"start_ref": "03026010",
+"start_ref_usfm": "LEV 26:10",
+"end_ref": "03026046",
+"end_ref_usfm": "LEV 26:46"
+},
+{
 "start_ref": "04001048",
 "start_ref_usfm": "NUM 1:48",
 "end_ref": "04001054",
@@ -7904,6 +8305,18 @@
 "end_ref_usfm": "1CH 16:43"
 },
 {
+"start_ref": "14006001",
+"start_ref_usfm": "2CH 6:1",
+"end_ref": "14006011",
+"end_ref_usfm": "2CH 6:11"
+},
+{
+"start_ref": "14006012",
+"start_ref_usfm": "2CH 6:12",
+"end_ref": "14006021",
+"end_ref_usfm": "2CH 6:21"
+},
+{
 "start_ref": "14007011",
 "start_ref_usfm": "2CH 7:11",
 "end_ref": "14007022",
@@ -8047,7 +8460,7 @@
 {
 "id": "keyterm:Covenant",
 "type": "keyterm",
-"confidence": 0.5884,
+"confidence": 0.5889,
 "match_method": "scored",
 "preferred_label": "Covenant"
 }
@@ -8229,6 +8642,30 @@
 "end_ref_usfm": "LEV 24:9"
 },
 {
+"start_ref": "03026006",
+"start_ref_usfm": "LEV 26:6",
+"end_ref": "03026013",
+"end_ref_usfm": "LEV 26:13"
+},
+{
+"start_ref": "03026014",
+"start_ref_usfm": "LEV 26:14",
+"end_ref": "03026020",
+"end_ref_usfm": "LEV 26:20"
+},
+{
+"start_ref": "03026021",
+"start_ref_usfm": "LEV 26:21",
+"end_ref": "03026026",
+"end_ref_usfm": "LEV 26:26"
+},
+{
+"start_ref": "03026010",
+"start_ref_usfm": "LEV 26:10",
+"end_ref": "03026046",
+"end_ref_usfm": "LEV 26:46"
+},
+{
 "start_ref": "04001048",
 "start_ref_usfm": "NUM 1:48",
 "end_ref": "04001054",
@@ -8425,6 +8862,18 @@
 "start_ref_usfm": "1CH 16:37",
 "end_ref": "13016043",
 "end_ref_usfm": "1CH 16:43"
+},
+{
+"start_ref": "14006001",
+"start_ref_usfm": "2CH 6:1",
+"end_ref": "14006011",
+"end_ref_usfm": "2CH 6:11"
+},
+{
+"start_ref": "14006012",
+"start_ref_usfm": "2CH 6:12",
+"end_ref": "14006021",
+"end_ref_usfm": "2CH 6:21"
 },
 {
 "start_ref": "14007011",
@@ -9351,6 +9800,12 @@
 "end_ref_usfm": "2CH 4:10"
 },
 {
+"start_ref": "14006012",
+"start_ref_usfm": "2CH 6:12",
+"end_ref": "14006021",
+"end_ref_usfm": "2CH 6:21"
+},
+{
 "start_ref": "14025014",
 "start_ref_usfm": "2CH 25:14",
 "end_ref": "14025028",
@@ -9540,6 +9995,12 @@
 "start_ref_usfm": "2CH 3:15",
 "end_ref": "14004010",
 "end_ref_usfm": "2CH 4:10"
+},
+{
+"start_ref": "14006012",
+"start_ref_usfm": "2CH 6:12",
+"end_ref": "14006021",
+"end_ref_usfm": "2CH 6:21"
 },
 {
 "start_ref": "14025014",
@@ -9808,6 +10269,12 @@
 "start_ref_usfm": "1KI 21:1",
 "end_ref": "11021016",
 "end_ref_usfm": "1KI 21:16"
+},
+{
+"start_ref": "12002013",
+"start_ref_usfm": "2KI 2:13",
+"end_ref": "12002025",
+"end_ref_usfm": "2KI 2:25"
 },
 {
 "start_ref": "14034022",
@@ -10149,6 +10616,12 @@
 "start_ref_usfm": "1KI 21:1",
 "end_ref": "11021016",
 "end_ref_usfm": "1KI 21:16"
+},
+{
+"start_ref": "12002013",
+"start_ref_usfm": "2KI 2:13",
+"end_ref": "12002025",
+"end_ref_usfm": "2KI 2:25"
 },
 {
 "start_ref": "14034022",

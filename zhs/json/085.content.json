@@ -174,6 +174,30 @@
 "end_ref_usfm": "LEV 24:9"
 },
 {
+"start_ref": "03026006",
+"start_ref_usfm": "LEV 26:6",
+"end_ref": "03026013",
+"end_ref_usfm": "LEV 26:13"
+},
+{
+"start_ref": "03026014",
+"start_ref_usfm": "LEV 26:14",
+"end_ref": "03026020",
+"end_ref_usfm": "LEV 26:20"
+},
+{
+"start_ref": "03026021",
+"start_ref_usfm": "LEV 26:21",
+"end_ref": "03026026",
+"end_ref_usfm": "LEV 26:26"
+},
+{
+"start_ref": "03026010",
+"start_ref_usfm": "LEV 26:10",
+"end_ref": "03026046",
+"end_ref_usfm": "LEV 26:46"
+},
+{
 "start_ref": "04001048",
 "start_ref_usfm": "NUM 1:48",
 "end_ref": "04001054",
@@ -372,6 +396,18 @@
 "end_ref_usfm": "1CH 16:43"
 },
 {
+"start_ref": "14006001",
+"start_ref_usfm": "2CH 6:1",
+"end_ref": "14006011",
+"end_ref_usfm": "2CH 6:11"
+},
+{
+"start_ref": "14006012",
+"start_ref_usfm": "2CH 6:12",
+"end_ref": "14006021",
+"end_ref_usfm": "2CH 6:21"
+},
+{
 "start_ref": "14007011",
 "start_ref_usfm": "2CH 7:11",
 "end_ref": "14007022",
@@ -515,7 +551,7 @@
 {
 "id": "keyterm:Covenant",
 "type": "keyterm",
-"confidence": 0.5884,
+"confidence": 0.5889,
 "match_method": "scored",
 "preferred_label": "Covenant"
 }
@@ -697,6 +733,30 @@
 "end_ref_usfm": "LEV 24:9"
 },
 {
+"start_ref": "03026006",
+"start_ref_usfm": "LEV 26:6",
+"end_ref": "03026013",
+"end_ref_usfm": "LEV 26:13"
+},
+{
+"start_ref": "03026014",
+"start_ref_usfm": "LEV 26:14",
+"end_ref": "03026020",
+"end_ref_usfm": "LEV 26:20"
+},
+{
+"start_ref": "03026021",
+"start_ref_usfm": "LEV 26:21",
+"end_ref": "03026026",
+"end_ref_usfm": "LEV 26:26"
+},
+{
+"start_ref": "03026010",
+"start_ref_usfm": "LEV 26:10",
+"end_ref": "03026046",
+"end_ref_usfm": "LEV 26:46"
+},
+{
 "start_ref": "04001048",
 "start_ref_usfm": "NUM 1:48",
 "end_ref": "04001054",
@@ -893,6 +953,18 @@
 "start_ref_usfm": "1CH 16:37",
 "end_ref": "13016043",
 "end_ref_usfm": "1CH 16:43"
+},
+{
+"start_ref": "14006001",
+"start_ref_usfm": "2CH 6:1",
+"end_ref": "14006011",
+"end_ref_usfm": "2CH 6:11"
+},
+{
+"start_ref": "14006012",
+"start_ref_usfm": "2CH 6:12",
+"end_ref": "14006021",
+"end_ref_usfm": "2CH 6:21"
 },
 {
 "start_ref": "14007011",
@@ -1319,6 +1391,18 @@
 "end_ref_usfm": "1KI 17:7"
 },
 {
+"start_ref": "12002001",
+"start_ref_usfm": "2KI 2:1",
+"end_ref": "12002012",
+"end_ref_usfm": "2KI 2:12"
+},
+{
+"start_ref": "12002013",
+"start_ref_usfm": "2KI 2:13",
+"end_ref": "12002025",
+"end_ref_usfm": "2KI 2:25"
+},
+{
 "start_ref": "13026029",
 "start_ref_usfm": "1CH 26:29",
 "end_ref": "13026032",
@@ -1354,7 +1438,7 @@
 {
 "id": "place:Jordan",
 "type": "place",
-"confidence": 0.6602,
+"confidence": 0.6597,
 "match_method": "scored",
 "preferred_label": "Jordan River"
 }
@@ -1642,6 +1726,18 @@
 "start_ref_usfm": "1KI 17:1",
 "end_ref": "11017007",
 "end_ref_usfm": "1KI 17:7"
+},
+{
+"start_ref": "12002001",
+"start_ref_usfm": "2KI 2:1",
+"end_ref": "12002012",
+"end_ref_usfm": "2KI 2:12"
+},
+{
+"start_ref": "12002013",
+"start_ref_usfm": "2KI 2:13",
+"end_ref": "12002025",
+"end_ref_usfm": "2KI 2:25"
 },
 {
 "start_ref": "13026029",

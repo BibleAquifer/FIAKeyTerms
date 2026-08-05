@@ -18,6 +18,12 @@
 "end_ref_usfm": "GEN 27:40"
 },
 {
+"start_ref": "03026006",
+"start_ref_usfm": "LEV 26:6",
+"end_ref": "03026013",
+"end_ref_usfm": "LEV 26:13"
+},
+{
 "start_ref": "09006001",
 "start_ref_usfm": "1SA 6:1",
 "end_ref": "09006018",
@@ -65,6 +71,12 @@
 "start_ref_usfm": "GEN 27:30",
 "end_ref": "01027040",
 "end_ref_usfm": "GEN 27:40"
+},
+{
+"start_ref": "03026006",
+"start_ref_usfm": "LEV 26:6",
+"end_ref": "03026013",
+"end_ref_usfm": "LEV 26:13"
 },
 {
 "start_ref": "09006001",
@@ -425,6 +437,12 @@
 "end_ref_usfm": "1KI 12:33"
 },
 {
+"start_ref": "14005002",
+"start_ref_usfm": "2CH 5:2",
+"end_ref": "14005014",
+"end_ref_usfm": "2CH 5:14"
+},
+{
 "start_ref": "14007004",
 "start_ref_usfm": "2CH 7:4",
 "end_ref": "14007010",
@@ -466,14 +484,14 @@
 {
 "id": "realia:FestivalOfTheTabernacles",
 "type": "realia",
-"confidence": 0.5668,
+"confidence": 0.5665,
 "match_method": "scored",
 "preferred_label": "Festival of the Tabernacles"
 },
 {
 "id": "keyterm:FeastOfTabernacles",
 "type": "keyterm",
-"confidence": 0.5598,
+"confidence": 0.5587,
 "match_method": "scored",
 "preferred_label": "fourré"
 }
@@ -533,6 +551,12 @@
 "start_ref_usfm": "1KI 12:25",
 "end_ref": "11012033",
 "end_ref_usfm": "1KI 12:33"
+},
+{
+"start_ref": "14005002",
+"start_ref_usfm": "2CH 5:2",
+"end_ref": "14005014",
+"end_ref_usfm": "2CH 5:14"
 },
 {
 "start_ref": "14007004",

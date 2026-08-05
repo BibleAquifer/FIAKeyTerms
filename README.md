@@ -4,9 +4,13 @@ This repository (`FIAKeyTerms`) contains Aquifer resource data with resource-lev
 
 ## License
 
-_Familiarization, Internalization, Articulation (Fia) Terms_ © 2023 [SRV Partners](https://srvpartners.org/home/)
+_Familiarization, Internalization, Articulation (Fia) Terms_ © 2025 [Word Collective](https://wordcollective.com)
 
 This resource is licensed under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/legalcode.en) license.
+
+**Familiarization, Internalization, Articulation (FIA) Key Terms** © 2025 Word Collective Released under CC BY\-SA 4\.0 license. *Familiarization, Internalization, Articulation (FIA) Key Terms* has been adapted in the following languages Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from *Familiarization, Internalization, Articulation (FIA)* © 2025 Word Collective. Released under CC BY\-SA 4\.0 license by Mission Mutual
+
+
 
 ## Structure
 

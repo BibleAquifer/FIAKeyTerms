@@ -10,10 +10,10 @@
 "license_info": {
 "title": "Familiarization, Internalization, Articulation (Fia) Terms",
 "copyright": {
-"dates": "2023",
+"dates": "2025",
 "holder": {
-"name": "SRV Partners",
-"url": "https://srvpartners.org/home/"
+"name": "Word Collective",
+"url": "https://wordcollective.com"
 }
 },
 "licenses": [
@@ -27,15 +27,16 @@
 "showAdaptationNoticeForEnglish": false,
 "showAdaptationNoticeForNonEnglish": true
 },
-"adaptation_notice": "<p><b>Familiarization, Internalization, Articulation (FIA) Key Terms</b> © 2023 SRV Partners Released under CC BY-SA 4.0 license. <cite>Familiarization, Internalization, Articulation (FIA) Key Terms</cite> has been adapted in the following languages Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Familiarization, Internalization, Articulation (FIA)</cite> © 2023 SRV Partners. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
+"adaptation_notice": "<p><b>Familiarization, Internalization, Articulation (FIA) Key Terms</b> © 2025 Word Collective Released under CC BY-SA 4.0 license. <cite>Familiarization, Internalization, Articulation (FIA) Key Terms</cite> has been adapted in the following languages Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Familiarization, Internalization, Articulation (FIA)</cite> © 2025 Word Collective. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "FIAKeyTerms",
-"date_created": "2026-06-24",
+"date_created": "2026-08-04",
 "language": "spa",
 "localizations": [
 "eng",
 "fra",
 "por",
 "rus",
+"tpi",
 "zhs"
 ],
 "order": "alphabetical",
@@ -47,7 +48,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-06-24T16:52:38.685009"
+"dateCreated": "2026-08-04T20:53:54.417581"
 },
 "idAuthorities": {
 "aquifer": {
@@ -61,7 +62,7 @@
 "primary": {
 "aquifer": {
 "FIAKeyTerms": {
-"timestamp": "2026-06-24T16:52:38.685009"
+"timestamp": "2026-08-04T20:53:54.417581"
 }
 }
 },
@@ -336,7 +337,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 47114,
+"size": 47552,
 "scope": {
 "m": [
 "maestro",
@@ -375,7 +376,7 @@
 },
 "json/016.content.json": {
 "mimeType": "text/json",
-"size": 143276,
+"size": 143284,
 "scope": {
 "p": [
 "parable",
@@ -525,23 +526,23 @@
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 41563
+"size": 41569
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 16800
+"size": 16806
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 46241
+"size": 46247
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
-"size": 23522
+"size": 23528
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 10982
+"size": 10988
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
@@ -549,107 +550,107 @@
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 4903
+"size": 4909
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
-"size": 12938
+"size": 12944
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 24824
+"size": 24830
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 17396
+"size": 17402
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 27496
+"size": 27502
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 16632
+"size": 16638
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 12010
+"size": 12016
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 5594
+"size": 5600
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
-"size": 26091
+"size": 26097
 },
 "md/023.content.md": {
 "mimeType": "text/markdown",
-"size": 1367
+"size": 1373
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
-"size": 25391
+"size": 25397
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 25070
+"size": 25076
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 3580
+"size": 3586
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 19193
+"size": 19265
 },
 "md/022.content.md": {
 "mimeType": "text/markdown",
-"size": 6003
+"size": 6009
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 32276
+"size": 32282
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
-"size": 73420
+"size": 73426
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 49336
+"size": 49338
 },
 "docx/002.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 49895
+"size": 49897
 },
 "docx/003.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 54555
+"size": 54557
 },
 "docx/004.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 48494
+"size": 48496
 },
 "docx/005.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 47370
+"size": 47372
 },
 "docx/006.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 49529
+"size": 49530
 },
 "docx/007.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 48227
+"size": 48228
 },
 "docx/008.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 52160
+"size": 52161
 },
 "docx/009.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46712
+"size": 46714
 },
 "docx/010.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -657,147 +658,147 @@
 },
 "docx/011.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44689
+"size": 44692
 },
 "docx/012.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45230
+"size": 45232
 },
 "docx/013.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 48242
+"size": 48240
 },
 "docx/014.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42643
+"size": 42644
 },
 "docx/015.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43063
+"size": 43064
 },
 "docx/016.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 57062
+"size": 57063
 },
 "docx/017.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45583
+"size": 45585
 },
 "docx/018.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 59623
+"size": 59625
 },
 "docx/019.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 51062
+"size": 51064
 },
 "docx/020.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43501
+"size": 43502
 },
 "docx/021.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45487
+"size": 45489
 },
 "docx/022.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43728
+"size": 43727
 },
 "docx/023.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42356
+"size": 42358
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
-"size": 95068
+"size": 95218
 },
 "pdf/002.content.pdf": {
 "mimeType": "application/pdf",
-"size": 99976
+"size": 100182
 },
 "pdf/003.content.pdf": {
 "mimeType": "application/pdf",
-"size": 145842
+"size": 146100
 },
 "pdf/004.content.pdf": {
 "mimeType": "application/pdf",
-"size": 86341
+"size": 86506
 },
 "pdf/005.content.pdf": {
 "mimeType": "application/pdf",
-"size": 74918
+"size": 75056
 },
 "pdf/006.content.pdf": {
 "mimeType": "application/pdf",
-"size": 90246
+"size": 90367
 },
 "pdf/007.content.pdf": {
 "mimeType": "application/pdf",
-"size": 85045
+"size": 85246
 },
 "pdf/008.content.pdf": {
 "mimeType": "application/pdf",
-"size": 130333
+"size": 130441
 },
 "pdf/009.content.pdf": {
 "mimeType": "application/pdf",
-"size": 66720
+"size": 66781
 },
 "pdf/010.content.pdf": {
 "mimeType": "application/pdf",
-"size": 92939
+"size": 93048
 },
 "pdf/011.content.pdf": {
 "mimeType": "application/pdf",
-"size": 48117
+"size": 48291
 },
 "pdf/012.content.pdf": {
 "mimeType": "application/pdf",
-"size": 53933
+"size": 54106
 },
 "pdf/013.content.pdf": {
 "mimeType": "application/pdf",
-"size": 88296
+"size": 88370
 },
 "pdf/014.content.pdf": {
 "mimeType": "application/pdf",
-"size": 32275
+"size": 32308
 },
 "pdf/015.content.pdf": {
 "mimeType": "application/pdf",
-"size": 35598
+"size": 35634
 },
 "pdf/016.content.pdf": {
 "mimeType": "application/pdf",
-"size": 164099
+"size": 164199
 },
 "pdf/017.content.pdf": {
 "mimeType": "application/pdf",
-"size": 55529
+"size": 55572
 },
 "pdf/018.content.pdf": {
 "mimeType": "application/pdf",
-"size": 211038
+"size": 211064
 },
 "pdf/019.content.pdf": {
 "mimeType": "application/pdf",
-"size": 107602
+"size": 107785
 },
 "pdf/020.content.pdf": {
 "mimeType": "application/pdf",
-"size": 38306
+"size": 38348
 },
 "pdf/021.content.pdf": {
 "mimeType": "application/pdf",
-"size": 52789
+"size": 52955
 },
 "pdf/022.content.pdf": {
 "mimeType": "application/pdf",
-"size": 38341
+"size": 38293
 },
 "pdf/023.content.pdf": {
 "mimeType": "application/pdf",
-"size": 29667
+"size": 29709
 }
 },
 "copyright": {
@@ -808,7 +809,7 @@
 ],
 "shortStatements": [
 {
-"statement": "<p>Familiarization, Internalization, Articulation (Fia) Terms © 2023 SRV Partners.</p>",
+"statement": "<p>Familiarization, Internalization, Articulation (Fia) Terms © 2025 Word Collective.</p>",
 "mimetype": "text/html",
 "lang": "es"
 }
@@ -840,6 +841,11 @@
 "content_id": "rus-t17-v1",
 "language": "rus",
 "title": "Лодка"
+},
+"tpi": {
+"content_id": "tpi-t17-v1",
+"language": "tpi",
+"title": "boat"
 },
 "zhs": {
 "content_id": "cmn-t17-v1",
@@ -905,6 +911,11 @@
 "language": "rus",
 "title": "Капернаум"
 },
+"tpi": {
+"content_id": "tpi-t22-v1",
+"language": "tpi",
+"title": "capernaum"
+},
 "zhs": {
 "content_id": "cmn-t22-v1",
 "language": "zhs",
@@ -963,6 +974,11 @@
 "content_id": "por-t39-v1",
 "language": "por",
 "title": "discípulo"
+},
+"tpi": {
+"content_id": "tpi-t39-v1",
+"language": "tpi",
+"title": "disciple"
 },
 "zhs": {
 "content_id": "cmn-t39-v1",
@@ -1023,6 +1039,11 @@
 "language": "rus",
 "title": "Вера/верить"
 },
+"tpi": {
+"content_id": "tpi-t48-v1",
+"language": "tpi",
+"title": "faith"
+},
 "zhs": {
 "content_id": "cmn-t48-v1",
 "language": "zhs",
@@ -1082,6 +1103,11 @@
 "language": "por",
 "title": "Senhor"
 },
+"tpi": {
+"content_id": "tpi-t87-v1",
+"language": "tpi",
+"title": "lord"
+},
 "zhs": {
 "content_id": "cmn-t87-v1",
 "language": "zhs",
@@ -1136,6 +1162,11 @@
 "language": "por",
 "title": "Senhor"
 },
+"tpi": {
+"content_id": "tpi-t88-v1",
+"language": "tpi",
+"title": "lord"
+},
 "zhs": {
 "content_id": "cmn-t88-v1",
 "language": "zhs",
@@ -1189,6 +1220,11 @@
 "content_id": "por-t90-v1",
 "language": "por",
 "title": "mestre"
+},
+"tpi": {
+"content_id": "tpi-t90-v1",
+"language": "tpi",
+"title": "master"
 }
 }
 },
@@ -1238,6 +1274,11 @@
 "content_id": "rus-t121-v1",
 "language": "rus",
 "title": "Море Галилейское"
+},
+"tpi": {
+"content_id": "tpi-t121-v1",
+"language": "tpi",
+"title": "sea-of-galilee"
 },
 "zhs": {
 "content_id": "cmn-t121-v1",
@@ -1303,6 +1344,11 @@
 "language": "rus",
 "title": "Грех"
 },
+"tpi": {
+"content_id": "tpi-t125-v1",
+"language": "tpi",
+"title": "sin"
+},
 "zhs": {
 "content_id": "cmn-t125-v1",
 "language": "zhs",
@@ -1362,6 +1408,11 @@
 "language": "por",
 "title": "boas novas"
 },
+"tpi": {
+"content_id": "tpi-t160-v1",
+"language": "tpi",
+"title": "good-news"
+},
 "zhs": {
 "content_id": "cmn-t160-v1",
 "language": "zhs",
@@ -1415,6 +1466,11 @@
 "content_id": "por-t1-v1",
 "language": "por",
 "title": "Abraão"
+},
+"tpi": {
+"content_id": "tpi-t1-v1",
+"language": "tpi",
+"title": "abraham"
 }
 }
 },
@@ -1437,6 +1493,11 @@
 "content_id": "por-t2-v1",
 "language": "por",
 "title": "adultério"
+},
+"tpi": {
+"content_id": "tpi-t2-v1",
+"language": "tpi",
+"title": "adultery"
 },
 "zhs": {
 "content_id": "cmn-t2-v1",
@@ -1463,6 +1524,11 @@
 "por": {
 "content_id": "por-t3-v1",
 "language": "por",
+"title": "altar"
+},
+"tpi": {
+"content_id": "tpi-t3-v1",
+"language": "tpi",
 "title": "altar"
 }
 }
@@ -1492,6 +1558,11 @@
 "language": "rus",
 "title": "Ангелы"
 },
+"tpi": {
+"content_id": "tpi-t4-v1",
+"language": "tpi",
+"title": "angel"
+},
 "zhs": {
 "content_id": "cmn-t4-v1",
 "language": "zhs",
@@ -1519,6 +1590,11 @@
 "language": "por",
 "title": "ungir"
 },
+"tpi": {
+"content_id": "tpi-t5-v1",
+"language": "tpi",
+"title": "anoint"
+},
 "zhs": {
 "content_id": "cmn-t5-v1",
 "language": "zhs",
@@ -1545,6 +1621,11 @@
 "content_id": "por-t6-v1",
 "language": "por",
 "title": "apóstolo"
+},
+"tpi": {
+"content_id": "tpi-t6-v1",
+"language": "tpi",
+"title": "apostle"
 },
 "zhs": {
 "content_id": "cmn-t6-v1",
@@ -1578,6 +1659,11 @@
 "language": "rus",
 "title": "Власть или Авторитет"
 },
+"tpi": {
+"content_id": "tpi-t8-v1",
+"language": "tpi",
+"title": "authority"
+},
 "zhs": {
 "content_id": "cmn-t8-v1",
 "language": "zhs",
@@ -1610,6 +1696,11 @@
 "language": "rus",
 "title": "Крещение"
 },
+"tpi": {
+"content_id": "tpi-t9-v1",
+"language": "tpi",
+"title": "baptism"
+},
 "zhs": {
 "content_id": "cmn-t9-v1",
 "language": "zhs",
@@ -1636,6 +1727,11 @@
 "content_id": "por-t10-v1",
 "language": "por",
 "title": "cesta"
+},
+"tpi": {
+"content_id": "tpi-t10-v1",
+"language": "tpi",
+"title": "basket"
 },
 "zhs": {
 "content_id": "cmn-t10-v1",
@@ -1669,6 +1765,11 @@
 "language": "rus",
 "title": "Вера/верить"
 },
+"tpi": {
+"content_id": "tpi-t11-v1",
+"language": "tpi",
+"title": "belief"
+},
 "zhs": {
 "content_id": "cmn-t11-v1",
 "language": "zhs",
@@ -1695,6 +1796,11 @@
 "content_id": "por-t12-v1",
 "language": "por",
 "title": "crente"
+},
+"tpi": {
+"content_id": "tpi-t12-v1",
+"language": "tpi",
+"title": "believer"
 }
 }
 },
@@ -1717,6 +1823,11 @@
 "content_id": "por-t13-v1",
 "language": "por",
 "title": "Belém"
+},
+"tpi": {
+"content_id": "tpi-t13-v1",
+"language": "tpi",
+"title": "bethlehem"
 }
 }
 },
@@ -1739,6 +1850,11 @@
 "content_id": "por-t14-v1",
 "language": "por",
 "title": "Betsaida"
+},
+"tpi": {
+"content_id": "tpi-t14-v1",
+"language": "tpi",
+"title": "bethsaida"
 },
 "zhs": {
 "content_id": "cmn-t14-v1",
@@ -1767,6 +1883,11 @@
 "language": "por",
 "title": "blasfêmia"
 },
+"tpi": {
+"content_id": "tpi-t15-v1",
+"language": "tpi",
+"title": "blasphemy"
+},
 "zhs": {
 "content_id": "cmn-t15-v1",
 "language": "zhs",
@@ -1793,6 +1914,11 @@
 "content_id": "por-t16-v1",
 "language": "por",
 "title": "abençoar"
+},
+"tpi": {
+"content_id": "tpi-t16-v1",
+"language": "tpi",
+"title": "bless"
 },
 "zhs": {
 "content_id": "cmn-t16-v1",
@@ -1821,6 +1947,11 @@
 "language": "por",
 "title": "curvar"
 },
+"tpi": {
+"content_id": "tpi-t18-v1",
+"language": "tpi",
+"title": "bow"
+},
 "zhs": {
 "content_id": "cmn-t18-v1",
 "language": "zhs",
@@ -1847,6 +1978,11 @@
 "content_id": "por-t19-v1",
 "language": "por",
 "title": "César"
+},
+"tpi": {
+"content_id": "tpi-t19-v1",
+"language": "tpi",
+"title": "caesar"
 },
 "zhs": {
 "content_id": "cmn-t19-v1",
@@ -1875,6 +2011,11 @@
 "language": "por",
 "title": "Cesareia de Filipe"
 },
+"tpi": {
+"content_id": "tpi-t20-v1",
+"language": "tpi",
+"title": "caeserea-philippi"
+},
 "zhs": {
 "content_id": "cmn-t20-v1",
 "language": "zhs",
@@ -1901,6 +2042,11 @@
 "content_id": "por-t21-v1",
 "language": "por",
 "title": "camelo"
+},
+"tpi": {
+"content_id": "tpi-t21-v1",
+"language": "tpi",
+"title": "camel"
 },
 "zhs": {
 "content_id": "cmn-t21-v1",
@@ -1934,6 +2080,11 @@
 "language": "rus",
 "title": "Христос"
 },
+"tpi": {
+"content_id": "tpi-t23-v1",
+"language": "tpi",
+"title": "christ"
+},
 "zhs": {
 "content_id": "cmn-t23-v1",
 "language": "zhs",
@@ -1960,6 +2111,11 @@
 "content_id": "por-t24-v1",
 "language": "por",
 "title": "igreja"
+},
+"tpi": {
+"content_id": "tpi-t24-v1",
+"language": "tpi",
+"title": "church"
 }
 }
 },
@@ -1982,6 +2138,11 @@
 "content_id": "por-t25-v1",
 "language": "por",
 "title": "circuncisão"
+},
+"tpi": {
+"content_id": "tpi-t25-v1",
+"language": "tpi",
+"title": "circumcision"
 }
 }
 },
@@ -2010,6 +2171,11 @@
 "language": "rus",
 "title": "Чистый и нечистый"
 },
+"tpi": {
+"content_id": "tpi-t26-v1",
+"language": "tpi",
+"title": "clean-unclean"
+},
 "zhs": {
 "content_id": "cmn-t26-v1",
 "language": "zhs",
@@ -2036,6 +2202,11 @@
 "content_id": "por-t27-v1",
 "language": "por",
 "title": "capa"
+},
+"tpi": {
+"content_id": "tpi-t27-v1",
+"language": "tpi",
+"title": "cloak"
 },
 "zhs": {
 "content_id": "cmn-t27-v1",
@@ -2064,6 +2235,11 @@
 "language": "por",
 "title": "pedra angular"
 },
+"tpi": {
+"content_id": "tpi-t28-v1",
+"language": "tpi",
+"title": "cornerstone"
+},
 "zhs": {
 "content_id": "cmn-t28-v1",
 "language": "zhs",
@@ -2090,6 +2266,11 @@
 "content_id": "por-t29-v1",
 "language": "por",
 "title": "aliança"
+},
+"tpi": {
+"content_id": "tpi-t29-v1",
+"language": "tpi",
+"title": "covenant"
 },
 "zhs": {
 "content_id": "cmn-t29-v1",
@@ -2118,6 +2299,11 @@
 "language": "por",
 "title": "cruz"
 },
+"tpi": {
+"content_id": "tpi-t30-v1",
+"language": "tpi",
+"title": "cross"
+},
 "zhs": {
 "content_id": "cmn-t30-v1",
 "language": "zhs",
@@ -2144,6 +2330,11 @@
 "content_id": "por-t31-v1",
 "language": "por",
 "title": "maldição"
+},
+"tpi": {
+"content_id": "tpi-t31-v1",
+"language": "tpi",
+"title": "curse"
 },
 "zhs": {
 "content_id": "cmn-t31-v1",
@@ -2172,6 +2363,11 @@
 "language": "por",
 "title": "Davi "
 },
+"tpi": {
+"content_id": "tpi-t33-v1",
+"language": "tpi",
+"title": "david"
+},
 "zhs": {
 "content_id": "cmn-t33-v1",
 "language": "zhs",
@@ -2198,6 +2394,11 @@
 "content_id": "por-t35-v1",
 "language": "por",
 "title": "Decápolis"
+},
+"tpi": {
+"content_id": "tpi-t35-v1",
+"language": "tpi",
+"title": "decapolis"
 },
 "zhs": {
 "content_id": "cmn-t35-v1",
@@ -2231,6 +2432,11 @@
 "language": "rus",
 "title": "Бес"
 },
+"tpi": {
+"content_id": "tpi-t36-v1",
+"language": "tpi",
+"title": "demon"
+},
 "zhs": {
 "content_id": "cmn-t36-v1",
 "language": "zhs",
@@ -2257,6 +2463,11 @@
 "content_id": "por-t37-v1",
 "language": "por",
 "title": "denário"
+},
+"tpi": {
+"content_id": "tpi-t37-v1",
+"language": "tpi",
+"title": "denarius"
 },
 "zhs": {
 "content_id": "cmn-t37-v1",
@@ -2290,6 +2501,11 @@
 "language": "rus",
 "title": "Пустыня, пустошь"
 },
+"tpi": {
+"content_id": "tpi-t38-v1",
+"language": "tpi",
+"title": "desert"
+},
 "zhs": {
 "content_id": "cmn-t38-v1",
 "language": "zhs",
@@ -2316,6 +2532,11 @@
 "content_id": "por-t40-v1",
 "language": "por",
 "title": "divórcio"
+},
+"tpi": {
+"content_id": "tpi-t40-v1",
+"language": "tpi",
+"title": "divorce"
 },
 "zhs": {
 "content_id": "cmn-t40-v1",
@@ -2344,6 +2565,11 @@
 "language": "por",
 "title": "burro"
 },
+"tpi": {
+"content_id": "tpi-t41-v1",
+"language": "tpi",
+"title": "donkey"
+},
 "zhs": {
 "content_id": "cmn-t41-v1",
 "language": "zhs",
@@ -2370,6 +2596,11 @@
 "content_id": "por-t42-v1",
 "language": "por",
 "title": "pomba"
+},
+"tpi": {
+"content_id": "tpi-t42-v1",
+"language": "tpi",
+"title": "dove"
 },
 "zhs": {
 "content_id": "cmn-t42-v1",
@@ -2398,6 +2629,11 @@
 "language": "por",
 "title": "ancião"
 },
+"tpi": {
+"content_id": "tpi-t43-v1",
+"language": "tpi",
+"title": "elder"
+},
 "zhs": {
 "content_id": "cmn-t43-v1",
 "language": "zhs",
@@ -2425,6 +2661,11 @@
 "language": "por",
 "title": "Elias"
 },
+"tpi": {
+"content_id": "tpi-t44-v1",
+"language": "tpi",
+"title": "elijah"
+},
 "zhs": {
 "content_id": "cmn-t44-v1",
 "language": "zhs",
@@ -2451,6 +2692,11 @@
 "content_id": "por-t45-v1",
 "language": "por",
 "title": "Isabel"
+},
+"tpi": {
+"content_id": "tpi-t45-v1",
+"language": "tpi",
+"title": "elizabeth"
 }
 }
 },
@@ -2473,6 +2719,11 @@
 "content_id": "por-t46-v1",
 "language": "por",
 "title": "vida eterna"
+},
+"tpi": {
+"content_id": "tpi-t46-v1",
+"language": "tpi",
+"title": "eternal-life"
 },
 "zhs": {
 "content_id": "cmn-t46-v1",
@@ -2501,6 +2752,11 @@
 "language": "por",
 "title": "espírito maligno"
 },
+"tpi": {
+"content_id": "tpi-t47-v1",
+"language": "tpi",
+"title": "evil-spirit"
+},
 "zhs": {
 "content_id": "cmn-t47-v1",
 "language": "zhs",
@@ -2528,6 +2784,11 @@
 "language": "por",
 "title": "jejum"
 },
+"tpi": {
+"content_id": "tpi-t49-v1",
+"language": "tpi",
+"title": "fasting"
+},
 "zhs": {
 "content_id": "cmn-t49-v1",
 "language": "zhs",
@@ -2554,6 +2815,11 @@
 "content_id": "por-t51-v1",
 "language": "por",
 "title": "figueira"
+},
+"tpi": {
+"content_id": "tpi-t51-v1",
+"language": "tpi",
+"title": "fig-tree"
 },
 "zhs": {
 "content_id": "cmn-t51-v1",
@@ -2587,6 +2853,11 @@
 "language": "rus",
 "title": "Рыболовная сеть"
 },
+"tpi": {
+"content_id": "tpi-t52-v1",
+"language": "tpi",
+"title": "fishing-net"
+},
 "zhs": {
 "content_id": "cmn-t52-v1",
 "language": "zhs",
@@ -2619,6 +2890,11 @@
 "language": "rus",
 "title": "Простить, прощение"
 },
+"tpi": {
+"content_id": "tpi-t53-v1",
+"language": "tpi",
+"title": "forgiveness"
+},
 "zhs": {
 "content_id": "cmn-t53-v1",
 "language": "zhs",
@@ -2645,6 +2921,11 @@
 "content_id": "por-t54-v1",
 "language": "por",
 "title": "Gabriel"
+},
+"tpi": {
+"content_id": "tpi-t54-v1",
+"language": "tpi",
+"title": "gabriel"
 }
 }
 },
@@ -2673,6 +2954,11 @@
 "language": "rus",
 "title": "Галилея"
 },
+"tpi": {
+"content_id": "tpi-t55-v1",
+"language": "tpi",
+"title": "galilee"
+},
 "zhs": {
 "content_id": "cmn-t55-v1",
 "language": "zhs",
@@ -2699,6 +2985,11 @@
 "content_id": "por-t56-v1",
 "language": "por",
 "title": "Gentio"
+},
+"tpi": {
+"content_id": "tpi-t56-v1",
+"language": "tpi",
+"title": "gentile"
 },
 "zhs": {
 "content_id": "cmn-t56-v1",
@@ -2727,6 +3018,11 @@
 "language": "por",
 "title": "Gerasenos"
 },
+"tpi": {
+"content_id": "tpi-t57-v2.1",
+"language": "tpi",
+"title": "gerasenes"
+},
 "zhs": {
 "content_id": "cmn-t57-v1",
 "language": "zhs",
@@ -2753,6 +3049,11 @@
 "content_id": "por-t58-v1",
 "language": "por",
 "title": "glória"
+},
+"tpi": {
+"content_id": "tpi-t58-v1",
+"language": "tpi",
+"title": "glory"
 },
 "zhs": {
 "content_id": "cmn-t58-v1",
@@ -2786,6 +3087,11 @@
 "language": "rus",
 "title": "Евангелие"
 },
+"tpi": {
+"content_id": "tpi-t60-v1",
+"language": "tpi",
+"title": "gospel"
+},
 "zhs": {
 "content_id": "cmn-t60-v1",
 "language": "zhs",
@@ -2812,6 +3118,11 @@
 "content_id": "por-t61-v1",
 "language": "por",
 "title": "graça"
+},
+"tpi": {
+"content_id": "tpi-t61-v1",
+"language": "tpi",
+"title": "grace"
 }
 }
 },
@@ -2839,6 +3150,11 @@
 "content_id": "rus-t62-v1",
 "language": "rus",
 "title": "Исцелять"
+},
+"tpi": {
+"content_id": "tpi-t62-v1",
+"language": "tpi",
+"title": "heal"
 },
 "zhs": {
 "content_id": "cmn-t62-v1",
@@ -2872,6 +3188,11 @@
 "language": "rus",
 "title": "Небеса"
 },
+"tpi": {
+"content_id": "tpi-t63-v1",
+"language": "tpi",
+"title": "heaven"
+},
 "zhs": {
 "content_id": "cmn-t63-v1",
 "language": "zhs",
@@ -2898,6 +3219,11 @@
 "content_id": "por-t64-v1",
 "language": "por",
 "title": "herdeiro"
+},
+"tpi": {
+"content_id": "tpi-t64-v1",
+"language": "tpi",
+"title": "heir"
 },
 "zhs": {
 "content_id": "cmn-t64-v1",
@@ -2926,6 +3252,11 @@
 "language": "por",
 "title": "inferno"
 },
+"tpi": {
+"content_id": "tpi-t65-v1",
+"language": "tpi",
+"title": "hell"
+},
 "zhs": {
 "content_id": "cmn-t65-v1",
 "language": "zhs",
@@ -2952,6 +3283,11 @@
 "content_id": "por-t66-v1",
 "language": "por",
 "title": "herodianos"
+},
+"tpi": {
+"content_id": "tpi-t66-v1",
+"language": "tpi",
+"title": "herodian"
 },
 "zhs": {
 "content_id": "cmn-t66-v1",
@@ -2985,6 +3321,11 @@
 "language": "rus",
 "title": "Святой"
 },
+"tpi": {
+"content_id": "tpi-t67-v1",
+"language": "tpi",
+"title": "holy"
+},
 "zhs": {
 "content_id": "cmn-t67-v1",
 "language": "zhs",
@@ -3017,6 +3358,11 @@
 "language": "rus",
 "title": "Дух Святой"
 },
+"tpi": {
+"content_id": "tpi-t68-v1",
+"language": "tpi",
+"title": "holy-spirit"
+},
 "zhs": {
 "content_id": "cmn-t68-v1",
 "language": "zhs",
@@ -3043,6 +3389,11 @@
 "content_id": "por-t69-v1",
 "language": "por",
 "title": "Hosana"
+},
+"tpi": {
+"content_id": "tpi-t69-v1",
+"language": "tpi",
+"title": "hosanna"
 },
 "zhs": {
 "content_id": "cmn-t69-v1",
@@ -3071,6 +3422,11 @@
 "language": "por",
 "title": "família"
 },
+"tpi": {
+"content_id": "tpi-t70-v1",
+"language": "tpi",
+"title": "household"
+},
 "zhs": {
 "content_id": "cmn-t70-v1",
 "language": "zhs",
@@ -3098,6 +3454,11 @@
 "language": "por",
 "title": "hipocrisia"
 },
+"tpi": {
+"content_id": "tpi-t71-v1",
+"language": "tpi",
+"title": "hypocrisy"
+},
 "zhs": {
 "content_id": "cmn-t71-v1",
 "language": "zhs",
@@ -3124,6 +3485,11 @@
 "content_id": "por-t72-v1",
 "language": "por",
 "title": "ídolo"
+},
+"tpi": {
+"content_id": "tpi-t72-v1",
+"language": "tpi",
+"title": "idol"
 }
 }
 },
@@ -3146,6 +3512,11 @@
 "content_id": "por-t73-v1",
 "language": "por",
 "title": "Isaías"
+},
+"tpi": {
+"content_id": "tpi-t73-v1",
+"language": "tpi",
+"title": "isaiah"
 },
 "zhs": {
 "content_id": "cmn-t73-v1",
@@ -3173,6 +3544,11 @@
 "content_id": "por-t74-v2",
 "language": "por",
 "title": "Israel"
+},
+"tpi": {
+"content_id": "tpi-t74-v2",
+"language": "tpi",
+"title": "israel"
 }
 }
 },
@@ -3195,6 +3571,11 @@
 "content_id": "por-t75-v1",
 "language": "por",
 "title": "Tiago"
+},
+"tpi": {
+"content_id": "tpi-t75-v1",
+"language": "tpi",
+"title": "james"
 },
 "zhs": {
 "content_id": "cmn-t75-v1",
@@ -3228,6 +3609,11 @@
 "language": "rus",
 "title": "Иерусалим"
 },
+"tpi": {
+"content_id": "tpi-t76-v1",
+"language": "tpi",
+"title": "jerusalem"
+},
 "zhs": {
 "content_id": "cmn-t76-v1",
 "language": "zhs",
@@ -3254,6 +3640,11 @@
 "content_id": "por-t77-v2",
 "language": "por",
 "title": "Judeu"
+},
+"tpi": {
+"content_id": "tpi-t77-v2",
+"language": "tpi",
+"title": "jew"
 }
 }
 },
@@ -3276,6 +3667,11 @@
 "content_id": "por-t78-v1",
 "language": "por",
 "title": "João "
+},
+"tpi": {
+"content_id": "tpi-t78-v1",
+"language": "tpi",
+"title": "john"
 },
 "zhs": {
 "content_id": "cmn-t78-v1",
@@ -3304,6 +3700,11 @@
 "language": "por",
 "title": "João Batista"
 },
+"tpi": {
+"content_id": "tpi-t79-v1",
+"language": "tpi",
+"title": "john-the-baptist"
+},
 "zhs": {
 "content_id": "cmn-t79-v1",
 "language": "zhs",
@@ -3331,6 +3732,11 @@
 "language": "por",
 "title": "Rio Jordão"
 },
+"tpi": {
+"content_id": "tpi-t80-v1",
+"language": "tpi",
+"title": "jordan-river"
+},
 "zhs": {
 "content_id": "cmn-t80-v1",
 "language": "zhs",
@@ -3357,6 +3763,11 @@
 "content_id": "por-t81-v1",
 "language": "por",
 "title": "Judeia"
+},
+"tpi": {
+"content_id": "tpi-t81-v1",
+"language": "tpi",
+"title": "judea"
 },
 "zhs": {
 "content_id": "cmn-t81-v1",
@@ -3390,6 +3801,11 @@
 "language": "rus",
 "title": "Царство Божие"
 },
+"tpi": {
+"content_id": "tpi-t82-v1",
+"language": "tpi",
+"title": "kingdom-of-god"
+},
 "zhs": {
 "content_id": "cmn-t82-v1",
 "language": "zhs",
@@ -3422,6 +3838,11 @@
 "language": "rus",
 "title": "Закон"
 },
+"tpi": {
+"content_id": "tpi-t83-v1",
+"language": "tpi",
+"title": "law"
+},
 "zhs": {
 "content_id": "cmn-t83-v1",
 "language": "zhs",
@@ -3448,6 +3869,11 @@
 "content_id": "por-t84-v1",
 "language": "por",
 "title": "legião"
+},
+"tpi": {
+"content_id": "tpi-t84-v1",
+"language": "tpi",
+"title": "legion"
 },
 "zhs": {
 "content_id": "cmn-t84-v1",
@@ -3481,6 +3907,11 @@
 "language": "rus",
 "title": "Проказа"
 },
+"tpi": {
+"content_id": "tpi-t85-v1",
+"language": "tpi",
+"title": "leprosy"
+},
 "zhs": {
 "content_id": "cmn-t85-v1",
 "language": "zhs",
@@ -3507,6 +3938,11 @@
 "content_id": "por-t89-v1",
 "language": "por",
 "title": "Maria"
+},
+"tpi": {
+"content_id": "tpi-t89-v1",
+"language": "tpi",
+"title": "mary"
 }
 }
 },
@@ -3529,6 +3965,11 @@
 "content_id": "por-t91-v1",
 "language": "por",
 "title": "misericórdia"
+},
+"tpi": {
+"content_id": "tpi-t91-v1",
+"language": "tpi",
+"title": "mercy"
 },
 "zhs": {
 "content_id": "cmn-t91-v1",
@@ -3557,6 +3998,11 @@
 "language": "por",
 "title": "Messias"
 },
+"tpi": {
+"content_id": "tpi-t92-v1",
+"language": "tpi",
+"title": "messiah"
+},
 "zhs": {
 "content_id": "cmn-t92-v1",
 "language": "zhs",
@@ -3584,6 +4030,11 @@
 "language": "por",
 "title": "milagres"
 },
+"tpi": {
+"content_id": "tpi-t93-v1",
+"language": "tpi",
+"title": "miracles"
+},
 "zhs": {
 "content_id": "cmn-t93-v1",
 "language": "zhs",
@@ -3610,6 +4061,11 @@
 "content_id": "por-t94-v1",
 "language": "por",
 "title": "nação"
+},
+"tpi": {
+"content_id": "tpi-t94-v1",
+"language": "tpi",
+"title": "nation"
 },
 "zhs": {
 "content_id": "cmn-t94-v1",
@@ -3643,6 +4099,11 @@
 "language": "rus",
 "title": "Назарет"
 },
+"tpi": {
+"content_id": "tpi-t95-v1",
+"language": "tpi",
+"title": "nazareth"
+},
 "zhs": {
 "content_id": "cmn-t95-v1",
 "language": "zhs",
@@ -3669,6 +4130,11 @@
 "content_id": "por-t96-v1",
 "language": "por",
 "title": "juramento"
+},
+"tpi": {
+"content_id": "tpi-t96-v1",
+"language": "tpi",
+"title": "oath"
 },
 "zhs": {
 "content_id": "cmn-t96-v1",
@@ -3697,6 +4163,11 @@
 "language": "por",
 "title": "lâmpada de óleo"
 },
+"tpi": {
+"content_id": "tpi-t97-v1",
+"language": "tpi",
+"title": "oil-lamp"
+},
 "zhs": {
 "content_id": "cmn-t97-v1",
 "language": "zhs",
@@ -3724,6 +4195,11 @@
 "language": "por",
 "title": "parábola"
 },
+"tpi": {
+"content_id": "tpi-t98-v1",
+"language": "tpi",
+"title": "parable"
+},
 "zhs": {
 "content_id": "cmn-t98-v1",
 "language": "zhs",
@@ -3750,6 +4226,11 @@
 "content_id": "por-t99-v1",
 "language": "por",
 "title": "paraíso"
+},
+"tpi": {
+"content_id": "tpi-t99-v1",
+"language": "tpi",
+"title": "paradise"
 }
 }
 },
@@ -3772,6 +4253,11 @@
 "content_id": "por-t100-v1",
 "language": "por",
 "title": "Fariseu"
+},
+"tpi": {
+"content_id": "tpi-t100-v1",
+"language": "tpi",
+"title": "pharisee"
 },
 "zhs": {
 "content_id": "cmn-t100-v1",
@@ -3805,6 +4291,11 @@
 "language": "rus",
 "title": "Одержимый (одержимый бесом)"
 },
+"tpi": {
+"content_id": "tpi-t101-v1",
+"language": "tpi",
+"title": "possessed"
+},
 "zhs": {
 "content_id": "cmn-t101-v1",
 "language": "zhs",
@@ -3836,6 +4327,11 @@
 "content_id": "rus-t102-v1",
 "language": "rus",
 "title": "Молиться"
+},
+"tpi": {
+"content_id": "tpi-t102-v1",
+"language": "tpi",
+"title": "pray"
 },
 "zhs": {
 "content_id": "cmn-t102-v1",
@@ -3869,6 +4365,11 @@
 "language": "rus",
 "title": "Cвященник"
 },
+"tpi": {
+"content_id": "tpi-t103-v1",
+"language": "tpi",
+"title": "priest"
+},
 "zhs": {
 "content_id": "cmn-t103-v1",
 "language": "zhs",
@@ -3901,6 +4402,11 @@
 "language": "rus",
 "title": "пророк"
 },
+"tpi": {
+"content_id": "tpi-t104-v1",
+"language": "tpi",
+"title": "prophet"
+},
 "zhs": {
 "content_id": "cmn-t104-v1",
 "language": "zhs",
@@ -3927,6 +4433,11 @@
 "content_id": "por-t105-v1",
 "language": "por",
 "title": "resgate"
+},
+"tpi": {
+"content_id": "tpi-t105-v1",
+"language": "tpi",
+"title": "ransom"
 },
 "zhs": {
 "content_id": "cmn-t105-v1",
@@ -3955,6 +4466,11 @@
 "language": "por",
 "title": "rabi"
 },
+"tpi": {
+"content_id": "tpi-t106-v1",
+"language": "tpi",
+"title": "rabbi"
+},
 "zhs": {
 "content_id": "cmn-t106-v1",
 "language": "zhs",
@@ -3981,6 +4497,11 @@
 "content_id": "por-t107-v1",
 "language": "por",
 "title": "redimir"
+},
+"tpi": {
+"content_id": "tpi-t107-v1",
+"language": "tpi",
+"title": "redeem"
 }
 }
 },
@@ -4003,6 +4524,11 @@
 "content_id": "por-t109-v1",
 "language": "por",
 "title": "arrependimento"
+},
+"tpi": {
+"content_id": "tpi-t109-v1",
+"language": "tpi",
+"title": "repentance"
 },
 "zhs": {
 "content_id": "cmn-t109-v1",
@@ -4031,6 +4557,11 @@
 "language": "por",
 "title": "ressurreição"
 },
+"tpi": {
+"content_id": "tpi-t110-v1",
+"language": "tpi",
+"title": "resurrection"
+},
 "zhs": {
 "content_id": "cmn-t110-v1",
 "language": "zhs",
@@ -4058,6 +4589,11 @@
 "language": "por",
 "title": "retidão"
 },
+"tpi": {
+"content_id": "tpi-t111-v1",
+"language": "tpi",
+"title": "righteousness"
+},
 "zhs": {
 "content_id": "cmn-t111-v1",
 "language": "zhs",
@@ -4084,6 +4620,11 @@
 "content_id": "por-t112-v1",
 "language": "por",
 "title": "manto"
+},
+"tpi": {
+"content_id": "tpi-t112-v1",
+"language": "tpi",
+"title": "robe"
 },
 "zhs": {
 "content_id": "cmn-t112-v1",
@@ -4117,6 +4658,11 @@
 "language": "rus",
 "title": "суббота"
 },
+"tpi": {
+"content_id": "tpi-t113-v1",
+"language": "tpi",
+"title": "sabbath"
+},
 "zhs": {
 "content_id": "cmn-t113-v1",
 "language": "zhs",
@@ -4143,6 +4689,11 @@
 "content_id": "rus-t114-v1",
 "language": "rus",
 "title": "Жертва/ жертвоприношение"
+},
+"tpi": {
+"content_id": "tpi-t114-v1",
+"language": "tpi",
+"title": "sacrifice"
 },
 "zhs": {
 "content_id": "cmn-t114-v1",
@@ -4171,6 +4722,11 @@
 "language": "por",
 "title": "Saduceus"
 },
+"tpi": {
+"content_id": "tpi-t115-v1",
+"language": "tpi",
+"title": "sadducee"
+},
 "zhs": {
 "content_id": "cmn-t115-v1",
 "language": "zhs",
@@ -4198,6 +4754,11 @@
 "language": "por",
 "title": "salvação"
 },
+"tpi": {
+"content_id": "tpi-t116-v1",
+"language": "tpi",
+"title": "salvation"
+},
 "zhs": {
 "content_id": "cmn-t116-v1",
 "language": "zhs",
@@ -4224,6 +4785,11 @@
 "content_id": "por-t117-v1",
 "language": "por",
 "title": "santuário"
+},
+"tpi": {
+"content_id": "tpi-t117-v1",
+"language": "tpi",
+"title": "sanctuary"
 }
 }
 },
@@ -4252,6 +4818,11 @@
 "language": "rus",
 "title": "Сатана"
 },
+"tpi": {
+"content_id": "tpi-t118-v1",
+"language": "tpi",
+"title": "satan"
+},
 "zhs": {
 "content_id": "cmn-t118-v1",
 "language": "zhs",
@@ -4278,6 +4849,11 @@
 "content_id": "por-t119-v1",
 "language": "por",
 "title": "Salvador"
+},
+"tpi": {
+"content_id": "tpi-t119-v1",
+"language": "tpi",
+"title": "savior"
 }
 }
 },
@@ -4300,6 +4876,11 @@
 "content_id": "por-t120-v1",
 "language": "por",
 "title": "escrituras"
+},
+"tpi": {
+"content_id": "tpi-t120-v1",
+"language": "tpi",
+"title": "scriptures"
 },
 "zhs": {
 "content_id": "cmn-t120-v1",
@@ -4328,6 +4909,11 @@
 "language": "por",
 "title": "semente"
 },
+"tpi": {
+"content_id": "tpi-t122-v1",
+"language": "tpi",
+"title": "seed"
+},
 "zhs": {
 "content_id": "cmn-t122-v1",
 "language": "zhs",
@@ -4354,6 +4940,11 @@
 "content_id": "por-t123-v2",
 "language": "por",
 "title": "servo"
+},
+"tpi": {
+"content_id": "tpi-t123-v2",
+"language": "tpi",
+"title": "servant"
 },
 "zhs": {
 "content_id": "cmn-t123-v2",
@@ -4382,6 +4973,11 @@
 "language": "por",
 "title": "abrigo"
 },
+"tpi": {
+"content_id": "tpi-t124-v1",
+"language": "tpi",
+"title": "shelter"
+},
 "zhs": {
 "content_id": "cmn-t124-v1",
 "language": "zhs",
@@ -4408,6 +5004,11 @@
 "content_id": "por-t126-v2",
 "language": "por",
 "title": "escravo"
+},
+"tpi": {
+"content_id": "tpi-t126-v2",
+"language": "tpi",
+"title": "slave"
 },
 "zhs": {
 "content_id": "cmn-t126-v2",
@@ -4436,6 +5037,11 @@
 "language": "por",
 "title": "filho"
 },
+"tpi": {
+"content_id": "tpi-t127-v1",
+"language": "tpi",
+"title": "son"
+},
 "zhs": {
 "content_id": "cmn-t127-v1",
 "language": "zhs",
@@ -4462,6 +5068,11 @@
 "content_id": "por-t128-v1",
 "language": "por",
 "title": "Filho de Davi"
+},
+"tpi": {
+"content_id": "tpi-t128-v1",
+"language": "tpi",
+"title": "son-of-david"
 },
 "zhs": {
 "content_id": "cmn-t128-v1",
@@ -4495,6 +5106,11 @@
 "language": "rus",
 "title": "Сын Божий"
 },
+"tpi": {
+"content_id": "tpi-t129-v1",
+"language": "tpi",
+"title": "son-of-god"
+},
 "zhs": {
 "content_id": "cmn-t129-v1",
 "language": "zhs",
@@ -4521,6 +5137,11 @@
 "content_id": "por-t130-v1",
 "language": "por",
 "title": "Filho do Homem"
+},
+"tpi": {
+"content_id": "tpi-t130-v1",
+"language": "tpi",
+"title": "son-of-man"
 },
 "zhs": {
 "content_id": "cmn-t130-v1",
@@ -4549,6 +5170,11 @@
 "language": "por",
 "title": "alma"
 },
+"tpi": {
+"content_id": "tpi-t131-v1",
+"language": "tpi",
+"title": "soul"
+},
 "zhs": {
 "content_id": "cmn-t131-v1",
 "language": "zhs",
@@ -4575,6 +5201,11 @@
 "content_id": "por-t132-v1",
 "language": "por",
 "title": "espírito"
+},
+"tpi": {
+"content_id": "tpi-t132-v1",
+"language": "tpi",
+"title": "spirit"
 },
 "zhs": {
 "content_id": "cmn-t132-v1",
@@ -4603,6 +5234,11 @@
 "language": "por",
 "title": "sinagoga"
 },
+"tpi": {
+"content_id": "tpi-t133-v1",
+"language": "tpi",
+"title": "synagogue"
+},
 "zhs": {
 "content_id": "cmn-t133-v1",
 "language": "zhs",
@@ -4629,6 +5265,11 @@
 "content_id": "por-t134-v1",
 "language": "por",
 "title": "chefe da sinagoga"
+},
+"tpi": {
+"content_id": "tpi-t134-v1",
+"language": "tpi",
+"title": "synagogue-ruler"
 },
 "zhs": {
 "content_id": "cmn-t134-v1",
@@ -4657,6 +5298,11 @@
 "language": "por",
 "title": "Fenícia da Síria"
 },
+"tpi": {
+"content_id": "tpi-t135-v1",
+"language": "tpi",
+"title": "syrian-phoenicia"
+},
 "zhs": {
 "content_id": "cmn-t135-v1",
 "language": "zhs",
@@ -4683,6 +5329,11 @@
 "content_id": "por-t136-v1",
 "language": "por",
 "title": "mestre"
+},
+"tpi": {
+"content_id": "tpi-t136-v1",
+"language": "tpi",
+"title": "teacher"
 },
 "zhs": {
 "content_id": "cmn-t136-v1",
@@ -4716,6 +5367,11 @@
 "language": "rus",
 "title": "Учителя Закона"
 },
+"tpi": {
+"content_id": "tpi-t137-v1",
+"language": "tpi",
+"title": "teachers-of-the-law"
+},
 "zhs": {
 "content_id": "cmn-t137-v1",
 "language": "zhs",
@@ -4742,6 +5398,11 @@
 "content_id": "por-t138-v1",
 "language": "por",
 "title": "templo"
+},
+"tpi": {
+"content_id": "tpi-t138-v1",
+"language": "tpi",
+"title": "temple"
 },
 "zhs": {
 "content_id": "cmn-t138-v1",
@@ -4770,6 +5431,11 @@
 "language": "por",
 "title": "arrendatários"
 },
+"tpi": {
+"content_id": "tpi-t139-v1",
+"language": "tpi",
+"title": "tenants"
+},
 "zhs": {
 "content_id": "cmn-t139-v1",
 "language": "zhs",
@@ -4796,6 +5462,11 @@
 "content_id": "por-t140-v1",
 "language": "por",
 "title": "túmulo"
+},
+"tpi": {
+"content_id": "tpi-t140-v1",
+"language": "tpi",
+"title": "tomb"
 },
 "zhs": {
 "content_id": "cmn-t140-v1",
@@ -4824,6 +5495,11 @@
 "language": "por",
 "title": "Tiro"
 },
+"tpi": {
+"content_id": "tpi-t141-v1",
+"language": "tpi",
+"title": "tyre"
+},
 "zhs": {
 "content_id": "cmn-t141-v1",
 "language": "zhs",
@@ -4851,6 +5527,11 @@
 "language": "por",
 "title": "vinha"
 },
+"tpi": {
+"content_id": "tpi-t142-v1",
+"language": "tpi",
+"title": "vineyard"
+},
 "zhs": {
 "content_id": "cmn-t142-v1",
 "language": "zhs",
@@ -4877,6 +5558,11 @@
 "content_id": "por-t143-v1",
 "language": "por",
 "title": "visão"
+},
+"tpi": {
+"content_id": "tpi-t143-v1",
+"language": "tpi",
+"title": "vision"
 }
 }
 },
@@ -4899,6 +5585,11 @@
 "content_id": "por-t144-v1",
 "language": "por",
 "title": "torre de vigia"
+},
+"tpi": {
+"content_id": "tpi-t144-v1",
+"language": "tpi",
+"title": "watchtower"
 },
 "zhs": {
 "content_id": "cmn-t144-v1",
@@ -4927,6 +5618,11 @@
 "language": "por",
 "title": "região desabitada"
 },
+"tpi": {
+"content_id": "tpi-t145-v1",
+"language": "tpi",
+"title": "wilderness"
+},
 "zhs": {
 "content_id": "cmn-t145-v1",
 "language": "zhs",
@@ -4953,6 +5649,11 @@
 "content_id": "por-t146-v1",
 "language": "por",
 "title": "lagar"
+},
+"tpi": {
+"content_id": "tpi-t146-v1",
+"language": "tpi",
+"title": "winepress"
 },
 "zhs": {
 "content_id": "cmn-t146-v1",
@@ -4981,6 +5682,11 @@
 "language": "por",
 "title": "sabedoria"
 },
+"tpi": {
+"content_id": "tpi-t147-v1",
+"language": "tpi",
+"title": "wisdom"
+},
 "zhs": {
 "content_id": "cmn-t147-v1",
 "language": "zhs",
@@ -5008,6 +5714,11 @@
 "language": "por",
 "title": "Palavra"
 },
+"tpi": {
+"content_id": "tpi-t148-v1",
+"language": "tpi",
+"title": "word"
+},
 "zhs": {
 "content_id": "cmn-t148-v1",
 "language": "zhs",
@@ -5034,6 +5745,11 @@
 "content_id": "por-t149-v1",
 "language": "por",
 "title": "adorar"
+},
+"tpi": {
+"content_id": "tpi-t149-v1",
+"language": "tpi",
+"title": "worship"
 }
 }
 },
@@ -5056,6 +5772,11 @@
 "content_id": "por-t150-v1",
 "language": "por",
 "title": "coração"
+},
+"tpi": {
+"content_id": "tpi-t150-v1",
+"language": "tpi",
+"title": "heart"
 },
 "zhs": {
 "content_id": "cmn-t150-v1",
@@ -5084,6 +5805,11 @@
 "language": "por",
 "title": "mente"
 },
+"tpi": {
+"content_id": "tpi-t151-v1",
+"language": "tpi",
+"title": "mind"
+},
 "zhs": {
 "content_id": "cmn-t151-v1",
 "language": "zhs",
@@ -5110,6 +5836,11 @@
 "content_id": "por-t152-v1",
 "language": "por",
 "title": "força"
+},
+"tpi": {
+"content_id": "tpi-t152-v1",
+"language": "tpi",
+"title": "strength"
 },
 "zhs": {
 "content_id": "cmn-t152-v1",
@@ -5138,6 +5869,11 @@
 "language": "por",
 "title": "oferta queimada"
 },
+"tpi": {
+"content_id": "tpi-t154-v1",
+"language": "tpi",
+"title": "burnt-offering"
+},
 "zhs": {
 "content_id": "cmn-t154-v1",
 "language": "zhs",
@@ -5164,6 +5900,11 @@
 "content_id": "por-t155-v1",
 "language": "por",
 "title": "escriba"
+},
+"tpi": {
+"content_id": "tpi-t155-v1",
+"language": "tpi",
+"title": "scribe"
 },
 "zhs": {
 "content_id": "cmn-t155-v1",
@@ -5192,6 +5933,11 @@
 "language": "por",
 "title": "sinal"
 },
+"tpi": {
+"content_id": "tpi-t156-v1",
+"language": "tpi",
+"title": "sign"
+},
 "zhs": {
 "content_id": "cmn-t156-v1",
 "language": "zhs",
@@ -5219,6 +5965,11 @@
 "language": "por",
 "title": "reino"
 },
+"tpi": {
+"content_id": "tpi-t157-v1",
+"language": "tpi",
+"title": "kingdom"
+},
 "zhs": {
 "content_id": "cmn-t157-v1",
 "language": "zhs",
@@ -5245,6 +5996,11 @@
 "content_id": "por-t158-v1",
 "language": "por",
 "title": "Casa de Davi"
+},
+"tpi": {
+"content_id": "tpi-t158-v1",
+"language": "tpi",
+"title": "house-of-david"
 }
 }
 },
@@ -5267,6 +6023,11 @@
 "content_id": "por-t159-v1",
 "language": "por",
 "title": "pousada"
+},
+"tpi": {
+"content_id": "tpi-t159-v1",
+"language": "tpi",
+"title": "inn"
 }
 }
 },
@@ -5289,6 +6050,11 @@
 "content_id": "por-t161-v1",
 "language": "por",
 "title": "paz"
+},
+"tpi": {
+"content_id": "tpi-t161-v1",
+"language": "tpi",
+"title": "peace"
 }
 }
 },
@@ -5311,6 +6077,11 @@
 "content_id": "por-t162-v1",
 "language": "por",
 "title": "Páscoa"
+},
+"tpi": {
+"content_id": "tpi-t162-v1",
+"language": "tpi",
+"title": "passover"
 },
 "zhs": {
 "content_id": "cmn-t162-v1",
@@ -5338,6 +6109,11 @@
 "content_id": "por-t163-v1",
 "language": "por",
 "title": "Oferta ou cerimônia de purificação"
+},
+"tpi": {
+"content_id": "tpi-t163-v1",
+"language": "tpi",
+"title": "purification-offering-or-ceremony"
 }
 }
 },
@@ -5360,6 +6136,11 @@
 "content_id": "por-t164-v1",
 "language": "por",
 "title": "Festa dos Pães Asmos"
+},
+"tpi": {
+"content_id": "tpi-t164-v1",
+"language": "tpi",
+"title": "festival-of-unleavened-bread"
 },
 "zhs": {
 "content_id": "cmn-t164-v1",
@@ -5388,6 +6169,11 @@
 "language": "por",
 "title": "hino"
 },
+"tpi": {
+"content_id": "tpi-t165-v1",
+"language": "tpi",
+"title": "hymn"
+},
 "zhs": {
 "content_id": "cmn-t165-v1",
 "language": "zhs",
@@ -5415,6 +6201,11 @@
 "language": "por",
 "title": "pastor"
 },
+"tpi": {
+"content_id": "tpi-t166-v1",
+"language": "tpi",
+"title": "shepherd"
+},
 "zhs": {
 "content_id": "cmn-t166-v1",
 "language": "zhs",
@@ -5440,6 +6231,11 @@
 "por": {
 "content_id": "por-t167-v1",
 "language": "por",
+"title": "abba"
+},
+"tpi": {
+"content_id": "tpi-t167-v1",
+"language": "tpi",
 "title": "abba"
 },
 "zhs": {
@@ -5469,6 +6265,11 @@
 "language": "por",
 "title": "sinédrio"
 },
+"tpi": {
+"content_id": "tpi-t168-v1",
+"language": "tpi",
+"title": "sanhedrin"
+},
 "zhs": {
 "content_id": "cmn-t168-v1",
 "language": "zhs",
@@ -5495,6 +6296,11 @@
 "content_id": "por-t169-v1",
 "language": "por",
 "title": "crucificação"
+},
+"tpi": {
+"content_id": "tpi-t169-v1",
+"language": "tpi",
+"title": "crucifixion"
 },
 "zhs": {
 "content_id": "cmn-t169-v1",
@@ -5523,6 +6329,11 @@
 "language": "por",
 "title": "centurião"
 },
+"tpi": {
+"content_id": "tpi-t170-v1",
+"language": "tpi",
+"title": "centurion"
+},
 "zhs": {
 "content_id": "cmn-t170-v1",
 "language": "zhs",
@@ -5550,6 +6361,11 @@
 "language": "por",
 "title": "ungir"
 },
+"tpi": {
+"content_id": "tpi-t171-v1",
+"language": "tpi",
+"title": "anoint"
+},
 "zhs": {
 "content_id": "cmn-t171-v1",
 "language": "zhs",
@@ -5576,6 +6392,11 @@
 "content_id": "por-t172-v1",
 "language": "por",
 "title": "genealogia"
+},
+"tpi": {
+"content_id": "tpi-t172-v1",
+"language": "tpi",
+"title": "genealogy"
 }
 }
 },
@@ -5598,6 +6419,11 @@
 "content_id": "por-t173-v1",
 "language": "por",
 "title": "gerações"
+},
+"tpi": {
+"content_id": "tpi-t173-v1",
+"language": "tpi",
+"title": "generations"
 },
 "zhs": {
 "content_id": "cmn-t173-v1",
@@ -5625,6 +6451,11 @@
 "content_id": "por-t174-v1",
 "language": "por",
 "title": "Yavé"
+},
+"tpi": {
+"content_id": "tpi-t174-v1",
+"language": "tpi",
+"title": "yahweh"
 }
 }
 },
@@ -5647,6 +6478,11 @@
 "content_id": "por-t175-v1",
 "language": "por",
 "title": "Cristão"
+},
+"tpi": {
+"content_id": "tpi-t175-v1",
+"language": "tpi",
+"title": "christian"
 }
 }
 },
@@ -5669,6 +6505,11 @@
 "content_id": "por-t176-v1",
 "language": "por",
 "title": "evangelista"
+},
+"tpi": {
+"content_id": "tpi-t176-v1",
+"language": "tpi",
+"title": "evangelist"
 }
 }
 },
@@ -5691,6 +6532,11 @@
 "content_id": "por-t177-v1",
 "language": "por",
 "title": "côvado"
+},
+"tpi": {
+"content_id": "tpi-t177-v1",
+"language": "tpi",
+"title": "cubit"
 }
 }
 },
@@ -5713,6 +6559,11 @@
 "content_id": "por-t178-v1",
 "language": "por",
 "title": "Canaã"
+},
+"tpi": {
+"content_id": "tpi-t178-v1",
+"language": "tpi",
+"title": "canaan"
 }
 }
 },
@@ -5735,6 +6586,11 @@
 "content_id": "por-t179-v1",
 "language": "por",
 "title": "faraó"
+},
+"tpi": {
+"content_id": "tpi-t179-v1",
+"language": "tpi",
+"title": "pharaoh"
 }
 }
 },
@@ -5757,6 +6613,11 @@
 "content_id": "por-t180-v1",
 "language": "por",
 "title": "túnica"
+},
+"tpi": {
+"content_id": "tpi-t180-v2",
+"language": "tpi",
+"title": "tunic"
 },
 "zhs": {
 "content_id": "cmn-t180-v1",
@@ -5785,6 +6646,11 @@
 "language": "por",
 "title": "diabo"
 },
+"tpi": {
+"content_id": "tpi-t181-v1",
+"language": "tpi",
+"title": "devil"
+},
 "zhs": {
 "content_id": "cmn-t181-v1",
 "language": "zhs",
@@ -5811,6 +6677,11 @@
 "content_id": "por-t182-v1",
 "language": "por",
 "title": "provérbio"
+},
+"tpi": {
+"content_id": "tpi-t182-v1",
+"language": "tpi",
+"title": "proverb"
 }
 }
 },
@@ -5833,6 +6704,11 @@
 "content_id": "por-t183-v1",
 "language": "por",
 "title": "casa de Deus"
+},
+"tpi": {
+"content_id": "tpi-t183-v1",
+"language": "tpi",
+"title": "house-of-god"
 },
 "zhs": {
 "content_id": "cmn-t183-v1",
@@ -5861,6 +6737,11 @@
 "language": "por",
 "title": "tabernáculo"
 },
+"tpi": {
+"content_id": "tpi-t184-v1",
+"language": "tpi",
+"title": "tabernacle"
+},
 "zhs": {
 "content_id": "cmn-t184-v1",
 "language": "zhs",
@@ -5887,6 +6768,11 @@
 "content_id": "por-t185-v1",
 "language": "por",
 "title": "temor de Deus"
+},
+"tpi": {
+"content_id": "tpi-t185-v1",
+"language": "tpi",
+"title": "fear-of-god"
 }
 }
 },
@@ -5909,6 +6795,11 @@
 "content_id": "por-t186-v1",
 "language": "por",
 "title": "perseguição"
+},
+"tpi": {
+"content_id": "tpi-t186-v1",
+"language": "tpi",
+"title": "persecution"
 }
 }
 },
@@ -5931,6 +6822,11 @@
 "content_id": "por-t187-v1",
 "language": "por",
 "title": "mal"
+},
+"tpi": {
+"content_id": "tpi-t187-v1",
+"language": "tpi",
+"title": "evil"
 },
 "zhs": {
 "content_id": "cmn-t187-v1",
@@ -5958,6 +6854,11 @@
 "content_id": "por-t188-v1",
 "language": "por",
 "title": "santo"
+},
+"tpi": {
+"content_id": "tpi-t188-v1",
+"language": "tpi",
+"title": "saint"
 }
 }
 },
@@ -5980,6 +6881,11 @@
 "content_id": "por-t189-v1",
 "language": "por",
 "title": "Deus"
+},
+"tpi": {
+"content_id": "tpi-t189-v1",
+"language": "tpi",
+"title": "god"
 },
 "zhs": {
 "content_id": "cmn-t189-v1",
@@ -6007,6 +6913,11 @@
 "content_id": "por-t191-v1",
 "language": "por",
 "title": "Hebrom"
+},
+"tpi": {
+"content_id": "tpi-t191-v1",
+"language": "tpi",
+"title": "hebron"
 }
 }
 },
@@ -6029,6 +6940,11 @@
 "content_id": "por-t192-v1",
 "language": "por",
 "title": "estrangeiro"
+},
+"tpi": {
+"content_id": "tpi-t192-v1",
+"language": "tpi",
+"title": "foreigner"
 }
 }
 },
@@ -6051,6 +6967,11 @@
 "content_id": "por-t193-v1",
 "language": "por",
 "title": "peregrino"
+},
+"tpi": {
+"content_id": "tpi-t193-v1",
+"language": "tpi",
+"title": "sojourner"
 }
 }
 },
@@ -6079,6 +7000,11 @@
 "language": "rus",
 "title": "Приношение или жертва"
 },
+"tpi": {
+"content_id": "tpi-t194-v1",
+"language": "tpi",
+"title": "offering"
+},
 "zhs": {
 "content_id": "cmn-t194-v1",
 "language": "zhs",
@@ -6105,6 +7031,11 @@
 "content_id": "por-t195-v1",
 "language": "por",
 "title": "comandante"
+},
+"tpi": {
+"content_id": "tpi-t195-v1",
+"language": "tpi",
+"title": "commander"
 }
 }
 },
@@ -6126,6 +7057,11 @@
 "por": {
 "content_id": "por-t196-v1",
 "language": "por",
+"title": "hades"
+},
+"tpi": {
+"content_id": "tpi-t196-v1",
+"language": "tpi",
 "title": "hades"
 }
 }
@@ -6149,6 +7085,11 @@
 "content_id": "por-t197-v1",
 "language": "por",
 "title": "anjo do Senhor"
+},
+"tpi": {
+"content_id": "tpi-t197-v1",
+"language": "tpi",
+"title": "angel-of-the-lord"
 }
 }
 },
@@ -6171,6 +7112,11 @@
 "content_id": "por-t198-v1",
 "language": "por",
 "title": "jugo"
+},
+"tpi": {
+"content_id": "tpi-t198-v1",
+"language": "tpi",
+"title": "yoke"
 }
 }
 },
@@ -6193,6 +7139,11 @@
 "content_id": "por-t199-v1",
 "language": "por",
 "title": "glorificar"
+},
+"tpi": {
+"content_id": "tpi-t199-v1",
+"language": "tpi",
+"title": "glorify"
 },
 "zhs": {
 "content_id": "cmn-t199-v1",
@@ -6221,6 +7172,11 @@
 "language": "por",
 "title": "profecia"
 },
+"tpi": {
+"content_id": "tpi-t200-v1",
+"language": "tpi",
+"title": "prophecy"
+},
 "zhs": {
 "content_id": "cmn-t200-v1",
 "language": "zhs",
@@ -6247,6 +7203,11 @@
 "content_id": "por-t201-v1",
 "language": "por",
 "title": "voto"
+},
+"tpi": {
+"content_id": "tpi-t201-v1",
+"language": "tpi",
+"title": "vow"
 }
 }
 },
@@ -6269,6 +7230,11 @@
 "content_id": "por-t202-v1",
 "language": "por",
 "title": "sonho"
+},
+"tpi": {
+"content_id": "tpi-t202-v1",
+"language": "tpi",
+"title": "dream"
 }
 }
 },
@@ -6291,6 +7257,11 @@
 "content_id": "por-t203-v1",
 "language": "por",
 "title": "adivinhação"
+},
+"tpi": {
+"content_id": "tpi-t203-v1",
+"language": "tpi",
+"title": "divination"
 }
 }
 },
@@ -6313,6 +7284,11 @@
 "content_id": "por-t204-v1",
 "language": "por",
 "title": "Sião"
+},
+"tpi": {
+"content_id": "tpi-t204-v1",
+"language": "tpi",
+"title": "zion"
 }
 }
 },
@@ -6341,6 +7317,11 @@
 "language": "rus",
 "title": "Сострадание"
 },
+"tpi": {
+"content_id": "tpi-t205-v1",
+"language": "tpi",
+"title": "compassion"
+},
 "zhs": {
 "content_id": "cmn-t205-v1",
 "language": "zhs",
@@ -6367,6 +7348,11 @@
 "content_id": "por-t207-v1",
 "language": "por",
 "title": "el-shaddai"
+},
+"tpi": {
+"content_id": "tpi-t207-v1",
+"language": "tpi",
+"title": "el-shaddai"
 }
 }
 },
@@ -6389,6 +7375,11 @@
 "content_id": "por-t208-v1",
 "language": "por",
 "title": "purificar"
+},
+"tpi": {
+"content_id": "tpi-t208-v1",
+"language": "tpi",
+"title": "purify"
 }
 }
 },
@@ -6411,6 +7402,11 @@
 "content_id": "por-t209-v1",
 "language": "por",
 "title": "elohim"
+},
+"tpi": {
+"content_id": "tpi-t209-v1",
+"language": "tpi",
+"title": "el-elyon"
 }
 }
 },
@@ -6432,6 +7428,11 @@
 "por": {
 "content_id": "por-t210-v1",
 "language": "por",
+"title": "el-roi"
+},
+"tpi": {
+"content_id": "tpi-t210-v1",
+"language": "tpi",
 "title": "el-roi"
 }
 }
@@ -6455,6 +7456,11 @@
 "content_id": "por-t211-v1",
 "language": "por",
 "title": "gregos"
+},
+"tpi": {
+"content_id": "tpi-t211-v1",
+"language": "tpi",
+"title": "greeks"
 },
 "zhs": {
 "content_id": "cmn-t211-v1",
@@ -6482,6 +7488,11 @@
 "content_id": "por-t212-v1",
 "language": "por",
 "title": "ungir"
+},
+"tpi": {
+"content_id": "tpi-t212-v1",
+"language": "tpi",
+"title": "anoint"
 }
 }
 },
@@ -6504,6 +7515,11 @@
 "content_id": "por-t213-v1",
 "language": "por",
 "title": "línguas"
+},
+"tpi": {
+"content_id": "tpi-t213-v1",
+"language": "tpi",
+"title": "tongues"
 },
 "zhs": {
 "content_id": "cmn-t213-v1",
@@ -6531,6 +7547,11 @@
 "content_id": "por-t214-v1",
 "language": "por",
 "title": "iniquidade"
+},
+"tpi": {
+"content_id": "tpi-t214-v1",
+"language": "tpi",
+"title": "lawlessness"
 }
 }
 },
@@ -6553,6 +7574,11 @@
 "content_id": "por-t215-v1",
 "language": "por",
 "title": "perversão"
+},
+"tpi": {
+"content_id": "tpi-t215-v1",
+"language": "tpi",
+"title": "wickedness"
 },
 "zhs": {
 "content_id": "cmn-t215-v1",
@@ -6580,6 +7606,11 @@
 "content_id": "por-t216-v1",
 "language": "por",
 "title": "Sheol"
+},
+"tpi": {
+"content_id": "tpi-t216-v1",
+"language": "tpi",
+"title": "sheol"
 }
 }
 },
@@ -6602,6 +7633,11 @@
 "content_id": "por-t217-v1",
 "language": "por",
 "title": "mágico"
+},
+"tpi": {
+"content_id": "tpi-t217-v1",
+"language": "tpi",
+"title": "magician"
 }
 }
 },
@@ -6624,6 +7660,11 @@
 "content_id": "por-t218-v1",
 "language": "por",
 "title": "sangue"
+},
+"tpi": {
+"content_id": "tpi-t218-v1",
+"language": "tpi",
+"title": "blood"
 }
 }
 },
@@ -6646,6 +7687,11 @@
 "content_id": "por-t219-v1",
 "language": "por",
 "title": "louvor"
+},
+"tpi": {
+"content_id": "tpi-t219-v1",
+"language": "tpi",
+"title": "praise"
 }
 }
 },
@@ -6668,6 +7714,11 @@
 "content_id": "por-t220-v1",
 "language": "por",
 "title": "dracma"
+},
+"tpi": {
+"content_id": "tpi-t220-v1",
+"language": "tpi",
+"title": "drachma"
 }
 }
 },
@@ -6690,6 +7741,11 @@
 "content_id": "por-t221-v1",
 "language": "por",
 "title": "Samaria"
+},
+"tpi": {
+"content_id": "tpi-t221-v1",
+"language": "tpi",
+"title": "samaria"
 }
 }
 },
@@ -6712,6 +7768,11 @@
 "content_id": "por-t222-v1",
 "language": "por",
 "title": "imagem de Deus"
+},
+"tpi": {
+"content_id": "tpi-t222-v1",
+"language": "tpi",
+"title": "image-of-god"
 }
 }
 },
@@ -6734,6 +7795,11 @@
 "content_id": "por-t223-v1",
 "language": "por",
 "title": "dízimo"
+},
+"tpi": {
+"content_id": "tpi-t223-v1",
+"language": "tpi",
+"title": "tithe"
 }
 }
 },
@@ -6756,6 +7822,11 @@
 "content_id": "por-t224-v1",
 "language": "por",
 "title": "justiça"
+},
+"tpi": {
+"content_id": "tpi-t224-v1",
+"language": "tpi",
+"title": "justice"
 }
 }
 },
@@ -6778,6 +7849,11 @@
 "content_id": "por-t225-v1",
 "language": "por",
 "title": "pentecostes"
+},
+"tpi": {
+"content_id": "tpi-t225-v1",
+"language": "tpi",
+"title": "pentecost"
 }
 }
 },
@@ -6800,6 +7876,11 @@
 "content_id": "por-t226-v1",
 "language": "por",
 "title": "rei"
+},
+"tpi": {
+"content_id": "tpi-t226-v2",
+"language": "tpi",
+"title": "king"
 },
 "zhs": {
 "content_id": "cmn-t226-v1",
@@ -6827,6 +7908,11 @@
 "content_id": "por-t227-v1",
 "language": "por",
 "title": "Hebreu"
+},
+"tpi": {
+"content_id": "tpi-t227-v1",
+"language": "tpi",
+"title": "hebrew"
 }
 }
 },
@@ -6848,6 +7934,11 @@
 "por": {
 "content_id": "por-t228-v1",
 "language": "por",
+"title": "adonai"
+},
+"tpi": {
+"content_id": "tpi-t228-v1",
+"language": "tpi",
 "title": "adonai"
 }
 }
@@ -6871,6 +7962,11 @@
 "content_id": "por-t230-v1",
 "language": "por",
 "title": "querubim"
+},
+"tpi": {
+"content_id": "tpi-t230-v1",
+"language": "tpi",
+"title": "cherubim"
 }
 }
 },
@@ -6893,6 +7989,11 @@
 "content_id": "por-t231-v1",
 "language": "por",
 "title": "Eu sou"
+},
+"tpi": {
+"content_id": "tpi-t231-v1",
+"language": "tpi",
+"title": "i-am"
 }
 }
 },
@@ -6915,6 +8016,11 @@
 "content_id": "por-t232-v1",
 "language": "por",
 "title": "santificação"
+},
+"tpi": {
+"content_id": "tpi-t232-v1",
+"language": "tpi",
+"title": "sanctification"
 }
 }
 },
@@ -6937,6 +8043,11 @@
 "content_id": "por-t233-v1",
 "language": "por",
 "title": "Festa dos Tabernáculos"
+},
+"tpi": {
+"content_id": "tpi-t233-v1",
+"language": "tpi",
+"title": "festival-of-tabernacles"
 }
 }
 },
@@ -6959,6 +8070,11 @@
 "content_id": "por-t234-v1",
 "language": "por",
 "title": "descendente"
+},
+"tpi": {
+"content_id": "tpi-t234-v1",
+"language": "tpi",
+"title": "descendant"
 }
 }
 },
@@ -6981,6 +8097,11 @@
 "content_id": "por-t235-v1",
 "language": "por",
 "title": "deuses"
+},
+"tpi": {
+"content_id": "tpi-t235-v1",
+"language": "tpi",
+"title": "gods"
 }
 }
 },
@@ -7003,6 +8124,11 @@
 "content_id": "por-t236-v1",
 "language": "por",
 "title": "amém"
+},
+"tpi": {
+"content_id": "tpi-t236-v1",
+"language": "tpi",
+"title": "amen"
 },
 "zhs": {
 "content_id": "cmn-t236-v1",
@@ -7030,6 +8156,11 @@
 "content_id": "por-t237-v1",
 "language": "por",
 "title": "testemunho"
+},
+"tpi": {
+"content_id": "tpi-t237-v1",
+"language": "tpi",
+"title": "testimony"
 }
 }
 },
@@ -7052,6 +8183,11 @@
 "content_id": "por-t238-v1",
 "language": "por",
 "title": "condenar"
+},
+"tpi": {
+"content_id": "tpi-t238-v1",
+"language": "tpi",
+"title": "convict"
 }
 }
 },
@@ -7074,6 +8210,11 @@
 "content_id": "por-t239-v1",
 "language": "por",
 "title": "Festa da Dedicação"
+},
+"tpi": {
+"content_id": "tpi-t239-v1",
+"language": "tpi",
+"title": "festival-of-dedication"
 }
 }
 },
@@ -7096,6 +8237,11 @@
 "content_id": "por-t243-v1",
 "language": "por",
 "title": "vinho"
+},
+"tpi": {
+"content_id": "tpi-t243-v1",
+"language": "tpi",
+"title": "wine"
 }
 }
 },
@@ -7118,6 +8264,11 @@
 "content_id": "por-t244-v1",
 "language": "por",
 "title": "Levita"
+},
+"tpi": {
+"content_id": "tpi-t244-v1",
+"language": "tpi",
+"title": "levite"
 }
 }
 },
@@ -7140,6 +8291,11 @@
 "content_id": "por-t245-v1",
 "language": "por",
 "title": "mandamento"
+},
+"tpi": {
+"content_id": "tpi-t245-v1",
+"language": "tpi",
+"title": "commandment"
 }
 }
 },
@@ -7162,6 +8318,11 @@
 "content_id": "por-t246-v1",
 "language": "por",
 "title": "sumo sacerdote"
+},
+"tpi": {
+"content_id": "tpi-t246-v1",
+"language": "tpi",
+"title": "high-priest"
 }
 }
 },
@@ -7184,6 +8345,11 @@
 "content_id": "por-t254-v1",
 "language": "por",
 "title": "consagrar"
+},
+"tpi": {
+"content_id": "tpi-t254-v1",
+"language": "tpi",
+"title": "consecrate"
 }
 }
 },
@@ -7206,6 +8372,11 @@
 "content_id": "por-t259-v2",
 "language": "por",
 "title": "Israelita"
+},
+"tpi": {
+"content_id": "tpi-t259-v2",
+"language": "tpi",
+"title": "israelite"
 }
 }
 },
@@ -7228,6 +8399,11 @@
 "content_id": "por-t264-v1",
 "language": "por",
 "title": "advogado"
+},
+"tpi": {
+"content_id": "tpi-t264-v1",
+"language": "tpi",
+"title": "advocate"
 }
 }
 },
@@ -7250,6 +8426,11 @@
 "content_id": "por-t281-v1",
 "language": "por",
 "title": "justificar"
+},
+"tpi": {
+"content_id": "tpi-t281-v1",
+"language": "tpi",
+"title": "justify"
 }
 }
 },
@@ -7272,6 +8453,11 @@
 "content_id": "por-t289-v1",
 "language": "por",
 "title": "juiz"
+},
+"tpi": {
+"content_id": "tpi-t289-v1",
+"language": "tpi",
+"title": "judge"
 }
 }
 },
@@ -7279,7 +8465,28 @@
 "content_id": "spa-t293-v1",
 "reference_id": 0,
 "index_reference": "immorality",
-"localizations": {}
+"localizations": {
+"eng": {
+"content_id": "eng-t293-v1",
+"language": "eng",
+"title": "immorality"
+},
+"fra": {
+"content_id": "fra-t293-v1",
+"language": "fra",
+"title": "immoralité"
+},
+"por": {
+"content_id": "por-t293-v1",
+"language": "por",
+"title": "imoralidade"
+},
+"tpi": {
+"content_id": "tpi-t293-v1",
+"language": "tpi",
+"title": "immorality"
+}
+}
 }
 }
 }

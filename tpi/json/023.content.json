@@ -1,0 +1,51 @@
+[
+{
+"content_id": "tpi-t204-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "zion",
+"media_type": "Text",
+"index_reference": "zion",
+"language": "tpi",
+"review_level": "None",
+"content": "<p>Sampela taim, ol manmeri i save yusim nem <b>Saion</b> olsem narapela nem bilong siti <a href=\"#t76\">Jerusalem</a>. Saion em i bin nem bilong wanpela bilong ol maunten insait long siti Jerusalem, ples we ol lain Jebus o Jebusait i bin save stap long en bipo long <b>King Devit</b> i holimpasim na kisim dispela siti. Taim King Devit i holimpasim na kisim dispela siti, ol manmeri i bin kolim dispela siti long tupela nem. Ol i save kolim em &quot;Siti bilong Devit,&quot; o &quot;Saion.&quot; Bihain, ol manmeri i yusim dispela nem Saion olsem wanpela nem bilong olgeta hap bilong siti Jerusalem. Planti ol man husat i raitim ol stori i stap insait long Baibel i yusim nem Saion taim ol i toktok long Jerusalem. Ol i yusim dispela nem taim ol i minim olsem dispela em i wanpela <a href=\"#t67\">holi</a> ples we <a href=\"#t189\">God</a> i save stap wantaim ol manmeri bilong em.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "11008001",
+"start_ref_usfm": "1KI 8:1",
+"end_ref": "11008011",
+"end_ref_usfm": "1KI 8:11"
+},
+{
+"start_ref": "13011001",
+"start_ref_usfm": "1CH 11:1",
+"end_ref": "13011009",
+"end_ref_usfm": "1CH 11:9"
+},
+{
+"start_ref": "19003001",
+"start_ref_usfm": "PSA 3:1",
+"end_ref": "19003008",
+"end_ref_usfm": "PSA 3:8"
+},
+{
+"start_ref": "40021001",
+"start_ref_usfm": "MAT 21:1",
+"end_ref": "40021011",
+"end_ref_usfm": "MAT 21:11"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 0.6538,
+"match_method": "scored",
+"preferred_label": "Jerusalem"
+}
+]
+}
+}
+]

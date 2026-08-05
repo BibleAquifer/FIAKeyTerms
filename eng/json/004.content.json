@@ -470,6 +470,75 @@
 }
 },
 {
+"content_id": "eng-t300-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Day of Atonement",
+"media_type": "Text",
+"index_reference": "day of atonement",
+"language": "eng",
+"review_level": "None",
+"content": "<p><strong>t300: Day of Atonement</strong></p><p>The Day of Atonement is the most important day in the Jewish religious year. The Israelites celebrate the Day of Atonement on the 10th day of their 7th month. In the modern calendar, this happens sometime between mid-September and mid-October.</p><p>The Israelites celebrate this day 10 days after the Festival of Trumpets. This day is a special Sabbath or day of rest. God, whose name is Yahweh, commands the people to gather for a sacred assembly at the tabernacle or temple, to fast from food, and to rest from all work. This is the only Sabbath day when Yahweh requires the people to fast. Yahweh also gives specific instructions for the offerings or sacrifices the people must bring: sin or purification offerings, burnt offerings, fire or food offerings, and drink offerings.</p><p>Even though the people offered sin or purification offerings throughout the year, Yahweh set aside this special day to purify the people for sins that they did not know about. Because of these sins, the sanctuary, the land, and the people stayed ritually unclean. Yahweh set up this day to completely cleanse Israel of all uncleanness. The high priest served as the mediator between the people and Yahweh. The high priest entered into the presence of Yahweh to atone for the people's uncleanness.</p><p>On this day, the high priest makes sin or purification offerings to purify the people who had become unclean or unfit to serve Yahweh. A person becomes spiritually unclean when they sin, either intentionally or unintentionally, or when they are ritually unclean. Before the high priest makes the sacrifice, the high priest must perform cleansing rituals and sacrifices for himself and the other priests so that they are ritually clean. Then the high priest makes the sacrifices for the people of Israel. On this day, the high priest enters the Most Holy Place in the tabernacle or temple. The high priest sprinkles blood from the sacrifices on the \"mercy seat,\" or the top of the ark of the covenant. The mercy seat represented the place where Yahweh lived among the Israelites on earth. The high priest may only enter the Most Holy Place on this one day each year. If the high priest enters on any other day, Yahweh will kill the high priest. Yahweh gives these instructions so that Yahweh, in his wrath, will not punish the Israelites for their sins. The blood of the purification offerings covers the sins of the people.</p><p>Someone brings two goats to the high priest for the purification offering. The high priest then casts lots to decide which goat he will sacrifice to Yahweh and which goat will carry the sins of the people into the wilderness. After the high priest sacrifices the goat Yahweh chose as the purification offering to Yahweh for the people, the high priest returns to the other goat. The high priest places his hands on the head of the second goat and confesses all of the sins of the people over the live goat. The goat now carries the sins of all the people on it. Someone leads the goat into the wilderness and then releases the goat. People sometimes call the goat that carries the sins \"the scapegoat.\"</p><p>After the sacrifices, the people of Israel return to a right relationship with Yahweh. The high priest sprinkles the blood to cleanse the people of Israel, the priests, and the tabernacle or temple so Yahweh will continue to live among them.</p><p>At the start of the Year of Jubilee, the priests blow ram's horn trumpets on the Day of Atonement to announce the beginning of the Jubilee year. The priests do not play these horns on the Day of Atonement in other years.</p><p>In the New Testament, people call the Day of Atonement \"the Fast.\"</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03023023",
+"start_ref_usfm": "LEV 23:23",
+"end_ref": "03023032",
+"end_ref_usfm": "LEV 23:32"
+},
+{
+"start_ref": "03025008",
+"start_ref_usfm": "LEV 25:8",
+"end_ref": "03025022",
+"end_ref_usfm": "LEV 25:22"
+},
+{
+"start_ref": "44027009",
+"start_ref_usfm": "ACT 27:9",
+"end_ref": "44027026",
+"end_ref_usfm": "ACT 27:26"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "eng-t300-v1-audio",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Day of Atonement",
+"media_type": "Audio",
+"index_reference": "day of atonement",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t300/v1/vbr4.mp3'>mp3 file</a> (2361813 KB)</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03023023",
+"start_ref_usfm": "LEV 23:23",
+"end_ref": "03023032",
+"end_ref_usfm": "LEV 23:32"
+},
+{
+"start_ref": "03025008",
+"start_ref_usfm": "LEV 25:8",
+"end_ref": "03025022",
+"end_ref_usfm": "LEV 25:22"
+},
+{
+"start_ref": "44027009",
+"start_ref_usfm": "ACT 27:9",
+"end_ref": "44027026",
+"end_ref_usfm": "ACT 27:26"
+}
+],
+"resource": []
+}
+},
+{
 "content_id": "eng-t35-v1",
 "reference_id": 0,
 "version": "1.0.4",
@@ -1449,6 +1518,12 @@
 "end_ref_usfm": "LEV 22:9"
 },
 {
+"start_ref": "03025023",
+"start_ref_usfm": "LEV 25:23",
+"end_ref": "03025034",
+"end_ref_usfm": "LEV 25:34"
+},
+{
 "start_ref": "04001017",
 "start_ref_usfm": "NUM 1:17",
 "end_ref": "04001047",
@@ -1833,40 +1908,34 @@
 "end_ref_usfm": "1CH 26:28"
 },
 {
+"start_ref": "14006012",
+"start_ref_usfm": "2CH 6:12",
+"end_ref": "14006021",
+"end_ref_usfm": "2CH 6:21"
+},
+{
+"start_ref": "14008001",
+"start_ref_usfm": "2CH 8:1",
+"end_ref": "14008018",
+"end_ref_usfm": "2CH 8:18"
+},
+{
 "start_ref": "14013001",
 "start_ref_usfm": "2CH 13:1",
 "end_ref": "14013012",
 "end_ref_usfm": "2CH 13:12"
 },
 {
+"start_ref": "14020013",
+"start_ref_usfm": "2CH 20:13",
+"end_ref": "14020019",
+"end_ref_usfm": "2CH 20:19"
+},
+{
 "start_ref": "14021001",
 "start_ref_usfm": "2CH 21:1",
 "end_ref": "14021010",
 "end_ref_usfm": "2CH 21:10"
-},
-{
-"start_ref": "14023001",
-"start_ref_usfm": "2CH 23:1",
-"end_ref": "14023015",
-"end_ref_usfm": "2CH 23:15"
-},
-{
-"start_ref": "14032024",
-"start_ref_usfm": "2CH 32:24",
-"end_ref": "14032033",
-"end_ref_usfm": "2CH 32:33"
-},
-{
-"start_ref": "14035001",
-"start_ref_usfm": "2CH 35:1",
-"end_ref": "14035019",
-"end_ref_usfm": "2CH 35:19"
-},
-{
-"start_ref": "15002001",
-"start_ref_usfm": "EZR 2:1",
-"end_ref": "15002020",
-"end_ref_usfm": "EZR 2:20"
 }
 ],
 "resource": [],
@@ -2066,6 +2135,12 @@
 "end_ref_usfm": "LEV 22:9"
 },
 {
+"start_ref": "03025023",
+"start_ref_usfm": "LEV 25:23",
+"end_ref": "03025034",
+"end_ref_usfm": "LEV 25:34"
+},
+{
 "start_ref": "04001017",
 "start_ref_usfm": "NUM 1:17",
 "end_ref": "04001047",
@@ -2450,40 +2525,34 @@
 "end_ref_usfm": "1CH 26:28"
 },
 {
+"start_ref": "14006012",
+"start_ref_usfm": "2CH 6:12",
+"end_ref": "14006021",
+"end_ref_usfm": "2CH 6:21"
+},
+{
+"start_ref": "14008001",
+"start_ref_usfm": "2CH 8:1",
+"end_ref": "14008018",
+"end_ref_usfm": "2CH 8:18"
+},
+{
 "start_ref": "14013001",
 "start_ref_usfm": "2CH 13:1",
 "end_ref": "14013012",
 "end_ref_usfm": "2CH 13:12"
 },
 {
+"start_ref": "14020013",
+"start_ref_usfm": "2CH 20:13",
+"end_ref": "14020019",
+"end_ref_usfm": "2CH 20:19"
+},
+{
 "start_ref": "14021001",
 "start_ref_usfm": "2CH 21:1",
 "end_ref": "14021010",
 "end_ref_usfm": "2CH 21:10"
-},
-{
-"start_ref": "14023001",
-"start_ref_usfm": "2CH 23:1",
-"end_ref": "14023015",
-"end_ref_usfm": "2CH 23:15"
-},
-{
-"start_ref": "14032024",
-"start_ref_usfm": "2CH 32:24",
-"end_ref": "14032033",
-"end_ref_usfm": "2CH 32:33"
-},
-{
-"start_ref": "14035001",
-"start_ref_usfm": "2CH 35:1",
-"end_ref": "14035019",
-"end_ref_usfm": "2CH 35:19"
-},
-{
-"start_ref": "15002001",
-"start_ref_usfm": "EZR 2:1",
-"end_ref": "15002020",
-"end_ref_usfm": "EZR 2:20"
 }
 ],
 "resource": []
@@ -4437,6 +4506,147 @@
 "start_ref_usfm": "1CO 7:10",
 "end_ref": "46007016",
 "end_ref_usfm": "1CO 7:16"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "eng-t279-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "doctrine",
+"media_type": "Text",
+"index_reference": "doctrine",
+"language": "eng",
+"review_level": "None",
+"content": "<p><strong>t279: doctrine</strong></p><p>Doctrine is the essential truths and instructions about God, Jesus, humans, and salvation. People not only use the word doctrine to refer to beliefs but also to describe the teaching of those truths and beliefs. When some people teach incorrect things about God and Jesus, we call it \"false doctrine.\" When Paul writes his first letter to Timothy, Paul tells Timothy to make sure people do not teach or listen to \"false doctrines and wrong teachings.\"</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "54001003",
+"start_ref_usfm": "1TI 1:3",
+"end_ref": "54001007",
+"end_ref_usfm": "1TI 1:7"
+},
+{
+"start_ref": "54001008",
+"start_ref_usfm": "1TI 1:8",
+"end_ref": "54001011",
+"end_ref_usfm": "1TI 1:11"
+},
+{
+"start_ref": "54004001",
+"start_ref_usfm": "1TI 4:1",
+"end_ref": "54004005",
+"end_ref_usfm": "1TI 4:5"
+},
+{
+"start_ref": "54004011",
+"start_ref_usfm": "1TI 4:11",
+"end_ref": "54004016",
+"end_ref_usfm": "1TI 4:16"
+},
+{
+"start_ref": "54006001",
+"start_ref_usfm": "1TI 6:1",
+"end_ref": "54006002",
+"end_ref_usfm": "1TI 6:2"
+},
+{
+"start_ref": "54006002",
+"start_ref_usfm": "1TI 6:2",
+"end_ref": "54006010",
+"end_ref_usfm": "1TI 6:10"
+},
+{
+"start_ref": "55004001",
+"start_ref_usfm": "2TI 4:1",
+"end_ref": "55004008",
+"end_ref_usfm": "2TI 4:8"
+},
+{
+"start_ref": "56001005",
+"start_ref_usfm": "TIT 1:5",
+"end_ref": "56001009",
+"end_ref_usfm": "TIT 1:9"
+},
+{
+"start_ref": "56002001",
+"start_ref_usfm": "TIT 2:1",
+"end_ref": "56002010",
+"end_ref_usfm": "TIT 2:10"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "eng-t279-v1-audio",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "doctrine",
+"media_type": "Audio",
+"index_reference": "doctrine",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t279/v1/vbr4.mp3'>mp3 file</a> (341421 KB)</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "54001003",
+"start_ref_usfm": "1TI 1:3",
+"end_ref": "54001007",
+"end_ref_usfm": "1TI 1:7"
+},
+{
+"start_ref": "54001008",
+"start_ref_usfm": "1TI 1:8",
+"end_ref": "54001011",
+"end_ref_usfm": "1TI 1:11"
+},
+{
+"start_ref": "54004001",
+"start_ref_usfm": "1TI 4:1",
+"end_ref": "54004005",
+"end_ref_usfm": "1TI 4:5"
+},
+{
+"start_ref": "54004011",
+"start_ref_usfm": "1TI 4:11",
+"end_ref": "54004016",
+"end_ref_usfm": "1TI 4:16"
+},
+{
+"start_ref": "54006001",
+"start_ref_usfm": "1TI 6:1",
+"end_ref": "54006002",
+"end_ref_usfm": "1TI 6:2"
+},
+{
+"start_ref": "54006002",
+"start_ref_usfm": "1TI 6:2",
+"end_ref": "54006010",
+"end_ref_usfm": "1TI 6:10"
+},
+{
+"start_ref": "55004001",
+"start_ref_usfm": "2TI 4:1",
+"end_ref": "55004008",
+"end_ref_usfm": "2TI 4:8"
+},
+{
+"start_ref": "56001005",
+"start_ref_usfm": "TIT 1:5",
+"end_ref": "56001009",
+"end_ref_usfm": "TIT 1:9"
+},
+{
+"start_ref": "56002001",
+"start_ref_usfm": "TIT 2:1",
+"end_ref": "56002010",
+"end_ref_usfm": "TIT 2:10"
 }
 ],
 "resource": []

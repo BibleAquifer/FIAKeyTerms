@@ -90,6 +90,36 @@
 "end_ref_usfm": "LEV 24:9"
 },
 {
+"start_ref": "03025001",
+"start_ref_usfm": "LEV 25:1",
+"end_ref": "03025007",
+"end_ref_usfm": "LEV 25:7"
+},
+{
+"start_ref": "03025008",
+"start_ref_usfm": "LEV 25:8",
+"end_ref": "03025022",
+"end_ref_usfm": "LEV 25:22"
+},
+{
+"start_ref": "03026001",
+"start_ref_usfm": "LEV 26:1",
+"end_ref": "03026005",
+"end_ref_usfm": "LEV 26:5"
+},
+{
+"start_ref": "03026034",
+"start_ref_usfm": "LEV 26:34",
+"end_ref": "03026039",
+"end_ref_usfm": "LEV 26:39"
+},
+{
+"start_ref": "03026010",
+"start_ref_usfm": "LEV 26:10",
+"end_ref": "03026046",
+"end_ref_usfm": "LEV 26:46"
+},
+{
 "start_ref": "04015032",
 "start_ref_usfm": "NUM 15:32",
 "end_ref": "04015036",
@@ -323,7 +353,7 @@
 {
 "id": "keyterm:Sabbath",
 "type": "keyterm",
-"confidence": 0.6011,
+"confidence": 0.5996,
 "match_method": "scored",
 "preferred_label": "Sabbath"
 }
@@ -419,6 +449,36 @@
 "start_ref_usfm": "LEV 24:1",
 "end_ref": "03024009",
 "end_ref_usfm": "LEV 24:9"
+},
+{
+"start_ref": "03025001",
+"start_ref_usfm": "LEV 25:1",
+"end_ref": "03025007",
+"end_ref_usfm": "LEV 25:7"
+},
+{
+"start_ref": "03025008",
+"start_ref_usfm": "LEV 25:8",
+"end_ref": "03025022",
+"end_ref_usfm": "LEV 25:22"
+},
+{
+"start_ref": "03026001",
+"start_ref_usfm": "LEV 26:1",
+"end_ref": "03026005",
+"end_ref_usfm": "LEV 26:5"
+},
+{
+"start_ref": "03026034",
+"start_ref_usfm": "LEV 26:34",
+"end_ref": "03026039",
+"end_ref_usfm": "LEV 26:39"
+},
+{
+"start_ref": "03026010",
+"start_ref_usfm": "LEV 26:10",
+"end_ref": "03026046",
+"end_ref_usfm": "LEV 26:46"
 },
 {
 "start_ref": "04015032",
@@ -1169,6 +1229,18 @@
 "end_ref_usfm": "1CH 29:25"
 },
 {
+"start_ref": "14005002",
+"start_ref_usfm": "2CH 5:2",
+"end_ref": "14005014",
+"end_ref_usfm": "2CH 5:14"
+},
+{
+"start_ref": "14006040",
+"start_ref_usfm": "2CH 6:40",
+"end_ref": "14007003",
+"end_ref_usfm": "2CH 7:3"
+},
+{
 "start_ref": "14007004",
 "start_ref_usfm": "2CH 7:4",
 "end_ref": "14007010",
@@ -1191,6 +1263,12 @@
 "start_ref_usfm": "2CH 15:1",
 "end_ref": "14015019",
 "end_ref_usfm": "2CH 15:19"
+},
+{
+"start_ref": "14025014",
+"start_ref_usfm": "2CH 25:14",
+"end_ref": "14025028",
+"end_ref_usfm": "2CH 25:28"
 },
 {
 "start_ref": "14028001",
@@ -1245,24 +1323,6 @@
 "start_ref_usfm": "EZR 4:1",
 "end_ref": "15004006",
 "end_ref_usfm": "EZR 4:6"
-},
-{
-"start_ref": "15006001",
-"start_ref_usfm": "EZR 6:1",
-"end_ref": "15006012",
-"end_ref_usfm": "EZR 6:12"
-},
-{
-"start_ref": "15006013",
-"start_ref_usfm": "EZR 6:13",
-"end_ref": "15006018",
-"end_ref_usfm": "EZR 6:18"
-},
-{
-"start_ref": "15007011",
-"start_ref_usfm": "EZR 7:11",
-"end_ref": "15007028",
-"end_ref_usfm": "EZR 7:28"
 }
 ],
 "resource": [],
@@ -1270,7 +1330,7 @@
 {
 "id": "keyterm:Slaughtering",
 "type": "keyterm",
-"confidence": 0.5745,
+"confidence": 0.5748,
 "match_method": "scored",
 "preferred_label": "Slaughtering"
 }
@@ -1794,6 +1854,18 @@
 "end_ref_usfm": "1CH 29:25"
 },
 {
+"start_ref": "14005002",
+"start_ref_usfm": "2CH 5:2",
+"end_ref": "14005014",
+"end_ref_usfm": "2CH 5:14"
+},
+{
+"start_ref": "14006040",
+"start_ref_usfm": "2CH 6:40",
+"end_ref": "14007003",
+"end_ref_usfm": "2CH 7:3"
+},
+{
 "start_ref": "14007004",
 "start_ref_usfm": "2CH 7:4",
 "end_ref": "14007010",
@@ -1816,6 +1888,12 @@
 "start_ref_usfm": "2CH 15:1",
 "end_ref": "14015019",
 "end_ref_usfm": "2CH 15:19"
+},
+{
+"start_ref": "14025014",
+"start_ref_usfm": "2CH 25:14",
+"end_ref": "14025028",
+"end_ref_usfm": "2CH 25:28"
 },
 {
 "start_ref": "14028001",
@@ -1870,24 +1948,6 @@
 "start_ref_usfm": "EZR 4:1",
 "end_ref": "15004006",
 "end_ref_usfm": "EZR 4:6"
-},
-{
-"start_ref": "15006001",
-"start_ref_usfm": "EZR 6:1",
-"end_ref": "15006012",
-"end_ref_usfm": "EZR 6:12"
-},
-{
-"start_ref": "15006013",
-"start_ref_usfm": "EZR 6:13",
-"end_ref": "15006018",
-"end_ref_usfm": "EZR 6:18"
-},
-{
-"start_ref": "15007011",
-"start_ref_usfm": "EZR 7:11",
-"end_ref": "15007028",
-"end_ref_usfm": "EZR 7:28"
 }
 ],
 "resource": []
@@ -2394,6 +2454,12 @@
 "end_ref_usfm": "1CH 16:36"
 },
 {
+"start_ref": "14006040",
+"start_ref_usfm": "2CH 6:40",
+"end_ref": "14007003",
+"end_ref_usfm": "2CH 7:3"
+},
+{
 "start_ref": "14020013",
 "start_ref_usfm": "2CH 20:13",
 "end_ref": "14020019",
@@ -2657,7 +2723,7 @@
 {
 "id": "keyterm:Salvation",
 "type": "keyterm",
-"confidence": 0.597,
+"confidence": 0.5973,
 "match_method": "scored",
 "preferred_label": "Salvation"
 }
@@ -2729,6 +2795,12 @@
 "start_ref_usfm": "1CH 16:34",
 "end_ref": "13016036",
 "end_ref_usfm": "1CH 16:36"
+},
+{
+"start_ref": "14006040",
+"start_ref_usfm": "2CH 6:40",
+"end_ref": "14007003",
+"end_ref_usfm": "2CH 7:3"
 },
 {
 "start_ref": "14020013",
@@ -3023,6 +3095,12 @@
 "end_ref_usfm": "2KI 1:18"
 },
 {
+"start_ref": "12002013",
+"start_ref_usfm": "2KI 2:13",
+"end_ref": "12002025",
+"end_ref_usfm": "2KI 2:25"
+},
+{
 "start_ref": "14022001",
 "start_ref_usfm": "2CH 22:1",
 "end_ref": "14022012",
@@ -3033,6 +3111,12 @@
 "start_ref_usfm": "2CH 28:1",
 "end_ref": "14028008",
 "end_ref_usfm": "2CH 28:8"
+},
+{
+"start_ref": "14028009",
+"start_ref_usfm": "2CH 28:9",
+"end_ref": "14028015",
+"end_ref_usfm": "2CH 28:15"
 },
 {
 "start_ref": "16004001",
@@ -3082,7 +3166,7 @@
 {
 "id": "group:Samaritan",
 "type": "group",
-"confidence": 0.6129,
+"confidence": 0.6114,
 "match_method": "scored",
 "preferred_label": "Samaritans"
 },
@@ -3127,6 +3211,12 @@
 "end_ref_usfm": "2KI 1:18"
 },
 {
+"start_ref": "12002013",
+"start_ref_usfm": "2KI 2:13",
+"end_ref": "12002025",
+"end_ref_usfm": "2KI 2:25"
+},
+{
 "start_ref": "14022001",
 "start_ref_usfm": "2CH 22:1",
 "end_ref": "14022012",
@@ -3137,6 +3227,12 @@
 "start_ref_usfm": "2CH 28:1",
 "end_ref": "14028008",
 "end_ref_usfm": "2CH 28:8"
+},
+{
+"start_ref": "14028009",
+"start_ref_usfm": "2CH 28:9",
+"end_ref": "14028015",
+"end_ref_usfm": "2CH 28:15"
 },
 {
 "start_ref": "16004001",
@@ -3500,6 +3596,30 @@
 "end_ref_usfm": "LEV 24:9"
 },
 {
+"start_ref": "03026001",
+"start_ref_usfm": "LEV 26:1",
+"end_ref": "03026005",
+"end_ref_usfm": "LEV 26:5"
+},
+{
+"start_ref": "03026027",
+"start_ref_usfm": "LEV 26:27",
+"end_ref": "03026033",
+"end_ref_usfm": "LEV 26:33"
+},
+{
+"start_ref": "03027001",
+"start_ref_usfm": "LEV 27:1",
+"end_ref": "03027008",
+"end_ref_usfm": "LEV 27:8"
+},
+{
+"start_ref": "03027016",
+"start_ref_usfm": "LEV 27:16",
+"end_ref": "03027025",
+"end_ref_usfm": "LEV 27:25"
+},
+{
 "start_ref": "04003027",
 "start_ref_usfm": "NUM 3:27",
 "end_ref": "04003032",
@@ -3606,6 +3726,12 @@
 "start_ref_usfm": "1CH 28:9",
 "end_ref": "13028021",
 "end_ref_usfm": "1CH 28:21"
+},
+{
+"start_ref": "14005002",
+"start_ref_usfm": "2CH 5:2",
+"end_ref": "14005014",
+"end_ref_usfm": "2CH 5:14"
 },
 {
 "start_ref": "14020001",
@@ -3807,6 +3933,30 @@
 "end_ref_usfm": "LEV 24:9"
 },
 {
+"start_ref": "03026001",
+"start_ref_usfm": "LEV 26:1",
+"end_ref": "03026005",
+"end_ref_usfm": "LEV 26:5"
+},
+{
+"start_ref": "03026027",
+"start_ref_usfm": "LEV 26:27",
+"end_ref": "03026033",
+"end_ref_usfm": "LEV 26:33"
+},
+{
+"start_ref": "03027001",
+"start_ref_usfm": "LEV 27:1",
+"end_ref": "03027008",
+"end_ref_usfm": "LEV 27:8"
+},
+{
+"start_ref": "03027016",
+"start_ref_usfm": "LEV 27:16",
+"end_ref": "03027025",
+"end_ref_usfm": "LEV 27:25"
+},
+{
 "start_ref": "04003027",
 "start_ref_usfm": "NUM 3:27",
 "end_ref": "04003032",
@@ -3913,6 +4063,12 @@
 "start_ref_usfm": "1CH 28:9",
 "end_ref": "13028021",
 "end_ref_usfm": "1CH 28:21"
+},
+{
+"start_ref": "14005002",
+"start_ref_usfm": "2CH 5:2",
+"end_ref": "14005014",
+"end_ref_usfm": "2CH 5:14"
 },
 {
 "start_ref": "14020001",
@@ -5092,6 +5248,18 @@
 "end_ref_usfm": "1CH 27:34"
 },
 {
+"start_ref": "14024001",
+"start_ref_usfm": "2CH 24:1",
+"end_ref": "14024016",
+"end_ref_usfm": "2CH 24:16"
+},
+{
+"start_ref": "14026001",
+"start_ref_usfm": "2CH 26:1",
+"end_ref": "14026015",
+"end_ref_usfm": "2CH 26:15"
+},
+{
 "start_ref": "14034008",
 "start_ref_usfm": "2CH 34:8",
 "end_ref": "14034021",
@@ -5317,6 +5485,18 @@
 "start_ref_usfm": "1CH 27:32",
 "end_ref": "13027034",
 "end_ref_usfm": "1CH 27:34"
+},
+{
+"start_ref": "14024001",
+"start_ref_usfm": "2CH 24:1",
+"end_ref": "14024016",
+"end_ref_usfm": "2CH 24:16"
+},
+{
+"start_ref": "14026001",
+"start_ref_usfm": "2CH 26:1",
+"end_ref": "14026015",
+"end_ref_usfm": "2CH 26:15"
 },
 {
 "start_ref": "14034008",
@@ -6527,6 +6707,12 @@
 "end_ref_usfm": "LEV 19:25"
 },
 {
+"start_ref": "03026014",
+"start_ref_usfm": "LEV 26:14",
+"end_ref": "03026020",
+"end_ref_usfm": "LEV 26:20"
+},
+{
 "start_ref": "05010012",
 "start_ref_usfm": "DEU 10:12",
 "end_ref": "05010022",
@@ -6650,6 +6836,12 @@
 "start_ref_usfm": "LEV 19:19",
 "end_ref": "03019025",
 "end_ref_usfm": "LEV 19:25"
+},
+{
+"start_ref": "03026014",
+"start_ref_usfm": "LEV 26:14",
+"end_ref": "03026020",
+"end_ref_usfm": "LEV 26:20"
 },
 {
 "start_ref": "05010012",
@@ -8788,6 +8980,12 @@
 "end_ref_usfm": "JHN 9:23"
 },
 {
+"start_ref": "43010022",
+"start_ref_usfm": "JHN 10:22",
+"end_ref": "43010042",
+"end_ref_usfm": "JHN 10:42"
+},
+{
 "start_ref": "43011045",
 "start_ref_usfm": "JHN 11:45",
 "end_ref": "43011057",
@@ -9129,6 +9327,12 @@
 "end_ref_usfm": "JHN 9:23"
 },
 {
+"start_ref": "43010022",
+"start_ref_usfm": "JHN 10:22",
+"end_ref": "43010042",
+"end_ref_usfm": "JHN 10:42"
+},
+{
 "start_ref": "43011045",
 "start_ref_usfm": "JHN 11:45",
 "end_ref": "43011057",
@@ -9439,6 +9643,24 @@
 "end_ref_usfm": "LEV 24:23"
 },
 {
+"start_ref": "03026014",
+"start_ref_usfm": "LEV 26:14",
+"end_ref": "03026020",
+"end_ref_usfm": "LEV 26:20"
+},
+{
+"start_ref": "03026021",
+"start_ref_usfm": "LEV 26:21",
+"end_ref": "03026026",
+"end_ref_usfm": "LEV 26:26"
+},
+{
+"start_ref": "03026027",
+"start_ref_usfm": "LEV 26:27",
+"end_ref": "03026033",
+"end_ref_usfm": "LEV 26:33"
+},
+{
 "start_ref": "04005005",
 "start_ref_usfm": "NUM 5:5",
 "end_ref": "04005010",
@@ -9797,24 +10019,6 @@
 "start_ref_usfm": "1CH 21:7",
 "end_ref": "13021017",
 "end_ref_usfm": "1CH 21:17"
-},
-{
-"start_ref": "14007011",
-"start_ref_usfm": "2CH 7:11",
-"end_ref": "14007022",
-"end_ref_usfm": "2CH 7:22"
-},
-{
-"start_ref": "14025001",
-"start_ref_usfm": "2CH 25:1",
-"end_ref": "14025013",
-"end_ref_usfm": "2CH 25:13"
-},
-{
-"start_ref": "14028009",
-"start_ref_usfm": "2CH 28:9",
-"end_ref": "14028015",
-"end_ref_usfm": "2CH 28:15"
 }
 ],
 "resource": [],
@@ -10056,6 +10260,24 @@
 "end_ref_usfm": "LEV 24:23"
 },
 {
+"start_ref": "03026014",
+"start_ref_usfm": "LEV 26:14",
+"end_ref": "03026020",
+"end_ref_usfm": "LEV 26:20"
+},
+{
+"start_ref": "03026021",
+"start_ref_usfm": "LEV 26:21",
+"end_ref": "03026026",
+"end_ref_usfm": "LEV 26:26"
+},
+{
+"start_ref": "03026027",
+"start_ref_usfm": "LEV 26:27",
+"end_ref": "03026033",
+"end_ref_usfm": "LEV 26:33"
+},
+{
 "start_ref": "04005005",
 "start_ref_usfm": "NUM 5:5",
 "end_ref": "04005010",
@@ -10414,24 +10636,6 @@
 "start_ref_usfm": "1CH 21:7",
 "end_ref": "13021017",
 "end_ref_usfm": "1CH 21:17"
-},
-{
-"start_ref": "14007011",
-"start_ref_usfm": "2CH 7:11",
-"end_ref": "14007022",
-"end_ref_usfm": "2CH 7:22"
-},
-{
-"start_ref": "14025001",
-"start_ref_usfm": "2CH 25:1",
-"end_ref": "14025013",
-"end_ref_usfm": "2CH 25:13"
-},
-{
-"start_ref": "14028009",
-"start_ref_usfm": "2CH 28:9",
-"end_ref": "14028015",
-"end_ref_usfm": "2CH 28:15"
 }
 ],
 "resource": []
@@ -10550,6 +10754,30 @@
 "start_ref_usfm": "LEV 22:10",
 "end_ref": "03022016",
 "end_ref_usfm": "LEV 22:16"
+},
+{
+"start_ref": "03025001",
+"start_ref_usfm": "LEV 25:1",
+"end_ref": "03025007",
+"end_ref_usfm": "LEV 25:7"
+},
+{
+"start_ref": "03025035",
+"start_ref_usfm": "LEV 25:35",
+"end_ref": "03025046",
+"end_ref_usfm": "LEV 25:46"
+},
+{
+"start_ref": "03025047",
+"start_ref_usfm": "LEV 25:47",
+"end_ref": "03025055",
+"end_ref_usfm": "LEV 25:55"
+},
+{
+"start_ref": "03026006",
+"start_ref_usfm": "LEV 26:6",
+"end_ref": "03026013",
+"end_ref_usfm": "LEV 26:13"
 },
 {
 "start_ref": "04016001",
@@ -10947,6 +11175,30 @@
 "end_ref_usfm": "LEV 22:16"
 },
 {
+"start_ref": "03025001",
+"start_ref_usfm": "LEV 25:1",
+"end_ref": "03025007",
+"end_ref_usfm": "LEV 25:7"
+},
+{
+"start_ref": "03025035",
+"start_ref_usfm": "LEV 25:35",
+"end_ref": "03025046",
+"end_ref_usfm": "LEV 25:46"
+},
+{
+"start_ref": "03025047",
+"start_ref_usfm": "LEV 25:47",
+"end_ref": "03025055",
+"end_ref_usfm": "LEV 25:55"
+},
+{
+"start_ref": "03026006",
+"start_ref_usfm": "LEV 26:6",
+"end_ref": "03026013",
+"end_ref_usfm": "LEV 26:13"
+},
+{
 "start_ref": "04016001",
 "start_ref_usfm": "NUM 16:1",
 "end_ref": "04016019",
@@ -11269,12 +11521,6 @@
 "end_ref_usfm": "1CH 29:20"
 },
 {
-"start_ref": "14030021",
-"start_ref_usfm": "2CH 30:21",
-"end_ref": "14030027",
-"end_ref_usfm": "2CH 30:27"
-},
-{
 "start_ref": "49002019",
 "start_ref_usfm": "EPH 2:19",
 "end_ref": "49002022",
@@ -11326,12 +11572,6 @@
 "start_ref_usfm": "1CH 29:10",
 "end_ref": "13029020",
 "end_ref_usfm": "1CH 29:20"
-},
-{
-"start_ref": "14030021",
-"start_ref_usfm": "2CH 30:21",
-"end_ref": "14030027",
-"end_ref_usfm": "2CH 30:27"
 },
 {
 "start_ref": "49002019",
@@ -14080,6 +14320,12 @@
 "associations": {
 "passage": [
 {
+"start_ref": "03026014",
+"start_ref_usfm": "LEV 26:14",
+"end_ref": "03026020",
+"end_ref_usfm": "LEV 26:20"
+},
+{
 "start_ref": "05010012",
 "start_ref_usfm": "DEU 10:12",
 "end_ref": "05010022",
@@ -14144,6 +14390,12 @@
 "start_ref_usfm": "1CH 22:2",
 "end_ref": "13022019",
 "end_ref_usfm": "1CH 22:19"
+},
+{
+"start_ref": "14006022",
+"start_ref_usfm": "2CH 6:22",
+"end_ref": "14006039",
+"end_ref_usfm": "2CH 6:39"
 },
 {
 "start_ref": "14015001",
@@ -14295,6 +14547,12 @@
 "associations": {
 "passage": [
 {
+"start_ref": "03026014",
+"start_ref_usfm": "LEV 26:14",
+"end_ref": "03026020",
+"end_ref_usfm": "LEV 26:20"
+},
+{
 "start_ref": "05010012",
 "start_ref_usfm": "DEU 10:12",
 "end_ref": "05010022",
@@ -14359,6 +14617,12 @@
 "start_ref_usfm": "1CH 22:2",
 "end_ref": "13022019",
 "end_ref_usfm": "1CH 22:19"
+},
+{
+"start_ref": "14006022",
+"start_ref_usfm": "2CH 6:22",
+"end_ref": "14006039",
+"end_ref_usfm": "2CH 6:39"
 },
 {
 "start_ref": "14015001",
@@ -14497,6 +14761,51 @@
 }
 },
 {
+"content_id": "eng-t308-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "span",
+"media_type": "Text",
+"index_reference": "span",
+"language": "eng",
+"review_level": "None",
+"content": "<p><strong>t308: span</strong></p><p>A span is a way to measure how long something is. One span is about as long as the distance between the tip of a man's thumb and the tip of his little finger when the man stretches his fingers as far apart as he can. A span is about 22 centimeters. A span is half the length of a cubit. A span is equal to 3 handbreadths, or 3 widths of a man's hand.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "09017001",
+"start_ref_usfm": "1SA 17:1",
+"end_ref": "09017011",
+"end_ref_usfm": "1SA 17:11"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "eng-t308-v1-audio",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "span",
+"media_type": "Audio",
+"index_reference": "span",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t308/v1/vbr4.mp3'>mp3 file</a> (330669 KB)</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "09017001",
+"start_ref_usfm": "1SA 17:1",
+"end_ref": "09017011",
+"end_ref_usfm": "1SA 17:11"
+}
+],
+"resource": []
+}
+},
+{
 "content_id": "eng-t132-v1",
 "reference_id": 0,
 "version": "1.0.4",
@@ -14555,6 +14864,18 @@
 "start_ref_usfm": "1SA 28:3",
 "end_ref": "09028014",
 "end_ref_usfm": "1SA 28:14"
+},
+{
+"start_ref": "12002001",
+"start_ref_usfm": "2KI 2:1",
+"end_ref": "12002012",
+"end_ref_usfm": "2KI 2:12"
+},
+{
+"start_ref": "12002013",
+"start_ref_usfm": "2KI 2:13",
+"end_ref": "12002025",
+"end_ref_usfm": "2KI 2:25"
 },
 {
 "start_ref": "13005018",
@@ -14874,6 +15195,18 @@
 "start_ref_usfm": "1SA 28:3",
 "end_ref": "09028014",
 "end_ref_usfm": "1SA 28:14"
+},
+{
+"start_ref": "12002001",
+"start_ref_usfm": "2KI 2:1",
+"end_ref": "12002012",
+"end_ref_usfm": "2KI 2:12"
+},
+{
+"start_ref": "12002013",
+"start_ref_usfm": "2KI 2:13",
+"end_ref": "12002025",
+"end_ref_usfm": "2KI 2:25"
 },
 {
 "start_ref": "13005018",
