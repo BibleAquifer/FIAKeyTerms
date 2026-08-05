@@ -291,6 +291,12 @@
 "end_ref_usfm": "LEV 9:24"
 },
 {
+"start_ref": "03025008",
+"start_ref_usfm": "LEV 25:8",
+"end_ref": "03025022",
+"end_ref_usfm": "LEV 25:22"
+},
+{
 "start_ref": "04006022",
 "start_ref_usfm": "NUM 6:22",
 "end_ref": "04006027",
@@ -633,6 +639,12 @@
 "end_ref_usfm": "2CH 2:18"
 },
 {
+"start_ref": "14006001",
+"start_ref_usfm": "2CH 6:1",
+"end_ref": "14006011",
+"end_ref_usfm": "2CH 6:11"
+},
+{
 "start_ref": "14009001",
 "start_ref_usfm": "2CH 9:1",
 "end_ref": "14009012",
@@ -651,22 +663,10 @@
 "end_ref_usfm": "2CH 31:10"
 },
 {
-"start_ref": "16008001",
-"start_ref_usfm": "NEH 8:1",
-"end_ref": "16008008",
-"end_ref_usfm": "NEH 8:8"
-},
-{
-"start_ref": "19001001",
-"start_ref_usfm": "PSA 1:1",
-"end_ref": "19001006",
-"end_ref_usfm": "PSA 1:6"
-},
-{
-"start_ref": "19003001",
-"start_ref_usfm": "PSA 3:1",
-"end_ref": "19003008",
-"end_ref_usfm": "PSA 3:8"
+"start_ref": "15007011",
+"start_ref_usfm": "EZR 7:11",
+"end_ref": "15007028",
+"end_ref_usfm": "EZR 7:28"
 }
 ],
 "resource": [],
@@ -916,6 +916,12 @@
 "end_ref_usfm": "LEV 9:24"
 },
 {
+"start_ref": "03025008",
+"start_ref_usfm": "LEV 25:8",
+"end_ref": "03025022",
+"end_ref_usfm": "LEV 25:22"
+},
+{
 "start_ref": "04006022",
 "start_ref_usfm": "NUM 6:22",
 "end_ref": "04006027",
@@ -1258,6 +1264,12 @@
 "end_ref_usfm": "2CH 2:18"
 },
 {
+"start_ref": "14006001",
+"start_ref_usfm": "2CH 6:1",
+"end_ref": "14006011",
+"end_ref_usfm": "2CH 6:11"
+},
+{
 "start_ref": "14009001",
 "start_ref_usfm": "2CH 9:1",
 "end_ref": "14009012",
@@ -1276,22 +1288,10 @@
 "end_ref_usfm": "2CH 31:10"
 },
 {
-"start_ref": "16008001",
-"start_ref_usfm": "NEH 8:1",
-"end_ref": "16008008",
-"end_ref_usfm": "NEH 8:8"
-},
-{
-"start_ref": "19001001",
-"start_ref_usfm": "PSA 1:1",
-"end_ref": "19001006",
-"end_ref_usfm": "PSA 1:6"
-},
-{
-"start_ref": "19003001",
-"start_ref_usfm": "PSA 3:1",
-"end_ref": "19003008",
-"end_ref_usfm": "PSA 3:8"
+"start_ref": "15007011",
+"start_ref_usfm": "EZR 7:11",
+"end_ref": "15007028",
+"end_ref_usfm": "EZR 7:28"
 }
 ],
 "resource": []
@@ -1386,6 +1386,12 @@
 "start_ref_usfm": "EXO 35:30",
 "end_ref": "02036007",
 "end_ref_usfm": "EXO 36:7"
+},
+{
+"start_ref": "03026010",
+"start_ref_usfm": "LEV 26:10",
+"end_ref": "03026046",
+"end_ref_usfm": "LEV 26:46"
 },
 {
 "start_ref": "05030011",
@@ -1489,7 +1495,7 @@
 {
 "id": "person:Abraham",
 "type": "person",
-"confidence": 0.6568,
+"confidence": 0.6528,
 "match_method": "scored",
 "preferred_label": "Abraão"
 }
@@ -1585,6 +1591,12 @@
 "start_ref_usfm": "EXO 35:30",
 "end_ref": "02036007",
 "end_ref_usfm": "EXO 36:7"
+},
+{
+"start_ref": "03026010",
+"start_ref_usfm": "LEV 26:10",
+"end_ref": "03026046",
+"end_ref_usfm": "LEV 26:46"
 },
 {
 "start_ref": "05030011",
@@ -2518,6 +2530,12 @@
 "end_ref_usfm": "1CH 25:7"
 },
 {
+"start_ref": "14006040",
+"start_ref_usfm": "2CH 6:40",
+"end_ref": "14007003",
+"end_ref_usfm": "2CH 7:3"
+},
+{
 "start_ref": "14007011",
 "start_ref_usfm": "2CH 7:11",
 "end_ref": "14007022",
@@ -3129,6 +3147,12 @@
 "start_ref_usfm": "1CH 25:1",
 "end_ref": "13025007",
 "end_ref_usfm": "1CH 25:7"
+},
+{
+"start_ref": "14006040",
+"start_ref_usfm": "2CH 6:40",
+"end_ref": "14007003",
+"end_ref_usfm": "2CH 7:3"
 },
 {
 "start_ref": "14007011",
@@ -3815,6 +3839,30 @@
 "end_ref_usfm": "LEV 24:9"
 },
 {
+"start_ref": "03026006",
+"start_ref_usfm": "LEV 26:6",
+"end_ref": "03026013",
+"end_ref_usfm": "LEV 26:13"
+},
+{
+"start_ref": "03026014",
+"start_ref_usfm": "LEV 26:14",
+"end_ref": "03026020",
+"end_ref_usfm": "LEV 26:20"
+},
+{
+"start_ref": "03026021",
+"start_ref_usfm": "LEV 26:21",
+"end_ref": "03026026",
+"end_ref_usfm": "LEV 26:26"
+},
+{
+"start_ref": "03026010",
+"start_ref_usfm": "LEV 26:10",
+"end_ref": "03026046",
+"end_ref_usfm": "LEV 26:46"
+},
+{
 "start_ref": "04001048",
 "start_ref_usfm": "NUM 1:48",
 "end_ref": "04001054",
@@ -4013,6 +4061,18 @@
 "end_ref_usfm": "1CH 16:43"
 },
 {
+"start_ref": "14006001",
+"start_ref_usfm": "2CH 6:1",
+"end_ref": "14006011",
+"end_ref_usfm": "2CH 6:11"
+},
+{
+"start_ref": "14006012",
+"start_ref_usfm": "2CH 6:12",
+"end_ref": "14006021",
+"end_ref_usfm": "2CH 6:21"
+},
+{
 "start_ref": "14007011",
 "start_ref_usfm": "2CH 7:11",
 "end_ref": "14007022",
@@ -4156,7 +4216,7 @@
 {
 "id": "keyterm:Covenant",
 "type": "keyterm",
-"confidence": 0.5884,
+"confidence": 0.5889,
 "match_method": "scored",
 "preferred_label": "Covenant"
 }
@@ -4338,6 +4398,30 @@
 "end_ref_usfm": "LEV 24:9"
 },
 {
+"start_ref": "03026006",
+"start_ref_usfm": "LEV 26:6",
+"end_ref": "03026013",
+"end_ref_usfm": "LEV 26:13"
+},
+{
+"start_ref": "03026014",
+"start_ref_usfm": "LEV 26:14",
+"end_ref": "03026020",
+"end_ref_usfm": "LEV 26:20"
+},
+{
+"start_ref": "03026021",
+"start_ref_usfm": "LEV 26:21",
+"end_ref": "03026026",
+"end_ref_usfm": "LEV 26:26"
+},
+{
+"start_ref": "03026010",
+"start_ref_usfm": "LEV 26:10",
+"end_ref": "03026046",
+"end_ref_usfm": "LEV 26:46"
+},
+{
 "start_ref": "04001048",
 "start_ref_usfm": "NUM 1:48",
 "end_ref": "04001054",
@@ -4536,6 +4620,18 @@
 "end_ref_usfm": "1CH 16:43"
 },
 {
+"start_ref": "14006001",
+"start_ref_usfm": "2CH 6:1",
+"end_ref": "14006011",
+"end_ref_usfm": "2CH 6:11"
+},
+{
+"start_ref": "14006012",
+"start_ref_usfm": "2CH 6:12",
+"end_ref": "14006021",
+"end_ref_usfm": "2CH 6:21"
+},
+{
 "start_ref": "14007011",
 "start_ref_usfm": "2CH 7:11",
 "end_ref": "14007022",
@@ -4690,6 +4786,12 @@
 "associations": {
 "passage": [
 {
+"start_ref": "03026014",
+"start_ref_usfm": "LEV 26:14",
+"end_ref": "03026020",
+"end_ref_usfm": "LEV 26:20"
+},
+{
 "start_ref": "05010012",
 "start_ref_usfm": "DEU 10:12",
 "end_ref": "05010022",
@@ -4754,6 +4856,12 @@
 "start_ref_usfm": "1CH 22:2",
 "end_ref": "13022019",
 "end_ref_usfm": "1CH 22:19"
+},
+{
+"start_ref": "14006022",
+"start_ref_usfm": "2CH 6:22",
+"end_ref": "14006039",
+"end_ref_usfm": "2CH 6:39"
 },
 {
 "start_ref": "14015001",
@@ -4905,6 +5013,12 @@
 "associations": {
 "passage": [
 {
+"start_ref": "03026014",
+"start_ref_usfm": "LEV 26:14",
+"end_ref": "03026020",
+"end_ref_usfm": "LEV 26:20"
+},
+{
 "start_ref": "05010012",
 "start_ref_usfm": "DEU 10:12",
 "end_ref": "05010022",
@@ -4969,6 +5083,12 @@
 "start_ref_usfm": "1CH 22:2",
 "end_ref": "13022019",
 "end_ref_usfm": "1CH 22:19"
+},
+{
+"start_ref": "14006022",
+"start_ref_usfm": "2CH 6:22",
+"end_ref": "14006039",
+"end_ref_usfm": "2CH 6:39"
 },
 {
 "start_ref": "14015001",
@@ -5443,6 +5563,12 @@
 "end_ref_usfm": "LEV 24:9"
 },
 {
+"start_ref": "03026027",
+"start_ref_usfm": "LEV 26:27",
+"end_ref": "03026033",
+"end_ref_usfm": "LEV 26:33"
+},
+{
 "start_ref": "04003021",
 "start_ref_usfm": "NUM 3:21",
 "end_ref": "04003026",
@@ -5711,12 +5837,6 @@
 "start_ref_usfm": "1KI 19:9",
 "end_ref": "11019021",
 "end_ref_usfm": "1KI 19:21"
-},
-{
-"start_ref": "11022041",
-"start_ref_usfm": "1KI 22:41",
-"end_ref": "11022053",
-"end_ref_usfm": "1KI 22:53"
 }
 ],
 "resource": [],
@@ -6068,6 +6188,12 @@
 "end_ref_usfm": "LEV 24:9"
 },
 {
+"start_ref": "03026027",
+"start_ref_usfm": "LEV 26:27",
+"end_ref": "03026033",
+"end_ref_usfm": "LEV 26:33"
+},
+{
 "start_ref": "04003021",
 "start_ref_usfm": "NUM 3:21",
 "end_ref": "04003026",
@@ -6336,12 +6462,6 @@
 "start_ref_usfm": "1KI 19:9",
 "end_ref": "11019021",
 "end_ref_usfm": "1KI 19:21"
-},
-{
-"start_ref": "11022041",
-"start_ref_usfm": "1KI 22:41",
-"end_ref": "11022053",
-"end_ref_usfm": "1KI 22:53"
 }
 ],
 "resource": []
@@ -6823,6 +6943,12 @@
 "start_ref_usfm": "1CH 21:7",
 "end_ref": "13021017",
 "end_ref_usfm": "1CH 21:17"
+},
+{
+"start_ref": "14005002",
+"start_ref_usfm": "2CH 5:2",
+"end_ref": "14005014",
+"end_ref_usfm": "2CH 5:14"
 },
 {
 "start_ref": "14010001",
@@ -7404,6 +7530,12 @@
 "start_ref_usfm": "1CH 21:7",
 "end_ref": "13021017",
 "end_ref_usfm": "1CH 21:17"
+},
+{
+"start_ref": "14005002",
+"start_ref_usfm": "2CH 5:2",
+"end_ref": "14005014",
+"end_ref_usfm": "2CH 5:14"
 },
 {
 "start_ref": "14010001",
@@ -9744,6 +9876,12 @@
 "end_ref_usfm": "1KI 8:53"
 },
 {
+"start_ref": "14006022",
+"start_ref_usfm": "2CH 6:22",
+"end_ref": "14006039",
+"end_ref_usfm": "2CH 6:39"
+},
+{
 "start_ref": "40003001",
 "start_ref_usfm": "MAT 3:1",
 "end_ref": "40003017",
@@ -9921,6 +10059,12 @@
 "start_ref_usfm": "1KI 8:31",
 "end_ref": "11008053",
 "end_ref_usfm": "1KI 8:53"
+},
+{
+"start_ref": "14006022",
+"start_ref_usfm": "2CH 6:22",
+"end_ref": "14006039",
+"end_ref_usfm": "2CH 6:39"
 },
 {
 "start_ref": "40003001",

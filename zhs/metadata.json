@@ -10,10 +10,10 @@
 "license_info": {
 "title": "Familiarization, Internalization, Articulation (Fia) Terms",
 "copyright": {
-"dates": "2023",
+"dates": "2025",
 "holder": {
-"name": "SRV Partners",
-"url": "https://srvpartners.org/home/"
+"name": "Word Collective",
+"url": "https://wordcollective.com"
 }
 },
 "licenses": [
@@ -27,15 +27,16 @@
 "showAdaptationNoticeForEnglish": false,
 "showAdaptationNoticeForNonEnglish": true
 },
-"adaptation_notice": "<p><b>Familiarization, Internalization, Articulation (FIA) Key Terms</b> © 2023 SRV Partners Released under CC BY-SA 4.0 license. <cite>Familiarization, Internalization, Articulation (FIA) Key Terms</cite> has been adapted in the following languages Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Familiarization, Internalization, Articulation (FIA)</cite> © 2023 SRV Partners. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
+"adaptation_notice": "<p><b>Familiarization, Internalization, Articulation (FIA) Key Terms</b> © 2025 Word Collective Released under CC BY-SA 4.0 license. <cite>Familiarization, Internalization, Articulation (FIA) Key Terms</cite> has been adapted in the following languages Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Familiarization, Internalization, Articulation (FIA)</cite> © 2025 Word Collective. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "FIAKeyTerms",
-"date_created": "2026-06-24",
+"date_created": "2026-08-04",
 "language": "zhs",
 "localizations": [
 "eng",
 "fra",
 "por",
 "spa",
+"tpi",
 "rus"
 ],
 "order": "alphabetical",
@@ -47,7 +48,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-06-24T16:52:39.325786"
+"dateCreated": "2026-08-04T20:53:55.061310"
 },
 "idAuthorities": {
 "aquifer": {
@@ -61,7 +62,7 @@
 "primary": {
 "aquifer": {
 "FIAKeyTerms": {
-"timestamp": "2026-06-24T16:52:39.325786"
+"timestamp": "2026-08-04T20:53:55.061310"
 }
 }
 },
@@ -105,7 +106,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 13985,
+"size": 15095,
 "scope": {
 "an": [
 "安息日",
@@ -177,7 +178,7 @@
 },
 "json/009.content.json": {
 "mimeType": "text/json",
-"size": 42182,
+"size": 43282,
 "scope": {
 "dao": [
 "祷告",
@@ -241,7 +242,7 @@
 },
 "json/015.content.json": {
 "mimeType": "text/json",
-"size": 23160,
+"size": 23162,
 "scope": {
 "fan": [
 "燔祭",
@@ -285,7 +286,7 @@
 },
 "json/019.content.json": {
 "mimeType": "text/json",
-"size": 18625,
+"size": 18843,
 "scope": {
 "gao": [
 "膏抹",
@@ -339,7 +340,7 @@
 },
 "json/024.content.json": {
 "mimeType": "text/json",
-"size": 37118,
+"size": 38460,
 "scope": {
 "guo": [
 "国",
@@ -371,7 +372,7 @@
 },
 "json/027.content.json": {
 "mimeType": "text/json",
-"size": 7828,
+"size": 8046,
 "scope": {
 "hou": [
 "后嗣",
@@ -381,7 +382,7 @@
 },
 "json/028.content.json": {
 "mimeType": "text/json",
-"size": 49113,
+"size": 49335,
 "scope": {
 "hui": [
 "悔改",
@@ -395,7 +396,7 @@
 },
 "json/029.content.json": {
 "mimeType": "text/json",
-"size": 83613,
+"size": 84943,
 "scope": {
 "ji": [
 "基督",
@@ -411,7 +412,7 @@
 },
 "json/030.content.json": {
 "mimeType": "text/json",
-"size": 50223,
+"size": 50227,
 "scope": {
 "jia": [
 "加利利",
@@ -449,7 +450,7 @@
 },
 "json/033.content.json": {
 "mimeType": "text/json",
-"size": 24057,
+"size": 24503,
 "scope": {
 "jie": [
 "洁净/不洁净",
@@ -479,7 +480,7 @@
 },
 "json/036.content.json": {
 "mimeType": "text/json",
-"size": 16005,
+"size": 16223,
 "scope": {
 "jiu": [
 "酒榨",
@@ -503,7 +504,7 @@
 },
 "json/038.content.json": {
 "mimeType": "text/json",
-"size": 25972,
+"size": 25980,
 "scope": {
 "kuang": [
 "筐子、箱子、篮子",
@@ -549,7 +550,7 @@
 },
 "json/042.content.json": {
 "mimeType": "text/json",
-"size": 23691,
+"size": 24573,
 "scope": {
 "ling": [
 "灵",
@@ -561,7 +562,7 @@
 },
 "json/043.content.json": {
 "mimeType": "text/json",
-"size": 47253,
+"size": 47249,
 "scope": {
 "lv": [
 "驴",
@@ -605,7 +606,7 @@
 },
 "json/047.content.json": {
 "mimeType": "text/json",
-"size": 15291,
+"size": 15509,
 "scope": {
 "mi": [
 "弥赛亚",
@@ -647,7 +648,7 @@
 },
 "json/051.content.json": {
 "mimeType": "text/json",
-"size": 15193,
+"size": 16083,
 "scope": {
 "nu": [
 "奴隶",
@@ -657,7 +658,7 @@
 },
 "json/052.content.json": {
 "mimeType": "text/json",
-"size": 32244,
+"size": 32686,
 "scope": {
 "pu": [
 "仆人",
@@ -669,7 +670,7 @@
 },
 "json/053.content.json": {
 "mimeType": "text/json",
-"size": 8031,
+"size": 8689,
 "scope": {
 "qu": [
 "屈身、跪拜",
@@ -699,7 +700,7 @@
 },
 "json/056.content.json": {
 "mimeType": "text/json",
-"size": 16514,
+"size": 16954,
 "scope": {
 "rao": [
 "饶恕",
@@ -719,7 +720,7 @@
 },
 "json/058.content.json": {
 "mimeType": "text/json",
-"size": 25095,
+"size": 25531,
 "scope": {
 "rong": [
 "荣耀",
@@ -771,7 +772,7 @@
 },
 "json/062.content.json": {
 "mimeType": "text/json",
-"size": 81190,
+"size": 81196,
 "scope": {
 "sheng": [
 "圣殿",
@@ -785,7 +786,7 @@
 },
 "json/063.content.json": {
 "mimeType": "text/json",
-"size": 61073,
+"size": 61293,
 "scope": {
 "shi": [
 "施洗约翰",
@@ -813,7 +814,7 @@
 },
 "json/065.content.json": {
 "mimeType": "text/json",
-"size": 2894,
+"size": 3118,
 "scope": {
 "shu": [
 "赎价",
@@ -833,7 +834,7 @@
 },
 "json/067.content.json": {
 "mimeType": "text/json",
-"size": 45541,
+"size": 45531,
 "scope": {
 "tian": [
 "天使",
@@ -845,7 +846,7 @@
 },
 "json/068.content.json": {
 "mimeType": "text/json",
-"size": 29301,
+"size": 29739,
 "scope": {
 "wai": [
 "外邦人",
@@ -869,7 +870,7 @@
 },
 "json/070.content.json": {
 "mimeType": "text/json",
-"size": 10650,
+"size": 11094,
 "scope": {
 "wen": [
 "文士",
@@ -905,7 +906,7 @@
 },
 "json/073.content.json": {
 "mimeType": "text/json",
-"size": 53481,
+"size": 53463,
 "scope": {
 "xian": [
 "先知",
@@ -917,7 +918,7 @@
 },
 "json/074.content.json": {
 "mimeType": "text/json",
-"size": 48855,
+"size": 49075,
 "scope": {
 "xie": [
 "邪恶",
@@ -933,7 +934,7 @@
 },
 "json/075.content.json": {
 "mimeType": "text/json",
-"size": 61824,
+"size": 61838,
 "scope": {
 "xin": [
 "心",
@@ -977,7 +978,7 @@
 },
 "json/079.content.json": {
 "mimeType": "text/json",
-"size": 23572,
+"size": 23570,
 "scope": {
 "ye": [
 "耶路撒冷",
@@ -987,7 +988,7 @@
 },
 "json/080.content.json": {
 "mimeType": "text/json",
-"size": 14303,
+"size": 14961,
 "scope": {
 "yi": [
 "医治",
@@ -1013,7 +1014,7 @@
 },
 "json/082.content.json": {
 "mimeType": "text/json",
-"size": 28234,
+"size": 28238,
 "scope": {
 "you": [
 "犹大（旧约）犹太（新约）",
@@ -1049,7 +1050,7 @@
 },
 "json/085.content.json": {
 "mimeType": "text/json",
-"size": 39170,
+"size": 40940,
 "scope": {
 "yue": [
 "约",
@@ -1073,7 +1074,7 @@
 },
 "json/087.content.json": {
 "mimeType": "text/json",
-"size": 22099,
+"size": 22317,
 "scope": {
 "zhang": [
 "长老",
@@ -1093,7 +1094,7 @@
 },
 "json/089.content.json": {
 "mimeType": "text/json",
-"size": 4947,
+"size": 5171,
 "scope": {
 "zhong": [
 "种子",
@@ -1103,7 +1104,7 @@
 },
 "json/090.content.json": {
 "mimeType": "text/json",
-"size": 13108,
+"size": 13328,
 "scope": {
 "zhou": [
 "咒诅",
@@ -1113,7 +1114,7 @@
 },
 "json/091.content.json": {
 "mimeType": "text/json",
-"size": 60378,
+"size": 60390,
 "scope": {
 "zhu": [
 "主",
@@ -1129,7 +1130,7 @@
 },
 "json/092.content.json": {
 "mimeType": "text/json",
-"size": 28253,
+"size": 28261,
 "scope": {
 "zui": [
 "罪",
@@ -1139,543 +1140,543 @@
 },
 "md/081.content.md": {
 "mimeType": "text/markdown",
-"size": 2964
+"size": 2970
 },
 "md/086.content.md": {
 "mimeType": "text/markdown",
-"size": 1283
+"size": 1289
 },
 "md/079.content.md": {
 "mimeType": "text/markdown",
-"size": 5961
+"size": 5965
 },
 "md/039.content.md": {
 "mimeType": "text/markdown",
-"size": 2022
+"size": 2028
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 6644
+"size": 6650
 },
 "md/048.content.md": {
 "mimeType": "text/markdown",
-"size": 3031
+"size": 3037
 },
 "md/038.content.md": {
 "mimeType": "text/markdown",
-"size": 6324
+"size": 6334
 },
 "md/092.content.md": {
 "mimeType": "text/markdown",
-"size": 10150
+"size": 10144
 },
 "md/078.content.md": {
 "mimeType": "text/markdown",
-"size": 2003
+"size": 2009
 },
 "md/087.content.md": {
 "mimeType": "text/markdown",
-"size": 5525
+"size": 5573
 },
 "md/080.content.md": {
 "mimeType": "text/markdown",
-"size": 7453
+"size": 7589
 },
 "md/049.content.md": {
 "mimeType": "text/markdown",
-"size": 3314
+"size": 3320
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 10971
+"size": 11199
 },
 "md/056.content.md": {
 "mimeType": "text/markdown",
-"size": 5250
+"size": 5344
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 1545
+"size": 1551
 },
 "md/051.content.md": {
 "mimeType": "text/markdown",
-"size": 4081
+"size": 4241
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
-"size": 1566
+"size": 1572
 },
 "md/044.content.md": {
 "mimeType": "text/markdown",
-"size": 1837
+"size": 1843
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 4072
+"size": 4078
 },
 "md/043.content.md": {
 "mimeType": "text/markdown",
-"size": 13486
+"size": 13472
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 3936
+"size": 3942
 },
 "md/075.content.md": {
 "mimeType": "text/markdown",
-"size": 19054
+"size": 19048
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 2105
+"size": 2111
 },
 "md/072.content.md": {
 "mimeType": "text/markdown",
-"size": 8312
+"size": 8318
 },
 "md/027.content.md": {
 "mimeType": "text/markdown",
-"size": 3542
+"size": 3590
 },
 "md/067.content.md": {
 "mimeType": "text/markdown",
-"size": 12310
+"size": 12312
 },
 "md/032.content.md": {
 "mimeType": "text/markdown",
-"size": 2701
+"size": 2707
 },
 "md/060.content.md": {
 "mimeType": "text/markdown",
-"size": 1310
+"size": 1316
 },
 "md/035.content.md": {
 "mimeType": "text/markdown",
-"size": 4493
+"size": 4499
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
-"size": 3173
+"size": 3179
 },
 "md/042.content.md": {
 "mimeType": "text/markdown",
-"size": 8685
+"size": 8861
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 1425
+"size": 1431
 },
 "md/045.content.md": {
 "mimeType": "text/markdown",
-"size": 4001
+"size": 4007
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 2601
+"size": 2607
 },
 "md/050.content.md": {
 "mimeType": "text/markdown",
-"size": 2184
+"size": 2190
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 4917
+"size": 5113
 },
 "md/057.content.md": {
 "mimeType": "text/markdown",
-"size": 5200
+"size": 5206
 },
 "md/034.content.md": {
 "mimeType": "text/markdown",
-"size": 3297
+"size": 3303
 },
 "md/061.content.md": {
 "mimeType": "text/markdown",
-"size": 23665
+"size": 23671
 },
 "md/033.content.md": {
 "mimeType": "text/markdown",
-"size": 7834
+"size": 7918
 },
 "md/066.content.md": {
 "mimeType": "text/markdown",
-"size": 1717
+"size": 1723
 },
 "md/026.content.md": {
 "mimeType": "text/markdown",
-"size": 1826
+"size": 1832
 },
 "md/073.content.md": {
 "mimeType": "text/markdown",
-"size": 17206
+"size": 17204
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 8794
+"size": 8800
 },
 "md/074.content.md": {
 "mimeType": "text/markdown",
-"size": 13146
+"size": 13196
 },
 "md/047.content.md": {
 "mimeType": "text/markdown",
-"size": 5923
+"size": 5971
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 3173
+"size": 3179
 },
 "md/040.content.md": {
 "mimeType": "text/markdown",
-"size": 2580
+"size": 2586
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 5291
+"size": 5309
 },
 "md/055.content.md": {
 "mimeType": "text/markdown",
-"size": 1163
+"size": 1169
 },
 "md/052.content.md": {
 "mimeType": "text/markdown",
-"size": 9054
+"size": 9134
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
-"size": 3459
+"size": 3465
 },
 "md/064.content.md": {
 "mimeType": "text/markdown",
-"size": 1567
+"size": 1573
 },
 "md/031.content.md": {
 "mimeType": "text/markdown",
-"size": 2590
+"size": 2596
 },
 "md/063.content.md": {
 "mimeType": "text/markdown",
-"size": 17783
+"size": 17833
 },
 "md/036.content.md": {
 "mimeType": "text/markdown",
-"size": 5566
+"size": 5618
 },
 "md/076.content.md": {
 "mimeType": "text/markdown",
-"size": 1520
+"size": 1526
 },
 "md/023.content.md": {
 "mimeType": "text/markdown",
-"size": 4132
+"size": 4138
 },
 "md/089.content.md": {
 "mimeType": "text/markdown",
-"size": 1864
+"size": 1910
 },
 "md/071.content.md": {
 "mimeType": "text/markdown",
-"size": 6204
+"size": 6210
 },
 "md/024.content.md": {
 "mimeType": "text/markdown",
-"size": 8354
+"size": 8610
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
-"size": 1229
+"size": 1235
 },
 "md/053.content.md": {
 "mimeType": "text/markdown",
-"size": 2503
+"size": 2635
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 2729
+"size": 2735
 },
 "md/054.content.md": {
 "mimeType": "text/markdown",
-"size": 2721
+"size": 2727
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 4653
+"size": 4659
 },
 "md/041.content.md": {
 "mimeType": "text/markdown",
-"size": 5192
+"size": 5198
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 5275
+"size": 5281
 },
 "md/046.content.md": {
 "mimeType": "text/markdown",
-"size": 6219
+"size": 6225
 },
 "md/025.content.md": {
 "mimeType": "text/markdown",
-"size": 3196
+"size": 3202
 },
 "md/070.content.md": {
 "mimeType": "text/markdown",
-"size": 4458
+"size": 4552
 },
 "md/088.content.md": {
 "mimeType": "text/markdown",
-"size": 4283
+"size": 4289
 },
 "md/022.content.md": {
 "mimeType": "text/markdown",
-"size": 1156
+"size": 1162
 },
 "md/077.content.md": {
 "mimeType": "text/markdown",
-"size": 1399
+"size": 1405
 },
 "md/037.content.md": {
 "mimeType": "text/markdown",
-"size": 2451
+"size": 2457
 },
 "md/062.content.md": {
 "mimeType": "text/markdown",
-"size": 26142
+"size": 26120
 },
 "md/030.content.md": {
 "mimeType": "text/markdown",
-"size": 14172
+"size": 14180
 },
 "md/065.content.md": {
 "mimeType": "text/markdown",
-"size": 1580
+"size": 1626
 },
 "md/090.content.md": {
 "mimeType": "text/markdown",
-"size": 3539
+"size": 3589
 },
 "md/068.content.md": {
 "mimeType": "text/markdown",
-"size": 8868
+"size": 8960
 },
 "md/028.content.md": {
 "mimeType": "text/markdown",
-"size": 15632
+"size": 15670
 },
 "md/082.content.md": {
 "mimeType": "text/markdown",
-"size": 7627
+"size": 7635
 },
 "md/085.content.md": {
 "mimeType": "text/markdown",
-"size": 14288
+"size": 14624
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 5962
+"size": 6014
 },
 "md/059.content.md": {
 "mimeType": "text/markdown",
-"size": 5184
+"size": 5190
 },
 "md/084.content.md": {
 "mimeType": "text/markdown",
-"size": 921
+"size": 927
 },
 "md/083.content.md": {
 "mimeType": "text/markdown",
-"size": 9866
+"size": 9872
 },
 "md/029.content.md": {
 "mimeType": "text/markdown",
-"size": 23572
+"size": 23818
 },
 "md/069.content.md": {
 "mimeType": "text/markdown",
-"size": 5420
+"size": 5426
 },
 "md/091.content.md": {
 "mimeType": "text/markdown",
-"size": 15188
+"size": 15222
 },
 "md/058.content.md": {
 "mimeType": "text/markdown",
-"size": 6985
+"size": 7079
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
-"size": 6136
+"size": 6142
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42972
+"size": 42974
 },
 "docx/002.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43395
+"size": 43397
 },
 "docx/003.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42132
+"size": 42135
 },
 "docx/004.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42543
+"size": 42540
 },
 "docx/005.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42701
+"size": 42703
 },
 "docx/006.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42464
+"size": 42466
 },
 "docx/007.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43352
+"size": 43355
 },
 "docx/008.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44370
+"size": 44372
 },
 "docx/009.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43461
+"size": 43463
 },
 "docx/010.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42236
+"size": 42238
 },
 "docx/011.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43679
+"size": 43682
 },
 "docx/012.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42924
+"size": 42928
 },
 "docx/013.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42273
+"size": 42276
 },
 "docx/014.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42881
+"size": 42883
 },
 "docx/015.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42402
+"size": 42404
 },
 "docx/016.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43318
+"size": 43320
 },
 "docx/017.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42645
+"size": 42648
 },
 "docx/018.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43432
+"size": 43434
 },
 "docx/019.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43627
+"size": 43629
 },
 "docx/020.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42878
+"size": 42882
 },
 "docx/021.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44020
+"size": 44022
 },
 "docx/022.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42401
+"size": 42402
 },
 "docx/023.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43196
+"size": 43198
 },
 "docx/024.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42324
+"size": 42326
 },
 "docx/025.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43024
+"size": 43023
 },
 "docx/026.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42686
+"size": 42687
 },
 "docx/027.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43161
+"size": 43164
 },
 "docx/028.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46033
+"size": 46035
 },
 "docx/029.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46777
+"size": 46779
 },
 "docx/030.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44445
+"size": 44447
 },
 "docx/031.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42894
+"size": 42897
 },
 "docx/032.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42455
+"size": 42457
 },
 "docx/033.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44047
+"size": 44049
 },
 "docx/034.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43169
+"size": 43171
 },
 "docx/035.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43304
+"size": 43305
 },
 "docx/036.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43332
+"size": 43334
 },
 "docx/037.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42757
+"size": 42759
 },
 "docx/038.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42632
+"size": 42634
 },
 "docx/039.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42489
+"size": 42490
 },
 "docx/040.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42667
+"size": 42670
 },
 "docx/041.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43070
+"size": 43071
 },
 "docx/042.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43772
+"size": 43774
 },
 "docx/043.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44533
+"size": 44534
 },
 "docx/044.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -1683,135 +1684,135 @@
 },
 "docx/045.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43525
+"size": 43527
 },
 "docx/046.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42917
+"size": 42919
 },
 "docx/047.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44025
+"size": 44026
 },
 "docx/048.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43067
+"size": 43070
 },
 "docx/049.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42948
+"size": 42950
 },
 "docx/050.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42610
+"size": 42611
 },
 "docx/051.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42548
+"size": 42550
 },
 "docx/052.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43593
+"size": 43595
 },
 "docx/053.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42333
+"size": 42336
 },
 "docx/054.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42551
+"size": 42555
 },
 "docx/055.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42283
+"size": 42285
 },
 "docx/056.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43320
+"size": 43322
 },
 "docx/057.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43173
+"size": 43175
 },
 "docx/058.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42703
+"size": 42706
 },
 "docx/059.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43539
+"size": 43541
 },
 "docx/060.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42274
+"size": 42275
 },
 "docx/061.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46735
+"size": 46738
 },
 "docx/062.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 48692
+"size": 48695
 },
 "docx/063.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46098
+"size": 46100
 },
 "docx/064.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42564
+"size": 42566
 },
 "docx/065.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42473
+"size": 42475
 },
 "docx/066.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42704
+"size": 42706
 },
 "docx/067.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44244
+"size": 44246
 },
 "docx/068.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43749
+"size": 43751
 },
 "docx/069.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42267
+"size": 42269
 },
 "docx/070.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43504
+"size": 43507
 },
 "docx/071.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44548
+"size": 44551
 },
 "docx/072.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45000
+"size": 45001
 },
 "docx/073.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46340
+"size": 46342
 },
 "docx/074.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44046
+"size": 44049
 },
 "docx/075.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45044
+"size": 45046
 },
 "docx/076.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42427
+"size": 42426
 },
 "docx/077.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42474
+"size": 42473
 },
 "docx/078.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -1819,427 +1820,427 @@
 },
 "docx/079.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42662
+"size": 42664
 },
 "docx/080.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45068
+"size": 45071
 },
 "docx/081.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42686
+"size": 42687
 },
 "docx/082.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43236
+"size": 43238
 },
 "docx/083.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45457
+"size": 45460
 },
 "docx/084.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42208
+"size": 42210
 },
 "docx/085.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46155
+"size": 46158
 },
 "docx/086.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42384
+"size": 42386
 },
 "docx/087.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42592
+"size": 42593
 },
 "docx/088.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42786
+"size": 42788
 },
 "docx/089.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42372
+"size": 42374
 },
 "docx/090.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42452
+"size": 42453
 },
 "docx/091.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44043
+"size": 44045
 },
 "docx/092.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44942
+"size": 44946
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
-"size": 68549
+"size": 68788
 },
 "pdf/002.content.pdf": {
 "mimeType": "application/pdf",
-"size": 84259
+"size": 84509
 },
 "pdf/003.content.pdf": {
 "mimeType": "application/pdf",
-"size": 33155
+"size": 33408
 },
 "pdf/004.content.pdf": {
 "mimeType": "application/pdf",
-"size": 50940
+"size": 51192
 },
 "pdf/005.content.pdf": {
 "mimeType": "application/pdf",
-"size": 59314
+"size": 59567
 },
 "pdf/006.content.pdf": {
 "mimeType": "application/pdf",
-"size": 47737
+"size": 47983
 },
 "pdf/007.content.pdf": {
 "mimeType": "application/pdf",
-"size": 82741
+"size": 82995
 },
 "pdf/008.content.pdf": {
 "mimeType": "application/pdf",
-"size": 113548
+"size": 113795
 },
 "pdf/009.content.pdf": {
 "mimeType": "application/pdf",
-"size": 82084
+"size": 82327
 },
 "pdf/010.content.pdf": {
 "mimeType": "application/pdf",
-"size": 39310
+"size": 39563
 },
 "pdf/011.content.pdf": {
 "mimeType": "application/pdf",
-"size": 94594
+"size": 94844
 },
 "pdf/012.content.pdf": {
 "mimeType": "application/pdf",
-"size": 70149
+"size": 70399
 },
 "pdf/013.content.pdf": {
 "mimeType": "application/pdf",
-"size": 41103
+"size": 41352
 },
 "pdf/014.content.pdf": {
 "mimeType": "application/pdf",
-"size": 64107
+"size": 64356
 },
 "pdf/015.content.pdf": {
 "mimeType": "application/pdf",
-"size": 44256
+"size": 44512
 },
 "pdf/016.content.pdf": {
 "mimeType": "application/pdf",
-"size": 77444
+"size": 77695
 },
 "pdf/017.content.pdf": {
 "mimeType": "application/pdf",
-"size": 55065
+"size": 55318
 },
 "pdf/018.content.pdf": {
 "mimeType": "application/pdf",
-"size": 78584
+"size": 78827
 },
 "pdf/019.content.pdf": {
 "mimeType": "application/pdf",
-"size": 89876
+"size": 90132
 },
 "pdf/020.content.pdf": {
 "mimeType": "application/pdf",
-"size": 65075
+"size": 65323
 },
 "pdf/021.content.pdf": {
 "mimeType": "application/pdf",
-"size": 102334
+"size": 102581
 },
 "pdf/022.content.pdf": {
 "mimeType": "application/pdf",
-"size": 45474
+"size": 45722
 },
 "pdf/023.content.pdf": {
 "mimeType": "application/pdf",
-"size": 77177
+"size": 77428
 },
 "pdf/024.content.pdf": {
 "mimeType": "application/pdf",
-"size": 41746
+"size": 41994
 },
 "pdf/025.content.pdf": {
 "mimeType": "application/pdf",
-"size": 67432
+"size": 67678
 },
 "pdf/026.content.pdf": {
 "mimeType": "application/pdf",
-"size": 57236
+"size": 57483
 },
 "pdf/027.content.pdf": {
 "mimeType": "application/pdf",
-"size": 69288
+"size": 69537
 },
 "pdf/028.content.pdf": {
 "mimeType": "application/pdf",
-"size": 162189
+"size": 162428
 },
 "pdf/029.content.pdf": {
 "mimeType": "application/pdf",
-"size": 168753
+"size": 168996
 },
 "pdf/030.content.pdf": {
 "mimeType": "application/pdf",
-"size": 116477
+"size": 116729
 },
 "pdf/031.content.pdf": {
 "mimeType": "application/pdf",
-"size": 64860
+"size": 65107
 },
 "pdf/032.content.pdf": {
 "mimeType": "application/pdf",
-"size": 46630
+"size": 46882
 },
 "pdf/033.content.pdf": {
 "mimeType": "application/pdf",
-"size": 97252
+"size": 97496
 },
 "pdf/034.content.pdf": {
 "mimeType": "application/pdf",
-"size": 76288
+"size": 76538
 },
 "pdf/035.content.pdf": {
 "mimeType": "application/pdf",
-"size": 80553
+"size": 80806
 },
 "pdf/036.content.pdf": {
 "mimeType": "application/pdf",
-"size": 83580
+"size": 83831
 },
 "pdf/037.content.pdf": {
 "mimeType": "application/pdf",
-"size": 58530
+"size": 58782
 },
 "pdf/038.content.pdf": {
 "mimeType": "application/pdf",
-"size": 58809
+"size": 59065
 },
 "pdf/039.content.pdf": {
 "mimeType": "application/pdf",
-"size": 47932
+"size": 48184
 },
 "pdf/040.content.pdf": {
 "mimeType": "application/pdf",
-"size": 55008
+"size": 55258
 },
 "pdf/041.content.pdf": {
 "mimeType": "application/pdf",
-"size": 70082
+"size": 70327
 },
 "pdf/042.content.pdf": {
 "mimeType": "application/pdf",
-"size": 92351
+"size": 92593
 },
 "pdf/043.content.pdf": {
 "mimeType": "application/pdf",
-"size": 113627
+"size": 113868
 },
 "pdf/044.content.pdf": {
 "mimeType": "application/pdf",
-"size": 55720
+"size": 55974
 },
 "pdf/045.content.pdf": {
 "mimeType": "application/pdf",
-"size": 85694
+"size": 85939
 },
 "pdf/046.content.pdf": {
 "mimeType": "application/pdf",
-"size": 65879
+"size": 66128
 },
 "pdf/047.content.pdf": {
 "mimeType": "application/pdf",
-"size": 97450
+"size": 97696
 },
 "pdf/048.content.pdf": {
 "mimeType": "application/pdf",
-"size": 74330
+"size": 74580
 },
 "pdf/049.content.pdf": {
 "mimeType": "application/pdf",
-"size": 67740
+"size": 67985
 },
 "pdf/050.content.pdf": {
 "mimeType": "application/pdf",
-"size": 51613
+"size": 51865
 },
 "pdf/051.content.pdf": {
 "mimeType": "application/pdf",
-"size": 50774
+"size": 51024
 },
 "pdf/052.content.pdf": {
 "mimeType": "application/pdf",
-"size": 90987
+"size": 91237
 },
 "pdf/053.content.pdf": {
 "mimeType": "application/pdf",
-"size": 42890
+"size": 43141
 },
 "pdf/054.content.pdf": {
 "mimeType": "application/pdf",
-"size": 51642
+"size": 51898
 },
 "pdf/055.content.pdf": {
 "mimeType": "application/pdf",
-"size": 39053
+"size": 39303
 },
 "pdf/056.content.pdf": {
 "mimeType": "application/pdf",
-"size": 83625
+"size": 83873
 },
 "pdf/057.content.pdf": {
 "mimeType": "application/pdf",
-"size": 72192
+"size": 72443
 },
 "pdf/058.content.pdf": {
 "mimeType": "application/pdf",
-"size": 57904
+"size": 58153
 },
 "pdf/059.content.pdf": {
 "mimeType": "application/pdf",
-"size": 89461
+"size": 89714
 },
 "pdf/060.content.pdf": {
 "mimeType": "application/pdf",
-"size": 40240
+"size": 40492
 },
 "pdf/061.content.pdf": {
 "mimeType": "application/pdf",
-"size": 165930
+"size": 166177
 },
 "pdf/062.content.pdf": {
 "mimeType": "application/pdf",
-"size": 213904
+"size": 214151
 },
 "pdf/063.content.pdf": {
 "mimeType": "application/pdf",
-"size": 161762
+"size": 162013
 },
 "pdf/064.content.pdf": {
 "mimeType": "application/pdf",
-"size": 52608
+"size": 52861
 },
 "pdf/065.content.pdf": {
 "mimeType": "application/pdf",
-"size": 47185
+"size": 47440
 },
 "pdf/066.content.pdf": {
 "mimeType": "application/pdf",
-"size": 60242
+"size": 60496
 },
 "pdf/067.content.pdf": {
 "mimeType": "application/pdf",
-"size": 106911
+"size": 107159
 },
 "pdf/068.content.pdf": {
 "mimeType": "application/pdf",
-"size": 94911
+"size": 95159
 },
 "pdf/069.content.pdf": {
 "mimeType": "application/pdf",
-"size": 40671
+"size": 40921
 },
 "pdf/070.content.pdf": {
 "mimeType": "application/pdf",
-"size": 83029
+"size": 83273
 },
 "pdf/071.content.pdf": {
 "mimeType": "application/pdf",
-"size": 116388
+"size": 116634
 },
 "pdf/072.content.pdf": {
 "mimeType": "application/pdf",
-"size": 124623
+"size": 124875
 },
 "pdf/073.content.pdf": {
 "mimeType": "application/pdf",
-"size": 166619
+"size": 166875
 },
 "pdf/074.content.pdf": {
 "mimeType": "application/pdf",
-"size": 106705
+"size": 106959
 },
 "pdf/075.content.pdf": {
 "mimeType": "application/pdf",
-"size": 121833
+"size": 121996
 },
 "pdf/076.content.pdf": {
 "mimeType": "application/pdf",
-"size": 47062
+"size": 47311
 },
 "pdf/077.content.pdf": {
 "mimeType": "application/pdf",
-"size": 50631
+"size": 50881
 },
 "pdf/078.content.pdf": {
 "mimeType": "application/pdf",
-"size": 64653
+"size": 64901
 },
 "pdf/079.content.pdf": {
 "mimeType": "application/pdf",
-"size": 54314
+"size": 54459
 },
 "pdf/080.content.pdf": {
 "mimeType": "application/pdf",
-"size": 132153
+"size": 132401
 },
 "pdf/081.content.pdf": {
 "mimeType": "application/pdf",
-"size": 55039
+"size": 55290
 },
 "pdf/082.content.pdf": {
 "mimeType": "application/pdf",
-"size": 78507
+"size": 78760
 },
 "pdf/083.content.pdf": {
 "mimeType": "application/pdf",
-"size": 142776
+"size": 143023
 },
 "pdf/084.content.pdf": {
 "mimeType": "application/pdf",
-"size": 36713
+"size": 36968
 },
 "pdf/085.content.pdf": {
 "mimeType": "application/pdf",
-"size": 153274
+"size": 153514
 },
 "pdf/086.content.pdf": {
 "mimeType": "application/pdf",
-"size": 43343
+"size": 43596
 },
 "pdf/087.content.pdf": {
 "mimeType": "application/pdf",
-"size": 52750
+"size": 52997
 },
 "pdf/088.content.pdf": {
 "mimeType": "application/pdf",
-"size": 64424
+"size": 64669
 },
 "pdf/089.content.pdf": {
 "mimeType": "application/pdf",
-"size": 42793
+"size": 43044
 },
 "pdf/090.content.pdf": {
 "mimeType": "application/pdf",
-"size": 44406
+"size": 44660
 },
 "pdf/091.content.pdf": {
 "mimeType": "application/pdf",
-"size": 102525
+"size": 102770
 },
 "pdf/092.content.pdf": {
 "mimeType": "application/pdf",
-"size": 122153
+"size": 122400
 }
 },
 "copyright": {
@@ -2250,7 +2251,7 @@
 ],
 "shortStatements": [
 {
-"statement": "<p>Familiarization, Internalization, Articulation (Fia) Terms © 2023 SRV Partners.</p>",
+"statement": "<p>Familiarization, Internalization, Articulation (Fia) Terms © 2025 Word Collective.</p>",
 "mimetype": "text/html",
 "lang": "zh"
 }
@@ -2281,6 +2282,11 @@
 "spa": {
 "content_id": "spa-t2-v1",
 "language": "spa",
+"title": "adultery"
+},
+"tpi": {
+"content_id": "tpi-t2-v1",
+"language": "tpi",
 "title": "adultery"
 }
 }
@@ -2336,6 +2342,11 @@
 "content_id": "spa-t4-v1",
 "language": "spa",
 "title": "angel"
+},
+"tpi": {
+"content_id": "tpi-t4-v1",
+"language": "tpi",
+"title": "angel"
 }
 }
 },
@@ -2390,6 +2401,11 @@
 "content_id": "spa-t5-v1",
 "language": "spa",
 "title": "anoint"
+},
+"tpi": {
+"content_id": "tpi-t5-v1",
+"language": "tpi",
+"title": "anoint"
 }
 }
 },
@@ -2438,6 +2454,11 @@
 "spa": {
 "content_id": "spa-t6-v1",
 "language": "spa",
+"title": "apostle"
+},
+"tpi": {
+"content_id": "tpi-t6-v1",
+"language": "tpi",
 "title": "apostle"
 }
 }
@@ -2492,6 +2513,11 @@
 "spa": {
 "content_id": "spa-t8-v1",
 "language": "spa",
+"title": "authority"
+},
+"tpi": {
+"content_id": "tpi-t8-v1",
+"language": "tpi",
 "title": "authority"
 }
 }
@@ -2552,6 +2578,11 @@
 "content_id": "spa-t9-v1",
 "language": "spa",
 "title": "baptism"
+},
+"tpi": {
+"content_id": "tpi-t9-v1",
+"language": "tpi",
+"title": "baptism"
 }
 }
 },
@@ -2605,6 +2636,11 @@
 "spa": {
 "content_id": "spa-t10-v1",
 "language": "spa",
+"title": "basket"
+},
+"tpi": {
+"content_id": "tpi-t10-v1",
+"language": "tpi",
 "title": "basket"
 }
 }
@@ -2660,6 +2696,11 @@
 "content_id": "spa-t11-v1",
 "language": "spa",
 "title": "belief"
+},
+"tpi": {
+"content_id": "tpi-t11-v1",
+"language": "tpi",
+"title": "belief"
 }
 }
 },
@@ -2714,6 +2755,11 @@
 "content_id": "spa-t14-v1",
 "language": "spa",
 "title": "bethsaida"
+},
+"tpi": {
+"content_id": "tpi-t14-v1",
+"language": "tpi",
+"title": "bethsaida"
 }
 }
 },
@@ -2763,6 +2809,11 @@
 "content_id": "spa-t15-v1",
 "language": "spa",
 "title": "blasphemy"
+},
+"tpi": {
+"content_id": "tpi-t15-v1",
+"language": "tpi",
+"title": "blasphemy"
 }
 }
 },
@@ -2811,6 +2862,11 @@
 "spa": {
 "content_id": "spa-t16-v1",
 "language": "spa",
+"title": "bless"
+},
+"tpi": {
+"content_id": "tpi-t16-v1",
+"language": "tpi",
 "title": "bless"
 }
 }
@@ -2866,6 +2922,11 @@
 "content_id": "spa-t17-v1",
 "language": "spa",
 "title": "barco"
+},
+"tpi": {
+"content_id": "tpi-t17-v1",
+"language": "tpi",
+"title": "boat"
 }
 }
 },
@@ -2925,6 +2986,11 @@
 "content_id": "spa-t18-v1",
 "language": "spa",
 "title": "bow"
+},
+"tpi": {
+"content_id": "tpi-t18-v1",
+"language": "tpi",
+"title": "bow"
 }
 }
 },
@@ -2973,6 +3039,11 @@
 "spa": {
 "content_id": "spa-t19-v1",
 "language": "spa",
+"title": "caesar"
+},
+"tpi": {
+"content_id": "tpi-t19-v1",
+"language": "tpi",
 "title": "caesar"
 }
 }
@@ -3023,6 +3094,11 @@
 "content_id": "spa-t20-v1",
 "language": "spa",
 "title": "caeserea-philippi"
+},
+"tpi": {
+"content_id": "tpi-t20-v1",
+"language": "tpi",
+"title": "caeserea-philippi"
 }
 }
 },
@@ -3071,6 +3147,11 @@
 "spa": {
 "content_id": "spa-t21-v1",
 "language": "spa",
+"title": "camel"
+},
+"tpi": {
+"content_id": "tpi-t21-v1",
+"language": "tpi",
 "title": "camel"
 }
 }
@@ -3126,6 +3207,11 @@
 "content_id": "spa-t22-v1",
 "language": "spa",
 "title": "Cafarnaúm"
+},
+"tpi": {
+"content_id": "tpi-t22-v1",
+"language": "tpi",
+"title": "capernaum"
 }
 }
 },
@@ -3190,6 +3276,11 @@
 "content_id": "spa-t23-v1",
 "language": "spa",
 "title": "christ"
+},
+"tpi": {
+"content_id": "tpi-t23-v1",
+"language": "tpi",
+"title": "christ"
 }
 }
 },
@@ -3249,6 +3340,11 @@
 "content_id": "spa-t26-v1",
 "language": "spa",
 "title": "clean-unclean"
+},
+"tpi": {
+"content_id": "tpi-t26-v1",
+"language": "tpi",
+"title": "clean-unclean"
 }
 }
 },
@@ -3303,6 +3399,11 @@
 "content_id": "spa-t27-v1",
 "language": "spa",
 "title": "cloak"
+},
+"tpi": {
+"content_id": "tpi-t27-v1",
+"language": "tpi",
+"title": "cloak"
 }
 }
 },
@@ -3351,6 +3452,11 @@
 "spa": {
 "content_id": "spa-t28-v1",
 "language": "spa",
+"title": "cornerstone"
+},
+"tpi": {
+"content_id": "tpi-t28-v1",
+"language": "tpi",
 "title": "cornerstone"
 }
 }
@@ -3401,6 +3507,11 @@
 "content_id": "spa-t29-v1",
 "language": "spa",
 "title": "covenant"
+},
+"tpi": {
+"content_id": "tpi-t29-v1",
+"language": "tpi",
+"title": "covenant"
 }
 }
 },
@@ -3449,6 +3560,11 @@
 "spa": {
 "content_id": "spa-t30-v1",
 "language": "spa",
+"title": "cross"
+},
+"tpi": {
+"content_id": "tpi-t30-v1",
+"language": "tpi",
 "title": "cross"
 }
 }
@@ -3499,6 +3615,11 @@
 "content_id": "spa-t31-v1",
 "language": "spa",
 "title": "curse"
+},
+"tpi": {
+"content_id": "tpi-t31-v1",
+"language": "tpi",
+"title": "curse"
 }
 }
 },
@@ -3548,6 +3669,11 @@
 "content_id": "spa-t33-v1",
 "language": "spa",
 "title": "david"
+},
+"tpi": {
+"content_id": "tpi-t33-v1",
+"language": "tpi",
+"title": "david"
 }
 }
 },
@@ -3596,6 +3722,11 @@
 "spa": {
 "content_id": "spa-t35-v1",
 "language": "spa",
+"title": "decapolis"
+},
+"tpi": {
+"content_id": "tpi-t35-v1",
+"language": "tpi",
 "title": "decapolis"
 }
 }
@@ -3651,6 +3782,11 @@
 "content_id": "spa-t36-v1",
 "language": "spa",
 "title": "demon"
+},
+"tpi": {
+"content_id": "tpi-t36-v1",
+"language": "tpi",
+"title": "demon"
 }
 }
 },
@@ -3704,6 +3840,11 @@
 "spa": {
 "content_id": "spa-t37-v1",
 "language": "spa",
+"title": "denarius"
+},
+"tpi": {
+"content_id": "tpi-t37-v1",
+"language": "tpi",
 "title": "denarius"
 }
 }
@@ -3759,6 +3900,11 @@
 "content_id": "spa-t38-v1",
 "language": "spa",
 "title": "desert"
+},
+"tpi": {
+"content_id": "tpi-t38-v1",
+"language": "tpi",
+"title": "desert"
 }
 }
 },
@@ -3813,6 +3959,11 @@
 "content_id": "spa-t39-v1",
 "language": "spa",
 "title": "discípulo"
+},
+"tpi": {
+"content_id": "tpi-t39-v1",
+"language": "tpi",
+"title": "disciple"
 }
 }
 },
@@ -3867,6 +4018,11 @@
 "content_id": "spa-t40-v1",
 "language": "spa",
 "title": "divorce"
+},
+"tpi": {
+"content_id": "tpi-t40-v1",
+"language": "tpi",
+"title": "divorce"
 }
 }
 },
@@ -3915,6 +4071,11 @@
 "spa": {
 "content_id": "spa-t41-v1",
 "language": "spa",
+"title": "donkey"
+},
+"tpi": {
+"content_id": "tpi-t41-v1",
+"language": "tpi",
 "title": "donkey"
 }
 }
@@ -3965,6 +4126,11 @@
 "content_id": "spa-t42-v1",
 "language": "spa",
 "title": "dove"
+},
+"tpi": {
+"content_id": "tpi-t42-v1",
+"language": "tpi",
+"title": "dove"
 }
 }
 },
@@ -4013,6 +4179,11 @@
 "spa": {
 "content_id": "spa-t43-v1",
 "language": "spa",
+"title": "elder"
+},
+"tpi": {
+"content_id": "tpi-t43-v1",
+"language": "tpi",
 "title": "elder"
 }
 }
@@ -4063,6 +4234,11 @@
 "content_id": "spa-t44-v1",
 "language": "spa",
 "title": "elijah"
+},
+"tpi": {
+"content_id": "tpi-t44-v1",
+"language": "tpi",
+"title": "elijah"
 }
 }
 },
@@ -4112,6 +4288,11 @@
 "content_id": "spa-t46-v1",
 "language": "spa",
 "title": "eternal-life"
+},
+"tpi": {
+"content_id": "tpi-t46-v1",
+"language": "tpi",
+"title": "eternal-life"
 }
 }
 },
@@ -4160,6 +4341,11 @@
 "spa": {
 "content_id": "spa-t47-v1",
 "language": "spa",
+"title": "evil-spirit"
+},
+"tpi": {
+"content_id": "tpi-t47-v1",
+"language": "tpi",
 "title": "evil-spirit"
 }
 }
@@ -4215,6 +4401,11 @@
 "content_id": "spa-t48-v1",
 "language": "spa",
 "title": "fe"
+},
+"tpi": {
+"content_id": "tpi-t48-v1",
+"language": "tpi",
+"title": "faith"
 }
 }
 },
@@ -4274,6 +4465,11 @@
 "content_id": "spa-t49-v1",
 "language": "spa",
 "title": "fasting"
+},
+"tpi": {
+"content_id": "tpi-t49-v1",
+"language": "tpi",
+"title": "fasting"
 }
 }
 },
@@ -4322,6 +4518,11 @@
 "spa": {
 "content_id": "spa-t51-v1",
 "language": "spa",
+"title": "fig-tree"
+},
+"tpi": {
+"content_id": "tpi-t51-v1",
+"language": "tpi",
 "title": "fig-tree"
 }
 }
@@ -4376,6 +4577,11 @@
 "spa": {
 "content_id": "spa-t52-v1",
 "language": "spa",
+"title": "fishing-net"
+},
+"tpi": {
+"content_id": "tpi-t52-v1",
+"language": "tpi",
 "title": "fishing-net"
 }
 }
@@ -4436,6 +4642,11 @@
 "content_id": "spa-t53-v1",
 "language": "spa",
 "title": "forgiveness"
+},
+"tpi": {
+"content_id": "tpi-t53-v1",
+"language": "tpi",
+"title": "forgiveness"
 }
 }
 },
@@ -4495,6 +4706,11 @@
 "content_id": "spa-t55-v1",
 "language": "spa",
 "title": "galilee"
+},
+"tpi": {
+"content_id": "tpi-t55-v1",
+"language": "tpi",
+"title": "galilee"
 }
 }
 },
@@ -4549,6 +4765,11 @@
 "content_id": "spa-t56-v1",
 "language": "spa",
 "title": "gentile"
+},
+"tpi": {
+"content_id": "tpi-t56-v1",
+"language": "tpi",
+"title": "gentile"
 }
 }
 },
@@ -4598,6 +4819,11 @@
 "content_id": "spa-t57-v2.1",
 "language": "spa",
 "title": "gerasenes"
+},
+"tpi": {
+"content_id": "tpi-t57-v2.1",
+"language": "tpi",
+"title": "gerasenes"
 }
 }
 },
@@ -4646,6 +4872,11 @@
 "spa": {
 "content_id": "spa-t58-v1",
 "language": "spa",
+"title": "glory"
+},
+"tpi": {
+"content_id": "tpi-t58-v1",
+"language": "tpi",
 "title": "glory"
 }
 }
@@ -4700,6 +4931,11 @@
 "spa": {
 "content_id": "spa-t60-v1",
 "language": "spa",
+"title": "gospel"
+},
+"tpi": {
+"content_id": "tpi-t60-v1",
+"language": "tpi",
 "title": "gospel"
 }
 }
@@ -4760,6 +4996,11 @@
 "content_id": "spa-t62-v1",
 "language": "spa",
 "title": "heal"
+},
+"tpi": {
+"content_id": "tpi-t62-v1",
+"language": "tpi",
+"title": "heal"
 }
 }
 },
@@ -4819,6 +5060,11 @@
 "content_id": "spa-t63-v1",
 "language": "spa",
 "title": "heaven"
+},
+"tpi": {
+"content_id": "tpi-t63-v1",
+"language": "tpi",
+"title": "heaven"
 }
 }
 },
@@ -4873,6 +5119,11 @@
 "content_id": "spa-t64-v1",
 "language": "spa",
 "title": "heir"
+},
+"tpi": {
+"content_id": "tpi-t64-v1",
+"language": "tpi",
+"title": "heir"
 }
 }
 },
@@ -4922,6 +5173,11 @@
 "content_id": "spa-t65-v1",
 "language": "spa",
 "title": "hell"
+},
+"tpi": {
+"content_id": "tpi-t65-v1",
+"language": "tpi",
+"title": "hell"
 }
 }
 },
@@ -4970,6 +5226,11 @@
 "spa": {
 "content_id": "spa-t66-v1",
 "language": "spa",
+"title": "herodian"
+},
+"tpi": {
+"content_id": "tpi-t66-v1",
+"language": "tpi",
 "title": "herodian"
 }
 }
@@ -5024,6 +5285,11 @@
 "spa": {
 "content_id": "spa-t67-v1",
 "language": "spa",
+"title": "holy"
+},
+"tpi": {
+"content_id": "tpi-t67-v1",
+"language": "tpi",
 "title": "holy"
 }
 }
@@ -5084,6 +5350,11 @@
 "content_id": "spa-t68-v1",
 "language": "spa",
 "title": "holy-spirit"
+},
+"tpi": {
+"content_id": "tpi-t68-v1",
+"language": "tpi",
+"title": "holy-spirit"
 }
 }
 },
@@ -5138,6 +5409,11 @@
 "content_id": "spa-t69-v1",
 "language": "spa",
 "title": "hosanna"
+},
+"tpi": {
+"content_id": "tpi-t69-v1",
+"language": "tpi",
+"title": "hosanna"
 }
 }
 },
@@ -5186,6 +5462,11 @@
 "spa": {
 "content_id": "spa-t70-v1",
 "language": "spa",
+"title": "household"
+},
+"tpi": {
+"content_id": "tpi-t70-v1",
+"language": "tpi",
 "title": "household"
 }
 }
@@ -5236,6 +5517,11 @@
 "content_id": "spa-t71-v1",
 "language": "spa",
 "title": "hypocrisy"
+},
+"tpi": {
+"content_id": "tpi-t71-v1",
+"language": "tpi",
+"title": "hypocrisy"
 }
 }
 },
@@ -5285,6 +5571,11 @@
 "content_id": "spa-t73-v1",
 "language": "spa",
 "title": "isaiah"
+},
+"tpi": {
+"content_id": "tpi-t73-v1",
+"language": "tpi",
+"title": "isaiah"
 }
 }
 },
@@ -5333,6 +5624,11 @@
 "spa": {
 "content_id": "spa-t75-v1",
 "language": "spa",
+"title": "james"
+},
+"tpi": {
+"content_id": "tpi-t75-v1",
+"language": "tpi",
 "title": "james"
 }
 }
@@ -5388,6 +5684,11 @@
 "content_id": "spa-t76-v1",
 "language": "spa",
 "title": "jerusalem"
+},
+"tpi": {
+"content_id": "tpi-t76-v1",
+"language": "tpi",
+"title": "jerusalem"
 }
 }
 },
@@ -5442,6 +5743,11 @@
 "content_id": "spa-t78-v1",
 "language": "spa",
 "title": "john"
+},
+"tpi": {
+"content_id": "tpi-t78-v1",
+"language": "tpi",
+"title": "john"
 }
 }
 },
@@ -5490,6 +5796,11 @@
 "spa": {
 "content_id": "spa-t79-v1",
 "language": "spa",
+"title": "john-the-baptist"
+},
+"tpi": {
+"content_id": "tpi-t79-v1",
+"language": "tpi",
 "title": "john-the-baptist"
 }
 }
@@ -5540,6 +5851,11 @@
 "content_id": "spa-t80-v1",
 "language": "spa",
 "title": "jordan-river"
+},
+"tpi": {
+"content_id": "tpi-t80-v1",
+"language": "tpi",
+"title": "jordan-river"
 }
 }
 },
@@ -5588,6 +5904,11 @@
 "spa": {
 "content_id": "spa-t81-v1",
 "language": "spa",
+"title": "judea"
+},
+"tpi": {
+"content_id": "tpi-t81-v1",
+"language": "tpi",
 "title": "judea"
 }
 }
@@ -5642,6 +5963,11 @@
 "spa": {
 "content_id": "spa-t82-v1",
 "language": "spa",
+"title": "kingdom-of-god"
+},
+"tpi": {
+"content_id": "tpi-t82-v1",
+"language": "tpi",
 "title": "kingdom-of-god"
 }
 }
@@ -5702,6 +6028,11 @@
 "content_id": "spa-t83-v1",
 "language": "spa",
 "title": "law"
+},
+"tpi": {
+"content_id": "tpi-t83-v1",
+"language": "tpi",
+"title": "law"
 }
 }
 },
@@ -5755,6 +6086,11 @@
 "spa": {
 "content_id": "spa-t84-v1",
 "language": "spa",
+"title": "legion"
+},
+"tpi": {
+"content_id": "tpi-t84-v1",
+"language": "tpi",
 "title": "legion"
 }
 }
@@ -5810,6 +6146,11 @@
 "content_id": "spa-t85-v1",
 "language": "spa",
 "title": "leprosy"
+},
+"tpi": {
+"content_id": "tpi-t85-v1",
+"language": "tpi",
+"title": "leprosy"
 }
 }
 },
@@ -5864,6 +6205,11 @@
 "content_id": "spa-t87-v1",
 "language": "spa",
 "title": "Señor"
+},
+"tpi": {
+"content_id": "tpi-t87-v1",
+"language": "tpi",
+"title": "lord"
 }
 }
 },
@@ -5918,6 +6264,11 @@
 "content_id": "spa-t88-v1",
 "language": "spa",
 "title": "Señor"
+},
+"tpi": {
+"content_id": "tpi-t88-v1",
+"language": "tpi",
+"title": "lord"
 }
 }
 },
@@ -5972,6 +6323,11 @@
 "content_id": "spa-t91-v1",
 "language": "spa",
 "title": "mercy"
+},
+"tpi": {
+"content_id": "tpi-t91-v1",
+"language": "tpi",
+"title": "mercy"
 }
 }
 },
@@ -6020,6 +6376,11 @@
 "spa": {
 "content_id": "spa-t92-v1",
 "language": "spa",
+"title": "messiah"
+},
+"tpi": {
+"content_id": "tpi-t92-v1",
+"language": "tpi",
 "title": "messiah"
 }
 }
@@ -6070,6 +6431,11 @@
 "content_id": "spa-t93-v1",
 "language": "spa",
 "title": "miracles"
+},
+"tpi": {
+"content_id": "tpi-t93-v1",
+"language": "tpi",
+"title": "miracles"
 }
 }
 },
@@ -6118,6 +6484,11 @@
 "spa": {
 "content_id": "spa-t94-v1",
 "language": "spa",
+"title": "nation"
+},
+"tpi": {
+"content_id": "tpi-t94-v1",
+"language": "tpi",
 "title": "nation"
 }
 }
@@ -6173,6 +6544,11 @@
 "content_id": "spa-t95-v1",
 "language": "spa",
 "title": "nazareth"
+},
+"tpi": {
+"content_id": "tpi-t95-v1",
+"language": "tpi",
+"title": "nazareth"
 }
 }
 },
@@ -6227,6 +6603,11 @@
 "content_id": "spa-t96-v1",
 "language": "spa",
 "title": "oath"
+},
+"tpi": {
+"content_id": "tpi-t96-v1",
+"language": "tpi",
+"title": "oath"
 }
 }
 },
@@ -6275,6 +6656,11 @@
 "spa": {
 "content_id": "spa-t97-v1",
 "language": "spa",
+"title": "oil-lamp"
+},
+"tpi": {
+"content_id": "tpi-t97-v1",
+"language": "tpi",
 "title": "oil-lamp"
 }
 }
@@ -6325,6 +6711,11 @@
 "content_id": "spa-t98-v1",
 "language": "spa",
 "title": "parable"
+},
+"tpi": {
+"content_id": "tpi-t98-v1",
+"language": "tpi",
+"title": "parable"
 }
 }
 },
@@ -6373,6 +6764,11 @@
 "spa": {
 "content_id": "spa-t100-v1",
 "language": "spa",
+"title": "pharisee"
+},
+"tpi": {
+"content_id": "tpi-t100-v1",
+"language": "tpi",
 "title": "pharisee"
 }
 }
@@ -6427,6 +6823,11 @@
 "spa": {
 "content_id": "spa-t101-v1",
 "language": "spa",
+"title": "possessed"
+},
+"tpi": {
+"content_id": "tpi-t101-v1",
+"language": "tpi",
 "title": "possessed"
 }
 }
@@ -6487,6 +6888,11 @@
 "content_id": "spa-t102-v1",
 "language": "spa",
 "title": "pray"
+},
+"tpi": {
+"content_id": "tpi-t102-v1",
+"language": "tpi",
+"title": "pray"
 }
 }
 },
@@ -6545,6 +6951,11 @@
 "spa": {
 "content_id": "spa-t103-v1",
 "language": "spa",
+"title": "priest"
+},
+"tpi": {
+"content_id": "tpi-t103-v1",
+"language": "tpi",
 "title": "priest"
 }
 }
@@ -6605,6 +7016,11 @@
 "content_id": "spa-t104-v1",
 "language": "spa",
 "title": "prophet"
+},
+"tpi": {
+"content_id": "tpi-t104-v1",
+"language": "tpi",
+"title": "prophet"
 }
 }
 },
@@ -6659,6 +7075,11 @@
 "content_id": "spa-t105-v1",
 "language": "spa",
 "title": "ransom"
+},
+"tpi": {
+"content_id": "tpi-t105-v1",
+"language": "tpi",
+"title": "ransom"
 }
 }
 },
@@ -6707,6 +7128,11 @@
 "spa": {
 "content_id": "spa-t106-v1",
 "language": "spa",
+"title": "rabbi"
+},
+"tpi": {
+"content_id": "tpi-t106-v1",
+"language": "tpi",
 "title": "rabbi"
 }
 }
@@ -6757,6 +7183,11 @@
 "content_id": "spa-t109-v1",
 "language": "spa",
 "title": "repentance"
+},
+"tpi": {
+"content_id": "tpi-t109-v1",
+"language": "tpi",
+"title": "repentance"
 }
 }
 },
@@ -6805,6 +7236,11 @@
 "spa": {
 "content_id": "spa-t110-v1",
 "language": "spa",
+"title": "resurrection"
+},
+"tpi": {
+"content_id": "tpi-t110-v1",
+"language": "tpi",
 "title": "resurrection"
 }
 }
@@ -6855,6 +7291,11 @@
 "content_id": "spa-t111-v1",
 "language": "spa",
 "title": "righteousness"
+},
+"tpi": {
+"content_id": "tpi-t111-v1",
+"language": "tpi",
+"title": "righteousness"
 }
 }
 },
@@ -6903,6 +7344,11 @@
 "spa": {
 "content_id": "spa-t112-v1",
 "language": "spa",
+"title": "robe"
+},
+"tpi": {
+"content_id": "tpi-t112-v1",
+"language": "tpi",
 "title": "robe"
 }
 }
@@ -6958,6 +7404,11 @@
 "content_id": "spa-t113-v1",
 "language": "spa",
 "title": "sabbath"
+},
+"tpi": {
+"content_id": "tpi-t113-v1",
+"language": "tpi",
+"title": "sabbath"
 }
 }
 },
@@ -7012,6 +7463,11 @@
 "content_id": "spa-t114-v1",
 "language": "spa",
 "title": "sacrifice"
+},
+"tpi": {
+"content_id": "tpi-t114-v1",
+"language": "tpi",
+"title": "sacrifice"
 }
 }
 },
@@ -7061,6 +7517,11 @@
 "content_id": "spa-t115-v1",
 "language": "spa",
 "title": "sadducee"
+},
+"tpi": {
+"content_id": "tpi-t115-v1",
+"language": "tpi",
+"title": "sadducee"
 }
 }
 },
@@ -7109,6 +7570,11 @@
 "spa": {
 "content_id": "spa-t116-v1",
 "language": "spa",
+"title": "salvation"
+},
+"tpi": {
+"content_id": "tpi-t116-v1",
+"language": "tpi",
 "title": "salvation"
 }
 }
@@ -7164,6 +7630,11 @@
 "content_id": "spa-t118-v1",
 "language": "spa",
 "title": "satan"
+},
+"tpi": {
+"content_id": "tpi-t118-v1",
+"language": "tpi",
+"title": "satan"
 }
 }
 },
@@ -7217,6 +7688,11 @@
 "spa": {
 "content_id": "spa-t120-v1",
 "language": "spa",
+"title": "scriptures"
+},
+"tpi": {
+"content_id": "tpi-t120-v1",
+"language": "tpi",
 "title": "scriptures"
 }
 }
@@ -7272,6 +7748,11 @@
 "content_id": "spa-t121-v1",
 "language": "spa",
 "title": "Mar de Galilea"
+},
+"tpi": {
+"content_id": "tpi-t121-v1",
+"language": "tpi",
+"title": "sea-of-galilee"
 }
 }
 },
@@ -7331,6 +7812,11 @@
 "content_id": "spa-t122-v1",
 "language": "spa",
 "title": "seed"
+},
+"tpi": {
+"content_id": "tpi-t122-v1",
+"language": "tpi",
+"title": "seed"
 }
 }
 },
@@ -7380,6 +7866,11 @@
 "content_id": "spa-t123-v2",
 "language": "spa",
 "title": "servant"
+},
+"tpi": {
+"content_id": "tpi-t123-v2",
+"language": "tpi",
+"title": "servant"
 }
 }
 },
@@ -7428,6 +7919,11 @@
 "spa": {
 "content_id": "spa-t124-v1",
 "language": "spa",
+"title": "shelter"
+},
+"tpi": {
+"content_id": "tpi-t124-v1",
+"language": "tpi",
 "title": "shelter"
 }
 }
@@ -7483,6 +7979,11 @@
 "content_id": "spa-t125-v1",
 "language": "spa",
 "title": "pecado"
+},
+"tpi": {
+"content_id": "tpi-t125-v1",
+"language": "tpi",
+"title": "sin"
 }
 }
 },
@@ -7542,6 +8043,11 @@
 "content_id": "spa-t126-v2",
 "language": "spa",
 "title": "slave"
+},
+"tpi": {
+"content_id": "tpi-t126-v2",
+"language": "tpi",
+"title": "slave"
 }
 }
 },
@@ -7591,6 +8097,11 @@
 "content_id": "spa-t127-v1",
 "language": "spa",
 "title": "son"
+},
+"tpi": {
+"content_id": "tpi-t127-v1",
+"language": "tpi",
+"title": "son"
 }
 }
 },
@@ -7639,6 +8150,11 @@
 "spa": {
 "content_id": "spa-t128-v1",
 "language": "spa",
+"title": "son-of-david"
+},
+"tpi": {
+"content_id": "tpi-t128-v1",
+"language": "tpi",
 "title": "son-of-david"
 }
 }
@@ -7694,6 +8210,11 @@
 "content_id": "spa-t129-v1",
 "language": "spa",
 "title": "son-of-god"
+},
+"tpi": {
+"content_id": "tpi-t129-v1",
+"language": "tpi",
+"title": "son-of-god"
 }
 }
 },
@@ -7748,6 +8269,11 @@
 "content_id": "spa-t130-v1",
 "language": "spa",
 "title": "son-of-man"
+},
+"tpi": {
+"content_id": "tpi-t130-v1",
+"language": "tpi",
+"title": "son-of-man"
 }
 }
 },
@@ -7796,6 +8322,11 @@
 "spa": {
 "content_id": "spa-t131-v1",
 "language": "spa",
+"title": "soul"
+},
+"tpi": {
+"content_id": "tpi-t131-v1",
+"language": "tpi",
 "title": "soul"
 }
 }
@@ -7846,6 +8377,11 @@
 "content_id": "spa-t132-v1",
 "language": "spa",
 "title": "spirit"
+},
+"tpi": {
+"content_id": "tpi-t132-v1",
+"language": "tpi",
+"title": "spirit"
 }
 }
 },
@@ -7894,6 +8430,11 @@
 "spa": {
 "content_id": "spa-t133-v1",
 "language": "spa",
+"title": "synagogue"
+},
+"tpi": {
+"content_id": "tpi-t133-v1",
+"language": "tpi",
 "title": "synagogue"
 }
 }
@@ -7944,6 +8485,11 @@
 "content_id": "spa-t134-v1",
 "language": "spa",
 "title": "synagogue-ruler"
+},
+"tpi": {
+"content_id": "tpi-t134-v1",
+"language": "tpi",
+"title": "synagogue-ruler"
 }
 }
 },
@@ -7993,6 +8539,11 @@
 "content_id": "spa-t135-v1",
 "language": "spa",
 "title": "syrian-phoenicia"
+},
+"tpi": {
+"content_id": "tpi-t135-v1",
+"language": "tpi",
+"title": "syrian-phoenicia"
 }
 }
 },
@@ -8041,6 +8592,11 @@
 "spa": {
 "content_id": "spa-t136-v1",
 "language": "spa",
+"title": "teacher"
+},
+"tpi": {
+"content_id": "tpi-t136-v1",
+"language": "tpi",
 "title": "teacher"
 }
 }
@@ -8096,6 +8652,11 @@
 "content_id": "spa-t137-v1",
 "language": "spa",
 "title": "teachers-of-the-law"
+},
+"tpi": {
+"content_id": "tpi-t137-v1",
+"language": "tpi",
+"title": "teachers-of-the-law"
 }
 }
 },
@@ -8150,6 +8711,11 @@
 "content_id": "spa-t138-v1",
 "language": "spa",
 "title": "temple"
+},
+"tpi": {
+"content_id": "tpi-t138-v1",
+"language": "tpi",
+"title": "temple"
 }
 }
 },
@@ -8198,6 +8764,11 @@
 "spa": {
 "content_id": "spa-t139-v1",
 "language": "spa",
+"title": "tenants"
+},
+"tpi": {
+"content_id": "tpi-t139-v1",
+"language": "tpi",
 "title": "tenants"
 }
 }
@@ -8248,6 +8819,11 @@
 "content_id": "spa-t140-v1",
 "language": "spa",
 "title": "tomb"
+},
+"tpi": {
+"content_id": "tpi-t140-v1",
+"language": "tpi",
+"title": "tomb"
 }
 }
 },
@@ -8296,6 +8872,11 @@
 "spa": {
 "content_id": "spa-t141-v1",
 "language": "spa",
+"title": "tyre"
+},
+"tpi": {
+"content_id": "tpi-t141-v1",
+"language": "tpi",
 "title": "tyre"
 }
 }
@@ -8346,6 +8927,11 @@
 "content_id": "spa-t142-v1",
 "language": "spa",
 "title": "vineyard"
+},
+"tpi": {
+"content_id": "tpi-t142-v1",
+"language": "tpi",
+"title": "vineyard"
 }
 }
 },
@@ -8394,6 +8980,11 @@
 "spa": {
 "content_id": "spa-t144-v1",
 "language": "spa",
+"title": "watchtower"
+},
+"tpi": {
+"content_id": "tpi-t144-v1",
+"language": "tpi",
 "title": "watchtower"
 }
 }
@@ -8444,6 +9035,11 @@
 "content_id": "spa-t145-v1",
 "language": "spa",
 "title": "wilderness"
+},
+"tpi": {
+"content_id": "tpi-t145-v1",
+"language": "tpi",
+"title": "wilderness"
 }
 }
 },
@@ -8492,6 +9088,11 @@
 "spa": {
 "content_id": "spa-t146-v1",
 "language": "spa",
+"title": "winepress"
+},
+"tpi": {
+"content_id": "tpi-t146-v1",
+"language": "tpi",
 "title": "winepress"
 }
 }
@@ -8542,6 +9143,11 @@
 "content_id": "spa-t147-v1",
 "language": "spa",
 "title": "wisdom"
+},
+"tpi": {
+"content_id": "tpi-t147-v1",
+"language": "tpi",
+"title": "wisdom"
 }
 }
 },
@@ -8590,6 +9196,11 @@
 "spa": {
 "content_id": "spa-t148-v1",
 "language": "spa",
+"title": "word"
+},
+"tpi": {
+"content_id": "tpi-t148-v1",
+"language": "tpi",
 "title": "word"
 }
 }
@@ -8640,6 +9251,11 @@
 "content_id": "spa-t150-v1",
 "language": "spa",
 "title": "heart"
+},
+"tpi": {
+"content_id": "tpi-t150-v1",
+"language": "tpi",
+"title": "heart"
 }
 }
 },
@@ -8688,6 +9304,11 @@
 "spa": {
 "content_id": "spa-t151-v1",
 "language": "spa",
+"title": "mind"
+},
+"tpi": {
+"content_id": "tpi-t151-v1",
+"language": "tpi",
 "title": "mind"
 }
 }
@@ -8738,6 +9359,11 @@
 "content_id": "spa-t152-v1",
 "language": "spa",
 "title": "strength"
+},
+"tpi": {
+"content_id": "tpi-t152-v1",
+"language": "tpi",
+"title": "strength"
 }
 }
 },
@@ -8786,6 +9412,11 @@
 "spa": {
 "content_id": "spa-t154-v1",
 "language": "spa",
+"title": "burnt-offering"
+},
+"tpi": {
+"content_id": "tpi-t154-v1",
+"language": "tpi",
 "title": "burnt-offering"
 }
 }
@@ -8836,6 +9467,11 @@
 "content_id": "spa-t155-v1",
 "language": "spa",
 "title": "scribe"
+},
+"tpi": {
+"content_id": "tpi-t155-v1",
+"language": "tpi",
+"title": "scribe"
 }
 }
 },
@@ -8884,6 +9520,11 @@
 "spa": {
 "content_id": "spa-t156-v1",
 "language": "spa",
+"title": "sign"
+},
+"tpi": {
+"content_id": "tpi-t156-v1",
+"language": "tpi",
 "title": "sign"
 }
 }
@@ -8934,6 +9575,11 @@
 "content_id": "spa-t157-v1",
 "language": "spa",
 "title": "kingdom"
+},
+"tpi": {
+"content_id": "tpi-t157-v1",
+"language": "tpi",
+"title": "kingdom"
 }
 }
 },
@@ -8983,6 +9629,11 @@
 "content_id": "spa-t160-v1",
 "language": "spa",
 "title": "buenas nuevas"
+},
+"tpi": {
+"content_id": "tpi-t160-v1",
+"language": "tpi",
+"title": "good-news"
 }
 }
 },
@@ -9037,6 +9688,11 @@
 "content_id": "spa-t162-v1",
 "language": "spa",
 "title": "passover"
+},
+"tpi": {
+"content_id": "tpi-t162-v1",
+"language": "tpi",
+"title": "passover"
 }
 }
 },
@@ -9085,6 +9741,11 @@
 "spa": {
 "content_id": "spa-t164-v1",
 "language": "spa",
+"title": "festival-of-unleavened-bread"
+},
+"tpi": {
+"content_id": "tpi-t164-v1",
+"language": "tpi",
 "title": "festival-of-unleavened-bread"
 }
 }
@@ -9135,6 +9796,11 @@
 "content_id": "spa-t165-v1",
 "language": "spa",
 "title": "hymn"
+},
+"tpi": {
+"content_id": "tpi-t165-v1",
+"language": "tpi",
+"title": "hymn"
 }
 }
 },
@@ -9183,6 +9849,11 @@
 "spa": {
 "content_id": "spa-t166-v1",
 "language": "spa",
+"title": "shepherd"
+},
+"tpi": {
+"content_id": "tpi-t166-v1",
+"language": "tpi",
 "title": "shepherd"
 }
 }
@@ -9233,6 +9904,11 @@
 "content_id": "spa-t167-v1",
 "language": "spa",
 "title": "abba"
+},
+"tpi": {
+"content_id": "tpi-t167-v1",
+"language": "tpi",
+"title": "abba"
 }
 }
 },
@@ -9281,6 +9957,11 @@
 "spa": {
 "content_id": "spa-t168-v1",
 "language": "spa",
+"title": "sanhedrin"
+},
+"tpi": {
+"content_id": "tpi-t168-v1",
+"language": "tpi",
 "title": "sanhedrin"
 }
 }
@@ -9331,6 +10012,11 @@
 "content_id": "spa-t169-v1",
 "language": "spa",
 "title": "crucifixion"
+},
+"tpi": {
+"content_id": "tpi-t169-v1",
+"language": "tpi",
+"title": "crucifixion"
 }
 }
 },
@@ -9379,6 +10065,11 @@
 "spa": {
 "content_id": "spa-t170-v1",
 "language": "spa",
+"title": "centurion"
+},
+"tpi": {
+"content_id": "tpi-t170-v1",
+"language": "tpi",
 "title": "centurion"
 }
 }
@@ -9429,6 +10120,11 @@
 "content_id": "spa-t171-v1",
 "language": "spa",
 "title": "anoint"
+},
+"tpi": {
+"content_id": "tpi-t171-v1",
+"language": "tpi",
+"title": "anoint"
 }
 }
 },
@@ -9477,6 +10173,11 @@
 "spa": {
 "content_id": "spa-t173-v1",
 "language": "spa",
+"title": "generations"
+},
+"tpi": {
+"content_id": "tpi-t173-v1",
+"language": "tpi",
 "title": "generations"
 }
 }
@@ -9527,6 +10228,11 @@
 "content_id": "spa-t180-v2",
 "language": "spa",
 "title": "tunic"
+},
+"tpi": {
+"content_id": "tpi-t180-v2",
+"language": "tpi",
+"title": "tunic"
 }
 }
 },
@@ -9575,6 +10281,11 @@
 "spa": {
 "content_id": "spa-t181-v1",
 "language": "spa",
+"title": "devil"
+},
+"tpi": {
+"content_id": "tpi-t181-v1",
+"language": "tpi",
 "title": "devil"
 }
 }
@@ -9625,6 +10336,11 @@
 "content_id": "spa-t183-v1",
 "language": "spa",
 "title": "house-of-god"
+},
+"tpi": {
+"content_id": "tpi-t183-v1",
+"language": "tpi",
+"title": "house-of-god"
 }
 }
 },
@@ -9673,6 +10389,11 @@
 "spa": {
 "content_id": "spa-t184-v1",
 "language": "spa",
+"title": "tabernacle"
+},
+"tpi": {
+"content_id": "tpi-t184-v1",
+"language": "tpi",
 "title": "tabernacle"
 }
 }
@@ -9723,6 +10444,11 @@
 "content_id": "spa-t187-v1",
 "language": "spa",
 "title": "evil"
+},
+"tpi": {
+"content_id": "tpi-t187-v1",
+"language": "tpi",
+"title": "evil"
 }
 }
 },
@@ -9771,6 +10497,11 @@
 "spa": {
 "content_id": "spa-t189-v1",
 "language": "spa",
+"title": "god"
+},
+"tpi": {
+"content_id": "tpi-t189-v1",
+"language": "tpi",
 "title": "god"
 }
 }
@@ -9826,6 +10557,11 @@
 "content_id": "spa-t194-v1",
 "language": "spa",
 "title": "offering"
+},
+"tpi": {
+"content_id": "tpi-t194-v1",
+"language": "tpi",
+"title": "offering"
 }
 }
 },
@@ -9880,6 +10616,11 @@
 "content_id": "spa-t199-v1",
 "language": "spa",
 "title": "glorify"
+},
+"tpi": {
+"content_id": "tpi-t199-v1",
+"language": "tpi",
+"title": "glorify"
 }
 }
 },
@@ -9928,6 +10669,11 @@
 "spa": {
 "content_id": "spa-t200-v1",
 "language": "spa",
+"title": "prophecy"
+},
+"tpi": {
+"content_id": "tpi-t200-v1",
+"language": "tpi",
 "title": "prophecy"
 }
 }
@@ -9983,6 +10729,11 @@
 "content_id": "spa-t205-v1",
 "language": "spa",
 "title": "compassion"
+},
+"tpi": {
+"content_id": "tpi-t205-v1",
+"language": "tpi",
+"title": "compassion"
 }
 }
 },
@@ -10037,6 +10788,11 @@
 "content_id": "spa-t211-v1",
 "language": "spa",
 "title": "greeks"
+},
+"tpi": {
+"content_id": "tpi-t211-v1",
+"language": "tpi",
+"title": "greeks"
 }
 }
 },
@@ -10085,6 +10841,11 @@
 "spa": {
 "content_id": "spa-t213-v1",
 "language": "spa",
+"title": "tongues"
+},
+"tpi": {
+"content_id": "tpi-t213-v1",
+"language": "tpi",
 "title": "tongues"
 }
 }
@@ -10135,6 +10896,11 @@
 "content_id": "spa-t215-v1",
 "language": "spa",
 "title": "wickedness"
+},
+"tpi": {
+"content_id": "tpi-t215-v1",
+"language": "tpi",
+"title": "wickedness"
 }
 }
 },
@@ -10184,6 +10950,11 @@
 "content_id": "spa-t226-v2",
 "language": "spa",
 "title": "king"
+},
+"tpi": {
+"content_id": "tpi-t226-v2",
+"language": "tpi",
+"title": "king"
 }
 }
 },
@@ -10232,6 +11003,11 @@
 "spa": {
 "content_id": "spa-t236-v1",
 "language": "spa",
+"title": "amen"
+},
+"tpi": {
+"content_id": "tpi-t236-v1",
+"language": "tpi",
 "title": "amen"
 }
 }

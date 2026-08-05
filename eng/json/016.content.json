@@ -873,6 +873,12 @@
 "end_ref_usfm": "LEV 6:7"
 },
 {
+"start_ref": "03026006",
+"start_ref_usfm": "LEV 26:6",
+"end_ref": "03026013",
+"end_ref_usfm": "LEV 26:13"
+},
+{
 "start_ref": "04006022",
 "start_ref_usfm": "NUM 6:22",
 "end_ref": "04006027",
@@ -1478,6 +1484,12 @@
 "start_ref_usfm": "LEV 5:14",
 "end_ref": "03006007",
 "end_ref_usfm": "LEV 6:7"
+},
+{
+"start_ref": "03026006",
+"start_ref_usfm": "LEV 26:6",
+"end_ref": "03026013",
+"end_ref_usfm": "LEV 26:13"
 },
 {
 "start_ref": "04006022",
@@ -3895,6 +3907,51 @@
 }
 },
 {
+"content_id": "eng-t284-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "poet",
+"media_type": "Text",
+"index_reference": "poet",
+"language": "eng",
+"review_level": "None",
+"content": "<p><strong>t284: poet</strong></p><p>Poets are people who use words in beautiful and creative ways. Poets speak, write, or sing interesting, important, and wise messages in a meaningful way. Poets create messages called poems. When poets create poems, they use a special style called poetry or poetic style. Poets choose their words carefully and arrange these words in special ways that sound good to people in their community. The poet also follows his culture's rules for creating good poems. Poets want their poems to make the listener feel certain emotions or think more deeply about an idea.</p><p>People in different cultures have different ideas about what makes a poem beautiful. Because of this, poets around the world create poems in many different ways.</p><p>The Israelites spoke Hebrew. We sometimes refer to the culture and language of the Israelites as the \"Hebrew\" culture. In the Hebrew language, the Israelites use the same word for both poems and songs. Poems and songs are very similar, so we can call them poem-songs. In Hebrew culture, people sometimes sang poems, and sometimes spoke the poems out loud. Hebrew poets also created proverbs, which are short, wise sayings. Prophets sometimes spoke God's messages using poetry.</p><p>There are four main kinds of Hebrew poems: worship poem-songs, love poem-songs, teaching or wisdom poem-songs, and prophetic poem-songs. To learn more about poetry in general, listen to \"Poetry Introduction Module 1.\" To learn more about the rules of Hebrew poetry, listen to \"Poetry Introduction Modules 2 and 3.\"</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04021027",
+"start_ref_usfm": "NUM 21:27",
+"end_ref": "04021030",
+"end_ref_usfm": "NUM 21:30"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "eng-t284-v1-audio",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "poet",
+"media_type": "Audio",
+"index_reference": "poet",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t284/v1/vbr4.mp3'>mp3 file</a> (1123893 KB)</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04021027",
+"start_ref_usfm": "NUM 21:27",
+"end_ref": "04021030",
+"end_ref_usfm": "NUM 21:30"
+}
+],
+"resource": []
+}
+},
+{
 "content_id": "eng-t101-v1",
 "reference_id": 0,
 "version": "1.0.4",
@@ -4168,6 +4225,24 @@
 "end_ref_usfm": "2CH 2:18"
 },
 {
+"start_ref": "14005002",
+"start_ref_usfm": "2CH 5:2",
+"end_ref": "14005014",
+"end_ref_usfm": "2CH 5:14"
+},
+{
+"start_ref": "14006001",
+"start_ref_usfm": "2CH 6:1",
+"end_ref": "14006011",
+"end_ref_usfm": "2CH 6:11"
+},
+{
+"start_ref": "14006022",
+"start_ref_usfm": "2CH 6:22",
+"end_ref": "14006039",
+"end_ref_usfm": "2CH 6:39"
+},
+{
 "start_ref": "14007004",
 "start_ref_usfm": "2CH 7:4",
 "end_ref": "14007010",
@@ -4427,6 +4502,24 @@
 "end_ref_usfm": "2CH 2:18"
 },
 {
+"start_ref": "14005002",
+"start_ref_usfm": "2CH 5:2",
+"end_ref": "14005014",
+"end_ref_usfm": "2CH 5:14"
+},
+{
+"start_ref": "14006001",
+"start_ref_usfm": "2CH 6:1",
+"end_ref": "14006011",
+"end_ref_usfm": "2CH 6:11"
+},
+{
+"start_ref": "14006022",
+"start_ref_usfm": "2CH 6:22",
+"end_ref": "14006039",
+"end_ref_usfm": "2CH 6:39"
+},
+{
 "start_ref": "14007004",
 "start_ref_usfm": "2CH 7:4",
 "end_ref": "14007010",
@@ -4663,6 +4756,24 @@
 "start_ref_usfm": "1CH 5:18",
 "end_ref": "13005026",
 "end_ref_usfm": "1CH 5:26"
+},
+{
+"start_ref": "14006012",
+"start_ref_usfm": "2CH 6:12",
+"end_ref": "14006021",
+"end_ref_usfm": "2CH 6:21"
+},
+{
+"start_ref": "14006022",
+"start_ref_usfm": "2CH 6:22",
+"end_ref": "14006039",
+"end_ref_usfm": "2CH 6:39"
+},
+{
+"start_ref": "14006040",
+"start_ref_usfm": "2CH 6:40",
+"end_ref": "14007003",
+"end_ref_usfm": "2CH 7:3"
 },
 {
 "start_ref": "14007011",
@@ -5198,6 +5309,24 @@
 "start_ref_usfm": "1CH 5:18",
 "end_ref": "13005026",
 "end_ref_usfm": "1CH 5:26"
+},
+{
+"start_ref": "14006012",
+"start_ref_usfm": "2CH 6:12",
+"end_ref": "14006021",
+"end_ref_usfm": "2CH 6:21"
+},
+{
+"start_ref": "14006022",
+"start_ref_usfm": "2CH 6:22",
+"end_ref": "14006039",
+"end_ref_usfm": "2CH 6:39"
+},
+{
+"start_ref": "14006040",
+"start_ref_usfm": "2CH 6:40",
+"end_ref": "14007003",
+"end_ref_usfm": "2CH 7:3"
 },
 {
 "start_ref": "14007011",
@@ -5960,6 +6089,24 @@
 "end_ref_usfm": "LEV 23:22"
 },
 {
+"start_ref": "03027001",
+"start_ref_usfm": "LEV 27:1",
+"end_ref": "03027008",
+"end_ref_usfm": "LEV 27:8"
+},
+{
+"start_ref": "03027009",
+"start_ref_usfm": "LEV 27:9",
+"end_ref": "03027015",
+"end_ref_usfm": "LEV 27:15"
+},
+{
+"start_ref": "03027016",
+"start_ref_usfm": "LEV 27:16",
+"end_ref": "03027025",
+"end_ref_usfm": "LEV 27:25"
+},
+{
 "start_ref": "04003001",
 "start_ref_usfm": "NUM 3:1",
 "end_ref": "04003013",
@@ -6174,24 +6321,6 @@
 "start_ref_usfm": "JOS 14:1",
 "end_ref": "06014015",
 "end_ref_usfm": "JOS 14:15"
-},
-{
-"start_ref": "06017001",
-"start_ref_usfm": "JOS 17:1",
-"end_ref": "06017013",
-"end_ref_usfm": "JOS 17:13"
-},
-{
-"start_ref": "06018001",
-"start_ref_usfm": "JOS 18:1",
-"end_ref": "06018010",
-"end_ref_usfm": "JOS 18:10"
-},
-{
-"start_ref": "06019049",
-"start_ref_usfm": "JOS 19:49",
-"end_ref": "06019051",
-"end_ref_usfm": "JOS 19:51"
 }
 ],
 "resource": [],
@@ -6577,6 +6706,24 @@
 "end_ref_usfm": "LEV 23:22"
 },
 {
+"start_ref": "03027001",
+"start_ref_usfm": "LEV 27:1",
+"end_ref": "03027008",
+"end_ref_usfm": "LEV 27:8"
+},
+{
+"start_ref": "03027009",
+"start_ref_usfm": "LEV 27:9",
+"end_ref": "03027015",
+"end_ref_usfm": "LEV 27:15"
+},
+{
+"start_ref": "03027016",
+"start_ref_usfm": "LEV 27:16",
+"end_ref": "03027025",
+"end_ref_usfm": "LEV 27:25"
+},
+{
 "start_ref": "04003001",
 "start_ref_usfm": "NUM 3:1",
 "end_ref": "04003013",
@@ -6791,24 +6938,6 @@
 "start_ref_usfm": "JOS 14:1",
 "end_ref": "06014015",
 "end_ref_usfm": "JOS 14:15"
-},
-{
-"start_ref": "06017001",
-"start_ref_usfm": "JOS 17:1",
-"end_ref": "06017013",
-"end_ref_usfm": "JOS 17:13"
-},
-{
-"start_ref": "06018001",
-"start_ref_usfm": "JOS 18:1",
-"end_ref": "06018010",
-"end_ref_usfm": "JOS 18:10"
-},
-{
-"start_ref": "06019049",
-"start_ref_usfm": "JOS 19:49",
-"end_ref": "06019051",
-"end_ref_usfm": "JOS 19:51"
 }
 ],
 "resource": []
@@ -7490,6 +7619,30 @@
 "end_ref_usfm": "2KI 1:18"
 },
 {
+"start_ref": "12002001",
+"start_ref_usfm": "2KI 2:1",
+"end_ref": "12002012",
+"end_ref_usfm": "2KI 2:12"
+},
+{
+"start_ref": "12002013",
+"start_ref_usfm": "2KI 2:13",
+"end_ref": "12002025",
+"end_ref_usfm": "2KI 2:25"
+},
+{
+"start_ref": "12003010",
+"start_ref_usfm": "2KI 3:10",
+"end_ref": "12003019",
+"end_ref_usfm": "2KI 3:19"
+},
+{
+"start_ref": "12004001",
+"start_ref_usfm": "2KI 4:1",
+"end_ref": "12004007",
+"end_ref_usfm": "2KI 4:7"
+},
+{
 "start_ref": "13009017",
 "start_ref_usfm": "1CH 9:17",
 "end_ref": "13009027",
@@ -7782,30 +7935,6 @@
 "start_ref_usfm": "MAT 17:1",
 "end_ref": "40017013",
 "end_ref_usfm": "MAT 17:13"
-},
-{
-"start_ref": "40021001",
-"start_ref_usfm": "MAT 21:1",
-"end_ref": "40021011",
-"end_ref_usfm": "MAT 21:11"
-},
-{
-"start_ref": "40021033",
-"start_ref_usfm": "MAT 21:33",
-"end_ref": "40021046",
-"end_ref_usfm": "MAT 21:46"
-},
-{
-"start_ref": "40022034",
-"start_ref_usfm": "MAT 22:34",
-"end_ref": "40022046",
-"end_ref_usfm": "MAT 22:46"
-},
-{
-"start_ref": "40023029",
-"start_ref_usfm": "MAT 23:29",
-"end_ref": "40023036",
-"end_ref_usfm": "MAT 23:36"
 }
 ],
 "resource": [],
@@ -8107,6 +8236,30 @@
 "end_ref_usfm": "2KI 1:18"
 },
 {
+"start_ref": "12002001",
+"start_ref_usfm": "2KI 2:1",
+"end_ref": "12002012",
+"end_ref_usfm": "2KI 2:12"
+},
+{
+"start_ref": "12002013",
+"start_ref_usfm": "2KI 2:13",
+"end_ref": "12002025",
+"end_ref_usfm": "2KI 2:25"
+},
+{
+"start_ref": "12003010",
+"start_ref_usfm": "2KI 3:10",
+"end_ref": "12003019",
+"end_ref_usfm": "2KI 3:19"
+},
+{
+"start_ref": "12004001",
+"start_ref_usfm": "2KI 4:1",
+"end_ref": "12004007",
+"end_ref_usfm": "2KI 4:7"
+},
+{
 "start_ref": "13009017",
 "start_ref_usfm": "1CH 9:17",
 "end_ref": "13009027",
@@ -8399,30 +8552,6 @@
 "start_ref_usfm": "MAT 17:1",
 "end_ref": "40017013",
 "end_ref_usfm": "MAT 17:13"
-},
-{
-"start_ref": "40021001",
-"start_ref_usfm": "MAT 21:1",
-"end_ref": "40021011",
-"end_ref_usfm": "MAT 21:11"
-},
-{
-"start_ref": "40021033",
-"start_ref_usfm": "MAT 21:33",
-"end_ref": "40021046",
-"end_ref_usfm": "MAT 21:46"
-},
-{
-"start_ref": "40022034",
-"start_ref_usfm": "MAT 22:34",
-"end_ref": "40022046",
-"end_ref_usfm": "MAT 22:46"
-},
-{
-"start_ref": "40023029",
-"start_ref_usfm": "MAT 23:29",
-"end_ref": "40023036",
-"end_ref_usfm": "MAT 23:36"
 }
 ],
 "resource": []
@@ -8797,6 +8926,12 @@
 "end_ref_usfm": "2CH 29:30"
 },
 {
+"start_ref": "14034001",
+"start_ref_usfm": "2CH 34:1",
+"end_ref": "14034007",
+"end_ref_usfm": "2CH 34:7"
+},
+{
 "start_ref": "14034008",
 "start_ref_usfm": "2CH 34:8",
 "end_ref": "14034021",
@@ -8962,6 +9097,12 @@
 "start_ref_usfm": "2CH 29:18",
 "end_ref": "14029030",
 "end_ref_usfm": "2CH 29:30"
+},
+{
+"start_ref": "14034001",
+"start_ref_usfm": "2CH 34:1",
+"end_ref": "14034007",
+"end_ref_usfm": "2CH 34:7"
 },
 {
 "start_ref": "14034008",

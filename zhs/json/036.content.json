@@ -179,6 +179,12 @@
 "end_ref_usfm": "1CH 16:36"
 },
 {
+"start_ref": "14006040",
+"start_ref_usfm": "2CH 6:40",
+"end_ref": "14007003",
+"end_ref_usfm": "2CH 7:3"
+},
+{
 "start_ref": "14020013",
 "start_ref_usfm": "2CH 20:13",
 "end_ref": "14020019",
@@ -442,7 +448,7 @@
 {
 "id": "keyterm:Salvation",
 "type": "keyterm",
-"confidence": 0.597,
+"confidence": 0.5973,
 "match_method": "scored",
 "preferred_label": "Salvation"
 }
@@ -514,6 +520,12 @@
 "start_ref_usfm": "1CH 16:34",
 "end_ref": "13016036",
 "end_ref_usfm": "1CH 16:36"
+},
+{
+"start_ref": "14006040",
+"start_ref_usfm": "2CH 6:40",
+"end_ref": "14007003",
+"end_ref_usfm": "2CH 7:3"
 },
 {
 "start_ref": "14020013",

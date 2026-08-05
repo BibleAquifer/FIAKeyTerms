@@ -710,14 +710,14 @@
 {
 "id": "place:Canaan",
 "type": "place",
-"confidence": 0.6513,
+"confidence": 0.6508,
 "match_method": "scored",
 "preferred_label": "Cananeo"
 },
 {
 "id": "group:Canaan",
 "type": "group",
-"confidence": 0.6276,
+"confidence": 0.6268,
 "match_method": "scored",
 "preferred_label": "cananeo"
 }
@@ -963,7 +963,7 @@
 {
 "id": "realia:WingedCreature",
 "type": "realia",
-"confidence": 0.6118,
+"confidence": 0.6115,
 "match_method": "scored",
 "preferred_label": "Winged Creature"
 }
@@ -2179,7 +2179,7 @@
 {
 "id": "keyterm:Circumcision",
 "type": "keyterm",
-"confidence": 0.6015,
+"confidence": 0.5988,
 "match_method": "scored",
 "preferred_label": "Circumcision"
 }
@@ -3085,7 +3085,7 @@
 {
 "id": "keyterm:Commandment",
 "type": "keyterm",
-"confidence": 0.5718,
+"confidence": 0.5714,
 "match_method": "scored",
 "preferred_label": "mandamiento"
 }
@@ -4003,7 +4003,7 @@
 {
 "id": "keyterm:Covenant",
 "type": "keyterm",
-"confidence": 0.5884,
+"confidence": 0.5889,
 "match_method": "scored",
 "preferred_label": "pacto"
 }

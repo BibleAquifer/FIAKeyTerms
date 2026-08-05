@@ -1602,6 +1602,18 @@
 "end_ref_usfm": "LEV 19:37"
 },
 {
+"start_ref": "03025008",
+"start_ref_usfm": "LEV 25:8",
+"end_ref": "03025022",
+"end_ref_usfm": "LEV 25:22"
+},
+{
+"start_ref": "03025035",
+"start_ref_usfm": "LEV 25:35",
+"end_ref": "03025046",
+"end_ref_usfm": "LEV 25:46"
+},
+{
 "start_ref": "05005028",
 "start_ref_usfm": "DEU 5:28",
 "end_ref": "05005033",
@@ -1686,6 +1698,12 @@
 "end_ref_usfm": "1KI 18:15"
 },
 {
+"start_ref": "12004001",
+"start_ref_usfm": "2KI 4:1",
+"end_ref": "12004007",
+"end_ref_usfm": "2KI 4:7"
+},
+{
 "start_ref": "13014008",
 "start_ref_usfm": "1CH 14:8",
 "end_ref": "13014017",
@@ -1696,6 +1714,12 @@
 "start_ref_usfm": "1CH 16:23",
 "end_ref": "13016033",
 "end_ref_usfm": "1CH 16:33"
+},
+{
+"start_ref": "14006022",
+"start_ref_usfm": "2CH 6:22",
+"end_ref": "14006039",
+"end_ref_usfm": "2CH 6:39"
 },
 {
 "start_ref": "14017010",
@@ -1933,6 +1957,18 @@
 "end_ref_usfm": "LEV 19:37"
 },
 {
+"start_ref": "03025008",
+"start_ref_usfm": "LEV 25:8",
+"end_ref": "03025022",
+"end_ref_usfm": "LEV 25:22"
+},
+{
+"start_ref": "03025035",
+"start_ref_usfm": "LEV 25:35",
+"end_ref": "03025046",
+"end_ref_usfm": "LEV 25:46"
+},
+{
 "start_ref": "05005028",
 "start_ref_usfm": "DEU 5:28",
 "end_ref": "05005033",
@@ -2017,6 +2053,12 @@
 "end_ref_usfm": "1KI 18:15"
 },
 {
+"start_ref": "12004001",
+"start_ref_usfm": "2KI 4:1",
+"end_ref": "12004007",
+"end_ref_usfm": "2KI 4:7"
+},
+{
 "start_ref": "13014008",
 "start_ref_usfm": "1CH 14:8",
 "end_ref": "13014017",
@@ -2027,6 +2069,12 @@
 "start_ref_usfm": "1CH 16:23",
 "end_ref": "13016033",
 "end_ref_usfm": "1CH 16:33"
+},
+{
+"start_ref": "14006022",
+"start_ref_usfm": "2CH 6:22",
+"end_ref": "14006039",
+"end_ref_usfm": "2CH 6:39"
 },
 {
 "start_ref": "14017010",
@@ -2395,6 +2443,12 @@
 "end_ref_usfm": "1KI 12:33"
 },
 {
+"start_ref": "14005002",
+"start_ref_usfm": "2CH 5:2",
+"end_ref": "14005014",
+"end_ref_usfm": "2CH 5:14"
+},
+{
 "start_ref": "14007004",
 "start_ref_usfm": "2CH 7:4",
 "end_ref": "14007010",
@@ -2436,14 +2490,14 @@
 {
 "id": "realia:FestivalOfTheTabernacles",
 "type": "realia",
-"confidence": 0.5668,
+"confidence": 0.5665,
 "match_method": "scored",
 "preferred_label": "Festival of the Tabernacles"
 },
 {
 "id": "keyterm:FeastOfTabernacles",
 "type": "keyterm",
-"confidence": 0.5598,
+"confidence": 0.5587,
 "match_method": "scored",
 "preferred_label": "Feast of Tabernacles"
 }
@@ -2505,6 +2559,12 @@
 "end_ref_usfm": "1KI 12:33"
 },
 {
+"start_ref": "14005002",
+"start_ref_usfm": "2CH 5:2",
+"end_ref": "14005014",
+"end_ref_usfm": "2CH 5:14"
+},
+{
 "start_ref": "14007004",
 "start_ref_usfm": "2CH 7:4",
 "end_ref": "14007010",
@@ -2539,6 +2599,188 @@
 "start_ref_usfm": "JHN 8:12",
 "end_ref": "43008020",
 "end_ref_usfm": "JHN 8:20"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "eng-t304-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "festival of the new moon",
+"media_type": "Text",
+"index_reference": "festival of the new moon",
+"language": "eng",
+"review_level": "None",
+"content": "<p><strong>t304: Festival of the New Moon</strong></p><p>The people of Israel organize their months according to the moon's cycle. There is a new moon about every 29 days. There are 12 months in the Jewish calendar. In Old Testament times, the Israelites celebrated the festival of the New Moon at the beginning of each month, when the people could see the new moon rise in the sky. During this festival, the Israelites stopped their work, offered special sacrifices, and blew ram's horn trumpets to celebrate. During the time of the Israelite kings, many people actively celebrated this festival. People did not celebrate this festival during the exile in Babylon.</p><p>The New Moon festival was important to the Israelites because they were an agricultural community. As farmers, the people watched the moon to know when to plant and harvest their crops. This farming rhythm did not match the weekly rhythm of the Sabbath, which occurred every seven days. The new moon can occur on any day of the week. A new moon meant the beginning of a new month. The Israelites counted this day as the first day of the month, so the people counted the days to each of their other festivals based on the new moon. The Israelites celebrated a special New Moon festival at the beginning of the seventh month. The Israelites called this the Festival of the Trumpets, when the new planting season began.</p><p>In the New Testament, the Apostle Paul says that followers of Jesus should not judge one another by whether or not they celebrate the New Moon festivals, other festivals, or Sabbaths.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "09020001",
+"start_ref_usfm": "1SA 20:1",
+"end_ref": "09020017",
+"end_ref_usfm": "1SA 20:17"
+},
+{
+"start_ref": "09020018",
+"start_ref_usfm": "1SA 20:18",
+"end_ref": "09020034",
+"end_ref_usfm": "1SA 20:34"
+},
+{
+"start_ref": "13023021",
+"start_ref_usfm": "1CH 23:21",
+"end_ref": "13023032",
+"end_ref_usfm": "1CH 23:32"
+},
+{
+"start_ref": "14002001",
+"start_ref_usfm": "2CH 2:1",
+"end_ref": "14002018",
+"end_ref_usfm": "2CH 2:18"
+},
+{
+"start_ref": "14008001",
+"start_ref_usfm": "2CH 8:1",
+"end_ref": "14008018",
+"end_ref_usfm": "2CH 8:18"
+},
+{
+"start_ref": "14031001",
+"start_ref_usfm": "2CH 31:1",
+"end_ref": "14031010",
+"end_ref_usfm": "2CH 31:10"
+},
+{
+"start_ref": "15003001",
+"start_ref_usfm": "EZR 3:1",
+"end_ref": "15003007",
+"end_ref_usfm": "EZR 3:7"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "keyterm:NewMoonFestival",
+"type": "keyterm",
+"confidence": 0.5639,
+"match_method": "scored",
+"preferred_label": "New Moon Festival"
+}
+]
+}
+},
+{
+"content_id": "eng-t304-v1-audio",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "festival of the new moon",
+"media_type": "Audio",
+"index_reference": "festival of the new moon",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t304/v1/vbr4.mp3'>mp3 file</a> (1002189 KB)</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "09020001",
+"start_ref_usfm": "1SA 20:1",
+"end_ref": "09020017",
+"end_ref_usfm": "1SA 20:17"
+},
+{
+"start_ref": "09020018",
+"start_ref_usfm": "1SA 20:18",
+"end_ref": "09020034",
+"end_ref_usfm": "1SA 20:34"
+},
+{
+"start_ref": "13023021",
+"start_ref_usfm": "1CH 23:21",
+"end_ref": "13023032",
+"end_ref_usfm": "1CH 23:32"
+},
+{
+"start_ref": "14002001",
+"start_ref_usfm": "2CH 2:1",
+"end_ref": "14002018",
+"end_ref_usfm": "2CH 2:18"
+},
+{
+"start_ref": "14008001",
+"start_ref_usfm": "2CH 8:1",
+"end_ref": "14008018",
+"end_ref_usfm": "2CH 8:18"
+},
+{
+"start_ref": "14031001",
+"start_ref_usfm": "2CH 31:1",
+"end_ref": "14031010",
+"end_ref_usfm": "2CH 31:10"
+},
+{
+"start_ref": "15003001",
+"start_ref_usfm": "EZR 3:1",
+"end_ref": "15003007",
+"end_ref_usfm": "EZR 3:7"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "eng-t268-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Festival of Trumpets",
+"media_type": "Text",
+"index_reference": "festival of trumpets",
+"language": "eng",
+"review_level": "None",
+"content": "<p><strong>t268: Festival of Trumpets</strong></p><p>The Festival of Trumpets is a New Moon festival that the Israelites celebrate on the first day of the seventh month. This festival happens during harvest season and marks the end of the old agricultural or farming year and the beginning of a new one. Because of this, some people have called it the Festival of the New Year. The modern Hebrew name for this festival is Rosh Hashanah.</p><p>The people of Israel consider the number seven as a holy number, so they treat the seventh month as holy. This month is also special because the Israelites celebrate two other important festivals: the Day of Atonement and the Festival of Tabernacles. Because the month was holy, the Creator God, whose name is Yahweh, gave the Israelites different rules for this New Moon festival. The Israelites celebrate a day of Sabbath rest and gather for a sacred assembly, a special worship gathering.</p><p>In the original language, the name of the festival means \"remembering with loud noise.\" The people of Israel celebrated by blowing ram's horn trumpets and shouting with joy. During the Festival of Trumpets or Loud Noises, the Israelites either remember what Yahweh has done for them or ask Yahweh to remember them and continue to help them.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03023023",
+"start_ref_usfm": "LEV 23:23",
+"end_ref": "03023032",
+"end_ref_usfm": "LEV 23:32"
+},
+{
+"start_ref": "04029001",
+"start_ref_usfm": "NUM 29:1",
+"end_ref": "04029006",
+"end_ref_usfm": "NUM 29:6"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "eng-t268-v1-audio",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Festival of Trumpets",
+"media_type": "Audio",
+"index_reference": "festival of trumpets",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t268/v1/vbr4.mp3'>mp3 file</a> (808605 KB)</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03023023",
+"start_ref_usfm": "LEV 23:23",
+"end_ref": "03023032",
+"end_ref_usfm": "LEV 23:32"
+},
+{
+"start_ref": "04029001",
+"start_ref_usfm": "NUM 29:1",
+"end_ref": "04029006",
+"end_ref_usfm": "NUM 29:6"
 }
 ],
 "resource": []
@@ -2782,6 +3024,83 @@
 }
 },
 {
+"content_id": "eng-t287-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Festival of Weeks",
+"media_type": "Text",
+"index_reference": "festival of weeks",
+"language": "eng",
+"review_level": "None",
+"content": "<p><strong>t287: Festival of Weeks (Pentecost t225)</strong></p><p>The Festival of Weeks happens seven weeks and one day, or 50 days, after Passover. The Jewish people also called this festival the \"Festival of Firstfruits' or the \"Harvest Festival.\"</p><p>People called this the Festival of Weeks because it began seven weeks after the Israelites started to cut the barley grain and began to harvest the wheat. During this festival, the people celebrated the end of the barley harvest and the beginning of the wheat harvest. People also called it a Festival of Firstfruits because it marked the time when people began to bring their firstfruits offerings to Yahweh. [Throughout the year, people also brought other firstfruit offerings to Yahweh, but the Festival of Weeks was a special celebration.]{.mark}</p><p>This festival was a special day of rest, or a special Sabbath. On this day, the Israelites brought the \"firstfruits,\" or the first and best parts of the wheat harvest to Yahweh. The people celebrated with joy and thanked the Creator God, whose name is Yahweh, for the harvest. Every Jewish male who was able to travel went to Jerusalem to bring sacrifices and offerings to Yahweh. People thanked Yahweh for the harvest and gave Yahweh part of the first of their harvest. When people did this, the people showed Yahweh that they believed the whole harvest belonged to Yahweh and that they trusted Yahweh to provide for them. The people ended the feast by eating big community meals. People invited the poor, the foreigners who lived in their communities, and the Levites to eat these meals with them.</p><p>In the New Testament, people called this festival \"Pentecost.\" Pentecost is a word in the Greek language that means \"fifty.\" For information about what happened at Pentecost in the book of Acts, refer to the Master Glossary entry for Pentecost.</p><p>For more information about firstfruits, refer to the Master Glossary entry for firstfruits.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04028026",
+"start_ref_usfm": "NUM 28:26",
+"end_ref": "04028031",
+"end_ref_usfm": "NUM 28:31"
+},
+{
+"start_ref": "05016009",
+"start_ref_usfm": "DEU 16:9",
+"end_ref": "05016017",
+"end_ref_usfm": "DEU 16:17"
+},
+{
+"start_ref": "14008001",
+"start_ref_usfm": "2CH 8:1",
+"end_ref": "14008018",
+"end_ref_usfm": "2CH 8:18"
+}
+],
+"resource": [],
+"acai": [
+{
+"id": "keyterm:FeastOfWeeks",
+"type": "keyterm",
+"confidence": 0.5765,
+"match_method": "scored",
+"preferred_label": "Feast of Weeks"
+}
+]
+}
+},
+{
+"content_id": "eng-t287-v1-audio",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Festival of Weeks",
+"media_type": "Audio",
+"index_reference": "festival of weeks",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t287/v1/vbr4.mp3'>mp3 file</a> (1887501 KB)</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04028026",
+"start_ref_usfm": "NUM 28:26",
+"end_ref": "04028031",
+"end_ref_usfm": "NUM 28:31"
+},
+{
+"start_ref": "05016009",
+"start_ref_usfm": "DEU 16:9",
+"end_ref": "05016017",
+"end_ref_usfm": "DEU 16:17"
+},
+{
+"start_ref": "14008001",
+"start_ref_usfm": "2CH 8:1",
+"end_ref": "14008018",
+"end_ref_usfm": "2CH 8:18"
+}
+],
+"resource": []
+}
+},
+{
 "content_id": "eng-t51-v1",
 "reference_id": 0,
 "version": "1.0.4",
@@ -2907,6 +3226,87 @@
 }
 },
 {
+"content_id": "eng-t317-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "firstfruits",
+"media_type": "Text",
+"index_reference": "firstfruits",
+"language": "eng",
+"review_level": "None",
+"content": "<p><strong>t317: firstfruits</strong></p><p>In the Old Testament, God commanded his people to bring the first and best parts of their harvest as a special offering for God at the tabernacle or temple. This showed that the people thanked God for the harvest and trusted God for the rest of the harvest. A person would also give their firstborn animals and their firstborn male child. But instead of giving the first male child to God as an offering, a person could give a gift of money to the priests. This offering reminded God's people that all life was a gift from God.</p><p>The idea of firstfruits also applies to Israel, because Israel was the first people group to belong to God.</p><p>In the New Testament, Paul calls God's work in people's lives or in the world \"firstfruits.\" Paul does this in the following ways:</p><p>Paul calls the first believers in Jesus in different regions or cities the firstfruits.</p><p>Paul also calls Jesus' resurrection the firstfruits. Paul is saying that because God has raised Jesus to eternal life, this is the first \"harvest of resurrection.\" God will also raise all people who have put their trust in Jesus. These people will also have eternal life.</p><p>In the book of Romans, chapter 8:18–25, Paul talks about the suffering that believers in Jesus are experiencing now. But Paul says that in the future we will experience God's glory; that is, God's goodness and righteousness. In that time, the suffering will finish. In verse 23, Paul says this will happen because we have the firstfruits of the Holy Spirit. Paul teaches that the Holy Spirit forgives our sins, saves us from sin, and makes us righteous as we follow God's teaching. We have the firstfruits of the Holy Spirit's work now because we know that we are God's children, and we experience God's love. We also know that the Holy Spirit will finish God's work in us.</p><p>Each time Paul uses the term \"firstfruits,\" Paul is saying, \"God has worked, but this is the firstfruits of God's work, which means there is more to come.\"</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03002001",
+"start_ref_usfm": "LEV 2:1",
+"end_ref": "03002016",
+"end_ref_usfm": "LEV 2:16"
+},
+{
+"start_ref": "03023015",
+"start_ref_usfm": "LEV 23:15",
+"end_ref": "03023022",
+"end_ref_usfm": "LEV 23:22"
+},
+{
+"start_ref": "14031001",
+"start_ref_usfm": "2CH 31:1",
+"end_ref": "14031010",
+"end_ref_usfm": "2CH 31:10"
+},
+{
+"start_ref": "59001012",
+"start_ref_usfm": "JAS 1:12",
+"end_ref": "59001018",
+"end_ref_usfm": "JAS 1:18"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "eng-t317-v1-audio",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "firstfruits",
+"media_type": "Audio",
+"index_reference": "firstfruits",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t317/v1/vbr4.mp3'>mp3 file</a> (1584566 KB)</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03002001",
+"start_ref_usfm": "LEV 2:1",
+"end_ref": "03002016",
+"end_ref_usfm": "LEV 2:16"
+},
+{
+"start_ref": "03023015",
+"start_ref_usfm": "LEV 23:15",
+"end_ref": "03023022",
+"end_ref_usfm": "LEV 23:22"
+},
+{
+"start_ref": "14031001",
+"start_ref_usfm": "2CH 31:1",
+"end_ref": "14031010",
+"end_ref_usfm": "2CH 31:10"
+},
+{
+"start_ref": "59001012",
+"start_ref_usfm": "JAS 1:12",
+"end_ref": "59001018",
+"end_ref_usfm": "JAS 1:18"
+}
+],
+"resource": []
+}
+},
+{
 "content_id": "eng-t52-v1",
 "reference_id": 0,
 "version": "1.0.4",
@@ -2966,6 +3366,195 @@
 "start_ref_usfm": "JHN 21:1",
 "end_ref": "43021014",
 "end_ref_usfm": "JHN 21:14"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "eng-t312-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "flesh",
+"media_type": "Text",
+"index_reference": "flesh",
+"language": "eng",
+"review_level": "None",
+"content": "<p><strong>t312: flesh</strong></p><p>The authors of the Bible use the word ''flesh'' when they refer to a human being or to a person's body in general. The meat we eat from an animal is also called flesh.</p><p>Sometimes the Bible storyteller refers to \"all flesh,\" meaning all of humanity. Also, when a man and a woman marry they are described as becoming \"one flesh\" because marriage joins the man and woman together.</p><p>Sometimes in the New Testament the authors refer to peoples' bad behaviour as ''living by flesh.'' However, God teaches us to \"live by the spirit,\" which means to rely on God's Spirit to give us strength. The spirit helps us to obey God and do righteous things.</p><p>Paul uses the phrase \"works of the flesh\" to mean something different from the bad things we do. Paul uses \"works of the flesh\" to describe God's people obeying parts of the law of Moses but only doing it as an empty ritual rather than because of their good relationship with God. In other words, the people were not trusting God in their hearts. This does not please God. Paul says it is our trust in God that pleases God.</p><p>In Romans chapter 4 Paul reminds us about the story of Abraham. The story of Abraham happened before God had given the law to Moses. Abraham was righteous because he had faith in God by trusting that what God told him to do was right. Abraham trusted that he should obey God completely.</p><p>Without \"faith,\" that is without trusting that God's way is the right way, any good things we try to do are \"works of the flesh.\"</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05005022",
+"start_ref_usfm": "DEU 5:22",
+"end_ref": "05005027",
+"end_ref_usfm": "DEU 5:27"
+},
+{
+"start_ref": "47001012",
+"start_ref_usfm": "2CO 1:12",
+"end_ref": "47001022",
+"end_ref_usfm": "2CO 1:22"
+},
+{
+"start_ref": "47005016",
+"start_ref_usfm": "2CO 5:16",
+"end_ref": "47006002",
+"end_ref_usfm": "2CO 6:2"
+},
+{
+"start_ref": "48003001",
+"start_ref_usfm": "GAL 3:1",
+"end_ref": "48003009",
+"end_ref_usfm": "GAL 3:9"
+},
+{
+"start_ref": "48004021",
+"start_ref_usfm": "GAL 4:21",
+"end_ref": "48004027",
+"end_ref_usfm": "GAL 4:27"
+},
+{
+"start_ref": "48004028",
+"start_ref_usfm": "GAL 4:28",
+"end_ref": "48005001",
+"end_ref_usfm": "GAL 5:1"
+},
+{
+"start_ref": "48005013",
+"start_ref_usfm": "GAL 5:13",
+"end_ref": "48005018",
+"end_ref_usfm": "GAL 5:18"
+},
+{
+"start_ref": "48005019",
+"start_ref_usfm": "GAL 5:19",
+"end_ref": "48005026",
+"end_ref_usfm": "GAL 5:26"
+},
+{
+"start_ref": "48006001",
+"start_ref_usfm": "GAL 6:1",
+"end_ref": "48006010",
+"end_ref_usfm": "GAL 6:10"
+},
+{
+"start_ref": "48006011",
+"start_ref_usfm": "GAL 6:11",
+"end_ref": "48006018",
+"end_ref_usfm": "GAL 6:18"
+},
+{
+"start_ref": "50003002",
+"start_ref_usfm": "PHP 3:2",
+"end_ref": "50003011",
+"end_ref_usfm": "PHP 3:11"
+},
+{
+"start_ref": "59005001",
+"start_ref_usfm": "JAS 5:1",
+"end_ref": "59005006",
+"end_ref_usfm": "JAS 5:6"
+},
+{
+"start_ref": "62004001",
+"start_ref_usfm": "1JN 4:1",
+"end_ref": "62004006",
+"end_ref_usfm": "1JN 4:6"
+}
+],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "eng-t312-v1-audio",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "flesh",
+"media_type": "Audio",
+"index_reference": "flesh",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t312/v1/vbr4.mp3'>mp3 file</a> (1644597 KB)</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05005022",
+"start_ref_usfm": "DEU 5:22",
+"end_ref": "05005027",
+"end_ref_usfm": "DEU 5:27"
+},
+{
+"start_ref": "47001012",
+"start_ref_usfm": "2CO 1:12",
+"end_ref": "47001022",
+"end_ref_usfm": "2CO 1:22"
+},
+{
+"start_ref": "47005016",
+"start_ref_usfm": "2CO 5:16",
+"end_ref": "47006002",
+"end_ref_usfm": "2CO 6:2"
+},
+{
+"start_ref": "48003001",
+"start_ref_usfm": "GAL 3:1",
+"end_ref": "48003009",
+"end_ref_usfm": "GAL 3:9"
+},
+{
+"start_ref": "48004021",
+"start_ref_usfm": "GAL 4:21",
+"end_ref": "48004027",
+"end_ref_usfm": "GAL 4:27"
+},
+{
+"start_ref": "48004028",
+"start_ref_usfm": "GAL 4:28",
+"end_ref": "48005001",
+"end_ref_usfm": "GAL 5:1"
+},
+{
+"start_ref": "48005013",
+"start_ref_usfm": "GAL 5:13",
+"end_ref": "48005018",
+"end_ref_usfm": "GAL 5:18"
+},
+{
+"start_ref": "48005019",
+"start_ref_usfm": "GAL 5:19",
+"end_ref": "48005026",
+"end_ref_usfm": "GAL 5:26"
+},
+{
+"start_ref": "48006001",
+"start_ref_usfm": "GAL 6:1",
+"end_ref": "48006010",
+"end_ref_usfm": "GAL 6:10"
+},
+{
+"start_ref": "48006011",
+"start_ref_usfm": "GAL 6:11",
+"end_ref": "48006018",
+"end_ref_usfm": "GAL 6:18"
+},
+{
+"start_ref": "50003002",
+"start_ref_usfm": "PHP 3:2",
+"end_ref": "50003011",
+"end_ref_usfm": "PHP 3:11"
+},
+{
+"start_ref": "59005001",
+"start_ref_usfm": "JAS 5:1",
+"end_ref": "59005006",
+"end_ref_usfm": "JAS 5:6"
+},
+{
+"start_ref": "62004001",
+"start_ref_usfm": "1JN 4:1",
+"end_ref": "62004006",
+"end_ref_usfm": "1JN 4:6"
 }
 ],
 "resource": []
@@ -3110,6 +3699,30 @@
 "end_ref_usfm": "LEV 24:23"
 },
 {
+"start_ref": "03025001",
+"start_ref_usfm": "LEV 25:1",
+"end_ref": "03025007",
+"end_ref_usfm": "LEV 25:7"
+},
+{
+"start_ref": "03025023",
+"start_ref_usfm": "LEV 25:23",
+"end_ref": "03025034",
+"end_ref_usfm": "LEV 25:34"
+},
+{
+"start_ref": "03025035",
+"start_ref_usfm": "LEV 25:35",
+"end_ref": "03025046",
+"end_ref_usfm": "LEV 25:46"
+},
+{
+"start_ref": "03025047",
+"start_ref_usfm": "LEV 25:47",
+"end_ref": "03025055",
+"end_ref_usfm": "LEV 25:55"
+},
+{
 "start_ref": "04009001",
 "start_ref_usfm": "NUM 9:1",
 "end_ref": "04009014",
@@ -3222,6 +3835,12 @@
 "start_ref_usfm": "2CH 2:1",
 "end_ref": "14002018",
 "end_ref_usfm": "2CH 2:18"
+},
+{
+"start_ref": "14006022",
+"start_ref_usfm": "2CH 6:22",
+"end_ref": "14006039",
+"end_ref_usfm": "2CH 6:39"
 },
 {
 "start_ref": "14030021",
@@ -3403,6 +4022,30 @@
 "end_ref_usfm": "LEV 24:23"
 },
 {
+"start_ref": "03025001",
+"start_ref_usfm": "LEV 25:1",
+"end_ref": "03025007",
+"end_ref_usfm": "LEV 25:7"
+},
+{
+"start_ref": "03025023",
+"start_ref_usfm": "LEV 25:23",
+"end_ref": "03025034",
+"end_ref_usfm": "LEV 25:34"
+},
+{
+"start_ref": "03025035",
+"start_ref_usfm": "LEV 25:35",
+"end_ref": "03025046",
+"end_ref_usfm": "LEV 25:46"
+},
+{
+"start_ref": "03025047",
+"start_ref_usfm": "LEV 25:47",
+"end_ref": "03025055",
+"end_ref_usfm": "LEV 25:55"
+},
+{
 "start_ref": "04009001",
 "start_ref_usfm": "NUM 9:1",
 "end_ref": "04009014",
@@ -3515,6 +4158,12 @@
 "start_ref_usfm": "2CH 2:1",
 "end_ref": "14002018",
 "end_ref_usfm": "2CH 2:18"
+},
+{
+"start_ref": "14006022",
+"start_ref_usfm": "2CH 6:22",
+"end_ref": "14006039",
+"end_ref_usfm": "2CH 6:39"
 },
 {
 "start_ref": "14030021",
@@ -3753,6 +4402,18 @@
 "start_ref_usfm": "1KI 8:31",
 "end_ref": "11008053",
 "end_ref_usfm": "1KI 8:53"
+},
+{
+"start_ref": "14006012",
+"start_ref_usfm": "2CH 6:12",
+"end_ref": "14006021",
+"end_ref_usfm": "2CH 6:21"
+},
+{
+"start_ref": "14006022",
+"start_ref_usfm": "2CH 6:22",
+"end_ref": "14006039",
+"end_ref_usfm": "2CH 6:39"
 },
 {
 "start_ref": "14007011",
@@ -4148,6 +4809,18 @@
 "start_ref_usfm": "1KI 8:31",
 "end_ref": "11008053",
 "end_ref_usfm": "1KI 8:53"
+},
+{
+"start_ref": "14006012",
+"start_ref_usfm": "2CH 6:12",
+"end_ref": "14006021",
+"end_ref_usfm": "2CH 6:21"
+},
+{
+"start_ref": "14006022",
+"start_ref_usfm": "2CH 6:22",
+"end_ref": "14006039",
+"end_ref_usfm": "2CH 6:39"
 },
 {
 "start_ref": "14007011",

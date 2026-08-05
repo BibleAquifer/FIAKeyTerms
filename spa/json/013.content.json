@@ -78,6 +78,18 @@
 "end_ref_usfm": "JDG 19:30"
 },
 {
+"start_ref": "12002001",
+"start_ref_usfm": "2KI 2:1",
+"end_ref": "12002012",
+"end_ref_usfm": "2KI 2:12"
+},
+{
+"start_ref": "12002013",
+"start_ref_usfm": "2KI 2:13",
+"end_ref": "12002025",
+"end_ref_usfm": "2KI 2:25"
+},
+{
 "start_ref": "40010016",
 "start_ref_usfm": "MAT 10:16",
 "end_ref": "40010025",
@@ -249,6 +261,18 @@
 "start_ref_usfm": "JDG 19:22",
 "end_ref": "07019030",
 "end_ref_usfm": "JDG 19:30"
+},
+{
+"start_ref": "12002001",
+"start_ref_usfm": "2KI 2:1",
+"end_ref": "12002012",
+"end_ref_usfm": "2KI 2:12"
+},
+{
+"start_ref": "12002013",
+"start_ref_usfm": "2KI 2:13",
+"end_ref": "12002025",
+"end_ref_usfm": "2KI 2:25"
 },
 {
 "start_ref": "40010016",
@@ -1492,7 +1516,7 @@
 {
 "id": "person:Jesus.2",
 "type": "person",
-"confidence": 0.697,
+"confidence": 0.6957,
 "match_method": "scored",
 "preferred_label": "Jesús"
 }

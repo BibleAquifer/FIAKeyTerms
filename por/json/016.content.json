@@ -112,6 +112,12 @@
 "start_ref_usfm": "2CH 3:1",
 "end_ref": "14003014",
 "end_ref_usfm": "2CH 3:14"
+},
+{
+"start_ref": "14005002",
+"start_ref_usfm": "2CH 5:2",
+"end_ref": "14005014",
+"end_ref_usfm": "2CH 5:14"
 }
 ],
 "resource": [],
@@ -119,7 +125,7 @@
 {
 "id": "realia:WingedCreature",
 "type": "realia",
-"confidence": 0.6118,
+"confidence": 0.6115,
 "match_method": "scored",
 "preferred_label": "Winged Creature"
 }
@@ -239,6 +245,12 @@
 "start_ref_usfm": "2CH 3:1",
 "end_ref": "14003014",
 "end_ref_usfm": "2CH 3:14"
+},
+{
+"start_ref": "14005002",
+"start_ref_usfm": "2CH 5:2",
+"end_ref": "14005014",
+"end_ref_usfm": "2CH 5:14"
 }
 ],
 "resource": []
