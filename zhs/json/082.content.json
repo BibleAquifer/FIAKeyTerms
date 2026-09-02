@@ -186,6 +186,24 @@
 "end_ref_usfm": "1KI 22:53"
 },
 {
+"start_ref": "12008016",
+"start_ref_usfm": "2KI 8:16",
+"end_ref": "12008024",
+"end_ref_usfm": "2KI 8:24"
+},
+{
+"start_ref": "12008025",
+"start_ref_usfm": "2KI 8:25",
+"end_ref": "12008029",
+"end_ref_usfm": "2KI 8:29"
+},
+{
+"start_ref": "12009014",
+"start_ref_usfm": "2KI 9:14",
+"end_ref": "12009029",
+"end_ref_usfm": "2KI 9:29"
+},
+{
 "start_ref": "13002009",
 "start_ref_usfm": "1CH 2:9",
 "end_ref": "13002017",
@@ -592,24 +610,6 @@
 "start_ref_usfm": "MAT 19:1",
 "end_ref": "40019012",
 "end_ref_usfm": "MAT 19:12"
-},
-{
-"start_ref": "40024015",
-"start_ref_usfm": "MAT 24:15",
-"end_ref": "40024028",
-"end_ref_usfm": "MAT 24:28"
-},
-{
-"start_ref": "41010001",
-"start_ref_usfm": "MRK 10:1",
-"end_ref": "41010012",
-"end_ref_usfm": "MRK 10:12"
-},
-{
-"start_ref": "41013009",
-"start_ref_usfm": "MRK 13:9",
-"end_ref": "41013023",
-"end_ref_usfm": "MRK 13:23"
 }
 ],
 "resource": [],
@@ -617,7 +617,7 @@
 {
 "id": "place:Judea",
 "type": "place",
-"confidence": 0.6018,
+"confidence": 0.6007,
 "match_method": "scored",
 "preferred_label": "Judea"
 }
@@ -811,6 +811,24 @@
 "end_ref_usfm": "1KI 22:53"
 },
 {
+"start_ref": "12008016",
+"start_ref_usfm": "2KI 8:16",
+"end_ref": "12008024",
+"end_ref_usfm": "2KI 8:24"
+},
+{
+"start_ref": "12008025",
+"start_ref_usfm": "2KI 8:25",
+"end_ref": "12008029",
+"end_ref_usfm": "2KI 8:29"
+},
+{
+"start_ref": "12009014",
+"start_ref_usfm": "2KI 9:14",
+"end_ref": "12009029",
+"end_ref_usfm": "2KI 9:29"
+},
+{
 "start_ref": "13002009",
 "start_ref_usfm": "1CH 2:9",
 "end_ref": "13002017",
@@ -1217,24 +1235,6 @@
 "start_ref_usfm": "MAT 19:1",
 "end_ref": "40019012",
 "end_ref_usfm": "MAT 19:12"
-},
-{
-"start_ref": "40024015",
-"start_ref_usfm": "MAT 24:15",
-"end_ref": "40024028",
-"end_ref_usfm": "MAT 24:28"
-},
-{
-"start_ref": "41010001",
-"start_ref_usfm": "MRK 10:1",
-"end_ref": "41010012",
-"end_ref_usfm": "MRK 10:12"
-},
-{
-"start_ref": "41013009",
-"start_ref_usfm": "MRK 13:9",
-"end_ref": "41013023",
-"end_ref_usfm": "MRK 13:23"
 }
 ],
 "resource": []
@@ -1299,6 +1299,12 @@
 "start_ref_usfm": "2SA 22:21",
 "end_ref": "10022029",
 "end_ref_usfm": "2SA 22:29"
+},
+{
+"start_ref": "12008016",
+"start_ref_usfm": "2KI 8:16",
+"end_ref": "12008024",
+"end_ref_usfm": "2KI 8:24"
 },
 {
 "start_ref": "14021001",
@@ -1400,6 +1406,12 @@
 "start_ref_usfm": "2SA 22:21",
 "end_ref": "10022029",
 "end_ref_usfm": "2SA 22:29"
+},
+{
+"start_ref": "12008016",
+"start_ref_usfm": "2KI 8:16",
+"end_ref": "12008024",
+"end_ref_usfm": "2KI 8:24"
 },
 {
 "start_ref": "14021001",

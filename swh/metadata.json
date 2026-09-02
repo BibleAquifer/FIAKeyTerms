@@ -3,9 +3,9 @@
 "aquifer_type": "Dictionary",
 "resource_type": "Translation Glossary",
 "title": "Familiarization, Internalization, Articulation (FIA) Key Terms",
-"aquifer_name": "Key Terms (FIA)",
+"aquifer_name": "Familiarization, Internalization, Articulation (FIA) Key Terms",
 "version": "1.1.2",
-"collection_title": "Key Terms (FIA)",
+"collection_title": "Familiarization, Internalization, Articulation (FIA) Key Terms",
 "short_name": "FIA",
 "license_info": {
 "title": "Familiarization, Internalization, Articulation (Fia) Terms",
@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Familiarization, Internalization, Articulation (FIA) Key Terms</b> © 2025 Word Collective Released under CC BY-SA 4.0 license. <cite>Familiarization, Internalization, Articulation (FIA) Key Terms</cite> has been adapted in the following languages Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Familiarization, Internalization, Articulation (FIA)</cite> © 2025 Word Collective. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "FIAKeyTerms",
-"date_created": "2026-08-04",
+"date_created": "2026-09-02",
 "language": "swh",
 "localizations": [
 "arb",
@@ -53,7 +53,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-08-04T20:53:54.906148"
+"dateCreated": "2026-09-02T15:53:18.964857"
 },
 "idAuthorities": {
 "aquifer": {
@@ -67,7 +67,7 @@
 "primary": {
 "aquifer": {
 "FIAKeyTerms": {
-"timestamp": "2026-08-04T20:53:54.906148"
+"timestamp": "2026-09-02T15:53:18.964857"
 }
 }
 },
@@ -512,91 +512,91 @@
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 20721
+"size": 20768
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 8368
+"size": 8415
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 21676
+"size": 21723
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
-"size": 6853
+"size": 6900
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 3678
+"size": 3725
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 38357
+"size": 38404
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 8072
+"size": 8119
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
-"size": 24913
+"size": 24960
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 56346
+"size": 56393
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 5818
+"size": 5865
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 12157
+"size": 12204
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 16202
+"size": 16249
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 121443
+"size": 121490
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 8118
+"size": 8165
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
-"size": 27831
+"size": 27878
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
-"size": 3448
+"size": 3495
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 20112
+"size": 20159
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 17343
+"size": 17390
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 27086
+"size": 27133
 },
 "md/022.content.md": {
 "mimeType": "text/markdown",
-"size": 1764
+"size": 1811
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 3306
+"size": 3353
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
-"size": 37151
+"size": 37198
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",

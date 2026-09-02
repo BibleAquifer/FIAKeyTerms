@@ -251,7 +251,7 @@
 {
 "id": "keyterm:Sabbath",
 "type": "keyterm",
-"confidence": 0.5996,
+"confidence": 0.5983,
 "match_method": "scored",
 "preferred_label": "sábado"
 }
@@ -876,7 +876,7 @@
 {
 "id": "keyterm:Slaughtering",
 "type": "keyterm",
-"confidence": 0.5748,
+"confidence": 0.5756,
 "match_method": "scored",
 "preferred_label": "sacrificio"
 }
@@ -1514,7 +1514,7 @@
 {
 "id": "group:Samaritan",
 "type": "group",
-"confidence": 0.6114,
+"confidence": 0.6109,
 "match_method": "scored",
 "preferred_label": "Simrat"
 },
@@ -2213,7 +2213,7 @@
 {
 "id": "deity:Satan",
 "type": "deity",
-"confidence": 0.6364,
+"confidence": 0.6358,
 "match_method": "scored",
 "preferred_label": "Satanás"
 }
@@ -3413,6 +3413,48 @@
 "end_ref_usfm": "1KI 20:12"
 },
 {
+"start_ref": "12004008",
+"start_ref_usfm": "2KI 4:8",
+"end_ref": "12004017",
+"end_ref_usfm": "2KI 4:17"
+},
+{
+"start_ref": "12004018",
+"start_ref_usfm": "2KI 4:18",
+"end_ref": "12004037",
+"end_ref_usfm": "2KI 4:37"
+},
+{
+"start_ref": "12006008",
+"start_ref_usfm": "2KI 6:8",
+"end_ref": "12006023",
+"end_ref_usfm": "2KI 6:23"
+},
+{
+"start_ref": "12006024",
+"start_ref_usfm": "2KI 6:24",
+"end_ref": "12007002",
+"end_ref_usfm": "2KI 7:2"
+},
+{
+"start_ref": "12007003",
+"start_ref_usfm": "2KI 7:3",
+"end_ref": "12007020",
+"end_ref_usfm": "2KI 7:20"
+},
+{
+"start_ref": "12008001",
+"start_ref_usfm": "2KI 8:1",
+"end_ref": "12008006",
+"end_ref_usfm": "2KI 8:6"
+},
+{
+"start_ref": "12008007",
+"start_ref_usfm": "2KI 8:7",
+"end_ref": "12008015",
+"end_ref_usfm": "2KI 8:15"
+},
+{
 "start_ref": "13012019",
 "start_ref_usfm": "1CH 12:19",
 "end_ref": "13012022",
@@ -3561,48 +3603,6 @@
 "start_ref_usfm": "MAT 24:37",
 "end_ref": "40024044",
 "end_ref_usfm": "MAT 24:44"
-},
-{
-"start_ref": "40025001",
-"start_ref_usfm": "MAT 25:1",
-"end_ref": "40025013",
-"end_ref_usfm": "MAT 25:13"
-},
-{
-"start_ref": "40025031",
-"start_ref_usfm": "MAT 25:31",
-"end_ref": "40025046",
-"end_ref_usfm": "MAT 25:46"
-},
-{
-"start_ref": "40026017",
-"start_ref_usfm": "MAT 26:17",
-"end_ref": "40026025",
-"end_ref_usfm": "MAT 26:25"
-},
-{
-"start_ref": "41001001",
-"start_ref_usfm": "MRK 1:1",
-"end_ref": "41001013",
-"end_ref_usfm": "MRK 1:13"
-},
-{
-"start_ref": "41002023",
-"start_ref_usfm": "MRK 2:23",
-"end_ref": "41003006",
-"end_ref_usfm": "MRK 3:6"
-},
-{
-"start_ref": "41005001",
-"start_ref_usfm": "MRK 5:1",
-"end_ref": "41005020",
-"end_ref_usfm": "MRK 5:20"
-},
-{
-"start_ref": "41007024",
-"start_ref_usfm": "MRK 7:24",
-"end_ref": "41007030",
-"end_ref_usfm": "MRK 7:30"
 }
 ],
 "resource": [],
@@ -4038,6 +4038,48 @@
 "end_ref_usfm": "1KI 20:12"
 },
 {
+"start_ref": "12004008",
+"start_ref_usfm": "2KI 4:8",
+"end_ref": "12004017",
+"end_ref_usfm": "2KI 4:17"
+},
+{
+"start_ref": "12004018",
+"start_ref_usfm": "2KI 4:18",
+"end_ref": "12004037",
+"end_ref_usfm": "2KI 4:37"
+},
+{
+"start_ref": "12006008",
+"start_ref_usfm": "2KI 6:8",
+"end_ref": "12006023",
+"end_ref_usfm": "2KI 6:23"
+},
+{
+"start_ref": "12006024",
+"start_ref_usfm": "2KI 6:24",
+"end_ref": "12007002",
+"end_ref_usfm": "2KI 7:2"
+},
+{
+"start_ref": "12007003",
+"start_ref_usfm": "2KI 7:3",
+"end_ref": "12007020",
+"end_ref_usfm": "2KI 7:20"
+},
+{
+"start_ref": "12008001",
+"start_ref_usfm": "2KI 8:1",
+"end_ref": "12008006",
+"end_ref_usfm": "2KI 8:6"
+},
+{
+"start_ref": "12008007",
+"start_ref_usfm": "2KI 8:7",
+"end_ref": "12008015",
+"end_ref_usfm": "2KI 8:15"
+},
+{
 "start_ref": "13012019",
 "start_ref_usfm": "1CH 12:19",
 "end_ref": "13012022",
@@ -4186,48 +4228,6 @@
 "start_ref_usfm": "MAT 24:37",
 "end_ref": "40024044",
 "end_ref_usfm": "MAT 24:44"
-},
-{
-"start_ref": "40025001",
-"start_ref_usfm": "MAT 25:1",
-"end_ref": "40025013",
-"end_ref_usfm": "MAT 25:13"
-},
-{
-"start_ref": "40025031",
-"start_ref_usfm": "MAT 25:31",
-"end_ref": "40025046",
-"end_ref_usfm": "MAT 25:46"
-},
-{
-"start_ref": "40026017",
-"start_ref_usfm": "MAT 26:17",
-"end_ref": "40026025",
-"end_ref_usfm": "MAT 26:25"
-},
-{
-"start_ref": "41001001",
-"start_ref_usfm": "MRK 1:1",
-"end_ref": "41001013",
-"end_ref_usfm": "MRK 1:13"
-},
-{
-"start_ref": "41002023",
-"start_ref_usfm": "MRK 2:23",
-"end_ref": "41003006",
-"end_ref_usfm": "MRK 3:6"
-},
-{
-"start_ref": "41005001",
-"start_ref_usfm": "MRK 5:1",
-"end_ref": "41005020",
-"end_ref_usfm": "MRK 5:20"
-},
-{
-"start_ref": "41007024",
-"start_ref_usfm": "MRK 7:24",
-"end_ref": "41007030",
-"end_ref_usfm": "MRK 7:30"
 }
 ],
 "resource": []
@@ -8746,18 +8746,18 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Phoenicia",
-"type": "group",
-"confidence": 0.6571,
-"match_method": "scored",
-"preferred_label": "mujer sirofenicia"
-},
-{
 "id": "place:Phoenicia",
 "type": "place",
 "confidence": 0.6571,
 "match_method": "scored",
 "preferred_label": "Fenicia"
+},
+{
+"id": "group:Phoenicia",
+"type": "group",
+"confidence": 0.6571,
+"match_method": "scored",
+"preferred_label": "mujer sirofenicia"
 }
 ]
 }

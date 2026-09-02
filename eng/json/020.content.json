@@ -84,6 +84,12 @@
 "end_ref_usfm": "DEU 28:37"
 },
 {
+"start_ref": "05028038",
+"start_ref_usfm": "DEU 28:38",
+"end_ref": "05028046",
+"end_ref_usfm": "DEU 28:46"
+},
+{
 "start_ref": "05032026",
 "start_ref_usfm": "DEU 32:26",
 "end_ref": "05032035",
@@ -136,6 +142,12 @@
 "start_ref_usfm": "1KI 21:17",
 "end_ref": "11021029",
 "end_ref_usfm": "1KI 21:29"
+},
+{
+"start_ref": "12005015",
+"start_ref_usfm": "2KI 5:15",
+"end_ref": "12005027",
+"end_ref_usfm": "2KI 5:27"
 },
 {
 "start_ref": "13027025",
@@ -203,7 +215,7 @@
 {
 "id": "flora:Vine",
 "type": "flora",
-"confidence": 0.6138,
+"confidence": 0.6119,
 "match_method": "scored",
 "preferred_label": "Vine"
 }
@@ -295,6 +307,12 @@
 "end_ref_usfm": "DEU 28:37"
 },
 {
+"start_ref": "05028038",
+"start_ref_usfm": "DEU 28:38",
+"end_ref": "05028046",
+"end_ref_usfm": "DEU 28:46"
+},
+{
 "start_ref": "05032026",
 "start_ref_usfm": "DEU 32:26",
 "end_ref": "05032035",
@@ -347,6 +365,12 @@
 "start_ref_usfm": "1KI 21:17",
 "end_ref": "11021029",
 "end_ref_usfm": "1KI 21:29"
+},
+{
+"start_ref": "12005015",
+"start_ref_usfm": "2KI 5:15",
+"end_ref": "12005027",
+"end_ref_usfm": "2KI 5:27"
 },
 {
 "start_ref": "13027025",
@@ -561,6 +585,12 @@
 "start_ref_usfm": "ACT 26:1",
 "end_ref": "44026023",
 "end_ref_usfm": "ACT 26:23"
+},
+{
+"start_ref": "47012001",
+"start_ref_usfm": "2CO 12:1",
+"end_ref": "47012010",
+"end_ref_usfm": "2CO 12:10"
 }
 ],
 "resource": [],
@@ -724,6 +754,12 @@
 "start_ref_usfm": "ACT 26:1",
 "end_ref": "44026023",
 "end_ref_usfm": "ACT 26:23"
+},
+{
+"start_ref": "47012001",
+"start_ref_usfm": "2CO 12:1",
+"end_ref": "47012010",
+"end_ref_usfm": "2CO 12:10"
 }
 ],
 "resource": []
@@ -866,6 +902,18 @@
 "start_ref_usfm": "2SA 15:1",
 "end_ref": "10015012",
 "end_ref_usfm": "2SA 15:12"
+},
+{
+"start_ref": "32001001",
+"start_ref_usfm": "JON 1:1",
+"end_ref": "32001016",
+"end_ref_usfm": "JON 1:16"
+},
+{
+"start_ref": "32001017",
+"start_ref_usfm": "JON 1:17",
+"end_ref": "32002010",
+"end_ref_usfm": "JON 2:10"
 },
 {
 "start_ref": "40005033",
@@ -1021,6 +1069,18 @@
 "start_ref_usfm": "2SA 15:1",
 "end_ref": "10015012",
 "end_ref_usfm": "2SA 15:12"
+},
+{
+"start_ref": "32001001",
+"start_ref_usfm": "JON 1:1",
+"end_ref": "32001016",
+"end_ref_usfm": "JON 1:16"
+},
+{
+"start_ref": "32001017",
+"start_ref_usfm": "JON 1:17",
+"end_ref": "32002010",
+"end_ref_usfm": "JON 2:10"
 },
 {
 "start_ref": "40005033",

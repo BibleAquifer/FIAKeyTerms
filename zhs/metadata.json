@@ -3,9 +3,9 @@
 "aquifer_type": "Dictionary",
 "resource_type": "Translation Glossary",
 "title": "Familiarization, Internalization, Articulation (FIA) Key Terms",
-"aquifer_name": "Key Terms (SRV)",
+"aquifer_name": "Familiarization, Internalization, Articulation (FIA) Key Terms",
 "version": "1.1.2",
-"collection_title": "Key Terms (SRV)",
+"collection_title": "Familiarization, Internalization, Articulation (FIA) Key Terms",
 "short_name": "FIA",
 "license_info": {
 "title": "Familiarization, Internalization, Articulation (Fia) Terms",
@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Familiarization, Internalization, Articulation (FIA) Key Terms</b> © 2025 Word Collective Released under CC BY-SA 4.0 license. <cite>Familiarization, Internalization, Articulation (FIA) Key Terms</cite> has been adapted in the following languages Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Familiarization, Internalization, Articulation (FIA)</cite> © 2025 Word Collective. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "FIAKeyTerms",
-"date_created": "2026-08-04",
+"date_created": "2026-09-02",
 "language": "zhs",
 "localizations": [
 "eng",
@@ -48,7 +48,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-08-04T20:53:55.061310"
+"dateCreated": "2026-09-02T15:53:19.121780"
 },
 "idAuthorities": {
 "aquifer": {
@@ -62,7 +62,7 @@
 "primary": {
 "aquifer": {
 "FIAKeyTerms": {
-"timestamp": "2026-08-04T20:53:55.061310"
+"timestamp": "2026-09-02T15:53:19.121780"
 }
 }
 },
@@ -106,7 +106,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 15095,
+"size": 15315,
 "scope": {
 "an": [
 "安息日",
@@ -178,7 +178,7 @@
 },
 "json/009.content.json": {
 "mimeType": "text/json",
-"size": 43282,
+"size": 45914,
 "scope": {
 "dao": [
 "祷告",
@@ -242,7 +242,7 @@
 },
 "json/015.content.json": {
 "mimeType": "text/json",
-"size": 23162,
+"size": 23166,
 "scope": {
 "fan": [
 "燔祭",
@@ -252,7 +252,7 @@
 },
 "json/016.content.json": {
 "mimeType": "text/json",
-"size": 7392,
+"size": 7834,
 "scope": {
 "fang": [
 "方言",
@@ -264,7 +264,7 @@
 },
 "json/017.content.json": {
 "mimeType": "text/json",
-"size": 9320,
+"size": 9540,
 "scope": {
 "fen": [
 "坟墓",
@@ -274,7 +274,7 @@
 },
 "json/018.content.json": {
 "mimeType": "text/json",
-"size": 17914,
+"size": 18798,
 "scope": {
 "fu": [
 "福音",
@@ -286,7 +286,7 @@
 },
 "json/019.content.json": {
 "mimeType": "text/json",
-"size": 18843,
+"size": 19285,
 "scope": {
 "gao": [
 "膏抹",
@@ -308,7 +308,7 @@
 },
 "json/021.content.json": {
 "mimeType": "text/json",
-"size": 28817,
+"size": 29257,
 "scope": {
 "gong": [
 "公会",
@@ -340,7 +340,7 @@
 },
 "json/024.content.json": {
 "mimeType": "text/json",
-"size": 38460,
+"size": 39780,
 "scope": {
 "guo": [
 "国",
@@ -382,7 +382,7 @@
 },
 "json/028.content.json": {
 "mimeType": "text/json",
-"size": 49335,
+"size": 49777,
 "scope": {
 "hui": [
 "悔改",
@@ -396,7 +396,7 @@
 },
 "json/029.content.json": {
 "mimeType": "text/json",
-"size": 84943,
+"size": 85427,
 "scope": {
 "ji": [
 "基督",
@@ -412,7 +412,7 @@
 },
 "json/030.content.json": {
 "mimeType": "text/json",
-"size": 50227,
+"size": 50223,
 "scope": {
 "jia": [
 "加利利",
@@ -450,7 +450,7 @@
 },
 "json/033.content.json": {
 "mimeType": "text/json",
-"size": 24503,
+"size": 24723,
 "scope": {
 "jie": [
 "洁净/不洁净",
@@ -460,7 +460,7 @@
 },
 "json/034.content.json": {
 "mimeType": "text/json",
-"size": 7164,
+"size": 7602,
 "scope": {
 "jin": [
 "禁食",
@@ -480,7 +480,7 @@
 },
 "json/036.content.json": {
 "mimeType": "text/json",
-"size": 16223,
+"size": 16879,
 "scope": {
 "jiu": [
 "酒榨",
@@ -504,7 +504,7 @@
 },
 "json/038.content.json": {
 "mimeType": "text/json",
-"size": 25980,
+"size": 26422,
 "scope": {
 "kuang": [
 "筐子、箱子、篮子",
@@ -526,7 +526,7 @@
 },
 "json/040.content.json": {
 "mimeType": "text/json",
-"size": 6626,
+"size": 6846,
 "scope": {
 "li": [
 "里衣、内衣、内袍",
@@ -538,7 +538,7 @@
 },
 "json/041.content.json": {
 "mimeType": "text/json",
-"size": 16921,
+"size": 17139,
 "scope": {
 "lian": [
 "怜悯",
@@ -550,7 +550,7 @@
 },
 "json/042.content.json": {
 "mimeType": "text/json",
-"size": 24573,
+"size": 24793,
 "scope": {
 "ling": [
 "灵",
@@ -562,7 +562,7 @@
 },
 "json/043.content.json": {
 "mimeType": "text/json",
-"size": 47249,
+"size": 48129,
 "scope": {
 "lv": [
 "驴",
@@ -576,7 +576,7 @@
 },
 "json/044.content.json": {
 "mimeType": "text/json",
-"size": 3536,
+"size": 3974,
 "scope": {
 "luo": [
 "骆驼",
@@ -586,7 +586,7 @@
 },
 "json/045.content.json": {
 "mimeType": "text/json",
-"size": 8123,
+"size": 8779,
 "scope": {
 "ma": [
 "痲疯病",
@@ -628,7 +628,7 @@
 },
 "json/049.content.json": {
 "mimeType": "text/json",
-"size": 8371,
+"size": 8147,
 "scope": {
 "mu": [
 "牧羊人",
@@ -648,7 +648,7 @@
 },
 "json/051.content.json": {
 "mimeType": "text/json",
-"size": 16083,
+"size": 16519,
 "scope": {
 "nu": [
 "奴隶",
@@ -658,7 +658,7 @@
 },
 "json/052.content.json": {
 "mimeType": "text/json",
-"size": 32686,
+"size": 33134,
 "scope": {
 "pu": [
 "仆人",
@@ -670,7 +670,7 @@
 },
 "json/053.content.json": {
 "mimeType": "text/json",
-"size": 8689,
+"size": 9129,
 "scope": {
 "qu": [
 "屈身、跪拜",
@@ -700,7 +700,7 @@
 },
 "json/056.content.json": {
 "mimeType": "text/json",
-"size": 16954,
+"size": 17174,
 "scope": {
 "rao": [
 "饶恕",
@@ -720,7 +720,7 @@
 },
 "json/058.content.json": {
 "mimeType": "text/json",
-"size": 25531,
+"size": 25969,
 "scope": {
 "rong": [
 "荣耀",
@@ -732,7 +732,7 @@
 },
 "json/059.content.json": {
 "mimeType": "text/json",
-"size": 14171,
+"size": 14615,
 "scope": {
 "sa": [
 "撒但",
@@ -754,7 +754,7 @@
 },
 "json/061.content.json": {
 "mimeType": "text/json",
-"size": 82482,
+"size": 82706,
 "scope": {
 "shen": [
 "神的儿子",
@@ -786,7 +786,7 @@
 },
 "json/063.content.json": {
 "mimeType": "text/json",
-"size": 61293,
+"size": 62625,
 "scope": {
 "shi": [
 "施洗约翰",
@@ -804,7 +804,7 @@
 },
 "json/064.content.json": {
 "mimeType": "text/json",
-"size": 1744,
+"size": 1964,
 "scope": {
 "shou": [
 "守望台",
@@ -834,7 +834,7 @@
 },
 "json/067.content.json": {
 "mimeType": "text/json",
-"size": 45531,
+"size": 45753,
 "scope": {
 "tian": [
 "天使",
@@ -846,7 +846,7 @@
 },
 "json/068.content.json": {
 "mimeType": "text/json",
-"size": 29739,
+"size": 30839,
 "scope": {
 "wai": [
 "外邦人",
@@ -860,7 +860,7 @@
 },
 "json/069.content.json": {
 "mimeType": "text/json",
-"size": 22882,
+"size": 22880,
 "scope": {
 "wang": [
 "王",
@@ -870,7 +870,7 @@
 },
 "json/070.content.json": {
 "mimeType": "text/json",
-"size": 11094,
+"size": 10876,
 "scope": {
 "wen": [
 "文士",
@@ -906,7 +906,7 @@
 },
 "json/073.content.json": {
 "mimeType": "text/json",
-"size": 53463,
+"size": 53427,
 "scope": {
 "xian": [
 "先知",
@@ -918,7 +918,7 @@
 },
 "json/074.content.json": {
 "mimeType": "text/json",
-"size": 49075,
+"size": 49291,
 "scope": {
 "xie": [
 "邪恶",
@@ -934,7 +934,7 @@
 },
 "json/075.content.json": {
 "mimeType": "text/json",
-"size": 61838,
+"size": 61836,
 "scope": {
 "xin": [
 "心",
@@ -988,7 +988,7 @@
 },
 "json/080.content.json": {
 "mimeType": "text/json",
-"size": 14961,
+"size": 15403,
 "scope": {
 "yi": [
 "医治",
@@ -1014,7 +1014,7 @@
 },
 "json/082.content.json": {
 "mimeType": "text/json",
-"size": 28238,
+"size": 28450,
 "scope": {
 "you": [
 "犹大（旧约）犹太（新约）",
@@ -1026,7 +1026,7 @@
 },
 "json/083.content.json": {
 "mimeType": "text/json",
-"size": 22293,
+"size": 22513,
 "scope": {
 "yu": [
 "渔网",
@@ -1050,7 +1050,7 @@
 },
 "json/085.content.json": {
 "mimeType": "text/json",
-"size": 40940,
+"size": 42258,
 "scope": {
 "yue": [
 "约",
@@ -1074,7 +1074,7 @@
 },
 "json/087.content.json": {
 "mimeType": "text/json",
-"size": 22317,
+"size": 22979,
 "scope": {
 "zhang": [
 "长老",
@@ -1084,7 +1084,7 @@
 },
 "json/088.content.json": {
 "mimeType": "text/json",
-"size": 13578,
+"size": 13798,
 "scope": {
 "zhi": [
 "智慧",
@@ -1094,7 +1094,7 @@
 },
 "json/089.content.json": {
 "mimeType": "text/json",
-"size": 5171,
+"size": 5395,
 "scope": {
 "zhong": [
 "种子",
@@ -1104,7 +1104,7 @@
 },
 "json/090.content.json": {
 "mimeType": "text/json",
-"size": 13328,
+"size": 13552,
 "scope": {
 "zhou": [
 "咒诅",
@@ -1114,7 +1114,7 @@
 },
 "json/091.content.json": {
 "mimeType": "text/json",
-"size": 60390,
+"size": 60372,
 "scope": {
 "zhu": [
 "主",
@@ -1130,7 +1130,7 @@
 },
 "json/092.content.json": {
 "mimeType": "text/json",
-"size": 28261,
+"size": 28263,
 "scope": {
 "zui": [
 "罪",
@@ -1140,371 +1140,371 @@
 },
 "md/081.content.md": {
 "mimeType": "text/markdown",
-"size": 2970
+"size": 3017
 },
 "md/086.content.md": {
 "mimeType": "text/markdown",
-"size": 1289
+"size": 1336
 },
 "md/079.content.md": {
 "mimeType": "text/markdown",
-"size": 5965
+"size": 6012
 },
 "md/039.content.md": {
 "mimeType": "text/markdown",
-"size": 2028
+"size": 2075
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 6650
+"size": 6697
 },
 "md/048.content.md": {
 "mimeType": "text/markdown",
-"size": 3037
+"size": 3084
 },
 "md/038.content.md": {
 "mimeType": "text/markdown",
-"size": 6334
+"size": 6453
 },
 "md/092.content.md": {
 "mimeType": "text/markdown",
-"size": 10144
+"size": 10193
 },
 "md/078.content.md": {
 "mimeType": "text/markdown",
-"size": 2009
+"size": 2056
 },
 "md/087.content.md": {
 "mimeType": "text/markdown",
-"size": 5573
+"size": 5748
 },
 "md/080.content.md": {
 "mimeType": "text/markdown",
-"size": 7589
+"size": 7724
 },
 "md/049.content.md": {
 "mimeType": "text/markdown",
-"size": 3320
+"size": 3327
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 11199
+"size": 11758
 },
 "md/056.content.md": {
 "mimeType": "text/markdown",
-"size": 5344
+"size": 5435
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 1551
+"size": 1598
 },
 "md/051.content.md": {
 "mimeType": "text/markdown",
-"size": 4241
+"size": 4372
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
-"size": 1572
+"size": 1619
 },
 "md/044.content.md": {
 "mimeType": "text/markdown",
-"size": 1843
+"size": 1976
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 4078
+"size": 4125
 },
 "md/043.content.md": {
 "mimeType": "text/markdown",
-"size": 13472
+"size": 13697
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 3942
+"size": 4071
 },
 "md/075.content.md": {
 "mimeType": "text/markdown",
-"size": 19048
+"size": 19095
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 2111
+"size": 2158
 },
 "md/072.content.md": {
 "mimeType": "text/markdown",
-"size": 8318
+"size": 8365
 },
 "md/027.content.md": {
 "mimeType": "text/markdown",
-"size": 3590
+"size": 3637
 },
 "md/067.content.md": {
 "mimeType": "text/markdown",
-"size": 12312
+"size": 12399
 },
 "md/032.content.md": {
 "mimeType": "text/markdown",
-"size": 2707
+"size": 2754
 },
 "md/060.content.md": {
 "mimeType": "text/markdown",
-"size": 1316
+"size": 1363
 },
 "md/035.content.md": {
 "mimeType": "text/markdown",
-"size": 4499
+"size": 4546
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
-"size": 3179
+"size": 3270
 },
 "md/042.content.md": {
 "mimeType": "text/markdown",
-"size": 8861
+"size": 8952
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 1431
+"size": 1478
 },
 "md/045.content.md": {
 "mimeType": "text/markdown",
-"size": 4007
+"size": 4182
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 2607
+"size": 2654
 },
 "md/050.content.md": {
 "mimeType": "text/markdown",
-"size": 2190
+"size": 2237
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 5113
+"size": 5204
 },
 "md/057.content.md": {
 "mimeType": "text/markdown",
-"size": 5206
+"size": 5253
 },
 "md/034.content.md": {
 "mimeType": "text/markdown",
-"size": 3303
+"size": 3430
 },
 "md/061.content.md": {
 "mimeType": "text/markdown",
-"size": 23671
+"size": 23764
 },
 "md/033.content.md": {
 "mimeType": "text/markdown",
-"size": 7918
+"size": 8009
 },
 "md/066.content.md": {
 "mimeType": "text/markdown",
-"size": 1723
+"size": 1770
 },
 "md/026.content.md": {
 "mimeType": "text/markdown",
-"size": 1832
+"size": 1879
 },
 "md/073.content.md": {
 "mimeType": "text/markdown",
-"size": 17204
+"size": 17235
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 8800
+"size": 8945
 },
 "md/074.content.md": {
 "mimeType": "text/markdown",
-"size": 13196
+"size": 13301
 },
 "md/047.content.md": {
 "mimeType": "text/markdown",
-"size": 5971
+"size": 6018
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 3179
+"size": 3226
 },
 "md/040.content.md": {
 "mimeType": "text/markdown",
-"size": 2586
+"size": 2677
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 5309
+"size": 5360
 },
 "md/055.content.md": {
 "mimeType": "text/markdown",
-"size": 1169
+"size": 1216
 },
 "md/052.content.md": {
 "mimeType": "text/markdown",
-"size": 9134
+"size": 9261
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
-"size": 3465
+"size": 3512
 },
 "md/064.content.md": {
 "mimeType": "text/markdown",
-"size": 1573
+"size": 1664
 },
 "md/031.content.md": {
 "mimeType": "text/markdown",
-"size": 2596
+"size": 2643
 },
 "md/063.content.md": {
 "mimeType": "text/markdown",
-"size": 17833
+"size": 18134
 },
 "md/036.content.md": {
 "mimeType": "text/markdown",
-"size": 5618
+"size": 5801
 },
 "md/076.content.md": {
 "mimeType": "text/markdown",
-"size": 1526
+"size": 1573
 },
 "md/023.content.md": {
 "mimeType": "text/markdown",
-"size": 4138
+"size": 4185
 },
 "md/089.content.md": {
 "mimeType": "text/markdown",
-"size": 1910
+"size": 1997
 },
 "md/071.content.md": {
 "mimeType": "text/markdown",
-"size": 6210
+"size": 6257
 },
 "md/024.content.md": {
 "mimeType": "text/markdown",
-"size": 8610
+"size": 8895
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
-"size": 1235
+"size": 1282
 },
 "md/053.content.md": {
 "mimeType": "text/markdown",
-"size": 2635
+"size": 2770
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 2735
+"size": 2782
 },
 "md/054.content.md": {
 "mimeType": "text/markdown",
-"size": 2727
+"size": 2774
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 4659
+"size": 4706
 },
 "md/041.content.md": {
 "mimeType": "text/markdown",
-"size": 5198
+"size": 5281
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 5281
+"size": 5328
 },
 "md/046.content.md": {
 "mimeType": "text/markdown",
-"size": 6225
+"size": 6272
 },
 "md/025.content.md": {
 "mimeType": "text/markdown",
-"size": 3202
+"size": 3249
 },
 "md/070.content.md": {
 "mimeType": "text/markdown",
-"size": 4552
+"size": 4557
 },
 "md/088.content.md": {
 "mimeType": "text/markdown",
-"size": 4289
+"size": 4380
 },
 "md/022.content.md": {
 "mimeType": "text/markdown",
-"size": 1162
+"size": 1209
 },
 "md/077.content.md": {
 "mimeType": "text/markdown",
-"size": 1405
+"size": 1452
 },
 "md/037.content.md": {
 "mimeType": "text/markdown",
-"size": 2457
+"size": 2504
 },
 "md/062.content.md": {
 "mimeType": "text/markdown",
-"size": 26120
+"size": 26161
 },
 "md/030.content.md": {
 "mimeType": "text/markdown",
-"size": 14180
+"size": 14215
 },
 "md/065.content.md": {
 "mimeType": "text/markdown",
-"size": 1626
+"size": 1673
 },
 "md/090.content.md": {
 "mimeType": "text/markdown",
-"size": 3589
+"size": 3676
 },
 "md/068.content.md": {
 "mimeType": "text/markdown",
-"size": 8960
+"size": 9227
 },
 "md/028.content.md": {
 "mimeType": "text/markdown",
-"size": 15670
+"size": 15817
 },
 "md/082.content.md": {
 "mimeType": "text/markdown",
-"size": 7635
+"size": 7724
 },
 "md/085.content.md": {
 "mimeType": "text/markdown",
-"size": 14624
+"size": 14915
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 6014
+"size": 6143
 },
 "md/059.content.md": {
 "mimeType": "text/markdown",
-"size": 5190
+"size": 5337
 },
 "md/084.content.md": {
 "mimeType": "text/markdown",
-"size": 927
+"size": 974
 },
 "md/083.content.md": {
 "mimeType": "text/markdown",
-"size": 9872
+"size": 9963
 },
 "md/029.content.md": {
 "mimeType": "text/markdown",
-"size": 23818
+"size": 24025
 },
 "md/069.content.md": {
 "mimeType": "text/markdown",
-"size": 5426
+"size": 5459
 },
 "md/091.content.md": {
 "mimeType": "text/markdown",
-"size": 15222
+"size": 15243
 },
 "md/058.content.md": {
 "mimeType": "text/markdown",
-"size": 7079
+"size": 7224
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
-"size": 6142
+"size": 6389
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",

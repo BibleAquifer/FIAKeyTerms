@@ -252,6 +252,18 @@
 "end_ref_usfm": "DEU 9:17"
 },
 {
+"start_ref": "05029001",
+"start_ref_usfm": "DEU 29:1",
+"end_ref": "05029008",
+"end_ref_usfm": "DEU 29:8"
+},
+{
+"start_ref": "05029009",
+"start_ref_usfm": "DEU 29:9",
+"end_ref": "05029015",
+"end_ref_usfm": "DEU 29:15"
+},
+{
 "start_ref": "06007010",
 "start_ref_usfm": "JOS 7:10",
 "end_ref": "06007026",
@@ -551,7 +563,7 @@
 {
 "id": "keyterm:Covenant",
 "type": "keyterm",
-"confidence": 0.5889,
+"confidence": 0.5898,
 "match_method": "scored",
 "preferred_label": "Covenant"
 }
@@ -809,6 +821,18 @@
 "start_ref_usfm": "DEU 9:7",
 "end_ref": "05009017",
 "end_ref_usfm": "DEU 9:17"
+},
+{
+"start_ref": "05029001",
+"start_ref_usfm": "DEU 29:1",
+"end_ref": "05029008",
+"end_ref_usfm": "DEU 29:8"
+},
+{
+"start_ref": "05029009",
+"start_ref_usfm": "DEU 29:9",
+"end_ref": "05029015",
+"end_ref_usfm": "DEU 29:15"
 },
 {
 "start_ref": "06007010",
@@ -1403,6 +1427,30 @@
 "end_ref_usfm": "2KI 2:25"
 },
 {
+"start_ref": "12005001",
+"start_ref_usfm": "2KI 5:1",
+"end_ref": "12005014",
+"end_ref_usfm": "2KI 5:14"
+},
+{
+"start_ref": "12006001",
+"start_ref_usfm": "2KI 6:1",
+"end_ref": "12006007",
+"end_ref_usfm": "2KI 6:7"
+},
+{
+"start_ref": "12007003",
+"start_ref_usfm": "2KI 7:3",
+"end_ref": "12007020",
+"end_ref_usfm": "2KI 7:20"
+},
+{
+"start_ref": "12010028",
+"start_ref_usfm": "2KI 10:28",
+"end_ref": "12010036",
+"end_ref_usfm": "2KI 10:36"
+},
+{
 "start_ref": "13026029",
 "start_ref_usfm": "1CH 26:29",
 "end_ref": "13026032",
@@ -1438,7 +1486,7 @@
 {
 "id": "place:Jordan",
 "type": "place",
-"confidence": 0.6597,
+"confidence": 0.659,
 "match_method": "scored",
 "preferred_label": "Jordan River"
 }
@@ -1738,6 +1786,30 @@
 "start_ref_usfm": "2KI 2:13",
 "end_ref": "12002025",
 "end_ref_usfm": "2KI 2:25"
+},
+{
+"start_ref": "12005001",
+"start_ref_usfm": "2KI 5:1",
+"end_ref": "12005014",
+"end_ref_usfm": "2KI 5:14"
+},
+{
+"start_ref": "12006001",
+"start_ref_usfm": "2KI 6:1",
+"end_ref": "12006007",
+"end_ref_usfm": "2KI 6:7"
+},
+{
+"start_ref": "12007003",
+"start_ref_usfm": "2KI 7:3",
+"end_ref": "12007020",
+"end_ref_usfm": "2KI 7:20"
+},
+{
+"start_ref": "12010028",
+"start_ref_usfm": "2KI 10:28",
+"end_ref": "12010036",
+"end_ref_usfm": "2KI 10:36"
 },
 {
 "start_ref": "13026029",

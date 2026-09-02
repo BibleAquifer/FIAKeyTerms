@@ -323,7 +323,7 @@
 {
 "id": "keyterm:Sabbath",
 "type": "keyterm",
-"confidence": 0.5996,
+"confidence": 0.5983,
 "match_method": "scored",
 "preferred_label": "Sabbath"
 }
@@ -948,7 +948,7 @@
 {
 "id": "keyterm:Slaughtering",
 "type": "keyterm",
-"confidence": 0.5748,
+"confidence": 0.5756,
 "match_method": "scored",
 "preferred_label": "Slaughtering"
 }
@@ -1604,7 +1604,7 @@
 {
 "id": "group:Samaritan",
 "type": "group",
-"confidence": 0.6114,
+"confidence": 0.6109,
 "match_method": "scored",
 "preferred_label": "Samaritans"
 },
@@ -2417,7 +2417,7 @@
 {
 "id": "deity:Satan",
 "type": "deity",
-"confidence": 0.6364,
+"confidence": 0.6358,
 "match_method": "scored",
 "preferred_label": "Satan"
 }
@@ -8072,18 +8072,18 @@
 "resource": [],
 "acai": [
 {
-"id": "group:Phoenicia",
-"type": "group",
-"confidence": 0.6571,
-"match_method": "scored",
-"preferred_label": "Syrophoenicians"
-},
-{
 "id": "place:Phoenicia",
 "type": "place",
 "confidence": 0.6571,
 "match_method": "scored",
 "preferred_label": "Fonisia"
+},
+{
+"id": "group:Phoenicia",
+"type": "group",
+"confidence": 0.6571,
+"match_method": "scored",
+"preferred_label": "Syrophoenicians"
 }
 ]
 }
