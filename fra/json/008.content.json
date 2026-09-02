@@ -219,6 +219,12 @@
 "end_ref_usfm": "2CH 32:23"
 },
 {
+"start_ref": "32001001",
+"start_ref_usfm": "JON 1:1",
+"end_ref": "32001016",
+"end_ref_usfm": "JON 1:16"
+},
+{
 "start_ref": "43019017",
 "start_ref_usfm": "JHN 19:17",
 "end_ref": "43019030",
@@ -249,6 +255,12 @@
 "end_ref_usfm": "ACT 26:23"
 },
 {
+"start_ref": "47011016",
+"start_ref_usfm": "2CO 11:16",
+"end_ref": "47011033",
+"end_ref_usfm": "2CO 11:33"
+},
+{
 "start_ref": "50003002",
 "start_ref_usfm": "PHP 3:2",
 "end_ref": "50003011",
@@ -260,7 +272,7 @@
 {
 "id": "group:Hebrews",
 "type": "group",
-"confidence": 0.6288,
+"confidence": 0.6283,
 "match_method": "scored",
 "preferred_label": "Hebrews"
 }
@@ -406,6 +418,12 @@
 "end_ref_usfm": "2CH 32:23"
 },
 {
+"start_ref": "32001001",
+"start_ref_usfm": "JON 1:1",
+"end_ref": "32001016",
+"end_ref_usfm": "JON 1:16"
+},
+{
 "start_ref": "43019017",
 "start_ref_usfm": "JHN 19:17",
 "end_ref": "43019030",
@@ -434,6 +452,12 @@
 "start_ref_usfm": "ACT 26:1",
 "end_ref": "44026023",
 "end_ref_usfm": "ACT 26:23"
+},
+{
+"start_ref": "47011016",
+"start_ref_usfm": "2CO 11:16",
+"end_ref": "47011033",
+"end_ref_usfm": "2CO 11:33"
 },
 {
 "start_ref": "50003002",
@@ -1419,6 +1443,18 @@
 "end_ref_usfm": "2KI 3:25"
 },
 {
+"start_ref": "12005015",
+"start_ref_usfm": "2KI 5:15",
+"end_ref": "12005027",
+"end_ref_usfm": "2KI 5:27"
+},
+{
+"start_ref": "12010018",
+"start_ref_usfm": "2KI 10:18",
+"end_ref": "12010027",
+"end_ref_usfm": "2KI 10:27"
+},
+{
 "start_ref": "13006049",
 "start_ref_usfm": "1CH 6:49",
 "end_ref": "13006053",
@@ -1543,18 +1579,6 @@
 "start_ref_usfm": "2CH 31:1",
 "end_ref": "14031010",
 "end_ref_usfm": "2CH 31:10"
-},
-{
-"start_ref": "14035001",
-"start_ref_usfm": "2CH 35:1",
-"end_ref": "14035019",
-"end_ref_usfm": "2CH 35:19"
-},
-{
-"start_ref": "15006001",
-"start_ref_usfm": "EZR 6:1",
-"end_ref": "15006012",
-"end_ref_usfm": "EZR 6:12"
 }
 ],
 "resource": [],
@@ -2036,6 +2060,18 @@
 "end_ref_usfm": "2KI 3:25"
 },
 {
+"start_ref": "12005015",
+"start_ref_usfm": "2KI 5:15",
+"end_ref": "12005027",
+"end_ref_usfm": "2KI 5:27"
+},
+{
+"start_ref": "12010018",
+"start_ref_usfm": "2KI 10:18",
+"end_ref": "12010027",
+"end_ref_usfm": "2KI 10:27"
+},
+{
 "start_ref": "13006049",
 "start_ref_usfm": "1CH 6:49",
 "end_ref": "13006053",
@@ -2160,18 +2196,6 @@
 "start_ref_usfm": "2CH 31:1",
 "end_ref": "14031010",
 "end_ref_usfm": "2CH 31:10"
-},
-{
-"start_ref": "14035001",
-"start_ref_usfm": "2CH 35:1",
-"end_ref": "14035019",
-"end_ref_usfm": "2CH 35:19"
-},
-{
-"start_ref": "15006001",
-"start_ref_usfm": "EZR 6:1",
-"end_ref": "15006012",
-"end_ref_usfm": "EZR 6:12"
 }
 ],
 "resource": []

@@ -1499,6 +1499,12 @@
 "end_ref_usfm": "2CO 1:22"
 },
 {
+"start_ref": "47008001",
+"start_ref_usfm": "2CO 8:1",
+"end_ref": "47008007",
+"end_ref_usfm": "2CO 8:7"
+},
+{
 "start_ref": "53001005",
 "start_ref_usfm": "2TH 1:5",
 "end_ref": "53001012",
@@ -1564,7 +1570,7 @@
 {
 "id": "keyterm:Witness.2",
 "type": "keyterm",
-"confidence": 0.5671,
+"confidence": 0.5669,
 "match_method": "scored",
 "preferred_label": "témoin"
 }
@@ -1828,6 +1834,12 @@
 "start_ref_usfm": "2CO 1:12",
 "end_ref": "47001022",
 "end_ref_usfm": "2CO 1:22"
+},
+{
+"start_ref": "47008001",
+"start_ref_usfm": "2CO 8:1",
+"end_ref": "47008007",
+"end_ref_usfm": "2CO 8:7"
 },
 {
 "start_ref": "53001005",
@@ -2116,6 +2128,18 @@
 "end_ref_usfm": "1KI 16:34"
 },
 {
+"start_ref": "12005015",
+"start_ref_usfm": "2KI 5:15",
+"end_ref": "12005027",
+"end_ref_usfm": "2KI 5:27"
+},
+{
+"start_ref": "12010018",
+"start_ref_usfm": "2KI 10:18",
+"end_ref": "12010027",
+"end_ref_usfm": "2KI 10:27"
+},
+{
 "start_ref": "13006001",
 "start_ref_usfm": "1CH 6:1",
 "end_ref": "13006015",
@@ -2492,18 +2516,6 @@
 "start_ref_usfm": "EZR 4:1",
 "end_ref": "15004006",
 "end_ref_usfm": "EZR 4:6"
-},
-{
-"start_ref": "15004017",
-"start_ref_usfm": "EZR 4:17",
-"end_ref": "15004024",
-"end_ref_usfm": "EZR 4:24"
-},
-{
-"start_ref": "15005001",
-"start_ref_usfm": "EZR 5:1",
-"end_ref": "15005005",
-"end_ref_usfm": "EZR 5:5"
 }
 ],
 "resource": [],
@@ -2741,6 +2753,18 @@
 "end_ref_usfm": "1KI 16:34"
 },
 {
+"start_ref": "12005015",
+"start_ref_usfm": "2KI 5:15",
+"end_ref": "12005027",
+"end_ref_usfm": "2KI 5:27"
+},
+{
+"start_ref": "12010018",
+"start_ref_usfm": "2KI 10:18",
+"end_ref": "12010027",
+"end_ref_usfm": "2KI 10:27"
+},
+{
 "start_ref": "13006001",
 "start_ref_usfm": "1CH 6:1",
 "end_ref": "13006015",
@@ -3117,18 +3141,6 @@
 "start_ref_usfm": "EZR 4:1",
 "end_ref": "15004006",
 "end_ref_usfm": "EZR 4:6"
-},
-{
-"start_ref": "15004017",
-"start_ref_usfm": "EZR 4:17",
-"end_ref": "15004024",
-"end_ref_usfm": "EZR 4:24"
-},
-{
-"start_ref": "15005001",
-"start_ref_usfm": "EZR 5:1",
-"end_ref": "15005005",
-"end_ref_usfm": "EZR 5:5"
 }
 ],
 "resource": []
@@ -3147,6 +3159,12 @@
 "associations": {
 "passage": [
 {
+"start_ref": "12009014",
+"start_ref_usfm": "2KI 9:14",
+"end_ref": "12009029",
+"end_ref_usfm": "2KI 9:29"
+},
+{
 "start_ref": "40021033",
 "start_ref_usfm": "MAT 21:33",
 "end_ref": "40021046",
@@ -3164,7 +3182,7 @@
 {
 "id": "realia:Tower",
 "type": "realia",
-"confidence": 0.5858,
+"confidence": 0.5836,
 "match_method": "scored",
 "preferred_label": "Tower"
 }
@@ -3183,6 +3201,12 @@
 "content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t144/v1/vbr4.mp3'>mp3 file</a> (763484 KB)</p>",
 "associations": {
 "passage": [
+{
+"start_ref": "12009014",
+"start_ref_usfm": "2KI 9:14",
+"end_ref": "12009029",
+"end_ref_usfm": "2KI 9:29"
+},
 {
 "start_ref": "40021033",
 "start_ref_usfm": "MAT 21:33",
@@ -3282,6 +3306,12 @@
 "start_ref_usfm": "EZR 9:5",
 "end_ref": "15009015",
 "end_ref_usfm": "EZR 9:15"
+},
+{
+"start_ref": "16007066",
+"start_ref_usfm": "NEH 7:66",
+"end_ref": "16007073",
+"end_ref_usfm": "NEH 7:73"
 },
 {
 "start_ref": "40005033",
@@ -3428,6 +3458,12 @@
 "start_ref_usfm": "EZR 9:5",
 "end_ref": "15009015",
 "end_ref_usfm": "EZR 9:15"
+},
+{
+"start_ref": "16007066",
+"start_ref_usfm": "NEH 7:66",
+"end_ref": "16007073",
+"end_ref_usfm": "NEH 7:73"
 },
 {
 "start_ref": "40005033",

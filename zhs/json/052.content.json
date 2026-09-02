@@ -162,6 +162,12 @@
 "end_ref_usfm": "DEU 9:29"
 },
 {
+"start_ref": "05029001",
+"start_ref_usfm": "DEU 29:1",
+"end_ref": "05029008",
+"end_ref_usfm": "DEU 29:8"
+},
+{
 "start_ref": "05030011",
 "start_ref_usfm": "DEU 30:11",
 "end_ref": "05030020",
@@ -604,12 +610,6 @@
 "start_ref_usfm": "2SA 24:18",
 "end_ref": "10024025",
 "end_ref_usfm": "2SA 24:25"
-},
-{
-"start_ref": "11001001",
-"start_ref_usfm": "1KI 1:1",
-"end_ref": "11001004",
-"end_ref_usfm": "1KI 1:4"
 }
 ],
 "resource": [],
@@ -779,6 +779,12 @@
 "end_ref_usfm": "DEU 9:29"
 },
 {
+"start_ref": "05029001",
+"start_ref_usfm": "DEU 29:1",
+"end_ref": "05029008",
+"end_ref_usfm": "DEU 29:8"
+},
+{
 "start_ref": "05030011",
 "start_ref_usfm": "DEU 30:11",
 "end_ref": "05030020",
@@ -1221,12 +1227,6 @@
 "start_ref_usfm": "2SA 24:18",
 "end_ref": "10024025",
 "end_ref_usfm": "2SA 24:25"
-},
-{
-"start_ref": "11001001",
-"start_ref_usfm": "1KI 1:1",
-"end_ref": "11001004",
-"end_ref_usfm": "1KI 1:4"
 }
 ],
 "resource": []
@@ -1317,6 +1317,12 @@
 "end_ref_usfm": "DEU 28:37"
 },
 {
+"start_ref": "05028038",
+"start_ref_usfm": "DEU 28:38",
+"end_ref": "05028046",
+"end_ref_usfm": "DEU 28:46"
+},
+{
 "start_ref": "05032026",
 "start_ref_usfm": "DEU 32:26",
 "end_ref": "05032035",
@@ -1369,6 +1375,12 @@
 "start_ref_usfm": "1KI 21:17",
 "end_ref": "11021029",
 "end_ref_usfm": "1KI 21:29"
+},
+{
+"start_ref": "12005015",
+"start_ref_usfm": "2KI 5:15",
+"end_ref": "12005027",
+"end_ref_usfm": "2KI 5:27"
 },
 {
 "start_ref": "13027025",
@@ -1436,7 +1448,7 @@
 {
 "id": "flora:Vine",
 "type": "flora",
-"confidence": 0.6138,
+"confidence": 0.6119,
 "match_method": "scored",
 "preferred_label": "Vine"
 }
@@ -1528,6 +1540,12 @@
 "end_ref_usfm": "DEU 28:37"
 },
 {
+"start_ref": "05028038",
+"start_ref_usfm": "DEU 28:38",
+"end_ref": "05028046",
+"end_ref_usfm": "DEU 28:46"
+},
+{
 "start_ref": "05032026",
 "start_ref_usfm": "DEU 32:26",
 "end_ref": "05032035",
@@ -1580,6 +1598,12 @@
 "start_ref_usfm": "1KI 21:17",
 "end_ref": "11021029",
 "end_ref_usfm": "1KI 21:29"
+},
+{
+"start_ref": "12005015",
+"start_ref_usfm": "2KI 5:15",
+"end_ref": "12005027",
+"end_ref_usfm": "2KI 5:27"
 },
 {
 "start_ref": "13027025",
