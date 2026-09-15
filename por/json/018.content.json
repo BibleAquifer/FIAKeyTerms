@@ -144,6 +144,12 @@
 "end_ref_usfm": "2KI 4:37"
 },
 {
+"start_ref": "12011001",
+"start_ref_usfm": "2KI 11:1",
+"end_ref": "12011012",
+"end_ref_usfm": "2KI 11:12"
+},
+{
 "start_ref": "13009028",
 "start_ref_usfm": "1CH 9:28",
 "end_ref": "13009034",
@@ -359,7 +365,7 @@
 {
 "id": "keyterm:Sabbath",
 "type": "keyterm",
-"confidence": 0.5983,
+"confidence": 0.599,
 "match_method": "scored",
 "preferred_label": "sabbath"
 }
@@ -509,6 +515,12 @@
 "start_ref_usfm": "2KI 4:18",
 "end_ref": "12004037",
 "end_ref_usfm": "2KI 4:37"
+},
+{
+"start_ref": "12011001",
+"start_ref_usfm": "2KI 11:1",
+"end_ref": "12011012",
+"end_ref_usfm": "2KI 11:12"
 },
 {
 "start_ref": "13009028",
@@ -3169,10 +3181,10 @@
 "end_ref_usfm": "2KI 5:27"
 },
 {
-"start_ref": "12010018",
-"start_ref_usfm": "2KI 10:18",
-"end_ref": "12010027",
-"end_ref_usfm": "2KI 10:27"
+"start_ref": "12012001",
+"start_ref_usfm": "2KI 12:1",
+"end_ref": "12012016",
+"end_ref_usfm": "2KI 12:16"
 },
 {
 "start_ref": "13015025",
@@ -3276,7 +3288,7 @@
 {
 "id": "keyterm:Slaughtering",
 "type": "keyterm",
-"confidence": 0.5756,
+"confidence": 0.5748,
 "match_method": "scored",
 "preferred_label": "slaughtering"
 }
@@ -3794,10 +3806,10 @@
 "end_ref_usfm": "2KI 5:27"
 },
 {
-"start_ref": "12010018",
-"start_ref_usfm": "2KI 10:18",
-"end_ref": "12010027",
-"end_ref_usfm": "2KI 10:27"
+"start_ref": "12012001",
+"start_ref_usfm": "2KI 12:1",
+"end_ref": "12012016",
+"end_ref_usfm": "2KI 12:16"
 },
 {
 "start_ref": "13015025",
@@ -4325,6 +4337,18 @@
 "end_ref_usfm": "PHP 1:26"
 },
 {
+"start_ref": "50001027",
+"start_ref_usfm": "PHP 1:27",
+"end_ref": "50001030",
+"end_ref_usfm": "PHP 1:30"
+},
+{
+"start_ref": "50002012",
+"start_ref_usfm": "PHP 2:12",
+"end_ref": "50002018",
+"end_ref_usfm": "PHP 2:18"
+},
+{
 "start_ref": "52005001",
 "start_ref_usfm": "1TH 5:1",
 "end_ref": "52005011",
@@ -4396,7 +4420,7 @@
 {
 "id": "keyterm:Salvation",
 "type": "keyterm",
-"confidence": 0.5973,
+"confidence": 0.5978,
 "match_method": "scored",
 "preferred_label": "salvation"
 }
@@ -4680,6 +4704,18 @@
 "end_ref_usfm": "PHP 1:26"
 },
 {
+"start_ref": "50001027",
+"start_ref_usfm": "PHP 1:27",
+"end_ref": "50001030",
+"end_ref_usfm": "PHP 1:30"
+},
+{
+"start_ref": "50002012",
+"start_ref_usfm": "PHP 2:12",
+"end_ref": "50002018",
+"end_ref_usfm": "PHP 2:18"
+},
+{
 "start_ref": "52005001",
 "start_ref_usfm": "1TH 5:1",
 "end_ref": "52005011",
@@ -4768,6 +4804,12 @@
 "end_ref_usfm": "2SA 22:4"
 },
 {
+"start_ref": "12013001",
+"start_ref_usfm": "2KI 13:1",
+"end_ref": "12013013",
+"end_ref_usfm": "2KI 13:13"
+},
+{
 "start_ref": "13016034",
 "start_ref_usfm": "1CH 16:34",
 "end_ref": "13016036",
@@ -4826,6 +4868,12 @@
 "start_ref_usfm": "EPH 5:22",
 "end_ref": "49005033",
 "end_ref_usfm": "EPH 5:33"
+},
+{
+"start_ref": "50003017",
+"start_ref_usfm": "PHP 3:17",
+"end_ref": "50004001",
+"end_ref_usfm": "PHP 4:1"
 },
 {
 "start_ref": "54001001",
@@ -4893,7 +4941,7 @@
 {
 "id": "keyterm:Savior",
 "type": "keyterm",
-"confidence": 0.6393,
+"confidence": 0.6376,
 "match_method": "scored",
 "preferred_label": "salvador"
 }
@@ -4917,6 +4965,12 @@
 "start_ref_usfm": "2SA 22:1",
 "end_ref": "10022004",
 "end_ref_usfm": "2SA 22:4"
+},
+{
+"start_ref": "12013001",
+"start_ref_usfm": "2KI 13:1",
+"end_ref": "12013013",
+"end_ref_usfm": "2KI 13:13"
 },
 {
 "start_ref": "13016034",
@@ -4977,6 +5031,12 @@
 "start_ref_usfm": "EPH 5:22",
 "end_ref": "49005033",
 "end_ref_usfm": "EPH 5:33"
+},
+{
+"start_ref": "50003017",
+"start_ref_usfm": "PHP 3:17",
+"end_ref": "50004001",
+"end_ref_usfm": "PHP 4:1"
 },
 {
 "start_ref": "54001001",
@@ -6515,6 +6575,18 @@
 "end_ref_usfm": "2KI 4:17"
 },
 {
+"start_ref": "12012001",
+"start_ref_usfm": "2KI 12:1",
+"end_ref": "12012016",
+"end_ref_usfm": "2KI 12:16"
+},
+{
+"start_ref": "12012017",
+"start_ref_usfm": "2KI 12:17",
+"end_ref": "12012021",
+"end_ref_usfm": "2KI 12:21"
+},
+{
 "start_ref": "13009028",
 "start_ref_usfm": "1CH 9:28",
 "end_ref": "13009034",
@@ -6531,18 +6603,6 @@
 "start_ref_usfm": "1CH 16:23",
 "end_ref": "13016033",
 "end_ref_usfm": "1CH 16:33"
-},
-{
-"start_ref": "13016034",
-"start_ref_usfm": "1CH 16:34",
-"end_ref": "13016036",
-"end_ref_usfm": "1CH 16:36"
-},
-{
-"start_ref": "13022002",
-"start_ref_usfm": "1CH 22:2",
-"end_ref": "13022019",
-"end_ref_usfm": "1CH 22:19"
 }
 ],
 "resource": [],
@@ -7140,6 +7200,18 @@
 "end_ref_usfm": "2KI 4:17"
 },
 {
+"start_ref": "12012001",
+"start_ref_usfm": "2KI 12:1",
+"end_ref": "12012016",
+"end_ref_usfm": "2KI 12:16"
+},
+{
+"start_ref": "12012017",
+"start_ref_usfm": "2KI 12:17",
+"end_ref": "12012021",
+"end_ref_usfm": "2KI 12:21"
+},
+{
 "start_ref": "13009028",
 "start_ref_usfm": "1CH 9:28",
 "end_ref": "13009034",
@@ -7156,18 +7228,6 @@
 "start_ref_usfm": "1CH 16:23",
 "end_ref": "13016033",
 "end_ref_usfm": "1CH 16:33"
-},
-{
-"start_ref": "13016034",
-"start_ref_usfm": "1CH 16:34",
-"end_ref": "13016036",
-"end_ref_usfm": "1CH 16:36"
-},
-{
-"start_ref": "13022002",
-"start_ref_usfm": "1CH 22:2",
-"end_ref": "13022019",
-"end_ref_usfm": "1CH 22:19"
 }
 ],
 "resource": []
@@ -7310,6 +7370,12 @@
 "start_ref_usfm": "PHP 1:1",
 "end_ref": "50001011",
 "end_ref_usfm": "PHP 1:11"
+},
+{
+"start_ref": "50004010",
+"start_ref_usfm": "PHP 4:10",
+"end_ref": "50004023",
+"end_ref_usfm": "PHP 4:23"
 },
 {
 "start_ref": "52003006",
@@ -7477,6 +7543,12 @@
 "start_ref_usfm": "PHP 1:1",
 "end_ref": "50001011",
 "end_ref_usfm": "PHP 1:11"
+},
+{
+"start_ref": "50004010",
+"start_ref_usfm": "PHP 4:10",
+"end_ref": "50004023",
+"end_ref_usfm": "PHP 4:23"
 },
 {
 "start_ref": "52003006",

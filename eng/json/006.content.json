@@ -444,6 +444,18 @@
 "end_ref_usfm": "PHP 1:26"
 },
 {
+"start_ref": "50001027",
+"start_ref_usfm": "PHP 1:27",
+"end_ref": "50001030",
+"end_ref_usfm": "PHP 1:30"
+},
+{
+"start_ref": "50002012",
+"start_ref_usfm": "PHP 2:12",
+"end_ref": "50002018",
+"end_ref_usfm": "PHP 2:18"
+},
+{
 "start_ref": "50003002",
 "start_ref_usfm": "PHP 3:2",
 "end_ref": "50003011",
@@ -598,18 +610,6 @@
 "start_ref_usfm": "2TI 2:14",
 "end_ref": "55002019",
 "end_ref_usfm": "2TI 2:19"
-},
-{
-"start_ref": "55002020",
-"start_ref_usfm": "2TI 2:20",
-"end_ref": "55002026",
-"end_ref_usfm": "2TI 2:26"
-},
-{
-"start_ref": "55003001",
-"start_ref_usfm": "2TI 3:1",
-"end_ref": "55003009",
-"end_ref_usfm": "2TI 3:9"
 }
 ],
 "resource": [],
@@ -625,7 +625,7 @@
 "index_reference": "faith",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t48/v1/vbr4.mp3'>mp3 file</a> (1659836 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t48/v1/vbr4.mp3'>mp3 file</a> (2305605 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -1061,6 +1061,18 @@
 "end_ref_usfm": "PHP 1:26"
 },
 {
+"start_ref": "50001027",
+"start_ref_usfm": "PHP 1:27",
+"end_ref": "50001030",
+"end_ref_usfm": "PHP 1:30"
+},
+{
+"start_ref": "50002012",
+"start_ref_usfm": "PHP 2:12",
+"end_ref": "50002018",
+"end_ref_usfm": "PHP 2:18"
+},
+{
 "start_ref": "50003002",
 "start_ref_usfm": "PHP 3:2",
 "end_ref": "50003011",
@@ -1215,18 +1227,6 @@
 "start_ref_usfm": "2TI 2:14",
 "end_ref": "55002019",
 "end_ref_usfm": "2TI 2:19"
-},
-{
-"start_ref": "55002020",
-"start_ref_usfm": "2TI 2:20",
-"end_ref": "55002026",
-"end_ref_usfm": "2TI 2:26"
-},
-{
-"start_ref": "55003001",
-"start_ref_usfm": "2TI 3:1",
-"end_ref": "55003009",
-"end_ref_usfm": "2TI 3:9"
 }
 ],
 "resource": []
@@ -1900,6 +1900,12 @@
 "start_ref_usfm": "EPH 5:15",
 "end_ref": "49005021",
 "end_ref_usfm": "EPH 5:21"
+},
+{
+"start_ref": "50002012",
+"start_ref_usfm": "PHP 2:12",
+"end_ref": "50002018",
+"end_ref_usfm": "PHP 2:18"
 }
 ],
 "resource": [],
@@ -2261,6 +2267,12 @@
 "start_ref_usfm": "EPH 5:15",
 "end_ref": "49005021",
 "end_ref_usfm": "EPH 5:21"
+},
+{
+"start_ref": "50002012",
+"start_ref_usfm": "PHP 2:12",
+"end_ref": "50002018",
+"end_ref_usfm": "PHP 2:18"
 }
 ],
 "resource": []
@@ -2303,6 +2315,12 @@
 "end_ref_usfm": "GAL 2:10"
 },
 {
+"start_ref": "50002001",
+"start_ref_usfm": "PHP 2:1",
+"end_ref": "50002004",
+"end_ref_usfm": "PHP 2:4"
+},
+{
 "start_ref": "62001001",
 "start_ref_usfm": "1JN 1:1",
 "end_ref": "62001004",
@@ -2326,7 +2344,7 @@
 {
 "id": "keyterm:Fellowship",
 "type": "keyterm",
-"confidence": 0.592,
+"confidence": 0.5964,
 "match_method": "scored",
 "preferred_label": "Fellowship"
 }
@@ -2368,6 +2386,12 @@
 "start_ref_usfm": "GAL 2:1",
 "end_ref": "48002010",
 "end_ref_usfm": "GAL 2:10"
+},
+{
+"start_ref": "50002001",
+"start_ref_usfm": "PHP 2:1",
+"end_ref": "50002004",
+"end_ref_usfm": "PHP 2:4"
 },
 {
 "start_ref": "62001001",
@@ -3236,7 +3260,7 @@
 "index_reference": "fig tree",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t51/v1/vbr4.mp3'>mp3 file</a> (381956 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t51/v1/vbr4.mp3'>mp3 file</a> (388965 KB)</p>",
 "associations": {
 "passage": [
 {

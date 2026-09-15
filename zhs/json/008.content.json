@@ -66,6 +66,18 @@
 "end_ref_usfm": "1SA 19:24"
 },
 {
+"start_ref": "12012017",
+"start_ref_usfm": "2KI 12:17",
+"end_ref": "12012021",
+"end_ref_usfm": "2KI 12:21"
+},
+{
+"start_ref": "12014001",
+"start_ref_usfm": "2KI 14:1",
+"end_ref": "12014007",
+"end_ref_usfm": "2KI 14:7"
+},
+{
 "start_ref": "13003001",
 "start_ref_usfm": "1CH 3:1",
 "end_ref": "13003009",
@@ -209,7 +221,7 @@
 {
 "id": "person:David",
 "type": "person",
-"confidence": 0.57,
+"confidence": 0.5683,
 "match_method": "scored",
 "preferred_label": "David"
 }
@@ -281,6 +293,18 @@
 "start_ref_usfm": "1SA 19:11",
 "end_ref": "09019024",
 "end_ref_usfm": "1SA 19:24"
+},
+{
+"start_ref": "12012017",
+"start_ref_usfm": "2KI 12:17",
+"end_ref": "12012021",
+"end_ref_usfm": "2KI 12:21"
+},
+{
+"start_ref": "12014001",
+"start_ref_usfm": "2KI 14:1",
+"end_ref": "12014007",
+"end_ref_usfm": "2KI 14:7"
 },
 {
 "start_ref": "13003001",

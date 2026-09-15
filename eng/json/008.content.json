@@ -690,6 +690,12 @@
 "end_ref_usfm": "2KI 10:36"
 },
 {
+"start_ref": "12012001",
+"start_ref_usfm": "2KI 12:1",
+"end_ref": "12012016",
+"end_ref_usfm": "2KI 12:16"
+},
+{
 "start_ref": "13012016",
 "start_ref_usfm": "1CH 12:16",
 "end_ref": "13012018",
@@ -850,12 +856,6 @@
 "start_ref_usfm": "2CH 29:1",
 "end_ref": "14029017",
 "end_ref_usfm": "2CH 29:17"
-},
-{
-"start_ref": "14030001",
-"start_ref_usfm": "2CH 30:1",
-"end_ref": "14030012",
-"end_ref_usfm": "2CH 30:12"
 }
 ],
 "resource": [],
@@ -1315,6 +1315,12 @@
 "end_ref_usfm": "2KI 10:36"
 },
 {
+"start_ref": "12012001",
+"start_ref_usfm": "2KI 12:1",
+"end_ref": "12012016",
+"end_ref_usfm": "2KI 12:16"
+},
+{
 "start_ref": "13012016",
 "start_ref_usfm": "1CH 12:16",
 "end_ref": "13012018",
@@ -1475,12 +1481,6 @@
 "start_ref_usfm": "2CH 29:1",
 "end_ref": "14029017",
 "end_ref_usfm": "2CH 29:17"
-},
-{
-"start_ref": "14030001",
-"start_ref_usfm": "2CH 30:1",
-"end_ref": "14030012",
-"end_ref_usfm": "2CH 30:12"
 }
 ],
 "resource": []
@@ -3660,7 +3660,7 @@
 "index_reference": "hell",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t65/v1/vbr4.mp3'>mp3 file</a> (2094236 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t65/v1/vbr4.mp3'>mp3 file</a> (2094237 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -4900,6 +4900,18 @@
 "end_ref_usfm": "2KI 4:17"
 },
 {
+"start_ref": "12012001",
+"start_ref_usfm": "2KI 12:1",
+"end_ref": "12012016",
+"end_ref_usfm": "2KI 12:16"
+},
+{
+"start_ref": "12012017",
+"start_ref_usfm": "2KI 12:17",
+"end_ref": "12012021",
+"end_ref_usfm": "2KI 12:21"
+},
+{
 "start_ref": "13009028",
 "start_ref_usfm": "1CH 9:28",
 "end_ref": "13009034",
@@ -4916,18 +4928,6 @@
 "start_ref_usfm": "1CH 16:23",
 "end_ref": "13016033",
 "end_ref_usfm": "1CH 16:33"
-},
-{
-"start_ref": "13016034",
-"start_ref_usfm": "1CH 16:34",
-"end_ref": "13016036",
-"end_ref_usfm": "1CH 16:36"
-},
-{
-"start_ref": "13022002",
-"start_ref_usfm": "1CH 22:2",
-"end_ref": "13022019",
-"end_ref_usfm": "1CH 22:19"
 }
 ],
 "resource": [],
@@ -4951,7 +4951,7 @@
 "index_reference": "holy",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t67/v1/vbr4.mp3'>mp3 file</a> (1894532 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t67/v1/vbr4.mp3'>mp3 file</a> (1907157 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -5525,6 +5525,18 @@
 "end_ref_usfm": "2KI 4:17"
 },
 {
+"start_ref": "12012001",
+"start_ref_usfm": "2KI 12:1",
+"end_ref": "12012016",
+"end_ref_usfm": "2KI 12:16"
+},
+{
+"start_ref": "12012017",
+"start_ref_usfm": "2KI 12:17",
+"end_ref": "12012021",
+"end_ref_usfm": "2KI 12:21"
+},
+{
 "start_ref": "13009028",
 "start_ref_usfm": "1CH 9:28",
 "end_ref": "13009034",
@@ -5541,18 +5553,6 @@
 "start_ref_usfm": "1CH 16:23",
 "end_ref": "13016033",
 "end_ref_usfm": "1CH 16:33"
-},
-{
-"start_ref": "13016034",
-"start_ref_usfm": "1CH 16:34",
-"end_ref": "13016036",
-"end_ref_usfm": "1CH 16:36"
-},
-{
-"start_ref": "13022002",
-"start_ref_usfm": "1CH 22:2",
-"end_ref": "13022019",
-"end_ref_usfm": "1CH 22:19"
 }
 ],
 "resource": []

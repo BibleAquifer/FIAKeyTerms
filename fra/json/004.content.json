@@ -66,6 +66,18 @@
 "end_ref_usfm": "1SA 19:24"
 },
 {
+"start_ref": "12012017",
+"start_ref_usfm": "2KI 12:17",
+"end_ref": "12012021",
+"end_ref_usfm": "2KI 12:21"
+},
+{
+"start_ref": "12014001",
+"start_ref_usfm": "2KI 14:1",
+"end_ref": "12014007",
+"end_ref_usfm": "2KI 14:7"
+},
+{
 "start_ref": "13003001",
 "start_ref_usfm": "1CH 3:1",
 "end_ref": "13003009",
@@ -209,7 +221,7 @@
 {
 "id": "person:David",
 "type": "person",
-"confidence": 0.57,
+"confidence": 0.5683,
 "match_method": "scored",
 "preferred_label": "David"
 }
@@ -281,6 +293,18 @@
 "start_ref_usfm": "1SA 19:11",
 "end_ref": "09019024",
 "end_ref_usfm": "1SA 19:24"
+},
+{
+"start_ref": "12012017",
+"start_ref_usfm": "2KI 12:17",
+"end_ref": "12012021",
+"end_ref_usfm": "2KI 12:21"
+},
+{
+"start_ref": "12014001",
+"start_ref_usfm": "2KI 14:1",
+"end_ref": "12014007",
+"end_ref_usfm": "2KI 14:7"
 },
 {
 "start_ref": "13003001",
@@ -5898,6 +5922,12 @@
 "end_ref_usfm": "GAL 4:20"
 },
 {
+"start_ref": "50003017",
+"start_ref_usfm": "PHP 3:17",
+"end_ref": "50004001",
+"end_ref_usfm": "PHP 4:1"
+},
+{
 "start_ref": "53002001",
 "start_ref_usfm": "2TH 2:1",
 "end_ref": "53002012",
@@ -6399,6 +6429,12 @@
 "start_ref_usfm": "GAL 4:8",
 "end_ref": "48004020",
 "end_ref_usfm": "GAL 4:20"
+},
+{
+"start_ref": "50003017",
+"start_ref_usfm": "PHP 3:17",
+"end_ref": "50004001",
+"end_ref_usfm": "PHP 4:1"
 },
 {
 "start_ref": "53002001",
