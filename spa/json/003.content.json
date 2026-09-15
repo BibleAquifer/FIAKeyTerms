@@ -83,16 +83,23 @@
 {
 "id": "person:Tiberius",
 "type": "person",
-"confidence": 0.6349,
+"confidence": 0.6314,
 "match_method": "scored",
 "preferred_label": "Tiberio"
 },
 {
 "id": "person:Augustus",
 "type": "person",
-"confidence": 0.6063,
+"confidence": 0.6057,
 "match_method": "scored",
 "preferred_label": "Augusto"
+},
+{
+"id": "person:Nero",
+"type": "person",
+"confidence": 0.6029,
+"match_method": "scored",
+"preferred_label": "Nero"
 }
 ]
 }
@@ -4003,7 +4010,7 @@
 {
 "id": "keyterm:Covenant",
 "type": "keyterm",
-"confidence": 0.5898,
+"confidence": 0.5896,
 "match_method": "scored",
 "preferred_label": "pacto"
 }

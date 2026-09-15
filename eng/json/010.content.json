@@ -125,6 +125,18 @@
 "end_ref_usfm": "1KI 22:53"
 },
 {
+"start_ref": "12012001",
+"start_ref_usfm": "2KI 12:1",
+"end_ref": "12012016",
+"end_ref_usfm": "2KI 12:16"
+},
+{
+"start_ref": "12012017",
+"start_ref_usfm": "2KI 12:17",
+"end_ref": "12012021",
+"end_ref_usfm": "2KI 12:21"
+},
+{
 "start_ref": "13003001",
 "start_ref_usfm": "1CH 3:1",
 "end_ref": "13003009",
@@ -651,18 +663,6 @@
 "start_ref_usfm": "JHN 4:1",
 "end_ref": "43004015",
 "end_ref_usfm": "JHN 4:15"
-},
-{
-"start_ref": "43004016",
-"start_ref_usfm": "JHN 4:16",
-"end_ref": "43004026",
-"end_ref_usfm": "JHN 4:26"
-},
-{
-"start_ref": "43004043",
-"start_ref_usfm": "JHN 4:43",
-"end_ref": "43004054",
-"end_ref_usfm": "JHN 4:54"
 }
 ],
 "resource": [],
@@ -670,7 +670,7 @@
 {
 "id": "place:Jerusalem",
 "type": "place",
-"confidence": 0.6564,
+"confidence": 0.6565,
 "match_method": "scored",
 "preferred_label": "Jerusalem"
 },
@@ -693,7 +693,7 @@
 "index_reference": "jerusalem",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t76/v1/vbr4.mp3'>mp3 file</a> (703148 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t76/v1/vbr4.mp3'>mp3 file</a> (703149 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -757,6 +757,18 @@
 "end_ref_usfm": "1KI 22:53"
 },
 {
+"start_ref": "12012001",
+"start_ref_usfm": "2KI 12:1",
+"end_ref": "12012016",
+"end_ref_usfm": "2KI 12:16"
+},
+{
+"start_ref": "12012017",
+"start_ref_usfm": "2KI 12:17",
+"end_ref": "12012021",
+"end_ref_usfm": "2KI 12:21"
+},
+{
 "start_ref": "13003001",
 "start_ref_usfm": "1CH 3:1",
 "end_ref": "13003009",
@@ -1283,18 +1295,6 @@
 "start_ref_usfm": "JHN 4:1",
 "end_ref": "43004015",
 "end_ref_usfm": "JHN 4:15"
-},
-{
-"start_ref": "43004016",
-"start_ref_usfm": "JHN 4:16",
-"end_ref": "43004026",
-"end_ref_usfm": "JHN 4:26"
-},
-{
-"start_ref": "43004043",
-"start_ref_usfm": "JHN 4:43",
-"end_ref": "43004054",
-"end_ref_usfm": "JHN 4:54"
 }
 ],
 "resource": []
@@ -1934,7 +1934,7 @@
 "index_reference": "jew",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t77/v2/vbr4.mp3'>mp3 file</a> (3860444 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t77/v2/vbr4.mp3'>mp3 file</a> (3845277 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -2602,7 +2602,7 @@
 "index_reference": "john",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t78/v1/vbr4.mp3'>mp3 file</a> (723260 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t78/v1/vbr4.mp3'>mp3 file</a> (723261 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -2713,7 +2713,7 @@
 "index_reference": "john the baptist",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t79/v1/vbr4.mp3'>mp3 file</a> (2422388 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t79/v1/vbr4.mp3'>mp3 file</a> (2422389 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -3710,6 +3710,12 @@
 "end_ref_usfm": "2KI 9:29"
 },
 {
+"start_ref": "12014001",
+"start_ref_usfm": "2KI 14:1",
+"end_ref": "12014007",
+"end_ref_usfm": "2KI 14:7"
+},
+{
 "start_ref": "13002009",
 "start_ref_usfm": "1CH 2:9",
 "end_ref": "13002017",
@@ -4110,12 +4116,6 @@
 "start_ref_usfm": "MAT 10:1",
 "end_ref": "40010015",
 "end_ref_usfm": "MAT 10:15"
-},
-{
-"start_ref": "40019001",
-"start_ref_usfm": "MAT 19:1",
-"end_ref": "40019012",
-"end_ref_usfm": "MAT 19:12"
 }
 ],
 "resource": [],
@@ -4123,7 +4123,7 @@
 {
 "id": "place:Judea",
 "type": "place",
-"confidence": 0.6007,
+"confidence": 0.6004,
 "match_method": "scored",
 "preferred_label": "Judea"
 }
@@ -4335,6 +4335,12 @@
 "end_ref_usfm": "2KI 9:29"
 },
 {
+"start_ref": "12014001",
+"start_ref_usfm": "2KI 14:1",
+"end_ref": "12014007",
+"end_ref_usfm": "2KI 14:7"
+},
+{
 "start_ref": "13002009",
 "start_ref_usfm": "1CH 2:9",
 "end_ref": "13002017",
@@ -4735,12 +4741,6 @@
 "start_ref_usfm": "MAT 10:1",
 "end_ref": "40010015",
 "end_ref_usfm": "MAT 10:15"
-},
-{
-"start_ref": "40019001",
-"start_ref_usfm": "MAT 19:1",
-"end_ref": "40019012",
-"end_ref_usfm": "MAT 19:12"
 }
 ],
 "resource": []

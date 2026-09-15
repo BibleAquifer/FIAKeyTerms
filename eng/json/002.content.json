@@ -120,16 +120,16 @@
 "end_ref_usfm": "2KI 1:18"
 },
 {
-"start_ref": "12010018",
-"start_ref_usfm": "2KI 10:18",
-"end_ref": "12010027",
-"end_ref_usfm": "2KI 10:27"
-},
-{
 "start_ref": "12010028",
 "start_ref_usfm": "2KI 10:28",
 "end_ref": "12010036",
 "end_ref_usfm": "2KI 10:36"
+},
+{
+"start_ref": "12011013",
+"start_ref_usfm": "2KI 11:13",
+"end_ref": "12011021",
+"end_ref_usfm": "2KI 11:21"
 },
 {
 "start_ref": "14017001",
@@ -173,14 +173,14 @@
 {
 "id": "deity:Lord",
 "type": "deity",
-"confidence": 0.6674,
+"confidence": 0.6738,
 "match_method": "scored",
 "preferred_label": "LORD"
 },
 {
 "id": "deity:Baal",
 "type": "deity",
-"confidence": 0.6585,
+"confidence": 0.6476,
 "match_method": "scored",
 "preferred_label": "Baal"
 }
@@ -308,16 +308,16 @@
 "end_ref_usfm": "2KI 1:18"
 },
 {
-"start_ref": "12010018",
-"start_ref_usfm": "2KI 10:18",
-"end_ref": "12010027",
-"end_ref_usfm": "2KI 10:27"
-},
-{
 "start_ref": "12010028",
 "start_ref_usfm": "2KI 10:28",
 "end_ref": "12010036",
 "end_ref_usfm": "2KI 10:36"
+},
+{
+"start_ref": "12011013",
+"start_ref_usfm": "2KI 11:13",
+"end_ref": "12011021",
+"end_ref_usfm": "2KI 11:21"
 },
 {
 "start_ref": "14017001",
@@ -609,7 +609,7 @@
 "index_reference": "baptism",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t9/v1/vbr4.mp3'>mp3 file</a> (2471636 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t9/v1/vbr4.mp3'>mp3 file</a> (2444325 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -1186,6 +1186,12 @@
 "end_ref_usfm": "1CO 15:11"
 },
 {
+"start_ref": "50001027",
+"start_ref_usfm": "PHP 1:27",
+"end_ref": "50001030",
+"end_ref_usfm": "PHP 1:30"
+},
+{
 "start_ref": "54001012",
 "start_ref_usfm": "1TI 1:12",
 "end_ref": "54001020",
@@ -1417,6 +1423,12 @@
 "start_ref_usfm": "1CO 15:1",
 "end_ref": "46015011",
 "end_ref_usfm": "1CO 15:11"
+},
+{
+"start_ref": "50001027",
+"start_ref_usfm": "PHP 1:27",
+"end_ref": "50001030",
+"end_ref_usfm": "PHP 1:30"
 },
 {
 "start_ref": "54001012",
@@ -1681,12 +1693,6 @@
 "end_ref_usfm": "EPH 6:24"
 },
 {
-"start_ref": "50003012",
-"start_ref_usfm": "PHP 3:12",
-"end_ref": "50003016",
-"end_ref_usfm": "PHP 3:16"
-},
-{
 "start_ref": "52001001",
 "start_ref_usfm": "1TH 1:1",
 "end_ref": "52001010",
@@ -1948,12 +1954,6 @@
 "start_ref_usfm": "EPH 6:21",
 "end_ref": "49006024",
 "end_ref_usfm": "EPH 6:24"
-},
-{
-"start_ref": "50003012",
-"start_ref_usfm": "PHP 3:12",
-"end_ref": "50003016",
-"end_ref_usfm": "PHP 3:16"
 },
 {
 "start_ref": "52001001",
@@ -4785,6 +4785,12 @@
 "start_ref_usfm": "MRK 5:1",
 "end_ref": "41005020",
 "end_ref_usfm": "MRK 5:20"
+},
+{
+"start_ref": "50002005",
+"start_ref_usfm": "PHP 2:5",
+"end_ref": "50002011",
+"end_ref_usfm": "PHP 2:11"
 }
 ],
 "resource": [],
@@ -5024,6 +5030,12 @@
 "start_ref_usfm": "MRK 5:1",
 "end_ref": "41005020",
 "end_ref_usfm": "MRK 5:20"
+},
+{
+"start_ref": "50002005",
+"start_ref_usfm": "PHP 2:5",
+"end_ref": "50002011",
+"end_ref_usfm": "PHP 2:11"
 }
 ],
 "resource": []
@@ -5510,12 +5522,6 @@
 "end_ref_usfm": "2KI 5:27"
 },
 {
-"start_ref": "12010018",
-"start_ref_usfm": "2KI 10:18",
-"end_ref": "12010027",
-"end_ref_usfm": "2KI 10:27"
-},
-{
 "start_ref": "13006049",
 "start_ref_usfm": "1CH 6:49",
 "end_ref": "13006053",
@@ -5640,6 +5646,12 @@
 "start_ref_usfm": "2CH 31:1",
 "end_ref": "14031010",
 "end_ref_usfm": "2CH 31:10"
+},
+{
+"start_ref": "14035001",
+"start_ref_usfm": "2CH 35:1",
+"end_ref": "14035019",
+"end_ref_usfm": "2CH 35:19"
 }
 ],
 "resource": [],
@@ -6127,12 +6139,6 @@
 "end_ref_usfm": "2KI 5:27"
 },
 {
-"start_ref": "12010018",
-"start_ref_usfm": "2KI 10:18",
-"end_ref": "12010027",
-"end_ref_usfm": "2KI 10:27"
-},
-{
 "start_ref": "13006049",
 "start_ref_usfm": "1CH 6:49",
 "end_ref": "13006053",
@@ -6257,6 +6263,12 @@
 "start_ref_usfm": "2CH 31:1",
 "end_ref": "14031010",
 "end_ref_usfm": "2CH 31:10"
+},
+{
+"start_ref": "14035001",
+"start_ref_usfm": "2CH 35:1",
+"end_ref": "14035019",
+"end_ref_usfm": "2CH 35:19"
 }
 ],
 "resource": []
