@@ -8,7 +8,7 @@
 "index_reference": "永生",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><b>永生</b>意味着与神同在的生命，永远不会结束。永生是神赐给祂儿女的礼物，如果他们<a href=\"#t11\">信</a>祂的话。这不是人们足够努力地工作就可以得到的东西，也不是他们举行足够的仪式可以得到的。当人信靠耶稣时，神就会将这个礼物赐给他们。</p><p>永生是一个比普通的生命更好、更丰富的生命。没有永生这个礼物，我们可能活着和呼吸，但这只是物质的生命，它在我们死的时候结束。但神赐给我们的永生永远不会结束！它从现在开始，改变我们，使我们有可能生活在与神亲密的<a href=\"#t108\">关系</a>中。当耶稣再来并建立祂的<a href=\"#t157\">国度</a>时，我们也将与祂永远同在。那是来自神的礼物：将来的生命，也是现在就已经有的真正的生命！</p>",
+"content": "<p><b>永生</b>意味着与神同在的生命，永远不会结束。永生是神赐给祂儿女的礼物，如果他们<data class=\"resource-ref\" data-content-id=\"cmn-t11-v1\" data-resource-code=\"FIAKeyTerms\">信</data>祂的话。这不是人们足够努力地工作就可以得到的东西，也不是他们举行足够的仪式可以得到的。当人信靠耶稣时，神就会将这个礼物赐给他们。</p><p>永生是一个比普通的生命更好、更丰富的生命。没有永生这个礼物，我们可能活着和呼吸，但这只是物质的生命，它在我们死的时候结束。但神赐给我们的永生永远不会结束！它从现在开始，改变我们，使我们有可能生活在与神亲密的关系中。当耶稣再来并建立祂的<data class=\"resource-ref\" data-content-id=\"cmn-t157-v1\" data-resource-code=\"FIAKeyTerms\">国度</data>时，我们也将与祂永远同在。那是来自神的礼物：将来的生命，也是现在就已经有的真正的生命！</p>",
 "associations": {
 "passage": [
 {
@@ -204,7 +204,22 @@
 "end_ref_usfm": "1JN 5:21"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t11-v1",
+"resource_code": "FIAKeyTerms",
+"label": "信",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t157-v1",
+"resource_code": "FIAKeyTerms",
+"label": "国度",
+"language": "zhs"
+}
+],
 "acai": []
 }
 },

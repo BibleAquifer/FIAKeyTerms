@@ -8,7 +8,7 @@
 "index_reference": "ídolo",
 "language": "por",
 "review_level": "None",
-"content": "<p>Um <b>ídolo</b> é um objeto que as pessoas fazem para <a href=\"#t149\">adorar</a> um deus. O objeto lembra as pessoas sobre algumas características desse deus. Na Bíblia essas às vezes são chamadas de “imagens”. As pessoas fazem um objeto — uma imagem — de um deus e adoram esse objeto como se fosse esse deus. As pessoas poderiam fazer esse objeto de pedra, madeira ou metal. Esse objeto poderia se parecer com uma pessoa, ou como um animal, ou apenas ter qualquer forma diferente. Eles poderiam ser muito grandes, ou eles poderiam ser pequenos e capazes de carregar facilmente. A palavra ídolo também pode se referir a coisas ou ideias que as pessoas adoram mais do que o próprio Deus.</p><p>Deus proibia os <a href=\"#t259\">israelitas</a> em seus mandamentos de fazer esses ídolos, ou imagens, ou adorar qualquer outra coisa além do próprio Deus.</p>",
+"content": "<p>Um <b>ídolo</b> é um objeto que as pessoas fazem para <data class=\"resource-ref\" data-content-id=\"por-t149-v1\" data-resource-code=\"FIAKeyTerms\">adorar</data> um deus. O objeto lembra as pessoas sobre algumas características desse deus. Na Bíblia essas às vezes são chamadas de “imagens”. As pessoas fazem um objeto — uma imagem — de um deus e adoram esse objeto como se fosse esse deus. As pessoas poderiam fazer esse objeto de pedra, madeira ou metal. Esse objeto poderia se parecer com uma pessoa, ou como um animal, ou apenas ter qualquer forma diferente. Eles poderiam ser muito grandes, ou eles poderiam ser pequenos e capazes de carregar facilmente. A palavra ídolo também pode se referir a coisas ou ideias que as pessoas adoram mais do que o próprio Deus.</p><p>Deus proibia os <data class=\"resource-ref\" data-content-id=\"por-t259-v2\" data-resource-code=\"FIAKeyTerms\">israelitas</data> em seus mandamentos de fazer esses ídolos, ou imagens, ou adorar qualquer outra coisa além do próprio Deus.</p>",
 "associations": {
 "passage": [
 {
@@ -378,7 +378,22 @@
 "end_ref_usfm": "1JN 5:21"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t149-v1",
+"resource_code": "FIAKeyTerms",
+"label": "adorar",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t259-v2",
+"resource_code": "FIAKeyTerms",
+"label": "israelitas",
+"language": "por"
+}
+],
 "acai": [
 {
 "id": "deity:Teraphim",
@@ -781,7 +796,7 @@
 "index_reference": "igreja",
 "language": "por",
 "review_level": "None",
-"content": "<p>Na Bíblia as pessoas nunca usam a palavra <b>igreja</b> para significar um edifício. Em vez disso, a igreja é uma comunidade de pessoas que acreditam em Jesus. Às vezes a palavra igreja é usada para um grupo de crentes em um lugar específico, e às vezes a palavra significa todas as pessoas na terra juntas que acreditam em Jesus.</p><p>As pessoas que pertencem à igreja se reúnem regularmente para <a href=\"#t102\">orar</a>, para <a href=\"#t149\">adorar</a> a Deus, para celebrar a ceia do Senhor e para estudar a palavra de Deus juntas.</p><p>O livro de Atos nos diz como a igreja está crescendo de um pequeno grupo de pessoas em <a href=\"#t76\">Jerusalém</a> para milhares de pessoas em muitos países diferentes.</p><p>As epístolas são cartas dos apóstolos a igrejas, ou comunidades de crentes, em diferentes partes do mundo. Paulo, um apóstolo que escreveu muitas cartas a igrejas, compara a igreja ao corpo de Cristo em sua carta aos coríntios. Cada pessoa na igreja é como uma parte do corpo e faz um trabalho importante. Todos juntos, o corpo de Cristo, ou a igreja, fazem o trabalho de Cristo no mundo.</p>",
+"content": "<p>Na Bíblia as pessoas nunca usam a palavra <b>igreja</b> para significar um edifício. Em vez disso, a igreja é uma comunidade de pessoas que acreditam em Jesus. Às vezes a palavra igreja é usada para um grupo de crentes em um lugar específico, e às vezes a palavra significa todas as pessoas na terra juntas que acreditam em Jesus.</p><p>As pessoas que pertencem à igreja se reúnem regularmente para <data class=\"resource-ref\" data-content-id=\"por-t102-v1\" data-resource-code=\"FIAKeyTerms\">orar</data>, para <data class=\"resource-ref\" data-content-id=\"por-t149-v1\" data-resource-code=\"FIAKeyTerms\">adorar</data> a Deus, para celebrar a ceia do Senhor e para estudar a palavra de Deus juntas.</p><p>O livro de Atos nos diz como a igreja está crescendo de um pequeno grupo de pessoas em <data class=\"resource-ref\" data-content-id=\"por-t76-v1\" data-resource-code=\"FIAKeyTerms\">Jerusalém</data> para milhares de pessoas em muitos países diferentes.</p><p>As epístolas são cartas dos apóstolos a igrejas, ou comunidades de crentes, em diferentes partes do mundo. Paulo, um apóstolo que escreveu muitas cartas a igrejas, compara a igreja ao corpo de Cristo em sua carta aos coríntios. Cada pessoa na igreja é como uma parte do corpo e faz um trabalho importante. Todos juntos, o corpo de Cristo, ou a igreja, fazem o trabalho de Cristo no mundo.</p>",
 "associations": {
 "passage": [
 {
@@ -1103,7 +1118,29 @@
 "end_ref_usfm": "3JN 1:10"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t102-v1",
+"resource_code": "FIAKeyTerms",
+"label": "orar",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t149-v1",
+"resource_code": "FIAKeyTerms",
+"label": "adorar",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t76-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Jerusalém",
+"language": "por"
+}
+],
 "acai": [
 {
 "id": "keyterm:Church",
@@ -1458,7 +1495,7 @@
 "index_reference": "imagem de deus",
 "language": "por",
 "review_level": "None",
-"content": "<p>Uma imagem é uma foto de algo. Uma foto, uma pintura ou uma estátua de uma pessoa é a imagem de uma pessoa. A imagem nos diz algo sobre como a pessoa se parece, ou como é seu caráter.</p><p>Quando <a href=\"#t189\">Deus</a> criou a humanidade, Deus disse “vamos fazer a humanidade à nossa imagem. A humanidade se parecerá conosco. E a humanidade governará sobre todos os animais e plantas na terra”.</p><p>Então, todas as pessoas são criadas à imagem de Deus. Isso não significa que as pessoas se parecem fisicamente com Deus, porque Deus é espírito e não tem um corpo como nós temos. Mas significa que as pessoas estão representando Deus na terra. Deus deu às pessoas a responsabilidade de cuidar da terra. As pessoas deveriam cuidar de animais, plantas e toda a natureza, em nome de Deus.</p><p>No Novo Testamento, aprendemos que Jesus é a imagem de Deus definitiva. Não podemos ver Deus, mas podemos ver Jesus, e quando olhamos para Jesus, sabemos como é Deus. Como seguidores de Jesus, devemos nos tornar imagens de Jesus — devemos nos parecer mais e mais com Jesus.</p>",
+"content": "<p>Uma imagem é uma foto de algo. Uma foto, uma pintura ou uma estátua de uma pessoa é a imagem de uma pessoa. A imagem nos diz algo sobre como a pessoa se parece, ou como é seu caráter.</p><p>Quando <data class=\"resource-ref\" data-content-id=\"por-t189-v1\" data-resource-code=\"FIAKeyTerms\">Deus</data> criou a humanidade, Deus disse “vamos fazer a humanidade à nossa imagem. A humanidade se parecerá conosco. E a humanidade governará sobre todos os animais e plantas na terra”.</p><p>Então, todas as pessoas são criadas à imagem de Deus. Isso não significa que as pessoas se parecem fisicamente com Deus, porque Deus é espírito e não tem um corpo como nós temos. Mas significa que as pessoas estão representando Deus na terra. Deus deu às pessoas a responsabilidade de cuidar da terra. As pessoas deveriam cuidar de animais, plantas e toda a natureza, em nome de Deus.</p><p>No Novo Testamento, aprendemos que Jesus é a imagem de Deus definitiva. Não podemos ver Deus, mas podemos ver Jesus, e quando olhamos para Jesus, sabemos como é Deus. Como seguidores de Jesus, devemos nos tornar imagens de Jesus — devemos nos parecer mais e mais com Jesus.</p>",
 "associations": {
 "passage": [
 {
@@ -1498,7 +1535,15 @@
 "end_ref_usfm": "JAS 3:12"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t189-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Deus",
+"language": "por"
+}
+],
 "acai": []
 }
 },
@@ -1563,7 +1608,7 @@
 "index_reference": "imoralidade",
 "language": "por",
 "review_level": "None",
-"content": "<p>Quando as pessoas cometem pecado sexual de qualquer tipo, dizemos que elas são <b>imorais</b>. Quando um homem casado ou uma mulher casada tem relações sexuais fora de seu casamento, dizemos que eles estão cometendo adultério. No entanto, quando a Bíblia diz que alguém faz coisas imorais, ele pode estar fazendo qualquer tipo de pecado sexual. Normalmente, quando alguém é imoral, ele está fazendo algum tipo de pecado sexual quando ele não é casado. Às vezes, os autores bíblicos usam a descrição “imoral” para falar sobre pessoas que adoram ídolos <a href=\"#t72\">em vez</a> de adorar a Deus. Assim como homens ou mulheres são infiéis uns aos outros quando eles pecam com alguém sexualmente, alguém que adora um falso deus ou ídolo em vez do verdadeiro Deus é infiel a Deus. Podemos chamar essas pessoas de imorais também.</p>",
+"content": "<p>Quando as pessoas cometem pecado sexual de qualquer tipo, dizemos que elas são <b>imorais</b>. Quando um homem casado ou uma mulher casada tem relações sexuais fora de seu casamento, dizemos que eles estão cometendo adultério. No entanto, quando a Bíblia diz que alguém faz coisas imorais, ele pode estar fazendo qualquer tipo de pecado sexual. Normalmente, quando alguém é imoral, ele está fazendo algum tipo de pecado sexual quando ele não é casado. Às vezes, os autores bíblicos usam a descrição “imoral” para falar sobre pessoas que adoram ídolos <data class=\"resource-ref\" data-content-id=\"por-t72-v1\" data-resource-code=\"FIAKeyTerms\">em vez</data> de adorar a Deus. Assim como homens ou mulheres são infiéis uns aos outros quando eles pecam com alguém sexualmente, alguém que adora um falso deus ou ídolo em vez do verdadeiro Deus é infiel a Deus. Podemos chamar essas pessoas de imorais também.</p>",
 "associations": {
 "passage": [
 {
@@ -1645,7 +1690,15 @@
 "end_ref_usfm": "JUD 1:7"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t72-v1",
+"resource_code": "FIAKeyTerms",
+"label": "em vez",
+"language": "por"
+}
+],
 "acai": []
 }
 },
@@ -1752,7 +1805,7 @@
 "index_reference": "inferno",
 "language": "por",
 "review_level": "None",
-"content": "<p>A palavra <b>inferno</b> é um nome para um lugar onde as pessoas <a href=\"#t215\">ímpias</a> serão punidas depois que elas morrerem.</p><p>O que acontece com as pessoas depois que elas morrem? Podemos achar isso estranho de ouvir, mas a Bíblia não fala muito claramente sobre isso. A maioria dos <a href=\"#t175\">cristãos</a> diz que as pessoas que <a href=\"#t11\">acreditam</a> em Jesus vão para o <a href=\"#t63\">céu</a>, e as pessoas que não acreditam vão para o inferno. Mas as pessoas que viveram nos tempos da Bíblia nem sempre tinham uma ideia tão clara sobre isso ainda.</p><p>Quando as pessoas no Antigo Testamento falaram sobre o que acontecia com as pessoas depois que elas morrem, elas diziam que as pessoas iam para o <b>submundo</b>, ou <a href=\"#t216\">Sheol</a>. Eles retratavam o submundo como um lugar que está em algum lugar debaixo do nosso próprio mundo. Algumas passagens no Antigo Testamento falam como se todas as pessoas, boas e más, fossem para o submundo; outras passagens falam como se o submundo fosse um lugar de punição apenas para pessoas más.</p><p>No Novo Testamento, as pessoas também falam sobre o “submundo”. Algumas traduções usam a palavra <a href=\"#t211\">grega</a> “<a href=\"#t196\">Hades</a>” para isso. Assim como na época do Antigo Testamento, o “submundo” às vezes parece ser um lugar neutro, para onde todas as pessoas vão depois que elas morrerem, e às vezes parece ser um lugar onde as pessoas ímpias são punidas. Às vezes parece ser um lugar onde todas as pessoas estão esperando até o momento em que Deus julgará todas as pessoas. Às vezes a palavra “submundo” é usada apenas como outra maneira de falar sobre a morte.</p><p>Jesus disse ao povo que após a morte as pessoas ou irão para o <a href=\"#t82\">reino de Deus</a>, ou elas irão para o inferno. A palavra inferno na língua grega vem do nome do lugar perto de <a href=\"#t76\">Jerusalém</a>, onde em um momento de sua história o povo de <a href=\"#t74\">Israel</a> havia cometido um crime terrível. Por causa desse crime, as pessoas evitavam esse lugar e começaram a usá-lo como um lugar para queimar os corpos de animais mortos e de pessoas que não poderiam ser enterradas. As pessoas sempre mantinham um fogo queimando neste lugar. Sempre que as pessoas pensavam sobre esse lugar, elas se sentiam muito ruins, e elas pensavam sobre Deus punindo as pessoas por seus crimes terríveis. Por essa razão, as pessoas começaram a usar o nome deste lugar como o nome para o lugar onde todas as pessoas ímpias serão punidas após sua morte. Jesus deixa claro que o inferno é um lugar terrível: ele usa linguagem ilustrada para descrevê-lo como um lugar com um fogo que nunca se apaga, como um lugar onde as pessoas serão torturadas, ou como um lugar onde as pessoas chorarão e se arrependerão para sempre de suas escolhas.</p><p>Jesus ensina que o inferno é também o lugar onde <a href=\"#t118\">Satanás</a> e seus <a href=\"#t36\">demônios</a> serão punidos.</p>",
+"content": "<p>A palavra <b>inferno</b> é um nome para um lugar onde as pessoas <data class=\"resource-ref\" data-content-id=\"por-t215-v1\" data-resource-code=\"FIAKeyTerms\">ímpias</data> serão punidas depois que elas morrerem.</p><p>O que acontece com as pessoas depois que elas morrem? Podemos achar isso estranho de ouvir, mas a Bíblia não fala muito claramente sobre isso. A maioria dos <data class=\"resource-ref\" data-content-id=\"por-t175-v1\" data-resource-code=\"FIAKeyTerms\">cristãos</data> diz que as pessoas que <data class=\"resource-ref\" data-content-id=\"por-t11-v1\" data-resource-code=\"FIAKeyTerms\">acreditam</data> em Jesus vão para o <data class=\"resource-ref\" data-content-id=\"por-t63-v1\" data-resource-code=\"FIAKeyTerms\">céu</data>, e as pessoas que não acreditam vão para o inferno. Mas as pessoas que viveram nos tempos da Bíblia nem sempre tinham uma ideia tão clara sobre isso ainda.</p><p>Quando as pessoas no Antigo Testamento falaram sobre o que acontecia com as pessoas depois que elas morrem, elas diziam que as pessoas iam para o <b>submundo</b>, ou <data class=\"resource-ref\" data-content-id=\"por-t216-v1\" data-resource-code=\"FIAKeyTerms\">Sheol</data>. Eles retratavam o submundo como um lugar que está em algum lugar debaixo do nosso próprio mundo. Algumas passagens no Antigo Testamento falam como se todas as pessoas, boas e más, fossem para o submundo; outras passagens falam como se o submundo fosse um lugar de punição apenas para pessoas más.</p><p>No Novo Testamento, as pessoas também falam sobre o “submundo”. Algumas traduções usam a palavra <data class=\"resource-ref\" data-content-id=\"por-t211-v1\" data-resource-code=\"FIAKeyTerms\">grega</data> “<data class=\"resource-ref\" data-content-id=\"por-t196-v1\" data-resource-code=\"FIAKeyTerms\">Hades</data>” para isso. Assim como na época do Antigo Testamento, o “submundo” às vezes parece ser um lugar neutro, para onde todas as pessoas vão depois que elas morrerem, e às vezes parece ser um lugar onde as pessoas ímpias são punidas. Às vezes parece ser um lugar onde todas as pessoas estão esperando até o momento em que Deus julgará todas as pessoas. Às vezes a palavra “submundo” é usada apenas como outra maneira de falar sobre a morte.</p><p>Jesus disse ao povo que após a morte as pessoas ou irão para o <data class=\"resource-ref\" data-content-id=\"por-t82-v1\" data-resource-code=\"FIAKeyTerms\">reino de Deus</data>, ou elas irão para o inferno. A palavra inferno na língua grega vem do nome do lugar perto de <data class=\"resource-ref\" data-content-id=\"por-t76-v1\" data-resource-code=\"FIAKeyTerms\">Jerusalém</data>, onde em um momento de sua história o povo de <data class=\"resource-ref\" data-content-id=\"por-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israel</data> havia cometido um crime terrível. Por causa desse crime, as pessoas evitavam esse lugar e começaram a usá-lo como um lugar para queimar os corpos de animais mortos e de pessoas que não poderiam ser enterradas. As pessoas sempre mantinham um fogo queimando neste lugar. Sempre que as pessoas pensavam sobre esse lugar, elas se sentiam muito ruins, e elas pensavam sobre Deus punindo as pessoas por seus crimes terríveis. Por essa razão, as pessoas começaram a usar o nome deste lugar como o nome para o lugar onde todas as pessoas ímpias serão punidas após sua morte. Jesus deixa claro que o inferno é um lugar terrível: ele usa linguagem ilustrada para descrevê-lo como um lugar com um fogo que nunca se apaga, como um lugar onde as pessoas serão torturadas, ou como um lugar onde as pessoas chorarão e se arrependerão para sempre de suas escolhas.</p><p>Jesus ensina que o inferno é também o lugar onde <data class=\"resource-ref\" data-content-id=\"por-t118-v1\" data-resource-code=\"FIAKeyTerms\">Satanás</data> e seus <data class=\"resource-ref\" data-content-id=\"por-t36-v1\" data-resource-code=\"FIAKeyTerms\">demônios</data> serão punidos.</p>",
 "associations": {
 "passage": [
 {
@@ -1840,7 +1893,92 @@
 "end_ref_usfm": "JAS 3:12"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t215-v1",
+"resource_code": "FIAKeyTerms",
+"label": "ímpias",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t175-v1",
+"resource_code": "FIAKeyTerms",
+"label": "cristãos",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t11-v1",
+"resource_code": "FIAKeyTerms",
+"label": "acreditam",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t63-v1",
+"resource_code": "FIAKeyTerms",
+"label": "céu",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t216-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Sheol",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t211-v1",
+"resource_code": "FIAKeyTerms",
+"label": "grega",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t196-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Hades",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t82-v1",
+"resource_code": "FIAKeyTerms",
+"label": "reino de Deus",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t76-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Jerusalém",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israel",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t118-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Satanás",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t36-v1",
+"resource_code": "FIAKeyTerms",
+"label": "demônios",
+"language": "por"
+}
+],
 "acai": [
 {
 "id": "place:Hell",
@@ -2042,7 +2180,7 @@
 "index_reference": "isabel",
 "language": "por",
 "review_level": "None",
-"content": "<p>Isabel era a mãe de <a href=\"#t79\">João Batista</a>. O marido de Isabel era Zacarias. O pai de João, Zacarias, era um <a href=\"#t103\">sacerdote</a> e servia a Deus no <a href=\"#t138\">templo</a> em <a href=\"#t76\">Jerusalém</a>. Isabel era incapaz de ter filhos.</p><p>Uma vez, quando Zacarias estava no templo, um <a href=\"#t4\">anjo</a> apareceu a ele e disse a ele que sua esposa Isabel teria um filho. Esse filho seria um servo de Deus como o <a href=\"#t104\">profeta</a> <a href=\"#t44\">Elias</a> e diria ao povo de <a href=\"#t74\">Israel</a> para se <a href=\"#t109\">arrepender</a> para preparar as pessoas para receber a Deus. Zacarias não <a href=\"#t11\">acreditava</a> que o que o anjo disse era verdadeiro, porque Zacarias e sua esposa Isabel já eram muito velhos. Porque Zacarias não acreditou no anjo, o anjo disse a Zacarias que ele seria incapaz de falar até depois do nascimento da criança.</p><p>Isabel de fato ficou grávida. Isabel era uma parente de <a href=\"#t89\">Maria</a>, que se tornaria a mãe de Jesus. Pouco depois disso, um anjo apareceu a Maria e disse a ela que ela ficaria grávida, mesmo que ela fosse uma virgem. Seu filho seria uma pessoa muito importante, o <a href=\"#t129\">filho de Deus</a>, e governaria como rei para sempre. Maria então foi visitar Isabel. Quando Maria veio a Isabel, o bebê no ventre de Isabel pulou de alegria, porque Maria se tornaria a mãe do <a href=\"#t92\">Messias</a>, o rei e <a href=\"#t119\">Salvador</a> prometido.</p>",
+"content": "<p>Isabel era a mãe de <data class=\"resource-ref\" data-content-id=\"por-t79-v1\" data-resource-code=\"FIAKeyTerms\">João Batista</data>. O marido de Isabel era Zacarias. O pai de João, Zacarias, era um <data class=\"resource-ref\" data-content-id=\"por-t103-v1\" data-resource-code=\"FIAKeyTerms\">sacerdote</data> e servia a Deus no <data class=\"resource-ref\" data-content-id=\"por-t138-v1\" data-resource-code=\"FIAKeyTerms\">templo</data> em <data class=\"resource-ref\" data-content-id=\"por-t76-v1\" data-resource-code=\"FIAKeyTerms\">Jerusalém</data>. Isabel era incapaz de ter filhos.</p><p>Uma vez, quando Zacarias estava no templo, um <data class=\"resource-ref\" data-content-id=\"por-t4-v1\" data-resource-code=\"FIAKeyTerms\">anjo</data> apareceu a ele e disse a ele que sua esposa Isabel teria um filho. Esse filho seria um servo de Deus como o <data class=\"resource-ref\" data-content-id=\"por-t104-v1\" data-resource-code=\"FIAKeyTerms\">profeta</data> <data class=\"resource-ref\" data-content-id=\"por-t44-v1\" data-resource-code=\"FIAKeyTerms\">Elias</data> e diria ao povo de <data class=\"resource-ref\" data-content-id=\"por-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israel</data> para se <data class=\"resource-ref\" data-content-id=\"por-t109-v1\" data-resource-code=\"FIAKeyTerms\">arrepender</data> para preparar as pessoas para receber a Deus. Zacarias não <data class=\"resource-ref\" data-content-id=\"por-t11-v1\" data-resource-code=\"FIAKeyTerms\">acreditava</data> que o que o anjo disse era verdadeiro, porque Zacarias e sua esposa Isabel já eram muito velhos. Porque Zacarias não acreditou no anjo, o anjo disse a Zacarias que ele seria incapaz de falar até depois do nascimento da criança.</p><p>Isabel de fato ficou grávida. Isabel era uma parente de <data class=\"resource-ref\" data-content-id=\"por-t89-v1\" data-resource-code=\"FIAKeyTerms\">Maria</data>, que se tornaria a mãe de Jesus. Pouco depois disso, um anjo apareceu a Maria e disse a ela que ela ficaria grávida, mesmo que ela fosse uma virgem. Seu filho seria uma pessoa muito importante, o <data class=\"resource-ref\" data-content-id=\"por-t129-v1\" data-resource-code=\"FIAKeyTerms\">filho de Deus</data>, e governaria como rei para sempre. Maria então foi visitar Isabel. Quando Maria veio a Isabel, o bebê no ventre de Isabel pulou de alegria, porque Maria se tornaria a mãe do <data class=\"resource-ref\" data-content-id=\"por-t92-v1\" data-resource-code=\"FIAKeyTerms\">Messias</data>, o rei e <data class=\"resource-ref\" data-content-id=\"por-t119-v1\" data-resource-code=\"FIAKeyTerms\">Salvador</data> prometido.</p>",
 "associations": {
 "passage": [
 {
@@ -2064,7 +2202,106 @@
 "end_ref_usfm": "LUK 1:80"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t79-v1",
+"resource_code": "FIAKeyTerms",
+"label": "João Batista",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t103-v1",
+"resource_code": "FIAKeyTerms",
+"label": "sacerdote",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t138-v1",
+"resource_code": "FIAKeyTerms",
+"label": "templo",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t76-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Jerusalém",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t4-v1",
+"resource_code": "FIAKeyTerms",
+"label": "anjo",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t104-v1",
+"resource_code": "FIAKeyTerms",
+"label": "profeta",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t44-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Elias",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israel",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t109-v1",
+"resource_code": "FIAKeyTerms",
+"label": "arrepender",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t11-v1",
+"resource_code": "FIAKeyTerms",
+"label": "acreditava",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t89-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Maria",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t129-v1",
+"resource_code": "FIAKeyTerms",
+"label": "filho de Deus",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t92-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Messias",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t119-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Salvador",
+"language": "por"
+}
+],
 "acai": [
 {
 "id": "person:Elizabeth",
@@ -2119,7 +2356,7 @@
 "index_reference": "isaías",
 "language": "por",
 "review_level": "None",
-"content": "<p><b>Isaías</b> era um <a href=\"#t104\">profeta</a> que viveu cerca de 700 anos antes de Jesus. Um profeta é uma pessoa que dá mensagens de Deus às pessoas. Muitas das mensagens de Isaías foram escritas e podemos ouvi-las no livro chamado Isaías.</p><p>Na época em que Isaías vivia, a <a href=\"#t94\">nação</a> de <a href=\"#t74\">Israel</a> havia sido dividida em duas partes. A parte norte era chamada de Israel, e a parte sul era chamada de <a href=\"#t81\">Judá</a>. Isaías deu suas mensagens especialmente para o povo de Judá. Muitos do povo de Judá estavam <a href=\"#t149\">adorando</a> deuses <a href=\"#t235\">falsos</a>, e não obedeciam às boas regras que Deus lhes havia dado. Isaías alertou o povo várias vezes que eles deveriam se <a href=\"#t109\">arrepender</a> e começar a obedecer a Deus, porque Deus iria puni-los. Mas Isaías também deu ao povo mensagens de esperança. Ele disse ao povo que Deus ia enviar alguém que tornaria as coisas certas novamente. Deus cumpriu essas promessas de tornar as coisas certas novamente em Jesus.</p>",
+"content": "<p><b>Isaías</b> era um <data class=\"resource-ref\" data-content-id=\"por-t104-v1\" data-resource-code=\"FIAKeyTerms\">profeta</data> que viveu cerca de 700 anos antes de Jesus. Um profeta é uma pessoa que dá mensagens de Deus às pessoas. Muitas das mensagens de Isaías foram escritas e podemos ouvi-las no livro chamado Isaías.</p><p>Na época em que Isaías vivia, a <data class=\"resource-ref\" data-content-id=\"por-t94-v1\" data-resource-code=\"FIAKeyTerms\">nação</data> de <data class=\"resource-ref\" data-content-id=\"por-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israel</data> havia sido dividida em duas partes. A parte norte era chamada de Israel, e a parte sul era chamada de <data class=\"resource-ref\" data-content-id=\"por-t81-v1\" data-resource-code=\"FIAKeyTerms\">Judá</data>. Isaías deu suas mensagens especialmente para o povo de Judá. Muitos do povo de Judá estavam <data class=\"resource-ref\" data-content-id=\"por-t149-v1\" data-resource-code=\"FIAKeyTerms\">adorando</data> deuses <data class=\"resource-ref\" data-content-id=\"por-t235-v1\" data-resource-code=\"FIAKeyTerms\">falsos</data>, e não obedeciam às boas regras que Deus lhes havia dado. Isaías alertou o povo várias vezes que eles deveriam se <data class=\"resource-ref\" data-content-id=\"por-t109-v1\" data-resource-code=\"FIAKeyTerms\">arrepender</data> e começar a obedecer a Deus, porque Deus iria puni-los. Mas Isaías também deu ao povo mensagens de esperança. Ele disse ao povo que Deus ia enviar alguém que tornaria as coisas certas novamente. Deus cumpriu essas promessas de tornar as coisas certas novamente em Jesus.</p>",
 "associations": {
 "passage": [
 {
@@ -2129,7 +2366,57 @@
 "end_ref_usfm": "MRK 7:8"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t104-v1",
+"resource_code": "FIAKeyTerms",
+"label": "profeta",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t94-v1",
+"resource_code": "FIAKeyTerms",
+"label": "nação",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israel",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t81-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Judá",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t149-v1",
+"resource_code": "FIAKeyTerms",
+"label": "adorando",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t235-v1",
+"resource_code": "FIAKeyTerms",
+"label": "falsos",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t109-v1",
+"resource_code": "FIAKeyTerms",
+"label": "arrepender",
+"language": "por"
+}
+],
 "acai": [
 {
 "id": "person:Isaiah",
@@ -2179,7 +2466,7 @@
 "index_reference": "israel",
 "language": "por",
 "review_level": "None",
-"content": "<p><b>Israel</b> é o nome do território onde os <a href=\"#t259\">israelitas</a> viviam. O nome vem do neto de <a href=\"#t1\">Abraão</a>, Israel. Abraão foi o primeiro ancestral dos israelitas. O neto de Abraão era chamado de Jacó, mas Deus mais tarde deu a Jacó o nome de Israel. Desde essa época, os <a href=\"#t234\">descendentes</a> de Jacó são chamados de israelitas.</p><p>Em algum momento, os israelitas lutaram entre si, e por causa disso, a nação de Israel se dividiu em duas partes. A parte sul se tornou conhecida como <a href=\"#t81\">Judá</a>, enquanto a parte norte ainda era chamada de Israel.</p><p>Por causa de tudo isso, às vezes a palavra Israel se refere a um homem, ou seja, o neto de Abraão, Jacó, que mais tarde foi chamado de Israel.</p><p>Às vezes a palavra Israel se refere a todos os descendentes de Jacó juntos. Então significa o mesmo que israelitas, ou como povo de Israel.</p><p>Às vezes a palavra Israel se refere à terra, ou o território, onde os israelitas viviam.</p><p>E às vezes a palavra Israel se refere apenas à parte norte desse território.</p><p>Hoje, Israel é o nome do país formado como uma pátria para o povo <a href=\"#t77\">judeu</a> depois de 1948. Essa não é exatamente a mesma área de terra onde os israelitas bíblicos viveram.</p>",
+"content": "<p><b>Israel</b> é o nome do território onde os <data class=\"resource-ref\" data-content-id=\"por-t259-v2\" data-resource-code=\"FIAKeyTerms\">israelitas</data> viviam. O nome vem do neto de <data class=\"resource-ref\" data-content-id=\"por-t1-v1\" data-resource-code=\"FIAKeyTerms\">Abraão</data>, Israel. Abraão foi o primeiro ancestral dos israelitas. O neto de Abraão era chamado de Jacó, mas Deus mais tarde deu a Jacó o nome de Israel. Desde essa época, os <data class=\"resource-ref\" data-content-id=\"por-t234-v1\" data-resource-code=\"FIAKeyTerms\">descendentes</data> de Jacó são chamados de israelitas.</p><p>Em algum momento, os israelitas lutaram entre si, e por causa disso, a nação de Israel se dividiu em duas partes. A parte sul se tornou conhecida como <data class=\"resource-ref\" data-content-id=\"por-t81-v1\" data-resource-code=\"FIAKeyTerms\">Judá</data>, enquanto a parte norte ainda era chamada de Israel.</p><p>Por causa de tudo isso, às vezes a palavra Israel se refere a um homem, ou seja, o neto de Abraão, Jacó, que mais tarde foi chamado de Israel.</p><p>Às vezes a palavra Israel se refere a todos os descendentes de Jacó juntos. Então significa o mesmo que israelitas, ou como povo de Israel.</p><p>Às vezes a palavra Israel se refere à terra, ou o território, onde os israelitas viviam.</p><p>E às vezes a palavra Israel se refere apenas à parte norte desse território.</p><p>Hoje, Israel é o nome do país formado como uma pátria para o povo <data class=\"resource-ref\" data-content-id=\"por-t77-v2\" data-resource-code=\"FIAKeyTerms\">judeu</data> depois de 1948. Essa não é exatamente a mesma área de terra onde os israelitas bíblicos viveram.</p>",
 "associations": {
 "passage": [
 {
@@ -2783,7 +3070,43 @@
 "end_ref_usfm": "JDG 9:57"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t259-v2",
+"resource_code": "FIAKeyTerms",
+"label": "israelitas",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t1-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Abraão",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t234-v1",
+"resource_code": "FIAKeyTerms",
+"label": "descendentes",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t81-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Judá",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t77-v2",
+"resource_code": "FIAKeyTerms",
+"label": "judeu",
+"language": "por"
+}
+],
 "acai": [
 {
 "id": "person:Israel",
@@ -3427,7 +3750,7 @@
 "index_reference": "israelita",
 "language": "por",
 "review_level": "None",
-"content": "<p>Os <b>israelitas</b> são <a href=\"#t234\">descendentes</a> de Jacó. <a href=\"#t1\">Abraão</a>, o avô de Jacó, era um homem que vivia cerca de 2000 anos antes do nascimento de Jesus. Quando Abraão tinha 75 anos de idade, Deus falou com ele. Deus lhe disse para deixar para trás sua terra natal, e para ir a um lugar que Deus lhe mostraria. Deus disse que ele abençoaria Abraão, que ele faria uma grande <a href=\"#t94\">nação</a> dele, e que Deus <a href=\"#t16\">abençoaria</a> todas as nações do mundo por meio de Abraão. Abraão obedeceu a Deus e Deus o levou para a região que era naquele momento chamada de <a href=\"#t178\">Canaã</a>. Deus prometeu a Abraão que Deus daria essa terra aos descendentes de Abraão. Abraão e sua esposa não tinham nenhum filho, mas quando Abraão e sua esposa já eram muito velhos, Deus lhes deu um filho, Isaque. Esse era o início de Deus cumprindo sua promessa a Abraão.</p><p>O filho de Abraão, Isaque, tinha um filho chamado Jacó. Deus mais tarde deu a Jacó o nome de Israel. Daquele momento em diante, todos os descendentes de Jacó foram chamados de israelitas. Jacó teve 12 filhos e, portanto, os israelitas eram divididos em 12 tribos: Rúben, Simeão, Levi, Judá, Issacar, Zebulom, Dã, Naftali, Gade, Aser, José e Benjamim. A tribo de José estava dividida em duas “meias tribos”: Efraim e Manassés.</p><p>Porque Deus havia feito uma promessa a Abraão, e então a Isaque e Jacó, os israelitas eram o povo especial de Deus. Deus fez uma <a href=\"#t29\">aliança</a> com eles, que é uma promessa com um acordo especial. O acordo era que os israelitas obedeceriam a todos os <a href=\"#t245\">mandamentos</a> de Deus, e Deus os abençoaria e os tornaria uma bênção para todas as pessoas na terra.</p><p>A terra onde os israelitas viviam era chamada de <a href=\"#t74\">Israel</a>. Essa terra era dividida entre as diferentes tribos de Israel. Primeiro, as pessoas chamadas “juízes” governaram os israelitas. Quando o povo pediu a Deus para lhes dar um <a href=\"#t226\">rei</a>, Deus nomeou um rei para governar sobre eles. No início isso ia bem, e sob o governo do rei <a href=\"#t33\">Davi</a> e seu filho Salomão o reino de Israel se tornou grande e próspero. Mas quando o rei Salomão morreu, houve conflito. Dez das 12 tribos não queriam ter o filho do rei Salomão como seu rei. Eles se separaram das outras duas tribos e escolheram seu próprio rei.</p><p>Daquele momento em diante, Israel estava dividido em partes. A parte norte, com 10 tribos, ainda era chamada de Israel. A parte sul, com duas tribos, era chamada de <a href=\"#t81\">Judá</a>. Era chamado de Judá porque a tribo de Judá era a maior das duas tribos que juntas formavam esse <a href=\"#t157\">reino</a> do sul.</p><p>Cada parte tinha seu próprio rei. A <a href=\"#t94\">nação</a> da Assíria derrotou a parte norte, Israel, cerca de 700 anos antes do nascimento de Jesus. Isso aconteceu porque o povo estava continuamente desobedecendo a Deus e quebrando a aliança. O rei dos assírios enviou a maioria das pessoas de Israel para países estrangeiros. Esse era o fim do reino do norte. Nunca ouvimos nada mais sobre o que aconteceu com essas pessoas.</p><p>O reino de Judá durou um pouco mais, mas depois de alguns anos Deus também os puniu por sua desobediência. Outra nação estrangeira, os babilônios, vieram e destruíram a cidade de <a href=\"#t76\">Jerusalém</a>, e os babilônios levaram muitas das pessoas de Judá à Babilônia como prisioneiros. O povo de Judá era agora chamado de <a href=\"#t77\">judeus</a>, o que significa “povo de Judá”. Mais tarde, Deus permitiu que os judeus voltassem para Judá, onde eles reconstruíram a cidade de Jerusalém e o <a href=\"#t138\">templo</a>. Mas Judá nunca se tornaria um reino independente novamente. Na época do Novo Testamento, outra nação chamada Roma estava governando sobre a área que havia sido Israel. O que havia sido o reino do sul de Judá, era agora chamado de província romana da <a href=\"#t81\">Judeia</a>. O que havia sido o reino do norte de Israel, era agora aproximadamente as províncias romanas de <a href=\"#t221\">Samaria</a> e <a href=\"#t55\">Galileia</a>. A palavra judeu havia agora começado a se referir a todos os descendentes remanescentes de Jacó, não importa onde eles viviam.</p>",
+"content": "<p>Os <b>israelitas</b> são <data class=\"resource-ref\" data-content-id=\"por-t234-v1\" data-resource-code=\"FIAKeyTerms\">descendentes</data> de Jacó. <data class=\"resource-ref\" data-content-id=\"por-t1-v1\" data-resource-code=\"FIAKeyTerms\">Abraão</data>, o avô de Jacó, era um homem que vivia cerca de 2000 anos antes do nascimento de Jesus. Quando Abraão tinha 75 anos de idade, Deus falou com ele. Deus lhe disse para deixar para trás sua terra natal, e para ir a um lugar que Deus lhe mostraria. Deus disse que ele abençoaria Abraão, que ele faria uma grande <data class=\"resource-ref\" data-content-id=\"por-t94-v1\" data-resource-code=\"FIAKeyTerms\">nação</data> dele, e que Deus <data class=\"resource-ref\" data-content-id=\"por-t16-v1\" data-resource-code=\"FIAKeyTerms\">abençoaria</data> todas as nações do mundo por meio de Abraão. Abraão obedeceu a Deus e Deus o levou para a região que era naquele momento chamada de <data class=\"resource-ref\" data-content-id=\"por-t178-v1\" data-resource-code=\"FIAKeyTerms\">Canaã</data>. Deus prometeu a Abraão que Deus daria essa terra aos descendentes de Abraão. Abraão e sua esposa não tinham nenhum filho, mas quando Abraão e sua esposa já eram muito velhos, Deus lhes deu um filho, Isaque. Esse era o início de Deus cumprindo sua promessa a Abraão.</p><p>O filho de Abraão, Isaque, tinha um filho chamado Jacó. Deus mais tarde deu a Jacó o nome de Israel. Daquele momento em diante, todos os descendentes de Jacó foram chamados de israelitas. Jacó teve 12 filhos e, portanto, os israelitas eram divididos em 12 tribos: Rúben, Simeão, Levi, Judá, Issacar, Zebulom, Dã, Naftali, Gade, Aser, José e Benjamim. A tribo de José estava dividida em duas “meias tribos”: Efraim e Manassés.</p><p>Porque Deus havia feito uma promessa a Abraão, e então a Isaque e Jacó, os israelitas eram o povo especial de Deus. Deus fez uma <data class=\"resource-ref\" data-content-id=\"por-t29-v1\" data-resource-code=\"FIAKeyTerms\">aliança</data> com eles, que é uma promessa com um acordo especial. O acordo era que os israelitas obedeceriam a todos os <data class=\"resource-ref\" data-content-id=\"por-t245-v1\" data-resource-code=\"FIAKeyTerms\">mandamentos</data> de Deus, e Deus os abençoaria e os tornaria uma bênção para todas as pessoas na terra.</p><p>A terra onde os israelitas viviam era chamada de <data class=\"resource-ref\" data-content-id=\"por-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israel</data>. Essa terra era dividida entre as diferentes tribos de Israel. Primeiro, as pessoas chamadas “juízes” governaram os israelitas. Quando o povo pediu a Deus para lhes dar um <data class=\"resource-ref\" data-content-id=\"por-t226-v1\" data-resource-code=\"FIAKeyTerms\">rei</data>, Deus nomeou um rei para governar sobre eles. No início isso ia bem, e sob o governo do rei <data class=\"resource-ref\" data-content-id=\"por-t33-v1\" data-resource-code=\"FIAKeyTerms\">Davi</data> e seu filho Salomão o reino de Israel se tornou grande e próspero. Mas quando o rei Salomão morreu, houve conflito. Dez das 12 tribos não queriam ter o filho do rei Salomão como seu rei. Eles se separaram das outras duas tribos e escolheram seu próprio rei.</p><p>Daquele momento em diante, Israel estava dividido em partes. A parte norte, com 10 tribos, ainda era chamada de Israel. A parte sul, com duas tribos, era chamada de <data class=\"resource-ref\" data-content-id=\"por-t81-v1\" data-resource-code=\"FIAKeyTerms\">Judá</data>. Era chamado de Judá porque a tribo de Judá era a maior das duas tribos que juntas formavam esse <data class=\"resource-ref\" data-content-id=\"por-t157-v1\" data-resource-code=\"FIAKeyTerms\">reino</data> do sul.</p><p>Cada parte tinha seu próprio rei. A <data class=\"resource-ref\" data-content-id=\"por-t94-v1\" data-resource-code=\"FIAKeyTerms\">nação</data> da Assíria derrotou a parte norte, Israel, cerca de 700 anos antes do nascimento de Jesus. Isso aconteceu porque o povo estava continuamente desobedecendo a Deus e quebrando a aliança. O rei dos assírios enviou a maioria das pessoas de Israel para países estrangeiros. Esse era o fim do reino do norte. Nunca ouvimos nada mais sobre o que aconteceu com essas pessoas.</p><p>O reino de Judá durou um pouco mais, mas depois de alguns anos Deus também os puniu por sua desobediência. Outra nação estrangeira, os babilônios, vieram e destruíram a cidade de <data class=\"resource-ref\" data-content-id=\"por-t76-v1\" data-resource-code=\"FIAKeyTerms\">Jerusalém</data>, e os babilônios levaram muitas das pessoas de Judá à Babilônia como prisioneiros. O povo de Judá era agora chamado de <data class=\"resource-ref\" data-content-id=\"por-t77-v2\" data-resource-code=\"FIAKeyTerms\">judeus</data>, o que significa “povo de Judá”. Mais tarde, Deus permitiu que os judeus voltassem para Judá, onde eles reconstruíram a cidade de Jerusalém e o <data class=\"resource-ref\" data-content-id=\"por-t138-v1\" data-resource-code=\"FIAKeyTerms\">templo</data>. Mas Judá nunca se tornaria um reino independente novamente. Na época do Novo Testamento, outra nação chamada Roma estava governando sobre a área que havia sido Israel. O que havia sido o reino do sul de Judá, era agora chamado de província romana da <data class=\"resource-ref\" data-content-id=\"por-t81-v1\" data-resource-code=\"FIAKeyTerms\">Judeia</data>. O que havia sido o reino do norte de Israel, era agora aproximadamente as províncias romanas de <data class=\"resource-ref\" data-content-id=\"por-t221-v1\" data-resource-code=\"FIAKeyTerms\">Samaria</data> e <data class=\"resource-ref\" data-content-id=\"por-t55-v1\" data-resource-code=\"FIAKeyTerms\">Galileia</data>. A palavra judeu havia agora começado a se referir a todos os descendentes remanescentes de Jacó, não importa onde eles viviam.</p>",
 "associations": {
 "passage": [
 {
@@ -4031,7 +4354,141 @@
 "end_ref_usfm": "LEV 27:34"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t234-v1",
+"resource_code": "FIAKeyTerms",
+"label": "descendentes",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t1-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Abraão",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t94-v1",
+"resource_code": "FIAKeyTerms",
+"label": "nação",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t16-v1",
+"resource_code": "FIAKeyTerms",
+"label": "abençoaria",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t178-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Canaã",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t29-v1",
+"resource_code": "FIAKeyTerms",
+"label": "aliança",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t245-v1",
+"resource_code": "FIAKeyTerms",
+"label": "mandamentos",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israel",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t226-v1",
+"resource_code": "FIAKeyTerms",
+"label": "rei",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t33-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Davi",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t81-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Judá",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t157-v1",
+"resource_code": "FIAKeyTerms",
+"label": "reino",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t94-v1",
+"resource_code": "FIAKeyTerms",
+"label": "nação",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t76-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Jerusalém",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t77-v2",
+"resource_code": "FIAKeyTerms",
+"label": "judeus",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t138-v1",
+"resource_code": "FIAKeyTerms",
+"label": "templo",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t81-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Judeia",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t221-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Samaria",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t55-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Galileia",
+"language": "por"
+}
+],
 "acai": [
 {
 "id": "group:Israel",

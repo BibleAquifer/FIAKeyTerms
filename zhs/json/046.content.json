@@ -8,7 +8,7 @@
 "index_reference": "门徒",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><b>门徒</b>是作为学生跟从宗教老师的人。</p><p>在新约中，所有跟从耶稣并想向祂学习的人都是门徒。有时耶稣差遣门徒出去，宣讲<a href=\"#t82\">神的国</a>已经降临的<a href=\"#t160\">好消息</a>，并<a href=\"#t62\">医治</a>病人。</p><p>耶稣还拣选了十二个人作为祂特别的门徒。这个小群体通常被称为\"十二门徒\"，甚至就是\"那十二个\"。这些人跟随耶稣去各处，向祂学习并且观察祂。这十二个门徒也被称为<a href=\"#t6\">使徒</a>。使徒是从耶稣那里获得特别<a href=\"#t8\">权柄</a>的人。</p><p>在耶稣回到<a href=\"#t63\">天上</a>之前，祂告诉祂的门徒\"去使万<a href=\"#t94\">民</a>作我的门徒。\"每个信靠耶稣并想顺服祂的人都是耶稣的门徒。</p><p>有时\"门徒\"这个词用于表示一大群人，有时它只表示那十二个被拣选的门徒。</p><p><strong>当你翻译门徒时，要注意以下几个事项：</strong></p><p>如果你的语言中有一个词表示受人尊敬的老师的追随者，你可能会在这里使用这个词。</p><p>记住，你还需要使用一个不同的词来表示<a href=\"#t6\">使徒</a>。</p>",
+"content": "<p><b>门徒</b>是作为学生跟从宗教老师的人。</p><p>在新约中，所有跟从耶稣并想向祂学习的人都是门徒。有时耶稣差遣门徒出去，宣讲<data class=\"resource-ref\" data-content-id=\"cmn-t82-v1\" data-resource-code=\"FIAKeyTerms\">神的国</data>已经降临的<data class=\"resource-ref\" data-content-id=\"cmn-t160-v1\" data-resource-code=\"FIAKeyTerms\">好消息</data>，并<data class=\"resource-ref\" data-content-id=\"cmn-t62-v1\" data-resource-code=\"FIAKeyTerms\">医治</data>病人。</p><p>耶稣还拣选了十二个人作为祂特别的门徒。这个小群体通常被称为\"十二门徒\"，甚至就是\"那十二个\"。这些人跟随耶稣去各处，向祂学习并且观察祂。这十二个门徒也被称为<data class=\"resource-ref\" data-content-id=\"cmn-t6-v1\" data-resource-code=\"FIAKeyTerms\">使徒</data>。使徒是从耶稣那里获得特别<data class=\"resource-ref\" data-content-id=\"cmn-t8-v1\" data-resource-code=\"FIAKeyTerms\">权柄</data>的人。</p><p>在耶稣回到<data class=\"resource-ref\" data-content-id=\"cmn-t63-v1\" data-resource-code=\"FIAKeyTerms\">天上</data>之前，祂告诉祂的门徒\"去使万<data class=\"resource-ref\" data-content-id=\"cmn-t94-v1\" data-resource-code=\"FIAKeyTerms\">民</data>作我的门徒。\"每个信靠耶稣并想顺服祂的人都是耶稣的门徒。</p><p>有时\"门徒\"这个词用于表示一大群人，有时它只表示那十二个被拣选的门徒。</p><p><strong>当你翻译门徒时，要注意以下几个事项：</strong></p><p>如果你的语言中有一个词表示受人尊敬的老师的追随者，你可能会在这里使用这个词。</p><p>记住，你还需要使用一个不同的词来表示<data class=\"resource-ref\" data-content-id=\"cmn-t6-v1\" data-resource-code=\"FIAKeyTerms\">使徒</data>。</p>",
 "associations": {
 "passage": [
 {
@@ -612,7 +612,64 @@
 "end_ref_usfm": "LUK 14:35"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t82-v1",
+"resource_code": "FIAKeyTerms",
+"label": "神的国",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t160-v1",
+"resource_code": "FIAKeyTerms",
+"label": "好消息",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t62-v1",
+"resource_code": "FIAKeyTerms",
+"label": "医治",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t6-v1",
+"resource_code": "FIAKeyTerms",
+"label": "使徒",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t8-v1",
+"resource_code": "FIAKeyTerms",
+"label": "权柄",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t63-v1",
+"resource_code": "FIAKeyTerms",
+"label": "天上",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t94-v1",
+"resource_code": "FIAKeyTerms",
+"label": "民",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t6-v1",
+"resource_code": "FIAKeyTerms",
+"label": "使徒",
+"language": "zhs"
+}
+],
 "acai": []
 }
 },

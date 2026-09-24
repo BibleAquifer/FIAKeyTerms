@@ -8,7 +8,7 @@
 "index_reference": "比喻",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><b>比喻</b>是一个有更深含意的故事。 耶稣讲了许多比喻。 在这些故事中，耶稣使用了祂周围的人非常熟悉的人物和情境。 这些故事的结局经常让耶稣的听众感到非常惊讶，有时甚至是令人震惊的。 通过这些故事，耶稣告诉人们关于神的事，以及关于<a href=\"#t82\">神的国</a>是如何运作的。 通过讲这些故事，耶稣希望人们改变他们的想法和行为。 人们需要非常仔细的聆听比喻才能理解它们。 只有信靠耶稣的人才能真正明白这些比喻。 对于另一些人来说，比喻只是故事，没有任何意义。 有时耶稣私下向祂的<a href=\"#t39\">门徒们</a>解释比喻的意思。</p><p>在旧约中，把神的信息传递给人们的<a href=\"#t104\">先知们</a>有时也会讲比喻，教导人们一些关于神的事。</p>",
+"content": "<p><b>比喻</b>是一个有更深含意的故事。 耶稣讲了许多比喻。 在这些故事中，耶稣使用了祂周围的人非常熟悉的人物和情境。 这些故事的结局经常让耶稣的听众感到非常惊讶，有时甚至是令人震惊的。 通过这些故事，耶稣告诉人们关于神的事，以及关于<data class=\"resource-ref\" data-content-id=\"cmn-t82-v1\" data-resource-code=\"FIAKeyTerms\">神的国</data>是如何运作的。 通过讲这些故事，耶稣希望人们改变他们的想法和行为。 人们需要非常仔细的聆听比喻才能理解它们。 只有信靠耶稣的人才能真正明白这些比喻。 对于另一些人来说，比喻只是故事，没有任何意义。 有时耶稣私下向祂的<data class=\"resource-ref\" data-content-id=\"cmn-t39-v1\" data-resource-code=\"FIAKeyTerms\">门徒们</data>解释比喻的意思。</p><p>在旧约中，把神的信息传递给人们的<data class=\"resource-ref\" data-content-id=\"cmn-t104-v1\" data-resource-code=\"FIAKeyTerms\">先知们</data>有时也会讲比喻，教导人们一些关于神的事。</p>",
 "associations": {
 "passage": [
 {
@@ -144,7 +144,29 @@
 "end_ref_usfm": "LUK 21:38"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t82-v1",
+"resource_code": "FIAKeyTerms",
+"label": "神的国",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t39-v1",
+"resource_code": "FIAKeyTerms",
+"label": "门徒们",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t104-v1",
+"resource_code": "FIAKeyTerms",
+"label": "先知们",
+"language": "zhs"
+}
+],
 "acai": [
 {
 "id": "keyterm:Parable",

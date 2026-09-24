@@ -450,6 +450,12 @@
 "end_ref_usfm": "PSA 117:2"
 },
 {
+"start_ref": "23005026",
+"start_ref_usfm": "ISA 5:26",
+"end_ref": "23005030",
+"end_ref_usfm": "ISA 5:30"
+},
+{
 "start_ref": "40021033",
 "start_ref_usfm": "MAT 21:33",
 "end_ref": "40021046",
@@ -575,7 +581,7 @@
 {
 "id": "group:Gentile",
 "type": "group",
-"confidence": 0.5684,
+"confidence": 0.5683,
 "match_method": "scored",
 "preferred_label": "Gentiles"
 }
@@ -1033,6 +1039,12 @@
 "end_ref_usfm": "PSA 117:2"
 },
 {
+"start_ref": "23005026",
+"start_ref_usfm": "ISA 5:26",
+"end_ref": "23005030",
+"end_ref_usfm": "ISA 5:30"
+},
+{
 "start_ref": "40021033",
 "start_ref_usfm": "MAT 21:33",
 "end_ref": "40021046",
@@ -1165,7 +1177,7 @@
 "index_reference": "nazaré",
 "language": "por",
 "review_level": "None",
-"content": "<p><b>Nazaré</b> é uma pequena cidade na região da <a href=\"#t55\">Galileia</a>, no norte de <a href=\"#t74\">Israel</a>. Nazaré não aparece no Antigo Testamento, e a primeira vez que ouvimos sobre essa cidade é quando ouvimos que <a href=\"#t89\">Maria</a> e José, os pais de Jesus, eram de Nazaré. Jesus nasceu em uma aldeia chamada <a href=\"#t13\">Belém</a>, na <a href=\"#t81\">Judeia</a>, mas quando ele ainda era pequeno, Maria e José foram viver em Nazaré. Portanto, Jesus foi mais tarde chamado de nazareno, que significa alguém de Nazaré. Isso não era um elogio. Os <a href=\"#t77\">judeus</a> da Judeia desprezavam as pessoas na Galileia, e mesmo as pessoas dentro da Galileia desprezavam as pessoas de Nazaré, porque era uma cidade pequena e sem importância.</p>",
+"content": "<p><b>Nazaré</b> é uma pequena cidade na região da <data class=\"resource-ref\" data-content-id=\"por-t55-v1\" data-resource-code=\"FIAKeyTerms\">Galileia</data>, no norte de <data class=\"resource-ref\" data-content-id=\"por-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israel</data>. Nazaré não aparece no Antigo Testamento, e a primeira vez que ouvimos sobre essa cidade é quando ouvimos que <data class=\"resource-ref\" data-content-id=\"por-t89-v1\" data-resource-code=\"FIAKeyTerms\">Maria</data> e José, os pais de Jesus, eram de Nazaré. Jesus nasceu em uma aldeia chamada <data class=\"resource-ref\" data-content-id=\"por-t13-v1\" data-resource-code=\"FIAKeyTerms\">Belém</data>, na <data class=\"resource-ref\" data-content-id=\"por-t81-v1\" data-resource-code=\"FIAKeyTerms\">Judeia</data>, mas quando ele ainda era pequeno, Maria e José foram viver em Nazaré. Portanto, Jesus foi mais tarde chamado de nazareno, que significa alguém de Nazaré. Isso não era um elogio. Os <data class=\"resource-ref\" data-content-id=\"por-t77-v2\" data-resource-code=\"FIAKeyTerms\">judeus</data> da Judeia desprezavam as pessoas na Galileia, e mesmo as pessoas dentro da Galileia desprezavam as pessoas de Nazaré, porque era uma cidade pequena e sem importância.</p>",
 "associations": {
 "passage": [
 {
@@ -1271,7 +1283,50 @@
 "end_ref_usfm": "ACT 26:23"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t55-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Galileia",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israel",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t89-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Maria",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t13-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Belém",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t81-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Judeia",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t77-v2",
+"resource_code": "FIAKeyTerms",
+"label": "judeus",
+"language": "por"
+}
+],
 "acai": [
 {
 "id": "place:Nazareth",

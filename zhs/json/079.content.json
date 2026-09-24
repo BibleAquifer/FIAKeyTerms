@@ -8,7 +8,7 @@
 "index_reference": "耶路撒冷",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><b>耶路撒冷</b>是<a href=\"#t77\">犹太人</a>最重要的城市的名称。 犹太人<a href=\"#t149\">敬拜</a>神的<a href=\"#t138\">圣殿</a>在耶路撒冷。 犹太人每年都会前往耶路撒冷数次，在圣殿中庆祝重要的节日。 犹太人的宗教法庭，就是<a href=\"#t168\">公会</a>，也在耶路撒冷聚集。</p><p>在耶稣出生前大约一千年，<a href=\"#t33\">大卫</a>王建立了耶路撒冷城作为<a href=\"#t74\">以色列</a>的首都。 大约500年后，<a href=\"#t259\">以色列人</a>的仇敌摧毁了那城，但以色列人再次重建了它。 犹太人非常热爱耶路撒冷城。</p><p>耶路撒冷是<a href=\"#t81\">犹太省</a>的一部分。 耶路撒冷建在山上。 因此，人们总是说他们要<em>上</em>耶路撒冷。</p>",
+"content": "<p><b>耶路撒冷</b>是<data class=\"resource-ref\" data-content-id=\"cmn-t77-v1\" data-resource-code=\"FIAKeyTerms\">犹太人</data>最重要的城市的名称。 犹太人敬拜神的<data class=\"resource-ref\" data-content-id=\"cmn-t138-v1\" data-resource-code=\"FIAKeyTerms\">圣殿</data>在耶路撒冷。 犹太人每年都会前往耶路撒冷数次，在圣殿中庆祝重要的节日。 犹太人的宗教法庭，就是<data class=\"resource-ref\" data-content-id=\"cmn-t168-v1\" data-resource-code=\"FIAKeyTerms\">公会</data>，也在耶路撒冷聚集。</p><p>在耶稣出生前大约一千年，<data class=\"resource-ref\" data-content-id=\"cmn-t33-v1\" data-resource-code=\"FIAKeyTerms\">大卫</data>王建立了耶路撒冷城作为<data class=\"resource-ref\" data-content-id=\"cmn-t74-v1\" data-resource-code=\"FIAKeyTerms\">以色列</data>的首都。 大约500年后，以色列人的仇敌摧毁了那城，但以色列人再次重建了它。 犹太人非常热爱耶路撒冷城。</p><p>耶路撒冷是<data class=\"resource-ref\" data-content-id=\"cmn-t81-v1\" data-resource-code=\"FIAKeyTerms\">犹太省</data>的一部分。 耶路撒冷建在山上。 因此，人们总是说他们要<em>上</em>耶路撒冷。</p>",
 "associations": {
 "passage": [
 {
@@ -82,6 +82,24 @@
 "start_ref_usfm": "2KI 12:17",
 "end_ref": "12012021",
 "end_ref_usfm": "2KI 12:21"
+},
+{
+"start_ref": "12014008",
+"start_ref_usfm": "2KI 14:8",
+"end_ref": "12014016",
+"end_ref_usfm": "2KI 14:16"
+},
+{
+"start_ref": "12014017",
+"start_ref_usfm": "2KI 14:17",
+"end_ref": "12014022",
+"end_ref_usfm": "2KI 14:22"
+},
+{
+"start_ref": "12015001",
+"start_ref_usfm": "2KI 15:1",
+"end_ref": "12015007",
+"end_ref_usfm": "2KI 15:7"
 },
 {
 "start_ref": "13003001",
@@ -592,32 +610,57 @@
 "start_ref_usfm": "LUK 23:26",
 "end_ref": "42023043",
 "end_ref_usfm": "LUK 23:43"
-},
-{
-"start_ref": "42023044",
-"start_ref_usfm": "LUK 23:44",
-"end_ref": "42023049",
-"end_ref_usfm": "LUK 23:49"
-},
-{
-"start_ref": "42024013",
-"start_ref_usfm": "LUK 24:13",
-"end_ref": "42024035",
-"end_ref_usfm": "LUK 24:35"
-},
-{
-"start_ref": "43004001",
-"start_ref_usfm": "JHN 4:1",
-"end_ref": "43004015",
-"end_ref_usfm": "JHN 4:15"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t77-v1",
+"resource_code": "FIAKeyTerms",
+"label": "犹太人",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t138-v1",
+"resource_code": "FIAKeyTerms",
+"label": "圣殿",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t168-v1",
+"resource_code": "FIAKeyTerms",
+"label": "公会",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t33-v1",
+"resource_code": "FIAKeyTerms",
+"label": "大卫",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t74-v1",
+"resource_code": "FIAKeyTerms",
+"label": "以色列",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t81-v1",
+"resource_code": "FIAKeyTerms",
+"label": "犹太省",
+"language": "zhs"
+}
+],
 "acai": [
 {
 "id": "place:Jerusalem",
 "type": "place",
-"confidence": 0.6565,
+"confidence": 0.658,
 "match_method": "scored",
 "preferred_label": "Jerusalem"
 },
@@ -716,6 +759,24 @@
 "end_ref_usfm": "2KI 12:21"
 },
 {
+"start_ref": "12014008",
+"start_ref_usfm": "2KI 14:8",
+"end_ref": "12014016",
+"end_ref_usfm": "2KI 14:16"
+},
+{
+"start_ref": "12014017",
+"start_ref_usfm": "2KI 14:17",
+"end_ref": "12014022",
+"end_ref_usfm": "2KI 14:22"
+},
+{
+"start_ref": "12015001",
+"start_ref_usfm": "2KI 15:1",
+"end_ref": "12015007",
+"end_ref_usfm": "2KI 15:7"
+},
+{
 "start_ref": "13003001",
 "start_ref_usfm": "1CH 3:1",
 "end_ref": "13003009",
@@ -1224,24 +1285,6 @@
 "start_ref_usfm": "LUK 23:26",
 "end_ref": "42023043",
 "end_ref_usfm": "LUK 23:43"
-},
-{
-"start_ref": "42023044",
-"start_ref_usfm": "LUK 23:44",
-"end_ref": "42023049",
-"end_ref_usfm": "LUK 23:49"
-},
-{
-"start_ref": "42024013",
-"start_ref_usfm": "LUK 24:13",
-"end_ref": "42024035",
-"end_ref_usfm": "LUK 24:35"
-},
-{
-"start_ref": "43004001",
-"start_ref_usfm": "JHN 4:1",
-"end_ref": "43004015",
-"end_ref_usfm": "JHN 4:15"
 }
 ],
 "resource": []

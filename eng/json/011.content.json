@@ -1241,7 +1241,7 @@
 "index_reference": "kingdom",
 "language": "eng",
 "review_level": "None",
-"content": "<p>A <b>kingdom</b> is the territory or the people that a <a href=\"#t226\">king</a> rules.</p>",
+"content": "<p>A <b>kingdom</b> is the territory or the people that a <data class=\"resource-ref\" data-content-id=\"eng-t226-v2\" data-resource-code=\"FIAKeyTerms\">king</data> rules.</p>",
 "associations": {
 "passage": [
 {
@@ -1731,7 +1731,15 @@
 "end_ref_usfm": "ACT 1:11"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t226-v2",
+"resource_code": "FIAKeyTerms",
+"label": "king",
+"language": "eng"
+}
+],
 "acai": [
 {
 "id": "keyterm:Kingdom",
@@ -2254,7 +2262,7 @@
 "index_reference": "kingdom of god",
 "language": "eng",
 "review_level": "None",
-"content": "<p>The <b>kingdom of God</b> and the <b>kingdom of heaven</b> mean the same thing. Because in later times the <a href=\"#t77\">Jews</a> thought it was disrespectful to say God's name, they sometimes said \"<a href=\"#t63\">heaven</a>\" when they meant God.</p><p>A <a href=\"#t226\">king</a> is a ruler who is in charge of a group of people. The land that comes under a king's <a href=\"#t8\">authority</a> is called his <a href=\"#t157\">kingdom</a>. But the word kingdom can also mean the people who are under the king's authority. When you say that a kingdom is very large, this can mean that there are very many people in the kingdom, or it can mean that the king's land is very large. But the word kingdom also refers to the rule of the king. When you say that a king's kingdom will never end, you mean to say that this king will never stop ruling. When the Bible talks about the kingdom of God, this means especially the rule of God.</p><p>God is the king over the whole world. The whole of creation is his kingdom. In the Old Testament, the people of <a href=\"#t74\">Israel</a> are especially called God's kingdom. There were human kings ruling over Israel, but they were accountable to God. God was the highest king, the king of kings!</p><p>But the people in God's kingdom were not obedient to God-not even the <a href=\"#t259\">Israelites</a>. The <a href=\"#t104\">prophets</a>, who gave messages from God to the people, told the Israelites that one day God would come and establish his kingdom forever. When that would happen, all people would submit to God and obey him. All people everywhere, and all of creation, would live in a right <a href=\"#t108\">relationship</a> with God. There would be no more suffering or <a href=\"#t187\">evil</a>. The people of Israel hoped and <a href=\"#t102\">prayed</a> for this perfect kingdom to come.</p><p>Jesus told the people that this kingdom of God was near; this means that God's perfect rule would start very soon. Jesus even said a few times that the kingdom of God had <em>already come</em>! The wonderful <a href=\"#t93\">miracles</a> that Jesus was doing were proof that God was already ruling as king. As soon as someone began to trust Jesus, they \"entered the kingdom of God\"! They became God's people, accepting God as their king.</p><p>But we cannot see fully yet that God is ruling. People are still getting sick, are doing <a href=\"#125\">sin</a>, and are having wars. <a href=\"#t118\">Satan</a>, God's enemy, is still trying to destroy God's work. And there are still natural disasters that kill people.</p><p>Jesus therefore also promised that more is coming. One day, Satan will be defeated forever, Jesus will come back to earth, and everybody will submit to his rule. God will restore everything. God's perfect kingdom will truly begin.</p><p>The people in the time of Jesus thought that when God's kingdom would come, Israel would be restored as a political <a href=\"#t94\">nation</a>. Jesus explained how God's kingdom is different from what they expected. Jesus explained that God's kingdom has to do with people following God as their king and obeying God. Jesus knew that this was hard to understand-he even told his <a href=\"#t39\">disciples</a> that God's kingdom was like a mystery.</p><p>Jesus taught people about God's kingdom by telling them stories or <a href=\"#t98\">parables</a>. He often told stories that began with \"the kingdom of God is like...\" Each of these stories told the people a little bit more about how things work in the kingdom of God. Often this showed the people that in God's kingdom, things may be completely opposite to what they expected! Things that are important for people on earth, like being rich, having a high position in society, or being powerful, were not important at all in God's kingdom. Instead, those people who were the poorest or the least powerful on earth, would be the most important people in God's kingdom.</p><p>Many of Jesus's parables described God's kingdom as a feast or a meal. When people eat together, they have a good relationship with each other, and Jesus wanted to show that God's kingdom is about having a good <a href=\"#t108\">relationship</a> with God. If we have a good relationship with God by allowing Jesus to be king in our lives right now, we will also live with God forever in his perfect kingdom that will come one day.</p><p>Some passages in the New Testament talk about God being the king, and some passages talk about Jesus being the king. Because Jesus is God as well, both are true at the same time. The <a href=\"#t6\">apostle</a> Paul in his letter to the people in Corinth says that Jesus is king, and that when Jesus has completely defeated all enemies, Jesus will hand over the kingdom to God.</p><p>So, in summary, the kingdom of God does not refer to a physical place, like a country somewhere on this earth. The kingdom of God especially refers to the rule of God. The kingdom of God is everywhere where God rules, and where people are obeying him and live in a right relationship with him. At the same time, the kingdom of God has not yet come completely. Not everybody has submitted to the will of God. One day, Jesus will come back and reign over the entire world and creation in God's perfect kingdom. In God's perfect kingdom there will be no more suffering or evil, and all people and all creation will obey him.</p>",
+"content": "<p>The <b>kingdom of God</b> and the <b>kingdom of heaven</b> mean the same thing. Because in later times the <data class=\"resource-ref\" data-content-id=\"eng-t77-v2\" data-resource-code=\"FIAKeyTerms\">Jews</data> thought it was disrespectful to say God's name, they sometimes said \"<data class=\"resource-ref\" data-content-id=\"eng-t63-v1\" data-resource-code=\"FIAKeyTerms\">heaven</data>\" when they meant God.</p><p>A <data class=\"resource-ref\" data-content-id=\"eng-t226-v2\" data-resource-code=\"FIAKeyTerms\">king</data> is a ruler who is in charge of a group of people. The land that comes under a king's <data class=\"resource-ref\" data-content-id=\"eng-t8-v1\" data-resource-code=\"FIAKeyTerms\">authority</data> is called his <data class=\"resource-ref\" data-content-id=\"eng-t157-v1\" data-resource-code=\"FIAKeyTerms\">kingdom</data>. But the word kingdom can also mean the people who are under the king's authority. When you say that a kingdom is very large, this can mean that there are very many people in the kingdom, or it can mean that the king's land is very large. But the word kingdom also refers to the rule of the king. When you say that a king's kingdom will never end, you mean to say that this king will never stop ruling. When the Bible talks about the kingdom of God, this means especially the rule of God.</p><p>God is the king over the whole world. The whole of creation is his kingdom. In the Old Testament, the people of <data class=\"resource-ref\" data-content-id=\"eng-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israel</data> are especially called God's kingdom. There were human kings ruling over Israel, but they were accountable to God. God was the highest king, the king of kings!</p><p>But the people in God's kingdom were not obedient to God-not even the <data class=\"resource-ref\" data-content-id=\"eng-t259-v2\" data-resource-code=\"FIAKeyTerms\">Israelites</data>. The <data class=\"resource-ref\" data-content-id=\"eng-t104-v1\" data-resource-code=\"FIAKeyTerms\">prophets</data>, who gave messages from God to the people, told the Israelites that one day God would come and establish his kingdom forever. When that would happen, all people would submit to God and obey him. All people everywhere, and all of creation, would live in a right relationship with God. There would be no more suffering or <data class=\"resource-ref\" data-content-id=\"eng-t187-v1\" data-resource-code=\"FIAKeyTerms\">evil</data>. The people of Israel hoped and <data class=\"resource-ref\" data-content-id=\"eng-t102-v1\" data-resource-code=\"FIAKeyTerms\">prayed</data> for this perfect kingdom to come.</p><p>Jesus told the people that this kingdom of God was near; this means that God's perfect rule would start very soon. Jesus even said a few times that the kingdom of God had <em>already come</em>! The wonderful <data class=\"resource-ref\" data-content-id=\"eng-t93-v1\" data-resource-code=\"FIAKeyTerms\">miracles</data> that Jesus was doing were proof that God was already ruling as king. As soon as someone began to trust Jesus, they \"entered the kingdom of God\"! They became God's people, accepting God as their king.</p><p>But we cannot see fully yet that God is ruling. People are still getting sick, are doing <data class=\"resource-ref\" data-content-id=\"eng-t125-v1\" data-resource-code=\"FIAKeyTerms\">sin</data>, and are having wars. <data class=\"resource-ref\" data-content-id=\"eng-t118-v1\" data-resource-code=\"FIAKeyTerms\">Satan</data>, God's enemy, is still trying to destroy God's work. And there are still natural disasters that kill people.</p><p>Jesus therefore also promised that more is coming. One day, Satan will be defeated forever, Jesus will come back to earth, and everybody will submit to his rule. God will restore everything. God's perfect kingdom will truly begin.</p><p>The people in the time of Jesus thought that when God's kingdom would come, Israel would be restored as a political <data class=\"resource-ref\" data-content-id=\"eng-t94-v2\" data-resource-code=\"FIAKeyTerms\">nation</data>. Jesus explained how God's kingdom is different from what they expected. Jesus explained that God's kingdom has to do with people following God as their king and obeying God. Jesus knew that this was hard to understand-he even told his <data class=\"resource-ref\" data-content-id=\"eng-t39-v1\" data-resource-code=\"FIAKeyTerms\">disciples</data> that God's kingdom was like a mystery.</p><p>Jesus taught people about God's kingdom by telling them stories or <data class=\"resource-ref\" data-content-id=\"eng-t98-v1\" data-resource-code=\"FIAKeyTerms\">parables</data>. He often told stories that began with \"the kingdom of God is like...\" Each of these stories told the people a little bit more about how things work in the kingdom of God. Often this showed the people that in God's kingdom, things may be completely opposite to what they expected! Things that are important for people on earth, like being rich, having a high position in society, or being powerful, were not important at all in God's kingdom. Instead, those people who were the poorest or the least powerful on earth, would be the most important people in God's kingdom.</p><p>Many of Jesus's parables described God's kingdom as a feast or a meal. When people eat together, they have a good relationship with each other, and Jesus wanted to show that God's kingdom is about having a good relationship with God. If we have a good relationship with God by allowing Jesus to be king in our lives right now, we will also live with God forever in his perfect kingdom that will come one day.</p><p>Some passages in the New Testament talk about God being the king, and some passages talk about Jesus being the king. Because Jesus is God as well, both are true at the same time. The <data class=\"resource-ref\" data-content-id=\"eng-t6-v1\" data-resource-code=\"FIAKeyTerms\">apostle</data> Paul in his letter to the people in Corinth says that Jesus is king, and that when Jesus has completely defeated all enemies, Jesus will hand over the kingdom to God.</p><p>So, in summary, the kingdom of God does not refer to a physical place, like a country somewhere on this earth. The kingdom of God especially refers to the rule of God. The kingdom of God is everywhere where God rules, and where people are obeying him and live in a right relationship with him. At the same time, the kingdom of God has not yet come completely. Not everybody has submitted to the will of God. One day, Jesus will come back and reign over the entire world and creation in God's perfect kingdom. In God's perfect kingdom there will be no more suffering or evil, and all people and all creation will obey him.</p>",
 "associations": {
 "passage": [
 {
@@ -2750,7 +2758,127 @@
 "end_ref_usfm": "JAS 2:7"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t77-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Jews",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t63-v1",
+"resource_code": "FIAKeyTerms",
+"label": "heaven",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t226-v2",
+"resource_code": "FIAKeyTerms",
+"label": "king",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t8-v1",
+"resource_code": "FIAKeyTerms",
+"label": "authority",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t157-v1",
+"resource_code": "FIAKeyTerms",
+"label": "kingdom",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israel",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t259-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israelites",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t104-v1",
+"resource_code": "FIAKeyTerms",
+"label": "prophets",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t187-v1",
+"resource_code": "FIAKeyTerms",
+"label": "evil",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t102-v1",
+"resource_code": "FIAKeyTerms",
+"label": "prayed",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t93-v1",
+"resource_code": "FIAKeyTerms",
+"label": "miracles",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t125-v1",
+"resource_code": "FIAKeyTerms",
+"label": "sin",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t118-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Satan",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t94-v2",
+"resource_code": "FIAKeyTerms",
+"label": "nation",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t39-v1",
+"resource_code": "FIAKeyTerms",
+"label": "disciples",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t98-v1",
+"resource_code": "FIAKeyTerms",
+"label": "parables",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t6-v1",
+"resource_code": "FIAKeyTerms",
+"label": "apostle",
+"language": "eng"
+}
+],
 "acai": []
 }
 },

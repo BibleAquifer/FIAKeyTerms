@@ -8,7 +8,7 @@
 "index_reference": "cabane ou abri",
 "language": "fra",
 "review_level": "None",
-"content": "<p>Une <b>cabane</b> est une construction rudimentaire que les gens peuvent utiliser de façon temporaire. Les gens construisaient des cabanes pour servir d'abris à partir de branches et de feuilles d'arbres.</p><p>Une fois par an, les <a href=\"#t77\">Juifs</a> célébraient une fête spéciale qu'ils appelaient la « fête des Tabernacles ». D'autres noms sont aussi utilisés pour désigner cette fête : « fête des Huttes », « <a href=\"#t233\">fête des Cabanes</a> », « fête des Tentes » ou encore « Souccot ». « Souccot » est le mot hébreu qui signifie « abris » ou « huttes ». Pendant cette fête, les Juifs construisaient des tentes dans leurs jardins ou sur le toit de leur maison et y vivaient pendant sept jours. Cela leur rappelait que longtemps auparavant, à l'époque de Moïse, Dieu avait libéré leurs ancêtres d'Égypte. Ceux-ci avaient erré dans le <a href=\"#t145\">désert</a> pendant de nombreuses années jusqu'à ce qu'ils s'installent dans le pays que Dieu avait promis de leur donner. Ces cabanes ou huttes, qui étaient des abris temporaires, rappelaient aux Juifs que leurs ancêtres n'avaient pas eu d'endroit permanent où habiter pendant toutes leurs années d'errance dans le désert.</p>",
+"content": "<p>Une <b>cabane</b> est une construction rudimentaire que les gens peuvent utiliser de façon temporaire. Les gens construisaient des cabanes pour servir d'abris à partir de branches et de feuilles d'arbres.</p><p>Une fois par an, les <data class=\"resource-ref\" data-content-id=\"fra-t77-v2\" data-resource-code=\"FIAKeyTerms\">Juifs</data> célébraient une fête spéciale qu'ils appelaient la « fête des Tabernacles ». D'autres noms sont aussi utilisés pour désigner cette fête : « fête des Huttes », « <data class=\"resource-ref\" data-content-id=\"fra-t233-v1\" data-resource-code=\"FIAKeyTerms\">fête des Cabanes</data> », « fête des Tentes » ou encore « Souccot ». « Souccot » est le mot hébreu qui signifie « abris » ou « huttes ». Pendant cette fête, les Juifs construisaient des tentes dans leurs jardins ou sur le toit de leur maison et y vivaient pendant sept jours. Cela leur rappelait que longtemps auparavant, à l'époque de Moïse, Dieu avait libéré leurs ancêtres d'Égypte. Ceux-ci avaient erré dans le <data class=\"resource-ref\" data-content-id=\"fra-t145-v1\" data-resource-code=\"FIAKeyTerms\">désert</data> pendant de nombreuses années jusqu'à ce qu'ils s'installent dans le pays que Dieu avait promis de leur donner. Ces cabanes ou huttes, qui étaient des abris temporaires, rappelaient aux Juifs que leurs ancêtres n'avaient pas eu d'endroit permanent où habiter pendant toutes leurs années d'errance dans le désert.</p>",
 "associations": {
 "passage": [
 {
@@ -24,7 +24,29 @@
 "end_ref_usfm": "MRK 9:13"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t77-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Juifs",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t233-v1",
+"resource_code": "FIAKeyTerms",
+"label": "fête des Cabanes",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t145-v1",
+"resource_code": "FIAKeyTerms",
+"label": "désert",
+"language": "fra"
+}
+],
 "acai": []
 }
 },
@@ -65,7 +87,7 @@
 "index_reference": "canaan",
 "language": "fra",
 "review_level": "None",
-"content": "<p>Dans l'Ancien Testament, <b>Canaan</b> est une région qui correspond à peu près à une bande de terre entre le fleuve <a href=\"#t80\">Jourdain</a> à l'est et la mer Méditerranée à l'ouest. C'est une région qui comprend aujourd'hui une partie des pays d'<a href=\"#t74\">Israël</a> et de la Palestine, du Liban et de la Syrie.</p><p>Dieu a appelé <a href=\"#t1\">Abraham</a> et lui a dit d'aller dans le pays qu'il lui montrera. Ce pays était Canaan. Dieu a promis à Abraham que toute la terre de Canaan appartiendrait à ses descendants.</p><p>Beaucoup d'autres groupes de personnes vivaient dans cette région à cette époque : les Hittites, les Amoréens, les Cananéens et quelques autres. Parfois, ils sont tous appelés Cananéens, et parfois, ils sont tous appelés Amoréens.</p><p>Quand les descendants d'Abraham, les <a href=\"#t259\">Israélites</a>, sont libérés de l'esclavage en Égypte, Dieu les ramène en Canaan. Dieu leur donne la tâche de chasser les Cananéens et de s'emparer de la terre. Dieu allait donner la terre aux Israélites. Dieu voulait construire une <a href=\"#t94\">nation</a> à partir des Israélites par lesquels il <a href=\"#t16\">bénirait</a> tous les peuples de la terre. Pour que le peuple reste fidèle à Dieu, il était important qu'il ne soit pas influencé par les Cananéens. Le peuple Cananéen adorait beaucoup de <a href=\"#t149\">dieux</a> et faisait beaucoup de choses que Dieu avait spécifiquement interdites dans ses <a href=\"#t245\">commandements</a>. Mais les Israélites ne sont pas parvenus à chasser les Cananéens et ont souvent <a href=\"#t125\">péché</a> en suivant les coutumes et les dieux des Cananéens.</p>",
+"content": "<p>Dans l&#x27;Ancien Testament, <b>Canaan</b> est une région qui correspond à peu près à une bande de terre entre le fleuve <data class=\"resource-ref\" data-content-id=\"fra-t80-v1\" data-resource-code=\"FIAKeyTerms\">Jourdain</data> à l&#x27;est et la mer Méditerranée à l&#x27;ouest. C&#x27;est une région qui comprend aujourd&#x27;hui une partie des pays d&#x27;<data class=\"resource-ref\" data-content-id=\"fra-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israël</data> et de la Palestine, du Liban et de la Syrie.</p><p>Dieu a appelé <data class=\"resource-ref\" data-content-id=\"fra-t1-v1\" data-resource-code=\"FIAKeyTerms\">Abraham</data> et lui a dit d&#x27;aller dans le pays qu&#x27;il lui montrera. Ce pays était Canaan. Dieu a promis à Abraham que toute la terre de Canaan appartiendrait à ses descendants.</p><p>Beaucoup d&#x27;autres groupes de personnes vivaient dans cette région à cette époque : les Hittites, les Amoréens, les Cananéens et quelques autres. Parfois, ils sont tous appelés Cananéens, et parfois, ils sont tous appelés Amoréens.</p><p>Quand les descendants d&#x27;Abraham, les <data class=\"resource-ref\" data-content-id=\"fra-t259-v2\" data-resource-code=\"FIAKeyTerms\">Israélites</data>, sont libérés de l&#x27;esclavage en Égypte, Dieu les ramène en Canaan. Dieu leur donne la tâche de chasser les Cananéens et de s&#x27;emparer de la terre. Dieu allait donner la terre aux Israélites. Dieu voulait construire une <data class=\"resource-ref\" data-content-id=\"fra-t94-v1\" data-resource-code=\"FIAKeyTerms\">nation</data> à partir des Israélites par lesquels il <data class=\"resource-ref\" data-content-id=\"fra-t16-v1\" data-resource-code=\"FIAKeyTerms\">bénirait</data> tous les peuples de la terre. Pour que le peuple reste fidèle à Dieu, il était important qu&#x27;il ne soit pas influencé par les Cananéens. Le peuple Cananéen adorait beaucoup de <data class=\"resource-ref\" data-content-id=\"fra-t149-v1\" data-resource-code=\"FIAKeyTerms\">dieux</data> et faisait beaucoup de choses que Dieu avait spécifiquement interdites dans ses <data class=\"resource-ref\" data-content-id=\"fra-t245-v1\" data-resource-code=\"FIAKeyTerms\">commandements</data>. Mais les Israélites ne sont pas parvenus à chasser les Cananéens et ont souvent <data class=\"resource-ref\" data-content-id=\"fra-t125-v1\" data-resource-code=\"FIAKeyTerms\">péché</data> en suivant les coutumes et les dieux des Cananéens.</p>",
 "associations": {
 "passage": [
 {
@@ -303,7 +325,71 @@
 "end_ref_usfm": "2CH 8:18"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t80-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Jourdain",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israël",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t1-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Abraham",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t259-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israélites",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t94-v1",
+"resource_code": "FIAKeyTerms",
+"label": "nation",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t16-v1",
+"resource_code": "FIAKeyTerms",
+"label": "bénirait",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t149-v1",
+"resource_code": "FIAKeyTerms",
+"label": "dieux",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t245-v1",
+"resource_code": "FIAKeyTerms",
+"label": "commandements",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t125-v1",
+"resource_code": "FIAKeyTerms",
+"label": "péché",
+"language": "fra"
+}
+],
 "acai": [
 {
 "id": "place:Canaan",
@@ -581,7 +667,7 @@
 "index_reference": "capernaüm",
 "language": "fra",
 "review_level": "None",
-"content": "<p><b>Capernaüm</b> était une petite ville située dans la région de <a href=\"#t55\">Galilée</a>, près de la <a href=\"#t121\">mer de Galilée</a>. Beaucoup de personnes à Capernaüm gagnaient leur vie de la pêche ou du commerce. La ville était située près d'une route importante. Les gens empruntaient cette route pour faire du commerce. C'est pour cela que la ville était importante dans la région, même si elle n'était pas très grande.</p><p>Plusieurs des <a href=\"#t39\">disciples</a> de Jésus venaient de Capernaüm. Jésus y est souvent resté.</p>",
+"content": "<p><b>Capernaüm</b> était une petite ville située dans la région de <data class=\"resource-ref\" data-content-id=\"fra-t55-v1.0.1\" data-resource-code=\"FIAKeyTerms\">Galilée</data>, près de la <data class=\"resource-ref\" data-content-id=\"fra-t121-v1\" data-resource-code=\"FIAKeyTerms\">mer de Galilée</data>. Beaucoup de personnes à Capernaüm gagnaient leur vie de la pêche ou du commerce. La ville était située près d'une route importante. Les gens empruntaient cette route pour faire du commerce. C'est pour cela que la ville était importante dans la région, même si elle n'était pas très grande.</p><p>Plusieurs des <data class=\"resource-ref\" data-content-id=\"fra-t39-v1\" data-resource-code=\"FIAKeyTerms\">disciples</data> de Jésus venaient de Capernaüm. Jésus y est souvent resté.</p>",
 "associations": {
 "passage": [
 {
@@ -693,7 +779,29 @@
 "end_ref_usfm": "JHN 6:59"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t55-v1.0.1",
+"resource_code": "FIAKeyTerms",
+"label": "Galilée",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t121-v1",
+"resource_code": "FIAKeyTerms",
+"label": "mer de Galilée",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t39-v1",
+"resource_code": "FIAKeyTerms",
+"label": "disciples",
+"language": "fra"
+}
+],
 "acai": [
 {
 "id": "place:Capernaum",
@@ -1075,7 +1183,7 @@
 "index_reference": "césar",
 "language": "fra",
 "review_level": "None",
-"content": "<p><b>César</b> était le titre officiel de l'empereur romain. Rome est une ville située dans un pays appelé l'Italie. À l'époque du Nouveau Testament, Rome était la capitale de l'Empire romain.</p><p>Un empire est un groupe de <a href=\"#t94\">nations</a> ou de pays qui est gouverné par une personne ou un gouvernement. Le chef d'un empire est un empereur. Celui des Romains s'appelait César.</p><p>L'Empire romain incluait de nombreux pays et de nombreux peuples. C'était un très grand empire. Les gens de tous ces pays devaient payer des impôts à César. Il était si puissant que beaucoup de gens le traitaient comme un dieu. Dans certaines villes, les gens ont même construit des <a href=\"#t138\">temples</a> pour y <a href=\"#t149\">adorer</a> des statues de lui.</p>",
+"content": "<p><b>César</b> était le titre officiel de l'empereur romain. Rome est une ville située dans un pays appelé l'Italie. À l'époque du Nouveau Testament, Rome était la capitale de l'Empire romain.</p><p>Un empire est un groupe de <data class=\"resource-ref\" data-content-id=\"fra-t94-v1\" data-resource-code=\"FIAKeyTerms\">nations</data> ou de pays qui est gouverné par une personne ou un gouvernement. Le chef d'un empire est un empereur. Celui des Romains s'appelait César.</p><p>L'Empire romain incluait de nombreux pays et de nombreux peuples. C'était un très grand empire. Les gens de tous ces pays devaient payer des impôts à César. Il était si puissant que beaucoup de gens le traitaient comme un dieu. Dans certaines villes, les gens ont même construit des <data class=\"resource-ref\" data-content-id=\"fra-t138-v1\" data-resource-code=\"FIAKeyTerms\">temples</data> pour y <data class=\"resource-ref\" data-content-id=\"fra-t149-v1\" data-resource-code=\"FIAKeyTerms\">adorer</data> des statues de lui.</p>",
 "associations": {
 "passage": [
 {
@@ -1151,7 +1259,29 @@
 "end_ref_usfm": "PHP 4:23"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t94-v1",
+"resource_code": "FIAKeyTerms",
+"label": "nations",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t138-v1",
+"resource_code": "FIAKeyTerms",
+"label": "temples",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t149-v1",
+"resource_code": "FIAKeyTerms",
+"label": "adorer",
+"language": "fra"
+}
+],
 "acai": [
 {
 "id": "person:Tiberius",
@@ -1274,7 +1404,7 @@
 "index_reference": "césarée de philippe",
 "language": "fra",
 "review_level": "None",
-"content": "<p><b>Césarée de Philippe</b> était une ville située à environ 40 kilomètres au nord de la <a href=\"#t121\">mer de Galilée</a>. Les gens qui y vivaient n'étaient pas <a href=\"#t77\">juifs</a>. Dans la ville se trouvait un temple que les gens avaient construit pour <a href=\"#t149\">adorer</a> <a href=\"#t19\">César</a>, l'empereur Romain.</p>",
+"content": "<p><b>Césarée de Philippe</b> était une ville située à environ 40 kilomètres au nord de la <data class=\"resource-ref\" data-content-id=\"fra-t121-v1\" data-resource-code=\"FIAKeyTerms\">mer de Galilée</data>. Les gens qui y vivaient n'étaient pas <data class=\"resource-ref\" data-content-id=\"fra-t77-v2\" data-resource-code=\"FIAKeyTerms\">juifs</data>. Dans la ville se trouvait un temple que les gens avaient construit pour <data class=\"resource-ref\" data-content-id=\"fra-t149-v1\" data-resource-code=\"FIAKeyTerms\">adorer</data> <data class=\"resource-ref\" data-content-id=\"fra-t19-v1\" data-resource-code=\"FIAKeyTerms\">César</data>, l'empereur Romain.</p>",
 "associations": {
 "passage": [
 {
@@ -1284,7 +1414,36 @@
 "end_ref_usfm": "MRK 8:30"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t121-v1",
+"resource_code": "FIAKeyTerms",
+"label": "mer de Galilée",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t77-v2",
+"resource_code": "FIAKeyTerms",
+"label": "juifs",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t149-v1",
+"resource_code": "FIAKeyTerms",
+"label": "adorer",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t19-v1",
+"resource_code": "FIAKeyTerms",
+"label": "César",
+"language": "fra"
+}
+],
 "acai": [
 {
 "id": "place:CaesareaPhilippi",
@@ -1327,7 +1486,7 @@
 "index_reference": "chameau",
 "language": "fra",
 "review_level": "None",
-"content": "<p>Un <b>chameau</b> est un animal de grande taille. Il est fort et peut servir de monture. Il est capable de parcourir de très longues distances sans avoir besoin d'eau ou de nourriture. Les gens utilisaient les chameaux comme monture et pour transporter leurs bagages. Un chameau a une ou deux bosses sur le dos. À l'intérieur de ces bosses, il y a un amas de graisse. Cela permet à l'animal de rester longtemps sans nourriture et même sans eau. Une fois qu'il a l'occasion de boire, un chameau boit une énorme quantité d'eau en une seule fois.</p><p>C'était le plus grand animal en <a href=\"#t74\">Israël</a>.</p><p>Les poils courts et raides d'un chameau pouvaient être transformés en tissu. Ce tissu donnait des vêtements simples et rugueux. <a href=\"#t79\">Jean le Baptiste</a> portait des vêtements faits de poils de chameau.</p><div data-type=\"callout\" data-callout-style=\"action\"><p>Vous pouvez consulter le dictionnaire audio-visuel de la Bible pour voir des images de chameau.</p></div>",
+"content": "<p>Un <b>chameau</b> est un animal de grande taille. Il est fort et peut servir de monture. Il est capable de parcourir de très longues distances sans avoir besoin d'eau ou de nourriture. Les gens utilisaient les chameaux comme monture et pour transporter leurs bagages. Un chameau a une ou deux bosses sur le dos. À l'intérieur de ces bosses, il y a un amas de graisse. Cela permet à l'animal de rester longtemps sans nourriture et même sans eau. Une fois qu'il a l'occasion de boire, un chameau boit une énorme quantité d'eau en une seule fois.</p><p>C'était le plus grand animal en <data class=\"resource-ref\" data-content-id=\"fra-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israël</data>.</p><p>Les poils courts et raides d'un chameau pouvaient être transformés en tissu. Ce tissu donnait des vêtements simples et rugueux. <data class=\"resource-ref\" data-content-id=\"fra-t79-v1\" data-resource-code=\"FIAKeyTerms\">Jean le Baptiste</data> portait des vêtements faits de poils de chameau.</p><div data-type=\"callout\" data-callout-style=\"action\"><p>Vous pouvez consulter le dictionnaire audio-visuel de la Bible pour voir des images de chameau.</p></div>",
 "associations": {
 "passage": [
 {
@@ -1403,7 +1562,22 @@
 "end_ref_usfm": "MRK 10:31"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israël",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t79-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Jean le Baptiste",
+"language": "fra"
+}
+],
 "acai": [
 {
 "id": "fauna:Camel",
@@ -1512,7 +1686,7 @@
 "index_reference": "chef de la synagogue",
 "language": "fra",
 "review_level": "None",
-"content": "<p>Une <b>synagogue</b> est un lieu où des groupes de <a href=\"#t77\">Juifs</a> se réunissent pour <a href=\"#t102\">prier</a> et étudier les <a href=\"#t120\">Écritures</a>. D'autres types de discussions et d'enseignement peuvent aussi avoir lieu dans une synagogue. Chaque synagogue avait un <b>chef</b> qui était responsable du bâtiment et de s'assurer que tout était fait correctement dans la synagogue. Le chef de la synagogue était chargé d'inviter certaines personnes à diriger la prière, à lire les Écritures ou à enseigner.</p>",
+"content": "<p>Une <b>synagogue</b> est un lieu où des groupes de <data class=\"resource-ref\" data-content-id=\"fra-t77-v2\" data-resource-code=\"FIAKeyTerms\">Juifs</data> se réunissent pour <data class=\"resource-ref\" data-content-id=\"fra-t102-v1.0.1\" data-resource-code=\"FIAKeyTerms\">prier</data> et étudier les <data class=\"resource-ref\" data-content-id=\"fra-t120-v1\" data-resource-code=\"FIAKeyTerms\">Écritures</data>. D'autres types de discussions et d'enseignement peuvent aussi avoir lieu dans une synagogue. Chaque synagogue avait un <b>chef</b> qui était responsable du bâtiment et de s'assurer que tout était fait correctement dans la synagogue. Le chef de la synagogue était chargé d'inviter certaines personnes à diriger la prière, à lire les Écritures ou à enseigner.</p>",
 "associations": {
 "passage": [
 {
@@ -1528,7 +1702,29 @@
 "end_ref_usfm": "MRK 5:43"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t77-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Juifs",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t102-v1.0.1",
+"resource_code": "FIAKeyTerms",
+"label": "prier",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t120-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Écritures",
+"language": "fra"
+}
+],
 "acai": []
 }
 },
@@ -1569,7 +1765,7 @@
 "index_reference": "chérubins",
 "language": "fra",
 "review_level": "None",
-"content": "<p>Un <b>chérubin</b> ou plusieurs <b>chérubins</b> sont un type d'<a href=\"#t4\">ange</a>. Les chérubins semblent spécialement garder les lieux sacrés ou <a href=\"#t67\">saints</a>. Par conséquent, il y avait des images et des images de chérubins dans le <a href=\"#t138\">temple</a> et dans le tabernacle. Dans ces images, les chérubins ont le corps d'un lion, les ailes d'un oiseau et le visage d'un humain. Les chérubins sont un avertissement pour les gens que Dieu est présent. En fait, les chérubins d'or étendaient leurs ailes sur le sommet de l'arche de l'alliance et protégeaient le trône où Dieu a rencontré son peuple du sommet de l'arche de l'alliance. Dans le livre d'Ézéchiel, Ézéchiel voit une <a href=\"#t143\">vision</a> dans laquelle les chérubins portent le trône de Dieu. Certaines des descriptions des chérubins dans Ézéchiel ressemblent à des personnes, mais ont quatre ailes et quatre visages.</p>",
+"content": "<p>Un <b>chérubin</b> ou plusieurs <b>chérubins</b> sont un type d&#x27;<data class=\"resource-ref\" data-content-id=\"fra-t4-v1.0.1\" data-resource-code=\"FIAKeyTerms\">ange</data>. Les chérubins semblent spécialement garder les lieux sacrés ou <data class=\"resource-ref\" data-content-id=\"fra-t67-v1\" data-resource-code=\"FIAKeyTerms\">saints</data>. Par conséquent, il y avait des images et des images de chérubins dans le <data class=\"resource-ref\" data-content-id=\"fra-t138-v1\" data-resource-code=\"FIAKeyTerms\">temple</data> et dans le tabernacle. Dans ces images, les chérubins ont le corps d&#x27;un lion, les ailes d&#x27;un oiseau et le visage d&#x27;un humain. Les chérubins sont un avertissement pour les gens que Dieu est présent. En fait, les chérubins d&#x27;or étendaient leurs ailes sur le sommet de l&#x27;arche de l&#x27;alliance et protégeaient le trône où Dieu a rencontré son peuple du sommet de l&#x27;arche de l&#x27;alliance. Dans le livre d&#x27;Ézéchiel, Ézéchiel voit une <data class=\"resource-ref\" data-content-id=\"fra-t143-v1\" data-resource-code=\"FIAKeyTerms\">vision</data> dans laquelle les chérubins portent le trône de Dieu. Certaines des descriptions des chérubins dans Ézéchiel ressemblent à des personnes, mais ont quatre ailes et quatre visages.</p>",
 "associations": {
 "passage": [
 {
@@ -1681,7 +1877,36 @@
 "end_ref_usfm": "2CH 5:14"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t4-v1.0.1",
+"resource_code": "FIAKeyTerms",
+"label": "ange",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t67-v1",
+"resource_code": "FIAKeyTerms",
+"label": "saints",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t138-v1",
+"resource_code": "FIAKeyTerms",
+"label": "temple",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t143-v1",
+"resource_code": "FIAKeyTerms",
+"label": "vision",
+"language": "fra"
+}
+],
 "acai": [
 {
 "id": "realia:WingedCreature",
@@ -1826,7 +2051,7 @@
 "index_reference": "chrétien",
 "language": "fra",
 "review_level": "None",
-"content": "<p>Un chrétien est quelqu'un qui croit que Jésus est le <a href=\"#t129\">fils de Dieu</a> et le <a href=\"#t119\">Sauveur</a> ou le <a href=\"#t23\">Christ</a> que Dieu a promis d'envoyer pour sauver les gens de leurs <a href=\"#t125\">péchés</a> et pour rendre possible une bonne relation avec <a href=\"#t189\">Dieu</a>. Un chrétien fait confiance à Jésus et veut lui obéir. Un chrétien a une bonne relation avec Dieu en connaissant Jésus. Un chrétien est un citoyen du <a href=\"#t82\">royaume de Dieu</a>. Les chrétiens croient que faire confiance à Jésus est la seule façon pour Dieu de les accepter.</p><p>Dans le livre des Actes, les gens appellent les disciples de Jésus « croyants » ou parfois « disciples de la voie ». À un moment donné, les gens dans la ville d'Antioche ont commencé à utiliser le mot « chrétiens » pour décrire les croyants comme des personnes qui suivent le Christ. Les gens à Antioche qui ont commencé à appeler les croyants chrétiens n'étaient probablement pas des chrétiens eux-mêmes.</p>",
+"content": "<p>Un chrétien est quelqu&#x27;un qui croit que Jésus est le <data class=\"resource-ref\" data-content-id=\"fra-t129-v1\" data-resource-code=\"FIAKeyTerms\">fils de Dieu</data> et le <data class=\"resource-ref\" data-content-id=\"fra-t119-v1\" data-resource-code=\"FIAKeyTerms\">Sauveur</data> ou le <data class=\"resource-ref\" data-content-id=\"fra-t23-v1.0.1\" data-resource-code=\"FIAKeyTerms\">Christ</data> que Dieu a promis d&#x27;envoyer pour sauver les gens de leurs <data class=\"resource-ref\" data-content-id=\"fra-t125-v1\" data-resource-code=\"FIAKeyTerms\">péchés</data> et pour rendre possible une bonne relation avec <data class=\"resource-ref\" data-content-id=\"fra-t189-v1\" data-resource-code=\"FIAKeyTerms\">Dieu</data>. Un chrétien fait confiance à Jésus et veut lui obéir. Un chrétien a une bonne relation avec Dieu en connaissant Jésus. Un chrétien est un citoyen du <data class=\"resource-ref\" data-content-id=\"fra-t82-v1.0.1\" data-resource-code=\"FIAKeyTerms\">royaume de Dieu</data>. Les chrétiens croient que faire confiance à Jésus est la seule façon pour Dieu de les accepter.</p><p>Dans le livre des Actes, les gens appellent les disciples de Jésus « croyants » ou parfois « disciples de la voie ». À un moment donné, les gens dans la ville d&#x27;Antioche ont commencé à utiliser le mot « chrétiens » pour décrire les croyants comme des personnes qui suivent le Christ. Les gens à Antioche qui ont commencé à appeler les croyants chrétiens n&#x27;étaient probablement pas des chrétiens eux-mêmes.</p>",
 "associations": {
 "passage": [
 {
@@ -1842,7 +2067,50 @@
 "end_ref_usfm": "ACT 26:32"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t129-v1",
+"resource_code": "FIAKeyTerms",
+"label": "fils de Dieu",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t119-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Sauveur",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t23-v1.0.1",
+"resource_code": "FIAKeyTerms",
+"label": "Christ",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t125-v1",
+"resource_code": "FIAKeyTerms",
+"label": "péchés",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t189-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Dieu",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t82-v1.0.1",
+"resource_code": "FIAKeyTerms",
+"label": "royaume de Dieu",
+"language": "fra"
+}
+],
 "acai": [
 {
 "id": "group:Christ",
@@ -1891,7 +2159,7 @@
 "index_reference": "christ",
 "language": "fra",
 "review_level": "None",
-"content": "<p>Le mot « <b>Christ</b> » veut dire la même chose que le mot « <a href=\"#t92\">Messie</a> ». « Messie » est le mot en <a href=\"#t227\">hébreu</a> et « Christ » est le même mot en <a href=\"#t211\">grec</a>. L'hébreu est la langue de l'Ancien Testament, tandis que le grec est la langue du Nouveau Testament.</p><p>Le mot « Messie » désigne le <a href=\"#t226\">roi</a> et <a href=\"#t119\">Sauveur</a> spécial que Dieu avait promis d'envoyer.</p><p>« Messie » désignait littéralement une personne qui avait été <a href=\"#t5\">ointe</a>, c'est-à-dire une personne qui avait reçu l'onction. Cela voulait dire qu'une autre personne avait versé de l'huile sur elle. C'était un signe que Dieu lui avait confié une mission spéciale. Par exemple, dans l'Ancien Testament, Dieu a dit au <a href=\"#t104\">prophète</a> Samuel de verser de l'huile sur <a href=\"#t33\">David</a>. C'était un signe que Dieu l'avait choisi pour devenir le prochain roi d'<a href=\"#t74\">Israël</a>.</p><p>Plus tard, les gens ont aussi considéré qu'un individu était oint si Dieu l'avait désigné pour une mission spéciale, même si personne n'avait versé d'huile sur sa tête.</p><p>David est devenu le roi le plus aimé d'Israël. Mais beaucoup des rois qui l'ont suivi n'ont pas été de bons rois. Ils ont égaré le peuple de Dieu. Alors Dieu a dû punir son peuple. Le pays d'Israël a été détruit et est passé sous le contrôle d'autres <a href=\"#t94\">nations</a>. Malgré cela, Dieu a promis au peuple d'Israël qu'il leur enverrait un nouveau roi. Ce roi les sauverait de toutes leurs difficultés. Ce serait un descendant de David.</p><p>Les <a href=\"#t259\">Israélites</a> ont commencé à désigner ce roi que Dieu avait promis d'envoyer comme « le Messie », ce qui voulait dire « l'oint ».</p><p>Quand Jésus est venu, il a montré au peuple qu'<em>il</em> était le Messie que Dieu avait promis. Jésus était un descendant de David. Son <a href=\"#t8\">autorité</a> et son pouvoir extraordinaires prouvaient que Dieu l'avait choisi.</p><p>Jésus n'a presque jamais dit directement au peuple « Je suis le Messie ! » C'est parce que les gens ne savaient pas encore vraiment ce que cela signifiait qu'il était le Messie. Ils <a href=\"#t11\">croyaient</a> à tort que le Messie restaurerait le royaume d'Israël avec son pouvoir politique. Jésus s'appelait plutôt lui-même « le <a href=\"#t130\">Fils de l'homme</a> ». C'était une façon indirecte de dire qu'il était le Messie.</p><p>Après sa résurrection d'entre les morts, ses <a href=\"#t39\">disciples</a> ont su avec une grande certitude qu'il était vraiment le Messie. Ils ont commencé à partager cette Bonne Nouvelle avec d'autres personnes. Dieu avait envoyé le Sauveur ! Pourtant, Jésus n'était pas un Sauveur destiné à simplement libérer les gens d'un gouvernement terrestre. C'est un Sauveur qui a fait beaucoup plus que cela. Il a libéré les gens du <a href=\"#t125\">péché</a> et de la mort.</p><p><strong>Pour traduire les mots « Messie » ou « Christ », faites attention aux choses suivantes :</strong></p><ul><li>Vous pouvez utiliser un seul mot pour désigner Messie et Christ.</li><li>Vous pouvez traduire Messie par « Sauveur », « Sauveur promis » ou « roi et Sauveur spécial ».</li><li>Certaines équipes de traduction aiment utiliser un mot qui ressemble à « Messie » ou à « Christ ». Si vous faites cela, assurez-vous que le mot choisi n'est pas similaire à un autre mot dans votre langue qui a un sens différent ! Sinon, les gens qui ne connaissent pas la Bible risquent d'être très embrouillés.</li><li>Peut-être que votre culture a un symbole ou un rite que les gens utilisent pour désigner une personne qui a une mission spéciale. Peut-être que vous pouvez utiliser ce mot pour traduire le mot « Messie ».</li></ul>",
+"content": "<p>Le mot « <b>Christ</b> » veut dire la même chose que le mot « <data class=\"resource-ref\" data-content-id=\"fra-t92-v1\" data-resource-code=\"FIAKeyTerms\">Messie</data> ». « Messie » est le mot en <data class=\"resource-ref\" data-content-id=\"fra-t227-v1\" data-resource-code=\"FIAKeyTerms\">hébreu</data> et « Christ » est le même mot en <data class=\"resource-ref\" data-content-id=\"fra-t211-v1\" data-resource-code=\"FIAKeyTerms\">grec</data>. L'hébreu est la langue de l'Ancien Testament, tandis que le grec est la langue du Nouveau Testament.</p><p>Le mot « Messie » désigne le <data class=\"resource-ref\" data-content-id=\"fra-t226-v1\" data-resource-code=\"FIAKeyTerms\">roi</data> et <data class=\"resource-ref\" data-content-id=\"fra-t119-v1\" data-resource-code=\"FIAKeyTerms\">Sauveur</data> spécial que Dieu avait promis d'envoyer.</p><p>« Messie » désignait littéralement une personne qui avait été <data class=\"resource-ref\" data-content-id=\"fra-t5-v1\" data-resource-code=\"FIAKeyTerms\">ointe</data>, c'est-à-dire une personne qui avait reçu l'onction. Cela voulait dire qu'une autre personne avait versé de l'huile sur elle. C'était un signe que Dieu lui avait confié une mission spéciale. Par exemple, dans l'Ancien Testament, Dieu a dit au <data class=\"resource-ref\" data-content-id=\"fra-t104-v1\" data-resource-code=\"FIAKeyTerms\">prophète</data> Samuel de verser de l'huile sur <data class=\"resource-ref\" data-content-id=\"fra-t33-v1\" data-resource-code=\"FIAKeyTerms\">David</data>. C'était un signe que Dieu l'avait choisi pour devenir le prochain roi d'<data class=\"resource-ref\" data-content-id=\"fra-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israël</data>.</p><p>Plus tard, les gens ont aussi considéré qu'un individu était oint si Dieu l'avait désigné pour une mission spéciale, même si personne n'avait versé d'huile sur sa tête.</p><p>David est devenu le roi le plus aimé d'Israël. Mais beaucoup des rois qui l'ont suivi n'ont pas été de bons rois. Ils ont égaré le peuple de Dieu. Alors Dieu a dû punir son peuple. Le pays d'Israël a été détruit et est passé sous le contrôle d'autres <data class=\"resource-ref\" data-content-id=\"fra-t94-v1\" data-resource-code=\"FIAKeyTerms\">nations</data>. Malgré cela, Dieu a promis au peuple d'Israël qu'il leur enverrait un nouveau roi. Ce roi les sauverait de toutes leurs difficultés. Ce serait un descendant de David.</p><p>Les <data class=\"resource-ref\" data-content-id=\"fra-t259-v2\" data-resource-code=\"FIAKeyTerms\">Israélites</data> ont commencé à désigner ce roi que Dieu avait promis d'envoyer comme « le Messie », ce qui voulait dire « l'oint ».</p><p>Quand Jésus est venu, il a montré au peuple qu'<em>il</em> était le Messie que Dieu avait promis. Jésus était un descendant de David. Son <data class=\"resource-ref\" data-content-id=\"fra-t8-v1.0.1\" data-resource-code=\"FIAKeyTerms\">autorité</data> et son pouvoir extraordinaires prouvaient que Dieu l'avait choisi.</p><p>Jésus n'a presque jamais dit directement au peuple « Je suis le Messie ! » C'est parce que les gens ne savaient pas encore vraiment ce que cela signifiait qu'il était le Messie. Ils <data class=\"resource-ref\" data-content-id=\"fra-t11-v1\" data-resource-code=\"FIAKeyTerms\">croyaient</data> à tort que le Messie restaurerait le royaume d'Israël avec son pouvoir politique. Jésus s'appelait plutôt lui-même « le <data class=\"resource-ref\" data-content-id=\"fra-t130-v1\" data-resource-code=\"FIAKeyTerms\">Fils de l'homme</data> ». C'était une façon indirecte de dire qu'il était le Messie.</p><p>Après sa résurrection d'entre les morts, ses <data class=\"resource-ref\" data-content-id=\"fra-t39-v1\" data-resource-code=\"FIAKeyTerms\">disciples</data> ont su avec une grande certitude qu'il était vraiment le Messie. Ils ont commencé à partager cette Bonne Nouvelle avec d'autres personnes. Dieu avait envoyé le Sauveur ! Pourtant, Jésus n'était pas un Sauveur destiné à simplement libérer les gens d'un gouvernement terrestre. C'est un Sauveur qui a fait beaucoup plus que cela. Il a libéré les gens du <data class=\"resource-ref\" data-content-id=\"fra-t125-v1\" data-resource-code=\"FIAKeyTerms\">péché</data> et de la mort.</p><p><strong>Pour traduire les mots « Messie » ou « Christ », faites attention aux choses suivantes :</strong></p><ul><li>Vous pouvez utiliser un seul mot pour désigner Messie et Christ.</li><li>Vous pouvez traduire Messie par « Sauveur », « Sauveur promis » ou « roi et Sauveur spécial ».</li><li>Certaines équipes de traduction aiment utiliser un mot qui ressemble à « Messie » ou à « Christ ». Si vous faites cela, assurez-vous que le mot choisi n'est pas similaire à un autre mot dans votre langue qui a un sens différent ! Sinon, les gens qui ne connaissent pas la Bible risquent d'être très embrouillés.</li><li>Peut-être que votre culture a un symbole ou un rite que les gens utilisent pour désigner une personne qui a une mission spéciale. Peut-être que vous pouvez utiliser ce mot pour traduire le mot « Messie ».</li></ul>",
 "associations": {
 "passage": [
 {
@@ -2495,7 +2763,120 @@
 "end_ref_usfm": "GAL 2:21"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t92-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Messie",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t227-v1",
+"resource_code": "FIAKeyTerms",
+"label": "hébreu",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t211-v1",
+"resource_code": "FIAKeyTerms",
+"label": "grec",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t226-v1",
+"resource_code": "FIAKeyTerms",
+"label": "roi",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t119-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Sauveur",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t5-v1",
+"resource_code": "FIAKeyTerms",
+"label": "ointe",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t104-v1",
+"resource_code": "FIAKeyTerms",
+"label": "prophète",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t33-v1",
+"resource_code": "FIAKeyTerms",
+"label": "David",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israël",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t94-v1",
+"resource_code": "FIAKeyTerms",
+"label": "nations",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t259-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israélites",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t8-v1.0.1",
+"resource_code": "FIAKeyTerms",
+"label": "autorité",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t11-v1",
+"resource_code": "FIAKeyTerms",
+"label": "croyaient",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t130-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Fils de l'homme",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t39-v1",
+"resource_code": "FIAKeyTerms",
+"label": "disciples",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t125-v1",
+"resource_code": "FIAKeyTerms",
+"label": "péché",
+"language": "fra"
+}
+],
 "acai": [
 {
 "id": "person:Jesus.2",
@@ -3132,7 +3513,7 @@
 "index_reference": "ciel ou cieux",
 "language": "fra",
 "review_level": "None",
-"content": "<p>On parle parfois de <b>ciel</b> comme le ciel qui est visible : c'est l'endroit où les oiseaux volent, où on peut voir les nuages et où on peut voir les étoiles la nuit.</p><p>Parfois, le mot « ciel » (et la plupart du temps, le mot « cieux ») désignent l'endroit où Dieu vit avec ses <a href=\"#t4\">anges</a>. Ce paradis ou ciel n'est pas quelque part dans l'univers. Ce n'est pas un endroit où les êtres humains vivants peuvent se rendre. Dieu peut envoyer ses anges des cieux sur terre pour faire son œuvre. Jésus est venu du ciel sur la terre. Après sa mort et sa résurrection, il est retourné au ciel. Il en reviendra un jour pour établir le <a href=\"#t82\">royaume de Dieu</a> pour de bon. Le livre de l'Apocalypse nous dit que quand Jésus reviendra, il y aura de nouveaux cieux et une nouvelle terre. Mais ces nouveaux cieux et cette nouvelle terre ne seront plus séparés, avec Dieu au ciel et les gens sur la terre. Dieu vivra plutôt parmi son peuple.</p><p>Dans certains passages, ce n'est pas toujours clair si les mots « ciel » ou « cieux » désignent le ciel visible ou l'endroit où Dieu vit. Parfois, ces mots peuvent avoir les deux sens en même temps. Par exemple, la « pluie du ciel » peut être une pluie qui tombe du ciel, mais cela peut aussi désigner une pluie qui est envoyée par Dieu.</p><p>Parfois, les <a href=\"#t77\">Juifs</a> utilisaient l'expression « le ciel le plus élevé » pour indiquer clairement qu'ils ne parlaient pas du ciel, mais de l'endroit où Dieu vit.</p><p>Parce que le ciel est l'endroit où Dieu vit, les Juifs utilisaient souvent le mot « ciel » pour parler de lui. Par respect pour Dieu, ils préféraient ne pas utiliser son nom. Alors, au lieu de dire « Dieu », ils disaient souvent « ciel ». C'est pour cela que l'expression « royaume des cieux » signifie la même chose que « royaume de Dieu ».</p><p>Le mot « ciel » en <a href=\"#t227\">hébreu</a>, la langue de l'Ancien Testament, est un mot pluriel. « Pluriel » veut dire « plus qu'un ». On dit alors « cieux ». Les versions auront donc parfois « ciel » ou « cieux ». Mais cela signifie la même chose. Cela ne veut pas dire qu'il y a plus d'un ciel.</p>",
+"content": "<p>On parle parfois de <b>ciel</b> comme le ciel qui est visible : c'est l'endroit où les oiseaux volent, où on peut voir les nuages et où on peut voir les étoiles la nuit.</p><p>Parfois, le mot « ciel » (et la plupart du temps, le mot « cieux ») désignent l'endroit où Dieu vit avec ses <data class=\"resource-ref\" data-content-id=\"fra-t4-v1.0.1\" data-resource-code=\"FIAKeyTerms\">anges</data>. Ce paradis ou ciel n'est pas quelque part dans l'univers. Ce n'est pas un endroit où les êtres humains vivants peuvent se rendre. Dieu peut envoyer ses anges des cieux sur terre pour faire son œuvre. Jésus est venu du ciel sur la terre. Après sa mort et sa résurrection, il est retourné au ciel. Il en reviendra un jour pour établir le <data class=\"resource-ref\" data-content-id=\"fra-t82-v1.0.1\" data-resource-code=\"FIAKeyTerms\">royaume de Dieu</data> pour de bon. Le livre de l'Apocalypse nous dit que quand Jésus reviendra, il y aura de nouveaux cieux et une nouvelle terre. Mais ces nouveaux cieux et cette nouvelle terre ne seront plus séparés, avec Dieu au ciel et les gens sur la terre. Dieu vivra plutôt parmi son peuple.</p><p>Dans certains passages, ce n'est pas toujours clair si les mots « ciel » ou « cieux » désignent le ciel visible ou l'endroit où Dieu vit. Parfois, ces mots peuvent avoir les deux sens en même temps. Par exemple, la « pluie du ciel » peut être une pluie qui tombe du ciel, mais cela peut aussi désigner une pluie qui est envoyée par Dieu.</p><p>Parfois, les <data class=\"resource-ref\" data-content-id=\"fra-t77-v2\" data-resource-code=\"FIAKeyTerms\">Juifs</data> utilisaient l'expression « le ciel le plus élevé » pour indiquer clairement qu'ils ne parlaient pas du ciel, mais de l'endroit où Dieu vit.</p><p>Parce que le ciel est l'endroit où Dieu vit, les Juifs utilisaient souvent le mot « ciel » pour parler de lui. Par respect pour Dieu, ils préféraient ne pas utiliser son nom. Alors, au lieu de dire « Dieu », ils disaient souvent « ciel ». C'est pour cela que l'expression « royaume des cieux » signifie la même chose que « royaume de Dieu ».</p><p>Le mot « ciel » en <data class=\"resource-ref\" data-content-id=\"fra-t227-v1\" data-resource-code=\"FIAKeyTerms\">hébreu</data>, la langue de l'Ancien Testament, est un mot pluriel. « Pluriel » veut dire « plus qu'un ». On dit alors « cieux ». Les versions auront donc parfois « ciel » ou « cieux ». Mais cela signifie la même chose. Cela ne veut pas dire qu'il y a plus d'un ciel.</p>",
 "associations": {
 "passage": [
 {
@@ -3380,6 +3761,12 @@
 "start_ref_usfm": "2KI 7:3",
 "end_ref": "12007020",
 "end_ref_usfm": "2KI 7:20"
+},
+{
+"start_ref": "12014023",
+"start_ref_usfm": "2KI 14:23",
+"end_ref": "12014029",
+"end_ref_usfm": "2KI 14:29"
 },
 {
 "start_ref": "13016023",
@@ -3728,15 +4115,38 @@
 "start_ref_usfm": "MRK 16:9",
 "end_ref": "41016020",
 "end_ref_usfm": "MRK 16:20"
-},
-{
-"start_ref": "42001057",
-"start_ref_usfm": "LUK 1:57",
-"end_ref": "42001080",
-"end_ref_usfm": "LUK 1:80"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t4-v1.0.1",
+"resource_code": "FIAKeyTerms",
+"label": "anges",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t82-v1.0.1",
+"resource_code": "FIAKeyTerms",
+"label": "royaume de Dieu",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t77-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Juifs",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t227-v1",
+"resource_code": "FIAKeyTerms",
+"label": "hébreu",
+"language": "fra"
+}
+],
 "acai": []
 }
 },
@@ -3999,6 +4409,12 @@
 "end_ref_usfm": "2KI 7:20"
 },
 {
+"start_ref": "12014023",
+"start_ref_usfm": "2KI 14:23",
+"end_ref": "12014029",
+"end_ref_usfm": "2KI 14:29"
+},
+{
 "start_ref": "13016023",
 "start_ref_usfm": "1CH 16:23",
 "end_ref": "13016033",
@@ -4345,12 +4761,6 @@
 "start_ref_usfm": "MRK 16:9",
 "end_ref": "41016020",
 "end_ref_usfm": "MRK 16:20"
-},
-{
-"start_ref": "42001057",
-"start_ref_usfm": "LUK 1:57",
-"end_ref": "42001080",
-"end_ref_usfm": "LUK 1:80"
 }
 ],
 "resource": []
@@ -4365,7 +4775,7 @@
 "index_reference": "circoncision",
 "language": "fra",
 "review_level": "None",
-"content": "<p>La <b>circoncision</b> est la coutume <a href=\"#t77\">juive</a> de couper la peau lâche à la fin du pénis d'un garçon. Le père du bébé ou quelqu'un qui était spécialement formé faisait généralement cela. La circoncision se produisait quand un bébé garçon avait huit jours.</p><p>La coutume a commencé quand Dieu a dit à <a href=\"#t1\">Abraham</a> de se circoncire lui-même et chaque personne masculine dans sa <a href=\"#t70\">maison</a>. La circoncision était un signe que la personne était incluse dans l'<a href=\"#t29\">alliance</a> que Dieu avait faite avec Abraham. À partir de ce moment-là, chaque <a href=\"#t259\">Israélite</a> masculin devait être circoncis. Si quelqu'un qui n'était pas un descendant d'Abraham voulait faire partie des Israélites et une partie de l'alliance que les Israélites avaient avec Dieu, il devait être circoncis aussi. Les hommes devaient être circoncis pour être acceptables pour Dieu.</p><p>La Bible parle aussi de la « circoncision du cœur ». C'est un langage d'images pour la <a href=\"#t109\">repentance</a> et pour se consacrer à Dieu. Ce n'est que quand les gens se sont repentis ou se sont détournés de leurs <a href=\"#t125\">péchés</a> qu'ils sont acceptables devant Dieu. Les Israélites ou les Juifs pensaient qu'ils étaient meilleurs que toutes les autres personnes dans le monde parce qu'ils étaient circoncis. Mais Dieu leur a dit qu'être circoncis ne signifie rien si les gens ne sont pas vraiment consacrés à Dieu. La circoncision du corps est inutile si le cœur n'est pas circoncis aussi.</p><p>Dans le Nouveau Testament, les nouveaux <a href=\"#t12\">croyants</a> en Jésus avaient différentes opinions sur la circoncision. Certains chrétiens juifs pensaient que tous les croyants devaient être circoncis. Ils pensaient que seule quelqu'un qui était circoncis pouvait vraiment appartenir au peuple de Dieu. Paul et les autres <a href=\"#t6\">apôtres</a> ont ensuite enseigné à l'Église que Dieu n'exigeait plus la circoncision du corps pour appartenir au peuple de Dieu. Au lieu de cela, les gens ont besoin d'une circoncision spirituelle du cœur : la repentance, la <a href=\"#t48\">foi</a> et l'obéissance à Jésus.</p>",
+"content": "<p>La <b>circoncision</b> est la coutume <data class=\"resource-ref\" data-content-id=\"fra-t77-v2\" data-resource-code=\"FIAKeyTerms\">juive</data> de couper la peau lâche à la fin du pénis d&#x27;un garçon. Le père du bébé ou quelqu&#x27;un qui était spécialement formé faisait généralement cela. La circoncision se produisait quand un bébé garçon avait huit jours.</p><p>La coutume a commencé quand Dieu a dit à <data class=\"resource-ref\" data-content-id=\"fra-t1-v1\" data-resource-code=\"FIAKeyTerms\">Abraham</data> de se circoncire lui-même et chaque personne masculine dans sa <data class=\"resource-ref\" data-content-id=\"fra-t70-v1\" data-resource-code=\"FIAKeyTerms\">maison</data>. La circoncision était un signe que la personne était incluse dans l&#x27;<data class=\"resource-ref\" data-content-id=\"fra-t29-v1\" data-resource-code=\"FIAKeyTerms\">alliance</data> que Dieu avait faite avec Abraham. À partir de ce moment-là, chaque <data class=\"resource-ref\" data-content-id=\"fra-t259-v2\" data-resource-code=\"FIAKeyTerms\">Israélite</data> masculin devait être circoncis. Si quelqu&#x27;un qui n&#x27;était pas un descendant d&#x27;Abraham voulait faire partie des Israélites et une partie de l&#x27;alliance que les Israélites avaient avec Dieu, il devait être circoncis aussi. Les hommes devaient être circoncis pour être acceptables pour Dieu.</p><p>La Bible parle aussi de la « circoncision du cœur ». C&#x27;est un langage d&#x27;images pour la <data class=\"resource-ref\" data-content-id=\"fra-t109-v1.0.1\" data-resource-code=\"FIAKeyTerms\">repentance</data> et pour se consacrer à Dieu. Ce n&#x27;est que quand les gens se sont repentis ou se sont détournés de leurs <data class=\"resource-ref\" data-content-id=\"fra-t125-v1\" data-resource-code=\"FIAKeyTerms\">péchés</data> qu&#x27;ils sont acceptables devant Dieu. Les Israélites ou les Juifs pensaient qu&#x27;ils étaient meilleurs que toutes les autres personnes dans le monde parce qu&#x27;ils étaient circoncis. Mais Dieu leur a dit qu&#x27;être circoncis ne signifie rien si les gens ne sont pas vraiment consacrés à Dieu. La circoncision du corps est inutile si le cœur n&#x27;est pas circoncis aussi.</p><p>Dans le Nouveau Testament, les nouveaux <data class=\"resource-ref\" data-content-id=\"fra-t12-v1\" data-resource-code=\"FIAKeyTerms\">croyants</data> en Jésus avaient différentes opinions sur la circoncision. Certains chrétiens juifs pensaient que tous les croyants devaient être circoncis. Ils pensaient que seule quelqu&#x27;un qui était circoncis pouvait vraiment appartenir au peuple de Dieu. Paul et les autres <data class=\"resource-ref\" data-content-id=\"fra-t6-v1\" data-resource-code=\"FIAKeyTerms\">apôtres</data> ont ensuite enseigné à l&#x27;Église que Dieu n&#x27;exigeait plus la circoncision du corps pour appartenir au peuple de Dieu. Au lieu de cela, les gens ont besoin d&#x27;une circoncision spirituelle du cœur : la repentance, la <data class=\"resource-ref\" data-content-id=\"fra-t48-v1\" data-resource-code=\"FIAKeyTerms\">foi</data> et l&#x27;obéissance à Jésus.</p>",
 "associations": {
 "passage": [
 {
@@ -4615,7 +5025,78 @@
 "end_ref_usfm": "TIT 1:16"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t77-v2",
+"resource_code": "FIAKeyTerms",
+"label": "juive",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t1-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Abraham",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t70-v1",
+"resource_code": "FIAKeyTerms",
+"label": "maison",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t29-v1",
+"resource_code": "FIAKeyTerms",
+"label": "alliance",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t259-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israélite",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t109-v1.0.1",
+"resource_code": "FIAKeyTerms",
+"label": "repentance",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t125-v1",
+"resource_code": "FIAKeyTerms",
+"label": "péchés",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t12-v1",
+"resource_code": "FIAKeyTerms",
+"label": "croyants",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t6-v1",
+"resource_code": "FIAKeyTerms",
+"label": "apôtres",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t48-v1",
+"resource_code": "FIAKeyTerms",
+"label": "foi",
+"language": "fra"
+}
+],
 "acai": [
 {
 "id": "keyterm:Circumcision",
@@ -4898,7 +5379,7 @@
 "index_reference": "cœur",
 "language": "fra",
 "review_level": "None",
-"content": "<p>Le <b>cœur</b> d'une personne est un muscle situé à l'intérieur de son corps. Ce muscle fait circuler son sang. Dans la Bible, le mot « cœur » est utilisé comme image de l'endroit où une personne pense, éprouve des sentiments et prend des décisions. Une personne qui a un « cœur <a href=\"#t187\">mauvais</a> » pense de mauvaises choses et prend de mauvaises décisions. Une personne qui a un « cœur honnête et bon » veut faire ce qui est bien et se sent triste quand elle a <a href=\"#t125\">péché</a>. Une personne qui a le « cœur dur » ne veut pas écouter ce que Dieu lui dit de faire. Une personne qui a le cœur plein de joie ou d'allégresse est heureuse.</p><p><strong>Pour traduire le mot « cœur », il faut faire attention aux choses suivantes :</strong></p><p>Il ne faut pas traduire le mot « cœur » par le mot qui est utilisé dans votre langue pour désigner la partie de votre corps qui pompe le sang, <em>si</em> dans votre langue, ce mot n'est pas associé aux pensées, aux sentiments et aux décisions. Il faut choisir un mot que les gens dans votre langue associent aux pensées, aux sentiments et à la volonté d'une personne.</p><p>En <a href=\"#t227\">hébreu</a>, la langue de l'Ancien Testament, le mot « cœur » désigne aussi l'« esprit ». En <a href=\"#t211\">grec</a>, la langue du Nouveau Testament, « cœur » et « esprit » sont deux mots différents. En grec, le mot « cœur » met un peu plus l'accent sur les sentiments, tandis que le mot « esprit » met davantage l'accent sur les pensées, l'intelligence et la volonté d'une personne.</p><p>Si votre langue n'a qu'un seul mot pour désigner cela, comme en hébreu, vous pouvez utiliser ce même mot à chaque fois. Si votre langue a deux mots différents comme en grec, ou peut-être même trois ou quatre, vous devrez peut-être utiliser des mots différents selon chaque passage.</p><p>Il vous faudra aussi peut-être un mot pour désigner la « pensée », l'« âme » et l'« esprit ». Les mots « cœur », « pensée », « esprit » et « âme » désignent tous la partie intérieure et invisible d'une personne, mais ces mots ont chacun une signification légèrement différente. Il sera peut-être préférable d'écouter l'explication de chacun de ces quatre termes, puis d'en discuter en groupe. Vous pourrez alors décider de la façon dont vous allez les traduire. Mais rappelez-vous que, dans chaque passage, vous devrez vérifier si vous avez choisi la bonne traduction.</p><p>En résumé :</p><ul><li><b>Cœur</b> : parler du cœur d'une personne, c'est utiliser une image qui décrit l'endroit où une personne pense, éprouve des sentiments et prend des décisions.</li><li><a href=\"#t151\">Pensée</a> : la pensée est très similaire au cœur, mais l'accent est un peu plus sur les pensées, l'intelligence et la volonté. En français, plusieurs mots sont utilisés pour traduire ce concept selon les contextes : « pensée », « entendement », « intelligence », « raison » et même « esprit ».</li><li><a href=\"#t131\">Âme</a> : l'âme est la partie intérieure invisible et totale d'une personne. Cette partie d'une personne peut continuer de vivre même après la mort de son corps.</li><li><a href=\"#t132\">Esprit</a> : l'esprit est très similaire à l'âme, mais l'accent est davantage sur la relation avec Dieu.</li></ul>",
+"content": "<p>Le <b>cœur</b> d'une personne est un muscle situé à l'intérieur de son corps. Ce muscle fait circuler son sang. Dans la Bible, le mot « cœur » est utilisé comme image de l'endroit où une personne pense, éprouve des sentiments et prend des décisions. Une personne qui a un « cœur <data class=\"resource-ref\" data-content-id=\"fra-t187-v1\" data-resource-code=\"FIAKeyTerms\">mauvais</data> » pense de mauvaises choses et prend de mauvaises décisions. Une personne qui a un « cœur honnête et bon » veut faire ce qui est bien et se sent triste quand elle a <data class=\"resource-ref\" data-content-id=\"fra-t125-v1\" data-resource-code=\"FIAKeyTerms\">péché</data>. Une personne qui a le « cœur dur » ne veut pas écouter ce que Dieu lui dit de faire. Une personne qui a le cœur plein de joie ou d'allégresse est heureuse.</p><p><strong>Pour traduire le mot « cœur », il faut faire attention aux choses suivantes :</strong></p><p>Il ne faut pas traduire le mot « cœur » par le mot qui est utilisé dans votre langue pour désigner la partie de votre corps qui pompe le sang, <em>si</em> dans votre langue, ce mot n'est pas associé aux pensées, aux sentiments et aux décisions. Il faut choisir un mot que les gens dans votre langue associent aux pensées, aux sentiments et à la volonté d'une personne.</p><p>En <data class=\"resource-ref\" data-content-id=\"fra-t227-v1\" data-resource-code=\"FIAKeyTerms\">hébreu</data>, la langue de l'Ancien Testament, le mot « cœur » désigne aussi l'« esprit ». En <data class=\"resource-ref\" data-content-id=\"fra-t211-v1\" data-resource-code=\"FIAKeyTerms\">grec</data>, la langue du Nouveau Testament, « cœur » et « esprit » sont deux mots différents. En grec, le mot « cœur » met un peu plus l'accent sur les sentiments, tandis que le mot « esprit » met davantage l'accent sur les pensées, l'intelligence et la volonté d'une personne.</p><p>Si votre langue n'a qu'un seul mot pour désigner cela, comme en hébreu, vous pouvez utiliser ce même mot à chaque fois. Si votre langue a deux mots différents comme en grec, ou peut-être même trois ou quatre, vous devrez peut-être utiliser des mots différents selon chaque passage.</p><p>Il vous faudra aussi peut-être un mot pour désigner la « pensée », l'« âme » et l'« esprit ». Les mots « cœur », « pensée », « esprit » et « âme » désignent tous la partie intérieure et invisible d'une personne, mais ces mots ont chacun une signification légèrement différente. Il sera peut-être préférable d'écouter l'explication de chacun de ces quatre termes, puis d'en discuter en groupe. Vous pourrez alors décider de la façon dont vous allez les traduire. Mais rappelez-vous que, dans chaque passage, vous devrez vérifier si vous avez choisi la bonne traduction.</p><p>En résumé :</p><ul><li><b>Cœur</b> : parler du cœur d'une personne, c'est utiliser une image qui décrit l'endroit où une personne pense, éprouve des sentiments et prend des décisions.</li><li><data class=\"resource-ref\" data-content-id=\"fra-t151-v1\" data-resource-code=\"FIAKeyTerms\">Pensée</data> : la pensée est très similaire au cœur, mais l'accent est un peu plus sur les pensées, l'intelligence et la volonté. En français, plusieurs mots sont utilisés pour traduire ce concept selon les contextes : « pensée », « entendement », « intelligence », « raison » et même « esprit ».</li><li><data class=\"resource-ref\" data-content-id=\"fra-t131-v1\" data-resource-code=\"FIAKeyTerms\">Âme</data> : l'âme est la partie intérieure invisible et totale d'une personne. Cette partie d'une personne peut continuer de vivre même après la mort de son corps.</li><li><data class=\"resource-ref\" data-content-id=\"fra-t132-v1\" data-resource-code=\"FIAKeyTerms\">Esprit</data> : l'esprit est très similaire à l'âme, mais l'accent est davantage sur la relation avec Dieu.</li></ul>",
 "associations": {
 "passage": [
 {
@@ -5340,6 +5821,12 @@
 "end_ref_usfm": "2KI 12:16"
 },
 {
+"start_ref": "12014008",
+"start_ref_usfm": "2KI 14:8",
+"end_ref": "12014016",
+"end_ref_usfm": "2KI 14:16"
+},
+{
 "start_ref": "13012016",
 "start_ref_usfm": "1CH 12:16",
 "end_ref": "13012018",
@@ -5494,15 +5981,59 @@
 "start_ref_usfm": "2CH 25:1",
 "end_ref": "14025013",
 "end_ref_usfm": "2CH 25:13"
-},
-{
-"start_ref": "14029001",
-"start_ref_usfm": "2CH 29:1",
-"end_ref": "14029017",
-"end_ref_usfm": "2CH 29:17"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t187-v1",
+"resource_code": "FIAKeyTerms",
+"label": "mauvais",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t125-v1",
+"resource_code": "FIAKeyTerms",
+"label": "péché",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t227-v1",
+"resource_code": "FIAKeyTerms",
+"label": "hébreu",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t211-v1",
+"resource_code": "FIAKeyTerms",
+"label": "grec",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t151-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Pensée",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t131-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Âme",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t132-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Esprit",
+"language": "fra"
+}
+],
 "acai": [
 {
 "id": "keyterm:Heart",
@@ -5965,6 +6496,12 @@
 "end_ref_usfm": "2KI 12:16"
 },
 {
+"start_ref": "12014008",
+"start_ref_usfm": "2KI 14:8",
+"end_ref": "12014016",
+"end_ref_usfm": "2KI 14:16"
+},
+{
 "start_ref": "13012016",
 "start_ref_usfm": "1CH 12:16",
 "end_ref": "13012018",
@@ -6119,12 +6656,6 @@
 "start_ref_usfm": "2CH 25:1",
 "end_ref": "14025013",
 "end_ref_usfm": "2CH 25:13"
-},
-{
-"start_ref": "14029001",
-"start_ref_usfm": "2CH 29:1",
-"end_ref": "14029017",
-"end_ref_usfm": "2CH 29:17"
 }
 ],
 "resource": []
@@ -6139,7 +6670,7 @@
 "index_reference": "colombe",
 "language": "fra",
 "review_level": "None",
-"content": "<p>La <b>colombe</b> est une espèce d'oiseau qui se rencontre très fréquemment en <a href=\"#t74\">Israël</a>. Il y a différents types de colombes de tailles différentes. Certaines sont blanches et d'autres sont tachetées ou de plusieurs couleurs. La colombe est un oiseau doux et pacifique. Les colombes peuvent parcourir de longues distances et elles sont très douées pour retrouver leur chemin.</p><p>Dieu exigeait des <a href=\"#t259\">Israélites</a> qu'ils lui offrent des <a href=\"#t114\">sacrifices</a> d'animaux dans différents rituels. Il s'agissait généralement d'agneaux, de brebis, de chèvres ou de taureaux. Cependant, pour les gens pauvres, ces animaux coûtaient trop cher. C'est pour cela que Dieu a permis aux gens de sacrifier des colombes à la place.</p><p>Quand Jésus a été <a href=\"#t9\">baptisé</a>, le <a href=\"#t68\">Saint-Esprit</a> est descendu sur lui sous la forme d'une colombe. Cela ne signifie pas que le Saint-Esprit est une colombe. Cela signifie seulement qu'à ce moment-là, le Saint-Esprit a pris une forme qui ressemblait à une colombe.</p>",
+"content": "<p>La <b>colombe</b> est une espèce d'oiseau qui se rencontre très fréquemment en <data class=\"resource-ref\" data-content-id=\"fra-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israël</data>. Il y a différents types de colombes de tailles différentes. Certaines sont blanches et d'autres sont tachetées ou de plusieurs couleurs. La colombe est un oiseau doux et pacifique. Les colombes peuvent parcourir de longues distances et elles sont très douées pour retrouver leur chemin.</p><p>Dieu exigeait des <data class=\"resource-ref\" data-content-id=\"fra-t259-v2\" data-resource-code=\"FIAKeyTerms\">Israélites</data> qu'ils lui offrent des <data class=\"resource-ref\" data-content-id=\"fra-t114-v1.0.1\" data-resource-code=\"FIAKeyTerms\">sacrifices</data> d'animaux dans différents rituels. Il s'agissait généralement d'agneaux, de brebis, de chèvres ou de taureaux. Cependant, pour les gens pauvres, ces animaux coûtaient trop cher. C'est pour cela que Dieu a permis aux gens de sacrifier des colombes à la place.</p><p>Quand Jésus a été <data class=\"resource-ref\" data-content-id=\"fra-t9-v1.0.1\" data-resource-code=\"FIAKeyTerms\">baptisé</data>, le <data class=\"resource-ref\" data-content-id=\"fra-t68-v1\" data-resource-code=\"FIAKeyTerms\">Saint-Esprit</data> est descendu sur lui sous la forme d'une colombe. Cela ne signifie pas que le Saint-Esprit est une colombe. Cela signifie seulement qu'à ce moment-là, le Saint-Esprit a pris une forme qui ressemblait à une colombe.</p>",
 "associations": {
 "passage": [
 {
@@ -6167,7 +6698,43 @@
 "end_ref_usfm": "LUK 3:22"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israël",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t259-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israélites",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t114-v1.0.1",
+"resource_code": "FIAKeyTerms",
+"label": "sacrifices",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t9-v1.0.1",
+"resource_code": "FIAKeyTerms",
+"label": "baptisé",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t68-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Saint-Esprit",
+"language": "fra"
+}
+],
 "acai": [
 {
 "id": "fauna:Dove",
@@ -6228,7 +6795,7 @@
 "index_reference": "commandant",
 "language": "fra",
 "review_level": "None",
-"content": "<p>Un <b>commandant</b> dans le Nouveau Testament est le nom d'un officier dans l'armée romaine. Les gens appelaient parfois les commandants, « tribun ». Un commandant ou un tribun avait plus d'autorité qu'un <a href=\"#t170\">centurion</a>, qui était responsable de seulement une centaine de personnes. Un commandant serait souvent responsable de 6 à 10 centurions et de leurs soldats. Par conséquent, un commandant était responsable d'environ 600 à 1000 soldats ensemble.</p>",
+"content": "<p>Un <b>commandant</b> dans le Nouveau Testament est le nom d&#x27;un officier dans l&#x27;armée romaine. Les gens appelaient parfois les commandants, « tribun ». Un commandant ou un tribun avait plus d&#x27;autorité qu&#x27;un <data class=\"resource-ref\" data-content-id=\"fra-t170-v1\" data-resource-code=\"FIAKeyTerms\">centurion</data>, qui était responsable de seulement une centaine de personnes. Un commandant serait souvent responsable de 6 à 10 centurions et de leurs soldats. Par conséquent, un commandant était responsable d&#x27;environ 600 à 1000 soldats ensemble.</p>",
 "associations": {
 "passage": [
 {
@@ -6280,7 +6847,15 @@
 "end_ref_usfm": "ACT 25:27"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t170-v1",
+"resource_code": "FIAKeyTerms",
+"label": "centurion",
+"language": "fra"
+}
+],
 "acai": []
 }
 },
@@ -6357,7 +6932,7 @@
 "index_reference": "commandement",
 "language": "fra",
 "review_level": "None",
-"content": "<p>Un <b>commandement</b> est une loi, une règle ou une instruction. Dieu donne des commandements aux gens pour leur montrer comment bien vivre, dans une bonne relation avec Dieu et avec les autres. Quand la Bible parle des commandements de Dieu, elle parle parfois des 10 commandements que Dieu a donnés aux Israélites à travers Moïse sur deux tables de pierre. Les gens appellent parfois ces 10 commandements les 10 « Paroles ». Mais parfois, quand nous entendons parler des commandements de Dieu dans la Bible, cela signifie <em>toutes</em> les instructions que Dieu a données à son peuple.</p>",
+"content": "<p>Un <b>commandement</b> est une loi, une règle ou une instruction. Dieu donne des commandements aux gens pour leur montrer comment bien vivre, dans une bonne relation avec Dieu et avec les autres. Quand la Bible parle des commandements de Dieu, elle parle parfois des 10 commandements que Dieu a donnés aux Israélites à travers Moïse sur deux tables de pierre. Les gens appellent parfois ces 10 commandements les 10 « Paroles ». Mais parfois, quand nous entendons parler des commandements de Dieu dans la Bible, cela signifie <b>toutes</b> les instructions que Dieu a données à son peuple.</p>",
 "associations": {
 "passage": [
 {
@@ -7532,10 +8107,10 @@
 "version": "1.0.4",
 "title": "Condamner",
 "media_type": "Text",
-"index_reference": "condamner ",
+"index_reference": "condamner",
 "language": "fra",
 "review_level": "None",
-"content": "<p>Si les gens déclarent que quelqu'un d'autre est coupable d'avoir fait quelque chose de mal, nous disons qu'ils <b>condamnent</b> cette personne.</p><p>Par exemple, dans un cas de tribunal, les gens accusent une autre personne d'avoir commis un crime. Un juge est la personne qui décide si cette personne est en effet coupable ou non. Si le juge croit que la personne est en effet coupable, nous disons qu'il condamne la personne. Le juge décidera ensuite quelle punition donner à la personne.</p><p>Les gens peuvent condamner une personne parce qu'ils espèrent que la personne changera ses manières. Une personne qui se sent condamnée réalise qu'il a fait de mal et il veut changer.</p>",
+"content": "<p>Si les gens déclarent que quelqu&#x27;un d&#x27;autre est coupable d&#x27;avoir fait quelque chose de mal, nous disons qu&#x27;ils <b>condamnent</b> cette personne.</p><p>Par exemple, dans un cas de tribunal, les gens accusent une autre personne d&#x27;avoir commis un crime. Un juge est la personne qui décide si cette personne est en effet coupable ou non. Si le juge croit que la personne est en effet coupable, nous disons qu&#x27;il condamne la personne. Le juge décidera ensuite quelle punition donner à la personne.</p><p>Les gens peuvent condamner une personne parce qu&#x27;ils espèrent que la personne changera ses manières. Une personne qui se sent condamnée réalise qu&#x27;il a fait de mal et il veut changer.</p>",
 "associations": {
 "passage": [
 {
@@ -7601,10 +8176,10 @@
 "version": "1.0.4",
 "title": "Consacrer",
 "media_type": "Text",
-"index_reference": "consacrer ",
+"index_reference": "consacrer",
 "language": "fra",
 "review_level": "None",
-"content": "<p>Dans l'Ancien Testament, quand vous <b>consacrez</b> ou <a href=\"#t232\">sanctifiez</a> quelqu'un, vous mettez la personne à part pour le service spécial à Dieu. La personne appartient maintenant à Dieu ; elle est <a href=\"#t67\">sainte</a>. Dans l'Ancien Testament, les <a href=\"#t103\">prêtres</a> et les <a href=\"#t244\">Lévites</a> étaient des personnes qui travaillaient dans le temple de Dieu. Ils devaient se consacrer avant de pouvoir faire leur devoir pour Dieu. Cela signifie qu'ils n'avaient pas de relations sexuelles avec leur femme pendant un certain temps, puis ils devaient prendre un bain spécial et mettre de nouveaux vêtements. </p><p>Les gens pourraient aussi consacrer ou sanctifier un objet pour faire une tâche spéciale pour Dieu. Par exemple, les prêtres consacraient le <a href=\"#t138\">temple</a> de Dieu et tous les objets dans le temple. Les prêtres faisaient cela en aspergeant le sang des animaux qu'ils avaient sacrifiés, dans le temple et sur les objets dans le temple. Ces objets étaient maintenant saints - ils appartenaient à Dieu. Les gens ne pouvaient pas utiliser ces objets pour un usage ordinaire. S'ils faisaient cela, cela serait une insulte terrible à Dieu.</p><p>Si Dieu consacre quelqu'un, cette personne est <a href=\"#t26\">pure</a>. Dans la Bible, quand quelqu'un est pur, cela n'a rien à voir avec le fait que nos corps sont propres. Quand nous sommes purs, cela signifie simplement que nous sommes dignes de servir Dieu.</p><p>Dans le Nouveau Testament, la plupart des traductions utilisent le mot consacrer pour parler d'un objet ou d'une personne que les gens dédient pour un but spécial ou une tâche pour Dieu. Les traductions utilisent ensuite un mot différent, sanctifier, pour parler du processus par lequel les gens apprennent à vivre de plus et plus comme Dieu veut que nous vivions. Cependant, la langue originale utilise les mêmes mots à la fois pour dédicacer un objet pour une tâche spéciale et pour le processus d'apprendre à vivre comme Dieu veut que nous vivions.</p>",
+"content": "<p>Dans l&#x27;Ancien Testament, quand vous <b>consacrez</b> ou <data class=\"resource-ref\" data-content-id=\"fra-t232-v1\" data-resource-code=\"FIAKeyTerms\">sanctifiez</data> quelqu&#x27;un, vous mettez la personne à part pour le service spécial à Dieu. La personne appartient maintenant à Dieu ; elle est <data class=\"resource-ref\" data-content-id=\"fra-t67-v1\" data-resource-code=\"FIAKeyTerms\">sainte</data>. Dans l&#x27;Ancien Testament, les <data class=\"resource-ref\" data-content-id=\"fra-t103-v1\" data-resource-code=\"FIAKeyTerms\">prêtres</data> et les <data class=\"resource-ref\" data-content-id=\"fra-t244-v1\" data-resource-code=\"FIAKeyTerms\">Lévites</data> étaient des personnes qui travaillaient dans le temple de Dieu. Ils devaient se consacrer avant de pouvoir faire leur devoir pour Dieu. Cela signifie qu&#x27;ils n&#x27;avaient pas de relations sexuelles avec leur femme pendant un certain temps, puis ils devaient prendre un bain spécial et mettre de nouveaux vêtements. </p><p>Les gens pourraient aussi consacrer ou sanctifier un objet pour faire une tâche spéciale pour Dieu. Par exemple, les prêtres consacraient le <data class=\"resource-ref\" data-content-id=\"fra-t138-v1\" data-resource-code=\"FIAKeyTerms\">temple</data> de Dieu et tous les objets dans le temple. Les prêtres faisaient cela en aspergeant le sang des animaux qu&#x27;ils avaient sacrifiés, dans le temple et sur les objets dans le temple. Ces objets étaient maintenant saints - ils appartenaient à Dieu. Les gens ne pouvaient pas utiliser ces objets pour un usage ordinaire. S&#x27;ils faisaient cela, cela serait une insulte terrible à Dieu.</p><p>Si Dieu consacre quelqu&#x27;un, cette personne est <data class=\"resource-ref\" data-content-id=\"fra-t26-v1\" data-resource-code=\"FIAKeyTerms\">pure</data>. Dans la Bible, quand quelqu&#x27;un est pur, cela n&#x27;a rien à voir avec le fait que nos corps sont propres. Quand nous sommes purs, cela signifie simplement que nous sommes dignes de servir Dieu.</p><p>Dans le Nouveau Testament, la plupart des traductions utilisent le mot consacrer pour parler d&#x27;un objet ou d&#x27;une personne que les gens dédient pour un but spécial ou une tâche pour Dieu. Les traductions utilisent ensuite un mot différent, sanctifier, pour parler du processus par lequel les gens apprennent à vivre de plus et plus comme Dieu veut que nous vivions. Cependant, la langue originale utilise les mêmes mots à la fois pour dédicacer un objet pour une tâche spéciale et pour le processus d&#x27;apprendre à vivre comme Dieu veut que nous vivions.</p>",
 "associations": {
 "passage": [
 {
@@ -7974,7 +8549,50 @@
 "end_ref_usfm": "1TI 4:5"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t232-v1",
+"resource_code": "FIAKeyTerms",
+"label": "sanctifiez",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t67-v1",
+"resource_code": "FIAKeyTerms",
+"label": "sainte",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t103-v1",
+"resource_code": "FIAKeyTerms",
+"label": "prêtres",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t244-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Lévites",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t138-v1",
+"resource_code": "FIAKeyTerms",
+"label": "temple",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t26-v1",
+"resource_code": "FIAKeyTerms",
+"label": "pure",
+"language": "fra"
+}
+],
 "acai": []
 }
 },
@@ -8369,7 +8987,7 @@
 "index_reference": "coudée",
 "language": "fra",
 "review_level": "None",
-"content": "<p>Une <b>coudée</b> est une façon de mesurer combien de temps quelque chose est long. Une coudée est à peu près aussi longue que le bras d'un homme de son coude au bout de ses doigts, ce qui est environ 50 centimètres.</p>",
+"content": "<p>Une <b>coudée</b> est une façon de mesurer combien de temps quelque chose est long. Une coudée est à peu près aussi longue que le bras d&#x27;un homme de son coude au bout de ses doigts, ce qui est environ 50 centimètres.</p>",
 "associations": {
 "passage": [
 {
@@ -8509,6 +9127,12 @@
 "start_ref_usfm": "1KI 7:23",
 "end_ref": "11007039",
 "end_ref_usfm": "1KI 7:39"
+},
+{
+"start_ref": "12014008",
+"start_ref_usfm": "2KI 14:8",
+"end_ref": "12014016",
+"end_ref_usfm": "2KI 14:16"
 },
 {
 "start_ref": "13011020",
@@ -8720,6 +9344,12 @@
 "end_ref_usfm": "1KI 7:39"
 },
 {
+"start_ref": "12014008",
+"start_ref_usfm": "2KI 14:8",
+"end_ref": "12014016",
+"end_ref_usfm": "2KI 14:16"
+},
+{
 "start_ref": "13011020",
 "start_ref_usfm": "1CH 11:20",
 "end_ref": "13011025",
@@ -8786,7 +9416,7 @@
 "index_reference": "crainte de dieu",
 "language": "fra",
 "review_level": "None",
-"content": "<p>Quand quelqu'un <b>craint Dieu</b>, il a une grande révérence, l'honneur et le respect pour Dieu. Ils <a href=\"#t11\">croient</a> que tout ce que Dieu a dit est vrai. En conséquence, ils obéissent à Dieu parce qu'ils savent que les commandements de Dieu sont bons et que Dieu les punira s'ils lui désobéissent. Les gens qui craignent Dieu haïssent tout ce qui est contre les commandements de Dieu. Il est nécessaire que les gens craignent Dieu parce que Dieu est tellement plus grand, puissant et <a href=\"#t67\">saint</a> que nous !</p><p>Ce n'est que lorsque les gens craignent Dieu qu'ils peuvent devenir sages et compréhensifs.</p><p>Parce que Jésus est mort pour le <a href=\"#t125\">péché</a> des gens, il est maintenant possible pour les gens de venir à Dieu sans avoir peur de lui. Mais nous devons toujours respecter Dieu et reconnaître qu'il est très puissant. Quand nous craignons Dieu, cela nous aide à faire de bonnes choses et non de mauvaises choses parce que nous savons qu'il est toujours capable de nous punir.</p>",
+"content": "<p>Quand quelqu&#x27;un <b>craint Dieu</b>, il a une grande révérence, l&#x27;honneur et le respect pour Dieu. Ils <data class=\"resource-ref\" data-content-id=\"fra-t11-v1\" data-resource-code=\"FIAKeyTerms\">croient</data> que tout ce que Dieu a dit est vrai. En conséquence, ils obéissent à Dieu parce qu&#x27;ils savent que les commandements de Dieu sont bons et que Dieu les punira s&#x27;ils lui désobéissent. Les gens qui craignent Dieu haïssent tout ce qui est contre les commandements de Dieu. Il est nécessaire que les gens craignent Dieu parce que Dieu est tellement plus grand, puissant et <data class=\"resource-ref\" data-content-id=\"fra-t67-v1\" data-resource-code=\"FIAKeyTerms\">saint</data> que nous !</p><p>Ce n&#x27;est que lorsque les gens craignent Dieu qu&#x27;ils peuvent devenir sages et compréhensifs.</p><p>Parce que Jésus est mort pour le <data class=\"resource-ref\" data-content-id=\"fra-t125-v1\" data-resource-code=\"FIAKeyTerms\">péché</data> des gens, il est maintenant possible pour les gens de venir à Dieu sans avoir peur de lui. Mais nous devons toujours respecter Dieu et reconnaître qu&#x27;il est très puissant. Quand nous craignons Dieu, cela nous aide à faire de bonnes choses et non de mauvaises choses parce que nous savons qu&#x27;il est toujours capable de nous punir.</p>",
 "associations": {
 "passage": [
 {
@@ -9132,7 +9762,29 @@
 "end_ref_usfm": "PHP 2:18"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t11-v1",
+"resource_code": "FIAKeyTerms",
+"label": "croient",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t67-v1",
+"resource_code": "FIAKeyTerms",
+"label": "saint",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t125-v1",
+"resource_code": "FIAKeyTerms",
+"label": "péché",
+"language": "fra"
+}
+],
 "acai": [
 {
 "id": "keyterm:GodFearing",
@@ -9511,7 +10163,7 @@
 "index_reference": "croire",
 "language": "fra",
 "review_level": "None",
-"content": "<p>« <b>Croire</b> » veut dire la même chose que « avoir <a href=\"#t48\">la foi</a> ».</p><p>Si on croit en quelqu'un, on croit que ce que cette personne dit d'elle-même est vrai. On place alors notre confiance en elle et on s'engage à faire ce qu'elle commande.</p><p><a href=\"#t1\">Abraham</a> a cru que Dieu disait la vérité quand il lui a promis qu'il aurait de nombreux <a href=\"#t234\">descendants</a>, même s'il était déjà vieux et qu'il n'avait même pas un seul enfant. Abraham a cru que Dieu accomplirait sa promesse, même si cela semblait impossible.</p><p>Croire en Dieu, c'est accepter qu'il existe et que ce qu'il dit dans la Bible est vrai. On croit qu'il accomplira toutes ses promesses, même lorsque cela semble impossible. Alors on s'engage à obéir à tout ce qu'il veut que l'on fasse.</p><p>Lorsque l'on croit en Jésus, on croit qu'il est vraiment le <a href=\"#t129\">Fils de Dieu</a>. On croit qu'il est vraiment mort pour nos <a href=\"#t125\">péchés</a>, et que puisqu'on croit en lui, Dieu nous a <a href=\"#t53\">pardonnés</a> et acceptés. Alors on s'engage à faire tout ce que Jésus commande.</p><p>La Bible dit parfois que les gens doivent « croire au nom de Jésus ». Cela veut dire la même chose que de croire en Jésus.</p><p>Une personne qui a une grande foi ou qui croit fermement fait entièrement confiance à Dieu et à Jésus.</p><p><strong>Pour traduire les mots « croire » ou « croyance », faites attention aux choses suivantes :</strong></p><p>Dans certaines langues, le mot « croire » peut sembler vouloir dire que quelqu'un espère seulement que quelque chose est vrai, mais qu'il n'en est pas sûr. Ce n'est pas la bonne signification pour ce mot biblique. Dans certaines langues, il pourrait être préférable d'utiliser un mot qui veut dire « placer sa confiance en quelqu'un ».</p><div data-type=\"callout\" data-callout-style=\"action\"><div data-callout-section=\"header\">Pause here and do the following activity as a group:\nArrêtez cet enregistrement pendant que vous complétez l'activité suivante en groupe :</div><div data-callout-section=\"container\"><p>Demandez à une personne de se porter volontaire pour être la personne qui doit croire, avoir la foi ou placer sa confiance en quelqu'un. Cette personne doit tourner le dos à un groupe d'au moins cinq personnes, s'il y a assez de monde dans votre groupe. Ces cinq personnes devraient se tenir juste derrière celle qui s'est portée volontaire. Elles doivent être capables de l'attraper, et bien sûr vouloir le faire. Demandez au volontaire de se laisser tomber dans les bras des personnes qui se tiennent derrière lui. Demandez-lui s'il a hésité à le faire. Demandez-lui comment il s'est senti lorsqu'il a décidé de se laisser tomber dans les bras des personnes qui se tenaient derrière lui.</p><p>Peut-être qu'il a choisi de ne pas se laisser tomber, même sachant que les autres allaient le rattraper. Demandez au groupe : « Comment le groupe s'est-il senti quand le volontaire a choisi de ne pas se laisser tomber ? »</p><p>Peut-être qu'il a choisi de se laisser tomber. Comment s'est senti le volontaire après que le groupe l'a attrapé ? Comment s'est senti le groupe en sachant qu'il a cru en eux ? C'est un exemple de foi ou de confiance. La personne a cru. On n'a pas vraiment placé sa confiance en ces personnes qui sont prêtes à nous rattraper ou on ne croit pas vraiment en elles, si ne veut pas se laisser tomber dans leurs bras. On peut dire qu'on leur fait confiance ou qu'on croit en elles, mais la vraie confiance se manifeste quand on se laisse tomber dans leurs bras. Faire confiance ou croire en quelqu'un veut dire agir en fonction de cette foi, cette croyance ou cette confiance.</p></div></div>",
+"content": "<p>« <b>Croire</b> » veut dire la même chose que « avoir <data class=\"resource-ref\" data-content-id=\"fra-t48-v1\" data-resource-code=\"FIAKeyTerms\">la foi</data> ».</p><p>Si on croit en quelqu'un, on croit que ce que cette personne dit d'elle-même est vrai. On place alors notre confiance en elle et on s'engage à faire ce qu'elle commande.</p><p><data class=\"resource-ref\" data-content-id=\"fra-t1-v1\" data-resource-code=\"FIAKeyTerms\">Abraham</data> a cru que Dieu disait la vérité quand il lui a promis qu'il aurait de nombreux <data class=\"resource-ref\" data-content-id=\"fra-t234-v1\" data-resource-code=\"FIAKeyTerms\">descendants</data>, même s'il était déjà vieux et qu'il n'avait même pas un seul enfant. Abraham a cru que Dieu accomplirait sa promesse, même si cela semblait impossible.</p><p>Croire en Dieu, c'est accepter qu'il existe et que ce qu'il dit dans la Bible est vrai. On croit qu'il accomplira toutes ses promesses, même lorsque cela semble impossible. Alors on s'engage à obéir à tout ce qu'il veut que l'on fasse.</p><p>Lorsque l'on croit en Jésus, on croit qu'il est vraiment le <data class=\"resource-ref\" data-content-id=\"fra-t129-v1\" data-resource-code=\"FIAKeyTerms\">Fils de Dieu</data>. On croit qu'il est vraiment mort pour nos <data class=\"resource-ref\" data-content-id=\"fra-t125-v1\" data-resource-code=\"FIAKeyTerms\">péchés</data>, et que puisqu'on croit en lui, Dieu nous a <data class=\"resource-ref\" data-content-id=\"fra-t53-v1\" data-resource-code=\"FIAKeyTerms\">pardonnés</data> et acceptés. Alors on s'engage à faire tout ce que Jésus commande.</p><p>La Bible dit parfois que les gens doivent « croire au nom de Jésus ». Cela veut dire la même chose que de croire en Jésus.</p><p>Une personne qui a une grande foi ou qui croit fermement fait entièrement confiance à Dieu et à Jésus.</p><p><strong>Pour traduire les mots « croire » ou « croyance », faites attention aux choses suivantes :</strong></p><p>Dans certaines langues, le mot « croire » peut sembler vouloir dire que quelqu'un espère seulement que quelque chose est vrai, mais qu'il n'en est pas sûr. Ce n'est pas la bonne signification pour ce mot biblique. Dans certaines langues, il pourrait être préférable d'utiliser un mot qui veut dire « placer sa confiance en quelqu'un ».</p><div data-type=\"callout\" data-callout-style=\"action\"><div data-callout-section=\"header\">Pause here and do the following activity as a group:\nArrêtez cet enregistrement pendant que vous complétez l'activité suivante en groupe :</div><div data-callout-section=\"container\"><p>Demandez à une personne de se porter volontaire pour être la personne qui doit croire, avoir la foi ou placer sa confiance en quelqu'un. Cette personne doit tourner le dos à un groupe d'au moins cinq personnes, s'il y a assez de monde dans votre groupe. Ces cinq personnes devraient se tenir juste derrière celle qui s'est portée volontaire. Elles doivent être capables de l'attraper, et bien sûr vouloir le faire. Demandez au volontaire de se laisser tomber dans les bras des personnes qui se tiennent derrière lui. Demandez-lui s'il a hésité à le faire. Demandez-lui comment il s'est senti lorsqu'il a décidé de se laisser tomber dans les bras des personnes qui se tenaient derrière lui.</p><p>Peut-être qu'il a choisi de ne pas se laisser tomber, même sachant que les autres allaient le rattraper. Demandez au groupe : « Comment le groupe s'est-il senti quand le volontaire a choisi de ne pas se laisser tomber ? »</p><p>Peut-être qu'il a choisi de se laisser tomber. Comment s'est senti le volontaire après que le groupe l'a attrapé ? Comment s'est senti le groupe en sachant qu'il a cru en eux ? C'est un exemple de foi ou de confiance. La personne a cru. On n'a pas vraiment placé sa confiance en ces personnes qui sont prêtes à nous rattraper ou on ne croit pas vraiment en elles, si ne veut pas se laisser tomber dans leurs bras. On peut dire qu'on leur fait confiance ou qu'on croit en elles, mais la vraie confiance se manifeste quand on se laisse tomber dans leurs bras. Faire confiance ou croire en quelqu'un veut dire agir en fonction de cette foi, cette croyance ou cette confiance.</p></div></div>",
 "associations": {
 "passage": [
 {
@@ -9737,7 +10389,50 @@
 "end_ref_usfm": "JUD 1:7"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t48-v1",
+"resource_code": "FIAKeyTerms",
+"label": "la foi",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t1-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Abraham",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t234-v1",
+"resource_code": "FIAKeyTerms",
+"label": "descendants",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t129-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Fils de Dieu",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t125-v1",
+"resource_code": "FIAKeyTerms",
+"label": "péchés",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t53-v1",
+"resource_code": "FIAKeyTerms",
+"label": "pardonnés",
+"language": "fra"
+}
+],
 "acai": []
 }
 },
@@ -9988,7 +10683,7 @@
 "index_reference": "croix",
 "language": "fra",
 "review_level": "None",
-"content": "<p>Une <b>croix</b> est un ensemble formé de deux bois. Le premier bois est vertical et le deuxième horizontal. Celui qui est horizontal est attaché au bois vertical près du sommet pour que la moitié du bois horizontal soit d'un côté du bois vertical, et l'autre moitié de l'autre côté du bois vertical. Les Romains l'utilisaient pour torturer et exécuter les pires criminels. Cela s'appelait « <a href=\"#t169\">crucifixion</a> ». C'était la façon la plus douloureuse et la plus humiliante de mourir. Une personne qui allait être crucifiée était d'abord sévèrement flagellée (c'est-à-dire fouettée, battue). Puis elle devait porter la poutre transversale (le bois horizontal) de la croix sur son dos jusqu'au lieu d'exécution. Les soldats plaçaient ensuite la victime sur le sommet de la croix de bois, les bras largement étendus. Les soldats martelaient alors de grands clous de fer dans les poignets ou les mains de la victime, puis dans ses pieds, pour qu'elle soit fixée à la croix. Ensuite, ils mettaient la croix en position droite, et laissaient la victime nue pendre jusqu'à ce qu'elle meure, à la vue de tous les passants. La croix était un symbole de honte et d'humiliation profondes.</p><div data-type=\"callout\" data-callout-style=\"action\"><p>Vous pouvez consulter le dictionnaire audio-visuel de la Bible pour voir des images de croix.</p></div>",
+"content": "<p>Une <b>croix</b> est un ensemble formé de deux bois. Le premier bois est vertical et le deuxième horizontal. Celui qui est horizontal est attaché au bois vertical près du sommet pour que la moitié du bois horizontal soit d'un côté du bois vertical, et l'autre moitié de l'autre côté du bois vertical. Les Romains l'utilisaient pour torturer et exécuter les pires criminels. Cela s'appelait « <data class=\"resource-ref\" data-content-id=\"fra-t169-v1\" data-resource-code=\"FIAKeyTerms\">crucifixion</data> ». C'était la façon la plus douloureuse et la plus humiliante de mourir. Une personne qui allait être crucifiée était d'abord sévèrement flagellée (c'est-à-dire fouettée, battue). Puis elle devait porter la poutre transversale (le bois horizontal) de la croix sur son dos jusqu'au lieu d'exécution. Les soldats plaçaient ensuite la victime sur le sommet de la croix de bois, les bras largement étendus. Les soldats martelaient alors de grands clous de fer dans les poignets ou les mains de la victime, puis dans ses pieds, pour qu'elle soit fixée à la croix. Ensuite, ils mettaient la croix en position droite, et laissaient la victime nue pendre jusqu'à ce qu'elle meure, à la vue de tous les passants. La croix était un symbole de honte et d'humiliation profondes.</p><div data-type=\"callout\" data-callout-style=\"action\"><p>Vous pouvez consulter le dictionnaire audio-visuel de la Bible pour voir des images de croix.</p></div>",
 "associations": {
 "passage": [
 {
@@ -10112,7 +10807,15 @@
 "end_ref_usfm": "PHP 4:1"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t169-v1",
+"resource_code": "FIAKeyTerms",
+"label": "crucifixion",
+"language": "fra"
+}
+],
 "acai": [
 {
 "id": "realia:Cross",
@@ -10269,7 +10972,7 @@
 "index_reference": "croyant",
 "language": "fra",
 "review_level": "None",
-"content": "<p>Après la Pentecôte, les personnes qui ont suivi Jésus étaient aussi appelées <b>croyants</b>. Un croyant est une personne qui a choisi de croire à la <a href=\"#t160\">bonne nouvelle</a> sur Jésus et de faire confiance à Jésus et de le suivre comme son i<a href=\"#t87\">gneur ou</a> maître. Dans Actes, les gens appellent souvent ce groupe de personnes « frères » ou « frères et sœurs » parce que les croyants sont comme les membres de la même famille avec Dieu comme leur père. Certaines traductions de la Bible traduisent « frères » par « croyants ».</p>",
+"content": "<p>Après la Pentecôte, les personnes qui ont suivi Jésus étaient aussi appelées <b>croyants</b>. Un croyant est une personne qui a choisi de croire à la <data class=\"resource-ref\" data-content-id=\"fra-t160-v1\" data-resource-code=\"FIAKeyTerms\">bonne nouvelle</data> sur Jésus et de faire confiance à Jésus et de le suivre comme son i<data class=\"resource-ref\" data-content-id=\"fra-t87-v1\" data-resource-code=\"FIAKeyTerms\">gneur ou</data> maître. Dans Actes, les gens appellent souvent ce groupe de personnes « frères » ou « frères et sœurs » parce que les croyants sont comme les membres de la même famille avec Dieu comme leur père. Certaines traductions de la Bible traduisent « frères » par « croyants ».</p>",
 "associations": {
 "passage": [
 {
@@ -10519,7 +11222,22 @@
 "end_ref_usfm": "3JN 1:10"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t160-v1",
+"resource_code": "FIAKeyTerms",
+"label": "bonne nouvelle",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t87-v1",
+"resource_code": "FIAKeyTerms",
+"label": "gneur ou",
+"language": "fra"
+}
+],
 "acai": []
 }
 },
@@ -10794,7 +11512,7 @@
 "index_reference": "crucifixion",
 "language": "fra",
 "review_level": "None",
-"content": "<p>La <b>crucifixion</b> était la méthode romaine d'exécution. Pourtant, elle n'était utilisée que pour les <a href=\"#t126\">esclaves</a> et les pires criminels. C'était la façon la plus douloureuse et la plus humiliante de mourir. Crucifier quelqu'un signifie clouer cette personne à une <a href=\"#t30\">croix</a>, puis la laisser mourir.</p><p>Une croix est un ensemble formé de deux bois. Le premier bois est vertical et le deuxième horizontal. Celui qui est horizontal est attaché au bois vertical près du sommet pour que la moitié du bois horizontal soit d'un côté du bois vertical, et l'autre moitié de l'autre côté du bois vertical. Une personne qui allait être crucifiée était d'abord sévèrement flagellée (c'est-à-dire fouettée, battue). Elle devait ensuite porter la poutre transversale (le bois horizontal) de la croix sur son dos jusqu'au lieu d'exécution. Les soldats plaçaient ensuite la victime sur le sommet de la croix de bois, les bras largement étendus. Puis les soldats enfonçaient de grands clous de fer dans ses poignets ou ses mains et ses pieds, pour que la victime soit fixée à la croix. Parfois, les soldats n'utilisaient pas de clous, mais attachaient la victime avec une corde. Ensuite, ils mettaient la croix en position droite, et laissaient la victime nue pendre jusqu'à ce qu'elle meure, à la vue de tous les passants. La victime ne pouvait pas bouger et souffrait beaucoup et constamment. Elle mourait finalement de douleur, de faim et de soif, ou parce qu'elle ne pouvait plus respirer correctement. Cela pouvait prendre plusieurs heures, voire plusieurs jours. Parfois, les soldats accéléraient la mort de la victime en lui brisant les jambes pour qu'elle ne puisse pas prendre appui sur ses pieds pour se hausser et respirer.</p><div data-type=\"callout\" data-callout-style=\"action\"><p>Vous pouvez consulter le dictionnaire audio-visuel de la Bible pour voir des images de croix.</p></div>",
+"content": "<p>La <b>crucifixion</b> était la méthode romaine d'exécution. Pourtant, elle n'était utilisée que pour les <data class=\"resource-ref\" data-content-id=\"fra-t126-v2\" data-resource-code=\"FIAKeyTerms\">esclaves</data> et les pires criminels. C'était la façon la plus douloureuse et la plus humiliante de mourir. Crucifier quelqu'un signifie clouer cette personne à une <data class=\"resource-ref\" data-content-id=\"fra-t30-v1\" data-resource-code=\"FIAKeyTerms\">croix</data>, puis la laisser mourir.</p><p>Une croix est un ensemble formé de deux bois. Le premier bois est vertical et le deuxième horizontal. Celui qui est horizontal est attaché au bois vertical près du sommet pour que la moitié du bois horizontal soit d'un côté du bois vertical, et l'autre moitié de l'autre côté du bois vertical. Une personne qui allait être crucifiée était d'abord sévèrement flagellée (c'est-à-dire fouettée, battue). Elle devait ensuite porter la poutre transversale (le bois horizontal) de la croix sur son dos jusqu'au lieu d'exécution. Les soldats plaçaient ensuite la victime sur le sommet de la croix de bois, les bras largement étendus. Puis les soldats enfonçaient de grands clous de fer dans ses poignets ou ses mains et ses pieds, pour que la victime soit fixée à la croix. Parfois, les soldats n'utilisaient pas de clous, mais attachaient la victime avec une corde. Ensuite, ils mettaient la croix en position droite, et laissaient la victime nue pendre jusqu'à ce qu'elle meure, à la vue de tous les passants. La victime ne pouvait pas bouger et souffrait beaucoup et constamment. Elle mourait finalement de douleur, de faim et de soif, ou parce qu'elle ne pouvait plus respirer correctement. Cela pouvait prendre plusieurs heures, voire plusieurs jours. Parfois, les soldats accéléraient la mort de la victime en lui brisant les jambes pour qu'elle ne puisse pas prendre appui sur ses pieds pour se hausser et respirer.</p><div data-type=\"callout\" data-callout-style=\"action\"><p>Vous pouvez consulter le dictionnaire audio-visuel de la Bible pour voir des images de croix.</p></div>",
 "associations": {
 "passage": [
 {
@@ -10960,7 +11678,22 @@
 "end_ref_usfm": "GAL 6:18"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t126-v2",
+"resource_code": "FIAKeyTerms",
+"label": "esclaves",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t30-v1",
+"resource_code": "FIAKeyTerms",
+"label": "croix",
+"language": "fra"
+}
+],
 "acai": []
 }
 },

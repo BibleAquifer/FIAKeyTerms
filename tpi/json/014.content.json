@@ -533,7 +533,7 @@
 {
 "id": "group:Gentile",
 "type": "group",
-"confidence": 0.5684,
+"confidence": 0.5683,
 "match_method": "scored",
 "preferred_label": "Gentiles"
 }
@@ -549,7 +549,7 @@
 "index_reference": "nazareth",
 "language": "tpi",
 "review_level": "None",
-"content": "<p><b>Nasaret</b> em i wanpela liklik taun insait long rijen bilong <a href=\"#t55\">Galili</a>, long hap not bilong <a href=\"#t74\">Israel</a>. Nasaret i no kamap insait long Olpela Testamen, na namba wan taim yumi harim nem bilong dispela taun em taim yumi harim olsem <a href=\"#t89\">Maria</a> na Josep, tupela papamama bilong Jisas, i bilong Nasaret. Jisas i bon long wanpela liklik ples ol i kolim <a href=\"#t13\">Betlehem</a>, long <a href=\"#t81\">Judea</a>, tasol taim em i liklik yet, Maria na Josep i bin go stap long Nasaret. Olsem na Jisas bihain ol i kolim em olsem Nasarin, we i min olsem wanpela man bilong Nasaret. Dispela em i no wanpela gutpela tok. <b>Ol Ju</b> bilong Judea i save luk daun long ol manmeri bilong Galili, na ol manmeri insait long Galili i save luk daun long ol manmeri bilong Nasaret, bikos em i wanpela liklik taun na em i no impoten.</p>",
+"content": "<p><b>Nasaret</b> em i wanpela liklik taun insait long rijen bilong <data class=\"resource-ref\" data-content-id=\"tpi-t55-v1\" data-resource-code=\"FIAKeyTerms\">Galili</data>, long hap not bilong <data class=\"resource-ref\" data-content-id=\"tpi-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israel</data>. Nasaret i no kamap insait long Olpela Testamen, na namba wan taim yumi harim nem bilong dispela taun em taim yumi harim olsem <data class=\"resource-ref\" data-content-id=\"tpi-t89-v1\" data-resource-code=\"FIAKeyTerms\">Maria</data> na Josep, tupela papamama bilong Jisas, i bilong Nasaret. Jisas i bon long wanpela liklik ples ol i kolim <data class=\"resource-ref\" data-content-id=\"tpi-t13-v1\" data-resource-code=\"FIAKeyTerms\">Betlehem</data>, long <data class=\"resource-ref\" data-content-id=\"tpi-t81-v1\" data-resource-code=\"FIAKeyTerms\">Judea</data>, tasol taim em i liklik yet, Maria na Josep i bin go stap long Nasaret. Olsem na Jisas bihain ol i kolim em olsem Nasarin, we i min olsem wanpela man bilong Nasaret. Dispela em i no wanpela gutpela tok. <data class=\"resource-ref\" data-content-id=\"tpi-t77-v2\" data-resource-code=\"FIAKeyTerms\">Ol Ju</data> bilong Judea i save luk daun long ol manmeri bilong Galili, na ol manmeri insait long Galili i save luk daun long ol manmeri bilong Nasaret, bikos em i wanpela liklik taun na em i no impoten.</p>",
 "associations": {
 "passage": [
 {
@@ -655,7 +655,50 @@
 "end_ref_usfm": "ACT 26:23"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "tpi-t55-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Galili",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israel",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t89-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Maria",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t13-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Betlehem",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t81-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Judea",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t77-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Ol Ju",
+"language": "tpi"
+}
+],
 "acai": [
 {
 "id": "place:Nazareth",

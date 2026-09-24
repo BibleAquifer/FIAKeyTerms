@@ -8,7 +8,7 @@
 "index_reference": "群",
 "language": "zhs",
 "review_level": "None",
-"content": "<p>一<b>群</b>是很多罗马士兵，共有六千多名士兵。 在这段经文中，一个<a href=\"#t36\">鬼</a>告诉耶稣他的名字是\"群\"，他的意思是说牠不仅是一个鬼，而是非常多的一群鬼。</p>",
+"content": "<p>一<b>群</b>是很多罗马士兵，共有六千多名士兵。 在这段经文中，一个<data class=\"resource-ref\" data-content-id=\"cmn-t36-v1\" data-resource-code=\"FIAKeyTerms\">鬼</data>告诉耶稣他的名字是\"群\"，他的意思是说牠不仅是一个鬼，而是非常多的一群鬼。</p>",
 "associations": {
 "passage": [
 {
@@ -36,7 +36,15 @@
 "end_ref_usfm": "ACT 10:23"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t36-v1",
+"resource_code": "FIAKeyTerms",
+"label": "鬼",
+"language": "zhs"
+}
+],
 "acai": [
 {
 "id": "deity:Legion",

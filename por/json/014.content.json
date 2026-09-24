@@ -8,7 +8,7 @@
 "index_reference": "oferta",
 "language": "por",
 "review_level": "None",
-"content": "<p>Uma <b>oferta</b> é um presente ou <a href=\"#t114\">sacrifício</a> oferecido em um ritual para Deus, geralmente no <a href=\"#t138\">templo</a> ou em um <a href=\"#t3\">altar</a> especial. As pessoas podem fazer ofertas por muitas razões, incluindo para dar graças, para serem <a href=\"#t208\">purificadas</a> ou para pedir <a href=\"#t53\">perdão</a> pelo <a href=\"#t125\">pecado</a>.</p>",
+"content": "<p>Uma <b>oferta</b> é um presente ou <data class=\"resource-ref\" data-content-id=\"por-t114-v1\" data-resource-code=\"FIAKeyTerms\">sacrifício</data> oferecido em um ritual para Deus, geralmente no <data class=\"resource-ref\" data-content-id=\"por-t138-v1\" data-resource-code=\"FIAKeyTerms\">templo</data> ou em um <data class=\"resource-ref\" data-content-id=\"por-t3-v1\" data-resource-code=\"FIAKeyTerms\">altar</data> especial. As pessoas podem fazer ofertas por muitas razões, incluindo para dar graças, para serem <data class=\"resource-ref\" data-content-id=\"por-t208-v1\" data-resource-code=\"FIAKeyTerms\">purificadas</data> ou para pedir <data class=\"resource-ref\" data-content-id=\"por-t53-v1\" data-resource-code=\"FIAKeyTerms\">perdão</data> pelo <data class=\"resource-ref\" data-content-id=\"por-t125-v1\" data-resource-code=\"FIAKeyTerms\">pecado</data>.</p>",
 "associations": {
 "passage": [
 {
@@ -492,7 +492,50 @@
 "end_ref_usfm": "EPH 5:6"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t114-v1",
+"resource_code": "FIAKeyTerms",
+"label": "sacrifício",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t138-v1",
+"resource_code": "FIAKeyTerms",
+"label": "templo",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t3-v1",
+"resource_code": "FIAKeyTerms",
+"label": "altar",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t208-v1",
+"resource_code": "FIAKeyTerms",
+"label": "purificadas",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t53-v1",
+"resource_code": "FIAKeyTerms",
+"label": "perdão",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t125-v1",
+"resource_code": "FIAKeyTerms",
+"label": "pecado",
+"language": "por"
+}
+],
 "acai": [
 {
 "id": "keyterm:Offering",
@@ -1009,7 +1052,7 @@
 "index_reference": "oferta ou cerimônia de purificação",
 "language": "por",
 "review_level": "None",
-"content": "<p>Uma <b>cerimônia de purificação</b> é um ritual que torna uma pessoa <a href=\"#t26\">pura</a>, o que significa apta para o serviço a Deus. As palavras “puro” e “impuro” na Bíblia não estão falando sobre se algo é limpo ou sujo no exterior, ou do lado de fora. Na Bíblia, uma pessoa <em>pura</em> significa uma pessoa apta para o serviço a Deus — alguém aceitável para participar da adoração a <a href=\"#t149\">Deus.</a> Uma pessoa que é <em>impura</em> é inadequada para o serviço a Deus, e não pode participar da adoração pública. Os animais e até objetos também podem ser puros ou impuros.</p><p>Se uma mulher estava impura porque ela havia sangrado durante seu ciclo mensal ou havia dado à luz um filho, ou se alguém havia tido relações sexuais, tocado um corpo morto, ou havia se recuperado de uma doença de pele, ela era impura. Eles precisavam esperar uma certa quantidade de tempo e então tomar um banho especial. Em alguns casos, eles também tinham que oferecer um <a href=\"#t114\">sacrifício</a> animal a Deus. Essas atividades juntas eram chamadas de cerimônia de purificação. Depois disso, essas pessoas estavam limpas novamente e poderiam participar de todas as atividades de adoração.</p>",
+"content": "<p>Uma <b>cerimônia de purificação</b> é um ritual que torna uma pessoa <data class=\"resource-ref\" data-content-id=\"por-t26-v1\" data-resource-code=\"FIAKeyTerms\">pura</data>, o que significa apta para o serviço a Deus. As palavras “puro” e “impuro” na Bíblia não estão falando sobre se algo é limpo ou sujo no exterior, ou do lado de fora. Na Bíblia, uma pessoa <b>pura</b> significa uma pessoa apta para o serviço a Deus — alguém aceitável para participar da adoração a <data class=\"resource-ref\" data-content-id=\"por-t149-v1\" data-resource-code=\"FIAKeyTerms\">Deus.</data> Uma pessoa que é <b>impura</b> é inadequada para o serviço a Deus, e não pode participar da adoração pública. Os animais e até objetos também podem ser puros ou impuros.</p><p>Se uma mulher estava impura porque ela havia sangrado durante seu ciclo mensal ou havia dado à luz um filho, ou se alguém havia tido relações sexuais, tocado um corpo morto, ou havia se recuperado de uma doença de pele, ela era impura. Eles precisavam esperar uma certa quantidade de tempo e então tomar um banho especial. Em alguns casos, eles também tinham que oferecer um <data class=\"resource-ref\" data-content-id=\"por-t114-v1\" data-resource-code=\"FIAKeyTerms\">sacrifício</data> animal a Deus. Essas atividades juntas eram chamadas de cerimônia de purificação. Depois disso, essas pessoas estavam limpas novamente e poderiam participar de todas as atividades de adoração.</p>",
 "associations": {
 "passage": [
 {
@@ -1079,7 +1122,29 @@
 "end_ref_usfm": "ACT 24:23"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t26-v1",
+"resource_code": "FIAKeyTerms",
+"label": "pura",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t149-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Deus.",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t114-v1",
+"resource_code": "FIAKeyTerms",
+"label": "sacrifício",
+"language": "por"
+}
+],
 "acai": []
 }
 },
@@ -1174,7 +1239,7 @@
 "index_reference": "oferta queimada",
 "language": "por",
 "review_level": "None",
-"content": "<p>No Antigo Testamento, uma <b>oferta queimada</b> é uma forma de <a href=\"#t114\">sacrifício</a> que as pessoas trazem para Deus. Quando uma pessoa traz a Deus uma oferta queimada, ele mata um animal e queima esse animal completamente em um <a href=\"#t3\">altar</a>, que é um lugar especial destinado a trazer presentes para Deus. Quando uma pessoa traz a Deus uma oferta queimada, ela está dizendo a Deus: “Assim como eu estou completamente queimando esse animal, estou completamente devotado a você”.</p>",
+"content": "<p>No Antigo Testamento, uma <b>oferta queimada</b> é uma forma de <data class=\"resource-ref\" data-content-id=\"por-t114-v1\" data-resource-code=\"FIAKeyTerms\">sacrifício</data> que as pessoas trazem para Deus. Quando uma pessoa traz a Deus uma oferta queimada, ele mata um animal e queima esse animal completamente em um <data class=\"resource-ref\" data-content-id=\"por-t3-v1\" data-resource-code=\"FIAKeyTerms\">altar</data>, que é um lugar especial destinado a trazer presentes para Deus. Quando uma pessoa traz a Deus uma oferta queimada, ela está dizendo a Deus: “Assim como eu estou completamente queimando esse animal, estou completamente devotado a você”.</p>",
 "associations": {
 "passage": [
 {
@@ -1646,6 +1711,12 @@
 "end_ref_usfm": "2KI 5:27"
 },
 {
+"start_ref": "12015001",
+"start_ref_usfm": "2KI 15:1",
+"end_ref": "12015007",
+"end_ref_usfm": "2KI 15:7"
+},
+{
 "start_ref": "13006049",
 "start_ref_usfm": "1CH 6:49",
 "end_ref": "13006053",
@@ -1770,15 +1841,24 @@
 "start_ref_usfm": "2CH 31:1",
 "end_ref": "14031010",
 "end_ref_usfm": "2CH 31:10"
-},
-{
-"start_ref": "14035001",
-"start_ref_usfm": "2CH 35:1",
-"end_ref": "14035019",
-"end_ref_usfm": "2CH 35:19"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t114-v1",
+"resource_code": "FIAKeyTerms",
+"label": "sacrifício",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t3-v1",
+"resource_code": "FIAKeyTerms",
+"label": "altar",
+"language": "por"
+}
+],
 "acai": []
 }
 },
@@ -2263,6 +2343,12 @@
 "end_ref_usfm": "2KI 5:27"
 },
 {
+"start_ref": "12015001",
+"start_ref_usfm": "2KI 15:1",
+"end_ref": "12015007",
+"end_ref_usfm": "2KI 15:7"
+},
+{
 "start_ref": "13006049",
 "start_ref_usfm": "1CH 6:49",
 "end_ref": "13006053",
@@ -2387,12 +2473,6 @@
 "start_ref_usfm": "2CH 31:1",
 "end_ref": "14031010",
 "end_ref_usfm": "2CH 31:10"
-},
-{
-"start_ref": "14035001",
-"start_ref_usfm": "2CH 35:1",
-"end_ref": "14035019",
-"end_ref_usfm": "2CH 35:19"
 }
 ],
 "resource": []
@@ -2407,7 +2487,7 @@
 "index_reference": "orar",
 "language": "por",
 "review_level": "None",
-"content": "<p>Quando você <b>ora</b>, ou faz uma <b>oração</b>, você está se comunicando com Deus. Você pode estar <a href=\"#t219\">louvando</a>-o, agradecendo-o, pedindo-lhe ajuda, dizendo-lhe sobre as coisas erradas que você fez, pedindo a ele para ajudar as outras pessoas, ou você pode apenas estar chorando diante dele porque você se sente muito triste. Na Bíblia, todas essas coisas são parte da oração.</p><p>Às vezes as pessoas falam em voz alta quando elas oram, e às vezes elas só oram com seus pensamentos. Poderíamos chamar isso de “orar em seu coração”. Às vezes as pessoas se ajoelham para orar, e às vezes elas se levantam, com os braços estendidos para Deus. Não há regras na Bíblia sobre como você deve orar, apenas que você tem que orar sincera e humildemente.</p><p>Às vezes as pessoas podem orar todas juntas ao mesmo tempo. Muitos dos Salmos na Bíblia são orações, e os <a href=\"#t259\">israelitas</a> recitariam ou cantariam essas orações quando eles se reunissem para <a href=\"#t149\">adorar</a> a Deus no <a href=\"#t138\">templo</a>.</p><p>Quando Deus ouve a oração de alguém e responde de alguma maneira, dizemos que Deus respondeu à oração dessa pessoa.</p><p><strong>Quando você estiver traduzindo “oração”, tenha cuidado com as seguintes coisas:</strong></p><p>Alguns idiomas usam uma palavra para oração que significa o falar de certas palavras fixas. Essa não seria uma boa palavra para usar para a oração na Bíblia.</p><p>Alguns idiomas têm mais do que uma palavra para orar, dependendo de que tipo de conversa as pessoas estão tendo com Deus. Por exemplo, alguns idiomas têm uma palavra para as orações de ação de graças e outra palavra para a oração que está pedindo ajuda a Deus. Certifique-se de que você está usando a palavra certa em cada contexto. Talvez você precise usar mais do que uma palavra para a oração em uma passagem.</p>",
+"content": "<p>Quando você <b>ora</b>, ou faz uma <b>oração</b>, você está se comunicando com Deus. Você pode estar <data class=\"resource-ref\" data-content-id=\"por-t219-v1\" data-resource-code=\"FIAKeyTerms\">louvando</data>-o, agradecendo-o, pedindo-lhe ajuda, dizendo-lhe sobre as coisas erradas que você fez, pedindo a ele para ajudar as outras pessoas, ou você pode apenas estar chorando diante dele porque você se sente muito triste. Na Bíblia, todas essas coisas são parte da oração.</p><p>Às vezes as pessoas falam em voz alta quando elas oram, e às vezes elas só oram com seus pensamentos. Poderíamos chamar isso de “orar em seu coração”. Às vezes as pessoas se ajoelham para orar, e às vezes elas se levantam, com os braços estendidos para Deus. Não há regras na Bíblia sobre como você deve orar, apenas que você tem que orar sincera e humildemente.</p><p>Às vezes as pessoas podem orar todas juntas ao mesmo tempo. Muitos dos Salmos na Bíblia são orações, e os <data class=\"resource-ref\" data-content-id=\"por-t259-v2\" data-resource-code=\"FIAKeyTerms\">israelitas</data> recitariam ou cantariam essas orações quando eles se reunissem para <data class=\"resource-ref\" data-content-id=\"por-t149-v1\" data-resource-code=\"FIAKeyTerms\">adorar</data> a Deus no <data class=\"resource-ref\" data-content-id=\"por-t138-v1\" data-resource-code=\"FIAKeyTerms\">templo</data>.</p><p>Quando Deus ouve a oração de alguém e responde de alguma maneira, dizemos que Deus respondeu à oração dessa pessoa.</p><p><strong>Quando você estiver traduzindo “oração”, tenha cuidado com as seguintes coisas:</strong></p><p>Alguns idiomas usam uma palavra para oração que significa o falar de certas palavras fixas. Essa não seria uma boa palavra para usar para a oração na Bíblia.</p><p>Alguns idiomas têm mais do que uma palavra para orar, dependendo de que tipo de conversa as pessoas estão tendo com Deus. Por exemplo, alguns idiomas têm uma palavra para as orações de ação de graças e outra palavra para a oração que está pedindo ajuda a Deus. Certifique-se de que você está usando a palavra certa em cada contexto. Talvez você precise usar mais do que uma palavra para a oração em uma passagem.</p>",
 "associations": {
 "passage": [
 {
@@ -2981,7 +3061,36 @@
 "end_ref_usfm": "JUD 1:23"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t219-v1",
+"resource_code": "FIAKeyTerms",
+"label": "louvando",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t259-v2",
+"resource_code": "FIAKeyTerms",
+"label": "israelitas",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t149-v1",
+"resource_code": "FIAKeyTerms",
+"label": "adorar",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t138-v1",
+"resource_code": "FIAKeyTerms",
+"label": "templo",
+"language": "por"
+}
+],
 "acai": [
 {
 "id": "keyterm:Pray",

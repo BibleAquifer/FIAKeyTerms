@@ -8,7 +8,7 @@
 "index_reference": "赎价",
 "language": "zhs",
 "review_level": "None",
-"content": "<p>当有人是囚犯或<a href=\"#t126\">奴隶</a>时，另一个人可以买下那人使其自由。 这个人为释放囚犯或奴隶而支付的钱被称为<b>赎价</b>。</p><p>圣经说耶稣献出祂的生命作为百姓的赎价。 这表示百姓就像囚犯或奴隶，耶稣为释放他们付上了代价。 耶稣不是用钱买来人们的自由，而是用祂自己的生命，这更加宝贵。 耶稣的死是耶稣为把人们从<a href=\"#t125\">罪</a>、羞耻和死亡中释放出来而付上的代价。</p>",
+"content": "<p>当有人是囚犯或<data class=\"resource-ref\" data-content-id=\"cmn-t126-v2\" data-resource-code=\"FIAKeyTerms\">奴隶</data>时，另一个人可以买下那人使其自由。 这个人为释放囚犯或奴隶而支付的钱被称为<b>赎价</b>。</p><p>圣经说耶稣献出祂的生命作为百姓的赎价。 这表示百姓就像囚犯或奴隶，耶稣为释放他们付上了代价。 耶稣不是用钱买来人们的自由，而是用祂自己的生命，这更加宝贵。 耶稣的死是耶稣为把人们从<data class=\"resource-ref\" data-content-id=\"cmn-t125-v1\" data-resource-code=\"FIAKeyTerms\">罪</data>、羞耻和死亡中释放出来而付上的代价。</p>",
 "associations": {
 "passage": [
 {
@@ -66,7 +66,22 @@
 "end_ref_usfm": "1TI 2:7"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t126-v2",
+"resource_code": "FIAKeyTerms",
+"label": "奴隶",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t125-v1",
+"resource_code": "FIAKeyTerms",
+"label": "罪",
+"language": "zhs"
+}
+],
 "acai": []
 }
 },

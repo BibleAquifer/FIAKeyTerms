@@ -8,7 +8,7 @@
 "index_reference": "叙利亚腓尼基",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><b>腓尼基</b>是<a href=\"#t74\">以色列</a>北部一个地区的名称。 腓尼基是一条狭窄的地带，由地中海沿岸的五个城市组成。</p><p>在新约时代，这个地区属于叙利亚。 出于这个原因，来自该地区的人可能被称为\"叙利亚腓尼基人\"。 许多住在这个地区的人来自其他国家，尤其是希腊。 这个地区的许多人参与贸易，特别是透过船舶进行的贸易。</p><p>今天，这个地区是我们现在所知的黎巴嫩的一部分。</p>",
+"content": "<p><b>腓尼基</b>是<data class=\"resource-ref\" data-content-id=\"cmn-t74-v1\" data-resource-code=\"FIAKeyTerms\">以色列</data>北部一个地区的名称。 腓尼基是一条狭窄的地带，由地中海沿岸的五个城市组成。</p><p>在新约时代，这个地区属于叙利亚。 出于这个原因，来自该地区的人可能被称为\"叙利亚腓尼基人\"。 许多住在这个地区的人来自其他国家，尤其是希腊。 这个地区的许多人参与贸易，特别是透过船舶进行的贸易。</p><p>今天，这个地区是我们现在所知的黎巴嫩的一部分。</p>",
 "associations": {
 "passage": [
 {
@@ -18,21 +18,29 @@
 "end_ref_usfm": "MRK 7:30"
 }
 ],
-"resource": [],
-"acai": [
+"resource": [
 {
-"id": "group:Phoenicia",
-"type": "group",
-"confidence": 0.6571,
-"match_method": "scored",
-"preferred_label": "Syrophoenicians"
-},
+"reference_id": 0,
+"content_id": "cmn-t74-v1",
+"resource_code": "FIAKeyTerms",
+"label": "以色列",
+"language": "zhs"
+}
+],
+"acai": [
 {
 "id": "place:Phoenicia",
 "type": "place",
 "confidence": 0.6571,
 "match_method": "scored",
 "preferred_label": "Phoenicia"
+},
+{
+"id": "group:Phoenicia",
+"type": "group",
+"confidence": 0.6571,
+"match_method": "scored",
+"preferred_label": "Syrophoenicians"
 }
 ]
 }

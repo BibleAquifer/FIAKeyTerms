@@ -8,7 +8,7 @@
 "index_reference": "nation",
 "language": "eng",
 "review_level": "None",
-"content": "<p>A <b>nation</b> is a group of people who belong together. These people usually live in the same country and have the same ruler.</p><p>Sometimes people use the word nation to refer to a people group who have something in common, even if those people do not have a king or a country. A people group may be <a href=\"#t234\">descendants</a> from the same person or share a similar purpose. For example, the nation of <a href=\"#t74\">Israel</a> was a people group before they had their own land or <a href=\"#t226\">king</a> because the <a href=\"#t259\">Israelites</a> were all descendants of the same man. The nation of Israel was also a nation because God chose the Israelites to be God's special people. Sometimes translations simply call these kinds of groups \"people.\" The Israelites especially liked to call themselves the \"people of <a href=\"#t174\">Yahweh</a>,\" or the \"people of Israel,\" rather than a nation. The Israelites often called non-Israelite groups of people who belonged together \"nations.\" Yahweh promised <a href=\"#t1\">Abraham</a> that Yahweh would <a href=\"#t16\">bless</a> all the nations of the earth through Abraham's descendants. We see that Yahweh kept his promise when Jesus' <a href=\"#t39\">disciples</a> shared the <a href=\"#t160\">good news</a> about Jesus not just to the Israelite nation but to all people groups.</p><p>Whenever the Bible talks about \"all the nations of the earth,\" this is another way to say \"all the people who live on earth.\"</p>",
+"content": "<p>A <b>nation</b> is a group of people who belong together. These people usually live in the same country and have the same ruler.</p><p>Sometimes people use the word nation to refer to a people group who have something in common, even if those people do not have a king or a country. A people group may be <data class=\"resource-ref\" data-content-id=\"eng-t234-v2\" data-resource-code=\"FIAKeyTerms\">descendants</data> from the same person or share a similar purpose. For example, the nation of <data class=\"resource-ref\" data-content-id=\"eng-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israel</data> was a people group before they had their own land or <data class=\"resource-ref\" data-content-id=\"eng-t226-v2\" data-resource-code=\"FIAKeyTerms\">king</data> because the <data class=\"resource-ref\" data-content-id=\"eng-t259-v2\" data-resource-code=\"FIAKeyTerms\">Israelites</data> were all descendants of the same man. The nation of Israel was also a nation because God chose the Israelites to be God's special people. Sometimes translations simply call these kinds of groups \"people.\" The Israelites especially liked to call themselves the \"people of <data class=\"resource-ref\" data-content-id=\"eng-t174-v1\" data-resource-code=\"FIAKeyTerms\">Yahweh</data>,\" or the \"people of Israel,\" rather than a nation. The Israelites often called non-Israelite groups of people who belonged together \"nations.\" Yahweh promised <data class=\"resource-ref\" data-content-id=\"eng-t1-v1\" data-resource-code=\"FIAKeyTerms\">Abraham</data> that Yahweh would <data class=\"resource-ref\" data-content-id=\"eng-t16-v1\" data-resource-code=\"FIAKeyTerms\">bless</data> all the nations of the earth through Abraham's descendants. We see that Yahweh kept his promise when Jesus' <data class=\"resource-ref\" data-content-id=\"eng-t39-v1\" data-resource-code=\"FIAKeyTerms\">disciples</data> shared the <data class=\"resource-ref\" data-content-id=\"eng-t160-v1\" data-resource-code=\"FIAKeyTerms\">good news</data> about Jesus not just to the Israelite nation but to all people groups.</p><p>Whenever the Bible talks about \"all the nations of the earth,\" this is another way to say \"all the people who live on earth.\"</p>",
 "associations": {
 "passage": [
 {
@@ -450,6 +450,12 @@
 "end_ref_usfm": "PSA 117:2"
 },
 {
+"start_ref": "23005026",
+"start_ref_usfm": "ISA 5:26",
+"end_ref": "23005030",
+"end_ref_usfm": "ISA 5:30"
+},
+{
 "start_ref": "40021033",
 "start_ref_usfm": "MAT 21:33",
 "end_ref": "40021046",
@@ -570,12 +576,76 @@
 "end_ref_usfm": "1TI 3:16"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t234-v2",
+"resource_code": "FIAKeyTerms",
+"label": "descendants",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israel",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t226-v2",
+"resource_code": "FIAKeyTerms",
+"label": "king",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t259-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israelites",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t174-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Yahweh",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t1-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Abraham",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t16-v1",
+"resource_code": "FIAKeyTerms",
+"label": "bless",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t39-v1",
+"resource_code": "FIAKeyTerms",
+"label": "disciples",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t160-v1",
+"resource_code": "FIAKeyTerms",
+"label": "good news",
+"language": "eng"
+}
+],
 "acai": [
 {
 "id": "group:Gentile",
 "type": "group",
-"confidence": 0.5684,
+"confidence": 0.5683,
 "match_method": "scored",
 "preferred_label": "Gentiles"
 }
@@ -1033,6 +1103,12 @@
 "end_ref_usfm": "PSA 117:2"
 },
 {
+"start_ref": "23005026",
+"start_ref_usfm": "ISA 5:26",
+"end_ref": "23005030",
+"end_ref_usfm": "ISA 5:30"
+},
+{
 "start_ref": "40021033",
 "start_ref_usfm": "MAT 21:33",
 "end_ref": "40021046",
@@ -1165,7 +1241,7 @@
 "index_reference": "nazareth",
 "language": "eng",
 "review_level": "None",
-"content": "<p><b>Nazareth</b> is a small town in the region of <a href=\"#t55\">Galilee</a>, in the north of <a href=\"#t74\">Israel</a>. Nazareth does not appear in the Old Testament, and the first time we hear about this town is when we hear that <a href=\"#t89\">Mary</a> and Joseph, Jesus's parents, came from Nazareth. Jesus was born in a village called <a href=\"#t13\">Bethlehem</a>, in <a href=\"#t81\">Judea</a>, but when he was still small Mary and Joseph went to live in Nazareth. Therefore Jesus was later called a Nazarene, which means someone from Nazareth. That was not a compliment. The <a href=\"#t77\">Jews</a> from Judea looked down on the people in Galilee, and even the people within Galilee looked down on people from Nazareth, because it was a small and unimportant town.</p>",
+"content": "<p><b>Nazareth</b> is a small town in the region of <data class=\"resource-ref\" data-content-id=\"eng-t55-v1\" data-resource-code=\"FIAKeyTerms\">Galilee</data>, in the north of <data class=\"resource-ref\" data-content-id=\"eng-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israel</data>. Nazareth does not appear in the Old Testament, and the first time we hear about this town is when we hear that <data class=\"resource-ref\" data-content-id=\"eng-t89-v1\" data-resource-code=\"FIAKeyTerms\">Mary</data> and Joseph, Jesus's parents, came from Nazareth. Jesus was born in a village called <data class=\"resource-ref\" data-content-id=\"eng-t13-v1\" data-resource-code=\"FIAKeyTerms\">Bethlehem</data>, in <data class=\"resource-ref\" data-content-id=\"eng-t81-v2\" data-resource-code=\"FIAKeyTerms\">Judea</data>, but when he was still small Mary and Joseph went to live in Nazareth. Therefore Jesus was later called a Nazarene, which means someone from Nazareth. That was not a compliment. The <data class=\"resource-ref\" data-content-id=\"eng-t77-v2\" data-resource-code=\"FIAKeyTerms\">Jews</data> from Judea looked down on the people in Galilee, and even the people within Galilee looked down on people from Nazareth, because it was a small and unimportant town.</p>",
 "associations": {
 "passage": [
 {
@@ -1271,7 +1347,50 @@
 "end_ref_usfm": "ACT 26:23"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t55-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Galilee",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israel",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t89-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Mary",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t13-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Bethlehem",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t81-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Judea",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t77-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Jews",
+"language": "eng"
+}
+],
 "acai": [
 {
 "id": "place:Nazareth",

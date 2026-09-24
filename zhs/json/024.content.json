@@ -450,6 +450,12 @@
 "end_ref_usfm": "PSA 117:2"
 },
 {
+"start_ref": "23005026",
+"start_ref_usfm": "ISA 5:26",
+"end_ref": "23005030",
+"end_ref_usfm": "ISA 5:30"
+},
+{
 "start_ref": "40021033",
 "start_ref_usfm": "MAT 21:33",
 "end_ref": "40021046",
@@ -575,7 +581,7 @@
 {
 "id": "group:Gentile",
 "type": "group",
-"confidence": 0.5684,
+"confidence": 0.5683,
 "match_method": "scored",
 "preferred_label": "Gentiles"
 }
@@ -1033,6 +1039,12 @@
 "end_ref_usfm": "PSA 117:2"
 },
 {
+"start_ref": "23005026",
+"start_ref_usfm": "ISA 5:26",
+"end_ref": "23005030",
+"end_ref_usfm": "ISA 5:30"
+},
+{
 "start_ref": "40021033",
 "start_ref_usfm": "MAT 21:33",
 "end_ref": "40021046",
@@ -1165,7 +1177,7 @@
 "index_reference": "国",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><b>国</b>是一个<a href=\"#t226\">王</a>所统治的领土或人民。</p>",
+"content": "<p><b>国</b>是一个<data class=\"resource-ref\" data-content-id=\"cmn-t226-v1\" data-resource-code=\"FIAKeyTerms\">王</data>所统治的领土或人民。</p>",
 "associations": {
 "passage": [
 {
@@ -1655,7 +1667,15 @@
 "end_ref_usfm": "ACT 1:11"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t226-v1",
+"resource_code": "FIAKeyTerms",
+"label": "王",
+"language": "zhs"
+}
+],
 "acai": [
 {
 "id": "keyterm:Kingdom",

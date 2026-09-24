@@ -8,7 +8,7 @@
 "index_reference": "鸽子",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><b>鸽子</b>是一种鸟，在<a href=\"#t74\">以色列</a>非常常见。鸽子有不同的类型和大小。有些是白色的，有些则有斑点或有几种颜色。鸽子被认为是一种温柔、和平的鸟。鸽子可以长途飞行，它们非常善于找回到它们所来之处的路。</p><p>神要求<a href=\"#t259\">以色列人</a>在不同的仪式中以动物向祂<a href=\"#t114\">献祭</a>。通常这些动物是绵羊、山羊或公牛。对于穷人来说，这些动物太贵了。因此，神允许人们用一对鸽子献祭。</p><p>当耶稣<a href=\"#t9\">受洗</a>时，<a href=\"#t68\">圣灵</a>看起来好像鸽子，降在祂身上。这并不意味着圣灵是鸽子，只是当时圣灵看起来像鸽子。</p>",
+"content": "<p><b>鸽子</b>是一种鸟，在<data class=\"resource-ref\" data-content-id=\"cmn-t74-v1\" data-resource-code=\"FIAKeyTerms\">以色列</data>非常常见。鸽子有不同的类型和大小。有些是白色的，有些则有斑点或有几种颜色。鸽子被认为是一种温柔、和平的鸟。鸽子可以长途飞行，它们非常善于找回到它们所来之处的路。</p><p>神要求以色列人在不同的仪式中以动物向祂<data class=\"resource-ref\" data-content-id=\"cmn-t114-v1\" data-resource-code=\"FIAKeyTerms\">献祭</data>。通常这些动物是绵羊、山羊或公牛。对于穷人来说，这些动物太贵了。因此，神允许人们用一对鸽子献祭。</p><p>当耶稣<data class=\"resource-ref\" data-content-id=\"cmn-t9-v1\" data-resource-code=\"FIAKeyTerms\">受洗</data>时，<data class=\"resource-ref\" data-content-id=\"cmn-t68-v1\" data-resource-code=\"FIAKeyTerms\">圣灵</data>看起来好像鸽子，降在祂身上。这并不意味着圣灵是鸽子，只是当时圣灵看起来像鸽子。</p>",
 "associations": {
 "passage": [
 {
@@ -36,7 +36,36 @@
 "end_ref_usfm": "LUK 3:22"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t74-v1",
+"resource_code": "FIAKeyTerms",
+"label": "以色列",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t114-v1",
+"resource_code": "FIAKeyTerms",
+"label": "献祭",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t9-v1",
+"resource_code": "FIAKeyTerms",
+"label": "受洗",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t68-v1",
+"resource_code": "FIAKeyTerms",
+"label": "圣灵",
+"language": "zhs"
+}
+],
 "acai": [
 {
 "id": "fauna:Dove",
@@ -97,7 +126,7 @@
 "index_reference": "格拉森人",
 "language": "zhs",
 "review_level": "None",
-"content": "<p>这些都是位于<a href=\"#t121\">加利利海</a>东南岸的地区和该地区内城市的不同名称。住在这里的大多数人都不是<a href=\"#t77\">犹太人</a>。该地区是<a href=\"#t35\">低加坡里</a>的一部分。</p>",
+"content": "<p>这些都是位于<data class=\"resource-ref\" data-content-id=\"cmn-t121-v1\" data-resource-code=\"FIAKeyTerms\">加利利海</data>东南岸的地区和该地区内城市的不同名称。住在这里的大多数人都不是<data class=\"resource-ref\" data-content-id=\"cmn-t77-v1\" data-resource-code=\"FIAKeyTerms\">犹太人</data>。该地区是<data class=\"resource-ref\" data-content-id=\"cmn-t35-v1\" data-resource-code=\"FIAKeyTerms\">低加坡里</data>的一部分。</p>",
 "associations": {
 "passage": [
 {
@@ -107,7 +136,29 @@
 "end_ref_usfm": "MRK 5:20"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t121-v1",
+"resource_code": "FIAKeyTerms",
+"label": "加利利海",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t77-v1",
+"resource_code": "FIAKeyTerms",
+"label": "犹太人",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t35-v1",
+"resource_code": "FIAKeyTerms",
+"label": "低加坡里",
+"language": "zhs"
+}
+],
 "acai": [
 {
 "id": "place:Gerasa",

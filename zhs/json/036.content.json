@@ -8,7 +8,7 @@
 "index_reference": "酒榨",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><b>酒榨</b>是一块扁平的石头，周围有一个壁垒。 <a href=\"#t74\">以色列人</a>用这个方法来把葡萄的汁液压出来。 葡萄是一种软的，多汁的水果。 人们把葡萄倒在这块石头上，然后他们用脚踩踏葡萄。 这会从葡萄中压出果汁。 果汁会流入一个叫做酒桶的容器中。 取出果汁的另一种方法是把一块沉重的石头在葡萄上滚动。</p><div data-type=\"callout\" data-callout-style=\"action\"><p>你可以在圣经可视化词典中查看酒榨的图片。</p></div>",
+"content": "<p><b>酒榨</b>是一块扁平的石头，周围有一个壁垒。 <data class=\"resource-ref\" data-content-id=\"cmn-t74-v1\" data-resource-code=\"FIAKeyTerms\">以色列人</data>用这个方法来把葡萄的汁液压出来。 葡萄是一种软的，多汁的水果。 人们把葡萄倒在这块石头上，然后他们用脚踩踏葡萄。 这会从葡萄中压出果汁。 果汁会流入一个叫做酒桶的容器中。 取出果汁的另一种方法是把一块沉重的石头在葡萄上滚动。</p><div data-type=\"callout\" data-callout-style=\"action\"><p>你可以在圣经可视化词典中查看酒榨的图片。</p></div>",
 "associations": {
 "passage": [
 {
@@ -54,7 +54,15 @@
 "end_ref_usfm": "MRK 12:12"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t74-v1",
+"resource_code": "FIAKeyTerms",
+"label": "以色列人",
+"language": "zhs"
+}
+],
 "acai": [
 {
 "id": "realia:Winepress",
@@ -133,7 +141,7 @@
 "index_reference": "救恩",
 "language": "zhs",
 "review_level": "None",
-"content": "<p>如果你<b>救</b>某人，就是把那人从一个困难或危险的处境中解救出来。</p><p>每当<a href=\"#t259\">以色列人</a>陷入绝望的境地时，例如当一些仇敌攻击他们时，他们就会呼求神拯救他们。 他们希望神帮助他们并保护他们。 如果神不拯救这些子民，他们就会死。</p><p>在新约中，我们学到所有的人都处于绝望的境地，需要神来拯救他们。 神的确拯救了我们。 神拯救我们，因为祂非常爱我们。 神透过差遣祂的儿子耶稣到世界上来拯救了我们。 任何信耶稣的人都会得救。 因此，圣经说耶稣是我们的<a href=\"#t119\">救主</a>。 我们无法救自己。 我们都需要神来拯救我们。 另一种说法是，我们都需要救恩。 神是唯一能赐给人救恩的那一位。 神拯救人，所以我们不再需要害怕。 我们不必再感到羞耻。 我们现在就可以与神建立良好的<a href=\"#t108\">关系</a>，我们可以相信，即使死后，我们也将<a href=\"#t53\">永远</a>与神同住。</p><p><strong>翻译\"救恩\"或\"拯救\"时，请注意以下事项：</strong></p><p>在某些语言中，你可能每次都要说明人们需要<em>从哪里</em>被拯救出来。 例如，你可能需要说神拯救人脱离死亡，或刑罚。 或者你可能需要说，一个人求神拯救他脱离危险，或死亡。 你可能需要在不同的经文中有不同的说明。</p>",
+"content": "<p>如果你<b>救</b>某人，就是把那人从一个困难或危险的处境中解救出来。</p><p>每当以色列人陷入绝望的境地时，例如当一些仇敌攻击他们时，他们就会呼求神拯救他们。 他们希望神帮助他们并保护他们。 如果神不拯救这些子民，他们就会死。</p><p>在新约中，我们学到所有的人都处于绝望的境地，需要神来拯救他们。 神的确拯救了我们。 神拯救我们，因为祂非常爱我们。 神透过差遣祂的儿子耶稣到世界上来拯救了我们。 任何信耶稣的人都会得救。 因此，圣经说耶稣是我们的救主。 我们无法救自己。 我们都需要神来拯救我们。 另一种说法是，我们都需要救恩。 神是唯一能赐给人救恩的那一位。 神拯救人，所以我们不再需要害怕。 我们不必再感到羞耻。 我们现在就可以与神建立良好的关系，我们可以相信，即使死后，我们也将<data class=\"resource-ref\" data-content-id=\"cmn-t53-v1\" data-resource-code=\"FIAKeyTerms\">永远</data>与神同住。</p><p><strong>翻译\"救恩\"或\"拯救\"时，请注意以下事项：</strong></p><p>在某些语言中，你可能每次都要说明人们需要<em>从哪里</em>被拯救出来。 例如，你可能需要说神拯救人脱离死亡，或刑罚。 或者你可能需要说，一个人求神拯救他脱离危险，或死亡。 你可能需要在不同的经文中有不同的说明。</p>",
 "associations": {
 "passage": [
 {
@@ -177,6 +185,12 @@
 "start_ref_usfm": "2SA 23:1",
 "end_ref": "10023007",
 "end_ref_usfm": "2SA 23:7"
+},
+{
+"start_ref": "12014023",
+"start_ref_usfm": "2KI 14:23",
+"end_ref": "12014029",
+"end_ref_usfm": "2KI 14:29"
 },
 {
 "start_ref": "13016023",
@@ -479,12 +493,20 @@
 "end_ref_usfm": "JUD 1:7"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t53-v1",
+"resource_code": "FIAKeyTerms",
+"label": "永远",
+"language": "zhs"
+}
+],
 "acai": [
 {
 "id": "keyterm:Salvation",
 "type": "keyterm",
-"confidence": 0.5978,
+"confidence": 0.5972,
 "match_method": "scored",
 "preferred_label": "Salvation"
 }
@@ -544,6 +566,12 @@
 "start_ref_usfm": "2SA 23:1",
 "end_ref": "10023007",
 "end_ref_usfm": "2SA 23:7"
+},
+{
+"start_ref": "12014023",
+"start_ref_usfm": "2KI 14:23",
+"end_ref": "12014029",
+"end_ref_usfm": "2KI 14:29"
 },
 {
 "start_ref": "13016023",

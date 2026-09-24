@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Familiarization, Internalization, Articulation (FIA) Key Terms</b> © 2025 Word Collective Released under CC BY-SA 4.0 license. <cite>Familiarization, Internalization, Articulation (FIA) Key Terms</cite> has been adapted in the following languages Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Familiarization, Internalization, Articulation (FIA)</cite> © 2025 Word Collective. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "FIAKeyTerms",
-"date_created": "2026-09-18",
+"date_created": "2026-09-23",
 "language": "arb",
 "localizations": [
 "eng",
@@ -39,6 +39,7 @@
 "por",
 "spa",
 "swh",
+"tpi",
 "zht",
 "hin",
 "zhs",
@@ -53,7 +54,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-09-18T08:50:13.840155"
+"dateCreated": "2026-09-23T19:31:57.963882"
 },
 "idAuthorities": {
 "aquifer": {
@@ -67,7 +68,7 @@
 "primary": {
 "aquifer": {
 "FIAKeyTerms": {
-"timestamp": "2026-09-18T08:50:13.840155"
+"timestamp": "2026-09-23T19:31:57.963882"
 }
 }
 },
@@ -99,7 +100,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 217999,
+"size": 106897,
 "scope": {
 "ا": [
 "آلهة",
@@ -144,7 +145,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 83889,
+"size": 39264,
 "scope": {
 "ب": [
 "البرّ",
@@ -164,7 +165,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 36961,
+"size": 16772,
 "scope": {
 "ت": [
 "التقديس",
@@ -180,7 +181,7 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 20125,
+"size": 22407,
 "scope": {
 "ج": [
 "الجحيم (هاديس)",
@@ -193,7 +194,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 27094,
+"size": 13724,
 "scope": {
 "ح": [
 "الحكمة",
@@ -208,7 +209,7 @@
 },
 "json/006.content.json": {
 "mimeType": "text/json",
-"size": 71643,
+"size": 33338,
 "scope": {
 "خ": [
 "الخمر",
@@ -222,7 +223,7 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 92766,
+"size": 41164,
 "scope": {
 "ر": [
 "الراعي",
@@ -245,7 +246,7 @@
 },
 "json/008.content.json": {
 "mimeType": "text/json",
-"size": 4180,
+"size": 3147,
 "scope": {
 "ز": [
 "الزنا"
@@ -254,7 +255,7 @@
 },
 "json/009.content.json": {
 "mimeType": "text/json",
-"size": 67745,
+"size": 33890,
 "scope": {
 "س": [
 "السامرة",
@@ -273,7 +274,7 @@
 },
 "json/010.content.json": {
 "mimeType": "text/json",
-"size": 48562,
+"size": 15934,
 "scope": {
 "ش": [
 "الشر",
@@ -288,7 +289,7 @@
 },
 "json/011.content.json": {
 "mimeType": "text/json",
-"size": 35830,
+"size": 24153,
 "scope": {
 "ص": [
 "الصحراء",
@@ -305,7 +306,7 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 71312,
+"size": 47540,
 "scope": {
 "ع": [
 "العبادة",
@@ -324,7 +325,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 36305,
+"size": 22930,
 "scope": {
 "ف": [
 "الفصح",
@@ -340,7 +341,7 @@
 },
 "json/014.content.json": {
 "mimeType": "text/json",
-"size": 62048,
+"size": 21208,
 "scope": {
 "ق": [
 "القلب",
@@ -361,7 +362,7 @@
 },
 "json/015.content.json": {
 "mimeType": "text/json",
-"size": 66024,
+"size": 37889,
 "scope": {
 "ك": [
 "الكاتب",
@@ -380,7 +381,7 @@
 },
 "json/016.content.json": {
 "mimeType": "text/json",
-"size": 32857,
+"size": 9718,
 "scope": {
 "ل": [
 "الله",
@@ -392,7 +393,7 @@
 },
 "json/017.content.json": {
 "mimeType": "text/json",
-"size": 201017,
+"size": 105218,
 "scope": {
 "م": [
 "المجمع اليهوديّ",
@@ -428,7 +429,7 @@
 },
 "json/018.content.json": {
 "mimeType": "text/json",
-"size": 87003,
+"size": 40901,
 "scope": {
 "ن": [
 "الناصرة",
@@ -447,7 +448,7 @@
 },
 "json/019.content.json": {
 "mimeType": "text/json",
-"size": 31320,
+"size": 29125,
 "scope": {
 "ه": [
 "الهاوية (شيول)",
@@ -458,7 +459,7 @@
 },
 "json/020.content.json": {
 "mimeType": "text/json",
-"size": 12134,
+"size": 1657,
 "scope": {
 "ي": [
 "اليهودية"
@@ -467,7 +468,7 @@
 },
 "json/021.content.json": {
 "mimeType": "text/json",
-"size": 4550,
+"size": 1090,
 "scope": {
 "ث": [
 "ثوب (رداء)"
@@ -476,7 +477,7 @@
 },
 "json/022.content.json": {
 "mimeType": "text/json",
-"size": 18175,
+"size": 16547,
 "scope": {
 "د": [
 "داود",
@@ -488,7 +489,7 @@
 },
 "json/023.content.json": {
 "mimeType": "text/json",
-"size": 27740,
+"size": 10200,
 "scope": {
 "ذ": [
 "ذبيحة",
@@ -499,7 +500,7 @@
 },
 "json/024.content.json": {
 "mimeType": "text/json",
-"size": 13489,
+"size": 10528,
 "scope": {
 "ط": [
 "طاهر/غير طاهر (نجس)",
@@ -509,7 +510,7 @@
 },
 "json/025.content.json": {
 "mimeType": "text/json",
-"size": 8999,
+"size": 3341,
 "scope": {
 "غ": [
 "غفران"
@@ -518,7 +519,7 @@
 },
 "json/026.content.json": {
 "mimeType": "text/json",
-"size": 20663,
+"size": 6000,
 "scope": {
 "و": [
 "وارث",
@@ -529,7 +530,7 @@
 },
 "json/027.content.json": {
 "mimeType": "text/json",
-"size": 90695,
+"size": 66389,
 "scope": {
 "ي": [
 "يُبرِّر",
@@ -553,327 +554,327 @@
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 2996
+"size": 2796
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 33963
+"size": 26521
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 15316
+"size": 11188
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
-"size": 14127
+"size": 14922
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 19388
+"size": 16768
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 11586
+"size": 6385
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 5240
+"size": 2054
 },
 "md/027.content.md": {
 "mimeType": "text/markdown",
-"size": 50932
+"size": 44320
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
-"size": 89959
+"size": 67656
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 19328
+"size": 11819
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 13703
+"size": 10627
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 36448
+"size": 26371
 },
 "md/026.content.md": {
 "mimeType": "text/markdown",
-"size": 9325
+"size": 5624
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 2168
+"size": 1362
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 40747
+"size": 34907
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 32116
+"size": 25142
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
-"size": 40166
+"size": 28262
 },
 "md/023.content.md": {
 "mimeType": "text/markdown",
-"size": 10979
+"size": 6488
 },
 "md/024.content.md": {
 "mimeType": "text/markdown",
-"size": 8753
+"size": 8030
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
-"size": 34807
+"size": 25223
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 98492
+"size": 70971
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 24940
+"size": 14959
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 20259
+"size": 17861
 },
 "md/025.content.md": {
 "mimeType": "text/markdown",
-"size": 4345
+"size": 3128
 },
 "md/022.content.md": {
 "mimeType": "text/markdown",
-"size": 12276
+"size": 11696
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 22117
+"size": 20728
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
-"size": 41813
+"size": 29670
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 62653
+"size": 61653
 },
 "docx/002.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 50154
+"size": 49617
 },
 "docx/003.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45777
+"size": 45519
 },
 "docx/004.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45602
+"size": 45234
 },
 "docx/005.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45510
+"size": 45306
 },
 "docx/006.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 49910
+"size": 49563
 },
 "docx/007.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 50889
+"size": 50319
 },
 "docx/008.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42944
+"size": 42843
 },
 "docx/009.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 50350
+"size": 49925
 },
 "docx/010.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45714
+"size": 45544
 },
 "docx/011.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 47228
+"size": 46946
 },
 "docx/012.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 52244
+"size": 51805
 },
 "docx/013.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 47498
+"size": 47289
 },
 "docx/014.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 47086
+"size": 46717
 },
 "docx/015.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 49630
+"size": 49124
 },
 "docx/016.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44048
+"size": 43830
 },
 "docx/017.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 60632
+"size": 59513
 },
 "docx/018.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 50482
+"size": 50002
 },
 "docx/019.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 48512
+"size": 48093
 },
 "docx/020.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42739
+"size": 42587
 },
 "docx/021.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42355
+"size": 42285
 },
 "docx/022.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45793
+"size": 45527
 },
 "docx/023.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44115
+"size": 43880
 },
 "docx/024.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44630
+"size": 44443
 },
 "docx/025.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43085
+"size": 43014
 },
 "docx/026.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43920
+"size": 43772
 },
 "docx/027.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 55548
+"size": 54728
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
-"size": 518625
+"size": 463720
 },
 "pdf/002.content.pdf": {
 "mimeType": "application/pdf",
-"size": 223809
+"size": 196721
 },
 "pdf/003.content.pdf": {
 "mimeType": "application/pdf",
-"size": 121921
+"size": 112518
 },
 "pdf/004.content.pdf": {
 "mimeType": "application/pdf",
-"size": 134922
+"size": 117837
 },
 "pdf/005.content.pdf": {
 "mimeType": "application/pdf",
-"size": 109012
+"size": 102591
 },
 "pdf/006.content.pdf": {
 "mimeType": "application/pdf",
-"size": 206433
+"size": 190715
 },
 "pdf/007.content.pdf": {
 "mimeType": "application/pdf",
-"size": 232169
+"size": 208302
 },
 "pdf/008.content.pdf": {
 "mimeType": "application/pdf",
-"size": 55871
+"size": 53033
 },
 "pdf/009.content.pdf": {
 "mimeType": "application/pdf",
-"size": 209566
+"size": 193878
 },
 "pdf/010.content.pdf": {
 "mimeType": "application/pdf",
-"size": 123413
+"size": 116766
 },
 "pdf/011.content.pdf": {
 "mimeType": "application/pdf",
-"size": 158325
+"size": 145121
 },
 "pdf/012.content.pdf": {
 "mimeType": "application/pdf",
-"size": 269478
+"size": 245320
 },
 "pdf/013.content.pdf": {
 "mimeType": "application/pdf",
-"size": 155018
+"size": 144618
 },
 "pdf/014.content.pdf": {
 "mimeType": "application/pdf",
-"size": 144129
+"size": 132484
 },
 "pdf/015.content.pdf": {
 "mimeType": "application/pdf",
-"size": 205482
+"size": 183439
 },
 "pdf/016.content.pdf": {
 "mimeType": "application/pdf",
-"size": 81905
+"size": 73041
 },
 "pdf/017.content.pdf": {
 "mimeType": "application/pdf",
-"size": 485888
+"size": 428820
 },
 "pdf/018.content.pdf": {
 "mimeType": "application/pdf",
-"size": 247034
+"size": 225849
 },
 "pdf/019.content.pdf": {
 "mimeType": "application/pdf",
-"size": 177873
+"size": 160526
 },
 "pdf/020.content.pdf": {
 "mimeType": "application/pdf",
-"size": 51607
+"size": 50622
 },
 "pdf/021.content.pdf": {
 "mimeType": "application/pdf",
-"size": 42165
+"size": 41167
 },
 "pdf/022.content.pdf": {
 "mimeType": "application/pdf",
-"size": 116840
+"size": 103723
 },
 "pdf/023.content.pdf": {
 "mimeType": "application/pdf",
-"size": 83628
+"size": 73883
 },
 "pdf/024.content.pdf": {
 "mimeType": "application/pdf",
-"size": 95938
+"size": 88545
 },
 "pdf/025.content.pdf": {
 "mimeType": "application/pdf",
-"size": 61843
+"size": 60385
 },
 "pdf/026.content.pdf": {
 "mimeType": "application/pdf",
-"size": 78946
+"size": 78204
 },
 "pdf/027.content.pdf": {
 "mimeType": "application/pdf",
-"size": 356200
+"size": 313059
 }
 },
 "copyright": {
@@ -932,6 +933,11 @@
 "language": "swh",
 "title": "Abrahamu"
 },
+"tpi": {
+"content_id": "tpi-t1-v1",
+"language": "tpi",
+"title": "abraham"
+},
 "zht": {
 "content_id": "zht-t1-v1",
 "language": "zht",
@@ -984,6 +990,11 @@
 "language": "swh",
 "title": "uzinzi"
 },
+"tpi": {
+"content_id": "tpi-t2-v1",
+"language": "tpi",
+"title": "adultery"
+},
 "zhs": {
 "content_id": "cmn-t2-v1",
 "language": "zhs",
@@ -1030,6 +1041,11 @@
 "content_id": "swh-t3-v1",
 "language": "swh",
 "title": "madhabahu"
+},
+"tpi": {
+"content_id": "tpi-t3-v1",
+"language": "tpi",
+"title": "altar"
 },
 "zht": {
 "content_id": "zht-t3-v1",
@@ -1088,6 +1104,11 @@
 "language": "swh",
 "title": "malaika"
 },
+"tpi": {
+"content_id": "tpi-t4-v1",
+"language": "tpi",
+"title": "angel"
+},
 "zhs": {
 "content_id": "cmn-t4-v1",
 "language": "zhs",
@@ -1140,6 +1161,11 @@
 "language": "swh",
 "title": "mafuta"
 },
+"tpi": {
+"content_id": "tpi-t5-v1",
+"language": "tpi",
+"title": "anoint"
+},
 "zhs": {
 "content_id": "cmn-t5-v1",
 "language": "zhs",
@@ -1191,6 +1217,11 @@
 "content_id": "swh-t6-v1",
 "language": "swh",
 "title": "mtume"
+},
+"tpi": {
+"content_id": "tpi-t6-v1",
+"language": "tpi",
+"title": "apostle"
 },
 "zhs": {
 "content_id": "cmn-t6-v1",
@@ -1249,6 +1280,11 @@
 "language": "swh",
 "title": "mamlaka"
 },
+"tpi": {
+"content_id": "tpi-t8-v1",
+"language": "tpi",
+"title": "authority"
+},
 "zhs": {
 "content_id": "cmn-t8-v1",
 "language": "zhs",
@@ -1306,6 +1342,11 @@
 "language": "swh",
 "title": "ubatizo"
 },
+"tpi": {
+"content_id": "tpi-t9-v1",
+"language": "tpi",
+"title": "baptism"
+},
 "zhs": {
 "content_id": "cmn-t9-v1",
 "language": "zhs",
@@ -1352,6 +1393,11 @@
 "content_id": "swh-t10-v1",
 "language": "swh",
 "title": "kikapu"
+},
+"tpi": {
+"content_id": "tpi-t10-v1",
+"language": "tpi",
+"title": "basket"
 },
 "zhs": {
 "content_id": "cmn-t10-v1",
@@ -1410,6 +1456,11 @@
 "language": "swh",
 "title": "imani"
 },
+"tpi": {
+"content_id": "tpi-t11-v1",
+"language": "tpi",
+"title": "belief"
+},
 "zhs": {
 "content_id": "cmn-t11-v1",
 "language": "zhs",
@@ -1457,6 +1508,11 @@
 "language": "swh",
 "title": "muumini"
 },
+"tpi": {
+"content_id": "tpi-t12-v1",
+"language": "tpi",
+"title": "believer"
+},
 "zht": {
 "content_id": "zht-t12-v1",
 "language": "zht",
@@ -1503,6 +1559,11 @@
 "content_id": "swh-t13-v1",
 "language": "swh",
 "title": "Bethlehemu"
+},
+"tpi": {
+"content_id": "tpi-t13-v1",
+"language": "tpi",
+"title": "bethlehem"
 },
 "zht": {
 "content_id": "zht-t13-v1",
@@ -1556,6 +1617,11 @@
 "language": "swh",
 "title": "Bethsaida"
 },
+"tpi": {
+"content_id": "tpi-t14-v1",
+"language": "tpi",
+"title": "bethsaida"
+},
 "zhs": {
 "content_id": "cmn-t14-v1",
 "language": "zhs",
@@ -1608,6 +1674,11 @@
 "language": "swh",
 "title": "kukufuru"
 },
+"tpi": {
+"content_id": "tpi-t15-v1",
+"language": "tpi",
+"title": "blasphemy"
+},
 "zhs": {
 "content_id": "cmn-t15-v1",
 "language": "zhs",
@@ -1659,6 +1730,11 @@
 "content_id": "swh-t16-v1",
 "language": "swh",
 "title": "bariki"
+},
+"tpi": {
+"content_id": "tpi-t16-v1",
+"language": "tpi",
+"title": "bless"
 },
 "zhs": {
 "content_id": "cmn-t16-v1",
@@ -1717,6 +1793,11 @@
 "language": "swh",
 "title": "mashua"
 },
+"tpi": {
+"content_id": "tpi-t17-v1",
+"language": "tpi",
+"title": "boat"
+},
 "zhs": {
 "content_id": "cmn-t17-v1",
 "language": "zhs",
@@ -1768,6 +1849,11 @@
 "content_id": "swh-t18-v1",
 "language": "swh",
 "title": "upinde"
+},
+"tpi": {
+"content_id": "tpi-t18-v1",
+"language": "tpi",
+"title": "bow"
 },
 "zhs": {
 "content_id": "cmn-t18-v1",
@@ -1821,6 +1907,11 @@
 "language": "swh",
 "title": "Kaisari"
 },
+"tpi": {
+"content_id": "tpi-t19-v1",
+"language": "tpi",
+"title": "caesar"
+},
 "zhs": {
 "content_id": "cmn-t19-v1",
 "language": "zhs",
@@ -1873,6 +1964,11 @@
 "language": "swh",
 "title": "Kaisari Filipi"
 },
+"tpi": {
+"content_id": "tpi-t20-v1",
+"language": "tpi",
+"title": "caeserea-philippi"
+},
 "zhs": {
 "content_id": "cmn-t20-v1",
 "language": "zhs",
@@ -1924,6 +2020,11 @@
 "content_id": "swh-t21-v1",
 "language": "swh",
 "title": "ngamia"
+},
+"tpi": {
+"content_id": "tpi-t21-v1",
+"language": "tpi",
+"title": "camel"
 },
 "zhs": {
 "content_id": "cmn-t21-v1",
@@ -1982,6 +2083,11 @@
 "language": "swh",
 "title": "Kapernaumu"
 },
+"tpi": {
+"content_id": "tpi-t22-v1",
+"language": "tpi",
+"title": "capernaum"
+},
 "zhs": {
 "content_id": "cmn-t22-v1",
 "language": "zhs",
@@ -2039,6 +2145,11 @@
 "language": "swh",
 "title": "Kristo"
 },
+"tpi": {
+"content_id": "tpi-t23-v1",
+"language": "tpi",
+"title": "christ"
+},
 "zhs": {
 "content_id": "cmn-t23-v1",
 "language": "zhs",
@@ -2086,6 +2197,11 @@
 "language": "swh",
 "title": "kanisa"
 },
+"tpi": {
+"content_id": "tpi-t24-v1",
+"language": "tpi",
+"title": "church"
+},
 "zht": {
 "content_id": "zht-t24-v1",
 "language": "zht",
@@ -2132,6 +2248,11 @@
 "content_id": "swh-t25-v1",
 "language": "swh",
 "title": "tohara"
+},
+"tpi": {
+"content_id": "tpi-t25-v1",
+"language": "tpi",
+"title": "circumcision"
 },
 "zht": {
 "content_id": "zht-t25-v1",
@@ -2190,6 +2311,11 @@
 "language": "swh",
 "title": "safi / najisi"
 },
+"tpi": {
+"content_id": "tpi-t26-v1",
+"language": "tpi",
+"title": "clean-unclean"
+},
 "zhs": {
 "content_id": "cmn-t26-v1",
 "language": "zhs",
@@ -2241,6 +2367,11 @@
 "content_id": "swh-t27-v1",
 "language": "swh",
 "title": "joho"
+},
+"tpi": {
+"content_id": "tpi-t27-v1",
+"language": "tpi",
+"title": "cloak"
 },
 "zhs": {
 "content_id": "cmn-t27-v1",
@@ -2294,6 +2425,11 @@
 "language": "swh",
 "title": "jiwe la pembeni"
 },
+"tpi": {
+"content_id": "tpi-t28-v1",
+"language": "tpi",
+"title": "cornerstone"
+},
 "zhs": {
 "content_id": "cmn-t28-v1",
 "language": "zhs",
@@ -2345,6 +2481,11 @@
 "content_id": "swh-t29-v1",
 "language": "swh",
 "title": "agano"
+},
+"tpi": {
+"content_id": "tpi-t29-v1",
+"language": "tpi",
+"title": "covenant"
 },
 "zhs": {
 "content_id": "cmn-t29-v1",
@@ -2398,6 +2539,11 @@
 "language": "swh",
 "title": "msalaba"
 },
+"tpi": {
+"content_id": "tpi-t30-v1",
+"language": "tpi",
+"title": "cross"
+},
 "zhs": {
 "content_id": "cmn-t30-v1",
 "language": "zhs",
@@ -2449,6 +2595,11 @@
 "content_id": "swh-t31-v1",
 "language": "swh",
 "title": "laana"
+},
+"tpi": {
+"content_id": "tpi-t31-v1",
+"language": "tpi",
+"title": "curse"
 },
 "zhs": {
 "content_id": "cmn-t31-v1",
@@ -2502,6 +2653,11 @@
 "language": "swh",
 "title": "Daudi"
 },
+"tpi": {
+"content_id": "tpi-t33-v1",
+"language": "tpi",
+"title": "david"
+},
 "zhs": {
 "content_id": "cmn-t33-v1",
 "language": "zhs",
@@ -2553,6 +2709,11 @@
 "content_id": "swh-t35-v1",
 "language": "swh",
 "title": "Dekapoli"
+},
+"tpi": {
+"content_id": "tpi-t35-v1",
+"language": "tpi",
+"title": "decapolis"
 },
 "zhs": {
 "content_id": "cmn-t35-v1",
@@ -2611,6 +2772,11 @@
 "language": "swh",
 "title": "pepo"
 },
+"tpi": {
+"content_id": "tpi-t36-v1",
+"language": "tpi",
+"title": "demon"
+},
 "zhs": {
 "content_id": "cmn-t36-v1",
 "language": "zhs",
@@ -2662,6 +2828,11 @@
 "content_id": "swh-t37-v1",
 "language": "swh",
 "title": "dinari"
+},
+"tpi": {
+"content_id": "tpi-t37-v1",
+"language": "tpi",
+"title": "denarius"
 },
 "zhs": {
 "content_id": "cmn-t37-v1",
@@ -2720,6 +2891,11 @@
 "language": "swh",
 "title": "jangwa"
 },
+"tpi": {
+"content_id": "tpi-t38-v1",
+"language": "tpi",
+"title": "desert"
+},
 "zhs": {
 "content_id": "cmn-t38-v1",
 "language": "zhs",
@@ -2771,6 +2947,11 @@
 "content_id": "swh-t39-v1",
 "language": "swh",
 "title": "mfuasi"
+},
+"tpi": {
+"content_id": "tpi-t39-v1",
+"language": "tpi",
+"title": "disciple"
 },
 "zhs": {
 "content_id": "cmn-t39-v1",
@@ -2824,6 +3005,11 @@
 "language": "swh",
 "title": "talaka"
 },
+"tpi": {
+"content_id": "tpi-t40-v1",
+"language": "tpi",
+"title": "divorce"
+},
 "zhs": {
 "content_id": "cmn-t40-v1",
 "language": "zhs",
@@ -2875,6 +3061,11 @@
 "content_id": "swh-t41-v1",
 "language": "swh",
 "title": "punda"
+},
+"tpi": {
+"content_id": "tpi-t41-v1",
+"language": "tpi",
+"title": "donkey"
 },
 "zhs": {
 "content_id": "cmn-t41-v1",
@@ -2928,6 +3119,11 @@
 "language": "swh",
 "title": "njiwa"
 },
+"tpi": {
+"content_id": "tpi-t42-v1",
+"language": "tpi",
+"title": "dove"
+},
 "zhs": {
 "content_id": "cmn-t42-v1",
 "language": "zhs",
@@ -2979,6 +3175,11 @@
 "content_id": "swh-t43-v1",
 "language": "swh",
 "title": "mzee"
+},
+"tpi": {
+"content_id": "tpi-t43-v1",
+"language": "tpi",
+"title": "elder"
 },
 "zhs": {
 "content_id": "cmn-t43-v1",
@@ -3032,6 +3233,11 @@
 "language": "swh",
 "title": "Eliya"
 },
+"tpi": {
+"content_id": "tpi-t44-v1",
+"language": "tpi",
+"title": "elijah"
+},
 "zhs": {
 "content_id": "cmn-t44-v1",
 "language": "zhs",
@@ -3079,6 +3285,11 @@
 "language": "swh",
 "title": "Elizabeti"
 },
+"tpi": {
+"content_id": "tpi-t45-v1",
+"language": "tpi",
+"title": "elizabeth"
+},
 "zht": {
 "content_id": "zht-t45-v1",
 "language": "zht",
@@ -3092,7 +3303,7 @@
 "index_reference": "حياة أبدية",
 "localizations": {
 "eng": {
-"content_id": "eng-t46-v1",
+"content_id": "eng-t46-v2",
 "language": "eng",
 "title": "eternal life"
 },
@@ -3130,6 +3341,11 @@
 "content_id": "swh-t46-v1",
 "language": "swh",
 "title": "uzima wa milele"
+},
+"tpi": {
+"content_id": "tpi-t46-v1",
+"language": "tpi",
+"title": "eternal-life"
 },
 "zhs": {
 "content_id": "cmn-t46-v1",
@@ -3182,6 +3398,11 @@
 "content_id": "swh-t47-v1",
 "language": "swh",
 "title": "pepo mbaya"
+},
+"tpi": {
+"content_id": "tpi-t47-v1",
+"language": "tpi",
+"title": "evil-spirit"
 },
 "zhs": {
 "content_id": "cmn-t47-v1",
@@ -3240,6 +3461,11 @@
 "language": "swh",
 "title": "imani"
 },
+"tpi": {
+"content_id": "tpi-t48-v1",
+"language": "tpi",
+"title": "faith"
+},
 "zhs": {
 "content_id": "cmn-t48-v1",
 "language": "zhs",
@@ -3292,6 +3518,11 @@
 "language": "swh",
 "title": "kufunga"
 },
+"tpi": {
+"content_id": "tpi-t49-v1",
+"language": "tpi",
+"title": "fasting"
+},
 "zhs": {
 "content_id": "cmn-t49-v1",
 "language": "zhs",
@@ -3343,6 +3574,11 @@
 "content_id": "swh-t51-v1",
 "language": "swh",
 "title": "mtini"
+},
+"tpi": {
+"content_id": "tpi-t51-v1",
+"language": "tpi",
+"title": "fig-tree"
 },
 "zhs": {
 "content_id": "cmn-t51-v1",
@@ -3401,6 +3637,11 @@
 "language": "swh",
 "title": "nyavu"
 },
+"tpi": {
+"content_id": "tpi-t52-v1",
+"language": "tpi",
+"title": "fishing-net"
+},
 "zhs": {
 "content_id": "cmn-t52-v1",
 "language": "zhs",
@@ -3458,6 +3699,11 @@
 "language": "swh",
 "title": "msamaha"
 },
+"tpi": {
+"content_id": "tpi-t53-v1",
+"language": "tpi",
+"title": "forgiveness"
+},
 "zhs": {
 "content_id": "cmn-t53-v1",
 "language": "zhs",
@@ -3504,6 +3750,11 @@
 "content_id": "swh-t54-v1",
 "language": "swh",
 "title": "Gabrieli"
+},
+"tpi": {
+"content_id": "tpi-t54-v1",
+"language": "tpi",
+"title": "gabriel"
 },
 "zht": {
 "content_id": "zht-t54-v1",
@@ -3562,6 +3813,11 @@
 "language": "swh",
 "title": "Galilaya"
 },
+"tpi": {
+"content_id": "tpi-t55-v1",
+"language": "tpi",
+"title": "galilee"
+},
 "zhs": {
 "content_id": "cmn-t55-v1",
 "language": "zhs",
@@ -3613,6 +3869,11 @@
 "content_id": "swh-t56-v1",
 "language": "swh",
 "title": "Mtu wa Mataifa"
+},
+"tpi": {
+"content_id": "tpi-t56-v1",
+"language": "tpi",
+"title": "gentile"
 },
 "zhs": {
 "content_id": "cmn-t56-v1",
@@ -3666,6 +3927,11 @@
 "language": "swh",
 "title": "Wagerasi"
 },
+"tpi": {
+"content_id": "tpi-t57-v2.1",
+"language": "tpi",
+"title": "gerasenes"
+},
 "zhs": {
 "content_id": "cmn-t57-v1",
 "language": "zhs",
@@ -3717,6 +3983,11 @@
 "content_id": "swh-t58-v1",
 "language": "swh",
 "title": "utukufu"
+},
+"tpi": {
+"content_id": "tpi-t58-v1",
+"language": "tpi",
+"title": "glory"
 },
 "zhs": {
 "content_id": "cmn-t58-v1",
@@ -3775,6 +4046,11 @@
 "language": "swh",
 "title": "injili"
 },
+"tpi": {
+"content_id": "tpi-t60-v1",
+"language": "tpi",
+"title": "gospel"
+},
 "zhs": {
 "content_id": "cmn-t60-v1",
 "language": "zhs",
@@ -3821,6 +4097,11 @@
 "content_id": "swh-t61-v1",
 "language": "swh",
 "title": "neema"
+},
+"tpi": {
+"content_id": "tpi-t61-v1",
+"language": "tpi",
+"title": "grace"
 },
 "zht": {
 "content_id": "zht-t61-v1",
@@ -3879,6 +4160,11 @@
 "language": "swh",
 "title": "kuponya"
 },
+"tpi": {
+"content_id": "tpi-t62-v1",
+"language": "tpi",
+"title": "heal"
+},
 "zhs": {
 "content_id": "cmn-t62-v1",
 "language": "zhs",
@@ -3936,6 +4222,11 @@
 "language": "swh",
 "title": "mbingu"
 },
+"tpi": {
+"content_id": "tpi-t63-v1",
+"language": "tpi",
+"title": "heaven"
+},
 "zhs": {
 "content_id": "cmn-t63-v1",
 "language": "zhs",
@@ -3949,7 +4240,7 @@
 "index_reference": "وارث",
 "localizations": {
 "eng": {
-"content_id": "eng-t64-v1",
+"content_id": "eng-t64-v2",
 "language": "eng",
 "title": "heir"
 },
@@ -3987,6 +4278,11 @@
 "content_id": "swh-t64-v1",
 "language": "swh",
 "title": "mrithi"
+},
+"tpi": {
+"content_id": "tpi-t64-v1",
+"language": "tpi",
+"title": "heir"
 },
 "zhs": {
 "content_id": "cmn-t64-v1",
@@ -4040,6 +4336,11 @@
 "language": "swh",
 "title": "jehanamu"
 },
+"tpi": {
+"content_id": "tpi-t65-v1",
+"language": "tpi",
+"title": "hell"
+},
 "zhs": {
 "content_id": "cmn-t65-v1",
 "language": "zhs",
@@ -4091,6 +4392,11 @@
 "content_id": "swh-t66-v1",
 "language": "swh",
 "title": "Herodia"
+},
+"tpi": {
+"content_id": "tpi-t66-v1",
+"language": "tpi",
+"title": "herodian"
 },
 "zhs": {
 "content_id": "cmn-t66-v1",
@@ -4149,6 +4455,11 @@
 "language": "swh",
 "title": "takatifu"
 },
+"tpi": {
+"content_id": "tpi-t67-v1",
+"language": "tpi",
+"title": "holy"
+},
 "zhs": {
 "content_id": "cmn-t67-v1",
 "language": "zhs",
@@ -4206,6 +4517,11 @@
 "language": "swh",
 "title": "Roho Mtakatifu"
 },
+"tpi": {
+"content_id": "tpi-t68-v1",
+"language": "tpi",
+"title": "holy-spirit"
+},
 "zhs": {
 "content_id": "cmn-t68-v1",
 "language": "zhs",
@@ -4258,6 +4574,11 @@
 "language": "swh",
 "title": "Hosana"
 },
+"tpi": {
+"content_id": "tpi-t69-v1",
+"language": "tpi",
+"title": "hosanna"
+},
 "zhs": {
 "content_id": "cmn-t69-v1",
 "language": "zhs",
@@ -4271,7 +4592,7 @@
 "index_reference": "أهل بيت أسرة",
 "localizations": {
 "eng": {
-"content_id": "eng-t70-v1",
+"content_id": "eng-t70-v2",
 "language": "eng",
 "title": "household"
 },
@@ -4309,6 +4630,11 @@
 "content_id": "swh-t70-v1",
 "language": "swh",
 "title": "kaya"
+},
+"tpi": {
+"content_id": "tpi-t70-v1",
+"language": "tpi",
+"title": "household"
 },
 "zhs": {
 "content_id": "cmn-t70-v1",
@@ -4362,6 +4688,11 @@
 "language": "swh",
 "title": "unafiki"
 },
+"tpi": {
+"content_id": "tpi-t71-v1",
+"language": "tpi",
+"title": "hypocrisy"
+},
 "zhs": {
 "content_id": "cmn-t71-v1",
 "language": "zhs",
@@ -4408,6 +4739,11 @@
 "content_id": "swh-t72-v1",
 "language": "swh",
 "title": "sanamu"
+},
+"tpi": {
+"content_id": "tpi-t72-v1",
+"language": "tpi",
+"title": "idol"
 },
 "zht": {
 "content_id": "zht-t72-v1",
@@ -4461,6 +4797,11 @@
 "language": "swh",
 "title": "Isaya"
 },
+"tpi": {
+"content_id": "tpi-t73-v1",
+"language": "tpi",
+"title": "isaiah"
+},
 "zhs": {
 "content_id": "cmn-t73-v1",
 "language": "zhs",
@@ -4512,6 +4853,11 @@
 "content_id": "swh-t74-v2",
 "language": "swh",
 "title": "Israeli"
+},
+"tpi": {
+"content_id": "tpi-t74-v2",
+"language": "tpi",
+"title": "israel"
 }
 }
 },
@@ -4559,6 +4905,11 @@
 "content_id": "swh-t75-v1",
 "language": "swh",
 "title": "Yakobo"
+},
+"tpi": {
+"content_id": "tpi-t75-v1",
+"language": "tpi",
+"title": "james"
 },
 "zhs": {
 "content_id": "cmn-t75-v1",
@@ -4617,6 +4968,11 @@
 "language": "swh",
 "title": "Yerusalemu"
 },
+"tpi": {
+"content_id": "tpi-t76-v1",
+"language": "tpi",
+"title": "jerusalem"
+},
 "zhs": {
 "content_id": "cmn-t76-v1",
 "language": "zhs",
@@ -4668,6 +5024,11 @@
 "content_id": "swh-t77-v2",
 "language": "swh",
 "title": "Myahudi"
+},
+"tpi": {
+"content_id": "tpi-t77-v2",
+"language": "tpi",
+"title": "jew"
 }
 }
 },
@@ -4715,6 +5076,11 @@
 "content_id": "swh-t78-v1",
 "language": "swh",
 "title": "Yohana"
+},
+"tpi": {
+"content_id": "tpi-t78-v1",
+"language": "tpi",
+"title": "john"
 },
 "zhs": {
 "content_id": "cmn-t78-v1",
@@ -4768,6 +5134,11 @@
 "language": "swh",
 "title": "Yohana Mbatizaji"
 },
+"tpi": {
+"content_id": "tpi-t79-v1",
+"language": "tpi",
+"title": "john-the-baptist"
+},
 "zhs": {
 "content_id": "cmn-t79-v1",
 "language": "zhs",
@@ -4820,6 +5191,11 @@
 "language": "swh",
 "title": "Mto Yordani"
 },
+"tpi": {
+"content_id": "tpi-t80-v1",
+"language": "tpi",
+"title": "jordan-river"
+},
 "zhs": {
 "content_id": "cmn-t80-v1",
 "language": "zhs",
@@ -4833,7 +5209,7 @@
 "index_reference": "اليهودية",
 "localizations": {
 "eng": {
-"content_id": "eng-t81-v1",
+"content_id": "eng-t81-v2",
 "language": "eng",
 "title": "Judea"
 },
@@ -4871,6 +5247,11 @@
 "content_id": "swh-t81-v1",
 "language": "swh",
 "title": "Yudea"
+},
+"tpi": {
+"content_id": "tpi-t81-v1",
+"language": "tpi",
+"title": "judea"
 },
 "zhs": {
 "content_id": "cmn-t81-v1",
@@ -4929,6 +5310,11 @@
 "language": "swh",
 "title": "ufalme wa Mungu"
 },
+"tpi": {
+"content_id": "tpi-t82-v1",
+"language": "tpi",
+"title": "kingdom-of-god"
+},
 "zhs": {
 "content_id": "cmn-t82-v1",
 "language": "zhs",
@@ -4986,6 +5372,11 @@
 "language": "swh",
 "title": "sheria"
 },
+"tpi": {
+"content_id": "tpi-t83-v1",
+"language": "tpi",
+"title": "law"
+},
 "zhs": {
 "content_id": "cmn-t83-v1",
 "language": "zhs",
@@ -5037,6 +5428,11 @@
 "content_id": "swh-t84-v1",
 "language": "swh",
 "title": "jeshi"
+},
+"tpi": {
+"content_id": "tpi-t84-v1",
+"language": "tpi",
+"title": "legion"
 },
 "zhs": {
 "content_id": "cmn-t84-v1",
@@ -5095,6 +5491,11 @@
 "language": "swh",
 "title": "Ukoma"
 },
+"tpi": {
+"content_id": "tpi-t85-v1",
+"language": "tpi",
+"title": "leprosy"
+},
 "zhs": {
 "content_id": "cmn-t85-v1",
 "language": "zhs",
@@ -5146,6 +5547,11 @@
 "content_id": "swh-t87-v1",
 "language": "swh",
 "title": "Bwana"
+},
+"tpi": {
+"content_id": "tpi-t87-v1",
+"language": "tpi",
+"title": "lord"
 },
 "zhs": {
 "content_id": "cmn-t87-v1",
@@ -5199,6 +5605,11 @@
 "language": "swh",
 "title": "Bwana"
 },
+"tpi": {
+"content_id": "tpi-t88-v1",
+"language": "tpi",
+"title": "lord"
+},
 "zhs": {
 "content_id": "cmn-t88-v1",
 "language": "zhs",
@@ -5246,6 +5657,11 @@
 "language": "swh",
 "title": "Maria"
 },
+"tpi": {
+"content_id": "tpi-t89-v1",
+"language": "tpi",
+"title": "mary"
+},
 "zht": {
 "content_id": "zht-t89-v1",
 "language": "zht",
@@ -5292,6 +5708,11 @@
 "content_id": "swh-t90-v1",
 "language": "swh",
 "title": "bwana"
+},
+"tpi": {
+"content_id": "tpi-t90-v1",
+"language": "tpi",
+"title": "master"
 },
 "zht": {
 "content_id": "zht-t90-v1",
@@ -5345,6 +5766,11 @@
 "language": "swh",
 "title": "huruma"
 },
+"tpi": {
+"content_id": "tpi-t91-v1",
+"language": "tpi",
+"title": "mercy"
+},
 "zhs": {
 "content_id": "cmn-t91-v1",
 "language": "zhs",
@@ -5396,6 +5822,11 @@
 "content_id": "swh-t92-v1",
 "language": "swh",
 "title": "Masihi"
+},
+"tpi": {
+"content_id": "tpi-t92-v1",
+"language": "tpi",
+"title": "messiah"
 },
 "zhs": {
 "content_id": "cmn-t92-v1",
@@ -5449,6 +5880,11 @@
 "language": "swh",
 "title": "miujiza"
 },
+"tpi": {
+"content_id": "tpi-t93-v1",
+"language": "tpi",
+"title": "miracles"
+},
 "zhs": {
 "content_id": "cmn-t93-v1",
 "language": "zhs",
@@ -5462,7 +5898,7 @@
 "index_reference": "أمَّة",
 "localizations": {
 "eng": {
-"content_id": "eng-t94-v1",
+"content_id": "eng-t94-v2",
 "language": "eng",
 "title": "nation"
 },
@@ -5500,6 +5936,11 @@
 "content_id": "swh-t94-v1",
 "language": "swh",
 "title": "taifa"
+},
+"tpi": {
+"content_id": "tpi-t94-v1",
+"language": "tpi",
+"title": "nation"
 },
 "zhs": {
 "content_id": "cmn-t94-v1",
@@ -5558,6 +5999,11 @@
 "language": "swh",
 "title": "Nazareti"
 },
+"tpi": {
+"content_id": "tpi-t95-v1",
+"language": "tpi",
+"title": "nazareth"
+},
 "zhs": {
 "content_id": "cmn-t95-v1",
 "language": "zhs",
@@ -5609,6 +6055,11 @@
 "content_id": "swh-t96-v1",
 "language": "swh",
 "title": "kiapo"
+},
+"tpi": {
+"content_id": "tpi-t96-v1",
+"language": "tpi",
+"title": "oath"
 },
 "zhs": {
 "content_id": "cmn-t96-v1",
@@ -5662,6 +6113,11 @@
 "language": "swh",
 "title": "taa ya mafuta"
 },
+"tpi": {
+"content_id": "tpi-t97-v1",
+"language": "tpi",
+"title": "oil-lamp"
+},
 "zhs": {
 "content_id": "cmn-t97-v1",
 "language": "zhs",
@@ -5714,6 +6170,11 @@
 "language": "swh",
 "title": "mfano"
 },
+"tpi": {
+"content_id": "tpi-t98-v1",
+"language": "tpi",
+"title": "parable"
+},
 "zhs": {
 "content_id": "cmn-t98-v1",
 "language": "zhs",
@@ -5761,6 +6222,11 @@
 "language": "swh",
 "title": "paradiso"
 },
+"tpi": {
+"content_id": "tpi-t99-v1",
+"language": "tpi",
+"title": "paradise"
+},
 "zht": {
 "content_id": "zht-t99-v1",
 "language": "zht",
@@ -5807,6 +6273,11 @@
 "content_id": "swh-t100-v1",
 "language": "swh",
 "title": "Farisayo"
+},
+"tpi": {
+"content_id": "tpi-t100-v1",
+"language": "tpi",
+"title": "pharisee"
 },
 "zhs": {
 "content_id": "cmn-t100-v1",
@@ -5865,6 +6336,11 @@
 "language": "swh",
 "title": "pagawa"
 },
+"tpi": {
+"content_id": "tpi-t101-v1",
+"language": "tpi",
+"title": "possessed"
+},
 "zhs": {
 "content_id": "cmn-t101-v1",
 "language": "zhs",
@@ -5916,6 +6392,11 @@
 "content_id": "swh-t102-v1",
 "language": "swh",
 "title": "sali"
+},
+"tpi": {
+"content_id": "tpi-t102-v1",
+"language": "tpi",
+"title": "pray"
 },
 "zhs": {
 "content_id": "cmn-t102-v1",
@@ -5969,6 +6450,11 @@
 "language": "swh",
 "title": "kuhani"
 },
+"tpi": {
+"content_id": "tpi-t103-v1",
+"language": "tpi",
+"title": "priest"
+},
 "zhs": {
 "content_id": "cmn-t103-v1",
 "language": "zhs",
@@ -6020,6 +6506,11 @@
 "content_id": "swh-t104-v1",
 "language": "swh",
 "title": "nabii"
+},
+"tpi": {
+"content_id": "tpi-t104-v1",
+"language": "tpi",
+"title": "prophet"
 },
 "zhs": {
 "content_id": "cmn-t104-v1",
@@ -6073,6 +6564,11 @@
 "language": "swh",
 "title": "fidia"
 },
+"tpi": {
+"content_id": "tpi-t105-v1",
+"language": "tpi",
+"title": "ransom"
+},
 "zhs": {
 "content_id": "cmn-t105-v1",
 "language": "zhs",
@@ -6120,6 +6616,11 @@
 "language": "swh",
 "title": "rabi"
 },
+"tpi": {
+"content_id": "tpi-t106-v1",
+"language": "tpi",
+"title": "rabbi"
+},
 "zhs": {
 "content_id": "cmn-t106-v1",
 "language": "zhs",
@@ -6133,7 +6634,7 @@
 "index_reference": "يفدي",
 "localizations": {
 "eng": {
-"content_id": "eng-t107-v1",
+"content_id": "eng-t107-v2",
 "language": "eng",
 "title": "redeem"
 },
@@ -6166,6 +6667,11 @@
 "content_id": "swh-t107-v1",
 "language": "swh",
 "title": "kukomboa"
+},
+"tpi": {
+"content_id": "tpi-t107-v1",
+"language": "tpi",
+"title": "redeem"
 },
 "zht": {
 "content_id": "zht-t107-v1",
@@ -6219,6 +6725,11 @@
 "language": "swh",
 "title": "toba"
 },
+"tpi": {
+"content_id": "tpi-t109-v1",
+"language": "tpi",
+"title": "repentance"
+},
 "zhs": {
 "content_id": "cmn-t109-v1",
 "language": "zhs",
@@ -6271,6 +6782,11 @@
 "language": "swh",
 "title": "ufufuo"
 },
+"tpi": {
+"content_id": "tpi-t110-v1",
+"language": "tpi",
+"title": "resurrection"
+},
 "zhs": {
 "content_id": "cmn-t110-v1",
 "language": "zhs",
@@ -6284,7 +6800,7 @@
 "index_reference": "البرّ",
 "localizations": {
 "eng": {
-"content_id": "eng-t111-v1",
+"content_id": "eng-t111-v2",
 "language": "eng",
 "title": "righteousness"
 },
@@ -6322,6 +6838,11 @@
 "content_id": "swh-t111-v1",
 "language": "swh",
 "title": "kuwa mwenye haki"
+},
+"tpi": {
+"content_id": "tpi-t111-v1",
+"language": "tpi",
+"title": "righteousness"
 },
 "zhs": {
 "content_id": "cmn-t111-v1",
@@ -6375,6 +6896,11 @@
 "language": "swh",
 "title": "vazi"
 },
+"tpi": {
+"content_id": "tpi-t112-v1",
+"language": "tpi",
+"title": "robe"
+},
 "zhs": {
 "content_id": "cmn-t112-v1",
 "language": "zhs",
@@ -6388,7 +6914,7 @@
 "index_reference": "السبت",
 "localizations": {
 "eng": {
-"content_id": "eng-t113-v1",
+"content_id": "eng-t113-v2",
 "language": "eng",
 "title": "sabbath"
 },
@@ -6431,6 +6957,11 @@
 "content_id": "swh-t113-v1",
 "language": "swh",
 "title": "sabato"
+},
+"tpi": {
+"content_id": "tpi-t113-v1",
+"language": "tpi",
+"title": "sabbath"
 },
 "zhs": {
 "content_id": "cmn-t113-v1",
@@ -6484,6 +7015,11 @@
 "language": "swh",
 "title": "dhabihu"
 },
+"tpi": {
+"content_id": "tpi-t114-v1",
+"language": "tpi",
+"title": "sacrifice"
+},
 "zhs": {
 "content_id": "cmn-t114-v1",
 "language": "zhs",
@@ -6535,6 +7071,11 @@
 "content_id": "swh-t115-v1",
 "language": "swh",
 "title": "Masadukayo"
+},
+"tpi": {
+"content_id": "tpi-t115-v1",
+"language": "tpi",
+"title": "sadducee"
 },
 "zhs": {
 "content_id": "cmn-t115-v1",
@@ -6588,6 +7129,11 @@
 "language": "swh",
 "title": "wokovu"
 },
+"tpi": {
+"content_id": "tpi-t116-v1",
+"language": "tpi",
+"title": "salvation"
+},
 "zhs": {
 "content_id": "cmn-t116-v1",
 "language": "zhs",
@@ -6634,6 +7180,11 @@
 "content_id": "swh-t117-v1",
 "language": "swh",
 "title": "patakatifu"
+},
+"tpi": {
+"content_id": "tpi-t117-v1",
+"language": "tpi",
+"title": "sanctuary"
 },
 "zht": {
 "content_id": "zht-t117-v1",
@@ -6692,6 +7243,11 @@
 "language": "swh",
 "title": "Shetani"
 },
+"tpi": {
+"content_id": "tpi-t118-v1",
+"language": "tpi",
+"title": "satan"
+},
 "zhs": {
 "content_id": "cmn-t118-v1",
 "language": "zhs",
@@ -6738,6 +7294,11 @@
 "content_id": "swh-t119-v1",
 "language": "swh",
 "title": "Mwokozi"
+},
+"tpi": {
+"content_id": "tpi-t119-v1",
+"language": "tpi",
+"title": "savior"
 },
 "zht": {
 "content_id": "zht-t119-v1",
@@ -6790,6 +7351,11 @@
 "content_id": "swh-t120-v1",
 "language": "swh",
 "title": "maandiko"
+},
+"tpi": {
+"content_id": "tpi-t120-v1",
+"language": "tpi",
+"title": "scriptures"
 },
 "zhs": {
 "content_id": "cmn-t120-v1",
@@ -6848,6 +7414,11 @@
 "language": "swh",
 "title": "Bahari ya Galilaya"
 },
+"tpi": {
+"content_id": "tpi-t121-v1",
+"language": "tpi",
+"title": "sea-of-galilee"
+},
 "zhs": {
 "content_id": "cmn-t121-v1",
 "language": "zhs",
@@ -6900,6 +7471,11 @@
 "language": "swh",
 "title": "mbegu"
 },
+"tpi": {
+"content_id": "tpi-t122-v1",
+"language": "tpi",
+"title": "seed"
+},
 "zhs": {
 "content_id": "cmn-t122-v1",
 "language": "zhs",
@@ -6913,7 +7489,7 @@
 "index_reference": "خادم",
 "localizations": {
 "eng": {
-"content_id": "eng-t123-v2",
+"content_id": "eng-t123-v3",
 "language": "eng",
 "title": "servant"
 },
@@ -6951,6 +7527,11 @@
 "content_id": "swh-t123-v2",
 "language": "swh",
 "title": "mtumishi"
+},
+"tpi": {
+"content_id": "tpi-t123-v2",
+"language": "tpi",
+"title": "servant"
 },
 "zhs": {
 "content_id": "cmn-t123-v2",
@@ -7003,6 +7584,11 @@
 "content_id": "swh-t124-v1",
 "language": "swh",
 "title": "makazi"
+},
+"tpi": {
+"content_id": "tpi-t124-v1",
+"language": "tpi",
+"title": "shelter"
 },
 "zhs": {
 "content_id": "cmn-t124-v1",
@@ -7061,6 +7647,11 @@
 "language": "swh",
 "title": "Dhambi"
 },
+"tpi": {
+"content_id": "tpi-t125-v1",
+"language": "tpi",
+"title": "sin"
+},
 "zhs": {
 "content_id": "cmn-t125-v1",
 "language": "zhs",
@@ -7074,7 +7665,7 @@
 "index_reference": "عبد",
 "localizations": {
 "eng": {
-"content_id": "eng-t126-v2",
+"content_id": "eng-t126-v3",
 "language": "eng",
 "title": "slave"
 },
@@ -7113,6 +7704,11 @@
 "language": "swh",
 "title": "mtumwa"
 },
+"tpi": {
+"content_id": "tpi-t126-v2",
+"language": "tpi",
+"title": "slave"
+},
 "zhs": {
 "content_id": "cmn-t126-v2",
 "language": "zhs",
@@ -7126,7 +7722,7 @@
 "index_reference": "ابن",
 "localizations": {
 "eng": {
-"content_id": "eng-t127-v1",
+"content_id": "eng-t127-v2",
 "language": "eng",
 "title": "son"
 },
@@ -7164,6 +7760,11 @@
 "content_id": "swh-t127-v1",
 "language": "swh",
 "title": "mwana"
+},
+"tpi": {
+"content_id": "tpi-t127-v1",
+"language": "tpi",
+"title": "son"
 },
 "zhs": {
 "content_id": "cmn-t127-v1",
@@ -7216,6 +7817,11 @@
 "content_id": "swh-t128-v1",
 "language": "swh",
 "title": "Mwana wa Daudi"
+},
+"tpi": {
+"content_id": "tpi-t128-v1",
+"language": "tpi",
+"title": "son-of-david"
 },
 "zhs": {
 "content_id": "cmn-t128-v1",
@@ -7274,6 +7880,11 @@
 "language": "swh",
 "title": "Mwana wa Mungu"
 },
+"tpi": {
+"content_id": "tpi-t129-v1",
+"language": "tpi",
+"title": "son-of-god"
+},
 "zhs": {
 "content_id": "cmn-t129-v1",
 "language": "zhs",
@@ -7325,6 +7936,11 @@
 "content_id": "swh-t130-v1",
 "language": "swh",
 "title": "Mwana wa Adamu"
+},
+"tpi": {
+"content_id": "tpi-t130-v1",
+"language": "tpi",
+"title": "son-of-man"
 },
 "zhs": {
 "content_id": "cmn-t130-v1",
@@ -7378,6 +7994,11 @@
 "language": "swh",
 "title": "nafsi"
 },
+"tpi": {
+"content_id": "tpi-t131-v1",
+"language": "tpi",
+"title": "soul"
+},
 "zhs": {
 "content_id": "cmn-t131-v1",
 "language": "zhs",
@@ -7429,6 +8050,11 @@
 "content_id": "swh-t132-v1",
 "language": "swh",
 "title": "roho"
+},
+"tpi": {
+"content_id": "tpi-t132-v1",
+"language": "tpi",
+"title": "spirit"
 },
 "zhs": {
 "content_id": "cmn-t132-v1",
@@ -7482,6 +8108,11 @@
 "language": "swh",
 "title": "sinagogi"
 },
+"tpi": {
+"content_id": "tpi-t133-v1",
+"language": "tpi",
+"title": "synagogue"
+},
 "zhs": {
 "content_id": "cmn-t133-v1",
 "language": "zhs",
@@ -7533,6 +8164,11 @@
 "content_id": "swh-t134-v1",
 "language": "swh",
 "title": "mtawala wa sinagogi"
+},
+"tpi": {
+"content_id": "tpi-t134-v1",
+"language": "tpi",
+"title": "synagogue-ruler"
 },
 "zhs": {
 "content_id": "cmn-t134-v1",
@@ -7586,6 +8222,11 @@
 "language": "swh",
 "title": "Foinike ya Siria"
 },
+"tpi": {
+"content_id": "tpi-t135-v1",
+"language": "tpi",
+"title": "syrian-phoenicia"
+},
 "zhs": {
 "content_id": "cmn-t135-v1",
 "language": "zhs",
@@ -7637,6 +8278,11 @@
 "content_id": "swh-t136-v1",
 "language": "swh",
 "title": "mwalimu"
+},
+"tpi": {
+"content_id": "tpi-t136-v1",
+"language": "tpi",
+"title": "teacher"
 },
 "zhs": {
 "content_id": "cmn-t136-v1",
@@ -7695,6 +8341,11 @@
 "language": "swh",
 "title": "walimu wa sheria"
 },
+"tpi": {
+"content_id": "tpi-t137-v1",
+"language": "tpi",
+"title": "teachers-of-the-law"
+},
 "zhs": {
 "content_id": "cmn-t137-v1",
 "language": "zhs",
@@ -7746,6 +8397,11 @@
 "content_id": "swh-t138-v1",
 "language": "swh",
 "title": "hekalu"
+},
+"tpi": {
+"content_id": "tpi-t138-v1",
+"language": "tpi",
+"title": "temple"
 },
 "zhs": {
 "content_id": "cmn-t138-v1",
@@ -7799,6 +8455,11 @@
 "language": "swh",
 "title": "wapangaji"
 },
+"tpi": {
+"content_id": "tpi-t139-v1",
+"language": "tpi",
+"title": "tenants"
+},
 "zhs": {
 "content_id": "cmn-t139-v1",
 "language": "zhs",
@@ -7850,6 +8511,11 @@
 "content_id": "swh-t140-v1",
 "language": "swh",
 "title": "kaburi"
+},
+"tpi": {
+"content_id": "tpi-t140-v1",
+"language": "tpi",
+"title": "tomb"
 },
 "zhs": {
 "content_id": "cmn-t140-v1",
@@ -7903,6 +8569,11 @@
 "language": "swh",
 "title": "Tiro"
 },
+"tpi": {
+"content_id": "tpi-t141-v1",
+"language": "tpi",
+"title": "tyre"
+},
 "zhs": {
 "content_id": "cmn-t141-v1",
 "language": "zhs",
@@ -7955,6 +8626,11 @@
 "language": "swh",
 "title": "shamba la mizabibu"
 },
+"tpi": {
+"content_id": "tpi-t142-v1",
+"language": "tpi",
+"title": "vineyard"
+},
 "zhs": {
 "content_id": "cmn-t142-v1",
 "language": "zhs",
@@ -8001,6 +8677,11 @@
 "content_id": "swh-t143-v1",
 "language": "swh",
 "title": "maono"
+},
+"tpi": {
+"content_id": "tpi-t143-v1",
+"language": "tpi",
+"title": "vision"
 },
 "zht": {
 "content_id": "zht-t143-v1",
@@ -8054,6 +8735,11 @@
 "language": "swh",
 "title": "mnara wa ulinzi"
 },
+"tpi": {
+"content_id": "tpi-t144-v1",
+"language": "tpi",
+"title": "watchtower"
+},
 "zhs": {
 "content_id": "cmn-t144-v1",
 "language": "zhs",
@@ -8105,6 +8791,11 @@
 "content_id": "swh-t145-v1",
 "language": "swh",
 "title": "jangwa"
+},
+"tpi": {
+"content_id": "tpi-t145-v1",
+"language": "tpi",
+"title": "wilderness"
 },
 "zhs": {
 "content_id": "cmn-t145-v1",
@@ -8158,6 +8849,11 @@
 "language": "swh",
 "title": "shinikizo la mvinyo"
 },
+"tpi": {
+"content_id": "tpi-t146-v1",
+"language": "tpi",
+"title": "winepress"
+},
 "zhs": {
 "content_id": "cmn-t146-v1",
 "language": "zhs",
@@ -8203,6 +8899,11 @@
 "spa": {
 "content_id": "spa-t147-v1",
 "language": "spa",
+"title": "wisdom"
+},
+"tpi": {
+"content_id": "tpi-t147-v1",
+"language": "tpi",
 "title": "wisdom"
 },
 "zhs": {
@@ -8257,6 +8958,11 @@
 "language": "swh",
 "title": "Neno"
 },
+"tpi": {
+"content_id": "tpi-t148-v1",
+"language": "tpi",
+"title": "word"
+},
 "zhs": {
 "content_id": "cmn-t148-v1",
 "language": "zhs",
@@ -8303,6 +9009,11 @@
 "content_id": "swh-t149-v1",
 "language": "swh",
 "title": "ibada"
+},
+"tpi": {
+"content_id": "tpi-t149-v1",
+"language": "tpi",
+"title": "worship"
 },
 "zht": {
 "content_id": "zht-t149-v1",
@@ -8356,6 +9067,11 @@
 "language": "swh",
 "title": "moyo"
 },
+"tpi": {
+"content_id": "tpi-t150-v1",
+"language": "tpi",
+"title": "heart"
+},
 "zhs": {
 "content_id": "cmn-t150-v1",
 "language": "zhs",
@@ -8408,6 +9124,11 @@
 "language": "swh",
 "title": "akili"
 },
+"tpi": {
+"content_id": "tpi-t151-v1",
+"language": "tpi",
+"title": "mind"
+},
 "zhs": {
 "content_id": "cmn-t151-v1",
 "language": "zhs",
@@ -8421,7 +9142,7 @@
 "index_reference": "قوة",
 "localizations": {
 "eng": {
-"content_id": "eng-t152-v1",
+"content_id": "eng-t152-v2",
 "language": "eng",
 "title": "strength"
 },
@@ -8459,6 +9180,11 @@
 "content_id": "swh-t152-v1",
 "language": "swh",
 "title": "nguvu"
+},
+"tpi": {
+"content_id": "tpi-t152-v1",
+"language": "tpi",
+"title": "strength"
 },
 "zhs": {
 "content_id": "cmn-t152-v1",
@@ -8512,6 +9238,11 @@
 "language": "swh",
 "title": "sadaka kuteketezwa"
 },
+"tpi": {
+"content_id": "tpi-t154-v1",
+"language": "tpi",
+"title": "burnt-offering"
+},
 "zhs": {
 "content_id": "cmn-t154-v1",
 "language": "zhs",
@@ -8563,6 +9294,11 @@
 "content_id": "swh-t155-v1",
 "language": "swh",
 "title": "mwandishi"
+},
+"tpi": {
+"content_id": "tpi-t155-v1",
+"language": "tpi",
+"title": "scribe"
 },
 "zhs": {
 "content_id": "cmn-t155-v1",
@@ -8616,6 +9352,11 @@
 "language": "swh",
 "title": "ishara"
 },
+"tpi": {
+"content_id": "tpi-t156-v1",
+"language": "tpi",
+"title": "sign"
+},
 "zhs": {
 "content_id": "cmn-t156-v1",
 "language": "zhs",
@@ -8668,6 +9409,11 @@
 "language": "swh",
 "title": "ufalme"
 },
+"tpi": {
+"content_id": "tpi-t157-v1",
+"language": "tpi",
+"title": "kingdom"
+},
 "zhs": {
 "content_id": "cmn-t157-v1",
 "language": "zhs",
@@ -8715,6 +9461,11 @@
 "language": "swh",
 "title": "Nyumba ya Daudi"
 },
+"tpi": {
+"content_id": "tpi-t158-v1",
+"language": "tpi",
+"title": "house-of-david"
+},
 "zht": {
 "content_id": "zht-t158-v1",
 "language": "zht",
@@ -8761,6 +9512,11 @@
 "content_id": "swh-t159-v1",
 "language": "swh",
 "title": "hoteli"
+},
+"tpi": {
+"content_id": "tpi-t159-v1",
+"language": "tpi",
+"title": "inn"
 },
 "zht": {
 "content_id": "zht-t159-v1",
@@ -8814,6 +9570,11 @@
 "language": "swh",
 "title": "habari njema"
 },
+"tpi": {
+"content_id": "tpi-t160-v1",
+"language": "tpi",
+"title": "good-news"
+},
 "zhs": {
 "content_id": "cmn-t160-v1",
 "language": "zhs",
@@ -8860,6 +9621,11 @@
 "content_id": "swh-t161-v1",
 "language": "swh",
 "title": "amani"
+},
+"tpi": {
+"content_id": "tpi-t161-v1",
+"language": "tpi",
+"title": "peace"
 },
 "zht": {
 "content_id": "zht-t161-v1",
@@ -8913,6 +9679,11 @@
 "language": "swh",
 "title": "Pasaka"
 },
+"tpi": {
+"content_id": "tpi-t162-v1",
+"language": "tpi",
+"title": "passover"
+},
 "zhs": {
 "content_id": "cmn-t162-v1",
 "language": "zhs",
@@ -8959,6 +9730,11 @@
 "content_id": "swh-t163-v1",
 "language": "swh",
 "title": "sadaka ya utakaso au sherehe"
+},
+"tpi": {
+"content_id": "tpi-t163-v1",
+"language": "tpi",
+"title": "purification-offering-or-ceremony"
 },
 "zht": {
 "content_id": "zht-t163-v1",
@@ -9012,6 +9788,11 @@
 "language": "swh",
 "title": "Tamasha la Mikate isiyotiwa chachu"
 },
+"tpi": {
+"content_id": "tpi-t164-v1",
+"language": "tpi",
+"title": "festival-of-unleavened-bread"
+},
 "zhs": {
 "content_id": "cmn-t164-v1",
 "language": "zhs",
@@ -9063,6 +9844,11 @@
 "content_id": "swh-t165-v1",
 "language": "swh",
 "title": "tenzi"
+},
+"tpi": {
+"content_id": "tpi-t165-v1",
+"language": "tpi",
+"title": "hymn"
 },
 "zhs": {
 "content_id": "cmn-t165-v1",
@@ -9116,6 +9902,11 @@
 "language": "swh",
 "title": "mchungaji"
 },
+"tpi": {
+"content_id": "tpi-t166-v1",
+"language": "tpi",
+"title": "shepherd"
+},
 "zhs": {
 "content_id": "cmn-t166-v1",
 "language": "zhs",
@@ -9166,6 +9957,11 @@
 "swh": {
 "content_id": "swh-t167-v1",
 "language": "swh",
+"title": "abba"
+},
+"tpi": {
+"content_id": "tpi-t167-v1",
+"language": "tpi",
 "title": "abba"
 },
 "zhs": {
@@ -9220,6 +10016,11 @@
 "language": "swh",
 "title": "koti ya kiyahudi"
 },
+"tpi": {
+"content_id": "tpi-t168-v1",
+"language": "tpi",
+"title": "sanhedrin"
+},
 "zhs": {
 "content_id": "cmn-t168-v1",
 "language": "zhs",
@@ -9271,6 +10072,11 @@
 "content_id": "swh-t169-v1",
 "language": "swh",
 "title": "kusulubiwa"
+},
+"tpi": {
+"content_id": "tpi-t169-v1",
+"language": "tpi",
+"title": "crucifixion"
 },
 "zhs": {
 "content_id": "cmn-t169-v1",
@@ -9324,6 +10130,11 @@
 "language": "swh",
 "title": "akida"
 },
+"tpi": {
+"content_id": "tpi-t170-v1",
+"language": "tpi",
+"title": "centurion"
+},
 "zhs": {
 "content_id": "cmn-t170-v1",
 "language": "zhs",
@@ -9376,6 +10187,11 @@
 "language": "swh",
 "title": "mafuta"
 },
+"tpi": {
+"content_id": "tpi-t171-v1",
+"language": "tpi",
+"title": "anoint"
+},
 "zhs": {
 "content_id": "cmn-t171-v1",
 "language": "zhs",
@@ -9422,6 +10238,11 @@
 "content_id": "swh-t172-v1",
 "language": "swh",
 "title": "nasaba"
+},
+"tpi": {
+"content_id": "tpi-t172-v1",
+"language": "tpi",
+"title": "genealogy"
 },
 "zht": {
 "content_id": "zht-t172-v1",
@@ -9475,6 +10296,11 @@
 "language": "swh",
 "title": "vizazi"
 },
+"tpi": {
+"content_id": "tpi-t173-v1",
+"language": "tpi",
+"title": "generations"
+},
 "zhs": {
 "content_id": "cmn-t173-v1",
 "language": "zhs",
@@ -9521,6 +10347,11 @@
 "content_id": "swh-t174-v1",
 "language": "swh",
 "title": "Yahweh"
+},
+"tpi": {
+"content_id": "tpi-t174-v1",
+"language": "tpi",
+"title": "yahweh"
 },
 "zht": {
 "content_id": "zht-t174-v1",
@@ -9569,6 +10400,11 @@
 "language": "swh",
 "title": "Mkristo"
 },
+"tpi": {
+"content_id": "tpi-t175-v1",
+"language": "tpi",
+"title": "christian"
+},
 "zht": {
 "content_id": "zht-t175-v1",
 "language": "zht",
@@ -9615,6 +10451,11 @@
 "content_id": "swh-t176-v1",
 "language": "swh",
 "title": "mwinjilisti"
+},
+"tpi": {
+"content_id": "tpi-t176-v1",
+"language": "tpi",
+"title": "evangelist"
 },
 "zht": {
 "content_id": "zht-t176-v1",
@@ -9663,6 +10504,11 @@
 "language": "swh",
 "title": "dhiraa"
 },
+"tpi": {
+"content_id": "tpi-t177-v1",
+"language": "tpi",
+"title": "cubit"
+},
 "zht": {
 "content_id": "zht-t177-v1",
 "language": "zht",
@@ -9710,6 +10556,11 @@
 "language": "swh",
 "title": "Kanaani"
 },
+"tpi": {
+"content_id": "tpi-t178-v1",
+"language": "tpi",
+"title": "canaan"
+},
 "zht": {
 "content_id": "zht-t178-v1",
 "language": "zht",
@@ -9756,6 +10607,11 @@
 "content_id": "swh-t179-v1",
 "language": "swh",
 "title": "farao"
+},
+"tpi": {
+"content_id": "tpi-t179-v1",
+"language": "tpi",
+"title": "pharaoh"
 },
 "zht": {
 "content_id": "zht-t179-v1",
@@ -9809,6 +10665,11 @@
 "language": "swh",
 "title": "kimau"
 },
+"tpi": {
+"content_id": "tpi-t180-v2",
+"language": "tpi",
+"title": "tunic"
+},
 "zhs": {
 "content_id": "cmn-t180-v1",
 "language": "zhs",
@@ -9861,6 +10722,11 @@
 "language": "swh",
 "title": "ibilisi"
 },
+"tpi": {
+"content_id": "tpi-t181-v1",
+"language": "tpi",
+"title": "devil"
+},
 "zhs": {
 "content_id": "cmn-t181-v1",
 "language": "zhs",
@@ -9907,6 +10773,11 @@
 "content_id": "swh-t182-v1",
 "language": "swh",
 "title": "methali"
+},
+"tpi": {
+"content_id": "tpi-t182-v1",
+"language": "tpi",
+"title": "proverb"
 },
 "zht": {
 "content_id": "zht-t182-v1",
@@ -9960,6 +10831,11 @@
 "language": "swh",
 "title": "nyumba ya Mungu"
 },
+"tpi": {
+"content_id": "tpi-t183-v1",
+"language": "tpi",
+"title": "house-of-god"
+},
 "zhs": {
 "content_id": "cmn-t183-v1",
 "language": "zhs",
@@ -10012,6 +10888,11 @@
 "language": "swh",
 "title": "hema"
 },
+"tpi": {
+"content_id": "tpi-t184-v1",
+"language": "tpi",
+"title": "tabernacle"
+},
 "zhs": {
 "content_id": "cmn-t184-v1",
 "language": "zhs",
@@ -10059,6 +10940,11 @@
 "language": "swh",
 "title": "kumcha Mungu"
 },
+"tpi": {
+"content_id": "tpi-t185-v1",
+"language": "tpi",
+"title": "fear-of-god"
+},
 "zht": {
 "content_id": "zht-t185-v1",
 "language": "zht",
@@ -10105,6 +10991,11 @@
 "content_id": "swh-t186-v1",
 "language": "swh",
 "title": "mateso"
+},
+"tpi": {
+"content_id": "tpi-t186-v1",
+"language": "tpi",
+"title": "persecution"
 },
 "zht": {
 "content_id": "zht-t186-v1",
@@ -10158,6 +11049,11 @@
 "language": "swh",
 "title": "uovu"
 },
+"tpi": {
+"content_id": "tpi-t187-v1",
+"language": "tpi",
+"title": "evil"
+},
 "zhs": {
 "content_id": "cmn-t187-v1",
 "language": "zhs",
@@ -10204,6 +11100,11 @@
 "content_id": "swh-t188-v1",
 "language": "swh",
 "title": "mtakatifu"
+},
+"tpi": {
+"content_id": "tpi-t188-v1",
+"language": "tpi",
+"title": "saint"
 },
 "zht": {
 "content_id": "zht-t188-v1",
@@ -10257,6 +11158,11 @@
 "language": "swh",
 "title": "Mungu"
 },
+"tpi": {
+"content_id": "tpi-t189-v1",
+"language": "tpi",
+"title": "god"
+},
 "zhs": {
 "content_id": "cmn-t189-v1",
 "language": "zhs",
@@ -10304,6 +11210,11 @@
 "language": "swh",
 "title": "Hebroni"
 },
+"tpi": {
+"content_id": "tpi-t191-v1",
+"language": "tpi",
+"title": "hebron"
+},
 "zht": {
 "content_id": "zht-t191-v1",
 "language": "zht",
@@ -10317,7 +11228,7 @@
 "index_reference": "أجنبي غريب",
 "localizations": {
 "eng": {
-"content_id": "eng-t192-v1",
+"content_id": "eng-t192-v2",
 "language": "eng",
 "title": "foreigner"
 },
@@ -10351,6 +11262,11 @@
 "language": "swh",
 "title": "mgeni"
 },
+"tpi": {
+"content_id": "tpi-t192-v1",
+"language": "tpi",
+"title": "foreigner"
+},
 "zht": {
 "content_id": "zht-t192-v1",
 "language": "zht",
@@ -10364,7 +11280,7 @@
 "index_reference": "النزيل",
 "localizations": {
 "eng": {
-"content_id": "eng-t193-v1",
+"content_id": "eng-t193-v2",
 "language": "eng",
 "title": "sojourner"
 },
@@ -10397,6 +11313,11 @@
 "content_id": "swh-t193-v1",
 "language": "swh",
 "title": "mgeni"
+},
+"tpi": {
+"content_id": "tpi-t193-v1",
+"language": "tpi",
+"title": "sojourner"
 },
 "zht": {
 "content_id": "zht-t193-v1",
@@ -10455,6 +11376,11 @@
 "language": "swh",
 "title": "sadaka"
 },
+"tpi": {
+"content_id": "tpi-t194-v1",
+"language": "tpi",
+"title": "offering"
+},
 "zhs": {
 "content_id": "cmn-t194-v1",
 "language": "zhs",
@@ -10501,6 +11427,11 @@
 "content_id": "swh-t195-v1",
 "language": "swh",
 "title": "kamanda"
+},
+"tpi": {
+"content_id": "tpi-t195-v1",
+"language": "tpi",
+"title": "commander"
 },
 "zht": {
 "content_id": "zht-t195-v1",
@@ -10549,6 +11480,11 @@
 "language": "swh",
 "title": "kuzimu"
 },
+"tpi": {
+"content_id": "tpi-t196-v1",
+"language": "tpi",
+"title": "hades"
+},
 "zht": {
 "content_id": "zht-t196-v1",
 "language": "zht",
@@ -10596,6 +11532,11 @@
 "language": "swh",
 "title": "malaika wa Bwana"
 },
+"tpi": {
+"content_id": "tpi-t197-v1",
+"language": "tpi",
+"title": "angel-of-the-lord"
+},
 "zht": {
 "content_id": "zht-t197-v1",
 "language": "zht",
@@ -10642,6 +11583,11 @@
 "content_id": "swh-t198-v1",
 "language": "swh",
 "title": "nira"
+},
+"tpi": {
+"content_id": "tpi-t198-v1",
+"language": "tpi",
+"title": "yoke"
 },
 "zht": {
 "content_id": "zht-t198-v1",
@@ -10695,6 +11641,11 @@
 "language": "swh",
 "title": "kumtukuza"
 },
+"tpi": {
+"content_id": "tpi-t199-v1",
+"language": "tpi",
+"title": "glorify"
+},
 "zhs": {
 "content_id": "cmn-t199-v1",
 "language": "zhs",
@@ -10747,6 +11698,11 @@
 "language": "swh",
 "title": "unabii"
 },
+"tpi": {
+"content_id": "tpi-t200-v1",
+"language": "tpi",
+"title": "prophecy"
+},
 "zhs": {
 "content_id": "cmn-t200-v1",
 "language": "zhs",
@@ -10793,6 +11749,11 @@
 "content_id": "swh-t201-v1",
 "language": "swh",
 "title": "nadhiri"
+},
+"tpi": {
+"content_id": "tpi-t201-v1",
+"language": "tpi",
+"title": "vow"
 },
 "zht": {
 "content_id": "zht-t201-v1",
@@ -10841,6 +11802,11 @@
 "language": "swh",
 "title": "ndoto"
 },
+"tpi": {
+"content_id": "tpi-t202-v1",
+"language": "tpi",
+"title": "dream"
+},
 "zht": {
 "content_id": "zht-t202-v1",
 "language": "zht",
@@ -10888,6 +11854,11 @@
 "language": "swh",
 "title": "utabiri"
 },
+"tpi": {
+"content_id": "tpi-t203-v1",
+"language": "tpi",
+"title": "divination"
+},
 "zht": {
 "content_id": "zht-t203-v1",
 "language": "zht",
@@ -10934,6 +11905,11 @@
 "content_id": "swh-t204-v1",
 "language": "swh",
 "title": "Sayuni"
+},
+"tpi": {
+"content_id": "tpi-t204-v1",
+"language": "tpi",
+"title": "zion"
 },
 "zht": {
 "content_id": "zht-t204-v1",
@@ -10992,6 +11968,11 @@
 "language": "swh",
 "title": "huruma"
 },
+"tpi": {
+"content_id": "tpi-t205-v1",
+"language": "tpi",
+"title": "compassion"
+},
 "zhs": {
 "content_id": "cmn-t205-v1",
 "language": "zhs",
@@ -11037,6 +12018,11 @@
 "swh": {
 "content_id": "swh-t207-v1",
 "language": "swh",
+"title": "el-shaddai"
+},
+"tpi": {
+"content_id": "tpi-t207-v1",
+"language": "tpi",
 "title": "el-shaddai"
 },
 "zht": {
@@ -11086,6 +12072,11 @@
 "language": "swh",
 "title": "kutakasa"
 },
+"tpi": {
+"content_id": "tpi-t208-v1",
+"language": "tpi",
+"title": "purify"
+},
 "zht": {
 "content_id": "zht-t208-v1",
 "language": "zht",
@@ -11133,6 +12124,11 @@
 "language": "swh",
 "title": "elyon"
 },
+"tpi": {
+"content_id": "tpi-t209-v1",
+"language": "tpi",
+"title": "el-elyon"
+},
 "zht": {
 "content_id": "zht-t209-v1",
 "language": "zht",
@@ -11179,6 +12175,11 @@
 "content_id": "swh-t210-v1",
 "language": "swh",
 "title": "eloi"
+},
+"tpi": {
+"content_id": "tpi-t210-v1",
+"language": "tpi",
+"title": "el-roi"
 },
 "zht": {
 "content_id": "zht-t210-v1",
@@ -11232,6 +12233,11 @@
 "language": "swh",
 "title": "Kigiriki"
 },
+"tpi": {
+"content_id": "tpi-t211-v1",
+"language": "tpi",
+"title": "greeks"
+},
 "zhs": {
 "content_id": "cmn-t211-v1",
 "language": "zhs",
@@ -11278,6 +12284,11 @@
 "content_id": "swh-t212-v1",
 "language": "swh",
 "title": "mafuta"
+},
+"tpi": {
+"content_id": "tpi-t212-v1",
+"language": "tpi",
+"title": "anoint"
 },
 "zht": {
 "content_id": "zht-t212-v1",
@@ -11331,6 +12342,11 @@
 "language": "swh",
 "title": "lugha"
 },
+"tpi": {
+"content_id": "tpi-t213-v1",
+"language": "tpi",
+"title": "tongues"
+},
 "zhs": {
 "content_id": "cmn-t213-v1",
 "language": "zhs",
@@ -11351,7 +12367,7 @@
 "fra": {
 "content_id": "fra-t214-v1",
 "language": "fra",
-"title": "iniquité "
+"title": "iniquité"
 },
 "ind": {
 "content_id": "ind-t214-v1",
@@ -11377,6 +12393,11 @@
 "content_id": "swh-t214-v1",
 "language": "swh",
 "title": "uasi"
+},
+"tpi": {
+"content_id": "tpi-t214-v1",
+"language": "tpi",
+"title": "lawlessness"
 },
 "zht": {
 "content_id": "zht-t214-v1",
@@ -11430,6 +12451,11 @@
 "language": "swh",
 "title": "ubaya"
 },
+"tpi": {
+"content_id": "tpi-t215-v1",
+"language": "tpi",
+"title": "wickedness"
+},
 "zhs": {
 "content_id": "cmn-t215-v1",
 "language": "zhs",
@@ -11476,6 +12502,11 @@
 "content_id": "swh-t216-v1",
 "language": "swh",
 "title": "Sheoli"
+},
+"tpi": {
+"content_id": "tpi-t216-v1",
+"language": "tpi",
+"title": "sheol"
 },
 "zht": {
 "content_id": "zht-t216-v1",
@@ -11524,6 +12555,11 @@
 "language": "swh",
 "title": "mchawi"
 },
+"tpi": {
+"content_id": "tpi-t217-v1",
+"language": "tpi",
+"title": "magician"
+},
 "zht": {
 "content_id": "zht-t217-v1",
 "language": "zht",
@@ -11570,6 +12606,11 @@
 "content_id": "swh-t218-v1",
 "language": "swh",
 "title": "damu"
+},
+"tpi": {
+"content_id": "tpi-t218-v1",
+"language": "tpi",
+"title": "blood"
 },
 "zht": {
 "content_id": "zht-t218-v1",
@@ -11618,6 +12659,11 @@
 "language": "swh",
 "title": "sifa"
 },
+"tpi": {
+"content_id": "tpi-t219-v1",
+"language": "tpi",
+"title": "praise"
+},
 "zht": {
 "content_id": "zht-t219-v1",
 "language": "zht",
@@ -11664,6 +12710,11 @@
 "content_id": "swh-t220-v1",
 "language": "swh",
 "title": "drakma"
+},
+"tpi": {
+"content_id": "tpi-t220-v1",
+"language": "tpi",
+"title": "drachma"
 },
 "zht": {
 "content_id": "zht-t220-v1",
@@ -11712,6 +12763,11 @@
 "language": "swh",
 "title": "Samaria"
 },
+"tpi": {
+"content_id": "tpi-t221-v1",
+"language": "tpi",
+"title": "samaria"
+},
 "zht": {
 "content_id": "zht-t221-v1",
 "language": "zht",
@@ -11758,6 +12814,11 @@
 "content_id": "swh-t222-v1",
 "language": "swh",
 "title": "picha ya Mungu"
+},
+"tpi": {
+"content_id": "tpi-t222-v1",
+"language": "tpi",
+"title": "image-of-god"
 },
 "zht": {
 "content_id": "zht-t222-v1",
@@ -11806,6 +12867,11 @@
 "language": "swh",
 "title": "zaka"
 },
+"tpi": {
+"content_id": "tpi-t223-v1",
+"language": "tpi",
+"title": "tithe"
+},
 "zht": {
 "content_id": "zht-t223-v1",
 "language": "zht",
@@ -11853,6 +12919,11 @@
 "language": "swh",
 "title": "haki"
 },
+"tpi": {
+"content_id": "tpi-t224-v1",
+"language": "tpi",
+"title": "justice"
+},
 "zht": {
 "content_id": "zht-t224-v1",
 "language": "zht",
@@ -11899,6 +12970,11 @@
 "content_id": "swh-t225-v1",
 "language": "swh",
 "title": "pentekoste"
+},
+"tpi": {
+"content_id": "tpi-t225-v1",
+"language": "tpi",
+"title": "pentecost"
 },
 "zht": {
 "content_id": "zht-t225-v1",
@@ -11952,6 +13028,11 @@
 "language": "swh",
 "title": "mfalme"
 },
+"tpi": {
+"content_id": "tpi-t226-v2",
+"language": "tpi",
+"title": "king"
+},
 "zhs": {
 "content_id": "cmn-t226-v1",
 "language": "zhs",
@@ -11999,6 +13080,11 @@
 "language": "swh",
 "title": "Kiebrania"
 },
+"tpi": {
+"content_id": "tpi-t227-v1",
+"language": "tpi",
+"title": "hebrew"
+},
 "zht": {
 "content_id": "zht-t227-v1",
 "language": "zht",
@@ -12044,6 +13130,11 @@
 "swh": {
 "content_id": "swh-t228-v1",
 "language": "swh",
+"title": "adonai"
+},
+"tpi": {
+"content_id": "tpi-t228-v1",
+"language": "tpi",
 "title": "adonai"
 },
 "zht": {
@@ -12093,6 +13184,11 @@
 "language": "swh",
 "title": "makerubi"
 },
+"tpi": {
+"content_id": "tpi-t230-v1",
+"language": "tpi",
+"title": "cherubim"
+},
 "zht": {
 "content_id": "zht-t230-v1",
 "language": "zht",
@@ -12139,6 +13235,11 @@
 "content_id": "swh-t231-v1",
 "language": "swh",
 "title": "Mimi ni"
+},
+"tpi": {
+"content_id": "tpi-t231-v1",
+"language": "tpi",
+"title": "i-am"
 },
 "zht": {
 "content_id": "zht-t231-v1",
@@ -12187,6 +13288,11 @@
 "language": "swh",
 "title": "utakaso"
 },
+"tpi": {
+"content_id": "tpi-t232-v1",
+"language": "tpi",
+"title": "sanctification"
+},
 "zht": {
 "content_id": "zht-t232-v1",
 "language": "zht",
@@ -12234,6 +13340,11 @@
 "language": "swh",
 "title": "Tamasha la Vibanda"
 },
+"tpi": {
+"content_id": "tpi-t233-v1",
+"language": "tpi",
+"title": "festival-of-tabernacles"
+},
 "zht": {
 "content_id": "zht-t233-v1",
 "language": "zht",
@@ -12247,7 +13358,7 @@
 "index_reference": "نسل",
 "localizations": {
 "eng": {
-"content_id": "eng-t234-v1",
+"content_id": "eng-t234-v2",
 "language": "eng",
 "title": "descendant"
 },
@@ -12281,6 +13392,11 @@
 "language": "swh",
 "title": "kizazi"
 },
+"tpi": {
+"content_id": "tpi-t234-v1",
+"language": "tpi",
+"title": "descendant"
+},
 "zht": {
 "content_id": "zht-t234-v1",
 "language": "zht",
@@ -12294,7 +13410,7 @@
 "index_reference": "آلهة",
 "localizations": {
 "eng": {
-"content_id": "eng-t235-v1",
+"content_id": "eng-t235-v2",
 "language": "eng",
 "title": "gods"
 },
@@ -12327,6 +13443,11 @@
 "content_id": "swh-t235-v1",
 "language": "swh",
 "title": "miungu"
+},
+"tpi": {
+"content_id": "tpi-t235-v1",
+"language": "tpi",
+"title": "gods"
 },
 "zht": {
 "content_id": "zht-t235-v1",
@@ -12380,6 +13501,11 @@
 "language": "swh",
 "title": "amina"
 },
+"tpi": {
+"content_id": "tpi-t236-v1",
+"language": "tpi",
+"title": "amen"
+},
 "zhs": {
 "content_id": "cmn-t236-v1",
 "language": "zhs",
@@ -12427,6 +13553,11 @@
 "language": "swh",
 "title": "ushuhuda"
 },
+"tpi": {
+"content_id": "tpi-t237-v1",
+"language": "tpi",
+"title": "testimony"
+},
 "zht": {
 "content_id": "zht-t237-v1",
 "language": "zht",
@@ -12447,7 +13578,7 @@
 "fra": {
 "content_id": "fra-t238-v1",
 "language": "fra",
-"title": "Condamner "
+"title": "Condamner"
 },
 "ind": {
 "content_id": "ind-t238-v1",
@@ -12473,6 +13604,11 @@
 "content_id": "swh-t238-v1",
 "language": "swh",
 "title": "mfungwa"
+},
+"tpi": {
+"content_id": "tpi-t238-v1",
+"language": "tpi",
+"title": "convict"
 },
 "zht": {
 "content_id": "zht-t238-v1",
@@ -12521,6 +13657,11 @@
 "language": "swh",
 "title": "Tamasha la Kujitolea"
 },
+"tpi": {
+"content_id": "tpi-t239-v1",
+"language": "tpi",
+"title": "festival-of-dedication"
+},
 "zht": {
 "content_id": "zht-t239-v1",
 "language": "zht",
@@ -12567,6 +13708,11 @@
 "content_id": "swh-t243-v1",
 "language": "swh",
 "title": "mvinyo"
+},
+"tpi": {
+"content_id": "tpi-t243-v1",
+"language": "tpi",
+"title": "wine"
 },
 "zht": {
 "content_id": "zht-t243-v1",
@@ -12615,6 +13761,11 @@
 "language": "swh",
 "title": "Mlawi"
 },
+"tpi": {
+"content_id": "tpi-t244-v1",
+"language": "tpi",
+"title": "levite"
+},
 "zht": {
 "content_id": "zht-t244-v1",
 "language": "zht",
@@ -12661,6 +13812,11 @@
 "content_id": "swh-t245-v1",
 "language": "swh",
 "title": "amri"
+},
+"tpi": {
+"content_id": "tpi-t245-v1",
+"language": "tpi",
+"title": "commandment"
 },
 "zht": {
 "content_id": "zht-t245-v1",
@@ -12709,6 +13865,11 @@
 "language": "swh",
 "title": "kuhani mkuu"
 },
+"tpi": {
+"content_id": "tpi-t246-v1",
+"language": "tpi",
+"title": "high-priest"
+},
 "zht": {
 "content_id": "zht-t246-v1",
 "language": "zht",
@@ -12729,7 +13890,7 @@
 "fra": {
 "content_id": "fra-t254-v1",
 "language": "fra",
-"title": "Consacrer "
+"title": "Consacrer"
 },
 "ind": {
 "content_id": "ind-t254-v1",
@@ -12755,6 +13916,11 @@
 "content_id": "swh-t254-v1",
 "language": "swh",
 "title": "takasa"
+},
+"tpi": {
+"content_id": "tpi-t254-v1",
+"language": "tpi",
+"title": "consecrate"
 },
 "zht": {
 "content_id": "zht-t254-v1",
@@ -12803,6 +13969,11 @@
 "language": "swh",
 "title": "Mwisraeli"
 },
+"tpi": {
+"content_id": "tpi-t259-v2",
+"language": "tpi",
+"title": "israelite"
+},
 "zht": {
 "content_id": "zht-t259-v2",
 "language": "zht",
@@ -12823,7 +13994,7 @@
 "fra": {
 "content_id": "fra-t264-v1",
 "language": "fra",
-"title": "défenseur "
+"title": "défenseur"
 },
 "ind": {
 "content_id": "ind-t264-v1",
@@ -12849,6 +14020,11 @@
 "content_id": "swh-t264-v1",
 "language": "swh",
 "title": "wakili"
+},
+"tpi": {
+"content_id": "tpi-t264-v1",
+"language": "tpi",
+"title": "advocate"
 },
 "zht": {
 "content_id": "zht-t264-v1",
@@ -12897,6 +14073,11 @@
 "language": "swh",
 "title": "kuhalalisha"
 },
+"tpi": {
+"content_id": "tpi-t281-v1",
+"language": "tpi",
+"title": "justify"
+},
 "zht": {
 "content_id": "zht-t281-v1",
 "language": "zht",
@@ -12910,7 +14091,7 @@
 "index_reference": "قاضي",
 "localizations": {
 "eng": {
-"content_id": "eng-t289-v1",
+"content_id": "eng-t289-v2",
 "language": "eng",
 "title": "judge"
 },
@@ -12943,6 +14124,11 @@
 "content_id": "swh-t289-v1",
 "language": "swh",
 "title": "hakimu"
+},
+"tpi": {
+"content_id": "tpi-t289-v1",
+"language": "tpi",
+"title": "judge"
 },
 "zht": {
 "content_id": "zht-t289-v1",
@@ -12990,6 +14176,11 @@
 "content_id": "swh-t293-v1",
 "language": "swh",
 "title": "usherati"
+},
+"tpi": {
+"content_id": "tpi-t293-v1",
+"language": "tpi",
+"title": "immorality"
 },
 "zht": {
 "content_id": "zht-t293-v1",

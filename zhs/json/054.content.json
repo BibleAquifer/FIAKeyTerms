@@ -8,7 +8,7 @@
 "index_reference": "权柄",
 "language": "zhs",
 "review_level": "None",
-"content": "<p>拥有<b>权柄</b>的人就有权利和能力做出决定和判断。 最高的权柄属于神。 神可以将权柄授予其他人，让他们代表祂作决定或判断。 神经常会表明祂已将权柄赐给人，也赐给他们能力去行<a href=\"#t93\">神迹</a>。</p><p>耶稣拥有权柄，因为祂是<a href=\"#t226\">王</a>，是神差遣了祂。</p><p><a href=\"#t6\">使徒</a>在<a href=\"#t24\">教会</a>中拥有权柄，因为耶稣将权柄赐给他们。 其他人需要接受他们的决定。</p><p>圣经拥有权柄，因为神藉著圣经向人们说话。 这意味着人们必须聆听神藉著圣经告诉他们的话。</p>",
+"content": "<p>拥有<b>权柄</b>的人就有权利和能力做出决定和判断。 最高的权柄属于神。 神可以将权柄授予其他人，让他们代表祂作决定或判断。 神经常会表明祂已将权柄赐给人，也赐给他们能力去行<data class=\"resource-ref\" data-content-id=\"cmn-t93-v1\" data-resource-code=\"FIAKeyTerms\">神迹</data>。</p><p>耶稣拥有权柄，因为祂是<data class=\"resource-ref\" data-content-id=\"cmn-t226-v1\" data-resource-code=\"FIAKeyTerms\">王</data>，是神差遣了祂。</p><p><data class=\"resource-ref\" data-content-id=\"cmn-t6-v1\" data-resource-code=\"FIAKeyTerms\">使徒</data>在教会中拥有权柄，因为耶稣将权柄赐给他们。 其他人需要接受他们的决定。</p><p>圣经拥有权柄，因为神藉著圣经向人们说话。 这意味着人们必须聆听神藉著圣经告诉他们的话。</p>",
 "associations": {
 "passage": [
 {
@@ -192,7 +192,29 @@
 "end_ref_usfm": "JUD 1:25"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t93-v1",
+"resource_code": "FIAKeyTerms",
+"label": "神迹",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t226-v1",
+"resource_code": "FIAKeyTerms",
+"label": "王",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t6-v1",
+"resource_code": "FIAKeyTerms",
+"label": "使徒",
+"language": "zhs"
+}
+],
 "acai": [
 {
 "id": "keyterm:Authority.2",

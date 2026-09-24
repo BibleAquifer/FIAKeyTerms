@@ -8,7 +8,7 @@
 "index_reference": "长老",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><b>长老</b>是在团体中拥有<a href=\"#t8\">权柄</a>的人。在旧约中，长老通常是一个家庭或一群家庭的首领。一群长老会聚在一起，决定团体中的事务。</p><p>在新约中，长老是<a href=\"#t24\">教会</a>中拥有权柄的人。使徒，如保罗，任命了<a href=\"#t6\">长老</a>。使徒选择受到教会团体中其他人尊重的人，使他们成为长老。长老必须愿意服事别人，也必须是无瑕疵的。</p><p><strong>当你翻译长老时，要注意以下几个事项：</strong></p><p>当你翻译这个词时，要小心，不要使用一个仅仅意味着\"年长者\"的词。长老不一定是老年人，尽管他们也不一定是非常年轻人。</p>",
+"content": "<p><b>长老</b>是在团体中拥有<data class=\"resource-ref\" data-content-id=\"cmn-t8-v1\" data-resource-code=\"FIAKeyTerms\">权柄</data>的人。在旧约中，长老通常是一个家庭或一群家庭的首领。一群长老会聚在一起，决定团体中的事务。</p><p>在新约中，长老是教会中拥有权柄的人。使徒，如保罗，任命了<data class=\"resource-ref\" data-content-id=\"cmn-t6-v1\" data-resource-code=\"FIAKeyTerms\">长老</data>。使徒选择受到教会团体中其他人尊重的人，使他们成为长老。长老必须愿意服事别人，也必须是无瑕疵的。</p><p><strong>当你翻译长老时，要注意以下几个事项：</strong></p><p>当你翻译这个词时，要小心，不要使用一个仅仅意味着\"年长者\"的词。长老不一定是老年人，尽管他们也不一定是非常年轻人。</p>",
 "associations": {
 "passage": [
 {
@@ -600,7 +600,22 @@
 "end_ref_usfm": "3JN 1:8"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t8-v1",
+"resource_code": "FIAKeyTerms",
+"label": "权柄",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t6-v1",
+"resource_code": "FIAKeyTerms",
+"label": "长老",
+"language": "zhs"
+}
+],
 "acai": []
 }
 },

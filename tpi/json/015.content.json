@@ -519,7 +519,7 @@
 "index_reference": "offering",
 "language": "tpi",
 "review_level": "None",
-"content": "<p>Wanpela <b>ofaring</b> em i wanpela presen o <a href=\"#t114\">sekrifais</a> we ol manmeri i wokim pasin kastom bilong givim i go long God, planti taim ol i mekim insait long <a href=\"#t138\">tempel</a> o long wanpela spesel <a href=\"#t3\">alta</a>. Ol manmeri i ken mekim ol ofaring long planti risen, kain olsem long givim tenkyu, long <b>kamap klin </b>, o long askim <a href=\"#t53\">fogivnes</a> long <a href=\"#t125\">sin</a>.</p>",
+"content": "<p>Wanpela <b>ofaring</b> em i wanpela presen o <data class=\"resource-ref\" data-content-id=\"tpi-t114-v1\" data-resource-code=\"FIAKeyTerms\">sekrifais</data> we ol manmeri i wokim pasin kastom bilong givim i go long God, planti taim ol i mekim insait long <data class=\"resource-ref\" data-content-id=\"tpi-t138-v1\" data-resource-code=\"FIAKeyTerms\">tempel</data> o long wanpela spesel <data class=\"resource-ref\" data-content-id=\"tpi-t3-v1\" data-resource-code=\"FIAKeyTerms\">alta</data>. Ol manmeri i ken mekim ol ofaring long planti risen, kain olsem long givim tenkyu, long <data class=\"resource-ref\" data-content-id=\"tpi-t208-v1\" data-resource-code=\"FIAKeyTerms\">kamap klin </data>, o long askim <data class=\"resource-ref\" data-content-id=\"tpi-t53-v1\" data-resource-code=\"FIAKeyTerms\">fogivnes</data> long <data class=\"resource-ref\" data-content-id=\"tpi-t125-v1\" data-resource-code=\"FIAKeyTerms\">sin</data>.</p>",
 "associations": {
 "passage": [
 {
@@ -961,7 +961,50 @@
 "end_ref_usfm": "EPH 5:6"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "tpi-t114-v1",
+"resource_code": "FIAKeyTerms",
+"label": "sekrifais",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t138-v1",
+"resource_code": "FIAKeyTerms",
+"label": "tempel",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t3-v1",
+"resource_code": "FIAKeyTerms",
+"label": "alta",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t208-v1",
+"resource_code": "FIAKeyTerms",
+"label": "kamap klin ",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t53-v1",
+"resource_code": "FIAKeyTerms",
+"label": "fogivnes",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t125-v1",
+"resource_code": "FIAKeyTerms",
+"label": "sin",
+"language": "tpi"
+}
+],
 "acai": [
 {
 "id": "keyterm:Offering",
@@ -982,7 +1025,7 @@
 "index_reference": "oillamp",
 "language": "tpi",
 "review_level": "None",
-"content": "<p>Ol manmeri bilong <a href=\"#t74\">Israel</a> i bin save yusim ol <b>oil lam</b> long helpim ol long lukluk long tudak. Ol manmeri i bin save mekim ol lam long klei we ol i kukim insait long wanpela aven long mekim em i strong. Ol manmeri i ken katim tu ol lam long ston. Planti ol oil lam i luk olsem sampela lain i pasim maus biilong wanpela liklik dis, tasol ol narapela oil lam em ol i nais moa. Ol manmeri i save putim oil insait long dispela liklik dis. Planti taim dispela em i oliv oil, we i kam long frut bilong wanpela oliv diwai. Bihain ol manmeri i putim wanpela liklik longpela hap laplap insait long dispela liklik dis: Wanpela hap bilong em i slip insait long oil, na narapela sait bilong em i stap long autsait bilong lam. Dispela hap liklik longpela hap laplap em ol i kolim wik. Dispela wik i save kisim oil. Ol manmeri i save laitim dispela wik. Lam bai kontinu long lait sapos i gat oil, o i go inap wik i kuk olgeta.</p><p>Insait long wanpela haus, ol manmeri bai putim ol oil lam long ol samting bilong holim lam na bai ol lam i stap antap moa na givim moa lait.</p>",
+"content": "<p>Ol manmeri bilong <data class=\"resource-ref\" data-content-id=\"tpi-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israel</data> i bin save yusim ol <b>oil lam</b> long helpim ol long lukluk long tudak. Ol manmeri i bin save mekim ol lam long klei we ol i kukim insait long wanpela aven long mekim em i strong. Ol manmeri i ken katim tu ol lam long ston. Planti ol oil lam i luk olsem sampela lain i pasim maus biilong wanpela liklik dis, tasol ol narapela oil lam em ol i nais moa. Ol manmeri i save putim oil insait long dispela liklik dis. Planti taim dispela em i oliv oil, we i kam long frut bilong wanpela oliv diwai. Bihain ol manmeri i putim wanpela liklik longpela hap laplap insait long dispela liklik dis: Wanpela hap bilong em i slip insait long oil, na narapela sait bilong em i stap long autsait bilong lam. Dispela hap liklik longpela hap laplap em ol i kolim wik. Dispela wik i save kisim oil. Ol manmeri i save laitim dispela wik. Lam bai kontinu long lait sapos i gat oil, o i go inap wik i kuk olgeta.</p><p>Insait long wanpela haus, ol manmeri bai putim ol oil lam long ol samting bilong holim lam na bai ol lam i stap antap moa na givim moa lait.</p>",
 "associations": {
 "passage": [
 {
@@ -1070,7 +1113,15 @@
 "end_ref_usfm": "LUK 11:54"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "tpi-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israel",
+"language": "tpi"
+}
+],
 "acai": []
 }
 }

@@ -8,7 +8,7 @@
 "index_reference": "管理犹太会堂的人",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><b>会堂</b>是<a href=\"#t77\">犹太人</a>聚集<a href=\"#t102\">祷告</a>和学习<a href=\"#t120\">圣经</a>以及其他形式的讨论和教导的地方。每个会堂都有一个<b>管理者</b>，负责管理建筑物，并确保一切事务都有序进行。会堂的管理者负责邀请人们前来祷告，或读经文，或教导。</p>",
+"content": "<p><b>会堂</b>是<data class=\"resource-ref\" data-content-id=\"cmn-t77-v1\" data-resource-code=\"FIAKeyTerms\">犹太人</data>聚集<data class=\"resource-ref\" data-content-id=\"cmn-t102-v1\" data-resource-code=\"FIAKeyTerms\">祷告</data>和学习<data class=\"resource-ref\" data-content-id=\"cmn-t120-v1\" data-resource-code=\"FIAKeyTerms\">圣经</data>以及其他形式的讨论和教导的地方。每个会堂都有一个<b>管理者</b>，负责管理建筑物，并确保一切事务都有序进行。会堂的管理者负责邀请人们前来祷告，或读经文，或教导。</p>",
 "associations": {
 "passage": [
 {
@@ -24,7 +24,29 @@
 "end_ref_usfm": "MRK 5:43"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t77-v1",
+"resource_code": "FIAKeyTerms",
+"label": "犹太人",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t102-v1",
+"resource_code": "FIAKeyTerms",
+"label": "祷告",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t120-v1",
+"resource_code": "FIAKeyTerms",
+"label": "圣经",
+"language": "zhs"
+}
+],
 "acai": []
 }
 },

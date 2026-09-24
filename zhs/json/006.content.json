@@ -8,7 +8,7 @@
 "index_reference": "伯赛大",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><b>伯赛大</b>是位于<a href=\"#t55\">加利利</a>省的一个村庄。它可能靠近<a href=\"#t22\">迦百农</a>这座城市，因为<a href=\"#t78\">约翰</a>告诉我们，耶稣的<a href=\"#t39\">门徒</a>安得烈和彼得来自伯赛大，但马可告诉我们，他们住在迦百农。 这个村庄靠近<a href=\"#t121\">加利利海</a>，村子里的许多人以捕鱼为生。伯赛大这个名字甚至意味着\"捕鱼的房子\"。</p>",
+"content": "<p><b>伯赛大</b>是位于<data class=\"resource-ref\" data-content-id=\"cmn-t55-v1\" data-resource-code=\"FIAKeyTerms\">加利利</data>省的一个村庄。它可能靠近<data class=\"resource-ref\" data-content-id=\"cmn-t22-v1\" data-resource-code=\"FIAKeyTerms\">迦百农</data>这座城市，因为<data class=\"resource-ref\" data-content-id=\"cmn-t78-v1\" data-resource-code=\"FIAKeyTerms\">约翰</data>告诉我们，耶稣的<data class=\"resource-ref\" data-content-id=\"cmn-t39-v1\" data-resource-code=\"FIAKeyTerms\">门徒</data>安得烈和彼得来自伯赛大，但马可告诉我们，他们住在迦百农。 这个村庄靠近<data class=\"resource-ref\" data-content-id=\"cmn-t121-v1\" data-resource-code=\"FIAKeyTerms\">加利利海</data>，村子里的许多人以捕鱼为生。伯赛大这个名字甚至意味着\"捕鱼的房子\"。</p>",
 "associations": {
 "passage": [
 {
@@ -18,7 +18,43 @@
 "end_ref_usfm": "MRK 8:26"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t55-v1",
+"resource_code": "FIAKeyTerms",
+"label": "加利利",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t22-v1",
+"resource_code": "FIAKeyTerms",
+"label": "迦百农",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t78-v1",
+"resource_code": "FIAKeyTerms",
+"label": "约翰",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t39-v1",
+"resource_code": "FIAKeyTerms",
+"label": "门徒",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t121-v1",
+"resource_code": "FIAKeyTerms",
+"label": "加利利海",
+"language": "zhs"
+}
+],
 "acai": [
 {
 "id": "place:Bethsaida",

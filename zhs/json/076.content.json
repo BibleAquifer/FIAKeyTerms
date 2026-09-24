@@ -8,7 +8,7 @@
 "index_reference": "休妻离婚",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><b>休妻</b>是丈夫和妻子之间永久且合法的分居。在旧约中，如果一个男人认为他的妻子与另一个男人有关系，神的<a href=\"#t83\">律法</a>允许他休妻。然而，神表明祂恨恶休妻。神希望丈夫和妻子和谐地生活在一起，并彼此相爱。</p><p>在新约中，耶稣也教导人们休妻是错的。神的本意是丈夫和妻子要连合，成为一体。</p>",
+"content": "<p><b>休妻</b>是丈夫和妻子之间永久且合法的分居。在旧约中，如果一个男人认为他的妻子与另一个男人有关系，神的<data class=\"resource-ref\" data-content-id=\"cmn-t83-v1\" data-resource-code=\"FIAKeyTerms\">律法</data>允许他休妻。然而，神表明祂恨恶休妻。神希望丈夫和妻子和谐地生活在一起，并彼此相爱。</p><p>在新约中，耶稣也教导人们休妻是错的。神的本意是丈夫和妻子要连合，成为一体。</p>",
 "associations": {
 "passage": [
 {
@@ -66,7 +66,15 @@
 "end_ref_usfm": "1CO 7:16"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t83-v1",
+"resource_code": "FIAKeyTerms",
+"label": "律法",
+"language": "zhs"
+}
+],
 "acai": []
 }
 },

@@ -8,7 +8,7 @@
 "index_reference": "拉比",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><b>拉比</b>是<a href=\"#t74\">以色列</a>人给宗教<a href=\"#t136\">教师</a>的名字。 在他们的语言中，这个词的意思是\"我的伟大的人\"，或\"我伟大的老师\"。 当有人称呼另一个人为\"拉比\"时，他们是在给予那人尊重。 有些翻译保留了\"拉比\"这个词，另一些翻译只说\"教师。\"</p><p><strong>当你翻译拉比时，要注意以下几个事项：</strong></p><p>你可以使用你的语言中表示教师的一个词或片语。 但这个词不应该只用于学校里教导儿童的教师。</p>",
+"content": "<p><b>拉比</b>是<data class=\"resource-ref\" data-content-id=\"cmn-t74-v1\" data-resource-code=\"FIAKeyTerms\">以色列</data>人给宗教<data class=\"resource-ref\" data-content-id=\"cmn-t136-v1\" data-resource-code=\"FIAKeyTerms\">教师</data>的名字。 在他们的语言中，这个词的意思是\"我的伟大的人\"，或\"我伟大的老师\"。 当有人称呼另一个人为\"拉比\"时，他们是在给予那人尊重。 有些翻译保留了\"拉比\"这个词，另一些翻译只说\"教师。\"</p><p><strong>当你翻译拉比时，要注意以下几个事项：</strong></p><p>你可以使用你的语言中表示教师的一个词或片语。 但这个词不应该只用于学校里教导儿童的教师。</p>",
 "associations": {
 "passage": [
 {
@@ -120,7 +120,22 @@
 "end_ref_usfm": "JHN 20:18"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t74-v1",
+"resource_code": "FIAKeyTerms",
+"label": "以色列",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t136-v1",
+"resource_code": "FIAKeyTerms",
+"label": "教师",
+"language": "zhs"
+}
+],
 "acai": []
 }
 },

@@ -450,6 +450,12 @@
 "end_ref_usfm": "PSA 117:2"
 },
 {
+"start_ref": "23005026",
+"start_ref_usfm": "ISA 5:26",
+"end_ref": "23005030",
+"end_ref_usfm": "ISA 5:30"
+},
+{
 "start_ref": "40021033",
 "start_ref_usfm": "MAT 21:33",
 "end_ref": "40021046",
@@ -575,7 +581,7 @@
 {
 "id": "group:Gentile",
 "type": "group",
-"confidence": 0.5684,
+"confidence": 0.5683,
 "match_method": "scored",
 "preferred_label": "nation; peuple"
 }
@@ -1033,6 +1039,12 @@
 "end_ref_usfm": "PSA 117:2"
 },
 {
+"start_ref": "23005026",
+"start_ref_usfm": "ISA 5:26",
+"end_ref": "23005030",
+"end_ref_usfm": "ISA 5:30"
+},
+{
 "start_ref": "40021033",
 "start_ref_usfm": "MAT 21:33",
 "end_ref": "40021046",
@@ -1165,7 +1177,7 @@
 "index_reference": "nazareth",
 "language": "fra",
 "review_level": "None",
-"content": "<p>À l'époque de Jésus, <b>Nazareth</b> était une petite ville située dans la région de <a href=\"#t55\">Galilée</a>, au nord d'<a href=\"#t74\">Israël</a>. La ville de Nazareth n'est pas mentionnée dans l'Ancien Testament. La première fois que l'on en entend parler est lorsqu'il est dit que <a href=\"#t89\">Marie</a> et Joseph, les parents de Jésus, venaient de Nazareth. Jésus est né dans un village appelé <a href=\"#t13\">Bethléhem</a>, en <a href=\"#t81\">Judée</a>. Mais quand il était encore enfant, Marie et Joseph sont allés vivre à Nazareth. C'est pourquoi Jésus a été appelé plus tard « Nazaréen », ce qui signifie habitant de Nazareth. Le mot « Nazaréen » n'était pas un compliment. <a href=\"#t77\">Nazareth</a> se trouvait en Galilée et les Juifs de Judée méprisaient les Galiléens. Même les Galiléens méprisaient les Nazaréens en particulier, parce que c'était une petite ville sans importance.</p>",
+"content": "<p>À l'époque de Jésus, <b>Nazareth</b> était une petite ville située dans la région de <data class=\"resource-ref\" data-content-id=\"fra-t55-v1.0.1\" data-resource-code=\"FIAKeyTerms\">Galilée</data>, au nord d'<data class=\"resource-ref\" data-content-id=\"fra-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israël</data>. La ville de Nazareth n'est pas mentionnée dans l'Ancien Testament. La première fois que l'on en entend parler est lorsqu'il est dit que <data class=\"resource-ref\" data-content-id=\"fra-t89-v1\" data-resource-code=\"FIAKeyTerms\">Marie</data> et Joseph, les parents de Jésus, venaient de Nazareth. Jésus est né dans un village appelé <data class=\"resource-ref\" data-content-id=\"fra-t13-v1\" data-resource-code=\"FIAKeyTerms\">Bethléhem</data>, en <data class=\"resource-ref\" data-content-id=\"fra-t81-v1\" data-resource-code=\"FIAKeyTerms\">Judée</data>. Mais quand il était encore enfant, Marie et Joseph sont allés vivre à Nazareth. C'est pourquoi Jésus a été appelé plus tard « Nazaréen », ce qui signifie habitant de Nazareth. Le mot « Nazaréen » n'était pas un compliment. <data class=\"resource-ref\" data-content-id=\"fra-t77-v2\" data-resource-code=\"FIAKeyTerms\">Nazareth</data> se trouvait en Galilée et les Juifs de Judée méprisaient les Galiléens. Même les Galiléens méprisaient les Nazaréens en particulier, parce que c'était une petite ville sans importance.</p>",
 "associations": {
 "passage": [
 {
@@ -1271,7 +1283,50 @@
 "end_ref_usfm": "ACT 26:23"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t55-v1.0.1",
+"resource_code": "FIAKeyTerms",
+"label": "Galilée",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israël",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t89-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Marie",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t13-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Bethléhem",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t81-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Judée",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t77-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Nazareth",
+"language": "fra"
+}
+],
 "acai": [
 {
 "id": "place:Nazareth",

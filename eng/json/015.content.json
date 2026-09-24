@@ -1069,7 +1069,7 @@
 "index_reference": "offering",
 "language": "eng",
 "review_level": "None",
-"content": "<p>An <b>offering</b> is a gift or <a href=\"#t114\">sacrifice</a> offered in a ritual to God, usually in the <a href=\"#t138\">temple</a> or on a special <a href=\"#t3\">altar</a>. People can make offerings for many reasons, including to give thanks, to be <a href=\"#t208\">purified</a>, or to ask <a href=\"#t53\">forgiveness</a> for <a href=\"#t125\">sin</a>.</p>",
+"content": "<p>An <b>offering</b> is a gift or <data class=\"resource-ref\" data-content-id=\"eng-t114-v1\" data-resource-code=\"FIAKeyTerms\">sacrifice</data> offered in a ritual to God, usually in the <data class=\"resource-ref\" data-content-id=\"eng-t138-v1\" data-resource-code=\"FIAKeyTerms\">temple</data> or on a special <data class=\"resource-ref\" data-content-id=\"eng-t3-v1\" data-resource-code=\"FIAKeyTerms\">altar</data>. People can make offerings for many reasons, including to give thanks, to be <data class=\"resource-ref\" data-content-id=\"eng-t208-v1\" data-resource-code=\"FIAKeyTerms\">purified</data>, or to ask <data class=\"resource-ref\" data-content-id=\"eng-t53-v1\" data-resource-code=\"FIAKeyTerms\">forgiveness</data> for <data class=\"resource-ref\" data-content-id=\"eng-t125-v1\" data-resource-code=\"FIAKeyTerms\">sin</data>.</p>",
 "associations": {
 "passage": [
 {
@@ -1553,7 +1553,50 @@
 "end_ref_usfm": "EPH 5:6"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t114-v1",
+"resource_code": "FIAKeyTerms",
+"label": "sacrifice",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t138-v1",
+"resource_code": "FIAKeyTerms",
+"label": "temple",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t3-v1",
+"resource_code": "FIAKeyTerms",
+"label": "altar",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t208-v1",
+"resource_code": "FIAKeyTerms",
+"label": "purified",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t53-v1",
+"resource_code": "FIAKeyTerms",
+"label": "forgiveness",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t125-v1",
+"resource_code": "FIAKeyTerms",
+"label": "sin",
+"language": "eng"
+}
+],
 "acai": [
 {
 "id": "keyterm:Offering",
@@ -2559,7 +2602,7 @@
 "index_reference": "oil lamp",
 "language": "eng",
 "review_level": "None",
-"content": "<p>The people of <a href=\"#t74\">Israel</a> used <b>oil lamps</b> to help them see in the dark. People made lamps out of clay that was burned in an oven to make it hard. People could also cut lamps out of stone. Many oil lamps simply looked a bit as if someone pinched the edge of a bowl together, but other oil lamps were more elaborate. People put oil in the bowl. Usually this was olive oil, which came from the fruit from an olive tree. Then people put a strip of cloth in the bowl: One end rested inside the oil, and the other end rested on the rim of the lamp. The strip of cloth is called a wick. The wick would soak up the oil. People would then light the wick. The lamp would keep burning as long as there was oil, or until the wick would be burned up completely.</p><p>Inside a house, people would put oil lamps on stands so that they would be higher up and give more light.</p><div data-type=\"callout\" data-callout-style=\"action\"><p>You may want to look at some pictures of oil lamps.</p></div>",
+"content": "<p>The people of <data class=\"resource-ref\" data-content-id=\"eng-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israel</data> used <b>oil lamps</b> to help them see in the dark. People made lamps out of clay that was burned in an oven to make it hard. People could also cut lamps out of stone. Many oil lamps simply looked a bit as if someone pinched the edge of a bowl together, but other oil lamps were more elaborate. People put oil in the bowl. Usually this was olive oil, which came from the fruit from an olive tree. Then people put a strip of cloth in the bowl: One end rested inside the oil, and the other end rested on the rim of the lamp. The strip of cloth is called a wick. The wick would soak up the oil. People would then light the wick. The lamp would keep burning as long as there was oil, or until the wick would be burned up completely.</p><p>Inside a house, people would put oil lamps on stands so that they would be higher up and give more light.</p><div data-type=\"callout\" data-callout-style=\"action\"><p>You may want to look at some pictures of oil lamps.</p></div>",
 "associations": {
 "passage": [
 {
@@ -2653,7 +2696,15 @@
 "end_ref_usfm": "LUK 11:54"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israel",
+"language": "eng"
+}
+],
 "acai": []
 }
 },

@@ -8,7 +8,7 @@
 "index_reference": "犹大旧约犹太新约",
 "language": "zhs",
 "review_level": "None",
-"content": "<p>在新约时代，<b>犹太</b>是<a href=\"#t74\">以色列</a>一个地区的名称。</p><p>在耶稣时代，以色列不是一个独立的<a href=\"#t94\">国</a>。 <a href=\"#t259\">以色列人</a>被罗马人统治。 罗马人将以色列分成几个区域或省份。这些省份是南部的犹太，北部的<a href=\"#t55\">加利利</a>，中间的<a href=\"#t221\">撒马利亚</a>。</p><p>犹太是最重要的城市<a href=\"#t76\">耶路撒冷</a>和神的<a href=\"#t138\">圣殿</a>的所在地。 犹太的人经常认为他们是比加利利的人更好的<a href=\"#t77\">犹太人</a>。 他们看不起加利利人，认为他们没有受过教育，粗鲁无礼。 犹太<em>和</em>加利利的人看不起撒马利亚人，他们认为撒马利亚人根本不是犹太人。</p><p>新约中的犹太地区在旧约中被称为犹大。</p>",
+"content": "<p>在新约时代，<b>犹太</b>是<data class=\"resource-ref\" data-content-id=\"cmn-t74-v1\" data-resource-code=\"FIAKeyTerms\">以色列</data>一个地区的名称。</p><p>在耶稣时代，以色列不是一个独立的<data class=\"resource-ref\" data-content-id=\"cmn-t94-v1\" data-resource-code=\"FIAKeyTerms\">国</data>。 以色列人被罗马人统治。 罗马人将以色列分成几个区域或省份。这些省份是南部的犹太，北部的<data class=\"resource-ref\" data-content-id=\"cmn-t55-v1\" data-resource-code=\"FIAKeyTerms\">加利利</data>，中间的撒马利亚。</p><p>犹太是最重要的城市<data class=\"resource-ref\" data-content-id=\"cmn-t76-v1\" data-resource-code=\"FIAKeyTerms\">耶路撒冷</data>和神的<data class=\"resource-ref\" data-content-id=\"cmn-t138-v1\" data-resource-code=\"FIAKeyTerms\">圣殿</data>的所在地。 犹太的人经常认为他们是比加利利的人更好的<data class=\"resource-ref\" data-content-id=\"cmn-t77-v1\" data-resource-code=\"FIAKeyTerms\">犹太人</data>。 他们看不起加利利人，认为他们没有受过教育，粗鲁无礼。 犹太<em>和</em>加利利的人看不起撒马利亚人，他们认为撒马利亚人根本不是犹太人。</p><p>新约中的犹太地区在旧约中被称为犹大。</p>",
 "associations": {
 "passage": [
 {
@@ -208,6 +208,30 @@
 "start_ref_usfm": "2KI 14:1",
 "end_ref": "12014007",
 "end_ref_usfm": "2KI 14:7"
+},
+{
+"start_ref": "12014008",
+"start_ref_usfm": "2KI 14:8",
+"end_ref": "12014016",
+"end_ref_usfm": "2KI 14:16"
+},
+{
+"start_ref": "12014017",
+"start_ref_usfm": "2KI 14:17",
+"end_ref": "12014022",
+"end_ref_usfm": "2KI 14:22"
+},
+{
+"start_ref": "12014023",
+"start_ref_usfm": "2KI 14:23",
+"end_ref": "12014029",
+"end_ref_usfm": "2KI 14:29"
+},
+{
+"start_ref": "12015001",
+"start_ref_usfm": "2KI 15:1",
+"end_ref": "12015007",
+"end_ref_usfm": "2KI 15:7"
 },
 {
 "start_ref": "13002009",
@@ -586,33 +610,52 @@
 "start_ref_usfm": "NEH 6:1",
 "end_ref": "16006014",
 "end_ref_usfm": "NEH 6:14"
-},
-{
-"start_ref": "16006015",
-"start_ref_usfm": "NEH 6:15",
-"end_ref": "16007004",
-"end_ref_usfm": "NEH 7:4"
-},
-{
-"start_ref": "16007005",
-"start_ref_usfm": "NEH 7:5",
-"end_ref": "16007025",
-"end_ref_usfm": "NEH 7:25"
-},
-{
-"start_ref": "17002001",
-"start_ref_usfm": "EST 2:1",
-"end_ref": "17002011",
-"end_ref_usfm": "EST 2:11"
-},
-{
-"start_ref": "40010001",
-"start_ref_usfm": "MAT 10:1",
-"end_ref": "40010015",
-"end_ref_usfm": "MAT 10:15"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t74-v1",
+"resource_code": "FIAKeyTerms",
+"label": "以色列",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t94-v1",
+"resource_code": "FIAKeyTerms",
+"label": "国",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t55-v1",
+"resource_code": "FIAKeyTerms",
+"label": "加利利",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t76-v1",
+"resource_code": "FIAKeyTerms",
+"label": "耶路撒冷",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t138-v1",
+"resource_code": "FIAKeyTerms",
+"label": "圣殿",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t77-v1",
+"resource_code": "FIAKeyTerms",
+"label": "犹太人",
+"language": "zhs"
+}
+],
 "acai": [
 {
 "id": "place:Judea",
@@ -835,6 +878,30 @@
 "end_ref_usfm": "2KI 14:7"
 },
 {
+"start_ref": "12014008",
+"start_ref_usfm": "2KI 14:8",
+"end_ref": "12014016",
+"end_ref_usfm": "2KI 14:16"
+},
+{
+"start_ref": "12014017",
+"start_ref_usfm": "2KI 14:17",
+"end_ref": "12014022",
+"end_ref_usfm": "2KI 14:22"
+},
+{
+"start_ref": "12014023",
+"start_ref_usfm": "2KI 14:23",
+"end_ref": "12014029",
+"end_ref_usfm": "2KI 14:29"
+},
+{
+"start_ref": "12015001",
+"start_ref_usfm": "2KI 15:1",
+"end_ref": "12015007",
+"end_ref_usfm": "2KI 15:7"
+},
+{
 "start_ref": "13002009",
 "start_ref_usfm": "1CH 2:9",
 "end_ref": "13002017",
@@ -1211,30 +1278,6 @@
 "start_ref_usfm": "NEH 6:1",
 "end_ref": "16006014",
 "end_ref_usfm": "NEH 6:14"
-},
-{
-"start_ref": "16006015",
-"start_ref_usfm": "NEH 6:15",
-"end_ref": "16007004",
-"end_ref_usfm": "NEH 7:4"
-},
-{
-"start_ref": "16007005",
-"start_ref_usfm": "NEH 7:5",
-"end_ref": "16007025",
-"end_ref_usfm": "NEH 7:25"
-},
-{
-"start_ref": "17002001",
-"start_ref_usfm": "EST 2:1",
-"end_ref": "17002011",
-"end_ref_usfm": "EST 2:11"
-},
-{
-"start_ref": "40010001",
-"start_ref_usfm": "MAT 10:1",
-"end_ref": "40010015",
-"end_ref_usfm": "MAT 10:15"
 }
 ],
 "resource": []
@@ -1249,7 +1292,7 @@
 "index_reference": "油灯",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><a href=\"#t74\">以色列人</a>使用<b>油灯</b>来帮助他们在黑暗中看见东西。 人们用粘土制成灯，然后在烤箱中烧粘土，使其变得坚硬。 人们也可以用石头切出灯。 许多油灯看起来就像有人把碗的边缘捏在一起，但其它油灯则更加精巧。 人们把油放进碗中。 通常这是橄榄油，是来自橄榄树的果实。 然后人们把一块布放进碗中：一端位于油里面，另一端位于灯的边缘。 这个布条被称为灯芯。 灯芯会吸收油。 然后人们会点燃灯芯。 只要有油，灯就会一直燃烧，或者直到灯芯被完全烧毁。</p><p>在房子里面，人们会把油灯放在灯架上，这样灯就会更高，发出更多的光线。</p><div data-type=\"callout\" data-callout-style=\"action\"><p>你可能会想要看一些油灯的图片。</p></div>",
+"content": "<p><data class=\"resource-ref\" data-content-id=\"cmn-t74-v1\" data-resource-code=\"FIAKeyTerms\">以色列人</data>使用<b>油灯</b>来帮助他们在黑暗中看见东西。 人们用粘土制成灯，然后在烤箱中烧粘土，使其变得坚硬。 人们也可以用石头切出灯。 许多油灯看起来就像有人把碗的边缘捏在一起，但其它油灯则更加精巧。 人们把油放进碗中。 通常这是橄榄油，是来自橄榄树的果实。 然后人们把一块布放进碗中：一端位于油里面，另一端位于灯的边缘。 这个布条被称为灯芯。 灯芯会吸收油。 然后人们会点燃灯芯。 只要有油，灯就会一直燃烧，或者直到灯芯被完全烧毁。</p><p>在房子里面，人们会把油灯放在灯架上，这样灯就会更高，发出更多的光线。</p><div data-type=\"callout\" data-callout-style=\"action\"><p>你可能会想要看一些油灯的图片。</p></div>",
 "associations": {
 "passage": [
 {
@@ -1343,7 +1386,15 @@
 "end_ref_usfm": "LUK 11:54"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t74-v1",
+"resource_code": "FIAKeyTerms",
+"label": "以色列人",
+"language": "zhs"
+}
+],
 "acai": []
 }
 },

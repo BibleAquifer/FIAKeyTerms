@@ -8,7 +8,7 @@
 "index_reference": "教师",
 "language": "zhs",
 "review_level": "None",
-"content": "<p>圣经中的<b>教师</b>总是<b>宗教教师</b>：向人们解释<a href=\"#t120\">圣经</a>的人。 在他们的语言中，人们用来表示这样的教师的词是\"<a href=\"#t106\">拉比</a>\"，因此有些翻译会说\"教师\"，另一些则会说\"拉比\"。</p><p><strong>当你翻译\"教师\"时，要注意以下几个事项：</strong></p><p>你可以使用你的语言中的一个词或短语，意思是\"教师\"。 但这个词不应该是只用来表示学校的儿童教师的词。</p>",
+"content": "<p>圣经中的<b>教师</b>总是<b>宗教教师</b>：向人们解释<data class=\"resource-ref\" data-content-id=\"cmn-t120-v1\" data-resource-code=\"FIAKeyTerms\">圣经</data>的人。 在他们的语言中，人们用来表示这样的教师的词是\"<data class=\"resource-ref\" data-content-id=\"cmn-t106-v1\" data-resource-code=\"FIAKeyTerms\">拉比</data>\"，因此有些翻译会说\"教师\"，另一些则会说\"拉比\"。</p><p><strong>当你翻译\"教师\"时，要注意以下几个事项：</strong></p><p>你可以使用你的语言中的一个词或短语，意思是\"教师\"。 但这个词不应该是只用来表示学校的儿童教师的词。</p>",
 "associations": {
 "passage": [
 {
@@ -216,7 +216,22 @@
 "end_ref_usfm": "JAS 3:12"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t120-v1",
+"resource_code": "FIAKeyTerms",
+"label": "圣经",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t106-v1",
+"resource_code": "FIAKeyTerms",
+"label": "拉比",
+"language": "zhs"
+}
+],
 "acai": []
 }
 },
