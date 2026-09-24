@@ -8,7 +8,7 @@
 "index_reference": "赞美诗",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><b>赞美诗</b>是一种<a href=\"#t219\">赞美</a>神的诗歌。 <a href=\"#t77\">犹太人</a>通常以诗篇为样本。 当犹太人在犹太<a href=\"#t133\">会堂</a>聚会时，他们唱诗赞美神。 耶稣和祂的<a href=\"#t39\">门徒们</a>在一起吃了最后一顿饭时唱了一首赞美诗。 耶稣的追随者们聚在一起时也唱赞美诗。</p>",
+"content": "<p><b>赞美诗</b>是一种赞美神的诗歌。 <data class=\"resource-ref\" data-content-id=\"cmn-t77-v1\" data-resource-code=\"FIAKeyTerms\">犹太人</data>通常以诗篇为样本。 当犹太人在犹太<data class=\"resource-ref\" data-content-id=\"cmn-t133-v1\" data-resource-code=\"FIAKeyTerms\">会堂</data>聚会时，他们唱诗赞美神。 耶稣和祂的<data class=\"resource-ref\" data-content-id=\"cmn-t39-v1\" data-resource-code=\"FIAKeyTerms\">门徒们</data>在一起吃了最后一顿饭时唱了一首赞美诗。 耶稣的追随者们聚在一起时也唱赞美诗。</p>",
 "associations": {
 "passage": [
 {
@@ -42,7 +42,29 @@
 "end_ref_usfm": "EPH 5:21"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t77-v1",
+"resource_code": "FIAKeyTerms",
+"label": "犹太人",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t133-v1",
+"resource_code": "FIAKeyTerms",
+"label": "会堂",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t39-v1",
+"resource_code": "FIAKeyTerms",
+"label": "门徒们",
+"language": "zhs"
+}
+],
 "acai": []
 }
 },

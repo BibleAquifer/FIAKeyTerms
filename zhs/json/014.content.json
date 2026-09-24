@@ -8,7 +8,7 @@
 "index_reference": "法利赛人",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><b>法利赛人</b>是耶稣时代的一群宗教教师，他们非常注重完全遵守神的律法。 数百年来，这个群体的人一直在讨论神的<a href=\"#t83\">律法</a>，这些律法是神藉著摩西赐给<a href=\"#t259\">以色列人</a>的。 因为他们害怕可能会违背神的旨意，所以他们为自己增加了越来越多的诫命。 这些诫命成为他们传统的一部分，对他们来说，就像神赐给自己的诫命一样重要。 到目前为止，有太多的诫命了，人们要遵守所有的诫命是非常非常困难的。 法利赛人非常骄傲，因为他们认为只有他们才能遵守所有神的诫命。 他们看不起那些不能遵守这些诫命的人。 法利赛人这个名字的字面意思是\"分开\"。 法利赛人想要把自己与其他人分开。</p><p>在耶稣的时代，法利赛人是<a href=\"#t74\">以色列</a>最有影响力的一个宗教教师群体。 <a href=\"#t76\">耶路撒冷</a>的许多宗教教师都属于法利赛人这个群体。 另一个重要的宗教教师群体被称为<a href=\"#t115\">撒都该人</a>。 法利赛人和撒都该人也是<a href=\"#t77\">犹太人</a>宗教法庭<a href=\"#t168\">公会</a>的成员。</p>",
+"content": "<p><b>法利赛人</b>是耶稣时代的一群宗教教师，他们非常注重完全遵守神的律法。 数百年来，这个群体的人一直在讨论神的<data class=\"resource-ref\" data-content-id=\"cmn-t83-v1\" data-resource-code=\"FIAKeyTerms\">律法</data>，这些律法是神藉著摩西赐给以色列人的。 因为他们害怕可能会违背神的旨意，所以他们为自己增加了越来越多的诫命。 这些诫命成为他们传统的一部分，对他们来说，就像神赐给自己的诫命一样重要。 到目前为止，有太多的诫命了，人们要遵守所有的诫命是非常非常困难的。 法利赛人非常骄傲，因为他们认为只有他们才能遵守所有神的诫命。 他们看不起那些不能遵守这些诫命的人。 法利赛人这个名字的字面意思是\"分开\"。 法利赛人想要把自己与其他人分开。</p><p>在耶稣的时代，法利赛人是<data class=\"resource-ref\" data-content-id=\"cmn-t74-v1\" data-resource-code=\"FIAKeyTerms\">以色列</data>最有影响力的一个宗教教师群体。 <data class=\"resource-ref\" data-content-id=\"cmn-t76-v1\" data-resource-code=\"FIAKeyTerms\">耶路撒冷</data>的许多宗教教师都属于法利赛人这个群体。 另一个重要的宗教教师群体被称为<data class=\"resource-ref\" data-content-id=\"cmn-t115-v1\" data-resource-code=\"FIAKeyTerms\">撒都该人</data>。 法利赛人和撒都该人也是<data class=\"resource-ref\" data-content-id=\"cmn-t77-v1\" data-resource-code=\"FIAKeyTerms\">犹太人</data>宗教法庭<data class=\"resource-ref\" data-content-id=\"cmn-t168-v1\" data-resource-code=\"FIAKeyTerms\">公会</data>的成员。</p>",
 "associations": {
 "passage": [
 {
@@ -378,7 +378,50 @@
 "end_ref_usfm": "PHP 3:11"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t83-v1",
+"resource_code": "FIAKeyTerms",
+"label": "律法",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t74-v1",
+"resource_code": "FIAKeyTerms",
+"label": "以色列",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t76-v1",
+"resource_code": "FIAKeyTerms",
+"label": "耶路撒冷",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t115-v1",
+"resource_code": "FIAKeyTerms",
+"label": "撒都该人",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t77-v1",
+"resource_code": "FIAKeyTerms",
+"label": "犹太人",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t168-v1",
+"resource_code": "FIAKeyTerms",
+"label": "公会",
+"language": "zhs"
+}
+],
 "acai": [
 {
 "id": "group:Pharisee",

@@ -181,7 +181,7 @@
 "index_reference": "旷野",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><a href=\"#t38\">沙漠</a>或<b>旷野</b>是孤独、贫瘠的无水之地。 沙漠中几乎没有树木或灌木丛生长。 地面干燥，多石头，野生动物四处游走。 人们不住在沙漠中。</p>",
+"content": "<p><data class=\"resource-ref\" data-content-id=\"cmn-t38-v1\" data-resource-code=\"FIAKeyTerms\">沙漠</data>或<b>旷野</b>是孤独、贫瘠的无水之地。 沙漠中几乎没有树木或灌木丛生长。 地面干燥，多石头，野生动物四处游走。 人们不住在沙漠中。</p>",
 "associations": {
 "passage": [
 {
@@ -785,7 +785,15 @@
 "end_ref_usfm": "LUK 4:13"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t38-v1",
+"resource_code": "FIAKeyTerms",
+"label": "沙漠",
+"language": "zhs"
+}
+],
 "acai": [
 {
 "id": "place:Arabah",

@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Familiarization, Internalization, Articulation (FIA) Key Terms</b> © 2025 Word Collective Released under CC BY-SA 4.0 license. <cite>Familiarization, Internalization, Articulation (FIA) Key Terms</cite> has been adapted in the following languages Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Familiarization, Internalization, Articulation (FIA)</cite> © 2025 Word Collective. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "FIAKeyTerms",
-"date_created": "2026-09-18",
+"date_created": "2026-09-23",
 "language": "swh",
 "localizations": [
 "arb",
@@ -39,6 +39,7 @@
 "nep",
 "por",
 "spa",
+"tpi",
 "zht",
 "hin",
 "zhs",
@@ -53,7 +54,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-09-18T08:50:14.114755"
+"dateCreated": "2026-09-23T19:31:58.207373"
 },
 "idAuthorities": {
 "aquifer": {
@@ -67,7 +68,7 @@
 "primary": {
 "aquifer": {
 "FIAKeyTerms": {
-"timestamp": "2026-09-18T08:50:14.114755"
+"timestamp": "2026-09-23T19:31:58.207373"
 }
 }
 },
@@ -99,7 +100,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 50515,
+"size": 23538,
 "scope": {
 "a": [
 "abba",
@@ -116,7 +117,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 42347,
+"size": 13806,
 "scope": {
 "b": [
 "Bahari ya Galilaya",
@@ -131,7 +132,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 50749,
+"size": 30169,
 "scope": {
 "d": [
 "damu",
@@ -147,7 +148,7 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 10021,
+"size": 13577,
 "scope": {
 "e": [
 "Eliya",
@@ -160,7 +161,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 17435,
+"size": 6465,
 "scope": {
 "f": [
 "farao",
@@ -172,7 +173,7 @@
 },
 "json/006.content.json": {
 "mimeType": "text/json",
-"size": 6004,
+"size": 6372,
 "scope": {
 "g": [
 "Gabrieli",
@@ -182,7 +183,7 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 62647,
+"size": 37811,
 "scope": {
 "h": [
 "habari njema",
@@ -201,7 +202,7 @@
 },
 "json/008.content.json": {
 "mimeType": "text/json",
-"size": 63516,
+"size": 24350,
 "scope": {
 "i": [
 "ibada",
@@ -217,7 +218,7 @@
 },
 "json/009.content.json": {
 "mimeType": "text/json",
-"size": 23234,
+"size": 9869,
 "scope": {
 "j": [
 "jangwa",
@@ -231,7 +232,7 @@
 },
 "json/010.content.json": {
 "mimeType": "text/json",
-"size": 157408,
+"size": 68998,
 "scope": {
 "k": [
 "kaburi",
@@ -268,7 +269,7 @@
 },
 "json/011.content.json": {
 "mimeType": "text/json",
-"size": 9292,
+"size": 3699,
 "scope": {
 "l": [
 "laana",
@@ -278,7 +279,7 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 362516,
+"size": 148056,
 "scope": {
 "m": [
 "maandiko",
@@ -345,7 +346,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 69140,
+"size": 33954,
 "scope": {
 "n": [
 "nabii",
@@ -368,7 +369,7 @@
 },
 "json/014.content.json": {
 "mimeType": "text/json",
-"size": 36903,
+"size": 24559,
 "scope": {
 "p": [
 "pagawa",
@@ -385,7 +386,7 @@
 },
 "json/015.content.json": {
 "mimeType": "text/json",
-"size": 23540,
+"size": 7872,
 "scope": {
 "r": [
 "rabi",
@@ -396,7 +397,7 @@
 },
 "json/016.content.json": {
 "mimeType": "text/json",
-"size": 100661,
+"size": 47359,
 "scope": {
 "s": [
 "sabato",
@@ -420,7 +421,7 @@
 },
 "json/017.content.json": {
 "mimeType": "text/json",
-"size": 58704,
+"size": 34117,
 "scope": {
 "t": [
 "taa ya mafuta",
@@ -440,7 +441,7 @@
 },
 "json/018.content.json": {
 "mimeType": "text/json",
-"size": 100348,
+"size": 41643,
 "scope": {
 "u": [
 "uasi",
@@ -466,7 +467,7 @@
 },
 "json/019.content.json": {
 "mimeType": "text/json",
-"size": 11504,
+"size": 1725,
 "scope": {
 "v": [
 "vazi",
@@ -476,7 +477,7 @@
 },
 "json/020.content.json": {
 "mimeType": "text/json",
-"size": 18734,
+"size": 8680,
 "scope": {
 "w": [
 "Wagerasi",
@@ -489,7 +490,7 @@
 },
 "json/021.content.json": {
 "mimeType": "text/json",
-"size": 44741,
+"size": 20289,
 "scope": {
 "y": [
 "Yahweh",
@@ -503,7 +504,7 @@
 },
 "json/022.content.json": {
 "mimeType": "text/json",
-"size": 1979,
+"size": 2372,
 "scope": {
 "z": [
 "zaka"
@@ -512,267 +513,267 @@
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 20768
+"size": 14539
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 8415
+"size": 6508
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 21723
+"size": 18578
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
-"size": 6900
+"size": 7635
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 3725
+"size": 2767
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 38404
+"size": 29581
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 8119
+"size": 6569
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
-"size": 24960
+"size": 20737
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 56393
+"size": 41084
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 5865
+"size": 4443
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 12204
+"size": 7923
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 16249
+"size": 12187
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 121490
+"size": 85489
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 8165
+"size": 5376
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
-"size": 27878
+"size": 23944
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
-"size": 3495
+"size": 3796
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 20159
+"size": 15546
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 17390
+"size": 15570
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 27133
+"size": 20881
 },
 "md/022.content.md": {
 "mimeType": "text/markdown",
-"size": 1811
+"size": 1841
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 3353
+"size": 1744
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
-"size": 37198
+"size": 27020
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 47470
+"size": 47086
 },
 "docx/002.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44651
+"size": 44338
 },
 "docx/003.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 48625
+"size": 48139
 },
 "docx/004.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44604
+"size": 44261
 },
 "docx/005.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43467
+"size": 43319
 },
 "docx/006.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43260
+"size": 43036
 },
 "docx/007.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 49683
+"size": 49181
 },
 "docx/008.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46636
+"size": 46202
 },
 "docx/009.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44126
+"size": 43910
 },
 "docx/010.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 55666
+"size": 54803
 },
 "docx/011.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42905
+"size": 42806
 },
 "docx/012.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 68872
+"size": 67304
 },
 "docx/013.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 49460
+"size": 48973
 },
 "docx/014.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 47132
+"size": 46692
 },
 "docx/015.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43991
+"size": 43765
 },
 "docx/016.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 51809
+"size": 51239
 },
 "docx/017.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 49306
+"size": 48802
 },
 "docx/018.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 51155
+"size": 50634
 },
 "docx/019.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42553
+"size": 42483
 },
 "docx/020.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44414
+"size": 44259
 },
 "docx/021.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46320
+"size": 45883
 },
 "docx/022.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42515
+"size": 42429
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
-"size": 69323
+"size": 56608
 },
 "pdf/002.content.pdf": {
 "mimeType": "application/pdf",
-"size": 54719
+"size": 42702
 },
 "pdf/003.content.pdf": {
 "mimeType": "application/pdf",
-"size": 80668
+"size": 59803
 },
 "pdf/004.content.pdf": {
 "mimeType": "application/pdf",
-"size": 52233
+"size": 39273
 },
 "pdf/005.content.pdf": {
 "mimeType": "application/pdf",
-"size": 38190
+"size": 33369
 },
 "pdf/006.content.pdf": {
 "mimeType": "application/pdf",
-"size": 38193
+"size": 31158
 },
 "pdf/007.content.pdf": {
 "mimeType": "application/pdf",
-"size": 101406
+"size": 75013
 },
 "pdf/008.content.pdf": {
 "mimeType": "application/pdf",
-"size": 70380
+"size": 55323
 },
 "pdf/009.content.pdf": {
 "mimeType": "application/pdf",
-"size": 45718
+"size": 38903
 },
 "pdf/010.content.pdf": {
 "mimeType": "application/pdf",
-"size": 159388
+"size": 114583
 },
 "pdf/011.content.pdf": {
 "mimeType": "application/pdf",
-"size": 32730
+"size": 29947
 },
 "pdf/012.content.pdf": {
 "mimeType": "application/pdf",
-"size": 313012
+"size": 204385
 },
 "pdf/013.content.pdf": {
 "mimeType": "application/pdf",
-"size": 94825
+"size": 71163
 },
 "pdf/014.content.pdf": {
 "mimeType": "application/pdf",
-"size": 69589
+"size": 55511
 },
 "pdf/015.content.pdf": {
 "mimeType": "application/pdf",
-"size": 43032
+"size": 36632
 },
 "pdf/016.content.pdf": {
 "mimeType": "application/pdf",
-"size": 120276
+"size": 87433
 },
 "pdf/017.content.pdf": {
 "mimeType": "application/pdf",
-"size": 87219
+"size": 65036
 },
 "pdf/018.content.pdf": {
 "mimeType": "application/pdf",
-"size": 108866
+"size": 84817
 },
 "pdf/019.content.pdf": {
 "mimeType": "application/pdf",
-"size": 29435
+"size": 28443
 },
 "pdf/020.content.pdf": {
 "mimeType": "application/pdf",
-"size": 44976
+"size": 40960
 },
 "pdf/021.content.pdf": {
 "mimeType": "application/pdf",
-"size": 69335
+"size": 51522
 },
 "pdf/022.content.pdf": {
 "mimeType": "application/pdf",
-"size": 29673
+"size": 27409
 }
 },
 "copyright": {
@@ -831,6 +832,11 @@
 "language": "spa",
 "title": "abraham"
 },
+"tpi": {
+"content_id": "tpi-t1-v1",
+"language": "tpi",
+"title": "abraham"
+},
 "zht": {
 "content_id": "zht-t1-v1",
 "language": "zht",
@@ -883,6 +889,11 @@
 "language": "spa",
 "title": "adultery"
 },
+"tpi": {
+"content_id": "tpi-t2-v1",
+"language": "tpi",
+"title": "adultery"
+},
 "zhs": {
 "content_id": "cmn-t2-v1",
 "language": "zhs",
@@ -928,6 +939,11 @@
 "spa": {
 "content_id": "spa-t3-v1",
 "language": "spa",
+"title": "altar"
+},
+"tpi": {
+"content_id": "tpi-t3-v1",
+"language": "tpi",
 "title": "altar"
 },
 "zht": {
@@ -987,6 +1003,11 @@
 "language": "spa",
 "title": "angel"
 },
+"tpi": {
+"content_id": "tpi-t4-v1",
+"language": "tpi",
+"title": "angel"
+},
 "zhs": {
 "content_id": "cmn-t4-v1",
 "language": "zhs",
@@ -1039,6 +1060,11 @@
 "language": "spa",
 "title": "anoint"
 },
+"tpi": {
+"content_id": "tpi-t5-v1",
+"language": "tpi",
+"title": "anoint"
+},
 "zhs": {
 "content_id": "cmn-t5-v1",
 "language": "zhs",
@@ -1089,6 +1115,11 @@
 "spa": {
 "content_id": "spa-t6-v1",
 "language": "spa",
+"title": "apostle"
+},
+"tpi": {
+"content_id": "tpi-t6-v1",
+"language": "tpi",
 "title": "apostle"
 },
 "zhs": {
@@ -1148,6 +1179,11 @@
 "language": "spa",
 "title": "authority"
 },
+"tpi": {
+"content_id": "tpi-t8-v1",
+"language": "tpi",
+"title": "authority"
+},
 "zhs": {
 "content_id": "cmn-t8-v1",
 "language": "zhs",
@@ -1205,6 +1241,11 @@
 "language": "spa",
 "title": "baptism"
 },
+"tpi": {
+"content_id": "tpi-t9-v1",
+"language": "tpi",
+"title": "baptism"
+},
 "zhs": {
 "content_id": "cmn-t9-v1",
 "language": "zhs",
@@ -1250,6 +1291,11 @@
 "spa": {
 "content_id": "spa-t10-v1",
 "language": "spa",
+"title": "basket"
+},
+"tpi": {
+"content_id": "tpi-t10-v1",
+"language": "tpi",
 "title": "basket"
 },
 "zhs": {
@@ -1309,6 +1355,11 @@
 "language": "spa",
 "title": "belief"
 },
+"tpi": {
+"content_id": "tpi-t11-v1",
+"language": "tpi",
+"title": "belief"
+},
 "zhs": {
 "content_id": "cmn-t11-v1",
 "language": "zhs",
@@ -1356,6 +1407,11 @@
 "language": "spa",
 "title": "believer"
 },
+"tpi": {
+"content_id": "tpi-t12-v1",
+"language": "tpi",
+"title": "believer"
+},
 "zht": {
 "content_id": "zht-t12-v1",
 "language": "zht",
@@ -1401,6 +1457,11 @@
 "spa": {
 "content_id": "spa-t13-v1",
 "language": "spa",
+"title": "bethlehem"
+},
+"tpi": {
+"content_id": "tpi-t13-v1",
+"language": "tpi",
 "title": "bethlehem"
 },
 "zht": {
@@ -1455,6 +1516,11 @@
 "language": "spa",
 "title": "bethsaida"
 },
+"tpi": {
+"content_id": "tpi-t14-v1",
+"language": "tpi",
+"title": "bethsaida"
+},
 "zhs": {
 "content_id": "cmn-t14-v1",
 "language": "zhs",
@@ -1507,6 +1573,11 @@
 "language": "spa",
 "title": "blasphemy"
 },
+"tpi": {
+"content_id": "tpi-t15-v1",
+"language": "tpi",
+"title": "blasphemy"
+},
 "zhs": {
 "content_id": "cmn-t15-v1",
 "language": "zhs",
@@ -1557,6 +1628,11 @@
 "spa": {
 "content_id": "spa-t16-v1",
 "language": "spa",
+"title": "bless"
+},
+"tpi": {
+"content_id": "tpi-t16-v1",
+"language": "tpi",
 "title": "bless"
 },
 "zhs": {
@@ -1616,6 +1692,11 @@
 "language": "spa",
 "title": "barco"
 },
+"tpi": {
+"content_id": "tpi-t17-v1",
+"language": "tpi",
+"title": "boat"
+},
 "zhs": {
 "content_id": "cmn-t17-v1",
 "language": "zhs",
@@ -1666,6 +1747,11 @@
 "spa": {
 "content_id": "spa-t18-v1",
 "language": "spa",
+"title": "bow"
+},
+"tpi": {
+"content_id": "tpi-t18-v1",
+"language": "tpi",
 "title": "bow"
 },
 "zhs": {
@@ -1720,6 +1806,11 @@
 "language": "spa",
 "title": "caesar"
 },
+"tpi": {
+"content_id": "tpi-t19-v1",
+"language": "tpi",
+"title": "caesar"
+},
 "zhs": {
 "content_id": "cmn-t19-v1",
 "language": "zhs",
@@ -1772,6 +1863,11 @@
 "language": "spa",
 "title": "caeserea-philippi"
 },
+"tpi": {
+"content_id": "tpi-t20-v1",
+"language": "tpi",
+"title": "caeserea-philippi"
+},
 "zhs": {
 "content_id": "cmn-t20-v1",
 "language": "zhs",
@@ -1822,6 +1918,11 @@
 "spa": {
 "content_id": "spa-t21-v1",
 "language": "spa",
+"title": "camel"
+},
+"tpi": {
+"content_id": "tpi-t21-v1",
+"language": "tpi",
 "title": "camel"
 },
 "zhs": {
@@ -1881,6 +1982,11 @@
 "language": "spa",
 "title": "Cafarnaúm"
 },
+"tpi": {
+"content_id": "tpi-t22-v1",
+"language": "tpi",
+"title": "capernaum"
+},
 "zhs": {
 "content_id": "cmn-t22-v1",
 "language": "zhs",
@@ -1938,6 +2044,11 @@
 "language": "spa",
 "title": "christ"
 },
+"tpi": {
+"content_id": "tpi-t23-v1",
+"language": "tpi",
+"title": "christ"
+},
 "zhs": {
 "content_id": "cmn-t23-v1",
 "language": "zhs",
@@ -1985,6 +2096,11 @@
 "language": "spa",
 "title": "church"
 },
+"tpi": {
+"content_id": "tpi-t24-v1",
+"language": "tpi",
+"title": "church"
+},
 "zht": {
 "content_id": "zht-t24-v1",
 "language": "zht",
@@ -2030,6 +2146,11 @@
 "spa": {
 "content_id": "spa-t25-v1",
 "language": "spa",
+"title": "circumcision"
+},
+"tpi": {
+"content_id": "tpi-t25-v1",
+"language": "tpi",
 "title": "circumcision"
 },
 "zht": {
@@ -2089,6 +2210,11 @@
 "language": "spa",
 "title": "clean-unclean"
 },
+"tpi": {
+"content_id": "tpi-t26-v1",
+"language": "tpi",
+"title": "clean-unclean"
+},
 "zhs": {
 "content_id": "cmn-t26-v1",
 "language": "zhs",
@@ -2139,6 +2265,11 @@
 "spa": {
 "content_id": "spa-t27-v1",
 "language": "spa",
+"title": "cloak"
+},
+"tpi": {
+"content_id": "tpi-t27-v1",
+"language": "tpi",
 "title": "cloak"
 },
 "zhs": {
@@ -2193,6 +2324,11 @@
 "language": "spa",
 "title": "cornerstone"
 },
+"tpi": {
+"content_id": "tpi-t28-v1",
+"language": "tpi",
+"title": "cornerstone"
+},
 "zhs": {
 "content_id": "cmn-t28-v1",
 "language": "zhs",
@@ -2243,6 +2379,11 @@
 "spa": {
 "content_id": "spa-t29-v1",
 "language": "spa",
+"title": "covenant"
+},
+"tpi": {
+"content_id": "tpi-t29-v1",
+"language": "tpi",
 "title": "covenant"
 },
 "zhs": {
@@ -2297,6 +2438,11 @@
 "language": "spa",
 "title": "cross"
 },
+"tpi": {
+"content_id": "tpi-t30-v1",
+"language": "tpi",
+"title": "cross"
+},
 "zhs": {
 "content_id": "cmn-t30-v1",
 "language": "zhs",
@@ -2347,6 +2493,11 @@
 "spa": {
 "content_id": "spa-t31-v1",
 "language": "spa",
+"title": "curse"
+},
+"tpi": {
+"content_id": "tpi-t31-v1",
+"language": "tpi",
 "title": "curse"
 },
 "zhs": {
@@ -2401,6 +2552,11 @@
 "language": "spa",
 "title": "david"
 },
+"tpi": {
+"content_id": "tpi-t33-v1",
+"language": "tpi",
+"title": "david"
+},
 "zhs": {
 "content_id": "cmn-t33-v1",
 "language": "zhs",
@@ -2451,6 +2607,11 @@
 "spa": {
 "content_id": "spa-t35-v1",
 "language": "spa",
+"title": "decapolis"
+},
+"tpi": {
+"content_id": "tpi-t35-v1",
+"language": "tpi",
 "title": "decapolis"
 },
 "zhs": {
@@ -2510,6 +2671,11 @@
 "language": "spa",
 "title": "demon"
 },
+"tpi": {
+"content_id": "tpi-t36-v1",
+"language": "tpi",
+"title": "demon"
+},
 "zhs": {
 "content_id": "cmn-t36-v1",
 "language": "zhs",
@@ -2560,6 +2726,11 @@
 "spa": {
 "content_id": "spa-t37-v1",
 "language": "spa",
+"title": "denarius"
+},
+"tpi": {
+"content_id": "tpi-t37-v1",
+"language": "tpi",
 "title": "denarius"
 },
 "zhs": {
@@ -2619,6 +2790,11 @@
 "language": "spa",
 "title": "desert"
 },
+"tpi": {
+"content_id": "tpi-t38-v1",
+"language": "tpi",
+"title": "desert"
+},
 "zhs": {
 "content_id": "cmn-t38-v1",
 "language": "zhs",
@@ -2671,6 +2847,11 @@
 "language": "spa",
 "title": "discípulo"
 },
+"tpi": {
+"content_id": "tpi-t39-v1",
+"language": "tpi",
+"title": "disciple"
+},
 "zhs": {
 "content_id": "cmn-t39-v1",
 "language": "zhs",
@@ -2721,6 +2902,11 @@
 "spa": {
 "content_id": "spa-t40-v1",
 "language": "spa",
+"title": "divorce"
+},
+"tpi": {
+"content_id": "tpi-t40-v1",
+"language": "tpi",
 "title": "divorce"
 },
 "zhs": {
@@ -2775,6 +2961,11 @@
 "language": "spa",
 "title": "donkey"
 },
+"tpi": {
+"content_id": "tpi-t41-v1",
+"language": "tpi",
+"title": "donkey"
+},
 "zhs": {
 "content_id": "cmn-t41-v1",
 "language": "zhs",
@@ -2825,6 +3016,11 @@
 "spa": {
 "content_id": "spa-t42-v1",
 "language": "spa",
+"title": "dove"
+},
+"tpi": {
+"content_id": "tpi-t42-v1",
+"language": "tpi",
 "title": "dove"
 },
 "zhs": {
@@ -2879,6 +3075,11 @@
 "language": "spa",
 "title": "elder"
 },
+"tpi": {
+"content_id": "tpi-t43-v1",
+"language": "tpi",
+"title": "elder"
+},
 "zhs": {
 "content_id": "cmn-t43-v1",
 "language": "zhs",
@@ -2931,6 +3132,11 @@
 "language": "spa",
 "title": "elijah"
 },
+"tpi": {
+"content_id": "tpi-t44-v1",
+"language": "tpi",
+"title": "elijah"
+},
 "zhs": {
 "content_id": "cmn-t44-v1",
 "language": "zhs",
@@ -2978,6 +3184,11 @@
 "language": "spa",
 "title": "elizabeth"
 },
+"tpi": {
+"content_id": "tpi-t45-v1",
+"language": "tpi",
+"title": "elizabeth"
+},
 "zht": {
 "content_id": "zht-t45-v1",
 "language": "zht",
@@ -2996,7 +3207,7 @@
 "title": "حياة أبدية"
 },
 "eng": {
-"content_id": "eng-t46-v1",
+"content_id": "eng-t46-v2",
 "language": "eng",
 "title": "eternal life"
 },
@@ -3028,6 +3239,11 @@
 "spa": {
 "content_id": "spa-t46-v1",
 "language": "spa",
+"title": "eternal-life"
+},
+"tpi": {
+"content_id": "tpi-t46-v1",
+"language": "tpi",
 "title": "eternal-life"
 },
 "zhs": {
@@ -3080,6 +3296,11 @@
 "spa": {
 "content_id": "spa-t47-v1",
 "language": "spa",
+"title": "evil-spirit"
+},
+"tpi": {
+"content_id": "tpi-t47-v1",
+"language": "tpi",
 "title": "evil-spirit"
 },
 "zhs": {
@@ -3139,6 +3360,11 @@
 "language": "spa",
 "title": "fe"
 },
+"tpi": {
+"content_id": "tpi-t48-v1",
+"language": "tpi",
+"title": "faith"
+},
 "zhs": {
 "content_id": "cmn-t48-v1",
 "language": "zhs",
@@ -3191,6 +3417,11 @@
 "language": "spa",
 "title": "fasting"
 },
+"tpi": {
+"content_id": "tpi-t49-v1",
+"language": "tpi",
+"title": "fasting"
+},
 "zhs": {
 "content_id": "cmn-t49-v1",
 "language": "zhs",
@@ -3241,6 +3472,11 @@
 "spa": {
 "content_id": "spa-t51-v1",
 "language": "spa",
+"title": "fig-tree"
+},
+"tpi": {
+"content_id": "tpi-t51-v1",
+"language": "tpi",
 "title": "fig-tree"
 },
 "zhs": {
@@ -3300,6 +3536,11 @@
 "language": "spa",
 "title": "fishing-net"
 },
+"tpi": {
+"content_id": "tpi-t52-v1",
+"language": "tpi",
+"title": "fishing-net"
+},
 "zhs": {
 "content_id": "cmn-t52-v1",
 "language": "zhs",
@@ -3357,6 +3598,11 @@
 "language": "spa",
 "title": "forgiveness"
 },
+"tpi": {
+"content_id": "tpi-t53-v1",
+"language": "tpi",
+"title": "forgiveness"
+},
 "zhs": {
 "content_id": "cmn-t53-v1",
 "language": "zhs",
@@ -3402,6 +3648,11 @@
 "spa": {
 "content_id": "spa-t54-v1",
 "language": "spa",
+"title": "gabriel"
+},
+"tpi": {
+"content_id": "tpi-t54-v1",
+"language": "tpi",
 "title": "gabriel"
 },
 "zht": {
@@ -3461,6 +3712,11 @@
 "language": "spa",
 "title": "galilee"
 },
+"tpi": {
+"content_id": "tpi-t55-v1",
+"language": "tpi",
+"title": "galilee"
+},
 "zhs": {
 "content_id": "cmn-t55-v1",
 "language": "zhs",
@@ -3511,6 +3767,11 @@
 "spa": {
 "content_id": "spa-t56-v1",
 "language": "spa",
+"title": "gentile"
+},
+"tpi": {
+"content_id": "tpi-t56-v1",
+"language": "tpi",
 "title": "gentile"
 },
 "zhs": {
@@ -3565,6 +3826,11 @@
 "language": "spa",
 "title": "gerasenes"
 },
+"tpi": {
+"content_id": "tpi-t57-v2.1",
+"language": "tpi",
+"title": "gerasenes"
+},
 "zhs": {
 "content_id": "cmn-t57-v1",
 "language": "zhs",
@@ -3615,6 +3881,11 @@
 "spa": {
 "content_id": "spa-t58-v1",
 "language": "spa",
+"title": "glory"
+},
+"tpi": {
+"content_id": "tpi-t58-v1",
+"language": "tpi",
 "title": "glory"
 },
 "zhs": {
@@ -3674,6 +3945,11 @@
 "language": "spa",
 "title": "gospel"
 },
+"tpi": {
+"content_id": "tpi-t60-v1",
+"language": "tpi",
+"title": "gospel"
+},
 "zhs": {
 "content_id": "cmn-t60-v1",
 "language": "zhs",
@@ -3719,6 +3995,11 @@
 "spa": {
 "content_id": "spa-t61-v1",
 "language": "spa",
+"title": "grace"
+},
+"tpi": {
+"content_id": "tpi-t61-v1",
+"language": "tpi",
 "title": "grace"
 },
 "zht": {
@@ -3778,6 +4059,11 @@
 "language": "spa",
 "title": "heal"
 },
+"tpi": {
+"content_id": "tpi-t62-v1",
+"language": "tpi",
+"title": "heal"
+},
 "zhs": {
 "content_id": "cmn-t62-v1",
 "language": "zhs",
@@ -3835,6 +4121,11 @@
 "language": "spa",
 "title": "heaven"
 },
+"tpi": {
+"content_id": "tpi-t63-v1",
+"language": "tpi",
+"title": "heaven"
+},
 "zhs": {
 "content_id": "cmn-t63-v1",
 "language": "zhs",
@@ -3853,7 +4144,7 @@
 "title": "وارث"
 },
 "eng": {
-"content_id": "eng-t64-v1",
+"content_id": "eng-t64-v2",
 "language": "eng",
 "title": "heir"
 },
@@ -3885,6 +4176,11 @@
 "spa": {
 "content_id": "spa-t64-v1",
 "language": "spa",
+"title": "heir"
+},
+"tpi": {
+"content_id": "tpi-t64-v1",
+"language": "tpi",
 "title": "heir"
 },
 "zhs": {
@@ -3939,6 +4235,11 @@
 "language": "spa",
 "title": "hell"
 },
+"tpi": {
+"content_id": "tpi-t65-v1",
+"language": "tpi",
+"title": "hell"
+},
 "zhs": {
 "content_id": "cmn-t65-v1",
 "language": "zhs",
@@ -3989,6 +4290,11 @@
 "spa": {
 "content_id": "spa-t66-v1",
 "language": "spa",
+"title": "herodian"
+},
+"tpi": {
+"content_id": "tpi-t66-v1",
+"language": "tpi",
 "title": "herodian"
 },
 "zhs": {
@@ -4048,6 +4354,11 @@
 "language": "spa",
 "title": "holy"
 },
+"tpi": {
+"content_id": "tpi-t67-v1",
+"language": "tpi",
+"title": "holy"
+},
 "zhs": {
 "content_id": "cmn-t67-v1",
 "language": "zhs",
@@ -4105,6 +4416,11 @@
 "language": "spa",
 "title": "holy-spirit"
 },
+"tpi": {
+"content_id": "tpi-t68-v1",
+"language": "tpi",
+"title": "holy-spirit"
+},
 "zhs": {
 "content_id": "cmn-t68-v1",
 "language": "zhs",
@@ -4157,6 +4473,11 @@
 "language": "spa",
 "title": "hosanna"
 },
+"tpi": {
+"content_id": "tpi-t69-v1",
+"language": "tpi",
+"title": "hosanna"
+},
 "zhs": {
 "content_id": "cmn-t69-v1",
 "language": "zhs",
@@ -4175,7 +4496,7 @@
 "title": "أهل بيت (أسرة)"
 },
 "eng": {
-"content_id": "eng-t70-v1",
+"content_id": "eng-t70-v2",
 "language": "eng",
 "title": "household"
 },
@@ -4207,6 +4528,11 @@
 "spa": {
 "content_id": "spa-t70-v1",
 "language": "spa",
+"title": "household"
+},
+"tpi": {
+"content_id": "tpi-t70-v1",
+"language": "tpi",
 "title": "household"
 },
 "zhs": {
@@ -4261,6 +4587,11 @@
 "language": "spa",
 "title": "hypocrisy"
 },
+"tpi": {
+"content_id": "tpi-t71-v1",
+"language": "tpi",
+"title": "hypocrisy"
+},
 "zhs": {
 "content_id": "cmn-t71-v1",
 "language": "zhs",
@@ -4306,6 +4637,11 @@
 "spa": {
 "content_id": "spa-t72-v1",
 "language": "spa",
+"title": "idol"
+},
+"tpi": {
+"content_id": "tpi-t72-v1",
+"language": "tpi",
 "title": "idol"
 },
 "zht": {
@@ -4360,6 +4696,11 @@
 "language": "spa",
 "title": "isaiah"
 },
+"tpi": {
+"content_id": "tpi-t73-v1",
+"language": "tpi",
+"title": "isaiah"
+},
 "zhs": {
 "content_id": "cmn-t73-v1",
 "language": "zhs",
@@ -4411,6 +4752,11 @@
 "content_id": "spa-t74-v2",
 "language": "spa",
 "title": "israel"
+},
+"tpi": {
+"content_id": "tpi-t74-v2",
+"language": "tpi",
+"title": "israel"
 }
 }
 },
@@ -4457,6 +4803,11 @@
 "spa": {
 "content_id": "spa-t75-v1",
 "language": "spa",
+"title": "james"
+},
+"tpi": {
+"content_id": "tpi-t75-v1",
+"language": "tpi",
 "title": "james"
 },
 "zhs": {
@@ -4516,6 +4867,11 @@
 "language": "spa",
 "title": "jerusalem"
 },
+"tpi": {
+"content_id": "tpi-t76-v1",
+"language": "tpi",
+"title": "jerusalem"
+},
 "zhs": {
 "content_id": "cmn-t76-v1",
 "language": "zhs",
@@ -4567,6 +4923,11 @@
 "content_id": "spa-t77-v2",
 "language": "spa",
 "title": "jew"
+},
+"tpi": {
+"content_id": "tpi-t77-v2",
+"language": "tpi",
+"title": "jew"
 }
 }
 },
@@ -4613,6 +4974,11 @@
 "spa": {
 "content_id": "spa-t78-v1",
 "language": "spa",
+"title": "john"
+},
+"tpi": {
+"content_id": "tpi-t78-v1",
+"language": "tpi",
 "title": "john"
 },
 "zhs": {
@@ -4667,6 +5033,11 @@
 "language": "spa",
 "title": "john-the-baptist"
 },
+"tpi": {
+"content_id": "tpi-t79-v1",
+"language": "tpi",
+"title": "john-the-baptist"
+},
 "zhs": {
 "content_id": "cmn-t79-v1",
 "language": "zhs",
@@ -4719,6 +5090,11 @@
 "language": "spa",
 "title": "jordan-river"
 },
+"tpi": {
+"content_id": "tpi-t80-v1",
+"language": "tpi",
+"title": "jordan-river"
+},
 "zhs": {
 "content_id": "cmn-t80-v1",
 "language": "zhs",
@@ -4737,7 +5113,7 @@
 "title": "اليهودية"
 },
 "eng": {
-"content_id": "eng-t81-v1",
+"content_id": "eng-t81-v2",
 "language": "eng",
 "title": "Judea"
 },
@@ -4769,6 +5145,11 @@
 "spa": {
 "content_id": "spa-t81-v1",
 "language": "spa",
+"title": "judea"
+},
+"tpi": {
+"content_id": "tpi-t81-v1",
+"language": "tpi",
 "title": "judea"
 },
 "zhs": {
@@ -4828,6 +5209,11 @@
 "language": "spa",
 "title": "kingdom-of-god"
 },
+"tpi": {
+"content_id": "tpi-t82-v1",
+"language": "tpi",
+"title": "kingdom-of-god"
+},
 "zhs": {
 "content_id": "cmn-t82-v1",
 "language": "zhs",
@@ -4885,6 +5271,11 @@
 "language": "spa",
 "title": "law"
 },
+"tpi": {
+"content_id": "tpi-t83-v1",
+"language": "tpi",
+"title": "law"
+},
 "zhs": {
 "content_id": "cmn-t83-v1",
 "language": "zhs",
@@ -4935,6 +5326,11 @@
 "spa": {
 "content_id": "spa-t84-v1",
 "language": "spa",
+"title": "legion"
+},
+"tpi": {
+"content_id": "tpi-t84-v1",
+"language": "tpi",
 "title": "legion"
 },
 "zhs": {
@@ -4994,6 +5390,11 @@
 "language": "spa",
 "title": "leprosy"
 },
+"tpi": {
+"content_id": "tpi-t85-v1",
+"language": "tpi",
+"title": "leprosy"
+},
 "zhs": {
 "content_id": "cmn-t85-v1",
 "language": "zhs",
@@ -5045,6 +5446,11 @@
 "content_id": "spa-t87-v1",
 "language": "spa",
 "title": "Señor"
+},
+"tpi": {
+"content_id": "tpi-t87-v1",
+"language": "tpi",
+"title": "lord"
 },
 "zhs": {
 "content_id": "cmn-t87-v1",
@@ -5098,6 +5504,11 @@
 "language": "spa",
 "title": "Señor"
 },
+"tpi": {
+"content_id": "tpi-t88-v1",
+"language": "tpi",
+"title": "lord"
+},
 "zhs": {
 "content_id": "cmn-t88-v1",
 "language": "zhs",
@@ -5143,6 +5554,11 @@
 "spa": {
 "content_id": "spa-t89-v1",
 "language": "spa",
+"title": "mary"
+},
+"tpi": {
+"content_id": "tpi-t89-v1",
+"language": "tpi",
 "title": "mary"
 },
 "zht": {
@@ -5191,6 +5607,11 @@
 "content_id": "spa-t90-v1",
 "language": "spa",
 "title": "maestro"
+},
+"tpi": {
+"content_id": "tpi-t90-v1",
+"language": "tpi",
+"title": "master"
 },
 "zht": {
 "content_id": "zht-t90-v1",
@@ -5242,6 +5663,11 @@
 "spa": {
 "content_id": "spa-t91-v1",
 "language": "spa",
+"title": "mercy"
+},
+"tpi": {
+"content_id": "tpi-t91-v1",
+"language": "tpi",
 "title": "mercy"
 },
 "zhs": {
@@ -5296,6 +5722,11 @@
 "language": "spa",
 "title": "messiah"
 },
+"tpi": {
+"content_id": "tpi-t92-v1",
+"language": "tpi",
+"title": "messiah"
+},
 "zhs": {
 "content_id": "cmn-t92-v1",
 "language": "zhs",
@@ -5348,6 +5779,11 @@
 "language": "spa",
 "title": "miracles"
 },
+"tpi": {
+"content_id": "tpi-t93-v1",
+"language": "tpi",
+"title": "miracles"
+},
 "zhs": {
 "content_id": "cmn-t93-v1",
 "language": "zhs",
@@ -5366,7 +5802,7 @@
 "title": "أمَّة"
 },
 "eng": {
-"content_id": "eng-t94-v1",
+"content_id": "eng-t94-v2",
 "language": "eng",
 "title": "nation"
 },
@@ -5398,6 +5834,11 @@
 "spa": {
 "content_id": "spa-t94-v1",
 "language": "spa",
+"title": "nation"
+},
+"tpi": {
+"content_id": "tpi-t94-v1",
+"language": "tpi",
 "title": "nation"
 },
 "zhs": {
@@ -5457,6 +5898,11 @@
 "language": "spa",
 "title": "nazareth"
 },
+"tpi": {
+"content_id": "tpi-t95-v1",
+"language": "tpi",
+"title": "nazareth"
+},
 "zhs": {
 "content_id": "cmn-t95-v1",
 "language": "zhs",
@@ -5507,6 +5953,11 @@
 "spa": {
 "content_id": "spa-t96-v1",
 "language": "spa",
+"title": "oath"
+},
+"tpi": {
+"content_id": "tpi-t96-v1",
+"language": "tpi",
 "title": "oath"
 },
 "zhs": {
@@ -5561,6 +6012,11 @@
 "language": "spa",
 "title": "oil-lamp"
 },
+"tpi": {
+"content_id": "tpi-t97-v1",
+"language": "tpi",
+"title": "oil-lamp"
+},
 "zhs": {
 "content_id": "cmn-t97-v1",
 "language": "zhs",
@@ -5613,6 +6069,11 @@
 "language": "spa",
 "title": "parable"
 },
+"tpi": {
+"content_id": "tpi-t98-v1",
+"language": "tpi",
+"title": "parable"
+},
 "zhs": {
 "content_id": "cmn-t98-v1",
 "language": "zhs",
@@ -5660,6 +6121,11 @@
 "language": "spa",
 "title": "paradise"
 },
+"tpi": {
+"content_id": "tpi-t99-v1",
+"language": "tpi",
+"title": "paradise"
+},
 "zht": {
 "content_id": "zht-t99-v1",
 "language": "zht",
@@ -5705,6 +6171,11 @@
 "spa": {
 "content_id": "spa-t100-v1",
 "language": "spa",
+"title": "pharisee"
+},
+"tpi": {
+"content_id": "tpi-t100-v1",
+"language": "tpi",
 "title": "pharisee"
 },
 "zhs": {
@@ -5764,6 +6235,11 @@
 "language": "spa",
 "title": "possessed"
 },
+"tpi": {
+"content_id": "tpi-t101-v1",
+"language": "tpi",
+"title": "possessed"
+},
 "zhs": {
 "content_id": "cmn-t101-v1",
 "language": "zhs",
@@ -5814,6 +6290,11 @@
 "spa": {
 "content_id": "spa-t102-v1",
 "language": "spa",
+"title": "pray"
+},
+"tpi": {
+"content_id": "tpi-t102-v1",
+"language": "tpi",
 "title": "pray"
 },
 "zhs": {
@@ -5868,6 +6349,11 @@
 "language": "spa",
 "title": "priest"
 },
+"tpi": {
+"content_id": "tpi-t103-v1",
+"language": "tpi",
+"title": "priest"
+},
 "zhs": {
 "content_id": "cmn-t103-v1",
 "language": "zhs",
@@ -5918,6 +6404,11 @@
 "spa": {
 "content_id": "spa-t104-v1",
 "language": "spa",
+"title": "prophet"
+},
+"tpi": {
+"content_id": "tpi-t104-v1",
+"language": "tpi",
 "title": "prophet"
 },
 "zhs": {
@@ -5972,6 +6463,11 @@
 "language": "spa",
 "title": "ransom"
 },
+"tpi": {
+"content_id": "tpi-t105-v1",
+"language": "tpi",
+"title": "ransom"
+},
 "zhs": {
 "content_id": "cmn-t105-v1",
 "language": "zhs",
@@ -6019,6 +6515,11 @@
 "language": "spa",
 "title": "rabbi"
 },
+"tpi": {
+"content_id": "tpi-t106-v1",
+"language": "tpi",
+"title": "rabbi"
+},
 "zhs": {
 "content_id": "cmn-t106-v1",
 "language": "zhs",
@@ -6037,7 +6538,7 @@
 "title": "يفدي"
 },
 "eng": {
-"content_id": "eng-t107-v1",
+"content_id": "eng-t107-v2",
 "language": "eng",
 "title": "redeem"
 },
@@ -6064,6 +6565,11 @@
 "spa": {
 "content_id": "spa-t107-v1",
 "language": "spa",
+"title": "redeem"
+},
+"tpi": {
+"content_id": "tpi-t107-v1",
+"language": "tpi",
 "title": "redeem"
 },
 "zht": {
@@ -6118,6 +6624,11 @@
 "language": "spa",
 "title": "repentance"
 },
+"tpi": {
+"content_id": "tpi-t109-v1",
+"language": "tpi",
+"title": "repentance"
+},
 "zhs": {
 "content_id": "cmn-t109-v1",
 "language": "zhs",
@@ -6170,6 +6681,11 @@
 "language": "spa",
 "title": "resurrection"
 },
+"tpi": {
+"content_id": "tpi-t110-v1",
+"language": "tpi",
+"title": "resurrection"
+},
 "zhs": {
 "content_id": "cmn-t110-v1",
 "language": "zhs",
@@ -6188,7 +6704,7 @@
 "title": "البرّ"
 },
 "eng": {
-"content_id": "eng-t111-v1",
+"content_id": "eng-t111-v2",
 "language": "eng",
 "title": "righteousness"
 },
@@ -6220,6 +6736,11 @@
 "spa": {
 "content_id": "spa-t111-v1",
 "language": "spa",
+"title": "righteousness"
+},
+"tpi": {
+"content_id": "tpi-t111-v1",
+"language": "tpi",
 "title": "righteousness"
 },
 "zhs": {
@@ -6274,6 +6795,11 @@
 "language": "spa",
 "title": "robe"
 },
+"tpi": {
+"content_id": "tpi-t112-v1",
+"language": "tpi",
+"title": "robe"
+},
 "zhs": {
 "content_id": "cmn-t112-v1",
 "language": "zhs",
@@ -6292,7 +6818,7 @@
 "title": "السبت"
 },
 "eng": {
-"content_id": "eng-t113-v1",
+"content_id": "eng-t113-v2",
 "language": "eng",
 "title": "sabbath"
 },
@@ -6329,6 +6855,11 @@
 "spa": {
 "content_id": "spa-t113-v1",
 "language": "spa",
+"title": "sabbath"
+},
+"tpi": {
+"content_id": "tpi-t113-v1",
+"language": "tpi",
 "title": "sabbath"
 },
 "zhs": {
@@ -6383,6 +6914,11 @@
 "language": "spa",
 "title": "sacrifice"
 },
+"tpi": {
+"content_id": "tpi-t114-v1",
+"language": "tpi",
+"title": "sacrifice"
+},
 "zhs": {
 "content_id": "cmn-t114-v1",
 "language": "zhs",
@@ -6433,6 +6969,11 @@
 "spa": {
 "content_id": "spa-t115-v1",
 "language": "spa",
+"title": "sadducee"
+},
+"tpi": {
+"content_id": "tpi-t115-v1",
+"language": "tpi",
 "title": "sadducee"
 },
 "zhs": {
@@ -6487,6 +7028,11 @@
 "language": "spa",
 "title": "salvation"
 },
+"tpi": {
+"content_id": "tpi-t116-v1",
+"language": "tpi",
+"title": "salvation"
+},
 "zhs": {
 "content_id": "cmn-t116-v1",
 "language": "zhs",
@@ -6532,6 +7078,11 @@
 "spa": {
 "content_id": "spa-t117-v1",
 "language": "spa",
+"title": "sanctuary"
+},
+"tpi": {
+"content_id": "tpi-t117-v1",
+"language": "tpi",
 "title": "sanctuary"
 },
 "zht": {
@@ -6591,6 +7142,11 @@
 "language": "spa",
 "title": "satan"
 },
+"tpi": {
+"content_id": "tpi-t118-v1",
+"language": "tpi",
+"title": "satan"
+},
 "zhs": {
 "content_id": "cmn-t118-v1",
 "language": "zhs",
@@ -6636,6 +7192,11 @@
 "spa": {
 "content_id": "spa-t119-v1",
 "language": "spa",
+"title": "savior"
+},
+"tpi": {
+"content_id": "tpi-t119-v1",
+"language": "tpi",
 "title": "savior"
 },
 "zht": {
@@ -6688,6 +7249,11 @@
 "spa": {
 "content_id": "spa-t120-v1",
 "language": "spa",
+"title": "scriptures"
+},
+"tpi": {
+"content_id": "tpi-t120-v1",
+"language": "tpi",
 "title": "scriptures"
 },
 "zhs": {
@@ -6747,6 +7313,11 @@
 "language": "spa",
 "title": "Mar de Galilea"
 },
+"tpi": {
+"content_id": "tpi-t121-v1",
+"language": "tpi",
+"title": "sea-of-galilee"
+},
 "zhs": {
 "content_id": "cmn-t121-v1",
 "language": "zhs",
@@ -6799,6 +7370,11 @@
 "language": "spa",
 "title": "seed"
 },
+"tpi": {
+"content_id": "tpi-t122-v1",
+"language": "tpi",
+"title": "seed"
+},
 "zhs": {
 "content_id": "cmn-t122-v1",
 "language": "zhs",
@@ -6817,7 +7393,7 @@
 "title": "خادم"
 },
 "eng": {
-"content_id": "eng-t123-v2",
+"content_id": "eng-t123-v3",
 "language": "eng",
 "title": "servant"
 },
@@ -6849,6 +7425,11 @@
 "spa": {
 "content_id": "spa-t123-v2",
 "language": "spa",
+"title": "servant"
+},
+"tpi": {
+"content_id": "tpi-t123-v2",
+"language": "tpi",
 "title": "servant"
 },
 "zhs": {
@@ -6901,6 +7482,11 @@
 "spa": {
 "content_id": "spa-t124-v1",
 "language": "spa",
+"title": "shelter"
+},
+"tpi": {
+"content_id": "tpi-t124-v1",
+"language": "tpi",
 "title": "shelter"
 },
 "zhs": {
@@ -6960,6 +7546,11 @@
 "language": "spa",
 "title": "pecado"
 },
+"tpi": {
+"content_id": "tpi-t125-v1",
+"language": "tpi",
+"title": "sin"
+},
 "zhs": {
 "content_id": "cmn-t125-v1",
 "language": "zhs",
@@ -6978,7 +7569,7 @@
 "title": "عبد"
 },
 "eng": {
-"content_id": "eng-t126-v2",
+"content_id": "eng-t126-v3",
 "language": "eng",
 "title": "slave"
 },
@@ -7012,6 +7603,11 @@
 "language": "spa",
 "title": "slave"
 },
+"tpi": {
+"content_id": "tpi-t126-v2",
+"language": "tpi",
+"title": "slave"
+},
 "zhs": {
 "content_id": "cmn-t126-v2",
 "language": "zhs",
@@ -7030,7 +7626,7 @@
 "title": "ابن"
 },
 "eng": {
-"content_id": "eng-t127-v1",
+"content_id": "eng-t127-v2",
 "language": "eng",
 "title": "son"
 },
@@ -7062,6 +7658,11 @@
 "spa": {
 "content_id": "spa-t127-v1",
 "language": "spa",
+"title": "son"
+},
+"tpi": {
+"content_id": "tpi-t127-v1",
+"language": "tpi",
 "title": "son"
 },
 "zhs": {
@@ -7114,6 +7715,11 @@
 "spa": {
 "content_id": "spa-t128-v1",
 "language": "spa",
+"title": "son-of-david"
+},
+"tpi": {
+"content_id": "tpi-t128-v1",
+"language": "tpi",
 "title": "son-of-david"
 },
 "zhs": {
@@ -7173,6 +7779,11 @@
 "language": "spa",
 "title": "son-of-god"
 },
+"tpi": {
+"content_id": "tpi-t129-v1",
+"language": "tpi",
+"title": "son-of-god"
+},
 "zhs": {
 "content_id": "cmn-t129-v1",
 "language": "zhs",
@@ -7223,6 +7834,11 @@
 "spa": {
 "content_id": "spa-t130-v1",
 "language": "spa",
+"title": "son-of-man"
+},
+"tpi": {
+"content_id": "tpi-t130-v1",
+"language": "tpi",
 "title": "son-of-man"
 },
 "zhs": {
@@ -7277,6 +7893,11 @@
 "language": "spa",
 "title": "soul"
 },
+"tpi": {
+"content_id": "tpi-t131-v1",
+"language": "tpi",
+"title": "soul"
+},
 "zhs": {
 "content_id": "cmn-t131-v1",
 "language": "zhs",
@@ -7327,6 +7948,11 @@
 "spa": {
 "content_id": "spa-t132-v1",
 "language": "spa",
+"title": "spirit"
+},
+"tpi": {
+"content_id": "tpi-t132-v1",
+"language": "tpi",
 "title": "spirit"
 },
 "zhs": {
@@ -7381,6 +8007,11 @@
 "language": "spa",
 "title": "synagogue"
 },
+"tpi": {
+"content_id": "tpi-t133-v1",
+"language": "tpi",
+"title": "synagogue"
+},
 "zhs": {
 "content_id": "cmn-t133-v1",
 "language": "zhs",
@@ -7431,6 +8062,11 @@
 "spa": {
 "content_id": "spa-t134-v1",
 "language": "spa",
+"title": "synagogue-ruler"
+},
+"tpi": {
+"content_id": "tpi-t134-v1",
+"language": "tpi",
 "title": "synagogue-ruler"
 },
 "zhs": {
@@ -7485,6 +8121,11 @@
 "language": "spa",
 "title": "syrian-phoenicia"
 },
+"tpi": {
+"content_id": "tpi-t135-v1",
+"language": "tpi",
+"title": "syrian-phoenicia"
+},
 "zhs": {
 "content_id": "cmn-t135-v1",
 "language": "zhs",
@@ -7535,6 +8176,11 @@
 "spa": {
 "content_id": "spa-t136-v1",
 "language": "spa",
+"title": "teacher"
+},
+"tpi": {
+"content_id": "tpi-t136-v1",
+"language": "tpi",
 "title": "teacher"
 },
 "zhs": {
@@ -7594,6 +8240,11 @@
 "language": "spa",
 "title": "teachers-of-the-law"
 },
+"tpi": {
+"content_id": "tpi-t137-v1",
+"language": "tpi",
+"title": "teachers-of-the-law"
+},
 "zhs": {
 "content_id": "cmn-t137-v1",
 "language": "zhs",
@@ -7644,6 +8295,11 @@
 "spa": {
 "content_id": "spa-t138-v1",
 "language": "spa",
+"title": "temple"
+},
+"tpi": {
+"content_id": "tpi-t138-v1",
+"language": "tpi",
 "title": "temple"
 },
 "zhs": {
@@ -7698,6 +8354,11 @@
 "language": "spa",
 "title": "tenants"
 },
+"tpi": {
+"content_id": "tpi-t139-v1",
+"language": "tpi",
+"title": "tenants"
+},
 "zhs": {
 "content_id": "cmn-t139-v1",
 "language": "zhs",
@@ -7748,6 +8409,11 @@
 "spa": {
 "content_id": "spa-t140-v1",
 "language": "spa",
+"title": "tomb"
+},
+"tpi": {
+"content_id": "tpi-t140-v1",
+"language": "tpi",
 "title": "tomb"
 },
 "zhs": {
@@ -7802,6 +8468,11 @@
 "language": "spa",
 "title": "tyre"
 },
+"tpi": {
+"content_id": "tpi-t141-v1",
+"language": "tpi",
+"title": "tyre"
+},
 "zhs": {
 "content_id": "cmn-t141-v1",
 "language": "zhs",
@@ -7854,6 +8525,11 @@
 "language": "spa",
 "title": "vineyard"
 },
+"tpi": {
+"content_id": "tpi-t142-v1",
+"language": "tpi",
+"title": "vineyard"
+},
 "zhs": {
 "content_id": "cmn-t142-v1",
 "language": "zhs",
@@ -7899,6 +8575,11 @@
 "spa": {
 "content_id": "spa-t143-v1",
 "language": "spa",
+"title": "vision"
+},
+"tpi": {
+"content_id": "tpi-t143-v1",
+"language": "tpi",
 "title": "vision"
 },
 "zht": {
@@ -7953,6 +8634,11 @@
 "language": "spa",
 "title": "watchtower"
 },
+"tpi": {
+"content_id": "tpi-t144-v1",
+"language": "tpi",
+"title": "watchtower"
+},
 "zhs": {
 "content_id": "cmn-t144-v1",
 "language": "zhs",
@@ -8003,6 +8689,11 @@
 "spa": {
 "content_id": "spa-t145-v1",
 "language": "spa",
+"title": "wilderness"
+},
+"tpi": {
+"content_id": "tpi-t145-v1",
+"language": "tpi",
 "title": "wilderness"
 },
 "zhs": {
@@ -8057,6 +8748,11 @@
 "language": "spa",
 "title": "winepress"
 },
+"tpi": {
+"content_id": "tpi-t146-v1",
+"language": "tpi",
+"title": "winepress"
+},
 "zhs": {
 "content_id": "cmn-t146-v1",
 "language": "zhs",
@@ -8109,6 +8805,11 @@
 "language": "spa",
 "title": "word"
 },
+"tpi": {
+"content_id": "tpi-t148-v1",
+"language": "tpi",
+"title": "word"
+},
 "zhs": {
 "content_id": "cmn-t148-v1",
 "language": "zhs",
@@ -8154,6 +8855,11 @@
 "spa": {
 "content_id": "spa-t149-v1",
 "language": "spa",
+"title": "worship"
+},
+"tpi": {
+"content_id": "tpi-t149-v1",
+"language": "tpi",
 "title": "worship"
 },
 "zht": {
@@ -8208,6 +8914,11 @@
 "language": "spa",
 "title": "heart"
 },
+"tpi": {
+"content_id": "tpi-t150-v1",
+"language": "tpi",
+"title": "heart"
+},
 "zhs": {
 "content_id": "cmn-t150-v1",
 "language": "zhs",
@@ -8260,6 +8971,11 @@
 "language": "spa",
 "title": "mind"
 },
+"tpi": {
+"content_id": "tpi-t151-v1",
+"language": "tpi",
+"title": "mind"
+},
 "zhs": {
 "content_id": "cmn-t151-v1",
 "language": "zhs",
@@ -8278,7 +8994,7 @@
 "title": "قوة"
 },
 "eng": {
-"content_id": "eng-t152-v1",
+"content_id": "eng-t152-v2",
 "language": "eng",
 "title": "strength"
 },
@@ -8310,6 +9026,11 @@
 "spa": {
 "content_id": "spa-t152-v1",
 "language": "spa",
+"title": "strength"
+},
+"tpi": {
+"content_id": "tpi-t152-v1",
+"language": "tpi",
 "title": "strength"
 },
 "zhs": {
@@ -8364,6 +9085,11 @@
 "language": "spa",
 "title": "burnt-offering"
 },
+"tpi": {
+"content_id": "tpi-t154-v1",
+"language": "tpi",
+"title": "burnt-offering"
+},
 "zhs": {
 "content_id": "cmn-t154-v1",
 "language": "zhs",
@@ -8414,6 +9140,11 @@
 "spa": {
 "content_id": "spa-t155-v1",
 "language": "spa",
+"title": "scribe"
+},
+"tpi": {
+"content_id": "tpi-t155-v1",
+"language": "tpi",
 "title": "scribe"
 },
 "zhs": {
@@ -8468,6 +9199,11 @@
 "language": "spa",
 "title": "sign"
 },
+"tpi": {
+"content_id": "tpi-t156-v1",
+"language": "tpi",
+"title": "sign"
+},
 "zhs": {
 "content_id": "cmn-t156-v1",
 "language": "zhs",
@@ -8520,6 +9256,11 @@
 "language": "spa",
 "title": "kingdom"
 },
+"tpi": {
+"content_id": "tpi-t157-v1",
+"language": "tpi",
+"title": "kingdom"
+},
 "zhs": {
 "content_id": "cmn-t157-v1",
 "language": "zhs",
@@ -8567,6 +9308,11 @@
 "language": "spa",
 "title": "house-of-david"
 },
+"tpi": {
+"content_id": "tpi-t158-v1",
+"language": "tpi",
+"title": "house-of-david"
+},
 "zht": {
 "content_id": "zht-t158-v1",
 "language": "zht",
@@ -8612,6 +9358,11 @@
 "spa": {
 "content_id": "spa-t159-v1",
 "language": "spa",
+"title": "inn"
+},
+"tpi": {
+"content_id": "tpi-t159-v1",
+"language": "tpi",
 "title": "inn"
 },
 "zht": {
@@ -8666,6 +9417,11 @@
 "language": "spa",
 "title": "buenas nuevas"
 },
+"tpi": {
+"content_id": "tpi-t160-v1",
+"language": "tpi",
+"title": "good-news"
+},
 "zhs": {
 "content_id": "cmn-t160-v1",
 "language": "zhs",
@@ -8711,6 +9467,11 @@
 "spa": {
 "content_id": "spa-t161-v1",
 "language": "spa",
+"title": "peace"
+},
+"tpi": {
+"content_id": "tpi-t161-v1",
+"language": "tpi",
 "title": "peace"
 },
 "zht": {
@@ -8765,6 +9526,11 @@
 "language": "spa",
 "title": "passover"
 },
+"tpi": {
+"content_id": "tpi-t162-v1",
+"language": "tpi",
+"title": "passover"
+},
 "zhs": {
 "content_id": "cmn-t162-v1",
 "language": "zhs",
@@ -8810,6 +9576,11 @@
 "spa": {
 "content_id": "spa-t163-v1",
 "language": "spa",
+"title": "purification-offering-or-ceremony"
+},
+"tpi": {
+"content_id": "tpi-t163-v1",
+"language": "tpi",
 "title": "purification-offering-or-ceremony"
 },
 "zht": {
@@ -8864,6 +9635,11 @@
 "language": "spa",
 "title": "festival-of-unleavened-bread"
 },
+"tpi": {
+"content_id": "tpi-t164-v1",
+"language": "tpi",
+"title": "festival-of-unleavened-bread"
+},
 "zhs": {
 "content_id": "cmn-t164-v1",
 "language": "zhs",
@@ -8914,6 +9690,11 @@
 "spa": {
 "content_id": "spa-t165-v1",
 "language": "spa",
+"title": "hymn"
+},
+"tpi": {
+"content_id": "tpi-t165-v1",
+"language": "tpi",
 "title": "hymn"
 },
 "zhs": {
@@ -8968,6 +9749,11 @@
 "language": "spa",
 "title": "shepherd"
 },
+"tpi": {
+"content_id": "tpi-t166-v1",
+"language": "tpi",
+"title": "shepherd"
+},
 "zhs": {
 "content_id": "cmn-t166-v1",
 "language": "zhs",
@@ -9018,6 +9804,11 @@
 "spa": {
 "content_id": "spa-t167-v1",
 "language": "spa",
+"title": "abba"
+},
+"tpi": {
+"content_id": "tpi-t167-v1",
+"language": "tpi",
 "title": "abba"
 },
 "zhs": {
@@ -9072,6 +9863,11 @@
 "language": "spa",
 "title": "sanhedrin"
 },
+"tpi": {
+"content_id": "tpi-t168-v1",
+"language": "tpi",
+"title": "sanhedrin"
+},
 "zhs": {
 "content_id": "cmn-t168-v1",
 "language": "zhs",
@@ -9122,6 +9918,11 @@
 "spa": {
 "content_id": "spa-t169-v1",
 "language": "spa",
+"title": "crucifixion"
+},
+"tpi": {
+"content_id": "tpi-t169-v1",
+"language": "tpi",
 "title": "crucifixion"
 },
 "zhs": {
@@ -9176,6 +9977,11 @@
 "language": "spa",
 "title": "centurion"
 },
+"tpi": {
+"content_id": "tpi-t170-v1",
+"language": "tpi",
+"title": "centurion"
+},
 "zhs": {
 "content_id": "cmn-t170-v1",
 "language": "zhs",
@@ -9228,6 +10034,11 @@
 "language": "spa",
 "title": "anoint"
 },
+"tpi": {
+"content_id": "tpi-t171-v1",
+"language": "tpi",
+"title": "anoint"
+},
 "zhs": {
 "content_id": "cmn-t171-v1",
 "language": "zhs",
@@ -9273,6 +10084,11 @@
 "spa": {
 "content_id": "spa-t172-v1",
 "language": "spa",
+"title": "genealogy"
+},
+"tpi": {
+"content_id": "tpi-t172-v1",
+"language": "tpi",
 "title": "genealogy"
 },
 "zht": {
@@ -9327,6 +10143,11 @@
 "language": "spa",
 "title": "generations"
 },
+"tpi": {
+"content_id": "tpi-t173-v1",
+"language": "tpi",
+"title": "generations"
+},
 "zhs": {
 "content_id": "cmn-t173-v1",
 "language": "zhs",
@@ -9372,6 +10193,11 @@
 "spa": {
 "content_id": "spa-t174-v1",
 "language": "spa",
+"title": "yahweh"
+},
+"tpi": {
+"content_id": "tpi-t174-v1",
+"language": "tpi",
 "title": "yahweh"
 },
 "zht": {
@@ -9421,6 +10247,11 @@
 "language": "spa",
 "title": "christian"
 },
+"tpi": {
+"content_id": "tpi-t175-v1",
+"language": "tpi",
+"title": "christian"
+},
 "zht": {
 "content_id": "zht-t175-v1",
 "language": "zht",
@@ -9466,6 +10297,11 @@
 "spa": {
 "content_id": "spa-t176-v1",
 "language": "spa",
+"title": "evangelist"
+},
+"tpi": {
+"content_id": "tpi-t176-v1",
+"language": "tpi",
 "title": "evangelist"
 },
 "zht": {
@@ -9515,6 +10351,11 @@
 "language": "spa",
 "title": "cubit"
 },
+"tpi": {
+"content_id": "tpi-t177-v1",
+"language": "tpi",
+"title": "cubit"
+},
 "zht": {
 "content_id": "zht-t177-v1",
 "language": "zht",
@@ -9562,6 +10403,11 @@
 "language": "spa",
 "title": "canaan"
 },
+"tpi": {
+"content_id": "tpi-t178-v1",
+"language": "tpi",
+"title": "canaan"
+},
 "zht": {
 "content_id": "zht-t178-v1",
 "language": "zht",
@@ -9607,6 +10453,11 @@
 "spa": {
 "content_id": "spa-t179-v1",
 "language": "spa",
+"title": "pharaoh"
+},
+"tpi": {
+"content_id": "tpi-t179-v1",
+"language": "tpi",
 "title": "pharaoh"
 },
 "zht": {
@@ -9661,6 +10512,11 @@
 "language": "spa",
 "title": "tunic"
 },
+"tpi": {
+"content_id": "tpi-t180-v2",
+"language": "tpi",
+"title": "tunic"
+},
 "zhs": {
 "content_id": "cmn-t180-v1",
 "language": "zhs",
@@ -9713,6 +10569,11 @@
 "language": "spa",
 "title": "devil"
 },
+"tpi": {
+"content_id": "tpi-t181-v1",
+"language": "tpi",
+"title": "devil"
+},
 "zhs": {
 "content_id": "cmn-t181-v1",
 "language": "zhs",
@@ -9758,6 +10619,11 @@
 "spa": {
 "content_id": "spa-t182-v1",
 "language": "spa",
+"title": "proverb"
+},
+"tpi": {
+"content_id": "tpi-t182-v1",
+"language": "tpi",
 "title": "proverb"
 },
 "zht": {
@@ -9812,6 +10678,11 @@
 "language": "spa",
 "title": "house-of-god"
 },
+"tpi": {
+"content_id": "tpi-t183-v1",
+"language": "tpi",
+"title": "house-of-god"
+},
 "zhs": {
 "content_id": "cmn-t183-v1",
 "language": "zhs",
@@ -9864,6 +10735,11 @@
 "language": "spa",
 "title": "tabernacle"
 },
+"tpi": {
+"content_id": "tpi-t184-v1",
+"language": "tpi",
+"title": "tabernacle"
+},
 "zhs": {
 "content_id": "cmn-t184-v1",
 "language": "zhs",
@@ -9911,6 +10787,11 @@
 "language": "spa",
 "title": "fear-of-god"
 },
+"tpi": {
+"content_id": "tpi-t185-v1",
+"language": "tpi",
+"title": "fear-of-god"
+},
 "zht": {
 "content_id": "zht-t185-v1",
 "language": "zht",
@@ -9956,6 +10837,11 @@
 "spa": {
 "content_id": "spa-t186-v1",
 "language": "spa",
+"title": "persecution"
+},
+"tpi": {
+"content_id": "tpi-t186-v1",
+"language": "tpi",
 "title": "persecution"
 },
 "zht": {
@@ -10010,6 +10896,11 @@
 "language": "spa",
 "title": "evil"
 },
+"tpi": {
+"content_id": "tpi-t187-v1",
+"language": "tpi",
+"title": "evil"
+},
 "zhs": {
 "content_id": "cmn-t187-v1",
 "language": "zhs",
@@ -10055,6 +10946,11 @@
 "spa": {
 "content_id": "spa-t188-v1",
 "language": "spa",
+"title": "saint"
+},
+"tpi": {
+"content_id": "tpi-t188-v1",
+"language": "tpi",
 "title": "saint"
 },
 "zht": {
@@ -10109,6 +11005,11 @@
 "language": "spa",
 "title": "god"
 },
+"tpi": {
+"content_id": "tpi-t189-v1",
+"language": "tpi",
+"title": "god"
+},
 "zhs": {
 "content_id": "cmn-t189-v1",
 "language": "zhs",
@@ -10156,6 +11057,11 @@
 "language": "spa",
 "title": "hebron"
 },
+"tpi": {
+"content_id": "tpi-t191-v1",
+"language": "tpi",
+"title": "hebron"
+},
 "zht": {
 "content_id": "zht-t191-v1",
 "language": "zht",
@@ -10174,7 +11080,7 @@
 "title": "أجنبي (غريب)"
 },
 "eng": {
-"content_id": "eng-t192-v1",
+"content_id": "eng-t192-v2",
 "language": "eng",
 "title": "foreigner"
 },
@@ -10203,6 +11109,11 @@
 "language": "spa",
 "title": "foreigner"
 },
+"tpi": {
+"content_id": "tpi-t192-v1",
+"language": "tpi",
+"title": "foreigner"
+},
 "zht": {
 "content_id": "zht-t192-v1",
 "language": "zht",
@@ -10221,7 +11132,7 @@
 "title": "النزيل"
 },
 "eng": {
-"content_id": "eng-t193-v1",
+"content_id": "eng-t193-v2",
 "language": "eng",
 "title": "sojourner"
 },
@@ -10248,6 +11159,11 @@
 "spa": {
 "content_id": "spa-t193-v1",
 "language": "spa",
+"title": "sojourner"
+},
+"tpi": {
+"content_id": "tpi-t193-v1",
+"language": "tpi",
 "title": "sojourner"
 },
 "zht": {
@@ -10307,6 +11223,11 @@
 "language": "spa",
 "title": "offering"
 },
+"tpi": {
+"content_id": "tpi-t194-v1",
+"language": "tpi",
+"title": "offering"
+},
 "zhs": {
 "content_id": "cmn-t194-v1",
 "language": "zhs",
@@ -10352,6 +11273,11 @@
 "spa": {
 "content_id": "spa-t195-v1",
 "language": "spa",
+"title": "commander"
+},
+"tpi": {
+"content_id": "tpi-t195-v1",
+"language": "tpi",
 "title": "commander"
 },
 "zht": {
@@ -10401,6 +11327,11 @@
 "language": "spa",
 "title": "hades"
 },
+"tpi": {
+"content_id": "tpi-t196-v1",
+"language": "tpi",
+"title": "hades"
+},
 "zht": {
 "content_id": "zht-t196-v1",
 "language": "zht",
@@ -10448,6 +11379,11 @@
 "language": "spa",
 "title": "angel-of-the-lord"
 },
+"tpi": {
+"content_id": "tpi-t197-v1",
+"language": "tpi",
+"title": "angel-of-the-lord"
+},
 "zht": {
 "content_id": "zht-t197-v1",
 "language": "zht",
@@ -10493,6 +11429,11 @@
 "spa": {
 "content_id": "spa-t198-v1",
 "language": "spa",
+"title": "yoke"
+},
+"tpi": {
+"content_id": "tpi-t198-v1",
+"language": "tpi",
 "title": "yoke"
 },
 "zht": {
@@ -10547,6 +11488,11 @@
 "language": "spa",
 "title": "glorify"
 },
+"tpi": {
+"content_id": "tpi-t199-v1",
+"language": "tpi",
+"title": "glorify"
+},
 "zhs": {
 "content_id": "cmn-t199-v1",
 "language": "zhs",
@@ -10599,6 +11545,11 @@
 "language": "spa",
 "title": "prophecy"
 },
+"tpi": {
+"content_id": "tpi-t200-v1",
+"language": "tpi",
+"title": "prophecy"
+},
 "zhs": {
 "content_id": "cmn-t200-v1",
 "language": "zhs",
@@ -10644,6 +11595,11 @@
 "spa": {
 "content_id": "spa-t201-v1",
 "language": "spa",
+"title": "vow"
+},
+"tpi": {
+"content_id": "tpi-t201-v1",
+"language": "tpi",
 "title": "vow"
 },
 "zht": {
@@ -10693,6 +11649,11 @@
 "language": "spa",
 "title": "dream"
 },
+"tpi": {
+"content_id": "tpi-t202-v1",
+"language": "tpi",
+"title": "dream"
+},
 "zht": {
 "content_id": "zht-t202-v1",
 "language": "zht",
@@ -10740,6 +11701,11 @@
 "language": "spa",
 "title": "divination"
 },
+"tpi": {
+"content_id": "tpi-t203-v1",
+"language": "tpi",
+"title": "divination"
+},
 "zht": {
 "content_id": "zht-t203-v1",
 "language": "zht",
@@ -10785,6 +11751,11 @@
 "spa": {
 "content_id": "spa-t204-v1",
 "language": "spa",
+"title": "zion"
+},
+"tpi": {
+"content_id": "tpi-t204-v1",
+"language": "tpi",
 "title": "zion"
 },
 "zht": {
@@ -10844,6 +11815,11 @@
 "language": "spa",
 "title": "compassion"
 },
+"tpi": {
+"content_id": "tpi-t205-v1",
+"language": "tpi",
+"title": "compassion"
+},
 "zhs": {
 "content_id": "cmn-t205-v1",
 "language": "zhs",
@@ -10889,6 +11865,11 @@
 "spa": {
 "content_id": "spa-t207-v1",
 "language": "spa",
+"title": "el-shaddai"
+},
+"tpi": {
+"content_id": "tpi-t207-v1",
+"language": "tpi",
 "title": "el-shaddai"
 },
 "zht": {
@@ -10938,6 +11919,11 @@
 "language": "spa",
 "title": "purify"
 },
+"tpi": {
+"content_id": "tpi-t208-v1",
+"language": "tpi",
+"title": "purify"
+},
 "zht": {
 "content_id": "zht-t208-v1",
 "language": "zht",
@@ -10985,6 +11971,11 @@
 "language": "spa",
 "title": "el-elyon"
 },
+"tpi": {
+"content_id": "tpi-t209-v1",
+"language": "tpi",
+"title": "el-elyon"
+},
 "zht": {
 "content_id": "zht-t209-v1",
 "language": "zht",
@@ -11030,6 +12021,11 @@
 "spa": {
 "content_id": "spa-t210-v1",
 "language": "spa",
+"title": "el-roi"
+},
+"tpi": {
+"content_id": "tpi-t210-v1",
+"language": "tpi",
 "title": "el-roi"
 },
 "zht": {
@@ -11084,6 +12080,11 @@
 "language": "spa",
 "title": "greeks"
 },
+"tpi": {
+"content_id": "tpi-t211-v1",
+"language": "tpi",
+"title": "greeks"
+},
 "zhs": {
 "content_id": "cmn-t211-v1",
 "language": "zhs",
@@ -11129,6 +12130,11 @@
 "spa": {
 "content_id": "spa-t212-v1",
 "language": "spa",
+"title": "anoint"
+},
+"tpi": {
+"content_id": "tpi-t212-v1",
+"language": "tpi",
 "title": "anoint"
 },
 "zht": {
@@ -11183,6 +12189,11 @@
 "language": "spa",
 "title": "tongues"
 },
+"tpi": {
+"content_id": "tpi-t213-v1",
+"language": "tpi",
+"title": "tongues"
+},
 "zhs": {
 "content_id": "cmn-t213-v1",
 "language": "zhs",
@@ -11208,7 +12219,7 @@
 "fra": {
 "content_id": "fra-t214-v1",
 "language": "fra",
-"title": "iniquité "
+"title": "iniquité"
 },
 "ind": {
 "content_id": "ind-t214-v1",
@@ -11228,6 +12239,11 @@
 "spa": {
 "content_id": "spa-t214-v1",
 "language": "spa",
+"title": "lawlessness"
+},
+"tpi": {
+"content_id": "tpi-t214-v1",
+"language": "tpi",
 "title": "lawlessness"
 },
 "zht": {
@@ -11282,6 +12298,11 @@
 "language": "spa",
 "title": "wickedness"
 },
+"tpi": {
+"content_id": "tpi-t215-v1",
+"language": "tpi",
+"title": "wickedness"
+},
 "zhs": {
 "content_id": "cmn-t215-v1",
 "language": "zhs",
@@ -11327,6 +12348,11 @@
 "spa": {
 "content_id": "spa-t216-v1",
 "language": "spa",
+"title": "sheol"
+},
+"tpi": {
+"content_id": "tpi-t216-v1",
+"language": "tpi",
 "title": "sheol"
 },
 "zht": {
@@ -11376,6 +12402,11 @@
 "language": "spa",
 "title": "magician"
 },
+"tpi": {
+"content_id": "tpi-t217-v1",
+"language": "tpi",
+"title": "magician"
+},
 "zht": {
 "content_id": "zht-t217-v1",
 "language": "zht",
@@ -11421,6 +12452,11 @@
 "spa": {
 "content_id": "spa-t218-v1",
 "language": "spa",
+"title": "blood"
+},
+"tpi": {
+"content_id": "tpi-t218-v1",
+"language": "tpi",
 "title": "blood"
 },
 "zht": {
@@ -11470,6 +12506,11 @@
 "language": "spa",
 "title": "praise"
 },
+"tpi": {
+"content_id": "tpi-t219-v1",
+"language": "tpi",
+"title": "praise"
+},
 "zht": {
 "content_id": "zht-t219-v1",
 "language": "zht",
@@ -11515,6 +12556,11 @@
 "spa": {
 "content_id": "spa-t220-v1",
 "language": "spa",
+"title": "drachma"
+},
+"tpi": {
+"content_id": "tpi-t220-v1",
+"language": "tpi",
 "title": "drachma"
 },
 "zht": {
@@ -11564,6 +12610,11 @@
 "language": "spa",
 "title": "samaria"
 },
+"tpi": {
+"content_id": "tpi-t221-v1",
+"language": "tpi",
+"title": "samaria"
+},
 "zht": {
 "content_id": "zht-t221-v1",
 "language": "zht",
@@ -11609,6 +12660,11 @@
 "spa": {
 "content_id": "spa-t222-v1",
 "language": "spa",
+"title": "image-of-god"
+},
+"tpi": {
+"content_id": "tpi-t222-v1",
+"language": "tpi",
 "title": "image-of-god"
 },
 "zht": {
@@ -11658,6 +12714,11 @@
 "language": "spa",
 "title": "tithe"
 },
+"tpi": {
+"content_id": "tpi-t223-v1",
+"language": "tpi",
+"title": "tithe"
+},
 "zht": {
 "content_id": "zht-t223-v1",
 "language": "zht",
@@ -11705,6 +12766,11 @@
 "language": "spa",
 "title": "justice"
 },
+"tpi": {
+"content_id": "tpi-t224-v1",
+"language": "tpi",
+"title": "justice"
+},
 "zht": {
 "content_id": "zht-t224-v1",
 "language": "zht",
@@ -11750,6 +12816,11 @@
 "spa": {
 "content_id": "spa-t225-v1",
 "language": "spa",
+"title": "pentecost"
+},
+"tpi": {
+"content_id": "tpi-t225-v1",
+"language": "tpi",
 "title": "pentecost"
 },
 "zht": {
@@ -11804,6 +12875,11 @@
 "language": "spa",
 "title": "king"
 },
+"tpi": {
+"content_id": "tpi-t226-v2",
+"language": "tpi",
+"title": "king"
+},
 "zhs": {
 "content_id": "cmn-t226-v1",
 "language": "zhs",
@@ -11849,6 +12925,11 @@
 "spa": {
 "content_id": "spa-t227-v1",
 "language": "spa",
+"title": "hebrew"
+},
+"tpi": {
+"content_id": "tpi-t227-v1",
+"language": "tpi",
 "title": "hebrew"
 },
 "zht": {
@@ -11898,6 +12979,11 @@
 "language": "spa",
 "title": "adonai"
 },
+"tpi": {
+"content_id": "tpi-t228-v1",
+"language": "tpi",
+"title": "adonai"
+},
 "zht": {
 "content_id": "zht-t228-v1",
 "language": "zht",
@@ -11943,6 +13029,11 @@
 "spa": {
 "content_id": "spa-t230-v1",
 "language": "spa",
+"title": "cherubim"
+},
+"tpi": {
+"content_id": "tpi-t230-v1",
+"language": "tpi",
 "title": "cherubim"
 },
 "zht": {
@@ -11992,6 +13083,11 @@
 "language": "spa",
 "title": "i-am"
 },
+"tpi": {
+"content_id": "tpi-t231-v1",
+"language": "tpi",
+"title": "i-am"
+},
 "zht": {
 "content_id": "zht-t231-v1",
 "language": "zht",
@@ -12037,6 +13133,11 @@
 "spa": {
 "content_id": "spa-t232-v1",
 "language": "spa",
+"title": "sanctification"
+},
+"tpi": {
+"content_id": "tpi-t232-v1",
+"language": "tpi",
 "title": "sanctification"
 },
 "zht": {
@@ -12086,6 +13187,11 @@
 "language": "spa",
 "title": "festival-of-tabernacles"
 },
+"tpi": {
+"content_id": "tpi-t233-v1",
+"language": "tpi",
+"title": "festival-of-tabernacles"
+},
 "zht": {
 "content_id": "zht-t233-v1",
 "language": "zht",
@@ -12104,7 +13210,7 @@
 "title": "نسل"
 },
 "eng": {
-"content_id": "eng-t234-v1",
+"content_id": "eng-t234-v2",
 "language": "eng",
 "title": "descendant"
 },
@@ -12133,6 +13239,11 @@
 "language": "spa",
 "title": "descendant"
 },
+"tpi": {
+"content_id": "tpi-t234-v1",
+"language": "tpi",
+"title": "descendant"
+},
 "zht": {
 "content_id": "zht-t234-v1",
 "language": "zht",
@@ -12151,7 +13262,7 @@
 "title": "آلهة"
 },
 "eng": {
-"content_id": "eng-t235-v1",
+"content_id": "eng-t235-v2",
 "language": "eng",
 "title": "gods"
 },
@@ -12178,6 +13289,11 @@
 "spa": {
 "content_id": "spa-t235-v1",
 "language": "spa",
+"title": "gods"
+},
+"tpi": {
+"content_id": "tpi-t235-v1",
+"language": "tpi",
 "title": "gods"
 },
 "zht": {
@@ -12232,6 +13348,11 @@
 "language": "spa",
 "title": "amen"
 },
+"tpi": {
+"content_id": "tpi-t236-v1",
+"language": "tpi",
+"title": "amen"
+},
 "zhs": {
 "content_id": "cmn-t236-v1",
 "language": "zhs",
@@ -12279,6 +13400,11 @@
 "language": "spa",
 "title": "testimony"
 },
+"tpi": {
+"content_id": "tpi-t237-v1",
+"language": "tpi",
+"title": "testimony"
+},
 "zht": {
 "content_id": "zht-t237-v1",
 "language": "zht",
@@ -12304,7 +13430,7 @@
 "fra": {
 "content_id": "fra-t238-v1",
 "language": "fra",
-"title": "Condamner "
+"title": "Condamner"
 },
 "ind": {
 "content_id": "ind-t238-v1",
@@ -12324,6 +13450,11 @@
 "spa": {
 "content_id": "spa-t238-v1",
 "language": "spa",
+"title": "convict"
+},
+"tpi": {
+"content_id": "tpi-t238-v1",
+"language": "tpi",
 "title": "convict"
 },
 "zht": {
@@ -12373,6 +13504,11 @@
 "language": "spa",
 "title": "festival-of-dedication"
 },
+"tpi": {
+"content_id": "tpi-t239-v1",
+"language": "tpi",
+"title": "festival-of-dedication"
+},
 "zht": {
 "content_id": "zht-t239-v1",
 "language": "zht",
@@ -12418,6 +13554,11 @@
 "spa": {
 "content_id": "spa-t243-v1",
 "language": "spa",
+"title": "wine"
+},
+"tpi": {
+"content_id": "tpi-t243-v1",
+"language": "tpi",
 "title": "wine"
 },
 "zht": {
@@ -12467,6 +13608,11 @@
 "language": "spa",
 "title": "levite"
 },
+"tpi": {
+"content_id": "tpi-t244-v1",
+"language": "tpi",
+"title": "levite"
+},
 "zht": {
 "content_id": "zht-t244-v1",
 "language": "zht",
@@ -12512,6 +13658,11 @@
 "spa": {
 "content_id": "spa-t245-v1",
 "language": "spa",
+"title": "commandment"
+},
+"tpi": {
+"content_id": "tpi-t245-v1",
+"language": "tpi",
 "title": "commandment"
 },
 "zht": {
@@ -12561,6 +13712,11 @@
 "language": "spa",
 "title": "high-priest"
 },
+"tpi": {
+"content_id": "tpi-t246-v1",
+"language": "tpi",
+"title": "high-priest"
+},
 "zht": {
 "content_id": "zht-t246-v1",
 "language": "zht",
@@ -12586,7 +13742,7 @@
 "fra": {
 "content_id": "fra-t254-v1",
 "language": "fra",
-"title": "Consacrer "
+"title": "Consacrer"
 },
 "ind": {
 "content_id": "ind-t254-v1",
@@ -12606,6 +13762,11 @@
 "spa": {
 "content_id": "spa-t254-v1",
 "language": "spa",
+"title": "consecrate"
+},
+"tpi": {
+"content_id": "tpi-t254-v1",
+"language": "tpi",
 "title": "consecrate"
 },
 "zht": {
@@ -12655,6 +13816,11 @@
 "language": "spa",
 "title": "israelite"
 },
+"tpi": {
+"content_id": "tpi-t259-v2",
+"language": "tpi",
+"title": "israelite"
+},
 "zht": {
 "content_id": "zht-t259-v2",
 "language": "zht",
@@ -12680,7 +13846,7 @@
 "fra": {
 "content_id": "fra-t264-v1",
 "language": "fra",
-"title": "défenseur "
+"title": "défenseur"
 },
 "ind": {
 "content_id": "ind-t264-v1",
@@ -12700,6 +13866,11 @@
 "spa": {
 "content_id": "spa-t264-v1",
 "language": "spa",
+"title": "advocate"
+},
+"tpi": {
+"content_id": "tpi-t264-v1",
+"language": "tpi",
 "title": "advocate"
 },
 "zht": {
@@ -12749,6 +13920,11 @@
 "language": "spa",
 "title": "justify"
 },
+"tpi": {
+"content_id": "tpi-t281-v1",
+"language": "tpi",
+"title": "justify"
+},
 "zht": {
 "content_id": "zht-t281-v1",
 "language": "zht",
@@ -12767,7 +13943,7 @@
 "title": "قاضي"
 },
 "eng": {
-"content_id": "eng-t289-v1",
+"content_id": "eng-t289-v2",
 "language": "eng",
 "title": "judge"
 },
@@ -12794,6 +13970,11 @@
 "spa": {
 "content_id": "spa-t289-v1",
 "language": "spa",
+"title": "judge"
+},
+"tpi": {
+"content_id": "tpi-t289-v1",
+"language": "tpi",
 "title": "judge"
 },
 "zht": {
@@ -12841,6 +14022,11 @@
 "spa": {
 "content_id": "spa-t293-v1",
 "language": "spa",
+"title": "immorality"
+},
+"tpi": {
+"content_id": "tpi-t293-v1",
+"language": "tpi",
 "title": "immorality"
 },
 "zht": {

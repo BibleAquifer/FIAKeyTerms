@@ -8,7 +8,7 @@
 "index_reference": "被鬼附",
 "language": "zhs",
 "review_level": "None",
-"content": "<p>一个<b>（被鬼）附</b>，也就是被<a href=\"#t47\">邪恶的灵</a>所附的人，就是一个受<a href=\"#t36\">鬼</a>所控制的人。 鬼可以使人做出异常或暴力的行为，也可以使人生病，让他受苦。</p><p>鬼也可以给一个人特殊的能力，让这个人知道一些对其他人来说是隐藏的事情。 在<a href=\"#t74\">以色列</a>周边的文化中，人们有时会试图（被鬼）附，以便知道未来会发生什么，或者获得一些秘密的知识。 神禁止<a href=\"#t259\">以色列人</a>这样做。</p>",
+"content": "<p>一个<b>（被鬼）附</b>，也就是被<data class=\"resource-ref\" data-content-id=\"cmn-t47-v1\" data-resource-code=\"FIAKeyTerms\">邪恶的灵</data>所附的人，就是一个受<data class=\"resource-ref\" data-content-id=\"cmn-t36-v1\" data-resource-code=\"FIAKeyTerms\">鬼</data>所控制的人。 鬼可以使人做出异常或暴力的行为，也可以使人生病，让他受苦。</p><p>鬼也可以给一个人特殊的能力，让这个人知道一些对其他人来说是隐藏的事情。 在<data class=\"resource-ref\" data-content-id=\"cmn-t74-v1\" data-resource-code=\"FIAKeyTerms\">以色列</data>周边的文化中，人们有时会试图（被鬼）附，以便知道未来会发生什么，或者获得一些秘密的知识。 神禁止以色列人这样做。</p>",
 "associations": {
 "passage": [
 {
@@ -54,7 +54,29 @@
 "end_ref_usfm": "ACT 19:20"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t47-v1",
+"resource_code": "FIAKeyTerms",
+"label": "邪恶的灵",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t36-v1",
+"resource_code": "FIAKeyTerms",
+"label": "鬼",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t74-v1",
+"resource_code": "FIAKeyTerms",
+"label": "以色列",
+"language": "zhs"
+}
+],
 "acai": []
 }
 },

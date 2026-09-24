@@ -8,7 +8,7 @@
 "index_reference": "caesar",
 "language": "tpi",
 "review_level": "None",
-"content": "<p><b>Sisa</b> em i taitel bilong empera bilong Rom. Rom em i wanpela siti insait long kantri Itali. Long taim bilong Nupela Testamen, Rom em i bin kapitol siti bilong empaia bilong Rom.</p><p>Wanpela empaia em i wanpela grup bilong ol <b>nesen</b>o kantri we wanpela gavman o wanpela man i rulim. Lida bilong wanpela empaia em o i save kolim olsem wanpela empera. Empera bilong ol Rom em ol i bin kolim em Sisa.</p><p>Empaia Rom em i bin gat planti kantri na lain manmeri insait long en. Em i bin bikpela tru. Ol manmeri insait long ol dispela kantri i mas baim takis i go long Sisa. Sisa em i bin gat bikpela pawa tru na planti manmeri i save tritim em olsem wanpela god. Insait long sampela siti, ol manmeri i bin bildim ol <b>tempel</b> bilong <b>wosipim</b> ol stetyu bilong Sisa.</p>",
+"content": "<p><b>Sisa</b> em i taitel bilong empera bilong Rom. Rom em i wanpela siti insait long kantri Itali. Long taim bilong Nupela Testamen, Rom em i bin kapitol siti bilong empaia bilong Rom.</p><p>Wanpela empaia em i wanpela grup bilong ol <data class=\"resource-ref\" data-content-id=\"tpi-t94-v1\" data-resource-code=\"FIAKeyTerms\">nesen</data>o kantri we wanpela gavman o wanpela man i rulim. Lida bilong wanpela empaia em o i save kolim olsem wanpela empera. Empera bilong ol Rom em ol i bin kolim em Sisa.</p><p>Empaia Rom em i bin gat planti kantri na lain manmeri insait long en. Em i bin bikpela tru. Ol manmeri insait long ol dispela kantri i mas baim takis i go long Sisa. Sisa em i bin gat bikpela pawa tru na planti manmeri i save tritim em olsem wanpela god. Insait long sampela siti, ol manmeri i bin bildim ol <data class=\"resource-ref\" data-content-id=\"tpi-t138-v1\" data-resource-code=\"FIAKeyTerms\">tempel</data> bilong <data class=\"resource-ref\" data-content-id=\"tpi-t149-v1\" data-resource-code=\"FIAKeyTerms\">wosipim</data> ol stetyu bilong Sisa.</p>",
 "associations": {
 "passage": [
 {
@@ -78,7 +78,29 @@
 "end_ref_usfm": "ACT 28:31"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "tpi-t94-v1",
+"resource_code": "FIAKeyTerms",
+"label": "nesen",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t138-v1",
+"resource_code": "FIAKeyTerms",
+"label": "tempel",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t149-v1",
+"resource_code": "FIAKeyTerms",
+"label": "wosipim",
+"language": "tpi"
+}
+],
 "acai": [
 {
 "id": "person:Tiberius",
@@ -113,7 +135,7 @@
 "index_reference": "caesereaphilippi",
 "language": "tpi",
 "review_level": "None",
-"content": "<p><b>Sisera Filipai</b>em i bin wanpela siti klostu 40 kilomita not long <a href=\"#t121\">Raunwara Galili</a>. Ol manmeri we i save stap long dispela eria em ol i no <b>ol Judaman o ol Ju</b>. Insait long dispela siti i bin gat wanpela tempel we ol manmeri i bin bildim long <a href=\"#t149\">wosipim</a><a href=\"#t19\">Sisa</a>, dispela Empera bilong Rom.</p>",
+"content": "<p><b>Sisera Filipai</b>em i bin wanpela siti klostu 40 kilomita not long <data class=\"resource-ref\" data-content-id=\"tpi-t121-v1\" data-resource-code=\"FIAKeyTerms\">Raunwara Galili</data>. Ol manmeri we i save stap long dispela eria em ol i no <data class=\"resource-ref\" data-content-id=\"tpi-t77-v2\" data-resource-code=\"FIAKeyTerms\">ol Judaman o ol Ju</data>. Insait long dispela siti i bin gat wanpela tempel we ol manmeri i bin bildim long <data class=\"resource-ref\" data-content-id=\"tpi-t149-v1\" data-resource-code=\"FIAKeyTerms\">wosipim</data><data class=\"resource-ref\" data-content-id=\"tpi-t19-v1\" data-resource-code=\"FIAKeyTerms\">Sisa</data>, dispela Empera bilong Rom.</p>",
 "associations": {
 "passage": [
 {
@@ -123,7 +145,36 @@
 "end_ref_usfm": "MRK 8:30"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "tpi-t121-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Raunwara Galili",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t77-v2",
+"resource_code": "FIAKeyTerms",
+"label": "ol Judaman o ol Ju",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t149-v1",
+"resource_code": "FIAKeyTerms",
+"label": "wosipim",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t19-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Sisa",
+"language": "tpi"
+}
+],
 "acai": [
 {
 "id": "place:CaesareaPhilippi",
@@ -144,7 +195,7 @@
 "index_reference": "camel",
 "language": "tpi",
 "review_level": "None",
-"content": "<p>Wanpela <b>kemel</b> em i wanpela bikpela, strongpela animal we i ken wokabaut long longpela distens na i no nidim kaikai o wara. Ol manmeri i save sindaun long ol kemel taim ol i muv long wanpela ples i go long narapela, na ol i save yusim ol kemel long karim ol kago. Wanpela kemel i gat wanpela o tupela hamp long baksait bilong em. Insait long ol dispela hamp, ol dispela kemel i save storim ol fet o gris we i save mekim ol i stap longpela taim wantaim no gat kaikai o wara. Taim wanpela kamel em i gat sans long dring wara, em bai dring planti wara tru long wanpela taim.</p><p>Wanpela kemel em i wanpela bilong ol bikpela animal tru insait long <a href=\"#t74\">Israel</a>.</p><p>Ol manmeri i ken mekim klos long sotpela, strongpela gras bilong kemel. Dispela i ken kamapim klos we i simpel na raf. <b>Jon bilong baptais</b> i bin werim ol klos we ol i bin wokim long ol gras bilong kemel.</p>",
+"content": "<p>Wanpela <b>kemel</b> em i wanpela bikpela, strongpela animal we i ken wokabaut long longpela distens na i no nidim kaikai o wara. Ol manmeri i save sindaun long ol kemel taim ol i muv long wanpela ples i go long narapela, na ol i save yusim ol kemel long karim ol kago. Wanpela kemel i gat wanpela o tupela hamp long baksait bilong em. Insait long ol dispela hamp, ol dispela kemel i save storim ol fet o gris we i save mekim ol i stap longpela taim wantaim no gat kaikai o wara. Taim wanpela kamel em i gat sans long dring wara, em bai dring planti wara tru long wanpela taim.</p><p>Wanpela kemel em i wanpela bilong ol bikpela animal tru insait long <data class=\"resource-ref\" data-content-id=\"tpi-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israel</data>.</p><p>Ol manmeri i ken mekim klos long sotpela, strongpela gras bilong kemel. Dispela i ken kamapim klos we i simpel na raf. <data class=\"resource-ref\" data-content-id=\"tpi-t79-v1\" data-resource-code=\"FIAKeyTerms\">Jon bilong baptais</data> i bin werim ol klos we ol i bin wokim long ol gras bilong kemel.</p>",
 "associations": {
 "passage": [
 {
@@ -208,7 +259,22 @@
 "end_ref_usfm": "MRK 10:31"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "tpi-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israel",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t79-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Jon bilong baptais",
+"language": "tpi"
+}
+],
 "acai": [
 {
 "id": "fauna:Camel",
@@ -229,7 +295,7 @@
 "index_reference": "canaan",
 "language": "tpi",
 "review_level": "None",
-"content": "<p>Insait long Olpela Testamen <b>Kenan</b> em i bin wanpela eria we i longpela graun namel long <a href=\"#t80\">Wara Jodan</a> long ist, na Medeterienien Solwara long west. Dispela em i wanpela eria we tude em i pat bilong ol kantri <a href=\"#t74\">Israel</a> na Palestain, Lebanon, na Siria.</p><p>God i bin singautim <a href=\"#t1\">Abraham</a> na tokim Abraham long go long kantri we em bai soim long Abraham. Dispela kantri em i bin Kenan. God i bin promisim Abraham olsem olgeta graun bilong Kenan em bai graun bilong Abraham na ol lain tumbuna bilong Abraham.</p><p>Planti narapela grup i bin stap long dispela eria long dispela taim: Dispela em ol lain Hit o ol Haiatait, ol lain Amor o ol Amorait, ol lain Kenan o Kenanait na sampela narapela lain moa. Sampela taim olgeta bilong ol em ol i save kolim olsem Kenanait, na sampela taim ol i save kolim olgeta olsem ol Amorait.</p><p>Taim ol lain tumbuna bilong Abraham, <b>ol Israel</b>, i fri long wok sleiv long Ijip, God i bringim ol i go bek long Kenan. God i givim ol wok bilong rausim ol lain Kenanait na long kisim dispela graun. God i laik givim dispela graun long ol lain Israel. God i laik long bildim wanpela <a href=\"#t94\">nesen</a> long ol lain Israel we em bai <a href=\"#t16\">blesim</a> yusim long blesim olgeta manmeri long graun. Long ol manmeri long stap feitful long God, em i impoten olsem ol Kenanait lain i no ken influensim ol. Ol Kenanait manmeri i bin <b>wosipim</b> planti god na i mekim planti samting we God i bin tambuim insait long ol <b>komanmen</b> bilong em. Tasol ol Israel i feil long rausim ol Kenanait, na planti taim ol i <b>mekim sin</b> taim ol i bihainim ol kastom na ol god bilong ol Kenanait.</p>",
+"content": "<p>Insait long Olpela Testamen <b>Kenan</b> em i bin wanpela eria we i longpela graun namel long <data class=\"resource-ref\" data-content-id=\"tpi-t80-v1\" data-resource-code=\"FIAKeyTerms\">Wara Jodan</data> long ist, na Medeterienien Solwara long west. Dispela em i wanpela eria we tude em i pat bilong ol kantri <data class=\"resource-ref\" data-content-id=\"tpi-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israel</data> na Palestain, Lebanon, na Siria.</p><p>God i bin singautim <data class=\"resource-ref\" data-content-id=\"tpi-t1-v1\" data-resource-code=\"FIAKeyTerms\">Abraham</data> na tokim Abraham long go long kantri we em bai soim long Abraham. Dispela kantri em i bin Kenan. God i bin promisim Abraham olsem olgeta graun bilong Kenan em bai graun bilong Abraham na ol lain tumbuna bilong Abraham.</p><p>Planti narapela grup i bin stap long dispela eria long dispela taim: Dispela em ol lain Hit o ol Haiatait, ol lain Amor o ol Amorait, ol lain Kenan o Kenanait na sampela narapela lain moa. Sampela taim olgeta bilong ol em ol i save kolim olsem Kenanait, na sampela taim ol i save kolim olgeta olsem ol Amorait.</p><p>Taim ol lain tumbuna bilong Abraham, <data class=\"resource-ref\" data-content-id=\"tpi-t259-v2\" data-resource-code=\"FIAKeyTerms\">ol Israel</data>, i fri long wok sleiv long Ijip, God i bringim ol i go bek long Kenan. God i givim ol wok bilong rausim ol lain Kenanait na long kisim dispela graun. God i laik givim dispela graun long ol lain Israel. God i laik long bildim wanpela <data class=\"resource-ref\" data-content-id=\"tpi-t94-v1\" data-resource-code=\"FIAKeyTerms\">nesen</data> long ol lain Israel we em bai <data class=\"resource-ref\" data-content-id=\"tpi-t16-v1\" data-resource-code=\"FIAKeyTerms\">blesim</data> yusim long blesim olgeta manmeri long graun. Long ol manmeri long stap feitful long God, em i impoten olsem ol Kenanait lain i no ken influensim ol. Ol Kenanait manmeri i bin <data class=\"resource-ref\" data-content-id=\"tpi-t149-v1\" data-resource-code=\"FIAKeyTerms\">wosipim</data> planti god na i mekim planti samting we God i bin tambuim insait long ol <data class=\"resource-ref\" data-content-id=\"tpi-t245-v1\" data-resource-code=\"FIAKeyTerms\">komanmen</data> bilong em. Tasol ol Israel i feil long rausim ol Kenanait, na planti taim ol i <data class=\"resource-ref\" data-content-id=\"tpi-t125-v1\" data-resource-code=\"FIAKeyTerms\">mekim sin</data> taim ol i bihainim ol kastom na ol god bilong ol Kenanait.</p>",
 "associations": {
 "passage": [
 {
@@ -461,7 +527,71 @@
 "end_ref_usfm": "2CH 8:18"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "tpi-t80-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Wara Jodan",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israel",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t1-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Abraham",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t259-v2",
+"resource_code": "FIAKeyTerms",
+"label": "ol Israel",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t94-v1",
+"resource_code": "FIAKeyTerms",
+"label": "nesen",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t16-v1",
+"resource_code": "FIAKeyTerms",
+"label": "blesim",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t149-v1",
+"resource_code": "FIAKeyTerms",
+"label": "wosipim",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t245-v1",
+"resource_code": "FIAKeyTerms",
+"label": "komanmen",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t125-v1",
+"resource_code": "FIAKeyTerms",
+"label": "mekim sin",
+"language": "tpi"
+}
+],
 "acai": [
 {
 "id": "place:Canaan",
@@ -489,7 +619,7 @@
 "index_reference": "capernaum",
 "language": "tpi",
 "review_level": "None",
-"content": "<p><b>Kaperneam</b> em i bin wanpela liklik taun long rijen ol i kolim <a href=\"#t55\">Galili</a>,klostu long <a href=\"#t121\">Raunwara Galili</a>. Planti ol manmeri long Kaperneam i bin mekim mani bilong ol long ketsim pis o baim na salim ol samting. Dispela taun em i stap klostu long wanpela impoten rot. Ol manmeri i save travel long dispela rot i go long ol narapela ples long baim na salim ol samting. Olsem na, dispela taun em i bin impoten insait long dispela rijen, maski em i no bikpela tumas.</p><p>Sampela bilong ol <b>disaipel</b> bilong Jisas i bilong Kaperneam. Planti taim Jisas i save stap long Kaperneam.</p>",
+"content": "<p><b>Kaperneam</b> em i bin wanpela liklik taun long rijen ol i kolim <data class=\"resource-ref\" data-content-id=\"tpi-t55-v1\" data-resource-code=\"FIAKeyTerms\">Galili</data>,klostu long <data class=\"resource-ref\" data-content-id=\"tpi-t121-v1\" data-resource-code=\"FIAKeyTerms\">Raunwara Galili</data>. Planti ol manmeri long Kaperneam i bin mekim mani bilong ol long ketsim pis o baim na salim ol samting. Dispela taun em i stap klostu long wanpela impoten rot. Ol manmeri i save travel long dispela rot i go long ol narapela ples long baim na salim ol samting. Olsem na, dispela taun em i bin impoten insait long dispela rijen, maski em i no bikpela tumas.</p><p>Sampela bilong ol <data class=\"resource-ref\" data-content-id=\"tpi-t39-v1\" data-resource-code=\"FIAKeyTerms\">disaipel</data> bilong Jisas i bilong Kaperneam. Planti taim Jisas i save stap long Kaperneam.</p>",
 "associations": {
 "passage": [
 {
@@ -601,7 +731,29 @@
 "end_ref_usfm": "JHN 6:59"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "tpi-t55-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Galili",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t121-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Raunwara Galili",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t39-v1",
+"resource_code": "FIAKeyTerms",
+"label": "disaipel",
+"language": "tpi"
+}
+],
 "acai": [
 {
 "id": "place:Capernaum",
@@ -741,7 +893,7 @@
 "index_reference": "cherubim",
 "language": "tpi",
 "review_level": "None",
-"content": "<p>Wanpela <b>serab</b>, o sampela <b>serabim</b>, em ol wanpela kain <a href=\"#t4\">enjel</a>. Ol serabim i luk olsem ol i save gadim ol sikret, o <a href=\"#t67\">holi</a>, ples. Olsem na i gat ol piksa na imij bilong ol serabim insait long <a href=\"#t138\">tempel</a> na insait long tabenakel. Insait long ol dispela piksa, ol serabim i gat bodi bilong wanpela laion, ol wing bilong wanpela pisin na pes bilong wanpela man. Ol serabim em ol i wanpela woning long ol manmeri olsem God i stap. Ol gol serabim i spredim ol wing bilong ol antap long ak bilong kavanen na long antap biong ak bilong kavanen, ol i protektim sia king we God i bung wantaim ol manmeri bilong em. Insait long buk bilong Esekiel, Esekiel i bin lukim wanpela <a href=\"#t143\">visen</a> we ol serabim i wok long karim sia king bilong God. Sampela bilong ol diskripsen bilong ol serabim insait long Esekiel em ol i luk olsem ol man tasol ol i gat fopela wing na fopela pes.</p>",
+"content": "<p>Wanpela <b>serab</b>, o sampela <b>serabim</b>, em ol wanpela kain <data class=\"resource-ref\" data-content-id=\"tpi-t4-v1\" data-resource-code=\"FIAKeyTerms\">enjel</data>. Ol serabim i luk olsem ol i save gadim ol sikret, o <data class=\"resource-ref\" data-content-id=\"tpi-t67-v1\" data-resource-code=\"FIAKeyTerms\">holi</data>, ples. Olsem na i gat ol piksa na imij bilong ol serabim insait long <data class=\"resource-ref\" data-content-id=\"tpi-t138-v1\" data-resource-code=\"FIAKeyTerms\">tempel</data> na insait long tabenakel. Insait long ol dispela piksa, ol serabim i gat bodi bilong wanpela laion, ol wing bilong wanpela pisin na pes bilong wanpela man. Ol serabim em ol i wanpela woning long ol manmeri olsem God i stap. Ol gol serabim i spredim ol wing bilong ol antap long ak bilong kavanen na long antap biong ak bilong kavanen, ol i protektim sia king we God i bung wantaim ol manmeri bilong em. Insait long buk bilong Esekiel, Esekiel i bin lukim wanpela <data class=\"resource-ref\" data-content-id=\"tpi-t143-v1\" data-resource-code=\"FIAKeyTerms\">visen</data> we ol serabim i wok long karim sia king bilong God. Sampela bilong ol diskripsen bilong ol serabim insait long Esekiel em ol i luk olsem ol man tasol ol i gat fopela wing na fopela pes.</p>",
 "associations": {
 "passage": [
 {
@@ -847,7 +999,36 @@
 "end_ref_usfm": "2CH 3:14"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "tpi-t4-v1",
+"resource_code": "FIAKeyTerms",
+"label": "enjel",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t67-v1",
+"resource_code": "FIAKeyTerms",
+"label": "holi",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t138-v1",
+"resource_code": "FIAKeyTerms",
+"label": "tempel",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t143-v1",
+"resource_code": "FIAKeyTerms",
+"label": "visen",
+"language": "tpi"
+}
+],
 "acai": [
 {
 "id": "realia:WingedCreature",
@@ -868,7 +1049,7 @@
 "index_reference": "christ",
 "language": "tpi",
 "review_level": "None",
-"content": "<p>Dispela wod <b>Kraist</b> em i wankain wod olsem <a href=\"#t92\">Mesaiya.</a> Kraist em i wanpela wod bilong tok ples <b>Grik</b>, na Mesaiya em i seim wod long tok ples <a href=\"#t227\">Hibru</a>. Grik em i tok ples bilong Nupela Testamen, na Hibru em i tok ples bilong Olpela testamen.</p><p>Dispela wod Mesaiya em i toktok long spesel <a href=\"#t226\">king</a> na <a href=\"#t119\">Sevia</a> we God i bin promis long salim i kam.</p><p>Wanpela Mesaiya em i min olsem wanpela man we ol i bin <b>anointim</b>. Dispela em i min olsem narapela man i bin kapsaitim oil antap long em. Dispela em i wanpela sain olsem God i bin givim dispela man wanpela spesel wok. Eksampel, insait long Olpela Testamen, God i tokim <a href=\"#t104\">profet</a> Samuel long kapsaitim oil antap long <a href=\"#t33\">Devit</a>. Dispela em i bin wanpela sain olsem God i makim Devit long kamap neks king bilong <a href=\"#t74\">Israel</a>.</p><p>Bihain, ol manmeri i kolim wanpela man o meri olsem em i anointed sapos God i bin makim dispela man o meri long mekim wanpela spesel wok, maski i no gat lain i kapsaitim oil long het bilong em.</p><p>Devit em i bin kamap olsem king bilong Israel we olgeta manmeri i laikim tru. Tasol bihain long Devit, ol narapela man i bin bosim Israel, na planti bilong ol i no gutpela king. Ol dispela king i lidim ol manmeri i go longwe long God, olsem na God i bin panisim ol manmeri. Kantri bilong Israel i bin bagarap, na i kam aninit long kontrol bilong ol narapela <b>kantri</b>. Tasol God i promisim ol manmeri bilong Israel olsem em bai salim wanpela nupela king long ol. Dispela king em bai seivim ol manmeri long ol trabol bilong ol. Dispela king em bai wanpela tumbuna bilong Devit.</p><p>Ol <b>lain Israel</b> i bin stat long kolim dispela king we God i promis long salim em olsem &quot;Mesaiya,&quot; na mining bilong en em &quot;man we God i anointim.&quot;</p><p>Taim Jisas i bin kam, em i bin soim ol manmeri olsem <b>em</b> i dispela Mesaiya we God i bin promis long salim. Jisas em i bin wanpela tumbuna bilong Devit. Jisas i bin pruvim olsem God i bin makim em taim em i soim bikpela pawa na <a href=\"#t8\">atoriti</a> we em i gat.</p><p>Jisas i no save tok stret long ol manmeri olsem &quot;Mi dispela Mesaiya!&quot; Dispela em i bikos ol manmeri i no save tru tru yet long wanem em i mining bilong Jisas long stap olsem Mesaiya. Ol i rong na <b>bilip</b> olsem dispela Mesaiya em bai bringim bek kingdom bilong Israel na givim pawa bilong politiks i go bek long ol. Tasol, Jisas i kolim em yet olsem <a href=\"#t130\">&quot;Pikinini bilong Man</a>,&quot; na em i wanpela narapela we bilong tok olsem em i Mesaiya.</p><p>Bihain long Jisas i kriap bek gen long dai, <b>ol disaipel</b> bilong em i save tru tru olsem em i dispela Mesaiya na ol i stat long serim dispela gutpela nius wantaim ol narapela manmeri. God i bin salim Sevia bilong em! Tasol Jisas em i no wanpela Sevia husat i mekim fri ol manmeri long wanpela gavman bilong graun. Jisas em i wanpela Sevia husat i mekim bikpela samting moa-Jisas i mekim ol manmeri i kamap fri long <a href=\"#t125\">sin</a> na dai.</p><p><b>Taim yu wok long trensletim ol wod &quot;Mesaiya&quot; o &quot;Krais,&quot; yu mas lukaut long ol dispela samting:</b></p>",
+"content": "<p>Dispela wod <b>Kraist</b> em i wankain wod olsem <data class=\"resource-ref\" data-content-id=\"tpi-t92-v1\" data-resource-code=\"FIAKeyTerms\">Mesaiya.</data> Kraist em i wanpela wod bilong tok ples <data class=\"resource-ref\" data-content-id=\"tpi-t211-v1\" data-resource-code=\"FIAKeyTerms\">Grik</data>, na Mesaiya em i seim wod long tok ples <data class=\"resource-ref\" data-content-id=\"tpi-t227-v1\" data-resource-code=\"FIAKeyTerms\">Hibru</data>. Grik em i tok ples bilong Nupela Testamen, na Hibru em i tok ples bilong Olpela testamen.</p><p>Dispela wod Mesaiya em i toktok long spesel <data class=\"resource-ref\" data-content-id=\"tpi-t226-v2\" data-resource-code=\"FIAKeyTerms\">king</data> na <data class=\"resource-ref\" data-content-id=\"tpi-t119-v1\" data-resource-code=\"FIAKeyTerms\">Sevia</data> we God i bin promis long salim i kam.</p><p>Wanpela Mesaiya em i min olsem wanpela man we ol i bin <data class=\"resource-ref\" data-content-id=\"tpi-t5-v1\" data-resource-code=\"FIAKeyTerms\">anointim</data>. Dispela em i min olsem narapela man i bin kapsaitim oil antap long em. Dispela em i wanpela sain olsem God i bin givim dispela man wanpela spesel wok. Eksampel, insait long Olpela Testamen, God i tokim <data class=\"resource-ref\" data-content-id=\"tpi-t104-v1\" data-resource-code=\"FIAKeyTerms\">profet</data> Samuel long kapsaitim oil antap long <data class=\"resource-ref\" data-content-id=\"tpi-t33-v1\" data-resource-code=\"FIAKeyTerms\">Devit</data>. Dispela em i bin wanpela sain olsem God i makim Devit long kamap neks king bilong <data class=\"resource-ref\" data-content-id=\"tpi-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israel</data>.</p><p>Bihain, ol manmeri i kolim wanpela man o meri olsem em i anointed sapos God i bin makim dispela man o meri long mekim wanpela spesel wok, maski i no gat lain i kapsaitim oil long het bilong em.</p><p>Devit em i bin kamap olsem king bilong Israel we olgeta manmeri i laikim tru. Tasol bihain long Devit, ol narapela man i bin bosim Israel, na planti bilong ol i no gutpela king. Ol dispela king i lidim ol manmeri i go longwe long God, olsem na God i bin panisim ol manmeri. Kantri bilong Israel i bin bagarap, na i kam aninit long kontrol bilong ol narapela <data class=\"resource-ref\" data-content-id=\"tpi-t94-v1\" data-resource-code=\"FIAKeyTerms\">kantri</data>. Tasol God i promisim ol manmeri bilong Israel olsem em bai salim wanpela nupela king long ol. Dispela king em bai seivim ol manmeri long ol trabol bilong ol. Dispela king em bai wanpela tumbuna bilong Devit.</p><p>Ol <data class=\"resource-ref\" data-content-id=\"tpi-t259-v2\" data-resource-code=\"FIAKeyTerms\">lain Israel</data> i bin stat long kolim dispela king we God i promis long salim em olsem &quot;Mesaiya,&quot; na mining bilong en em &quot;man we God i anointim.&quot;</p><p>Taim Jisas i bin kam, em i bin soim ol manmeri olsem <b>em</b> i dispela Mesaiya we God i bin promis long salim. Jisas em i bin wanpela tumbuna bilong Devit. Jisas i bin pruvim olsem God i bin makim em taim em i soim bikpela pawa na <data class=\"resource-ref\" data-content-id=\"tpi-t8-v1\" data-resource-code=\"FIAKeyTerms\">atoriti</data> we em i gat.</p><p>Jisas i no save tok stret long ol manmeri olsem &quot;Mi dispela Mesaiya!&quot; Dispela em i bikos ol manmeri i no save tru tru yet long wanem em i mining bilong Jisas long stap olsem Mesaiya. Ol i rong na <data class=\"resource-ref\" data-content-id=\"tpi-t11-v1\" data-resource-code=\"FIAKeyTerms\">bilip</data> olsem dispela Mesaiya em bai bringim bek kingdom bilong Israel na givim pawa bilong politiks i go bek long ol. Tasol, Jisas i kolim em yet olsem <data class=\"resource-ref\" data-content-id=\"tpi-t130-v1\" data-resource-code=\"FIAKeyTerms\">&quot;Pikinini bilong Man</data>,&quot; na em i wanpela narapela we bilong tok olsem em i Mesaiya.</p><p>Bihain long Jisas i kriap bek gen long dai, <data class=\"resource-ref\" data-content-id=\"tpi-t39-v1\" data-resource-code=\"FIAKeyTerms\">ol disaipel</data> bilong em i save tru tru olsem em i dispela Mesaiya na ol i stat long serim dispela gutpela nius wantaim ol narapela manmeri. God i bin salim Sevia bilong em! Tasol Jisas em i no wanpela Sevia husat i mekim fri ol manmeri long wanpela gavman bilong graun. Jisas em i wanpela Sevia husat i mekim bikpela samting moa-Jisas i mekim ol manmeri i kamap fri long <data class=\"resource-ref\" data-content-id=\"tpi-t125-v1\" data-resource-code=\"FIAKeyTerms\">sin</data> na dai.</p><p><b>Taim yu wok long trensletim ol wod &quot;Mesaiya&quot; o &quot;Krais,&quot; yu mas lukaut long ol dispela samting:</b></p>",
 "associations": {
 "passage": [
 {
@@ -1472,7 +1653,120 @@
 "end_ref_usfm": "EPH 1:6"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "tpi-t92-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Mesaiya.",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t211-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Grik",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t227-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Hibru",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t226-v2",
+"resource_code": "FIAKeyTerms",
+"label": "king",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t119-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Sevia",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t5-v1",
+"resource_code": "FIAKeyTerms",
+"label": "anointim",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t104-v1",
+"resource_code": "FIAKeyTerms",
+"label": "profet",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t33-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Devit",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israel",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t94-v1",
+"resource_code": "FIAKeyTerms",
+"label": "kantri",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t259-v2",
+"resource_code": "FIAKeyTerms",
+"label": "lain Israel",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t8-v1",
+"resource_code": "FIAKeyTerms",
+"label": "atoriti",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t11-v1",
+"resource_code": "FIAKeyTerms",
+"label": "bilip",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t130-v1",
+"resource_code": "FIAKeyTerms",
+"label": "\"Pikinini bilong Man",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t39-v1",
+"resource_code": "FIAKeyTerms",
+"label": "ol disaipel",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t125-v1",
+"resource_code": "FIAKeyTerms",
+"label": "sin",
+"language": "tpi"
+}
+],
 "acai": [
 {
 "id": "person:Jesus.2",
@@ -1493,7 +1787,7 @@
 "index_reference": "christian",
 "language": "tpi",
 "review_level": "None",
-"content": "<p>Wanpela Kristen em i wanpela man o meri husat i bilip olsem Jisas em i <a href=\"#t129\">pikinini bilong God</a> na em i <a href=\"#t119\">Sevia</a>, o <a href=\"#t23\">Krais</a>, we God i bin promis long salim i kam long reskiuim ol manmer long <b>ol sin</b> bilong ol na mekim ol i gat raitpela rilesensip wantaim <a href=\"#t189\">God</a>. Wanpela Kristen i save trastim Jisas na i laik long harim tok bilong em, na wanpela Kristen em i gat wanpela gutpela rilesensip wantaim God taim em i save long Jisas. Wanpela Kristen em i wanpela sitisen bilong <b>kingdom bilong God</b>. Ol Kristen i save bilip olsem pasin bilong trastim Jisas em i wanpela rot tasol we God bai kisim ol.</p><p>Insait long buk bilong Ekts o Wok Bilong Ol Aposel, ol manmeri i bin kolim ol lain i bihainim Jisas olsem &quot;ol biliva o bilipmanmeri&quot; o sampela taim ol i save kolim ol olsem &quot;ol lain we i bihainim dispela we.&quot; Long wanpela taim, ol manmeri insait long siti bilong Antiok i bin stat long yusim dispela wod &quot;ol Kristen&quot; long kolim ol biliva olsem ol manmeri husat i save bihainim Krais. Ol manmeri long Antiok husat i stat kolim ol biliva olsem ol Kristen em ating ol yet i no bin ol Kristen lain.</p>",
+"content": "<p>Wanpela Kristen em i wanpela man o meri husat i bilip olsem Jisas em i <data class=\"resource-ref\" data-content-id=\"tpi-t129-v1\" data-resource-code=\"FIAKeyTerms\">pikinini bilong God</data> na em i <data class=\"resource-ref\" data-content-id=\"tpi-t119-v1\" data-resource-code=\"FIAKeyTerms\">Sevia</data>, o <data class=\"resource-ref\" data-content-id=\"tpi-t23-v1\" data-resource-code=\"FIAKeyTerms\">Krais</data>, we God i bin promis long salim i kam long reskiuim ol manmer long <data class=\"resource-ref\" data-content-id=\"tpi-t125-v1\" data-resource-code=\"FIAKeyTerms\">ol sin</data> bilong ol na mekim ol i gat raitpela rilesensip wantaim <data class=\"resource-ref\" data-content-id=\"tpi-t189-v1\" data-resource-code=\"FIAKeyTerms\">God</data>. Wanpela Kristen i save trastim Jisas na i laik long harim tok bilong em, na wanpela Kristen em i gat wanpela gutpela rilesensip wantaim God taim em i save long Jisas. Wanpela Kristen em i wanpela sitisen bilong <data class=\"resource-ref\" data-content-id=\"tpi-t82-v1\" data-resource-code=\"FIAKeyTerms\">kingdom bilong God</data>. Ol Kristen i save bilip olsem pasin bilong trastim Jisas em i wanpela rot tasol we God bai kisim ol.</p><p>Insait long buk bilong Ekts o Wok Bilong Ol Aposel, ol manmeri i bin kolim ol lain i bihainim Jisas olsem &quot;ol biliva o bilipmanmeri&quot; o sampela taim ol i save kolim ol olsem &quot;ol lain we i bihainim dispela we.&quot; Long wanpela taim, ol manmeri insait long siti bilong Antiok i bin stat long yusim dispela wod &quot;ol Kristen&quot; long kolim ol biliva olsem ol manmeri husat i save bihainim Krais. Ol manmeri long Antiok husat i stat kolim ol biliva olsem ol Kristen em ating ol yet i no bin ol Kristen lain.</p>",
 "associations": {
 "passage": [
 {
@@ -1509,7 +1803,50 @@
 "end_ref_usfm": "ACT 26:32"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "tpi-t129-v1",
+"resource_code": "FIAKeyTerms",
+"label": "pikinini bilong God",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t119-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Sevia",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t23-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Krais",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t125-v1",
+"resource_code": "FIAKeyTerms",
+"label": "ol sin",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t189-v1",
+"resource_code": "FIAKeyTerms",
+"label": "God",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t82-v1",
+"resource_code": "FIAKeyTerms",
+"label": "kingdom bilong God",
+"language": "tpi"
+}
+],
 "acai": [
 {
 "id": "group:Christ",
@@ -1530,7 +1867,7 @@
 "index_reference": "church",
 "language": "tpi",
 "review_level": "None",
-"content": "<p>Insait long Baibel, ol manmeri i no save yusim wod <b>sios</b> long minim wanpela bilding. Tasol, sios em i wanpela komyuniti bilong ol manmeri husat i bilip long Jisas. Sampela taim dispela wod sios em ol i save yusim long wanpela grup bilong ol biliva insait long wanpela ples, na sampela taim dispela wod i minim olgeta manmeri long graun husat i bilip long Jisas.</p><p>Ol manmeri husat i stap olsem pat bilong sios i bung wantaim olgeta taim long <a href=\"#t102\">pre</a>, long <a href=\"#t149\">wosipim</a>God, long selebretim laspela kaikai bilong Jisas, na long stadim tok bilong God wantaim.</p><p>Buk bilong Ekts o Wok Bilong Ol Aposel i tokim yumi hau sios i wok long gro long long wanpela liklik grup manmeri insait long <a href=\"#t76\">Jerusalem</a> i go kamap planti tausen manmeri insait long planti kantri.</p><p>Ol epistel em ol leta bilong ol aposel i go long ol sios, o ol komyuniti bilong ol biliva insait long kainkain pat bilong wol. Pol, wanpela aposel husat i raitim planti leta i go long ol sios, i tok sios em i olsem bodi bilong Krais insait long wanpela leta bilong em i go long ol lain long Korin. Wanwan man o meri insait long sios em i olsem wanpela pat bilong bodi na i save mekim wanpela impoten wok. Olgeta wantaim, bodi bilong Krais, o sios, i mekim wok bilong Krais long wol.</p>",
+"content": "<p>Insait long Baibel, ol manmeri i no save yusim wod <b>sios</b> long minim wanpela bilding. Tasol, sios em i wanpela komyuniti bilong ol manmeri husat i bilip long Jisas. Sampela taim dispela wod sios em ol i save yusim long wanpela grup bilong ol biliva insait long wanpela ples, na sampela taim dispela wod i minim olgeta manmeri long graun husat i bilip long Jisas.</p><p>Ol manmeri husat i stap olsem pat bilong sios i bung wantaim olgeta taim long <data class=\"resource-ref\" data-content-id=\"tpi-t102-v1\" data-resource-code=\"FIAKeyTerms\">pre</data>, long <data class=\"resource-ref\" data-content-id=\"tpi-t149-v1\" data-resource-code=\"FIAKeyTerms\">wosipim</data>God, long selebretim laspela kaikai bilong Jisas, na long stadim tok bilong God wantaim.</p><p>Buk bilong Ekts o Wok Bilong Ol Aposel i tokim yumi hau sios i wok long gro long long wanpela liklik grup manmeri insait long <data class=\"resource-ref\" data-content-id=\"tpi-t76-v1\" data-resource-code=\"FIAKeyTerms\">Jerusalem</data> i go kamap planti tausen manmeri insait long planti kantri.</p><p>Ol epistel em ol leta bilong ol aposel i go long ol sios, o ol komyuniti bilong ol biliva insait long kainkain pat bilong wol. Pol, wanpela aposel husat i raitim planti leta i go long ol sios, i tok sios em i olsem bodi bilong Krais insait long wanpela leta bilong em i go long ol lain long Korin. Wanwan man o meri insait long sios em i olsem wanpela pat bilong bodi na i save mekim wanpela impoten wok. Olgeta wantaim, bodi bilong Krais, o sios, i mekim wok bilong Krais long wol.</p>",
 "associations": {
 "passage": [
 {
@@ -1822,7 +2159,29 @@
 "end_ref_usfm": "3JN 1:10"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "tpi-t102-v1",
+"resource_code": "FIAKeyTerms",
+"label": "pre",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t149-v1",
+"resource_code": "FIAKeyTerms",
+"label": "wosipim",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t76-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Jerusalem",
+"language": "tpi"
+}
+],
 "acai": [
 {
 "id": "keyterm:Church",
@@ -1843,7 +2202,7 @@
 "index_reference": "circumcision",
 "language": "tpi",
 "review_level": "None",
-"content": "<p><b>Pasin bilong katim skin</b> em i wanpela kastom bilong <b>ol Ju</b> we ol i save katim lus skin we i stap long arere bilong penis bilong wanpela boi. Papa bilong bebi, o wanpela man husat i gat spesel trening, i save mekim dispela. Pasin bilong katim skin i save kamap etpela de bihain long bebi boi i bin bon.</p><p>Dispela kastom i stat taim God i tokim <a href=\"#t1\">Abraham</a> long katim skin bilong em yet na olgeta narapela man insait long <a href=\"#t70\">haus lain</a> bilong em. Pasin bilong katim skin em i wanpela sain olsem dipsela man em i stap insait long <a href=\"#t29\">kavanen</a> we God i bin mekim wantaim Abraham. Stat long dispela taim na i go, olgeta <a href=\"#t259\">ol Israel</a> man em ol i nid long katim skin. Sapos wanpela man husat i no wanpela tumbuna bilong Abraham i laik kamap pat bilong ol Israel na pat bilong dispela kavanen ol Israel i gat wantaim God, em tu i nid long katim skin. Ol man i nid long katim skin bai ol i gutpela long ai bilong God.</p><p>Baibel i toktok tu long &quot;katim skin bilong hat.&quot; Dispela em i wanpela tok piksa long <b>pasin bilong ripent</b> na long dediketim yu yet i go long God. Taim ol manmeri i ripent, o i givim baksait long <b>ol sin</b> bilong ol, long dispela taim tasol em ol i kamap gutpela long ai bilong God. Ol Israel, o ol Ju, i ting olsem ol i gutpela moa long olgeta narapela manmeri long wol bikos ol i katim skin. Tasol God i bin tokim ol olsem pasin bilong katim skin em i no minim wanpela samting sapos ol manmeri i no dediketim ol yet tru tru i go long God. Pasin bilong katim skin bilong bodi em i no gat yus sapos hat em i no katim skin tu.</p><p>Insait long Nupela Testamen, ol nupela <b>biliva</b> insait long Jisas i gat kainkain tingting long pasin bilong katim skin. Sampela ol Kristen Ju i ting olsem olgeta biliva i mas katim skin bilong ol. Ol i ting olsem taim wanpela man em i katim skin, em i ken tru tru i kamap wanpela bilong ol manmeri bilong God. Pol na ol narapela <b>aposel</b> i ting olsem sios i no nidim moa pasin bilong katim skin long bodi long kamap olsem manmeri bilong God. Ol manmeri i nid long katim skin bilong spirit long hat: ripent, <a href=\"#t48\">bilip</a>, na harim tok bilong Jisas.</p>",
+"content": "<p><b>Pasin bilong katim skin</b> em i wanpela kastom bilong <data class=\"resource-ref\" data-content-id=\"tpi-t77-v2\" data-resource-code=\"FIAKeyTerms\">ol Ju</data> we ol i save katim lus skin we i stap long arere bilong penis bilong wanpela boi. Papa bilong bebi, o wanpela man husat i gat spesel trening, i save mekim dispela. Pasin bilong katim skin i save kamap etpela de bihain long bebi boi i bin bon.</p><p>Dispela kastom i stat taim God i tokim <data class=\"resource-ref\" data-content-id=\"tpi-t1-v1\" data-resource-code=\"FIAKeyTerms\">Abraham</data> long katim skin bilong em yet na olgeta narapela man insait long <data class=\"resource-ref\" data-content-id=\"tpi-t70-v1\" data-resource-code=\"FIAKeyTerms\">haus lain</data> bilong em. Pasin bilong katim skin em i wanpela sain olsem dipsela man em i stap insait long <data class=\"resource-ref\" data-content-id=\"tpi-t29-v1\" data-resource-code=\"FIAKeyTerms\">kavanen</data> we God i bin mekim wantaim Abraham. Stat long dispela taim na i go, olgeta <data class=\"resource-ref\" data-content-id=\"tpi-t259-v2\" data-resource-code=\"FIAKeyTerms\">ol Israel</data> man em ol i nid long katim skin. Sapos wanpela man husat i no wanpela tumbuna bilong Abraham i laik kamap pat bilong ol Israel na pat bilong dispela kavanen ol Israel i gat wantaim God, em tu i nid long katim skin. Ol man i nid long katim skin bai ol i gutpela long ai bilong God.</p><p>Baibel i toktok tu long &quot;katim skin bilong hat.&quot; Dispela em i wanpela tok piksa long <data class=\"resource-ref\" data-content-id=\"tpi-t109-v1\" data-resource-code=\"FIAKeyTerms\">pasin bilong ripent</data> na long dediketim yu yet i go long God. Taim ol manmeri i ripent, o i givim baksait long <data class=\"resource-ref\" data-content-id=\"tpi-t125-v1\" data-resource-code=\"FIAKeyTerms\">ol sin</data> bilong ol, long dispela taim tasol em ol i kamap gutpela long ai bilong God. Ol Israel, o ol Ju, i ting olsem ol i gutpela moa long olgeta narapela manmeri long wol bikos ol i katim skin. Tasol God i bin tokim ol olsem pasin bilong katim skin em i no minim wanpela samting sapos ol manmeri i no dediketim ol yet tru tru i go long God. Pasin bilong katim skin bilong bodi em i no gat yus sapos hat em i no katim skin tu.</p><p>Insait long Nupela Testamen, ol nupela <data class=\"resource-ref\" data-content-id=\"tpi-t12-v1\" data-resource-code=\"FIAKeyTerms\">biliva</data> insait long Jisas i gat kainkain tingting long pasin bilong katim skin. Sampela ol Kristen Ju i ting olsem olgeta biliva i mas katim skin bilong ol. Ol i ting olsem taim wanpela man em i katim skin, em i ken tru tru i kamap wanpela bilong ol manmeri bilong God. Pol na ol narapela <data class=\"resource-ref\" data-content-id=\"tpi-t6-v1\" data-resource-code=\"FIAKeyTerms\">aposel</data> i ting olsem sios i no nidim moa pasin bilong katim skin long bodi long kamap olsem manmeri bilong God. Ol manmeri i nid long katim skin bilong spirit long hat: ripent, <data class=\"resource-ref\" data-content-id=\"tpi-t48-v1\" data-resource-code=\"FIAKeyTerms\">bilip</data>, na harim tok bilong Jisas.</p>",
 "associations": {
 "passage": [
 {
@@ -2087,7 +2446,78 @@
 "end_ref_usfm": "TIT 1:16"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "tpi-t77-v2",
+"resource_code": "FIAKeyTerms",
+"label": "ol Ju",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t1-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Abraham",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t70-v1",
+"resource_code": "FIAKeyTerms",
+"label": "haus lain",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t29-v1",
+"resource_code": "FIAKeyTerms",
+"label": "kavanen",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t259-v2",
+"resource_code": "FIAKeyTerms",
+"label": "ol Israel",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t109-v1",
+"resource_code": "FIAKeyTerms",
+"label": "pasin bilong ripent",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t125-v1",
+"resource_code": "FIAKeyTerms",
+"label": "ol sin",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t12-v1",
+"resource_code": "FIAKeyTerms",
+"label": "biliva",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t6-v1",
+"resource_code": "FIAKeyTerms",
+"label": "aposel",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t48-v1",
+"resource_code": "FIAKeyTerms",
+"label": "bilip",
+"language": "tpi"
+}
+],
 "acai": [
 {
 "id": "keyterm:Circumcision",
@@ -2108,7 +2538,7 @@
 "index_reference": "cleanunclean",
 "language": "tpi",
 "review_level": "None",
-"content": "<p>Ol dispela wod &quot;klin&quot; na &quot;i no klin&quot; insait long Baibel em i no toktok long sapos wanpela samting em i klin o i no klin long autsait. Insait long Baibel, wanpela <b>klinpela</b> man em i wanpela man husat i fit long mekim wok bilong God-em i wanpela man husat i fit long wosipim God. Wanpela man husat<b>i no klin</b> em i no fit long mekim wok bilong God. Ol animal na ol samting tu, em ol i ken klin o i no klin.</p><p>Pasin bilong stap klin em i wanpela nomol mak bilong wanpela man o meri, tasol wanpela man o meri i ken kamap i no klin sapos em i no bihainim ol rul bilong stap klin. Ol dispela ol rul we i toktok long ol samting we i klin o i no klin i bin helpim <b>ol lain Israel</b> long tingim olsem ol i spesel manmeri bilong God. Wankain olsem wanpela samting we i klin na em i mas stap longwe long ol narapela samting we i no klin, ol lain Israel i mas stap longwe long ol samting we i no klin. Ol dispela samting i ken ol animal we i no klin o ol samting we i no klin, o ol eksen we i no klin kain olsem sin.</p><p>Ol dispela rul long wanem em i klin na i no klin i bin helpim ol manmeri tu long tingim olsem God i save givim laip, na sapos i no gat God, dai bai i stap. Blut na sik em ol samting we i save kam wantaim dai. Olsem na sapos wanpela man em i sik o i lusim blut, orait em i no klin. Wanpela dai bodi em i winim olgeta narapela samting we i no klin.</p><p>Samting we i no klin em i save isi tru long kalap i go long narapela samting. Sapos wanpela man i no klin i tasim wanpela klinpela man, orait dispela klinpela man i kamap i no klin. Sapos wanpela klinpela man i tasim wanpela samting we i no klin, kain olsem wanpela klos we i gat blut, orait dispela man i kamap i no klin. Sapos wanpela klinpela man i tasim wanpela dai bodi, orait dispela klinpela man i kamap i no klin tu.</p><p>Dispela luksave namel long klin na i no klin samting em i bin impoten tru long pasin bilong <a href=\"#t149\">wosipim</a> God. Nogat wanpela samting we i no klin i ken go insait long <a href=\"#t138\">tempel.</a> God i bin <b>makim</b><b>ol pris</b> long lukautim tempel. Ol pris i save lukaut gut tru olsem ol i mas stap klin. </p><p>Sapos wanpela man o meri em i no klin bikos em i sik mun, i slip wantaim man o meri bilong em, o i tasim wanpela dai bodi, em i nid long wet sampela taim pastaim na bihain waswas. Bihain long waswas, em i kamap klin gen.</p><p>Sapos wanpela man o meri i gat sua long skin, em i no klin inap pris i konfemim olsem sua bilong em i drai. Dispela man o meri we sua bilong em i drai, em i mas ofaim wanpela animal sekrifais i go long God. Bihain long dispela animal sekrifais, em bai kamap klin gen.</p><p>God i bin tokim ol lain Israel wanem ol animal ol i ken kaikai na wanem ol animal ol i no ken kaikai. Kain olsem, ol i ken kaikai got, sipsip, kau, na sampela kain pisin. Ol dispela animal em ol i klin. Ol animal we ol i no ken kaikai em pik, wel animal, na ol reptail kain olsem snek na frog. Sapos wanpela man i kaikai wanpela animal we i no klin, em bai kamap i no klia</p><p>Taim ol manmeri i bringim wanpela <a href=\"#t114\">sekrifais</a> i go long God, ol i ken ofaim wanpela klinpela animal tasol. Dispela animal em i mas helti tru. Sapos em i no helti, em bai i no klin na i no orait long mekim sekrifais.</p><p>Insait long Olpela Testamen, ol manmeri i ken kamap i no klin sapos ol i sin o ol i tasim samting we i no klin. Wanpela animal em i ken stap i no klin bikos long pasin bilong em.</p><p>Tasol, insait long Nupela Testamen, Jisas i tisim ol manmeri olsem pasin bilong stap klin em i no pasin bilong stap longwe long sampela kaikai o mekim pasin kastom bilong waswas. Jisas i tisim yumi olsem yumi kamap i no klin sapos yumi gat <a href=\"#t187\">nogut</a> tingting na mekim ol rong samting. Ol dispela samting i mekim yumi i no fit long mekim wok bilong God o wosipim God. Yumi kamap i no klin sapos yumi sakim tok bilong God. Olsem na <b>ol spirit nogut</b> em planti taim ol i save kolim ol olsem ol <b>ol spirit we i no klin</b>,&quot; bikos ol i save sakim tok bilong God.</p><p>Bihain long Jisas i go bek long <a href=\"#t63\">heven</a>, planti moa manmeri i bihainim em. Namel long ol dispela lain em ol lain we i no ol <b>Ju o Judaman</b>. <a href=\"#t24\">Sios</a> pastaim i ting olsem ol manmeri husat i no ol Ju em ol i no klin, na ol i no inap kamap pat bilong ol manmeri bilong God. Tasol God i lainim sios olsem ol olpela rul long husat o wanem em i klin, em i no stap moa. Ol manmeri long olgeta <b>kantri</b> em ol i welkam long God, na wanem samting ol i kaikai o i no kaikai em i no impoten moa. Jisas i bin mekim ol manmeri i kamap klin. Samting i impoten nau em long stap klin na stap longwe long <a href=\"#t125\">sin</a>.</p>",
+"content": "<p>Ol dispela wod &quot;klin&quot; na &quot;i no klin&quot; insait long Baibel em i no toktok long sapos wanpela samting em i klin o i no klin long autsait. Insait long Baibel, wanpela <b>klinpela</b> man em i wanpela man husat i fit long mekim wok bilong God-em i wanpela man husat i fit long wosipim God. Wanpela man husat<b>i no klin</b> em i no fit long mekim wok bilong God. Ol animal na ol samting tu, em ol i ken klin o i no klin.</p><p>Pasin bilong stap klin em i wanpela nomol mak bilong wanpela man o meri, tasol wanpela man o meri i ken kamap i no klin sapos em i no bihainim ol rul bilong stap klin. Ol dispela ol rul we i toktok long ol samting we i klin o i no klin i bin helpim <data class=\"resource-ref\" data-content-id=\"tpi-t259-v2\" data-resource-code=\"FIAKeyTerms\">ol lain Israel</data> long tingim olsem ol i spesel manmeri bilong God. Wankain olsem wanpela samting we i klin na em i mas stap longwe long ol narapela samting we i no klin, ol lain Israel i mas stap longwe long ol samting we i no klin. Ol dispela samting i ken ol animal we i no klin o ol samting we i no klin, o ol eksen we i no klin kain olsem sin.</p><p>Ol dispela rul long wanem em i klin na i no klin i bin helpim ol manmeri tu long tingim olsem God i save givim laip, na sapos i no gat God, dai bai i stap. Blut na sik em ol samting we i save kam wantaim dai. Olsem na sapos wanpela man em i sik o i lusim blut, orait em i no klin. Wanpela dai bodi em i winim olgeta narapela samting we i no klin.</p><p>Samting we i no klin em i save isi tru long kalap i go long narapela samting. Sapos wanpela man i no klin i tasim wanpela klinpela man, orait dispela klinpela man i kamap i no klin. Sapos wanpela klinpela man i tasim wanpela samting we i no klin, kain olsem wanpela klos we i gat blut, orait dispela man i kamap i no klin. Sapos wanpela klinpela man i tasim wanpela dai bodi, orait dispela klinpela man i kamap i no klin tu.</p><p>Dispela luksave namel long klin na i no klin samting em i bin impoten tru long pasin bilong <data class=\"resource-ref\" data-content-id=\"tpi-t149-v1\" data-resource-code=\"FIAKeyTerms\">wosipim</data> God. Nogat wanpela samting we i no klin i ken go insait long <data class=\"resource-ref\" data-content-id=\"tpi-t138-v1\" data-resource-code=\"FIAKeyTerms\">tempel.</data> God i bin <data class=\"resource-ref\" data-content-id=\"tpi-t5-v1\" data-resource-code=\"FIAKeyTerms\">makim</data><data class=\"resource-ref\" data-content-id=\"tpi-t103-v1\" data-resource-code=\"FIAKeyTerms\">ol pris</data> long lukautim tempel. Ol pris i save lukaut gut tru olsem ol i mas stap klin. </p><p>Sapos wanpela man o meri em i no klin bikos em i sik mun, i slip wantaim man o meri bilong em, o i tasim wanpela dai bodi, em i nid long wet sampela taim pastaim na bihain waswas. Bihain long waswas, em i kamap klin gen.</p><p>Sapos wanpela man o meri i gat sua long skin, em i no klin inap pris i konfemim olsem sua bilong em i drai. Dispela man o meri we sua bilong em i drai, em i mas ofaim wanpela animal sekrifais i go long God. Bihain long dispela animal sekrifais, em bai kamap klin gen.</p><p>God i bin tokim ol lain Israel wanem ol animal ol i ken kaikai na wanem ol animal ol i no ken kaikai. Kain olsem, ol i ken kaikai got, sipsip, kau, na sampela kain pisin. Ol dispela animal em ol i klin. Ol animal we ol i no ken kaikai em pik, wel animal, na ol reptail kain olsem snek na frog. Sapos wanpela man i kaikai wanpela animal we i no klin, em bai kamap i no klia</p><p>Taim ol manmeri i bringim wanpela <data class=\"resource-ref\" data-content-id=\"tpi-t114-v1\" data-resource-code=\"FIAKeyTerms\">sekrifais</data> i go long God, ol i ken ofaim wanpela klinpela animal tasol. Dispela animal em i mas helti tru. Sapos em i no helti, em bai i no klin na i no orait long mekim sekrifais.</p><p>Insait long Olpela Testamen, ol manmeri i ken kamap i no klin sapos ol i sin o ol i tasim samting we i no klin. Wanpela animal em i ken stap i no klin bikos long pasin bilong em.</p><p>Tasol, insait long Nupela Testamen, Jisas i tisim ol manmeri olsem pasin bilong stap klin em i no pasin bilong stap longwe long sampela kaikai o mekim pasin kastom bilong waswas. Jisas i tisim yumi olsem yumi kamap i no klin sapos yumi gat <data class=\"resource-ref\" data-content-id=\"tpi-t187-v1\" data-resource-code=\"FIAKeyTerms\">nogut</data> tingting na mekim ol rong samting. Ol dispela samting i mekim yumi i no fit long mekim wok bilong God o wosipim God. Yumi kamap i no klin sapos yumi sakim tok bilong God. Olsem na <data class=\"resource-ref\" data-content-id=\"tpi-t47-v1\" data-resource-code=\"FIAKeyTerms\">ol spirit nogut</data> em planti taim ol i save kolim ol olsem ol <b>ol spirit we i no klin</b>,&quot; bikos ol i save sakim tok bilong God.</p><p>Bihain long Jisas i go bek long <data class=\"resource-ref\" data-content-id=\"tpi-t63-v1\" data-resource-code=\"FIAKeyTerms\">heven</data>, planti moa manmeri i bihainim em. Namel long ol dispela lain em ol lain we i no ol <data class=\"resource-ref\" data-content-id=\"tpi-t77-v2\" data-resource-code=\"FIAKeyTerms\">Ju o Judaman</data>. <data class=\"resource-ref\" data-content-id=\"tpi-t24-v1\" data-resource-code=\"FIAKeyTerms\">Sios</data> pastaim i ting olsem ol manmeri husat i no ol Ju em ol i no klin, na ol i no inap kamap pat bilong ol manmeri bilong God. Tasol God i lainim sios olsem ol olpela rul long husat o wanem em i klin, em i no stap moa. Ol manmeri long olgeta <data class=\"resource-ref\" data-content-id=\"tpi-t94-v1\" data-resource-code=\"FIAKeyTerms\">kantri</data> em ol i welkam long God, na wanem samting ol i kaikai o i no kaikai em i no impoten moa. Jisas i bin mekim ol manmeri i kamap klin. Samting i impoten nau em long stap klin na stap longwe long <data class=\"resource-ref\" data-content-id=\"tpi-t125-v1\" data-resource-code=\"FIAKeyTerms\">sin</data>.</p>",
 "associations": {
 "passage": [
 {
@@ -2646,7 +3076,99 @@
 "end_ref_usfm": "JUD 1:11"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "tpi-t259-v2",
+"resource_code": "FIAKeyTerms",
+"label": "ol lain Israel",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t149-v1",
+"resource_code": "FIAKeyTerms",
+"label": "wosipim",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t138-v1",
+"resource_code": "FIAKeyTerms",
+"label": "tempel.",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t5-v1",
+"resource_code": "FIAKeyTerms",
+"label": "makim",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t103-v1",
+"resource_code": "FIAKeyTerms",
+"label": "ol pris",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t114-v1",
+"resource_code": "FIAKeyTerms",
+"label": "sekrifais",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t187-v1",
+"resource_code": "FIAKeyTerms",
+"label": "nogut",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t47-v1",
+"resource_code": "FIAKeyTerms",
+"label": "ol spirit nogut",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t63-v1",
+"resource_code": "FIAKeyTerms",
+"label": "heven",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t77-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Ju o Judaman",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t24-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Sios",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t94-v1",
+"resource_code": "FIAKeyTerms",
+"label": "kantri",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t125-v1",
+"resource_code": "FIAKeyTerms",
+"label": "sin",
+"language": "tpi"
+}
+],
 "acai": []
 }
 },
@@ -2659,7 +3181,7 @@
 "index_reference": "cloak",
 "language": "tpi",
 "review_level": "None",
-"content": "<p>Wanpela <b>klouk</b>, narapela nem bilong en em <a href=\"#t112\">roub</a>, em i wanpela hap klos. Ol manmeri i save werim wanpela klouk antap long ol narapela klos. Wanpela klouk i save helpim long mekim ol manmeri i stap wom na drai na ol i ken yusim olsem blanket long nait. Ol manmeri i save mekim ol klouk long animal skin o wul. Wul em i gras bilong wanpela animal ol i kolim sipsip. Wanpela klouk, planti taim em i wanpela simpel skwe meteriel we i gat hol bilong putim han i go insait.</p>",
+"content": "<p>Wanpela <b>klouk</b>, narapela nem bilong en em <data class=\"resource-ref\" data-content-id=\"tpi-t112-v1\" data-resource-code=\"FIAKeyTerms\">roub</data>, em i wanpela hap klos. Ol manmeri i save werim wanpela klouk antap long ol narapela klos. Wanpela klouk i save helpim long mekim ol manmeri i stap wom na drai na ol i ken yusim olsem blanket long nait. Ol manmeri i save mekim ol klouk long animal skin o wul. Wul em i gras bilong wanpela animal ol i kolim sipsip. Wanpela klouk, planti taim em i wanpela simpel skwe meteriel we i gat hol bilong putim han i go insait.</p>",
 "associations": {
 "passage": [
 {
@@ -2795,7 +3317,15 @@
 "end_ref_usfm": "2TI 4:22"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "tpi-t112-v1",
+"resource_code": "FIAKeyTerms",
+"label": "roub",
+"language": "tpi"
+}
+],
 "acai": [
 {
 "id": "realia:Cloak",
@@ -2816,7 +3346,7 @@
 "index_reference": "commander",
 "language": "tpi",
 "review_level": "None",
-"content": "<p>Wanpela <b>komanda</b> insait long Nupela Testamen em i nem bilong wanpela ofisa insait long ami bilong Rom. Ol manmeri sampela taim i save kolim ol komanda olsem, &quot;traibiun.&quot; Wanpela komanda em i gat moa atoriti long wanpela <a href=\"#t170\">senturien</a>, husat i save bosim wan handret lain tasol. Wanpela komanda planti taim em i save bosim 6 i go long 10-pela senturien na ol soldia bilong ol. Olsem na wanpela komanda em i save bosim klostu 600 i go long 1000 soldia olgeta.</p>",
+"content": "<p>Wanpela <b>komanda</b> insait long Nupela Testamen em i nem bilong wanpela ofisa insait long ami bilong Rom. Ol manmeri sampela taim i save kolim ol komanda olsem, &quot;traibiun.&quot; Wanpela komanda em i gat moa atoriti long wanpela <data class=\"resource-ref\" data-content-id=\"tpi-t170-v1\" data-resource-code=\"FIAKeyTerms\">senturien</data>, husat i save bosim wan handret lain tasol. Wanpela komanda planti taim em i save bosim 6 i go long 10-pela senturien na ol soldia bilong ol. Olsem na wanpela komanda em i save bosim klostu 600 i go long 1000 soldia olgeta.</p>",
 "associations": {
 "passage": [
 {
@@ -2862,7 +3392,15 @@
 "end_ref_usfm": "ACT 25:27"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "tpi-t170-v1",
+"resource_code": "FIAKeyTerms",
+"label": "senturien",
+"language": "tpi"
+}
+],
 "acai": []
 }
 },
@@ -3415,7 +3953,7 @@
 "index_reference": "consecrate",
 "language": "tpi",
 "review_level": "None",
-"content": "<p>Insait long Olpela Testamen, taim yu <b>konsekretim</b> o <b>sengtifaim</b> wanpela man o meri, yu makim em long mekim wanpela spesel wok bilong God. Dispela man o meri nau em i bilong God; em i <a href=\"#t67\">holi</a>. Insait long Olpela Testamen, <b>ol pris</b> na <b>ol Livai</b> em ol lain husat i bin save wok long tempel bilong God. Ol i mas konsekretim ol yet bipo long ol i ken mekim wok bilong God. Dispela em i min olsem ol i no inap slip wantaim meri bilong ol long sampela taim, na ol nid long mekim wanpela spesel waswas na putim ol fres klos. </p><p>Ol manmeri i ken konsekretim o sengtifaim wanpela samting bilong mekim wanpela spesel wok bilong God. Eksampel, ol pris i save konsekretim <a href=\"#t138\">tempel</a> bilong God na ol samting insait long tempel. Ol pris i save mekim dispela taim ol i tromoi blut bilong ol animal ol i bin sekrifaisim insait long tempel na antap long ol samting insait long tempel. Ol dispela samting nau i kamap holi-ol i bilong God. Ol manmeri i no inap long yusim ol dispela samting long mekim narapela wok. Sapos ol i yusim ol dispela samting, em ol i no soim rispek long God.</p><p>Sapos God i konsekretim wanpela man o meri, dispela man o meri em i <b>klin</b>. Insait long Baibel, taim wanpela man o meri em i klin, em i no toktok long ol bodi bilong ol i stap klin. Taim yumi klin, em i min olsem yumi fit long mekim wok bilong God. </p><p>Insait long Nupela Testamen, planti trenslesen i yusim wod konsekret long toktok long wanpela samting o wanpela man o meri we ol manmeri i dediketim long wanpela spesel pepos o wok bilong God. Ol trenslesen i yusim wanpela narapela wod, sengtifai, long toktok long proses bilong laikim long stap moa na moa olsem God i laikim yumi long stap. Tasol, orijinel tok ples i yusim ol seim wod long minim dediketim wanpela samting long mekim wanpela spesel wok, na proses bilong lainim long stap long we God i laikim yumi long stap.</p>",
+"content": "<p>Insait long Olpela Testamen, taim yu <b>konsekretim</b> o <data class=\"resource-ref\" data-content-id=\"tpi-t232-v1\" data-resource-code=\"FIAKeyTerms\">sengtifaim</data> wanpela man o meri, yu makim em long mekim wanpela spesel wok bilong God. Dispela man o meri nau em i bilong God; em i <data class=\"resource-ref\" data-content-id=\"tpi-t67-v1\" data-resource-code=\"FIAKeyTerms\">holi</data>. Insait long Olpela Testamen, <data class=\"resource-ref\" data-content-id=\"tpi-t103-v1\" data-resource-code=\"FIAKeyTerms\">ol pris</data> na <data class=\"resource-ref\" data-content-id=\"tpi-t244-v1\" data-resource-code=\"FIAKeyTerms\">ol Livai</data> em ol lain husat i bin save wok long tempel bilong God. Ol i mas konsekretim ol yet bipo long ol i ken mekim wok bilong God. Dispela em i min olsem ol i no inap slip wantaim meri bilong ol long sampela taim, na ol nid long mekim wanpela spesel waswas na putim ol fres klos. </p><p>Ol manmeri i ken konsekretim o sengtifaim wanpela samting bilong mekim wanpela spesel wok bilong God. Eksampel, ol pris i save konsekretim <data class=\"resource-ref\" data-content-id=\"tpi-t138-v1\" data-resource-code=\"FIAKeyTerms\">tempel</data> bilong God na ol samting insait long tempel. Ol pris i save mekim dispela taim ol i tromoi blut bilong ol animal ol i bin sekrifaisim insait long tempel na antap long ol samting insait long tempel. Ol dispela samting nau i kamap holi-ol i bilong God. Ol manmeri i no inap long yusim ol dispela samting long mekim narapela wok. Sapos ol i yusim ol dispela samting, em ol i no soim rispek long God.</p><p>Sapos God i konsekretim wanpela man o meri, dispela man o meri em i <data class=\"resource-ref\" data-content-id=\"tpi-t26-v1\" data-resource-code=\"FIAKeyTerms\">klin</data>. Insait long Baibel, taim wanpela man o meri em i klin, em i no toktok long ol bodi bilong ol i stap klin. Taim yumi klin, em i min olsem yumi fit long mekim wok bilong God. </p><p>Insait long Nupela Testamen, planti trenslesen i yusim wod konsekret long toktok long wanpela samting o wanpela man o meri we ol manmeri i dediketim long wanpela spesel pepos o wok bilong God. Ol trenslesen i yusim wanpela narapela wod, sengtifai, long toktok long proses bilong laikim long stap moa na moa olsem God i laikim yumi long stap. Tasol, orijinel tok ples i yusim ol seim wod long minim dediketim wanpela samting long mekim wanpela spesel wok, na proses bilong lainim long stap long we God i laikim yumi long stap.</p>",
 "associations": {
 "passage": [
 {
@@ -3749,7 +4287,50 @@
 "end_ref_usfm": "1TI 4:5"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "tpi-t232-v1",
+"resource_code": "FIAKeyTerms",
+"label": "sengtifaim",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t67-v1",
+"resource_code": "FIAKeyTerms",
+"label": "holi",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t103-v1",
+"resource_code": "FIAKeyTerms",
+"label": "ol pris",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t244-v1",
+"resource_code": "FIAKeyTerms",
+"label": "ol Livai",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t138-v1",
+"resource_code": "FIAKeyTerms",
+"label": "tempel",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t26-v1",
+"resource_code": "FIAKeyTerms",
+"label": "klin",
+"language": "tpi"
+}
+],
 "acai": []
 }
 },
@@ -3853,7 +4434,7 @@
 "index_reference": "covenant",
 "language": "tpi",
 "review_level": "None",
-"content": "<p>Taim ol manmeri i mekim wanpela <b>kavanen</b>, ol i mekim wanpela strongpela promis long wanpela narapela we ol i no inap brukim. Taim ol manmeri i mekim wanpela kavanen, ol i tok olsem ol i laik gat wanpela gutpela rilesensip wantaim wanpela narapela. Olsem na ol manmeri husat i mekim kavanen em sampela taim ol i save kolim wanpela narapela brata, o papa, o pikinini. Wanpela kavanen em i save stap oltaim.</p><p>Taim ol manmeri i mekim wanpela kavanen, ol i mekim wanpela <a href=\"#t96\">tok promis</a>. Insait long tok promis ol i save tok: &quot;Mi bai holimpasim dispela promis bilong mi. Sapos mi no holimpasim dispela tok promis, God bai panisim mi. Ol i ken mekim wanpela pasin we i soim panismen we God bai givim long ol sapos ol i brukim promis bilong ol. Kain olsem, taim ol manmeri i mekim wanpela kavanem wantaim wanpela narapela, ol bai kilim wanwan animal. Dispela em long mekim ol i tingim olsem sapos wanpela bilong ol i brukim dispela kavanen, God bai panisim ol. Planti taim, pasin bilong kaikai wantaim em tu i pat bilong pasin bilong mekim kavanen.</p><p>Ol wanwan man o bikpela famili i ken mekim wanpela kavanen wantaim wanpela narapela. Ol kantri o grup manmeri, ol tu i ken mekim wanpela kavanen wantaim wanpela narapela. Kain olsem ol i ken promis olsem ol bai no inap pait wantaim wanpela narapela na ol bai helpim narapela grup sapos dispela grup i gat wanpela problem. Taim ol i mekim wanpela kavanen wantaim wanpela narapela, ol i wok long tok olsem ol i laik long gat wanpela gutpela <b>rilesensip</b> wantaim wanpela narapela. Insait long dispela rilesensip, tupela sait wantaim i ikwal. Ol i gat sois sapos ol i laik long mekim kavanen wantaim wanpela narapela o nogat, na ol i ken wanbel wantaim long wanem samting ol i laik long promisim wanpela narapela. Insait long Olpela testamen, ol manmeri bilong <a href=\"#t74\">Israel</a> sampela taim i mekim kavanen wantaim ol manmeri bilong narapela <a href=\"#t94\">kantri</a>.</p><p>Wanpela <a href=\"#t226\">king</a> o wanpela rula em i ken mekim wanpela kavanen wantaim wanpela narapela rula o <a href=\"#t157\">kingdom</a> we i wik moa long em. Dispela king i ken tokim ol dispela narapela manmeri: &quot;Mi bai protektim yu, tasol yu bai baim mi,&quot; o &quot;Yu bai wok long mi.&quot; Ol dispela narapela manmeri i nid long promis long mekim wanem samting dispela king i laikim. Sapos ol i brukim dispela promis, king bai panisim ol. Sapos ol i bihainim dispela promis, king bai mekim gutpela samting long ol. Insait long dispela kain kavanen, king i no save mekim wanpela tok promis. Ol manmeri husat i mas mekim wanem samting king i laikim, em ol i bin mekim tok promis.</p><p>Tasol sampela taim, em i narapela we gen, na king tasol i mekim wanpela promis. Dispela em i ken kamap sapos sampela manmeri i mekim gutpela samting tru long king, na king i laik long givim presen long ol. Planti taim dispela em i min olsem king bai givim sampela graun long ol. King bai mekim wanpela tok promis, na em bai tok olsem ol dispela manmeri i ken kisim dispela graun oltaim oltaim.</p><p>God i bin mekim sampela kavanen wantaim ol manmeri. Ol dispela kain kavanen em ol i wankain liklik olsem dispela narapela tupela kain kavanen we wanpela king i ken mekim wantaim ol manmeri.</p><p>God i bin mekim wanpela kavanen wantaim <a href=\"#t1\">Abraham</a>. God i bin promis long givim Abraham wanpela graun na planti lain tumbuna. God em i wanpela tasol husat i mekim tok promis long hia. God i konfemim dispela tok promis long wanpela pasin kastom we ol i save kilim animal. Dispela i soim gutpela bel bilong tok promis bilong God. Stat long dispela taim na i go, Abraham na <b>ol lain tumbuna</b> bilong em i nid long <b>katim skin</b>. Pasin bilong katim skin em i wanpela kastom bilong katim lus skin we i stap long arere bilong penis bilong wanpela man. Long tok ples <a href=\"#t227\">Hibru</a>, we i tok ples bilong Olpela Testamen, taim ol manmeri i mekim wanpela kavanen, ol i save tok olsem ol i &quot;<b>katim</b> wanpela kavanen.&quot; Taim ol i mekim dispela kat insait long bodi bilong ol, ol tumbuna bilong Abraham bai tingim bek gen kavanen we God i bin &quot;katim&quot; wantaim ol. Sapos ol tumbuna bilong Abraham i stop long katim skin bilong ol pikinini man bilong ol, ol bai brukim pat bilong ol insait long dispela kavanen.</p><p>Bihain, God i konfemim dispela kavanen planti taim wantaim ol tumbuna bilong Abraham, dispela em ol <b>lain Israel</b>. Kain olsem, long Maunten Sainai bihain long Moses i lidim ol lain Israel i kam autsait long wokboi nating long Ijip. Ol tumbuna bilong Abraham i bin kamap bikpela grup manmeri, wankain stret olsem God i bin promis. Tasol ol i no bin gat graun bilong ol yet long dispela taim. Long Maunten Sainai, God i bin givim ol lain Israel ol komanmen bilong em, dispela em ol lo bilong em. Ol lain Israel i nid long bihainim ol dispela komanmen. Dispela em i pat bilong ol insait long dispela kavanen agrimen. God i bin promisim ol lain Israel olsem sapos ol i harim tok bilong em na mekim pat bilong ol insait long dispela kavanen, ol bai stap olsem spesel manmeri bilong God. God bai <a href=\"#t16\">blesim</a> ol na givim ol wanpela graun bilong ol yet, na planti narapela gutpela samting. Tasol sapos ol lain Israel i sakim tok bilong God, na i brukim dispela kavanen, God bai panisim ol na rausim graun bilong ol.</p><p>Ol lain Israel i bin promis long bihainim kavanen bilong God na long harim tok bilong em olgeta taim. Long konfemim dispela promis, ol i mekim wanpela kastom pasin. Moses i kilim sampela animal na i tromoi sampela blut bilong ol dispela animal antap long <a href=\"#t3\">alta</a>-dispela em i ples we ol manmeri i save bringim <b>ol sekrifais</b> i go long God. Na em i tromoi sampela bilong dispela blut antap long ol manmeri. Em i kolim dispela &quot;blut bilong kavanen.&quot; Dispela blut long alta em i makim tok promis bilong God, na dispela blut antap long ol manmeri em i makim tok promis bilong ol manmeri. Blut i mekim dispela kavanen i kamap wanpela fomel agrimen we i no inap long bruk.</p><p>Tasol, ol lain Israel i no bin kipim tok promis bilong ol. Ol i wok long brukim ol komanmen bilong God, na God i nid long panisim ol.</p><p>Insait long Nupela Testamen, dispela Olpela Testamen kavanen wantaim ol lain Israel em ol i kolim olsem &quot;nambawan kavanen.&quot; Jisas i bin tok olsem em i wok long mekim wanpela <b>nupela</b> kavanen wantaim ol manmeri. God i nid long mekim wanpela nupela kavanen bikos ol manmeri i <b>pulap long sin</b> tru. Olsem na ol i no inap long harim tok bilong God, na ol i no inap long mekim pat bilong ol insait long dispela kavanen. Bipo long Jisas i dai, Jisas i bin toktok long dai bilong em. Jisas i tok olsem blut bilong en em i blut bilong nupela kavanen. Wankain olsem blut long alta na long ol manmeri long taim God i bin mekim namba wan kavanen i kamap fomel, dai bilong Jisas i mekim nupela kavanen namel long God na ol manmeri i fomel. Dispela nupela kavanen em i wanpela bikpela promis i kam long God na i go long ol manmeri olsem ol bai seiv sapos ol i trastim Jisas.</p><p><b>Taim yu trensletim kavanen, yu mas lukaut long ol dispela samting:</b></p><p>Kalsa bilong yu, ating em i gat wanpela wod o hap tok bilong kavanen we i wankain long wanpela kavanen insait long Baibel. Ol sampela tok ples i save yusim tok piksa long stori long ol manmeri i mekim wanpela kavanen. Yu ting ol manmeri i save mekim wanpela kain pasin taim ol i mekim wanpela bikpela promis long wanpela narapela? Sapos ol i save mekim wanpela kain pasin, dispela pasin i ken helpim yu long mekim disisen long wanpela wod bilong kavanen.</p><p>Sampela opsen bilong trensletim kavanen em:</p>",
+"content": "<p>Taim ol manmeri i mekim wanpela <b>kavanen</b>, ol i mekim wanpela strongpela promis long wanpela narapela we ol i no inap brukim. Taim ol manmeri i mekim wanpela kavanen, ol i tok olsem ol i laik gat wanpela gutpela rilesensip wantaim wanpela narapela. Olsem na ol manmeri husat i mekim kavanen em sampela taim ol i save kolim wanpela narapela brata, o papa, o pikinini. Wanpela kavanen em i save stap oltaim.</p><p>Taim ol manmeri i mekim wanpela kavanen, ol i mekim wanpela <data class=\"resource-ref\" data-content-id=\"tpi-t96-v1\" data-resource-code=\"FIAKeyTerms\">tok promis</data>. Insait long tok promis ol i save tok: &quot;Mi bai holimpasim dispela promis bilong mi. Sapos mi no holimpasim dispela tok promis, God bai panisim mi. Ol i ken mekim wanpela pasin we i soim panismen we God bai givim long ol sapos ol i brukim promis bilong ol. Kain olsem, taim ol manmeri i mekim wanpela kavanem wantaim wanpela narapela, ol bai kilim wanwan animal. Dispela em long mekim ol i tingim olsem sapos wanpela bilong ol i brukim dispela kavanen, God bai panisim ol. Planti taim, pasin bilong kaikai wantaim em tu i pat bilong pasin bilong mekim kavanen.</p><p>Ol wanwan man o bikpela famili i ken mekim wanpela kavanen wantaim wanpela narapela. Ol kantri o grup manmeri, ol tu i ken mekim wanpela kavanen wantaim wanpela narapela. Kain olsem ol i ken promis olsem ol bai no inap pait wantaim wanpela narapela na ol bai helpim narapela grup sapos dispela grup i gat wanpela problem. Taim ol i mekim wanpela kavanen wantaim wanpela narapela, ol i wok long tok olsem ol i laik long gat wanpela gutpela <b>rilesensip</b> wantaim wanpela narapela. Insait long dispela rilesensip, tupela sait wantaim i ikwal. Ol i gat sois sapos ol i laik long mekim kavanen wantaim wanpela narapela o nogat, na ol i ken wanbel wantaim long wanem samting ol i laik long promisim wanpela narapela. Insait long Olpela testamen, ol manmeri bilong <data class=\"resource-ref\" data-content-id=\"tpi-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israel</data> sampela taim i mekim kavanen wantaim ol manmeri bilong narapela <data class=\"resource-ref\" data-content-id=\"tpi-t94-v1\" data-resource-code=\"FIAKeyTerms\">kantri</data>.</p><p>Wanpela <data class=\"resource-ref\" data-content-id=\"tpi-t226-v2\" data-resource-code=\"FIAKeyTerms\">king</data> o wanpela rula em i ken mekim wanpela kavanen wantaim wanpela narapela rula o <data class=\"resource-ref\" data-content-id=\"tpi-t157-v1\" data-resource-code=\"FIAKeyTerms\">kingdom</data> we i wik moa long em. Dispela king i ken tokim ol dispela narapela manmeri: &quot;Mi bai protektim yu, tasol yu bai baim mi,&quot; o &quot;Yu bai wok long mi.&quot; Ol dispela narapela manmeri i nid long promis long mekim wanem samting dispela king i laikim. Sapos ol i brukim dispela promis, king bai panisim ol. Sapos ol i bihainim dispela promis, king bai mekim gutpela samting long ol. Insait long dispela kain kavanen, king i no save mekim wanpela tok promis. Ol manmeri husat i mas mekim wanem samting king i laikim, em ol i bin mekim tok promis.</p><p>Tasol sampela taim, em i narapela we gen, na king tasol i mekim wanpela promis. Dispela em i ken kamap sapos sampela manmeri i mekim gutpela samting tru long king, na king i laik long givim presen long ol. Planti taim dispela em i min olsem king bai givim sampela graun long ol. King bai mekim wanpela tok promis, na em bai tok olsem ol dispela manmeri i ken kisim dispela graun oltaim oltaim.</p><p>God i bin mekim sampela kavanen wantaim ol manmeri. Ol dispela kain kavanen em ol i wankain liklik olsem dispela narapela tupela kain kavanen we wanpela king i ken mekim wantaim ol manmeri.</p><p>God i bin mekim wanpela kavanen wantaim <data class=\"resource-ref\" data-content-id=\"tpi-t1-v1\" data-resource-code=\"FIAKeyTerms\">Abraham</data>. God i bin promis long givim Abraham wanpela graun na planti lain tumbuna. God em i wanpela tasol husat i mekim tok promis long hia. God i konfemim dispela tok promis long wanpela pasin kastom we ol i save kilim animal. Dispela i soim gutpela bel bilong tok promis bilong God. Stat long dispela taim na i go, Abraham na <data class=\"resource-ref\" data-content-id=\"tpi-t234-v1\" data-resource-code=\"FIAKeyTerms\">ol lain tumbuna</data> bilong em i nid long <data class=\"resource-ref\" data-content-id=\"tpi-t25-v1\" data-resource-code=\"FIAKeyTerms\">katim skin</data>. Pasin bilong katim skin em i wanpela kastom bilong katim lus skin we i stap long arere bilong penis bilong wanpela man. Long tok ples <data class=\"resource-ref\" data-content-id=\"tpi-t227-v1\" data-resource-code=\"FIAKeyTerms\">Hibru</data>, we i tok ples bilong Olpela Testamen, taim ol manmeri i mekim wanpela kavanen, ol i save tok olsem ol i &quot;<b>katim</b> wanpela kavanen.&quot; Taim ol i mekim dispela kat insait long bodi bilong ol, ol tumbuna bilong Abraham bai tingim bek gen kavanen we God i bin &quot;katim&quot; wantaim ol. Sapos ol tumbuna bilong Abraham i stop long katim skin bilong ol pikinini man bilong ol, ol bai brukim pat bilong ol insait long dispela kavanen.</p><p>Bihain, God i konfemim dispela kavanen planti taim wantaim ol tumbuna bilong Abraham, dispela em ol <data class=\"resource-ref\" data-content-id=\"tpi-t259-v2\" data-resource-code=\"FIAKeyTerms\">lain Israel</data>. Kain olsem, long Maunten Sainai bihain long Moses i lidim ol lain Israel i kam autsait long wokboi nating long Ijip. Ol tumbuna bilong Abraham i bin kamap bikpela grup manmeri, wankain stret olsem God i bin promis. Tasol ol i no bin gat graun bilong ol yet long dispela taim. Long Maunten Sainai, God i bin givim ol lain Israel ol komanmen bilong em, dispela em ol lo bilong em. Ol lain Israel i nid long bihainim ol dispela komanmen. Dispela em i pat bilong ol insait long dispela kavanen agrimen. God i bin promisim ol lain Israel olsem sapos ol i harim tok bilong em na mekim pat bilong ol insait long dispela kavanen, ol bai stap olsem spesel manmeri bilong God. God bai <data class=\"resource-ref\" data-content-id=\"tpi-t16-v1\" data-resource-code=\"FIAKeyTerms\">blesim</data> ol na givim ol wanpela graun bilong ol yet, na planti narapela gutpela samting. Tasol sapos ol lain Israel i sakim tok bilong God, na i brukim dispela kavanen, God bai panisim ol na rausim graun bilong ol.</p><p>Ol lain Israel i bin promis long bihainim kavanen bilong God na long harim tok bilong em olgeta taim. Long konfemim dispela promis, ol i mekim wanpela kastom pasin. Moses i kilim sampela animal na i tromoi sampela blut bilong ol dispela animal antap long <data class=\"resource-ref\" data-content-id=\"tpi-t3-v1\" data-resource-code=\"FIAKeyTerms\">alta</data>-dispela em i ples we ol manmeri i save bringim <data class=\"resource-ref\" data-content-id=\"tpi-t114-v1\" data-resource-code=\"FIAKeyTerms\">ol sekrifais</data> i go long God. Na em i tromoi sampela bilong dispela blut antap long ol manmeri. Em i kolim dispela &quot;blut bilong kavanen.&quot; Dispela blut long alta em i makim tok promis bilong God, na dispela blut antap long ol manmeri em i makim tok promis bilong ol manmeri. Blut i mekim dispela kavanen i kamap wanpela fomel agrimen we i no inap long bruk.</p><p>Tasol, ol lain Israel i no bin kipim tok promis bilong ol. Ol i wok long brukim ol komanmen bilong God, na God i nid long panisim ol.</p><p>Insait long Nupela Testamen, dispela Olpela Testamen kavanen wantaim ol lain Israel em ol i kolim olsem &quot;nambawan kavanen.&quot; Jisas i bin tok olsem em i wok long mekim wanpela <b>nupela</b> kavanen wantaim ol manmeri. God i nid long mekim wanpela nupela kavanen bikos ol manmeri i <data class=\"resource-ref\" data-content-id=\"tpi-t125-v1\" data-resource-code=\"FIAKeyTerms\">pulap long sin</data> tru. Olsem na ol i no inap long harim tok bilong God, na ol i no inap long mekim pat bilong ol insait long dispela kavanen. Bipo long Jisas i dai, Jisas i bin toktok long dai bilong em. Jisas i tok olsem blut bilong en em i blut bilong nupela kavanen. Wankain olsem blut long alta na long ol manmeri long taim God i bin mekim namba wan kavanen i kamap fomel, dai bilong Jisas i mekim nupela kavanen namel long God na ol manmeri i fomel. Dispela nupela kavanen em i wanpela bikpela promis i kam long God na i go long ol manmeri olsem ol bai seiv sapos ol i trastim Jisas.</p><p><b>Taim yu trensletim kavanen, yu mas lukaut long ol dispela samting:</b></p><p>Kalsa bilong yu, ating em i gat wanpela wod o hap tok bilong kavanen we i wankain long wanpela kavanen insait long Baibel. Ol sampela tok ples i save yusim tok piksa long stori long ol manmeri i mekim wanpela kavanen. Yu ting ol manmeri i save mekim wanpela kain pasin taim ol i mekim wanpela bikpela promis long wanpela narapela? Sapos ol i save mekim wanpela kain pasin, dispela pasin i ken helpim yu long mekim disisen long wanpela wod bilong kavanen.</p><p>Sampela opsen bilong trensletim kavanen em:</p>",
 "associations": {
 "passage": [
 {
@@ -4355,7 +4936,106 @@
 "end_ref_usfm": "EPH 2:18"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "tpi-t96-v1",
+"resource_code": "FIAKeyTerms",
+"label": "tok promis",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israel",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t94-v1",
+"resource_code": "FIAKeyTerms",
+"label": "kantri",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t226-v2",
+"resource_code": "FIAKeyTerms",
+"label": "king",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t157-v1",
+"resource_code": "FIAKeyTerms",
+"label": "kingdom",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t1-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Abraham",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t234-v1",
+"resource_code": "FIAKeyTerms",
+"label": "ol lain tumbuna",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t25-v1",
+"resource_code": "FIAKeyTerms",
+"label": "katim skin",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t227-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Hibru",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t259-v2",
+"resource_code": "FIAKeyTerms",
+"label": "lain Israel",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t16-v1",
+"resource_code": "FIAKeyTerms",
+"label": "blesim",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t3-v1",
+"resource_code": "FIAKeyTerms",
+"label": "alta",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t114-v1",
+"resource_code": "FIAKeyTerms",
+"label": "ol sekrifais",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t125-v1",
+"resource_code": "FIAKeyTerms",
+"label": "pulap long sin",
+"language": "tpi"
+}
+],
 "acai": [
 {
 "id": "keyterm:Covenant",
@@ -4376,7 +5056,7 @@
 "index_reference": "cross",
 "language": "tpi",
 "review_level": "None",
-"content": "<p>Wanpela <b>diwai kros o kros</b> em i wanpela hap plang we i save sanap i go antap na i gat narapela hap plang-ol i kolim &quot;wanpela krosbim&quot;-na em i pas na slip saidweis klostu long antap. Ol manmeri long Rom i bin save yusim dispela olsem wanpela tul bilong givim pen na kilim ol manmeri we ol i ting olsem ol i nogut kriminel tru. Ol manmeri i save kolim dispela rot bilong givim pen o kilim man olsem &quot;<a href=\"#t169\">krusifiksen</a>.&quot; Krusifiksen em i wanpela rot bilong dai we i pulap long pen na i bagarapim na semim man tru. Wanpela man o meri we ol bai krusifaim em, pastaim ol i save flogim o paitim em nogut tru, na bihain em i nid long karim krosbim bilong diwai kros i go long ples bilong dai. Ol soldia i save putim dispela viktem antap long kros we ol i wokim long plang, na han bilong em ol bai opim i go autsait. Ol soldia i save hamarim ol bikpela ain nil i go insait long skru bilong han daunbilo, o i go insait long ol han we pinga i stap long en, na bihain long lek bilong viktem, na em bai pas long kros. Bihain ol i save pulim na sanapim diwai kros, na mekim ol dispela viktem i stap as nating na hangamap i go inap ol i dai, ples klia long ai bilong olgeta narapela manmeri. Wanpela diwai kros em i simbol bilong bikpela sem na daunim nem.</p>",
+"content": "<p>Wanpela <b>diwai kros o kros</b> em i wanpela hap plang we i save sanap i go antap na i gat narapela hap plang-ol i kolim &quot;wanpela krosbim&quot;-na em i pas na slip saidweis klostu long antap. Ol manmeri long Rom i bin save yusim dispela olsem wanpela tul bilong givim pen na kilim ol manmeri we ol i ting olsem ol i nogut kriminel tru. Ol manmeri i save kolim dispela rot bilong givim pen o kilim man olsem &quot;<data class=\"resource-ref\" data-content-id=\"tpi-t169-v1\" data-resource-code=\"FIAKeyTerms\">krusifiksen</data>.&quot; Krusifiksen em i wanpela rot bilong dai we i pulap long pen na i bagarapim na semim man tru. Wanpela man o meri we ol bai krusifaim em, pastaim ol i save flogim o paitim em nogut tru, na bihain em i nid long karim krosbim bilong diwai kros i go long ples bilong dai. Ol soldia i save putim dispela viktem antap long kros we ol i wokim long plang, na han bilong em ol bai opim i go autsait. Ol soldia i save hamarim ol bikpela ain nil i go insait long skru bilong han daunbilo, o i go insait long ol han we pinga i stap long en, na bihain long lek bilong viktem, na em bai pas long kros. Bihain ol i save pulim na sanapim diwai kros, na mekim ol dispela viktem i stap as nating na hangamap i go inap ol i dai, ples klia long ai bilong olgeta narapela manmeri. Wanpela diwai kros em i simbol bilong bikpela sem na daunim nem.</p>",
 "associations": {
 "passage": [
 {
@@ -4488,7 +5168,15 @@
 "end_ref_usfm": "EPH 2:18"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "tpi-t169-v1",
+"resource_code": "FIAKeyTerms",
+"label": "krusifiksen",
+"language": "tpi"
+}
+],
 "acai": [
 {
 "id": "realia:Cross",
@@ -4509,7 +5197,7 @@
 "index_reference": "crucifixion",
 "language": "tpi",
 "review_level": "None",
-"content": "<p><b>Krusifiksen</b> em i bin wanpela we bilong ol lain long Rom long kilim ol manmeri.  Em ol i save yusim tasol long ol <b>sleiv o wokmanmeri nating</b> na ol nogut kriminel tru. Krusifiksen em i wanpela rot bilong dai we i pulap tru long pen na i bagarapim na semim man tru. Krusifiksen em i min olsem ol i nilim wanpela man o meri long <a href=\"#t30\">diwai kros</a> na larim em i stap long dai.</p><p>Wanpela diwai kros em i wanpela hap plang we i save sanap i go antap na i gat narapela hap plang-wanpela krosbim-i pis long em saidweis klostu long antap bilong em. Wanpela man o meri husat ol bai krusifaim em ol i save flogim o paitim  em long mak nogut tru pastaim na bihain em bai karim krosbim bilong kros bilong em i go long ples bilong dai. Ol soldia i save putim dispela viktem antap long kros we ol i wokim long plang, na han bilong em ol bai opim i go autsait. Bihain ol soldia i save hamarim ol bikpela nil i go insait long ol skru bilong han daunbilo-o long han we ol pinga i stap long en-na long lek bilong viktem, bai em i ken pas long kros. Sampela taim ol soldia bai pasim dispela man o meri wantaim wanpela rop na i no yusim ol nil. Bihain ol soldia i save pulim na sanapim dispela diwai kros, na mekim dispela viktem i hangamap as nating i go inap em i dai, ples klia long ai bilong olgeta narapela manmeri. Dispela viktem em i no inap long muv na em i save pilim pen olgeta taim Em bai dai bikos long pen, hangre, na nek i drai, o bikos em i no inap long pulim win gut. Dispela em i ken kisim sampela aua o sampela de. Sampela taim ol soldia i save mekim viktem i dai hariap taim ol i brukim ol lek bilong em bai em i no inap long pusim em yet i go antap long pulim win.</p>",
+"content": "<p><b>Krusifiksen</b> em i bin wanpela we bilong ol lain long Rom long kilim ol manmeri.  Em ol i save yusim tasol long ol <data class=\"resource-ref\" data-content-id=\"tpi-t126-v2\" data-resource-code=\"FIAKeyTerms\">sleiv o wokmanmeri nating</data> na ol nogut kriminel tru. Krusifiksen em i wanpela rot bilong dai we i pulap tru long pen na i bagarapim na semim man tru. Krusifiksen em i min olsem ol i nilim wanpela man o meri long <data class=\"resource-ref\" data-content-id=\"tpi-t30-v1\" data-resource-code=\"FIAKeyTerms\">diwai kros</data> na larim em i stap long dai.</p><p>Wanpela diwai kros em i wanpela hap plang we i save sanap i go antap na i gat narapela hap plang-wanpela krosbim-i pis long em saidweis klostu long antap bilong em. Wanpela man o meri husat ol bai krusifaim em ol i save flogim o paitim  em long mak nogut tru pastaim na bihain em bai karim krosbim bilong kros bilong em i go long ples bilong dai. Ol soldia i save putim dispela viktem antap long kros we ol i wokim long plang, na han bilong em ol bai opim i go autsait. Bihain ol soldia i save hamarim ol bikpela nil i go insait long ol skru bilong han daunbilo-o long han we ol pinga i stap long en-na long lek bilong viktem, bai em i ken pas long kros. Sampela taim ol soldia bai pasim dispela man o meri wantaim wanpela rop na i no yusim ol nil. Bihain ol soldia i save pulim na sanapim dispela diwai kros, na mekim dispela viktem i hangamap as nating i go inap em i dai, ples klia long ai bilong olgeta narapela manmeri. Dispela viktem em i no inap long muv na em i save pilim pen olgeta taim Em bai dai bikos long pen, hangre, na nek i drai, o bikos em i no inap long pulim win gut. Dispela em i ken kisim sampela aua o sampela de. Sampela taim ol soldia i save mekim viktem i dai hariap taim ol i brukim ol lek bilong em bai em i no inap long pusim em yet i go antap long pulim win.</p>",
 "associations": {
 "passage": [
 {
@@ -4675,7 +5363,22 @@
 "end_ref_usfm": "GAL 6:18"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "tpi-t126-v2",
+"resource_code": "FIAKeyTerms",
+"label": "sleiv o wokmanmeri nating",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t30-v1",
+"resource_code": "FIAKeyTerms",
+"label": "diwai kros",
+"language": "tpi"
+}
+],
 "acai": []
 }
 },
@@ -4879,7 +5582,7 @@
 "index_reference": "curse",
 "language": "tpi",
 "review_level": "None",
-"content": "<p>Long <b>kesim</b> wanpela man o meri em i oposit bilong <a href=\"#t16\">blesim</a> wanpela man o meri. Taim yu blesim wanpela man o meri, yu laikim olsem gutpela samting bai kamap long dispela man o meri we yu blesim. Taim yu kesim em, yu laikim olsem sampela samting nogut bai kamap long em. Ol manmeri <b>i bin bilip </b> olsem wanpela kes em bai kamap tru. Sapos sampela lain i kesim ol, ol save pilim pret tru.</p><p>Taim God i kesim wanpela man o meri, samting nogut we God i tok olsem i bai kamap, em tru tru em bai kamap. God i save kesim ol manmeri long panisim ol. God i bin tokim <b>ol Isreal</b> olsem sapos ol i harim na bihainim tok bilong God, God bai blesim ol. Sapos ol i no harim na bihainim tok bilong God, God bai kesim ol.</p>",
+"content": "<p>Long <b>kesim</b> wanpela man o meri em i oposit bilong <data class=\"resource-ref\" data-content-id=\"tpi-t16-v1\" data-resource-code=\"FIAKeyTerms\">blesim</data> wanpela man o meri. Taim yu blesim wanpela man o meri, yu laikim olsem gutpela samting bai kamap long dispela man o meri we yu blesim. Taim yu kesim em, yu laikim olsem sampela samting nogut bai kamap long em. Ol manmeri <data class=\"resource-ref\" data-content-id=\"tpi-t11-v1\" data-resource-code=\"FIAKeyTerms\">i bin bilip </data> olsem wanpela kes em bai kamap tru. Sapos sampela lain i kesim ol, ol save pilim pret tru.</p><p>Taim God i kesim wanpela man o meri, samting nogut we God i tok olsem i bai kamap, em tru tru em bai kamap. God i save kesim ol manmeri long panisim ol. God i bin tokim <data class=\"resource-ref\" data-content-id=\"tpi-t259-v2\" data-resource-code=\"FIAKeyTerms\">ol Isreal</data> olsem sapos ol i harim na bihainim tok bilong God, God bai blesim ol. Sapos ol i no harim na bihainim tok bilong God, God bai kesim ol.</p>",
 "associations": {
 "passage": [
 {
@@ -5207,7 +5910,29 @@
 "end_ref_usfm": "JAS 3:12"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "tpi-t16-v1",
+"resource_code": "FIAKeyTerms",
+"label": "blesim",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t11-v1",
+"resource_code": "FIAKeyTerms",
+"label": "i bin bilip ",
+"language": "tpi"
+},
+{
+"reference_id": 0,
+"content_id": "tpi-t259-v2",
+"resource_code": "FIAKeyTerms",
+"label": "ol Isreal",
+"language": "tpi"
+}
+],
 "acai": []
 }
 }

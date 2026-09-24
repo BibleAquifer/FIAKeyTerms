@@ -8,7 +8,7 @@
 "index_reference": "公会",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><b>公会</b>是一群<a href=\"#t77\">犹太</a> 领袖的名称，他们被任命代表人民作决定，特别是与宗教有关的决定。 在新约时代，<a href=\"#t74\">以色列</a>由罗马人统治，但犹太人可以为自己决定一些事情。 这些决定在公会中作出。 公会聆听法庭案件，并根据宗教律法作出裁决。 当他们开庭审判时，通常会坐成半圆形，好让彼此都能看到对方。 被告坐在圆圈的中间。</p><p>公会的另一个名称是<b>犹太法庭</b>，或<b>犹太公会</b>。</p><p>我们对公会了解的不多。 似乎宗教领袖，如<a href=\"#t103\">祭司</a>、<a href=\"#t115\">撒都该人</a>和<a href=\"#t100\">法利赛人</a>都是这个群体的一部分。 一些不是宗教领袖的有钱人也可能是公会的一员。 最重要的祭司，即<a href=\"#t246\">大祭司</a>，可能就是公会的领袖。</p><p>如果你是公会的成员，你就是一个重要的人。</p><p>组成公会的人经常反对耶稣。 他们负责将祂交给罗马政府，并要求处死祂。 在耶稣死和<a href=\"#t110\">复活</a>后，公会逮捕了几个耶稣的<a href=\"#t39\">门徒</a>。</p>",
+"content": "<p><b>公会</b>是一群<data class=\"resource-ref\" data-content-id=\"cmn-t77-v1\" data-resource-code=\"FIAKeyTerms\">犹太</data> 领袖的名称，他们被任命代表人民作决定，特别是与宗教有关的决定。 在新约时代，<data class=\"resource-ref\" data-content-id=\"cmn-t74-v1\" data-resource-code=\"FIAKeyTerms\">以色列</data>由罗马人统治，但犹太人可以为自己决定一些事情。 这些决定在公会中作出。 公会聆听法庭案件，并根据宗教律法作出裁决。 当他们开庭审判时，通常会坐成半圆形，好让彼此都能看到对方。 被告坐在圆圈的中间。</p><p>公会的另一个名称是<b>犹太法庭</b>，或<b>犹太公会</b>。</p><p>我们对公会了解的不多。 似乎宗教领袖，如<data class=\"resource-ref\" data-content-id=\"cmn-t103-v1\" data-resource-code=\"FIAKeyTerms\">祭司</data>、<data class=\"resource-ref\" data-content-id=\"cmn-t115-v1\" data-resource-code=\"FIAKeyTerms\">撒都该人</data>和<data class=\"resource-ref\" data-content-id=\"cmn-t100-v1\" data-resource-code=\"FIAKeyTerms\">法利赛人</data>都是这个群体的一部分。 一些不是宗教领袖的有钱人也可能是公会的一员。 最重要的祭司，即大祭司，可能就是公会的领袖。</p><p>如果你是公会的成员，你就是一个重要的人。</p><p>组成公会的人经常反对耶稣。 他们负责将祂交给罗马政府，并要求处死祂。 在耶稣死和<data class=\"resource-ref\" data-content-id=\"cmn-t110-v1\" data-resource-code=\"FIAKeyTerms\">复活</data>后，公会逮捕了几个耶稣的<data class=\"resource-ref\" data-content-id=\"cmn-t39-v1\" data-resource-code=\"FIAKeyTerms\">门徒</data>。</p>",
 "associations": {
 "passage": [
 {
@@ -132,7 +132,57 @@
 "end_ref_usfm": "ACT 24:23"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t77-v1",
+"resource_code": "FIAKeyTerms",
+"label": "犹太",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t74-v1",
+"resource_code": "FIAKeyTerms",
+"label": "以色列",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t103-v1",
+"resource_code": "FIAKeyTerms",
+"label": "祭司",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t115-v1",
+"resource_code": "FIAKeyTerms",
+"label": "撒都该人",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t100-v1",
+"resource_code": "FIAKeyTerms",
+"label": "法利赛人",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t110-v1",
+"resource_code": "FIAKeyTerms",
+"label": "复活",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t39-v1",
+"resource_code": "FIAKeyTerms",
+"label": "门徒",
+"language": "zhs"
+}
+],
 "acai": [
 {
 "id": "group:Sanhedrin",
@@ -289,7 +339,7 @@
 "index_reference": "公义",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><b>公义的</b>人就是以正确的方式行事的人。 神是公义的，因为神所做的一切都是对的，也是好的。</p><p>神希望所有的人都是公义的。 只有公义的人才能与神建立良好的<a href=\"#t108\">关系</a>。</p><p>想要顺服神并想要做讨神喜悦的事的人就是公义的，即使他们仍然可能会犯错并且无意中违背了神。 当一个公义的人发现自己不顺服神时会感到悲伤，并且他们会<a href=\"#t109\">悔改</a>。 另一方面，一个不义的人会做坏事，不<a href=\"#t11\">相信</a>也不在乎神可能会生气或惩罚他们。</p><p>当<a href=\"#t1\">亚伯拉罕</a>相信神的应许，即亚伯拉罕会有很多的<a href=\"#t234\">后裔</a>时，神就认为亚伯拉罕是义人。 亚伯拉罕不是因为做了一件好事而成为义人，而是因为他相信神。</p><p>相信耶稣的人也可以得到这种同样的公义。 当人们信靠耶稣时，神会赐给他们公义的礼物。 当你相信因为耶稣为你所做的事，你可以与神建立一个正确的关系时，神就宣布你是义人。</p><p><strong>当你翻译公义时，要注意以下几个事项：</strong></p><p>你可以将公义描述为与神有正确的关系，在神眼中是正确的，或者被神所接纳。 或者你可以将公义描述为无可指责或毫无瑕疵，或在神的眼中是无可指责或毫无瑕疵的。</p><p>你的语言可能会有特殊的词来描述公义的意思，例如\"有正直的心\"、\"正直\"、\"行在神的道上\"或其它类似的词语。</p><div data-type=\"callout\" data-callout-style=\"action\"><p>你可以请小组中的人在不使用公义这个词的情况下，以两人一组的方式来表演公义所含的意思。 之后，请讨论你所看到的内容，并探讨这些表演是否准确地解释了圣经中公义的含意。 这个活动可以帮助你在翻译中找到解释公义的方法。</p></div>",
+"content": "<p><b>公义的</b>人就是以正确的方式行事的人。 神是公义的，因为神所做的一切都是对的，也是好的。</p><p>神希望所有的人都是公义的。 只有公义的人才能与神建立良好的关系。</p><p>想要顺服神并想要做讨神喜悦的事的人就是公义的，即使他们仍然可能会犯错并且无意中违背了神。 当一个公义的人发现自己不顺服神时会感到悲伤，并且他们会<data class=\"resource-ref\" data-content-id=\"cmn-t109-v1\" data-resource-code=\"FIAKeyTerms\">悔改</data>。 另一方面，一个不义的人会做坏事，不<data class=\"resource-ref\" data-content-id=\"cmn-t11-v1\" data-resource-code=\"FIAKeyTerms\">相信</data>也不在乎神可能会生气或惩罚他们。</p><p>当亚伯拉罕相信神的应许，即亚伯拉罕会有很多的后裔时，神就认为亚伯拉罕是义人。 亚伯拉罕不是因为做了一件好事而成为义人，而是因为他相信神。</p><p>相信耶稣的人也可以得到这种同样的公义。 当人们信靠耶稣时，神会赐给他们公义的礼物。 当你相信因为耶稣为你所做的事，你可以与神建立一个正确的关系时，神就宣布你是义人。</p><p><strong>当你翻译公义时，要注意以下几个事项：</strong></p><p>你可以将公义描述为与神有正确的关系，在神眼中是正确的，或者被神所接纳。 或者你可以将公义描述为无可指责或毫无瑕疵，或在神的眼中是无可指责或毫无瑕疵的。</p><p>你的语言可能会有特殊的词来描述公义的意思，例如\"有正直的心\"、\"正直\"、\"行在神的道上\"或其它类似的词语。</p><div data-type=\"callout\" data-callout-style=\"action\"><p>你可以请小组中的人在不使用公义这个词的情况下，以两人一组的方式来表演公义所含的意思。 之后，请讨论你所看到的内容，并探讨这些表演是否准确地解释了圣经中公义的含意。 这个活动可以帮助你在翻译中找到解释公义的方法。</p></div>",
 "associations": {
 "passage": [
 {
@@ -851,7 +901,22 @@
 "end_ref_usfm": "1JN 5:21"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t109-v1",
+"resource_code": "FIAKeyTerms",
+"label": "悔改",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t11-v1",
+"resource_code": "FIAKeyTerms",
+"label": "相信",
+"language": "zhs"
+}
+],
 "acai": [
 {
 "id": "keyterm:UnjustDeed",

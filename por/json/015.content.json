@@ -8,7 +8,7 @@
 "index_reference": "palavra",
 "language": "por",
 "review_level": "None",
-"content": "<p>Na Bíblia, <b>palavra</b> geralmente significa <b>a palavra de Deus</b>. A palavra de Deus significa tudo o que Deus diz às pessoas. Deus fala com as pessoas diretamente, ou por meio de pessoas chamadas de <a href=\"#t104\">profetas</a>. Deus também fala por meio de suas ações: quando as pessoas veem o que Deus está fazendo, as pessoas podem entender o que ele fala com elas.</p><p>Quando as pessoas no Novo Testamento falam sobre “a palavra”, ou “a palavra de Deus”, ou “a palavra do Senhor”, elas geralmente querem dizer as <a href=\"#t160\">boas novas</a> de que Jesus veio para o mundo.</p><p>As pessoas podem saber o que Deus lhes diz por meio das <a href=\"#t120\">Escrituras</a> — a Bíblia. Portanto, as pessoas também chamam as Escrituras de “a palavra de Deus”.</p>",
+"content": "<p>Na Bíblia, <b>palavra</b> geralmente significa <b>a palavra de Deus</b>. A palavra de Deus significa tudo o que Deus diz às pessoas. Deus fala com as pessoas diretamente, ou por meio de pessoas chamadas de <data class=\"resource-ref\" data-content-id=\"por-t104-v1\" data-resource-code=\"FIAKeyTerms\">profetas</data>. Deus também fala por meio de suas ações: quando as pessoas veem o que Deus está fazendo, as pessoas podem entender o que ele fala com elas.</p><p>Quando as pessoas no Novo Testamento falam sobre “a palavra”, ou “a palavra de Deus”, ou “a palavra do Senhor”, elas geralmente querem dizer as <data class=\"resource-ref\" data-content-id=\"por-t160-v1\" data-resource-code=\"FIAKeyTerms\">boas novas</data> de que Jesus veio para o mundo.</p><p>As pessoas podem saber o que Deus lhes diz por meio das <data class=\"resource-ref\" data-content-id=\"por-t120-v1\" data-resource-code=\"FIAKeyTerms\">Escrituras</data> — a Bíblia. Portanto, as pessoas também chamam as Escrituras de “a palavra de Deus”.</p>",
 "associations": {
 "passage": [
 {
@@ -274,6 +274,12 @@
 "start_ref_usfm": "2KI 9:30",
 "end_ref": "12009037",
 "end_ref_usfm": "2KI 9:37"
+},
+{
+"start_ref": "12014023",
+"start_ref_usfm": "2KI 14:23",
+"end_ref": "12014029",
+"end_ref_usfm": "2KI 14:29"
 },
 {
 "start_ref": "13010001",
@@ -604,15 +610,31 @@
 "start_ref_usfm": "1JN 1:5",
 "end_ref": "62002002",
 "end_ref_usfm": "1JN 2:2"
-},
-{
-"start_ref": "62002003",
-"start_ref_usfm": "1JN 2:3",
-"end_ref": "62002011",
-"end_ref_usfm": "1JN 2:11"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t104-v1",
+"resource_code": "FIAKeyTerms",
+"label": "profetas",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t160-v1",
+"resource_code": "FIAKeyTerms",
+"label": "boas novas",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t120-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Escrituras",
+"language": "por"
+}
+],
 "acai": [
 {
 "id": "keyterm:Word",
@@ -901,6 +923,12 @@
 "end_ref_usfm": "2KI 9:37"
 },
 {
+"start_ref": "12014023",
+"start_ref_usfm": "2KI 14:23",
+"end_ref": "12014029",
+"end_ref_usfm": "2KI 14:29"
+},
+{
 "start_ref": "13010001",
 "start_ref_usfm": "1CH 10:1",
 "end_ref": "13010014",
@@ -1229,12 +1257,6 @@
 "start_ref_usfm": "1JN 1:5",
 "end_ref": "62002002",
 "end_ref_usfm": "1JN 2:2"
-},
-{
-"start_ref": "62002003",
-"start_ref_usfm": "1JN 2:3",
-"end_ref": "62002011",
-"end_ref_usfm": "1JN 2:11"
 }
 ],
 "resource": []
@@ -1249,7 +1271,7 @@
 "index_reference": "parábola",
 "language": "por",
 "review_level": "None",
-"content": "<p>Uma <b>parábola</b> é uma história que tem um significado mais profundo. Jesus contou muitas parábolas. Nessas histórias, Jesus usou personagens e situações que eram muito familiares para o povo ao seu redor. Essas histórias muitas vezes tinham um final que era bastante surpreendente para os ouvintes de Jesus, e às vezes até chocante. Por meio das histórias, Jesus contava ao povo coisas sobre Deus, e sobre como as coisas funcionam no <a href=\"#t82\">reino de Deus</a>. Contando essas histórias, Jesus queria que o povo mudasse seu pensamento e seu comportamento. As pessoas precisavam ouvir muito atentamente as parábolas para entendê-las. Apenas as pessoas que confiavam em Jesus podiam realmente entender essas parábolas. Para outras pessoas, as parábolas eram apenas histórias que não significavam nada. Às vezes Jesus explicava o significado da parábola para seus <a href=\"#t39\">discípulos</a> em particular.</p><p>No Antigo Testamento, os <a href=\"#t104\">profetas</a> — as pessoas que dava mensagens de Deus ao povo — às vezes também contavam parábolas para ensinar ao povo algo sobre Deus.</p>",
+"content": "<p>Uma <b>parábola</b> é uma história que tem um significado mais profundo. Jesus contou muitas parábolas. Nessas histórias, Jesus usou personagens e situações que eram muito familiares para o povo ao seu redor. Essas histórias muitas vezes tinham um final que era bastante surpreendente para os ouvintes de Jesus, e às vezes até chocante. Por meio das histórias, Jesus contava ao povo coisas sobre Deus, e sobre como as coisas funcionam no <data class=\"resource-ref\" data-content-id=\"por-t82-v1\" data-resource-code=\"FIAKeyTerms\">reino de Deus</data>. Contando essas histórias, Jesus queria que o povo mudasse seu pensamento e seu comportamento. As pessoas precisavam ouvir muito atentamente as parábolas para entendê-las. Apenas as pessoas que confiavam em Jesus podiam realmente entender essas parábolas. Para outras pessoas, as parábolas eram apenas histórias que não significavam nada. Às vezes Jesus explicava o significado da parábola para seus <data class=\"resource-ref\" data-content-id=\"por-t39-v1\" data-resource-code=\"FIAKeyTerms\">discípulos</data> em particular.</p><p>No Antigo Testamento, os <data class=\"resource-ref\" data-content-id=\"por-t104-v1\" data-resource-code=\"FIAKeyTerms\">profetas</data> — as pessoas que dava mensagens de Deus ao povo — às vezes também contavam parábolas para ensinar ao povo algo sobre Deus.</p>",
 "associations": {
 "passage": [
 {
@@ -1385,7 +1407,29 @@
 "end_ref_usfm": "LUK 21:38"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t82-v1",
+"resource_code": "FIAKeyTerms",
+"label": "reino de Deus",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t39-v1",
+"resource_code": "FIAKeyTerms",
+"label": "discípulos",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t104-v1",
+"resource_code": "FIAKeyTerms",
+"label": "profetas",
+"language": "por"
+}
+],
 "acai": [
 {
 "id": "keyterm:Parable",
@@ -1619,7 +1663,7 @@
 "index_reference": "páscoa",
 "language": "por",
 "review_level": "None",
-"content": "<p>A <b>Páscoa</b> é uma importante festa <a href=\"#t77\">judaica</a> que também é chamada de Festival, ou Festa, dos Pães Asmos.</p><p>Essa festa lembrava o povo sobre um momento muito importante na história de <a href=\"#t74\">Israel</a>.</p><p>Há muito tempo, os <a href=\"#t234\">descendentes</a> de <a href=\"#t1\">Abraão</a>, os <a href=\"#t259\">israelitas</a>, haviam se tornado <a href=\"#t126\">escravos</a> no Egito. Os israelitas haviam vivido no Egito por quatrocentos anos! Deus então chamou um dos israelitas, Moisés, para levar os israelitas para fora do Egito e de volta para <a href=\"#t178\">Canaã</a>, a terra que Deus havia prometido dar aos descendentes de Abraão. O <a href=\"#t226\">rei</a> do Egito simplesmente não permitiu que esse grande grupo de escravos fosse para fora de seu país. O rei tornou as coisas muito difíceis para os israelitas, mas Deus enviou nove pragas aos egípcios para forçar o rei a deixar o povo ir. Durante cada praga, o rei prometia que os israelitas poderiam ir, mas assim que Deus parava a praga, o rei mudava sua decisão novamente. E assim, Deus causou a décima e mais terrível praga de todas: Deus enviou um <a href=\"#t4\">anjo</a> para matar o filho mais velho em cada casa dos egípcios. Mas Deus havia dito aos israelitas para matar um cordeiro, que é um animal, uma ovelha jovem, e para manchar com o sangue desse cordeiro os batentes das portas de suas casas. Quando o anjo enviado por Deus visse o sangue do cordeiro na porta de uma casa, ele pularia essa casa e não mataria o filho mais velho naquela família.</p><p>Naquela mesma noite, os israelitas tiveram que comer a carne desse cordeiro de uma maneira especial. Eles tinham que comer a carne com ervas amargas e com pão que eles haviam preparado rapidamente — diferente da maneira normal que eles preparavam o pão, que levava um longo tempo. Eles tinham que comer essa refeição enquanto estavam de pé, todos vestidos prontos para começar a viajar! Porque durante aquela noite, eles deixariam o Egito.</p><p>Naquela noite, o anjo de Deus matou todos os filhos mais velhos no Egito, exceto os filhos dos israelitas, porque eles tinham sangue sobre suas portas. Naquela noite, o rei do Egito finalmente deixou os israelitas irem. Os israelitas começaram sua longa viagem para a terra que Deus havia prometido lhes dar! Eles não eram mais escravos. Daquele momento em diante, os israelitas se lembrariam de como Deus lhes deu libertação do Egito celebrando a festa da Páscoa a cada ano. O nome Páscoa significa “pular” ou “dar um passo por cima”. Esse nome lembrava os israelitas de como o anjo havia pulado sobre as casas dos israelitas, e não havia matado seus filhos mais velhos.</p><p>Toda vez que os israelitas celebravam a Páscoa, eles novamente matavam um cordeiro e comiam essa carne com ervas amargas e com pão que era preparado muito rapidamente. O cordeiro os lembrava de como Deus salvou seus filhos mais velhos. As ervas amargas os lembravam da amargura, da dificuldade, que eles haviam enfrentado enquanto eram escravos. E o pão que era preparado rapidamente os lembrava de que Deus os libertou do Egito e que eles de repente tinham que sair rapidamente.</p><p>Deus havia dito aos israelitas que a festa da Páscoa anual deveria ser combinada com sete dias da <a href=\"#t164\">Festa dos Pães Asmos</a>. Durante esses sete dias eles deveriam comer o pão especial que era preparado rapidamente. Normalmente, os israelitas faziam pão deixando a massa, uma mistura de farinha e água, descansar por várias horas, ou durante a noite, antes de assarem o pão. A longa espera fazia com que algumas bolhas de ar crescessem dentro da massa, e isso tornava o pão maior e mais macio. Toda vez que eles assavam pão, eles manteriam um pouco da massa até a próxima vez. Esse pedaço de massa deixada sem assar era chamado de fermento, ou levedura. Da próxima vez que eles assassem pão, eles pegariam o fermento que eles haviam mantido da vez anterior e o adicionariam à nova massa. Isso ajudava a nova massa a também se tornar maior e mais macia.</p><p>Quando os israelitas estavam deixando o Egito na primeira noite da Páscoa, eles não tinham tempo para assar pão dessa maneira. E Deus lhes disse para fazer pão sem fermento. O pão feito sem fermento é plano e fino; é apenas farinha e água que é amassada e enrolada plana, e então cozida sobre um fogo. Esse pão era chamado de pão asmo, que quer dizer \"sem fermento\". Portanto, essa festa é chamada de festa dos pães asmos. Durante os sete dias dessa festa, os israelitas não poderiam manter nem a menor parte de fermento em sua casa. Antes que a festa começasse, eles tinham que jogar fora qualquer fermento que eles ainda tinham.</p><p>Porque a Páscoa e a Festa dos Pães Asmos eram celebradas juntas, os nomes para as festas são muitas vezes usados de forma intercambiável.</p><p>No Novo Testamento, o fermento é às vezes usado como um símbolo para o <a href=\"#t125\">pecado</a> de que devemos nos livrar em nossas vidas.</p>",
+"content": "<p>A <b>Páscoa</b> é uma importante festa <data class=\"resource-ref\" data-content-id=\"por-t77-v2\" data-resource-code=\"FIAKeyTerms\">judaica</data> que também é chamada de Festival, ou Festa, dos Pães Asmos.</p><p>Essa festa lembrava o povo sobre um momento muito importante na história de <data class=\"resource-ref\" data-content-id=\"por-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israel</data>.</p><p>Há muito tempo, os <data class=\"resource-ref\" data-content-id=\"por-t234-v1\" data-resource-code=\"FIAKeyTerms\">descendentes</data> de <data class=\"resource-ref\" data-content-id=\"por-t1-v1\" data-resource-code=\"FIAKeyTerms\">Abraão</data>, os <data class=\"resource-ref\" data-content-id=\"por-t259-v2\" data-resource-code=\"FIAKeyTerms\">israelitas</data>, haviam se tornado <data class=\"resource-ref\" data-content-id=\"por-t126-v2\" data-resource-code=\"FIAKeyTerms\">escravos</data> no Egito. Os israelitas haviam vivido no Egito por quatrocentos anos! Deus então chamou um dos israelitas, Moisés, para levar os israelitas para fora do Egito e de volta para <data class=\"resource-ref\" data-content-id=\"por-t178-v1\" data-resource-code=\"FIAKeyTerms\">Canaã</data>, a terra que Deus havia prometido dar aos descendentes de Abraão. O <data class=\"resource-ref\" data-content-id=\"por-t226-v1\" data-resource-code=\"FIAKeyTerms\">rei</data> do Egito simplesmente não permitiu que esse grande grupo de escravos fosse para fora de seu país. O rei tornou as coisas muito difíceis para os israelitas, mas Deus enviou nove pragas aos egípcios para forçar o rei a deixar o povo ir. Durante cada praga, o rei prometia que os israelitas poderiam ir, mas assim que Deus parava a praga, o rei mudava sua decisão novamente. E assim, Deus causou a décima e mais terrível praga de todas: Deus enviou um <data class=\"resource-ref\" data-content-id=\"por-t4-v1\" data-resource-code=\"FIAKeyTerms\">anjo</data> para matar o filho mais velho em cada casa dos egípcios. Mas Deus havia dito aos israelitas para matar um cordeiro, que é um animal, uma ovelha jovem, e para manchar com o sangue desse cordeiro os batentes das portas de suas casas. Quando o anjo enviado por Deus visse o sangue do cordeiro na porta de uma casa, ele pularia essa casa e não mataria o filho mais velho naquela família.</p><p>Naquela mesma noite, os israelitas tiveram que comer a carne desse cordeiro de uma maneira especial. Eles tinham que comer a carne com ervas amargas e com pão que eles haviam preparado rapidamente — diferente da maneira normal que eles preparavam o pão, que levava um longo tempo. Eles tinham que comer essa refeição enquanto estavam de pé, todos vestidos prontos para começar a viajar! Porque durante aquela noite, eles deixariam o Egito.</p><p>Naquela noite, o anjo de Deus matou todos os filhos mais velhos no Egito, exceto os filhos dos israelitas, porque eles tinham sangue sobre suas portas. Naquela noite, o rei do Egito finalmente deixou os israelitas irem. Os israelitas começaram sua longa viagem para a terra que Deus havia prometido lhes dar! Eles não eram mais escravos. Daquele momento em diante, os israelitas se lembrariam de como Deus lhes deu libertação do Egito celebrando a festa da Páscoa a cada ano. O nome Páscoa significa “pular” ou “dar um passo por cima”. Esse nome lembrava os israelitas de como o anjo havia pulado sobre as casas dos israelitas, e não havia matado seus filhos mais velhos.</p><p>Toda vez que os israelitas celebravam a Páscoa, eles novamente matavam um cordeiro e comiam essa carne com ervas amargas e com pão que era preparado muito rapidamente. O cordeiro os lembrava de como Deus salvou seus filhos mais velhos. As ervas amargas os lembravam da amargura, da dificuldade, que eles haviam enfrentado enquanto eram escravos. E o pão que era preparado rapidamente os lembrava de que Deus os libertou do Egito e que eles de repente tinham que sair rapidamente.</p><p>Deus havia dito aos israelitas que a festa da Páscoa anual deveria ser combinada com sete dias da <data class=\"resource-ref\" data-content-id=\"por-t164-v1\" data-resource-code=\"FIAKeyTerms\">Festa dos Pães Asmos</data>. Durante esses sete dias eles deveriam comer o pão especial que era preparado rapidamente. Normalmente, os israelitas faziam pão deixando a massa, uma mistura de farinha e água, descansar por várias horas, ou durante a noite, antes de assarem o pão. A longa espera fazia com que algumas bolhas de ar crescessem dentro da massa, e isso tornava o pão maior e mais macio. Toda vez que eles assavam pão, eles manteriam um pouco da massa até a próxima vez. Esse pedaço de massa deixada sem assar era chamado de fermento, ou levedura. Da próxima vez que eles assassem pão, eles pegariam o fermento que eles haviam mantido da vez anterior e o adicionariam à nova massa. Isso ajudava a nova massa a também se tornar maior e mais macia.</p><p>Quando os israelitas estavam deixando o Egito na primeira noite da Páscoa, eles não tinham tempo para assar pão dessa maneira. E Deus lhes disse para fazer pão sem fermento. O pão feito sem fermento é plano e fino; é apenas farinha e água que é amassada e enrolada plana, e então cozida sobre um fogo. Esse pão era chamado de pão asmo, que quer dizer \"sem fermento\". Portanto, essa festa é chamada de festa dos pães asmos. Durante os sete dias dessa festa, os israelitas não poderiam manter nem a menor parte de fermento em sua casa. Antes que a festa começasse, eles tinham que jogar fora qualquer fermento que eles ainda tinham.</p><p>Porque a Páscoa e a Festa dos Pães Asmos eram celebradas juntas, os nomes para as festas são muitas vezes usados de forma intercambiável.</p><p>No Novo Testamento, o fermento é às vezes usado como um símbolo para o <data class=\"resource-ref\" data-content-id=\"por-t125-v1\" data-resource-code=\"FIAKeyTerms\">pecado</data> de que devemos nos livrar em nossas vidas.</p>",
 "associations": {
 "passage": [
 {
@@ -1827,7 +1871,85 @@
 "end_ref_usfm": "1CO 5:13"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t77-v2",
+"resource_code": "FIAKeyTerms",
+"label": "judaica",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israel",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t234-v1",
+"resource_code": "FIAKeyTerms",
+"label": "descendentes",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t1-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Abraão",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t259-v2",
+"resource_code": "FIAKeyTerms",
+"label": "israelitas",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t126-v2",
+"resource_code": "FIAKeyTerms",
+"label": "escravos",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t178-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Canaã",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t226-v1",
+"resource_code": "FIAKeyTerms",
+"label": "rei",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t4-v1",
+"resource_code": "FIAKeyTerms",
+"label": "anjo",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t164-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Festa dos Pães Asmos",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t125-v1",
+"resource_code": "FIAKeyTerms",
+"label": "pecado",
+"language": "por"
+}
+],
 "acai": [
 {
 "id": "keyterm:Passover",
@@ -2068,7 +2190,7 @@
 "index_reference": "pastor",
 "language": "por",
 "review_level": "None",
-"content": "<p>Um <b>pastor</b> é uma pessoa que cuida de ovelhas e de cabras. Ovelhas e cabras são animais que as pessoas mantêm para usar seu leite, comer sua carne e usar seus pelos para fazer roupas. As ovelhas são animais gentis. As cabras são semelhantes às ovelhas, mas mais temperamentais e mais difíceis de liderar.</p><p>Um grupo de ovelhas ou cabras é chamado de rebanho. Um pastor é responsável por levar seu rebanho para lugares onde os animais podem encontrar a grama ou as plantas que eles precisam comer e onde eles podem beber água. Um pastor tinha que se certificar de que nenhuma das ovelhas ou cabras fosse perdida. Ser um pastor era um trabalho difícil, porque às vezes eles tinham que andar longe com seus animais para encontrar comida e bebida suficientes para eles, e eles muitas vezes tinham que ficar longe de casa e dormir fora com seus animais. Um pastor também tinha que proteger seu rebanho contra animais selvagens. O rei <a href=\"#t33\">Davi</a>, que era o <a href=\"#t226\">rei</a> mais amado de <a href=\"#t74\">Israel</a>, era um pastor antes de se tornar rei.</p><p>Porque os pastores eram muito comuns em Israel, a palavra pastor é muitas vezes usada como linguagem ilustrada para um protetor ou um governante. Deus chama a si mesmo de Pastor de Israel. As pessoas são chamadas de ovelhas de Deus. Jesus chama a si mesmo de Bom Pastor, porque ele deu sua vida para que “suas ovelhas” — o povo — pudesse ser salvo do perigo.</p><p>Na época do Novo Testamento, algumas pessoas desprezavam os pastores, pensando que eles eram pessoas rudes e incultas.</p>",
+"content": "<p>Um <b>pastor</b> é uma pessoa que cuida de ovelhas e de cabras. Ovelhas e cabras são animais que as pessoas mantêm para usar seu leite, comer sua carne e usar seus pelos para fazer roupas. As ovelhas são animais gentis. As cabras são semelhantes às ovelhas, mas mais temperamentais e mais difíceis de liderar.</p><p>Um grupo de ovelhas ou cabras é chamado de rebanho. Um pastor é responsável por levar seu rebanho para lugares onde os animais podem encontrar a grama ou as plantas que eles precisam comer e onde eles podem beber água. Um pastor tinha que se certificar de que nenhuma das ovelhas ou cabras fosse perdida. Ser um pastor era um trabalho difícil, porque às vezes eles tinham que andar longe com seus animais para encontrar comida e bebida suficientes para eles, e eles muitas vezes tinham que ficar longe de casa e dormir fora com seus animais. Um pastor também tinha que proteger seu rebanho contra animais selvagens. O rei <data class=\"resource-ref\" data-content-id=\"por-t33-v1\" data-resource-code=\"FIAKeyTerms\">Davi</data>, que era o <data class=\"resource-ref\" data-content-id=\"por-t226-v1\" data-resource-code=\"FIAKeyTerms\">rei</data> mais amado de <data class=\"resource-ref\" data-content-id=\"por-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israel</data>, era um pastor antes de se tornar rei.</p><p>Porque os pastores eram muito comuns em Israel, a palavra pastor é muitas vezes usada como linguagem ilustrada para um protetor ou um governante. Deus chama a si mesmo de Pastor de Israel. As pessoas são chamadas de ovelhas de Deus. Jesus chama a si mesmo de Bom Pastor, porque ele deu sua vida para que “suas ovelhas” — o povo — pudesse ser salvo do perigo.</p><p>Na época do Novo Testamento, algumas pessoas desprezavam os pastores, pensando que eles eram pessoas rudes e incultas.</p>",
 "associations": {
 "passage": [
 {
@@ -2240,7 +2362,29 @@
 "end_ref_usfm": "JUD 1:16"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t33-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Davi",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t226-v1",
+"resource_code": "FIAKeyTerms",
+"label": "rei",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israel",
+"language": "por"
+}
+],
 "acai": []
 }
 },
@@ -2437,7 +2581,7 @@
 "index_reference": "paz",
 "language": "por",
 "review_level": "None",
-"content": "<p>Quando as pessoas vivem em harmonia umas com as outras sem brigar, elas estão vivendo em <b>paz</b>. Mas quando a Bíblia fala sobre paz, isso significa muito mais do que apenas a ausência de brigas. Significa que há muita bondade!</p><p>Quando as pessoas vivem em paz, elas estão completamente bem. Eles têm uma vida completa, e estão vivendo em harmonia uns com os outros, com a natureza e, o mais importante, com Deus! Alguém que vive em paz está satisfeito.</p><p>Uma comunidade que tem paz significa que todas as pessoas na comunidade estão satisfeitas, e estão vivendo em harmonia umas com as outras e com Deus.</p><p>Porque as pessoas são tão desobedientes a Deus, elas não podiam viver em paz com Deus. Eles se tornaram inimigos de Deus. Como resultado disso, as pessoas enfrentaram muitas dificuldades e problemas. Mas por causa do sacrifício de Jesus, Deus tornou possível novamente que as pessoas tivessem paz com Deus. Quando Jesus voltar, o <a href=\"#t157\">reino</a> de Deus será estabelecido e haverá paz. Haverá harmonia completa entre Deus e as pessoas, entre pessoas e pessoas, e entre as pessoas e a natureza. Até esse momento chegar, o povo de Deus é capaz de suportar sofrimento e dificuldades, porque eles sabem que eles têm paz com Deus.</p>",
+"content": "<p>Quando as pessoas vivem em harmonia umas com as outras sem brigar, elas estão vivendo em <b>paz</b>. Mas quando a Bíblia fala sobre paz, isso significa muito mais do que apenas a ausência de brigas. Significa que há muita bondade!</p><p>Quando as pessoas vivem em paz, elas estão completamente bem. Eles têm uma vida completa, e estão vivendo em harmonia uns com os outros, com a natureza e, o mais importante, com Deus! Alguém que vive em paz está satisfeito.</p><p>Uma comunidade que tem paz significa que todas as pessoas na comunidade estão satisfeitas, e estão vivendo em harmonia umas com as outras e com Deus.</p><p>Porque as pessoas são tão desobedientes a Deus, elas não podiam viver em paz com Deus. Eles se tornaram inimigos de Deus. Como resultado disso, as pessoas enfrentaram muitas dificuldades e problemas. Mas por causa do sacrifício de Jesus, Deus tornou possível novamente que as pessoas tivessem paz com Deus. Quando Jesus voltar, o <data class=\"resource-ref\" data-content-id=\"por-t157-v1\" data-resource-code=\"FIAKeyTerms\">reino</data> de Deus será estabelecido e haverá paz. Haverá harmonia completa entre Deus e as pessoas, entre pessoas e pessoas, e entre as pessoas e a natureza. Até esse momento chegar, o povo de Deus é capaz de suportar sofrimento e dificuldades, porque eles sabem que eles têm paz com Deus.</p>",
 "associations": {
 "passage": [
 {
@@ -3041,7 +3185,15 @@
 "end_ref_usfm": "TIT 3:11"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t157-v1",
+"resource_code": "FIAKeyTerms",
+"label": "reino",
+"language": "por"
+}
+],
 "acai": [
 {
 "id": "keyterm:IntactState",
@@ -3678,7 +3830,7 @@
 "index_reference": "pecado",
 "language": "por",
 "review_level": "None",
-"content": "<p>Deus criou o mundo inteiro bom. Deus criou a humanidade para ser seus representantes na terra. Deus disse aos humanos para cuidar da terra. No início, homem e mulher viviam em um bom <a href=\"#t108\">relacionamento</a> com Deus, entre si e com a natureza. Mas as pessoas começaram a desobedecer a Deus. Eles pararam de confiar em Deus, e eles queriam decidir por si mesmos o que era bom para eles. Eles não queriam mais aceitar a <a href=\"#t8\">autoridade</a> de Deus sobre eles. Esse ato de rebelião contra Deus é chamado de <b>pecado</b>. Por causa dessa rebelião, o bom relacionamento que as pessoas tinham com Deus estava quebrado. Não apenas isso, o bom relacionamento que as pessoas tinham entre si também foi quebrado, e toda a criação sofreu também.</p><p>Essa rebelião contra Deus vem de muitas maneiras diferentes. Deus fez boas <a href=\"#t83\">leis</a>, e se as pessoas seguirem essas leis, então as pessoas poderão viver juntas em <a href=\"#t161\">paz</a>. Mas as pessoas estão constantemente quebrando as leis de Deus. Toda vez que uma pessoa quebra uma das leis de Deus, ela peca.</p><p>Deus odeia o pecado. Ele sofre quando as pessoas o desobedecem, porque suas regras são para o bem das pessoas. Portanto, Deus tem que punir as pessoas por praticarem o pecado. Se as pessoas persistirem em pecar, então a punição é a morte.</p><p>Jesus nos ensina que o pecado não é apenas uma questão de <em>fazer</em> a coisa errada. <em>Pensar</em> em coisas erradas também é pecado, mesmo que ninguém mais saiba sobre isso. Orgulho, ciúme e luxúria são pecados. Desprezar outras pessoas é pecado. Podemos fazer muitas coisas boas aos olhos das pessoas, mas se somos excessivamente orgulhosos sobre o que fazemos, ainda estamos pecando.</p><p>A Bíblia nos ensina que Jesus salvou seu povo de seus pecados. Isso significa que Deus não dará às pessoas a punição que elas merecem. Isso é porque Jesus tomou a punição em seu lugar. No Antigo Testamento, a maneira das pessoas pedirem <a href=\"#t53\">perdão</a> por seus pecados era oferecendo a Deus um <a href=\"#t114\">sacrifício</a>. As pessoas tinham que matar um animal e oferecer isso a Deus em troca de sua própria vida. O animal que eles ofereciam a Deus tinha que ser um animal perfeito, sem qualquer defeito. Por causa desse sacrifício, Deus os perdoava — mas apenas até a próxima vez que eles pecassem. O próprio Jesus se tornou o sacrifício perfeito para todas as pessoas. O próprio Jesus não havia cometido nenhum pecado, e então ele era como um animal sacrificial perfeito. O sacrifício de Jesus foi tão poderoso, que, por causa disso, Deus se dispôs a perdoar o pecado de todas as pessoas — não apenas temporariamente, mas para sempre. Deus perdoará a todos que aceitam que Jesus morreu em seu lugar. Essas pessoas agora são “salvas”. Eles não têm que ter mais medo de punição. Deus diz que essas pessoas agora são <a href=\"#t111\">justas</a>.</p><p>Esse perdão não é barato! Custou a Jesus sua vida. E assim, qualquer um que aceite o sacrifício de Jesus fará o seu melhor para parar de pecar, porque eles são muito gratos a Jesus. Paulo nos ensina que antes de sermos salvos, éramos <a href=\"#t126\">escravos</a> do pecado. Isso significa que nós cedíamos à pressão e à tentação de cometer pecados. Mas agora que Deus nos perdoou, somos escravos da justiça — queremos sinceramente fazer as coisas que agradam a Deus, em vez de fazer as coisas que o tornam triste.</p><p>Ainda é muito difícil — até impossível — que as pessoas não cometam pecados. Mas Deus deu seu <a href=\"#t68\">Espírito Santo</a> para nos ajudar. O Espírito Santo nos ajuda a ver quais coisas são pecados, e nos ajuda a resistir à tentação de pecar. Sem a ajuda do Espírito Santo, não podemos fazer isso.</p><p>Quando somos salvos, ainda pecamos, mas não somos mais pecadores. Porque agora, nos <a href=\"#t109\">arrependemos</a> quando pecamos. Um pecador é alguém que continua a pecar, mesmo que ele saiba que é errado.</p><p>Quando Jesus vivia na terra, os líderes religiosos estavam se queixando de que Jesus comia com pecadores. Os líderes religiosos usavam a palavra “pecadores” para falar sobre um grupo específico de pessoas que desobedeciam às leis de Deus de uma determinada maneira, por exemplo, prostitutas e cobradores de impostos corruptos. Os líderes religiosos, especialmente os <a href=\"#t100\">fariseus</a>, desprezavam essas pessoas. Mas muitos desses chamados pecadores que vinham para ouvir Jesus queriam se arrepender de seus pecados. Jesus explicava aos líderes religiosos que essa era exatamente a razão pela qual ele havia vindo à terra: fazer as pessoas se <a href=\"#t109\">arrependessem</a> de seus pecados. Jesus mostrava às pessoas que Deus era mais feliz com pecadores que se arrependiam, do que com pessoas que eram tão orgulhosas que não pensavam que precisavam se arrepender.</p><p><strong>Quando você estiver traduzindo “pecado”, tenha cuidado com as seguintes coisas:</strong></p><p>Algumas culturas pensam que algumas ações são ruins apenas se forem descobertas. Por exemplo, eles podem pensar que a traição é boa, desde que ninguém saiba sobre isso — só se torna um problema quando outras pessoas descobrem sobre isso e quando cria constrangimento. A palavra para pecado na Bíblia não é assim. Desobedecer a Deus é sempre ruim, quer as pessoas saibam sobre isso ou não.</p><p>Algumas culturas têm uma palavra para pecado que significa realizar um ritual da maneira errada, ou fazer algo que é contra a tradição, ou fazer algo que vai contra seu lugar prescrito na sociedade. Isso não é o que é o pecado na Bíblia. Jesus nos ensina que o pecado não tem nada a ver com a realização de rituais, mas com nossos pensamentos e ações. Mesmo as pessoas que realizam todos os rituais e expectativas culturais perfeitamente, estão se rebelando contra Deus e estão pecando.</p><p>Algumas culturas usam uma palavra para pecado que significa “ignorância”. Isso não é o que a palavra pecado na Bíblia significa.</p><p>Algumas culturas têm uma palavra para pecado que é usada apenas para crimes legais como assassinato ou roubo. A palavra pecado na Bíblia significa muito mais do que apenas crimes. Mesmo as pessoas que nunca desobedecem à lei do país, estão quebrando a lei de Deus e cometem pecado.</p><div data-type=\"callout\" data-callout-style=\"action\"><p>Uma maneira de pensar sobre como você poderia traduzir o pecado é fazer a seguinte atividade: em pequenos grupos, encene o que o pecado significa. Depois, decida qual desses dramas se encaixam melhor no significado bíblico do pecado. Fale sobre como o significado do pecado na Bíblia é diferente do que você pensava, ou do que outras pessoas em sua comunidade pensam que é o pecado.</p></div>",
+"content": "<p>Deus criou o mundo inteiro bom. Deus criou a humanidade para ser seus representantes na terra. Deus disse aos humanos para cuidar da terra. No início, homem e mulher viviam em um bom relacionamento com Deus, entre si e com a natureza. Mas as pessoas começaram a desobedecer a Deus. Eles pararam de confiar em Deus, e eles queriam decidir por si mesmos o que era bom para eles. Eles não queriam mais aceitar a <data class=\"resource-ref\" data-content-id=\"por-t8-v1\" data-resource-code=\"FIAKeyTerms\">autoridade</data> de Deus sobre eles. Esse ato de rebelião contra Deus é chamado de <b>pecado</b>. Por causa dessa rebelião, o bom relacionamento que as pessoas tinham com Deus estava quebrado. Não apenas isso, o bom relacionamento que as pessoas tinham entre si também foi quebrado, e toda a criação sofreu também.</p><p>Essa rebelião contra Deus vem de muitas maneiras diferentes. Deus fez boas <data class=\"resource-ref\" data-content-id=\"por-t83-v1\" data-resource-code=\"FIAKeyTerms\">leis</data>, e se as pessoas seguirem essas leis, então as pessoas poderão viver juntas em <data class=\"resource-ref\" data-content-id=\"por-t161-v1\" data-resource-code=\"FIAKeyTerms\">paz</data>. Mas as pessoas estão constantemente quebrando as leis de Deus. Toda vez que uma pessoa quebra uma das leis de Deus, ela peca.</p><p>Deus odeia o pecado. Ele sofre quando as pessoas o desobedecem, porque suas regras são para o bem das pessoas. Portanto, Deus tem que punir as pessoas por praticarem o pecado. Se as pessoas persistirem em pecar, então a punição é a morte.</p><p>Jesus nos ensina que o pecado não é apenas uma questão de <em>fazer</em> a coisa errada. <em>Pensar</em> em coisas erradas também é pecado, mesmo que ninguém mais saiba sobre isso. Orgulho, ciúme e luxúria são pecados. Desprezar outras pessoas é pecado. Podemos fazer muitas coisas boas aos olhos das pessoas, mas se somos excessivamente orgulhosos sobre o que fazemos, ainda estamos pecando.</p><p>A Bíblia nos ensina que Jesus salvou seu povo de seus pecados. Isso significa que Deus não dará às pessoas a punição que elas merecem. Isso é porque Jesus tomou a punição em seu lugar. No Antigo Testamento, a maneira das pessoas pedirem <data class=\"resource-ref\" data-content-id=\"por-t53-v1\" data-resource-code=\"FIAKeyTerms\">perdão</data> por seus pecados era oferecendo a Deus um <data class=\"resource-ref\" data-content-id=\"por-t114-v1\" data-resource-code=\"FIAKeyTerms\">sacrifício</data>. As pessoas tinham que matar um animal e oferecer isso a Deus em troca de sua própria vida. O animal que eles ofereciam a Deus tinha que ser um animal perfeito, sem qualquer defeito. Por causa desse sacrifício, Deus os perdoava — mas apenas até a próxima vez que eles pecassem. O próprio Jesus se tornou o sacrifício perfeito para todas as pessoas. O próprio Jesus não havia cometido nenhum pecado, e então ele era como um animal sacrificial perfeito. O sacrifício de Jesus foi tão poderoso, que, por causa disso, Deus se dispôs a perdoar o pecado de todas as pessoas — não apenas temporariamente, mas para sempre. Deus perdoará a todos que aceitam que Jesus morreu em seu lugar. Essas pessoas agora são “salvas”. Eles não têm que ter mais medo de punição. Deus diz que essas pessoas agora são <data class=\"resource-ref\" data-content-id=\"por-t111-v1\" data-resource-code=\"FIAKeyTerms\">justas</data>.</p><p>Esse perdão não é barato! Custou a Jesus sua vida. E assim, qualquer um que aceite o sacrifício de Jesus fará o seu melhor para parar de pecar, porque eles são muito gratos a Jesus. Paulo nos ensina que antes de sermos salvos, éramos <data class=\"resource-ref\" data-content-id=\"por-t126-v2\" data-resource-code=\"FIAKeyTerms\">escravos</data> do pecado. Isso significa que nós cedíamos à pressão e à tentação de cometer pecados. Mas agora que Deus nos perdoou, somos escravos da justiça — queremos sinceramente fazer as coisas que agradam a Deus, em vez de fazer as coisas que o tornam triste.</p><p>Ainda é muito difícil — até impossível — que as pessoas não cometam pecados. Mas Deus deu seu <data class=\"resource-ref\" data-content-id=\"por-t68-v1\" data-resource-code=\"FIAKeyTerms\">Espírito Santo</data> para nos ajudar. O Espírito Santo nos ajuda a ver quais coisas são pecados, e nos ajuda a resistir à tentação de pecar. Sem a ajuda do Espírito Santo, não podemos fazer isso.</p><p>Quando somos salvos, ainda pecamos, mas não somos mais pecadores. Porque agora, nos <data class=\"resource-ref\" data-content-id=\"por-t109-v1\" data-resource-code=\"FIAKeyTerms\">arrependemos</data> quando pecamos. Um pecador é alguém que continua a pecar, mesmo que ele saiba que é errado.</p><p>Quando Jesus vivia na terra, os líderes religiosos estavam se queixando de que Jesus comia com pecadores. Os líderes religiosos usavam a palavra “pecadores” para falar sobre um grupo específico de pessoas que desobedeciam às leis de Deus de uma determinada maneira, por exemplo, prostitutas e cobradores de impostos corruptos. Os líderes religiosos, especialmente os <data class=\"resource-ref\" data-content-id=\"por-t100-v1\" data-resource-code=\"FIAKeyTerms\">fariseus</data>, desprezavam essas pessoas. Mas muitos desses chamados pecadores que vinham para ouvir Jesus queriam se arrepender de seus pecados. Jesus explicava aos líderes religiosos que essa era exatamente a razão pela qual ele havia vindo à terra: fazer as pessoas se <data class=\"resource-ref\" data-content-id=\"por-t109-v1\" data-resource-code=\"FIAKeyTerms\">arrependessem</data> de seus pecados. Jesus mostrava às pessoas que Deus era mais feliz com pecadores que se arrependiam, do que com pessoas que eram tão orgulhosas que não pensavam que precisavam se arrepender.</p><p><strong>Quando você estiver traduzindo “pecado”, tenha cuidado com as seguintes coisas:</strong></p><p>Algumas culturas pensam que algumas ações são ruins apenas se forem descobertas. Por exemplo, eles podem pensar que a traição é boa, desde que ninguém saiba sobre isso — só se torna um problema quando outras pessoas descobrem sobre isso e quando cria constrangimento. A palavra para pecado na Bíblia não é assim. Desobedecer a Deus é sempre ruim, quer as pessoas saibam sobre isso ou não.</p><p>Algumas culturas têm uma palavra para pecado que significa realizar um ritual da maneira errada, ou fazer algo que é contra a tradição, ou fazer algo que vai contra seu lugar prescrito na sociedade. Isso não é o que é o pecado na Bíblia. Jesus nos ensina que o pecado não tem nada a ver com a realização de rituais, mas com nossos pensamentos e ações. Mesmo as pessoas que realizam todos os rituais e expectativas culturais perfeitamente, estão se rebelando contra Deus e estão pecando.</p><p>Algumas culturas usam uma palavra para pecado que significa “ignorância”. Isso não é o que a palavra pecado na Bíblia significa.</p><p>Algumas culturas têm uma palavra para pecado que é usada apenas para crimes legais como assassinato ou roubo. A palavra pecado na Bíblia significa muito mais do que apenas crimes. Mesmo as pessoas que nunca desobedecem à lei do país, estão quebrando a lei de Deus e cometem pecado.</p><div data-type=\"callout\" data-callout-style=\"action\"><p>Uma maneira de pensar sobre como você poderia traduzir o pecado é fazer a seguinte atividade: em pequenos grupos, encene o que o pecado significa. Depois, decida qual desses dramas se encaixam melhor no significado bíblico do pecado. Fale sobre como o significado do pecado na Bíblia é diferente do que você pensava, ou do que outras pessoas em sua comunidade pensam que é o pecado.</p></div>",
 "associations": {
 "passage": [
 {
@@ -4282,7 +4434,85 @@
 "end_ref_usfm": "2KI 10:36"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t8-v1",
+"resource_code": "FIAKeyTerms",
+"label": "autoridade",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t83-v1",
+"resource_code": "FIAKeyTerms",
+"label": "leis",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t161-v1",
+"resource_code": "FIAKeyTerms",
+"label": "paz",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t53-v1",
+"resource_code": "FIAKeyTerms",
+"label": "perdão",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t114-v1",
+"resource_code": "FIAKeyTerms",
+"label": "sacrifício",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t111-v1",
+"resource_code": "FIAKeyTerms",
+"label": "justas",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t126-v2",
+"resource_code": "FIAKeyTerms",
+"label": "escravos",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t68-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Espírito Santo",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t109-v1",
+"resource_code": "FIAKeyTerms",
+"label": "arrependemos",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t100-v1",
+"resource_code": "FIAKeyTerms",
+"label": "fariseus",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t109-v1",
+"resource_code": "FIAKeyTerms",
+"label": "arrependessem",
+"language": "por"
+}
+],
 "acai": []
 }
 },
@@ -5007,7 +5237,7 @@
 "index_reference": "pentecostes",
 "language": "por",
 "review_level": "None",
-"content": "<p><b>Pentecostes</b> é uma palavra que no idioma grego significa o número “cinquenta”. Pentecostes era o nome de uma festa judaica que as pessoas celebravam sete semanas, ou cinquenta dias, depois da festa da <a href=\"#t162\">Páscoa</a>. O povo judeu também chamou essa festa de “festa das semanas”, “festa da colheita”, ou “festa das primícias”. A festa de Pentecostes celebrava o fim da colheita de grãos de cevada e o início da próxima temporada da colheita. Durante essa festa, todos os <a href=\"#t77\">judeus</a> que eram capazes de fazê-lo, viajavam para <a href=\"#t76\">Jerusalém</a> para trazer sacrifícios e ofertas a <a href=\"#t189\">Deus</a> para agradecer a Deus pela colheita e dar a Ele parte das primeiras colheitas que eles haviam colhido. Os judeus estavam dizendo a Deus que eles acreditavam que toda a sua colheita pertencia a Ele.</p><p>No Novo Testamento, conhecemos a festa de Pentecostes especialmente porque nesse dia Deus enviou seu <a href=\"#t68\">Espírito Santo</a> aos seguidores de Jesus e os fez falarem em diferentes idiomas. Nesse dia, os seguidores de Jesus pela primeira vez começaram a dizer a outras pessoas que Jesus havia morrido, mas havia ressuscitado. Muitas pessoas haviam ido a Jerusalém celebrar essa festa e levar suas ofertas a Deus no templ<a href=\"#t138\">o em J</a>erusalém. Então, muitas pessoas ouviram os seguidores contando as boas novas sobre como Jesus morreu e ressuscitou. Muitas pessoas acreditaram no que os seguidores de Jesus disseram e se tornaram seguidores de Jesus também. Esse era o início da igreja! Podemos ouvir sobre isso no início do livro de Atos.</p>",
+"content": "<p><b>Pentecostes</b> é uma palavra que no idioma grego significa o número “cinquenta”. Pentecostes era o nome de uma festa judaica que as pessoas celebravam sete semanas, ou cinquenta dias, depois da festa da <data class=\"resource-ref\" data-content-id=\"por-t162-v1\" data-resource-code=\"FIAKeyTerms\">Páscoa</data>. O povo judeu também chamou essa festa de “festa das semanas”, “festa da colheita”, ou “festa das primícias”. A festa de Pentecostes celebrava o fim da colheita de grãos de cevada e o início da próxima temporada da colheita. Durante essa festa, todos os <data class=\"resource-ref\" data-content-id=\"por-t77-v2\" data-resource-code=\"FIAKeyTerms\">judeus</data> que eram capazes de fazê-lo, viajavam para <data class=\"resource-ref\" data-content-id=\"por-t76-v1\" data-resource-code=\"FIAKeyTerms\">Jerusalém</data> para trazer sacrifícios e ofertas a <data class=\"resource-ref\" data-content-id=\"por-t189-v1\" data-resource-code=\"FIAKeyTerms\">Deus</data> para agradecer a Deus pela colheita e dar a Ele parte das primeiras colheitas que eles haviam colhido. Os judeus estavam dizendo a Deus que eles acreditavam que toda a sua colheita pertencia a Ele.</p><p>No Novo Testamento, conhecemos a festa de Pentecostes especialmente porque nesse dia Deus enviou seu <data class=\"resource-ref\" data-content-id=\"por-t68-v1\" data-resource-code=\"FIAKeyTerms\">Espírito Santo</data> aos seguidores de Jesus e os fez falarem em diferentes idiomas. Nesse dia, os seguidores de Jesus pela primeira vez começaram a dizer a outras pessoas que Jesus havia morrido, mas havia ressuscitado. Muitas pessoas haviam ido a Jerusalém celebrar essa festa e levar suas ofertas a Deus no templ<data class=\"resource-ref\" data-content-id=\"por-t138-v1\" data-resource-code=\"FIAKeyTerms\">o em J</data>erusalém. Então, muitas pessoas ouviram os seguidores contando as boas novas sobre como Jesus morreu e ressuscitou. Muitas pessoas acreditaram no que os seguidores de Jesus disseram e se tornaram seguidores de Jesus também. Esse era o início da igreja! Podemos ouvir sobre isso no início do livro de Atos.</p>",
 "associations": {
 "passage": [
 {
@@ -5035,7 +5265,50 @@
 "end_ref_usfm": "1CO 16:12"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t162-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Páscoa",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t77-v2",
+"resource_code": "FIAKeyTerms",
+"label": "judeus",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t76-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Jerusalém",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t189-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Deus",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t68-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Espírito Santo",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t138-v1",
+"resource_code": "FIAKeyTerms",
+"label": "o em J",
+"language": "por"
+}
+],
 "acai": []
 }
 },
@@ -5088,7 +5361,7 @@
 "index_reference": "perdão",
 "language": "por",
 "review_level": "None",
-"content": "<p>Quando você <b>perdoa</b> alguém que fez algo ruim para você, você para de estar zangado com essa pessoa. Você não quer mais se vingar ou dar punição. A pessoa que havia feito a coisa errada é então <b>perdoada</b>, ou recebeu o <b>perdão</b>.</p><p>O perdão é caro. Por exemplo, um irmão, por descuido, quebra um item caro que pertence a sua irmã. A irmã pode perdoar o irmão e não exigir que ele paga o dinheiro. Essa é uma boa notícia para o irmão. A irmã, no entanto, agora tem a despesa de substituir o item quebrado.</p><p>Isso também é como o perdão funciona com Deus. As pessoas <a href=\"#t125\">pecaram</a> contra Deus e merecem ser punidas. As pessoas têm que pagar a Deus pelo dano que elas fizeram. No entanto, Deus quer perdoar as pessoas dizendo que elas não têm que pagá-lo — porque ele sabe que elas não podem! Deus perdoa as pessoas porque ele tem <a href=\"#t91\">misericórdia</a> delas. Essa é uma boa nova para as pessoas. Para o próprio Deus, isso significou que o próprio Deus pagou o preço do dano. Deus fez isso por meio da morte de seu filho Jesus. Quando as pessoas confiam em Jesus e <a href=\"#t11\">acreditam</a> que a morte de Jesus pagou a Deus por seus próprios pecados, então Deus as perdoa. Deus não está mais zangado com eles.</p><p>A Bíblia muitas vezes usa linguagem ilustrada para descrever o perdão. Por exemplo, se você perdoa alguém, você:</p><ul><li>apaga os pecados dessa pessoa</li><li>corta os pecados dessa pessoa</li><li>levanta os pecados dessa pessoa</li><li>solta ou liberta essa pessoa</li><li>joga fora os pecados dessa pessoa</li><li>cobre os pecados dessa pessoa</li><li>passa de lado dos pecados dessa pessoa</li><li>leva embora os pecados dessa pessoa</li><li>vira as costas para os pecados dessa pessoa</li></ul><p><strong>Quando você estiver traduzindo \"perdão\", seja cuidadoso com as seguintes coisas:</strong></p><p>Você pode ter linguagem ilustrada em seu próprio idioma para o perdão. Pense cuidadosamente se o significado da frase em seu idioma significa o mesmo que o significado de “perdoar” na Bíblia.</p><div data-type=\"callout\" data-callout-style=\"action\"><p>Tente fazer uma simulação ou encenação com sua equipe de tradução na qual alguém perdoe outra pessoa. Observe quais ações as pessoas fazem para mostrar que elas perdoam. Peça aos atores que expliquem as emoções de cada um dos personagens da cena.</p></div>",
+"content": "<p>Quando você <b>perdoa</b> alguém que fez algo ruim para você, você para de estar zangado com essa pessoa. Você não quer mais se vingar ou dar punição. A pessoa que havia feito a coisa errada é então <b>perdoada</b>, ou recebeu o <b>perdão</b>.</p><p>O perdão é caro. Por exemplo, um irmão, por descuido, quebra um item caro que pertence a sua irmã. A irmã pode perdoar o irmão e não exigir que ele paga o dinheiro. Essa é uma boa notícia para o irmão. A irmã, no entanto, agora tem a despesa de substituir o item quebrado.</p><p>Isso também é como o perdão funciona com Deus. As pessoas <data class=\"resource-ref\" data-content-id=\"por-t125-v1\" data-resource-code=\"FIAKeyTerms\">pecaram</data> contra Deus e merecem ser punidas. As pessoas têm que pagar a Deus pelo dano que elas fizeram. No entanto, Deus quer perdoar as pessoas dizendo que elas não têm que pagá-lo — porque ele sabe que elas não podem! Deus perdoa as pessoas porque ele tem <data class=\"resource-ref\" data-content-id=\"por-t91-v1\" data-resource-code=\"FIAKeyTerms\">misericórdia</data> delas. Essa é uma boa nova para as pessoas. Para o próprio Deus, isso significou que o próprio Deus pagou o preço do dano. Deus fez isso por meio da morte de seu filho Jesus. Quando as pessoas confiam em Jesus e <data class=\"resource-ref\" data-content-id=\"por-t11-v1\" data-resource-code=\"FIAKeyTerms\">acreditam</data> que a morte de Jesus pagou a Deus por seus próprios pecados, então Deus as perdoa. Deus não está mais zangado com eles.</p><p>A Bíblia muitas vezes usa linguagem ilustrada para descrever o perdão. Por exemplo, se você perdoa alguém, você:</p><ul><li>apaga os pecados dessa pessoa</li><li>corta os pecados dessa pessoa</li><li>levanta os pecados dessa pessoa</li><li>solta ou liberta essa pessoa</li><li>joga fora os pecados dessa pessoa</li><li>cobre os pecados dessa pessoa</li><li>passa de lado dos pecados dessa pessoa</li><li>leva embora os pecados dessa pessoa</li><li>vira as costas para os pecados dessa pessoa</li></ul><p><strong>Quando você estiver traduzindo \"perdão\", seja cuidadoso com as seguintes coisas:</strong></p><p>Você pode ter linguagem ilustrada em seu próprio idioma para o perdão. Pense cuidadosamente se o significado da frase em seu idioma significa o mesmo que o significado de “perdoar” na Bíblia.</p><div data-type=\"callout\" data-callout-style=\"action\"><p>Tente fazer uma simulação ou encenação com sua equipe de tradução na qual alguém perdoe outra pessoa. Observe quais ações as pessoas fazem para mostrar que elas perdoam. Peça aos atores que expliquem as emoções de cada um dos personagens da cena.</p></div>",
 "associations": {
 "passage": [
 {
@@ -5488,7 +5761,29 @@
 "end_ref_usfm": "1JN 2:17"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t125-v1",
+"resource_code": "FIAKeyTerms",
+"label": "pecaram",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t91-v1",
+"resource_code": "FIAKeyTerms",
+"label": "misericórdia",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t11-v1",
+"resource_code": "FIAKeyTerms",
+"label": "acreditam",
+"language": "por"
+}
+],
 "acai": []
 }
 },
@@ -5913,7 +6208,7 @@
 "index_reference": "peregrino",
 "language": "por",
 "review_level": "None",
-"content": "<p>Uma pessoa é uma <a href=\"#t192\">estrangeira</a> em um país quando ela está em um país que não é onde ela nasceu. Residentes são pessoas que são <b>estrangeiras</b> em um país e vivem temporariamente lá, mesmo que não seja onde elas nasceram. <a href=\"#t1\">Abraão</a> era um estrangeiro em Canaã Mais tarde, quando os descendentes de Abraão, os <a href=\"#t259\">israelitas</a>, fizeram de Canaã seu próprio país, Deus deu a eles diretrizes sobre como eles deveriam tratar os estrangeiros, e residentes que viajavam por seu país e que viviam lá entre os israelitas.</p>",
+"content": "<p>Uma pessoa é uma <b>estrangeira</b> em um país quando ela está em um país que não é onde ela nasceu. Residentes são pessoas que são <b>estrangeiras</b> em um país e vivem temporariamente lá, mesmo que não seja onde elas nasceram. <b>Abraão</b> era um estrangeiro em Canaã Mais tarde, quando os descendentes de Abraão, os <b>israelitas</b>, fizeram de Canaã seu próprio país, Deus deu a eles diretrizes sobre como eles deveriam tratar os estrangeiros, e residentes que viajavam por seu país e que viviam lá entre os israelitas.</p>",
 "associations": {
 "passage": [
 {
@@ -6030,7 +6325,7 @@
 "index_reference": "perseguição",
 "language": "por",
 "review_level": "None",
-"content": "<p>Quando as pessoas o <b>perseguem</b>, elas estão o tratando de forma cruel e injusta. As pessoas podem, por exemplo, bater em você, ou excluí-lo da sociedade, ou falar mentiras sobre você e levá-lo ao tribunal. Jesus disse aos seus seguidores que outras pessoas as perseguiriam por causa de Jesus. Depois que Jesus voltou para o <a href=\"#t63\">céu</a>, muitos de seus seguidores de fato enfrentaram perseguição. Os líderes religiosos <a href=\"#t77\">judeus</a> e o governo romano perseguiram os <a href=\"#t12\">crentes</a> em Jesus e até mataram alguns deles. Mas os seguidores de Jesus não pararam de compartilhar as <a href=\"#t160\">boas novas</a> sobre Jesus. Eles até pensavam que era uma honra sofrer por Jesus.</p><p>O Novo Testamento nos ensina que todos nós temos que esperar perseguição. Mas devemos passar por isso com paciência e com alegria. Não devemos querer nos vingar das pessoas que nos perseguem, mas em vez disso devemos amá-las.</p>",
+"content": "<p>Quando as pessoas o <b>perseguem</b>, elas estão o tratando de forma cruel e injusta. As pessoas podem, por exemplo, bater em você, ou excluí-lo da sociedade, ou falar mentiras sobre você e levá-lo ao tribunal. Jesus disse aos seus seguidores que outras pessoas as perseguiriam por causa de Jesus. Depois que Jesus voltou para o <data class=\"resource-ref\" data-content-id=\"por-t63-v1\" data-resource-code=\"FIAKeyTerms\">céu</data>, muitos de seus seguidores de fato enfrentaram perseguição. Os líderes religiosos <data class=\"resource-ref\" data-content-id=\"por-t77-v2\" data-resource-code=\"FIAKeyTerms\">judeus</data> e o governo romano perseguiram os <data class=\"resource-ref\" data-content-id=\"por-t12-v1\" data-resource-code=\"FIAKeyTerms\">crentes</data> em Jesus e até mataram alguns deles. Mas os seguidores de Jesus não pararam de compartilhar as <data class=\"resource-ref\" data-content-id=\"por-t160-v1\" data-resource-code=\"FIAKeyTerms\">boas novas</data> sobre Jesus. Eles até pensavam que era uma honra sofrer por Jesus.</p><p>O Novo Testamento nos ensina que todos nós temos que esperar perseguição. Mas devemos passar por isso com paciência e com alegria. Não devemos querer nos vingar das pessoas que nos perseguem, mas em vez disso devemos amá-las.</p>",
 "associations": {
 "passage": [
 {
@@ -6202,7 +6497,36 @@
 "end_ref_usfm": "2TI 3:17"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t63-v1",
+"resource_code": "FIAKeyTerms",
+"label": "céu",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t77-v2",
+"resource_code": "FIAKeyTerms",
+"label": "judeus",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t12-v1",
+"resource_code": "FIAKeyTerms",
+"label": "crentes",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t160-v1",
+"resource_code": "FIAKeyTerms",
+"label": "boas novas",
+"language": "por"
+}
+],
 "acai": []
 }
 },
@@ -6399,7 +6723,7 @@
 "index_reference": "perversão",
 "language": "por",
 "review_level": "None",
-"content": "<p><b>Perversão</b> significa o mesmo que mal. Mal é o oposto do bom.</p><p>Uma pessoa que é maligna, ou perversa, faz voluntariamente coisas más que ferem outras pessoas. Quando as pessoas param de obedecer a <a href=\"#t189\">Deus</a> elas começam a fazer ações malignas.</p><p>Porque os humanos são muito desobedientes a Deus, a Bíblia nos ensina que nossos corações se tornaram maus. Em vez de querer fazer coisas boas, queremos fazer coisas ruins. Muitos problemas no mundo como guerra, pobreza e injustiça acontecem por causa do mal dentro dos corações das pessoas. Mesmo a doença e a morte são, em última análise, um resultado do mal.</p><p>Deus odeia o mal. Quando Deus estabelecer seu reino para sempre, ele destruirá o mal para sempre. Nada que é maligno entrará no reino de Deus. Até esse momento, Deus ainda permite que o mal aconteça. Por que ele permite isso é uma das perguntas mais difíceis para os cristãos!</p>",
+"content": "<p><b>Perversão</b> significa o mesmo que mal. Mal é o oposto do bom.</p><p>Uma pessoa que é maligna, ou perversa, faz voluntariamente coisas más que ferem outras pessoas. Quando as pessoas param de obedecer a <data class=\"resource-ref\" data-content-id=\"por-t189-v1\" data-resource-code=\"FIAKeyTerms\">Deus</data> elas começam a fazer ações malignas.</p><p>Porque os humanos são muito desobedientes a Deus, a Bíblia nos ensina que nossos corações se tornaram maus. Em vez de querer fazer coisas boas, queremos fazer coisas ruins. Muitos problemas no mundo como guerra, pobreza e injustiça acontecem por causa do mal dentro dos corações das pessoas. Mesmo a doença e a morte são, em última análise, um resultado do mal.</p><p>Deus odeia o mal. Quando Deus estabelecer seu reino para sempre, ele destruirá o mal para sempre. Nada que é maligno entrará no reino de Deus. Até esse momento, Deus ainda permite que o mal aconteça. Por que ele permite isso é uma das perguntas mais difíceis para os cristãos!</p>",
 "associations": {
 "passage": [
 {
@@ -6649,7 +6973,15 @@
 "end_ref_usfm": "JAS 1:27"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t189-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Deus",
+"language": "por"
+}
+],
 "acai": [
 {
 "id": "keyterm:Wickedness",
@@ -6932,7 +7264,7 @@
 "index_reference": "pomba",
 "language": "por",
 "review_level": "None",
-"content": "<p>Uma <b>pomba</b> é um tipo de pássaro que é muito comum em <a href=\"#t74\">Israel</a>. Há diferentes tipos e tamanhos de pombas. Algumas são brancas e outras são salpicadas ou têm várias cores. Uma pomba é considerada um pássaro gentil e pacífico. As pombas podem voar longas distâncias, e elas são muito boas em encontrar seu caminho de volta de onde elas vieram.</p><p>Deus exigia que os <a href=\"#t259\">israelitas</a> oferecessem <a href=\"#t114\">sacrifícios</a> de animais a ele durante diferentes rituais. Geralmente esses animais eram ovelhas, cabras ou touros. Para as pessoas pobres, esses animais eram muito caros. Portanto, Deus permitiu que as pessoas sacrificassem um par de pombas em vez disso.</p><p>Quando Jesus foi <a href=\"#t9\">batizado</a>, o <a href=\"#t68\">Espírito Santo</a> desceu sobre ele parecendo uma pomba. Isso não significa que o Espírito Santo é uma pomba, apenas que naquele momento o Espírito Santo parecia uma pomba.</p>",
+"content": "<p>Uma <b>pomba</b> é um tipo de pássaro que é muito comum em <data class=\"resource-ref\" data-content-id=\"por-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israel</data>. Há diferentes tipos e tamanhos de pombas. Algumas são brancas e outras são salpicadas ou têm várias cores. Uma pomba é considerada um pássaro gentil e pacífico. As pombas podem voar longas distâncias, e elas são muito boas em encontrar seu caminho de volta de onde elas vieram.</p><p>Deus exigia que os <data class=\"resource-ref\" data-content-id=\"por-t259-v2\" data-resource-code=\"FIAKeyTerms\">israelitas</data> oferecessem <data class=\"resource-ref\" data-content-id=\"por-t114-v1\" data-resource-code=\"FIAKeyTerms\">sacrifícios</data> de animais a ele durante diferentes rituais. Geralmente esses animais eram ovelhas, cabras ou touros. Para as pessoas pobres, esses animais eram muito caros. Portanto, Deus permitiu que as pessoas sacrificassem um par de pombas em vez disso.</p><p>Quando Jesus foi <data class=\"resource-ref\" data-content-id=\"por-t9-v1\" data-resource-code=\"FIAKeyTerms\">batizado</data>, o <data class=\"resource-ref\" data-content-id=\"por-t68-v1\" data-resource-code=\"FIAKeyTerms\">Espírito Santo</data> desceu sobre ele parecendo uma pomba. Isso não significa que o Espírito Santo é uma pomba, apenas que naquele momento o Espírito Santo parecia uma pomba.</p>",
 "associations": {
 "passage": [
 {
@@ -6960,7 +7292,43 @@
 "end_ref_usfm": "LUK 3:22"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israel",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t259-v2",
+"resource_code": "FIAKeyTerms",
+"label": "israelitas",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t114-v1",
+"resource_code": "FIAKeyTerms",
+"label": "sacrifícios",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t9-v1",
+"resource_code": "FIAKeyTerms",
+"label": "batizado",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t68-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Espírito Santo",
+"language": "por"
+}
+],
 "acai": [
 {
 "id": "fauna:Dove",
@@ -7021,7 +7389,7 @@
 "index_reference": "possuído",
 "language": "por",
 "review_level": "None",
-"content": "<p>Alguém que é <b>possuído</b> por um <a href=\"#t36\">demônio</a>, que é um <a href=\"#t47\">espírito maligno</a>, está sob o controle desse demônio. O demônio pode fazer a pessoa se comportar de uma maneira incomum ou violenta, ou pode deixar a pessoa doente e fazê-la sofrer.</p><p>Um demônio também pode dar a uma pessoa poderes especiais, para que essa pessoa saiba coisas que estão ocultas para outras pessoas. Nas culturas que cercavam <a href=\"#t74\">Israel</a>, às vezes as pessoas tentavam se tornar possuídas por um demônio para saber o que aconteceria no futuro, ou para receber algum conhecimento secreto. Deus proibiu os <a href=\"#t259\">israelitas</a> de fazer isso.</p>",
+"content": "<p>Alguém que é <b>possuído</b> por um <data class=\"resource-ref\" data-content-id=\"por-t36-v1\" data-resource-code=\"FIAKeyTerms\">demônio</data>, que é um <data class=\"resource-ref\" data-content-id=\"por-t47-v1\" data-resource-code=\"FIAKeyTerms\">espírito maligno</data>, está sob o controle desse demônio. O demônio pode fazer a pessoa se comportar de uma maneira incomum ou violenta, ou pode deixar a pessoa doente e fazê-la sofrer.</p><p>Um demônio também pode dar a uma pessoa poderes especiais, para que essa pessoa saiba coisas que estão ocultas para outras pessoas. Nas culturas que cercavam <data class=\"resource-ref\" data-content-id=\"por-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israel</data>, às vezes as pessoas tentavam se tornar possuídas por um demônio para saber o que aconteceria no futuro, ou para receber algum conhecimento secreto. Deus proibiu os <data class=\"resource-ref\" data-content-id=\"por-t259-v2\" data-resource-code=\"FIAKeyTerms\">israelitas</data> de fazer isso.</p>",
 "associations": {
 "passage": [
 {
@@ -7067,7 +7435,36 @@
 "end_ref_usfm": "ACT 19:20"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t36-v1",
+"resource_code": "FIAKeyTerms",
+"label": "demônio",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t47-v1",
+"resource_code": "FIAKeyTerms",
+"label": "espírito maligno",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israel",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t259-v2",
+"resource_code": "FIAKeyTerms",
+"label": "israelitas",
+"language": "por"
+}
+],
 "acai": []
 }
 },
@@ -7195,7 +7592,7 @@
 "index_reference": "profecia",
 "language": "por",
 "review_level": "None",
-"content": "<p>Um <a href=\"#t104\">profeta</a> é uma pessoa que dá mensagens de Deus às pessoas. A mensagem que um profeta dá é chamada de <b>profecia</b>.</p><p>Uma profecia pode ser uma instrução de Deus sobre algo que precisa ser feito. Pode ser uma mensagem que fala sobre algo que vai acontecer no futuro. Mas na maioria das vezes essas mensagens eram avisos às pessoas para pararem de desobedecer a Deus.</p><p>As profecias também deram ao povo esperança e encorajamento. Uma mensagem importante que os profetas davam às pessoas era que Deus enviaria um <a href=\"#t226\">rei</a> especial e <a href=\"#t119\">Salvador</a> para ajudá-las. Esse rei e Salvador especial é chamado de o <a href=\"#t92\">Messias</a>. As coisas que os profetas disseram sobre o Messias, centenas de anos antes de Jesus nascer, todas se tornavam realidade em Jesus. Por exemplo, havia uma profecia de que o Messias nasceria em <a href=\"#t13\">Belém</a>, e Jesus nasceu em Belém. Havia também uma profecia de que “o servo de Deus” sofreria muito, e seria rejeitado pelas pessoas. Jesus sofreu e foi rejeitado pelas pessoas. Há muitos mais exemplos. Portanto, dizemos que Jesus cumpriu as profecias do Antigo Testamento.</p><p>No Novo Testamento, Paulo nos ensina que o <a href=\"#t68\">Espírito Santo</a> dá a algumas pessoas a capacidade de falar profecias. Por meio do Espírito Santo, Deus pode dar a esses <a href=\"#t12\">crentes</a> algum conhecimento ou visão especial que é para o bem da <a href=\"#t24\">igreja</a>. Paulo chama isso de o dom de profecia. Nem todo crente pode ter esse dom, porque o Espírito Santo dá dons diferentes a pessoas diferentes.</p><p>Assim como na época do Antigo Testamento, as pessoas podem enganar os outros e dar uma profecia falsa. Portanto, outros crentes têm que ouvir atentamente a profecia e verificar se isso, de fato, poderia ser uma mensagem de Deus.</p>",
+"content": "<p>Um <data class=\"resource-ref\" data-content-id=\"por-t104-v1\" data-resource-code=\"FIAKeyTerms\">profeta</data> é uma pessoa que dá mensagens de Deus às pessoas. A mensagem que um profeta dá é chamada de <b>profecia</b>.</p><p>Uma profecia pode ser uma instrução de Deus sobre algo que precisa ser feito. Pode ser uma mensagem que fala sobre algo que vai acontecer no futuro. Mas na maioria das vezes essas mensagens eram avisos às pessoas para pararem de desobedecer a Deus.</p><p>As profecias também deram ao povo esperança e encorajamento. Uma mensagem importante que os profetas davam às pessoas era que Deus enviaria um <data class=\"resource-ref\" data-content-id=\"por-t226-v1\" data-resource-code=\"FIAKeyTerms\">rei</data> especial e <data class=\"resource-ref\" data-content-id=\"por-t119-v1\" data-resource-code=\"FIAKeyTerms\">Salvador</data> para ajudá-las. Esse rei e Salvador especial é chamado de o <data class=\"resource-ref\" data-content-id=\"por-t92-v1\" data-resource-code=\"FIAKeyTerms\">Messias</data>. As coisas que os profetas disseram sobre o Messias, centenas de anos antes de Jesus nascer, todas se tornavam realidade em Jesus. Por exemplo, havia uma profecia de que o Messias nasceria em <data class=\"resource-ref\" data-content-id=\"por-t13-v1\" data-resource-code=\"FIAKeyTerms\">Belém</data>, e Jesus nasceu em Belém. Havia também uma profecia de que “o servo de Deus” sofreria muito, e seria rejeitado pelas pessoas. Jesus sofreu e foi rejeitado pelas pessoas. Há muitos mais exemplos. Portanto, dizemos que Jesus cumpriu as profecias do Antigo Testamento.</p><p>No Novo Testamento, Paulo nos ensina que o <data class=\"resource-ref\" data-content-id=\"por-t68-v1\" data-resource-code=\"FIAKeyTerms\">Espírito Santo</data> dá a algumas pessoas a capacidade de falar profecias. Por meio do Espírito Santo, Deus pode dar a esses <data class=\"resource-ref\" data-content-id=\"por-t12-v1\" data-resource-code=\"FIAKeyTerms\">crentes</data> algum conhecimento ou visão especial que é para o bem da <data class=\"resource-ref\" data-content-id=\"por-t24-v1\" data-resource-code=\"FIAKeyTerms\">igreja</data>. Paulo chama isso de o dom de profecia. Nem todo crente pode ter esse dom, porque o Espírito Santo dá dons diferentes a pessoas diferentes.</p><p>Assim como na época do Antigo Testamento, as pessoas podem enganar os outros e dar uma profecia falsa. Portanto, outros crentes têm que ouvir atentamente a profecia e verificar se isso, de fato, poderia ser uma mensagem de Deus.</p>",
 "associations": {
 "passage": [
 {
@@ -7379,7 +7776,64 @@
 "end_ref_usfm": "1TI 4:16"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t104-v1",
+"resource_code": "FIAKeyTerms",
+"label": "profeta",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t226-v1",
+"resource_code": "FIAKeyTerms",
+"label": "rei",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t119-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Salvador",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t92-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Messias",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t13-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Belém",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t68-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Espírito Santo",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t12-v1",
+"resource_code": "FIAKeyTerms",
+"label": "crentes",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t24-v1",
+"resource_code": "FIAKeyTerms",
+"label": "igreja",
+"language": "por"
+}
+],
 "acai": []
 }
 },
@@ -7588,7 +8042,7 @@
 "index_reference": "profeta",
 "language": "por",
 "review_level": "None",
-"content": "<p>Um <b>profeta</b> é uma pessoa que dá mensagens de Deus às pessoas. Essa mensagem pode ser uma instrução de Deus sobre algo que precisa ser feito. Pode ser uma mensagem que fala sobre algo que vai acontecer no futuro. Mas na maioria das vezes essas mensagens eram avisos às pessoas para pararem de desobedecer a Deus. Porque as pessoas muitas vezes não gostavam de ouvir essas mensagens, ser um profeta poderia ser solitário e difícil. As pessoas às vezes maltratavam profetas ou até os matavam.</p><p>Às vezes as mensagens davam às pessoas esperança e encorajamento. Mesmo quando os profetas estavam dizendo às pessoas que elas haviam <a href=\"#t125\">pecado</a>, e mereciam ser punidas, eles também estavam dizendo às pessoas que Deus teria <a href=\"#t91\">misericórdia</a> delas e as resgataria novamente. Uma mensagem importante que os profetas davam às pessoas era que Deus enviaria um <a href=\"#t226\">rei</a> especial e <a href=\"#t119\">Salvador</a> para ajudá-las. Esse rei e Salvador especial é chamado de o <a href=\"#t92\">Messias</a>. Um Messias é alguém nomeado para uma tarefa especial.</p><p>A mensagem que um profeta dá é chamada de <b>profecia</b>. As coisas que os profetas disseram sobre o Messias, centenas de anos antes de Jesus nascer, todas se tornavam realidade em Jesus. Por exemplo, havia uma profecia de que o Messias nasceria em <a href=\"#t13\">Belém</a>, e Jesus nasceu em Belém. Havia também uma profecia de que “o servo de Deus” sofreria muito, e seria rejeitado pelas pessoas. Jesus sofreu e foi rejeitado pelas pessoas. Há muitos mais exemplos. Portanto, dizemos que Jesus cumpriu as profecias do Antigo Testamento.</p><p>Os profetas davam as mensagens de Deus às pessoas de maneiras diferentes. Às vezes um profeta contaria uma <a href=\"#t98\">parábola</a>, uma história com significado especial, às pessoas. Às vezes o profeta realizava algum tipo de drama para ajudar as pessoas a entender a mensagem. Por exemplo, Deus disse ao profeta Jeremias para andar por algum tempo com um <a href=\"#t198\">jugo</a> de madeira pesado em seu pescoço — algo que era normalmente usado para controlar animais que trabalhavam para as pessoas nos campos. Jeremias usava esse jugo como um símbolo para dizer às pessoas que o povo babilônico em breve teria controle sobre os <a href=\"#t259\">israelitas</a>. Deus disse ao profeta Oseias para se casar com uma prostituta, e ele disse ao profeta Ezequiel para se deitar de seu lado por semanas a fio sem se mover. Essas ações dramáticas ajudavam as pessoas a ver o quão sério Deus era quando ele lhes dava essas mensagens.</p><p>Deus deu suas mensagens aos profetas por meio do poder do <a href=\"#t68\">Espírito Santo</a>. Não sabemos exatamente como isso funcionava. Às vezes, um profeta tinha um sonho ou uma <a href=\"#t143\">visão</a>. Talvez às vezes Deus desse ao profeta uma revelação especial — o profeta então sabia que algo era verdadeiro. Talvez Deus às vezes falasse palavras audíveis a um profeta. De qualquer maneira, o profeta então dava essa mensagem ou revelação de Deus às pessoas, provavelmente usando suas próprias palavras e criatividade.</p><p>Muitas vezes os profetas escreviam essas mensagens, ou outras pessoas escreviam as palavras para elas. Muitos livros no Antigo Testamento são mensagens que Deus deu às pessoas por meio dos profetas. É por isso que os <a href=\"#t77\">judeus</a> muitas vezes usam a palavra “os profetas”, ou “a lei e os profetas”, para se referir à parte da Bíblia que agora chamamos de Antigo Testamento. “A <a href=\"#t83\">lei</a>” refere-se à parte do Antigo Testamento que tem a ver com os mandamentos de Deus: esses são os cinco primeiros livros do Antigo Testamento.</p><p>Às vezes no Antigo Testamento encontramos outros termos para profeta também, como <b>homem de Deus</b>, <b>servo de Deus</b>, ou <b>vidente</b>. Um “vidente” significa alguém que pode ver. Um profeta é um vidente porque ele pode ver, ou entender, Deus mais claramente do que outras pessoas, e ele sabe coisas que outras pessoas não podem saber. Isso acontece porque Deus dá ao profeta esse entendimento.</p><p>Havia também <b>falsos profetas</b>. Um falso profeta não dá uma mensagem que vem de Deus. Um falso profeta faz sua própria mensagem, e apenas diz o que as pessoas gostam de ouvir. Dessa forma, as pessoas vão gostar do profeta e o honrarão. Podemos reconhecer um falso profeta porque as coisas que ele diz não se tornarão realidade.</p><p>No Antigo Testamento às vezes ouvimos sobre grupos de profetas. Esses profetas eram um pouco diferentes do que os profetas que mencionamos até agora. Esses outros tipos de profetas seguiriam um determinado ritual, por exemplo, ouvir alguém tocando um instrumento musical, e então eles entrariam em um transe. Isso significa que eles não estavam muito acordados, e também não muito dormindo. Nesse estado, Deus às vezes lhes daria alguma revelação especial. Quando as pessoas queriam saber o que fazer, elas às vezes iam a esse profeta, e então o profeta tentaria entrar nesse transe e, esperançosamente, obter uma mensagem de Deus sobre o que essa pessoa tinha que fazer. As pessoas que entravam nesse tipo de transe também poderiam começar a louvar e <a href=\"#t149\">adorar</a> a Deus.</p><p>No Novo Testamento, Paulo nos ensina que o <a href=\"#t68\">Espírito Santo</a> dá a algumas pessoas a capacidade de falar profecias. Por meio do Espírito Santo, Deus pode dar a esses <a href=\"#t12\">crentes</a> algum conhecimento ou visão especial que é para o bem da igreja. Paulo chama isso de o dom de profecia. Nem todo crente pode ter esse dom, porque o Espírito Santo dá dons diferentes a pessoas diferentes.</p><p>Assim como na época do Antigo Testamento, as pessoas podem enganar os outros e dar uma profecia falsa. Portanto, outros crentes têm que ouvir atentamente a profecia e verificar se isso, de fato, poderia ser uma mensagem de Deus.</p><p><strong>Quando você estiver traduzindo “profeta”, tenha cuidado com as seguintes coisas:</strong></p><p>Tenha cuidado para que as pessoas não fiquem confusas com a palavra que você escolheu para <a href=\"#t4\">anjo</a>. Um anjo também dá mensagens de Deus às pessoas, mas um anjo é um ser sobrenatural enquanto um profeta é uma pessoa humana.</p><p>Certifique-se de você não usar uma palavra que em seu idioma significa apenas que alguém está falando sobre o que vai acontecer no futuro. Falar sobre o futuro é apenas uma pequena parte do que significa ser um profeta na Bíblia.</p><p>Tenha cuidado para não usar a mesma palavra que você usou para a palavra “pregador”. Um pregador ensina às pessoas algo sobre Deus, mas um pregador nem sempre fala as palavras de Deus diretamente da maneira que um profeta o faz.</p><p>Em alguns idiomas, uma boa tradução para a palavra “profeta” pode ser: “Um porta-voz de Deus”, “alguém que dá mensagens de Deus às pessoas”, ou “alguém que fala em nome de Deus”.</p>",
+"content": "<p>Um <b>profeta</b> é uma pessoa que dá mensagens de Deus às pessoas. Essa mensagem pode ser uma instrução de Deus sobre algo que precisa ser feito. Pode ser uma mensagem que fala sobre algo que vai acontecer no futuro. Mas na maioria das vezes essas mensagens eram avisos às pessoas para pararem de desobedecer a Deus. Porque as pessoas muitas vezes não gostavam de ouvir essas mensagens, ser um profeta poderia ser solitário e difícil. As pessoas às vezes maltratavam profetas ou até os matavam.</p><p>Às vezes as mensagens davam às pessoas esperança e encorajamento. Mesmo quando os profetas estavam dizendo às pessoas que elas haviam <data class=\"resource-ref\" data-content-id=\"por-t125-v1\" data-resource-code=\"FIAKeyTerms\">pecado</data>, e mereciam ser punidas, eles também estavam dizendo às pessoas que Deus teria <data class=\"resource-ref\" data-content-id=\"por-t91-v1\" data-resource-code=\"FIAKeyTerms\">misericórdia</data> delas e as resgataria novamente. Uma mensagem importante que os profetas davam às pessoas era que Deus enviaria um <data class=\"resource-ref\" data-content-id=\"por-t226-v1\" data-resource-code=\"FIAKeyTerms\">rei</data> especial e <data class=\"resource-ref\" data-content-id=\"por-t119-v1\" data-resource-code=\"FIAKeyTerms\">Salvador</data> para ajudá-las. Esse rei e Salvador especial é chamado de o <data class=\"resource-ref\" data-content-id=\"por-t92-v1\" data-resource-code=\"FIAKeyTerms\">Messias</data>. Um Messias é alguém nomeado para uma tarefa especial.</p><p>A mensagem que um profeta dá é chamada de <b>profecia</b>. As coisas que os profetas disseram sobre o Messias, centenas de anos antes de Jesus nascer, todas se tornavam realidade em Jesus. Por exemplo, havia uma profecia de que o Messias nasceria em <data class=\"resource-ref\" data-content-id=\"por-t13-v1\" data-resource-code=\"FIAKeyTerms\">Belém</data>, e Jesus nasceu em Belém. Havia também uma profecia de que “o servo de Deus” sofreria muito, e seria rejeitado pelas pessoas. Jesus sofreu e foi rejeitado pelas pessoas. Há muitos mais exemplos. Portanto, dizemos que Jesus cumpriu as profecias do Antigo Testamento.</p><p>Os profetas davam as mensagens de Deus às pessoas de maneiras diferentes. Às vezes um profeta contaria uma <data class=\"resource-ref\" data-content-id=\"por-t98-v1\" data-resource-code=\"FIAKeyTerms\">parábola</data>, uma história com significado especial, às pessoas. Às vezes o profeta realizava algum tipo de drama para ajudar as pessoas a entender a mensagem. Por exemplo, Deus disse ao profeta Jeremias para andar por algum tempo com um <data class=\"resource-ref\" data-content-id=\"por-t198-v1\" data-resource-code=\"FIAKeyTerms\">jugo</data> de madeira pesado em seu pescoço — algo que era normalmente usado para controlar animais que trabalhavam para as pessoas nos campos. Jeremias usava esse jugo como um símbolo para dizer às pessoas que o povo babilônico em breve teria controle sobre os <data class=\"resource-ref\" data-content-id=\"por-t259-v2\" data-resource-code=\"FIAKeyTerms\">israelitas</data>. Deus disse ao profeta Oseias para se casar com uma prostituta, e ele disse ao profeta Ezequiel para se deitar de seu lado por semanas a fio sem se mover. Essas ações dramáticas ajudavam as pessoas a ver o quão sério Deus era quando ele lhes dava essas mensagens.</p><p>Deus deu suas mensagens aos profetas por meio do poder do <data class=\"resource-ref\" data-content-id=\"por-t68-v1\" data-resource-code=\"FIAKeyTerms\">Espírito Santo</data>. Não sabemos exatamente como isso funcionava. Às vezes, um profeta tinha um sonho ou uma <data class=\"resource-ref\" data-content-id=\"por-t143-v1\" data-resource-code=\"FIAKeyTerms\">visão</data>. Talvez às vezes Deus desse ao profeta uma revelação especial — o profeta então sabia que algo era verdadeiro. Talvez Deus às vezes falasse palavras audíveis a um profeta. De qualquer maneira, o profeta então dava essa mensagem ou revelação de Deus às pessoas, provavelmente usando suas próprias palavras e criatividade.</p><p>Muitas vezes os profetas escreviam essas mensagens, ou outras pessoas escreviam as palavras para elas. Muitos livros no Antigo Testamento são mensagens que Deus deu às pessoas por meio dos profetas. É por isso que os <data class=\"resource-ref\" data-content-id=\"por-t77-v2\" data-resource-code=\"FIAKeyTerms\">judeus</data> muitas vezes usam a palavra “os profetas”, ou “a lei e os profetas”, para se referir à parte da Bíblia que agora chamamos de Antigo Testamento. “A <data class=\"resource-ref\" data-content-id=\"por-t83-v1\" data-resource-code=\"FIAKeyTerms\">lei</data>” refere-se à parte do Antigo Testamento que tem a ver com os mandamentos de Deus: esses são os cinco primeiros livros do Antigo Testamento.</p><p>Às vezes no Antigo Testamento encontramos outros termos para profeta também, como <b>homem de Deus</b>, <b>servo de Deus</b>, ou <b>vidente</b>. Um “vidente” significa alguém que pode ver. Um profeta é um vidente porque ele pode ver, ou entender, Deus mais claramente do que outras pessoas, e ele sabe coisas que outras pessoas não podem saber. Isso acontece porque Deus dá ao profeta esse entendimento.</p><p>Havia também <b>falsos profetas</b>. Um falso profeta não dá uma mensagem que vem de Deus. Um falso profeta faz sua própria mensagem, e apenas diz o que as pessoas gostam de ouvir. Dessa forma, as pessoas vão gostar do profeta e o honrarão. Podemos reconhecer um falso profeta porque as coisas que ele diz não se tornarão realidade.</p><p>No Antigo Testamento às vezes ouvimos sobre grupos de profetas. Esses profetas eram um pouco diferentes do que os profetas que mencionamos até agora. Esses outros tipos de profetas seguiriam um determinado ritual, por exemplo, ouvir alguém tocando um instrumento musical, e então eles entrariam em um transe. Isso significa que eles não estavam muito acordados, e também não muito dormindo. Nesse estado, Deus às vezes lhes daria alguma revelação especial. Quando as pessoas queriam saber o que fazer, elas às vezes iam a esse profeta, e então o profeta tentaria entrar nesse transe e, esperançosamente, obter uma mensagem de Deus sobre o que essa pessoa tinha que fazer. As pessoas que entravam nesse tipo de transe também poderiam começar a louvar e <data class=\"resource-ref\" data-content-id=\"por-t149-v1\" data-resource-code=\"FIAKeyTerms\">adorar</data> a Deus.</p><p>No Novo Testamento, Paulo nos ensina que o <data class=\"resource-ref\" data-content-id=\"por-t68-v1\" data-resource-code=\"FIAKeyTerms\">Espírito Santo</data> dá a algumas pessoas a capacidade de falar profecias. Por meio do Espírito Santo, Deus pode dar a esses <data class=\"resource-ref\" data-content-id=\"por-t12-v1\" data-resource-code=\"FIAKeyTerms\">crentes</data> algum conhecimento ou visão especial que é para o bem da igreja. Paulo chama isso de o dom de profecia. Nem todo crente pode ter esse dom, porque o Espírito Santo dá dons diferentes a pessoas diferentes.</p><p>Assim como na época do Antigo Testamento, as pessoas podem enganar os outros e dar uma profecia falsa. Portanto, outros crentes têm que ouvir atentamente a profecia e verificar se isso, de fato, poderia ser uma mensagem de Deus.</p><p><strong>Quando você estiver traduzindo “profeta”, tenha cuidado com as seguintes coisas:</strong></p><p>Tenha cuidado para que as pessoas não fiquem confusas com a palavra que você escolheu para <data class=\"resource-ref\" data-content-id=\"por-t4-v1\" data-resource-code=\"FIAKeyTerms\">anjo</data>. Um anjo também dá mensagens de Deus às pessoas, mas um anjo é um ser sobrenatural enquanto um profeta é uma pessoa humana.</p><p>Certifique-se de você não usar uma palavra que em seu idioma significa apenas que alguém está falando sobre o que vai acontecer no futuro. Falar sobre o futuro é apenas uma pequena parte do que significa ser um profeta na Bíblia.</p><p>Tenha cuidado para não usar a mesma palavra que você usou para a palavra “pregador”. Um pregador ensina às pessoas algo sobre Deus, mas um pregador nem sempre fala as palavras de Deus diretamente da maneira que um profeta o faz.</p><p>Em alguns idiomas, uma boa tradução para a palavra “profeta” pode ser: “Um porta-voz de Deus”, “alguém que dá mensagens de Deus às pessoas”, ou “alguém que fala em nome de Deus”.</p>",
 "associations": {
 "passage": [
 {
@@ -7970,6 +8424,12 @@
 "end_ref_usfm": "2KI 13:25"
 },
 {
+"start_ref": "12014023",
+"start_ref_usfm": "2KI 14:23",
+"end_ref": "12014029",
+"end_ref_usfm": "2KI 14:29"
+},
+{
 "start_ref": "13009017",
 "start_ref_usfm": "1CH 9:17",
 "end_ref": "13009027",
@@ -8184,15 +8644,129 @@
 "start_ref_usfm": "MAT 2:13",
 "end_ref": "40002023",
 "end_ref_usfm": "MAT 2:23"
-},
-{
-"start_ref": "40005001",
-"start_ref_usfm": "MAT 5:1",
-"end_ref": "40005012",
-"end_ref_usfm": "MAT 5:12"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t125-v1",
+"resource_code": "FIAKeyTerms",
+"label": "pecado",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t91-v1",
+"resource_code": "FIAKeyTerms",
+"label": "misericórdia",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t226-v1",
+"resource_code": "FIAKeyTerms",
+"label": "rei",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t119-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Salvador",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t92-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Messias",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t13-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Belém",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t98-v1",
+"resource_code": "FIAKeyTerms",
+"label": "parábola",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t198-v1",
+"resource_code": "FIAKeyTerms",
+"label": "jugo",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t259-v2",
+"resource_code": "FIAKeyTerms",
+"label": "israelitas",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t68-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Espírito Santo",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t143-v1",
+"resource_code": "FIAKeyTerms",
+"label": "visão",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t77-v2",
+"resource_code": "FIAKeyTerms",
+"label": "judeus",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t83-v1",
+"resource_code": "FIAKeyTerms",
+"label": "lei",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t149-v1",
+"resource_code": "FIAKeyTerms",
+"label": "adorar",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t68-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Espírito Santo",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t12-v1",
+"resource_code": "FIAKeyTerms",
+"label": "crentes",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t4-v1",
+"resource_code": "FIAKeyTerms",
+"label": "anjo",
+"language": "por"
+}
+],
 "acai": []
 }
 },
@@ -8587,6 +9161,12 @@
 "end_ref_usfm": "2KI 13:25"
 },
 {
+"start_ref": "12014023",
+"start_ref_usfm": "2KI 14:23",
+"end_ref": "12014029",
+"end_ref_usfm": "2KI 14:29"
+},
+{
 "start_ref": "13009017",
 "start_ref_usfm": "1CH 9:17",
 "end_ref": "13009027",
@@ -8801,12 +9381,6 @@
 "start_ref_usfm": "MAT 2:13",
 "end_ref": "40002023",
 "end_ref_usfm": "MAT 2:23"
-},
-{
-"start_ref": "40005001",
-"start_ref_usfm": "MAT 5:1",
-"end_ref": "40005012",
-"end_ref_usfm": "MAT 5:12"
 }
 ],
 "resource": []
@@ -8821,7 +9395,7 @@
 "index_reference": "provérbio",
 "language": "por",
 "review_level": "None",
-"content": "<p>Um <b>provérbio</b> é um ditado curto que é fácil de lembrar, e que as pessoas passam para outras pessoas. Um provérbio ensina as pessoas algo importante sobre as pessoas ou sobre Deus. Um provérbio muitas vezes dá conselhos sobre qual é o comportamento correto em uma situação particular, ou diz às pessoas o que geralmente acontece em uma certa situação. As pessoas que faziam provérbios muitas vezes olhavam para a natureza e se maravilhavam com o quão bem Deus havia feito tudo. Por meio desses provérbios, eles ensinavam as pessoas que há muito que podemos aprender com a natureza. Alguns exemplos de Provérbios são:</p><p>“Se você é orgulhoso, você terá problemas. Mas se você pedir conselhos, você é sábio”.</p><p>“Olhe para a formiga e siga seu exemplo, pessoa preguiçosa!”.</p><p>“Podemos fazer planos, mas a resposta certa vem de Deus\".</p><p>Muitas pessoas diferentes faziam esses provérbios e os contavam a outras pessoas, e com o tempo muitos desses provérbios eram coletados em um livro. Podemos encontrá-los no livro da Bíblia que é chamado de Provérbios.</p><p>Os Provérbios ensinam as pessoas o que significa ser sábio. Uma pessoa que é sábia entende muitas coisas e é capaz de tomar boas decisões que levam a bons resultados. O livro de Provérbios nos ensina que é Deus que dá <a href=\"#t147\">sabedoria</a> às pessoas. Se uma pessoa finge ser sábia, mas não aceita Deus, então sua sabedoria é inútil, e, eventualmente, seus planos falharão. Apenas uma pessoa que aceita e obedece a Deus pode ser verdadeiramente sábia.</p>",
+"content": "<p>Um <b>provérbio</b> é um ditado curto que é fácil de lembrar, e que as pessoas passam para outras pessoas. Um provérbio ensina as pessoas algo importante sobre as pessoas ou sobre Deus. Um provérbio muitas vezes dá conselhos sobre qual é o comportamento correto em uma situação particular, ou diz às pessoas o que geralmente acontece em uma certa situação. As pessoas que faziam provérbios muitas vezes olhavam para a natureza e se maravilhavam com o quão bem Deus havia feito tudo. Por meio desses provérbios, eles ensinavam as pessoas que há muito que podemos aprender com a natureza. Alguns exemplos de Provérbios são:</p><p>“Se você é orgulhoso, você terá problemas. Mas se você pedir conselhos, você é sábio”.</p><p>“Olhe para a formiga e siga seu exemplo, pessoa preguiçosa!”.</p><p>“Podemos fazer planos, mas a resposta certa vem de Deus&quot;.</p><p>Muitas pessoas diferentes faziam esses provérbios e os contavam a outras pessoas, e com o tempo muitos desses provérbios eram coletados em um livro. Podemos encontrá-los no livro da Bíblia que é chamado de Provérbios.</p><p>Os Provérbios ensinam as pessoas o que significa ser sábio. Uma pessoa que é sábia entende muitas coisas e é capaz de tomar boas decisões que levam a bons resultados. O livro de Provérbios nos ensina que é Deus que dá <data class=\"resource-ref\" data-content-id=\"por-t147-v1\" data-resource-code=\"FIAKeyTerms\">sabedoria</data> às pessoas. Se uma pessoa finge ser sábia, mas não aceita Deus, então sua sabedoria é inútil, e, eventualmente, seus planos falharão. Apenas uma pessoa que aceita e obedece a Deus pode ser verdadeiramente sábia.</p>",
 "associations": {
 "passage": [
 {
@@ -8849,7 +9423,15 @@
 "end_ref_usfm": "LUK 4:30"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t147-v1",
+"resource_code": "FIAKeyTerms",
+"label": "sabedoria",
+"language": "por"
+}
+],
 "acai": [
 {
 "id": "keyterm:Saying",
@@ -8910,7 +9492,7 @@
 "index_reference": "purificar",
 "language": "por",
 "review_level": "None",
-"content": "<p><b>Purificar</b> alguém significa tornar alguém limpo ou puro. As palavras “puro” e “impuro” na Bíblia não estão falando sobre se algo é limpo ou sujo no exterior, ou do lado de fora. Na Bíblia, uma pessoa <a href=\"#t26\">pura</a> significa uma pessoa apta para o serviço a Deus —<a href=\"#t189\"> alg</a>uém aceitável para participar da adoração a <a href=\"#t149\">Deus. </a>Uma pessoa que é impura é inadequada para o serviço a Deus. Alguém pode se tornar impuro quando ele peca contra Deus, quando ele peca sexualmente, ou quando ele ,não intencionalmente, toca ou come coisas sujas ou impuras. Os animais e até objetos também podem ser puros ou impuros.</p><p>Sempre que uma pessoa se tornava impura, ela tinha que realizar certos rituais para se tornar pura novamente. Deus deu ao seu povo leis e rituais específicos para torná-lo limpo novamente. Esses rituais muitas vezes incluíam tomar um banho especial. Às vezes as pessoas apenas lavavam uma parte de seu corpo, e às vezes elas precisavam entrar completamente debaixo d'água. Então eles trocariam suas roupas. Às vezes as pessoas precisavam oferecer um <a href=\"#t114\">sacrifício</a> também. Esse processo era um símbolo que mostrava que as pessoas estavam removendo tudo o que era sujo ou impuro e que as separava de Deus. Era a tarefa de um <a href=\"#t103\">sacerdote</a>, um servo de Deus no templo, ajudar as pessoas a fazer os rituais que as tornavam limpas.</p>",
+"content": "<p><b>Purificar</b> alguém significa tornar alguém limpo ou puro. As palavras “puro” e “impuro” na Bíblia não estão falando sobre se algo é limpo ou sujo no exterior, ou do lado de fora. Na Bíblia, uma pessoa <data class=\"resource-ref\" data-content-id=\"por-t26-v1\" data-resource-code=\"FIAKeyTerms\">pura</data> significa uma pessoa apta para o serviço a Deus —<data class=\"resource-ref\" data-content-id=\"por-t189-v1\" data-resource-code=\"FIAKeyTerms\"> alg</data>uém aceitável para participar da adoração a <data class=\"resource-ref\" data-content-id=\"por-t149-v1\" data-resource-code=\"FIAKeyTerms\">Deus. </data>Uma pessoa que é impura é inadequada para o serviço a Deus. Alguém pode se tornar impuro quando ele peca contra Deus, quando ele peca sexualmente, ou quando ele ,não intencionalmente, toca ou come coisas sujas ou impuras. Os animais e até objetos também podem ser puros ou impuros.</p><p>Sempre que uma pessoa se tornava impura, ela tinha que realizar certos rituais para se tornar pura novamente. Deus deu ao seu povo leis e rituais específicos para torná-lo limpo novamente. Esses rituais muitas vezes incluíam tomar um banho especial. Às vezes as pessoas apenas lavavam uma parte de seu corpo, e às vezes elas precisavam entrar completamente debaixo d&#x27;água. Então eles trocariam suas roupas. Às vezes as pessoas precisavam oferecer um <data class=\"resource-ref\" data-content-id=\"por-t114-v1\" data-resource-code=\"FIAKeyTerms\">sacrifício</data> também. Esse processo era um símbolo que mostrava que as pessoas estavam removendo tudo o que era sujo ou impuro e que as separava de Deus. Era a tarefa de um <data class=\"resource-ref\" data-content-id=\"por-t103-v1\" data-resource-code=\"FIAKeyTerms\">sacerdote</data>, um servo de Deus no templo, ajudar as pessoas a fazer os rituais que as tornavam limpas.</p>",
 "associations": {
 "passage": [
 {
@@ -9070,7 +9652,43 @@
 "end_ref_usfm": "1JN 3:10"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t26-v1",
+"resource_code": "FIAKeyTerms",
+"label": "pura",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t189-v1",
+"resource_code": "FIAKeyTerms",
+"label": " alg",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t149-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Deus. ",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t114-v1",
+"resource_code": "FIAKeyTerms",
+"label": "sacrifício",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t103-v1",
+"resource_code": "FIAKeyTerms",
+"label": "sacerdote",
+"language": "por"
+}
+],
 "acai": []
 }
 },
@@ -9255,7 +9873,7 @@
 "index_reference": "puroimpuro",
 "language": "por",
 "review_level": "None",
-"content": "<p>As palavras “puro” e “impuro” na Bíblia não estão falando sobre se algo é limpo ou sujo no exterior, ou do lado de fora. Na Bíblia, uma pessoa <b>pura</b> significa uma pessoa que é apta para o serviço a Deus — alguém que é aceitável para participar da adoração a Deus. Uma pessoa que é <b>impura</b> é inadequada para o serviço a Deus. Os animais e até objetos também podem ser puros ou impuros.</p><p>Ser puro é o estado normal de uma pessoa, mas uma pessoa poderia se tornar impura se ela não seguisse as regras de pureza. As regras sobre quais coisas eram puras ou impuras ajudavam os <a href=\"#t259\">israelitas</a> a lembrar de que eles eram o povo especial de Deus. Assim como um objeto que é puro tem que ser mantido longe de algo que é impuro, os israelitas tinham que ficar longe das coisas impuras. Essas coisas podem ser animais ou objetos impuros, ou ações impuras como o pecado.</p><p>As regras sobre puro e impuro também ajudavam as pessoas a lembrar de que Deus dá vida, e que sem Deus há morte. O sangue e a doença são associados à morte. É por isso que alguém que estava doente ou sangrando era impuro. Um corpo morto era a coisa mais impura de todas.</p><p>A impureza também era contagiosa. Se uma pessoa impura tocava uma pessoa pura, então a pessoa pura se tornava impura. Se uma pessoa pura tocava um objeto impuro — por exemplo, um pedaço de pano ensanguentado — a pessoa pura se tornava impura. Se uma pessoa pura tocava um corpo morto, então a pessoa pura se tornava impura também.</p><p>A distinção entre puro e impuro era muito importante na <a href=\"#t149\">adoração</a> a Deus. Nada que era impuro poderia entrar no <a href=\"#t138\">templo</a>. Deus havia <a href=\"#t5\">nomeado</a> <a href=\"#t103\">sacerdotes</a> para cuidar do templo. Os sacerdotes tinham que ser muito cuidadosos para permanecer puros.</p><p>Se alguém estava impura porque ela estava menstruando, havia tido relações sexuais, ou havia tocado um corpo morto, esta pessoa precisava esperar uma certa quantidade de tempo e então tomar um banho. Depois disso, ela estava pura novamente.</p><p>Se alguém tinha uma doença de pele, essa pessoa estava impura até que o sacerdote confirmasse que ela estava curada. A pessoa que era curada então tinha que oferecer um sacrifício com animal a Deus. Depois disso, essa pessoa era considerada pura novamente.</p><p>Deus disse aos israelitas quais animais eles poderiam comer e não comer. Por exemplo, eles poderiam comer cabras, ovelhas, vacas e certas aves. Esses animais eram puros. Os animais que eles não poderiam comer incluíam porcos, animais selvagens e répteis. Se uma pessoa comesse um animal impuro, a pessoa se tornaria impura.</p><p>Quando as pessoas traziam um <a href=\"#t114\">sacrifício</a> a Deus, elas podiam oferecer apenas um animal puro. O animal tinha que ser completamente saudável também. Caso contrário, ele ainda seria impuro e inadequado para o sacrifício.</p><p>No Antigo Testamento, as pessoas poderiam se tornar impuras pelo pecado ou tocando uma coisa impura. Um animal pode ser impuro por natureza.</p><p>No entanto, no Novo Testamento, Jesus ensina às pessoas que ser puro não é apenas uma questão de ficar longe de certos alimentos ou de tomar um banho ritual. Jesus nos ensina que nos tornamos impuros se pensamos pensamentos <a href=\"#t187\">malignos</a> e fazemos coisas erradas. Essas coisas nos tornam inadequados para servir ou adorar a Deus. Nos tornamos impuros se desobedecemos a Deus. É por isso que os <a href=\"#t47\">espíritos malignos</a> são muitas vezes chamados de “<a href=\"#t229\">espíritos impuros</a>”, porque eles estão se rebelando contra Deus.</p><p>Depois que Jesus voltou para o <a href=\"#t63\">céu</a>, mais e mais pessoas se tornaram seus seguidores. Entre eles estavam também pessoas que não eram <a href=\"#t77\">judeus</a>. A <a href=\"#t24\">igreja</a> no início pensava que as pessoas que não eram judias eram impuras, e, portanto, não poderiam se tornar parte do povo de Deus. Mas Deus ensinou à igreja que as antigas regras sobre quem ou o que era puro não contavam mais. As pessoas de todas as <a href=\"#t94\">nações</a> eram bem-vindas a Deus, e não era mais importante o que alguém comia ou não comia. Jesus havia tornado as pessoas puras. O que era importante agora era permanecer puro ficando longe do <a href=\"#t125\">pecado</a>.</p>",
+"content": "<p>As palavras “puro” e “impuro” na Bíblia não estão falando sobre se algo é limpo ou sujo no exterior, ou do lado de fora. Na Bíblia, uma pessoa <b>pura</b> significa uma pessoa que é apta para o serviço a Deus — alguém que é aceitável para participar da adoração a Deus. Uma pessoa que é <b>impura</b> é inadequada para o serviço a Deus. Os animais e até objetos também podem ser puros ou impuros.</p><p>Ser puro é o estado normal de uma pessoa, mas uma pessoa poderia se tornar impura se ela não seguisse as regras de pureza. As regras sobre quais coisas eram puras ou impuras ajudavam os <data class=\"resource-ref\" data-content-id=\"por-t259-v2\" data-resource-code=\"FIAKeyTerms\">israelitas</data> a lembrar de que eles eram o povo especial de Deus. Assim como um objeto que é puro tem que ser mantido longe de algo que é impuro, os israelitas tinham que ficar longe das coisas impuras. Essas coisas podem ser animais ou objetos impuros, ou ações impuras como o pecado.</p><p>As regras sobre puro e impuro também ajudavam as pessoas a lembrar de que Deus dá vida, e que sem Deus há morte. O sangue e a doença são associados à morte. É por isso que alguém que estava doente ou sangrando era impuro. Um corpo morto era a coisa mais impura de todas.</p><p>A impureza também era contagiosa. Se uma pessoa impura tocava uma pessoa pura, então a pessoa pura se tornava impura. Se uma pessoa pura tocava um objeto impuro — por exemplo, um pedaço de pano ensanguentado — a pessoa pura se tornava impura. Se uma pessoa pura tocava um corpo morto, então a pessoa pura se tornava impura também.</p><p>A distinção entre puro e impuro era muito importante na <data class=\"resource-ref\" data-content-id=\"por-t149-v1\" data-resource-code=\"FIAKeyTerms\">adoração</data> a Deus. Nada que era impuro poderia entrar no <data class=\"resource-ref\" data-content-id=\"por-t138-v1\" data-resource-code=\"FIAKeyTerms\">templo</data>. Deus havia <data class=\"resource-ref\" data-content-id=\"por-t5-v1\" data-resource-code=\"FIAKeyTerms\">nomeado</data> <data class=\"resource-ref\" data-content-id=\"por-t103-v1\" data-resource-code=\"FIAKeyTerms\">sacerdotes</data> para cuidar do templo. Os sacerdotes tinham que ser muito cuidadosos para permanecer puros.</p><p>Se alguém estava impura porque ela estava menstruando, havia tido relações sexuais, ou havia tocado um corpo morto, esta pessoa precisava esperar uma certa quantidade de tempo e então tomar um banho. Depois disso, ela estava pura novamente.</p><p>Se alguém tinha uma doença de pele, essa pessoa estava impura até que o sacerdote confirmasse que ela estava curada. A pessoa que era curada então tinha que oferecer um sacrifício com animal a Deus. Depois disso, essa pessoa era considerada pura novamente.</p><p>Deus disse aos israelitas quais animais eles poderiam comer e não comer. Por exemplo, eles poderiam comer cabras, ovelhas, vacas e certas aves. Esses animais eram puros. Os animais que eles não poderiam comer incluíam porcos, animais selvagens e répteis. Se uma pessoa comesse um animal impuro, a pessoa se tornaria impura.</p><p>Quando as pessoas traziam um <data class=\"resource-ref\" data-content-id=\"por-t114-v1\" data-resource-code=\"FIAKeyTerms\">sacrifício</data> a Deus, elas podiam oferecer apenas um animal puro. O animal tinha que ser completamente saudável também. Caso contrário, ele ainda seria impuro e inadequado para o sacrifício.</p><p>No Antigo Testamento, as pessoas poderiam se tornar impuras pelo pecado ou tocando uma coisa impura. Um animal pode ser impuro por natureza.</p><p>No entanto, no Novo Testamento, Jesus ensina às pessoas que ser puro não é apenas uma questão de ficar longe de certos alimentos ou de tomar um banho ritual. Jesus nos ensina que nos tornamos impuros se pensamos pensamentos <data class=\"resource-ref\" data-content-id=\"por-t187-v1\" data-resource-code=\"FIAKeyTerms\">malignos</data> e fazemos coisas erradas. Essas coisas nos tornam inadequados para servir ou adorar a Deus. Nos tornamos impuros se desobedecemos a Deus. É por isso que os <data class=\"resource-ref\" data-content-id=\"por-t47-v1\" data-resource-code=\"FIAKeyTerms\">espíritos malignos</data> são muitas vezes chamados de “espíritos impuros”, porque eles estão se rebelando contra Deus.</p><p>Depois que Jesus voltou para o <data class=\"resource-ref\" data-content-id=\"por-t63-v1\" data-resource-code=\"FIAKeyTerms\">céu</data>, mais e mais pessoas se tornaram seus seguidores. Entre eles estavam também pessoas que não eram <data class=\"resource-ref\" data-content-id=\"por-t77-v2\" data-resource-code=\"FIAKeyTerms\">judeus</data>. A <data class=\"resource-ref\" data-content-id=\"por-t24-v1\" data-resource-code=\"FIAKeyTerms\">igreja</data> no início pensava que as pessoas que não eram judias eram impuras, e, portanto, não poderiam se tornar parte do povo de Deus. Mas Deus ensinou à igreja que as antigas regras sobre quem ou o que era puro não contavam mais. As pessoas de todas as <data class=\"resource-ref\" data-content-id=\"por-t94-v1\" data-resource-code=\"FIAKeyTerms\">nações</data> eram bem-vindas a Deus, e não era mais importante o que alguém comia ou não comia. Jesus havia tornado as pessoas puras. O que era importante agora era permanecer puro ficando longe do <data class=\"resource-ref\" data-content-id=\"por-t125-v1\" data-resource-code=\"FIAKeyTerms\">pecado</data>.</p>",
 "associations": {
 "passage": [
 {
@@ -9811,7 +10429,99 @@
 "end_ref_usfm": "JUD 1:11"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t259-v2",
+"resource_code": "FIAKeyTerms",
+"label": "israelitas",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t149-v1",
+"resource_code": "FIAKeyTerms",
+"label": "adoração",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t138-v1",
+"resource_code": "FIAKeyTerms",
+"label": "templo",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t5-v1",
+"resource_code": "FIAKeyTerms",
+"label": "nomeado",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t103-v1",
+"resource_code": "FIAKeyTerms",
+"label": "sacerdotes",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t114-v1",
+"resource_code": "FIAKeyTerms",
+"label": "sacrifício",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t187-v1",
+"resource_code": "FIAKeyTerms",
+"label": "malignos",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t47-v1",
+"resource_code": "FIAKeyTerms",
+"label": "espíritos malignos",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t63-v1",
+"resource_code": "FIAKeyTerms",
+"label": "céu",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t77-v2",
+"resource_code": "FIAKeyTerms",
+"label": "judeus",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t24-v1",
+"resource_code": "FIAKeyTerms",
+"label": "igreja",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t94-v1",
+"resource_code": "FIAKeyTerms",
+"label": "nações",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t125-v1",
+"resource_code": "FIAKeyTerms",
+"label": "pecado",
+"language": "por"
+}
+],
 "acai": []
 }
 },

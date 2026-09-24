@@ -8,7 +8,7 @@
 "index_reference": "阿爸",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><b>阿爸</b>是亚兰文\"父亲\"的意思。 <a href=\"#t74\">亚兰文</a>是耶稣时代以色列人所使用的语言。 在被捕并被<a href=\"#t169\">钉十字架</a>之前，耶稣向神<a href=\"#t102\">祷告</a>时称神为\"阿爸\"。 保罗后来在他的信中写道，<a href=\"#t68\">圣灵</a>使我们向神呼求：\"阿爸，父啊！\"这意味著借由圣灵，我们可以与神建立亲密的关系，就像孩子与父亲一样——正如同耶稣与神的关系一般。</p>",
+"content": "<p><b>阿爸</b>是亚兰文\"父亲\"的意思。 <data class=\"resource-ref\" data-content-id=\"cmn-t74-v1\" data-resource-code=\"FIAKeyTerms\">亚兰文</data>是耶稣时代以色列人所使用的语言。 在被捕并被<data class=\"resource-ref\" data-content-id=\"cmn-t169-v1\" data-resource-code=\"FIAKeyTerms\">钉十字架</data>之前，耶稣向神<data class=\"resource-ref\" data-content-id=\"cmn-t102-v1\" data-resource-code=\"FIAKeyTerms\">祷告</data>时称神为\"阿爸\"。 保罗后来在他的信中写道，<data class=\"resource-ref\" data-content-id=\"cmn-t68-v1\" data-resource-code=\"FIAKeyTerms\">圣灵</data>使我们向神呼求：\"阿爸，父啊！\"这意味著借由圣灵，我们可以与神建立亲密的关系，就像孩子与父亲一样——正如同耶稣与神的关系一般。</p>",
 "associations": {
 "passage": [
 {
@@ -24,7 +24,36 @@
 "end_ref_usfm": "GAL 4:7"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t74-v1",
+"resource_code": "FIAKeyTerms",
+"label": "亚兰文",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t169-v1",
+"resource_code": "FIAKeyTerms",
+"label": "钉十字架",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t102-v1",
+"resource_code": "FIAKeyTerms",
+"label": "祷告",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t68-v1",
+"resource_code": "FIAKeyTerms",
+"label": "圣灵",
+"language": "zhs"
+}
+],
 "acai": []
 }
 },
@@ -65,7 +94,7 @@
 "index_reference": "阿们",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><b>阿们</b>是<a href=\"#t227\">希伯来</a>文。 根据这个字何时被使用，它可以指类似于\"我接受这一点\"、\"但愿这是真的\"、\"的确\"或\"真的\"之类的意思。</p><p>当有人告诉你将会有好事发生时，你可以回应说：\"阿们！\" 这表示你希望并<a href=\"#t11\">相信</a>这将会成真。</p><p>当有人向神<a href=\"#t102\">祷告</a>时，你可以说\"阿们\"。 这表示你希望并相信那个祷告会得到神的回应。</p><p>耶稣用不同的方式使用阿们这个词。 耶稣经常在教导的开始说\"阿们\"，甚至\"阿们，阿们\"。 当耶稣说\"阿们\"时，祂的意思是：\"仔细聆听我接下来要说的话，因为这是真实且非常重要的事。\"</p>",
+"content": "<p><b>阿们</b>是希伯来文。 根据这个字何时被使用，它可以指类似于\"我接受这一点\"、\"但愿这是真的\"、\"的确\"或\"真的\"之类的意思。</p><p>当有人告诉你将会有好事发生时，你可以回应说：\"阿们！\" 这表示你希望并<data class=\"resource-ref\" data-content-id=\"cmn-t11-v1\" data-resource-code=\"FIAKeyTerms\">相信</data>这将会成真。</p><p>当有人向神<data class=\"resource-ref\" data-content-id=\"cmn-t102-v1\" data-resource-code=\"FIAKeyTerms\">祷告</data>时，你可以说\"阿们\"。 这表示你希望并相信那个祷告会得到神的回应。</p><p>耶稣用不同的方式使用阿们这个词。 耶稣经常在教导的开始说\"阿们\"，甚至\"阿们，阿们\"。 当耶稣说\"阿们\"时，祂的意思是：\"仔细聆听我接下来要说的话，因为这是真实且非常重要的事。\"</p>",
 "associations": {
 "passage": [
 {
@@ -159,7 +188,22 @@
 "end_ref_usfm": "JUD 1:25"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t11-v1",
+"resource_code": "FIAKeyTerms",
+"label": "相信",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t102-v1",
+"resource_code": "FIAKeyTerms",
+"label": "祷告",
+"language": "zhs"
+}
+],
 "acai": []
 }
 },

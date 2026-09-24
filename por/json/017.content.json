@@ -8,7 +8,7 @@
 "index_reference": "rabi",
 "language": "por",
 "review_level": "None",
-"content": "<p><b>Rabi</b> é um nome que as pessoas em <a href=\"#t74\">Israel</a> davam a um <a href=\"#t136\">mestre</a> religioso. No idioma deles a palavra significa “meu grande”, ou “meu grande mestre”. Quando alguém chama outra pessoa de “rabi”, ele está expressando respeito a essa pessoa. Algumas traduções mantêm a palavra “rabi”, e outras traduções dizem apenas “mestre”.</p><p><strong>Quando você estiver traduzindo “rabi”, tenha cuidado com as seguintes coisas:</strong></p><p>Você pode usar uma palavra ou frase em seu idioma que significa “mestre”. Mas a palavra não deve ser uma palavra que é usada apenas para um mestre de crianças em uma escola.</p>",
+"content": "<p><b>Rabi</b> é um nome que as pessoas em <data class=\"resource-ref\" data-content-id=\"por-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israel</data> davam a um <data class=\"resource-ref\" data-content-id=\"por-t136-v1\" data-resource-code=\"FIAKeyTerms\">mestre</data> religioso. No idioma deles a palavra significa “meu grande”, ou “meu grande mestre”. Quando alguém chama outra pessoa de “rabi”, ele está expressando respeito a essa pessoa. Algumas traduções mantêm a palavra “rabi”, e outras traduções dizem apenas “mestre”.</p><p><strong>Quando você estiver traduzindo “rabi”, tenha cuidado com as seguintes coisas:</strong></p><p>Você pode usar uma palavra ou frase em seu idioma que significa “mestre”. Mas a palavra não deve ser uma palavra que é usada apenas para um mestre de crianças em uma escola.</p>",
 "associations": {
 "passage": [
 {
@@ -120,7 +120,22 @@
 "end_ref_usfm": "JHN 20:18"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israel",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t136-v1",
+"resource_code": "FIAKeyTerms",
+"label": "mestre",
+"language": "por"
+}
+],
 "acai": []
 }
 },
@@ -322,7 +337,7 @@
 "index_reference": "redimir",
 "language": "por",
 "review_level": "None",
-"content": "<p>A Bíblia usa palavras terrenas para falar sobre coisas celestiais. Palavras terrenas e coisas celestiais não se encaixam perfeitamente, mas elas nos dão uma imagem útil de Deus e do que Deus faz.</p><p>A Bíblia tem várias maneiras úteis de falar sobre como Deus <b>redime</b>, ou liberta, seu povo.</p><p>Os <a href=\"#t126\">escravos</a> devem servir seus senhores. As pessoas que têm dívidas devem pagar suas dívidas. Quando você está redimindo uma pessoa, você está liberando essa pessoa da dívida ou escravidão. Isso poderia envolver pagar a dívida de uma pessoa. A pessoa que é liberta é redimida. Normalmente as pessoas redimem parentes ou outros que elas conhecem. Às vezes uma pessoa gentil que tem dinheiro suficiente pode redimir um estranho do qual ela sente pena.</p><p>Outro exemplo de redenção é o de uma família pobre que deve vender sua terra por alguma razão. Deus havia feito uma regra de que a terra em <a href=\"#t74\">Israel</a> deveria sempre ficar dentro da família. Se uma família era tão pobre que ela tinha que vender uma parte de sua terra, então um parente deve comprá-la dele, se possível. Dessa maneira, a terra ficava na família. Dizemos que o parente “redimiu” a terra. Às vezes um parente não poderia comprar ou redimir a terra. No entanto, Deus havia feito uma regra de que a cada 50 anos — chamado de <a href=\"#t276\">ano do Jubileu</a> — toda a terra tinha que voltar para os proprietários originais! Dessa maneira, Deus garantia que ninguém nunca se tornasse pobre demais.</p><p>A Bíblia usa a imagem de comprar alguém gratuitamente para descrever o que Deus fez pelas pessoas. No Antigo Testamento, Deus libertou o povo de Israel da escravidão no Egito. Deus não pagou nada aos egípcios para libertar os <a href=\"#t259\">israelitas</a>; Deus libertou os israelitas porque Deus é poderoso. Deus descreveu o que ele fez por Israel dizendo que Ele redimiu o povo de Israel.</p><p>No Novo Testamento, aprendemos que Deus nos redimiu, ou nos libertou, da escravidão do <a href=\"#t125\">pecado</a>. A ideia de redenção, ou Deus nos redimindo, nos mostra o que Deus fez. No entanto, devemos lembrar que Deus não pagou nada a ninguém por nós. Deus não precisa pagar algo a alguém; ele é poderoso o suficiente para nos salvar. Mas Deus ofereceu seu filho em nosso lugar, como alguém oferece pagamento, para nos tornar livres da escravidão do pecado e do mal. É como se Deus pagasse um preço muito caro por isso: sua própria vida, a vida de Jesus. Por causa desse preço caro, as pessoas podem ser livres. Deus nos redimiu. Recebemos redenção. Redenção é uma palavra maravilhosa que nos ajuda a entender a Deus e o que Ele fez quando Deus nos redimiu, ou nos tornou livres.</p>",
+"content": "<p>A Bíblia usa palavras terrenas para falar sobre coisas celestiais. Palavras terrenas e coisas celestiais não se encaixam perfeitamente, mas elas nos dão uma imagem útil de Deus e do que Deus faz.</p><p>A Bíblia tem várias maneiras úteis de falar sobre como Deus <b>redime</b>, ou liberta, seu povo.</p><p>Os <b>escravos</b> devem servir seus senhores. As pessoas que têm dívidas devem pagar suas dívidas. Quando você está redimindo uma pessoa, você está liberando essa pessoa da dívida ou escravidão. Isso poderia envolver pagar a dívida de uma pessoa. A pessoa que é liberta é redimida. Normalmente as pessoas redimem parentes ou outros que elas conhecem. Às vezes uma pessoa gentil que tem dinheiro suficiente pode redimir um estranho do qual ela sente pena.</p><p>Outro exemplo de redenção é o de uma família pobre que deve vender sua terra por alguma razão. Deus havia feito uma regra de que a terra em <b>Israel</b> deveria sempre ficar dentro da família. Se uma família era tão pobre que ela tinha que vender uma parte de sua terra, então um parente deve comprá-la dele, se possível. Dessa maneira, a terra ficava na família. Dizemos que o parente “redimiu” a terra. Às vezes um parente não poderia comprar ou redimir a terra. No entanto, Deus havia feito uma regra de que a cada 50 anos — chamado de <b>ano do Jubileu</b> — toda a terra tinha que voltar para os proprietários originais! Dessa maneira, Deus garantia que ninguém nunca se tornasse pobre demais.</p><p>A Bíblia usa a imagem de comprar alguém gratuitamente para descrever o que Deus fez pelas pessoas. No Antigo Testamento, Deus libertou o povo de Israel da escravidão no Egito. Deus não pagou nada aos egípcios para libertar os <b>israelitas</b>; Deus libertou os israelitas porque Deus é poderoso. Deus descreveu o que ele fez por Israel dizendo que Ele redimiu o povo de Israel.</p><p>No Novo Testamento, aprendemos que Deus nos redimiu, ou nos libertou, da escravidão do <b>pecado</b>. A ideia de redenção, ou Deus nos redimindo, nos mostra o que Deus fez. No entanto, devemos lembrar que Deus não pagou nada a ninguém por nós. Deus não precisa pagar algo a alguém; ele é poderoso o suficiente para nos salvar. Mas Deus ofereceu seu filho em nosso lugar, como alguém oferece pagamento, para nos tornar livres da escravidão do pecado e do mal. É como se Deus pagasse um preço muito caro por isso: sua própria vida, a vida de Jesus. Por causa desse preço caro, as pessoas podem ser livres. Deus nos redimiu. Recebemos redenção. Redenção é uma palavra maravilhosa que nos ajuda a entender a Deus e o que Ele fez quando Deus nos redimiu, ou nos tornou livres.</p>",
 "associations": {
 "passage": [
 {
@@ -691,7 +706,7 @@
 "index_reference": "região desabitada",
 "language": "por",
 "review_level": "None",
-"content": "<p>Um <a href=\"#t38\">deserto</a> ou <b>região desabitada</b> é um lugar solitário e estéril, sem água. Quase não há árvores ou arbustos crescendo em um deserto. O chão é seco e rochoso, e há animais selvagens rondando por toda área. As pessoas não vivem no deserto.</p>",
+"content": "<p>Um <data class=\"resource-ref\" data-content-id=\"por-t38-v1\" data-resource-code=\"FIAKeyTerms\">deserto</data> ou <b>região desabitada</b> é um lugar solitário e estéril, sem água. Quase não há árvores ou arbustos crescendo em um deserto. O chão é seco e rochoso, e há animais selvagens rondando por toda área. As pessoas não vivem no deserto.</p>",
 "associations": {
 "passage": [
 {
@@ -1295,7 +1310,15 @@
 "end_ref_usfm": "LUK 4:13"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t38-v1",
+"resource_code": "FIAKeyTerms",
+"label": "deserto",
+"language": "por"
+}
+],
 "acai": [
 {
 "id": "place:Arabah",
@@ -3165,7 +3188,7 @@
 "index_reference": "reino",
 "language": "por",
 "review_level": "None",
-"content": "<p>Um <b>reino</b> é o território ou o povo que um rei <a href=\"#t226\">governa</a>.</p>",
+"content": "<p>Um <b>reino</b> é o território ou o povo que um rei <data class=\"resource-ref\" data-content-id=\"por-t226-v1\" data-resource-code=\"FIAKeyTerms\">governa</data>.</p>",
 "associations": {
 "passage": [
 {
@@ -3655,7 +3678,15 @@
 "end_ref_usfm": "ACT 1:11"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t226-v1",
+"resource_code": "FIAKeyTerms",
+"label": "governa",
+"language": "por"
+}
+],
 "acai": [
 {
 "id": "keyterm:Kingdom",
@@ -4178,7 +4209,7 @@
 "index_reference": "reino de deus",
 "language": "por",
 "review_level": "None",
-"content": "<p>O <b>reino de Deus</b> e o <b>reino dos céus</b> significam a mesma coisa. Uma vez que nos tempos antigos os <a href=\"#t77\">judeus</a> pensavam que era desrespeitoso dizer o nome de Deus, eles às vezes diziam “<a href=\"#t63\">céu</a>” quando queriam dizer Deus.</p><p>Um <a href=\"#t226\">rei</a> é um governante que está no comando de um grupo de pessoas. A terra que está sob a <a href=\"#t8\">autoridade</a> de um rei é chamada de seu <a href=\"#t157\">reino</a>. Mas a palavra reino também pode significar as pessoas que estão sob a autoridade do rei. Quando você diz que um reino é muito grande, isso pode significar que há muitas pessoas no reino, ou pode significar que a terra do rei é muito grande. Mas a palavra reino também se refere ao governo do rei. Quando você diz que o reino de um rei nunca terminará, você quer dizer que esse rei nunca parará de governar. Quando a Bíblia fala sobre o reino de Deus, isso significa especialmente o governo de Deus.</p><p>Deus é o rei sobre o mundo inteiro. Toda a criação é seu reino. No Antigo Testamento, o povo de <a href=\"#t74\">Israel</a> é especialmente chamado de reino de Deus. Havia reis humanos governando sobre Israel, mas eles eram responsáveis perante Deus. Deus era o rei mais alto, o rei dos reis!</p><p>Mas as pessoas no reino de Deus não eram obedientes a Deus — nem mesmo os <a href=\"#t259\">israelitas</a>. Os <a href=\"#t104\">profetas</a>, que davam mensagens de Deus às pessoas, diziam aos israelitas que um dia Deus viria e estabeleceria seu reino para sempre. Quando isso acontecesse, todas as pessoas se submeteriam a Deus e o obedeceriam. Todas as pessoas em todos os lugares, e toda a criação, viveriam em um <a href=\"#t108\">relacionamento</a> certo com Deus. Não haveria mais sofrimento ou <a href=\"#t187\">mal</a>. O povo de Israel esperava e <a href=\"#t102\">orava</a> para que esse reino perfeito viesse.</p><p>Jesus dizia às pessoas que esse reino de Deus estava próximo; isso significa que o governo perfeito de Deus começaria muito em breve. Jesus até disse algumas vezes que o reino de Deus já havia <em>chegado</em>! Os milagres <a href=\"#t93\">maravilhosos</a> que Jesus estava fazendo eram a prova de que Deus já estava governando como rei. Assim que alguém começava a confiar em Jesus, eles “entravam no reino de Deus”! Eles se tornavam o povo de Deus, aceitando Deus como seu rei.</p><p>Mas não podemos ver plenamente ainda que Deus está governando. As pessoas ainda estão ficando doentes, estão cometendo <a href=\"#125\">pecado</a> e estão tendo guerras. <a href=\"#t118\">Satanás</a>, o inimigo de Deus, ainda está tentando destruir a obra de Deus. E ainda há desastres naturais que matam as pessoas.</p><p>Jesus, portanto, também prometeu que mais está vindo. Um dia, Satanás será derrotado para sempre, Jesus voltará à terra, e todos se submeterão ao seu governo. Deus restaurará tudo. O reino perfeito de Deus começará verdadeiramente.</p><p>As pessoas na época de Jesus pensavam que quando o reino de Deus viesse, Israel seria restaurado como uma <a href=\"#t94\">nação</a> política. Jesus explicava como o reino de Deus é diferente do que eles esperavam. Jesus explicava que o reino de Deus tem a ver com pessoas seguindo a Deus como seu rei e obedecendo a Deus. Jesus sabia que isso era difícil de entender — ele até dizia a seus <a href=\"#t39\">discípulos</a> que o reino de Deus era como um mistério.</p><p>Jesus ensinava às pessoas sobre o reino de Deus contando-lhes histórias ou <a href=\"#t98\">parábolas</a>. Ele muitas vezes contava histórias que começavam com “o reino de Deus é como…” Cada uma dessas histórias contava às pessoas um pouco mais sobre como as coisas funcionam no reino de Deus. Muitas vezes isso mostrava às pessoas que no reino de Deus, as coisas podem ser completamente opostas ao que elas esperavam! As coisas que são importantes para as pessoas na terra, como ser rico, ter uma posição alta na sociedade, ou ser poderosa, não eram importantes no reino de Deus. Em vez disso, essas pessoas que eram as mais pobres ou as menos poderosas na terra, seriam as pessoas mais importantes no reino de Deus.</p><p>Muitas das parábolas de Jesus descreviam o reino de Deus como uma festa ou uma refeição. Quando as pessoas comem juntas, elas têm um bom relacionamento entre si, e Jesus queria mostrar que o reino de Deus é sobre ter um bom <a href=\"#t108\">relacionamento</a> com Deus. Se temos um bom relacionamento com Deus permitindo que Jesus seja rei em nossas vidas agora, também viveremos com Deus para sempre em seu reino perfeito que virá um dia.</p><p>Algumas passagens no Novo Testamento falam sobre Deus ser o rei, e algumas passagens falam sobre Jesus ser o rei. Porque Jesus é Deus também, ambos são verdadeiros ao mesmo tempo. O <a href=\"#t6\">apóstolo</a> Paulo em sua carta às pessoas em Corinto diz que Jesus é rei, e que quando Jesus tiver derrotado completamente todos os inimigos, Jesus entregará o reino a Deus.</p><p>Então, em resumo, o reino de Deus não se refere a um lugar físico, como um país em algum lugar desta terra. O reino de Deus refere-se especialmente ao governo de Deus. O reino de Deus está em todos os lugares onde Deus governa, e onde as pessoas estão obedecendo a ele e vivem em um relacionamento certo com ele. Ao mesmo tempo, o reino de Deus ainda não veio completamente. Nem todos se submeteram à vontade de Deus. Um dia, Jesus voltará e reinará sobre o mundo inteiro e a criação no reino perfeito de Deus. No reino perfeito de Deus não haverá mais sofrimento ou mal, e todas as pessoas e toda a criação o obedecerão.</p>",
+"content": "<p>O <b>reino de Deus</b> e o <b>reino dos céus</b> significam a mesma coisa. Uma vez que nos tempos antigos os <data class=\"resource-ref\" data-content-id=\"por-t77-v2\" data-resource-code=\"FIAKeyTerms\">judeus</data> pensavam que era desrespeitoso dizer o nome de Deus, eles às vezes diziam “<data class=\"resource-ref\" data-content-id=\"por-t63-v1\" data-resource-code=\"FIAKeyTerms\">céu</data>” quando queriam dizer Deus.</p><p>Um <data class=\"resource-ref\" data-content-id=\"por-t226-v1\" data-resource-code=\"FIAKeyTerms\">rei</data> é um governante que está no comando de um grupo de pessoas. A terra que está sob a <data class=\"resource-ref\" data-content-id=\"por-t8-v1\" data-resource-code=\"FIAKeyTerms\">autoridade</data> de um rei é chamada de seu <data class=\"resource-ref\" data-content-id=\"por-t157-v1\" data-resource-code=\"FIAKeyTerms\">reino</data>. Mas a palavra reino também pode significar as pessoas que estão sob a autoridade do rei. Quando você diz que um reino é muito grande, isso pode significar que há muitas pessoas no reino, ou pode significar que a terra do rei é muito grande. Mas a palavra reino também se refere ao governo do rei. Quando você diz que o reino de um rei nunca terminará, você quer dizer que esse rei nunca parará de governar. Quando a Bíblia fala sobre o reino de Deus, isso significa especialmente o governo de Deus.</p><p>Deus é o rei sobre o mundo inteiro. Toda a criação é seu reino. No Antigo Testamento, o povo de <data class=\"resource-ref\" data-content-id=\"por-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israel</data> é especialmente chamado de reino de Deus. Havia reis humanos governando sobre Israel, mas eles eram responsáveis perante Deus. Deus era o rei mais alto, o rei dos reis!</p><p>Mas as pessoas no reino de Deus não eram obedientes a Deus — nem mesmo os <data class=\"resource-ref\" data-content-id=\"por-t259-v2\" data-resource-code=\"FIAKeyTerms\">israelitas</data>. Os <data class=\"resource-ref\" data-content-id=\"por-t104-v1\" data-resource-code=\"FIAKeyTerms\">profetas</data>, que davam mensagens de Deus às pessoas, diziam aos israelitas que um dia Deus viria e estabeleceria seu reino para sempre. Quando isso acontecesse, todas as pessoas se submeteriam a Deus e o obedeceriam. Todas as pessoas em todos os lugares, e toda a criação, viveriam em um relacionamento certo com Deus. Não haveria mais sofrimento ou <data class=\"resource-ref\" data-content-id=\"por-t187-v1\" data-resource-code=\"FIAKeyTerms\">mal</data>. O povo de Israel esperava e <data class=\"resource-ref\" data-content-id=\"por-t102-v1\" data-resource-code=\"FIAKeyTerms\">orava</data> para que esse reino perfeito viesse.</p><p>Jesus dizia às pessoas que esse reino de Deus estava próximo; isso significa que o governo perfeito de Deus começaria muito em breve. Jesus até disse algumas vezes que o reino de Deus já havia <em>chegado</em>! Os milagres <data class=\"resource-ref\" data-content-id=\"por-t93-v1\" data-resource-code=\"FIAKeyTerms\">maravilhosos</data> que Jesus estava fazendo eram a prova de que Deus já estava governando como rei. Assim que alguém começava a confiar em Jesus, eles “entravam no reino de Deus”! Eles se tornavam o povo de Deus, aceitando Deus como seu rei.</p><p>Mas não podemos ver plenamente ainda que Deus está governando. As pessoas ainda estão ficando doentes, estão cometendo <data class=\"resource-ref\" data-content-id=\"por-t125-v1\" data-resource-code=\"FIAKeyTerms\">pecado</data> e estão tendo guerras. <data class=\"resource-ref\" data-content-id=\"por-t118-v1\" data-resource-code=\"FIAKeyTerms\">Satanás</data>, o inimigo de Deus, ainda está tentando destruir a obra de Deus. E ainda há desastres naturais que matam as pessoas.</p><p>Jesus, portanto, também prometeu que mais está vindo. Um dia, Satanás será derrotado para sempre, Jesus voltará à terra, e todos se submeterão ao seu governo. Deus restaurará tudo. O reino perfeito de Deus começará verdadeiramente.</p><p>As pessoas na época de Jesus pensavam que quando o reino de Deus viesse, Israel seria restaurado como uma <data class=\"resource-ref\" data-content-id=\"por-t94-v1\" data-resource-code=\"FIAKeyTerms\">nação</data> política. Jesus explicava como o reino de Deus é diferente do que eles esperavam. Jesus explicava que o reino de Deus tem a ver com pessoas seguindo a Deus como seu rei e obedecendo a Deus. Jesus sabia que isso era difícil de entender — ele até dizia a seus <data class=\"resource-ref\" data-content-id=\"por-t39-v1\" data-resource-code=\"FIAKeyTerms\">discípulos</data> que o reino de Deus era como um mistério.</p><p>Jesus ensinava às pessoas sobre o reino de Deus contando-lhes histórias ou <data class=\"resource-ref\" data-content-id=\"por-t98-v1\" data-resource-code=\"FIAKeyTerms\">parábolas</data>. Ele muitas vezes contava histórias que começavam com “o reino de Deus é como…” Cada uma dessas histórias contava às pessoas um pouco mais sobre como as coisas funcionam no reino de Deus. Muitas vezes isso mostrava às pessoas que no reino de Deus, as coisas podem ser completamente opostas ao que elas esperavam! As coisas que são importantes para as pessoas na terra, como ser rico, ter uma posição alta na sociedade, ou ser poderosa, não eram importantes no reino de Deus. Em vez disso, essas pessoas que eram as mais pobres ou as menos poderosas na terra, seriam as pessoas mais importantes no reino de Deus.</p><p>Muitas das parábolas de Jesus descreviam o reino de Deus como uma festa ou uma refeição. Quando as pessoas comem juntas, elas têm um bom relacionamento entre si, e Jesus queria mostrar que o reino de Deus é sobre ter um bom relacionamento com Deus. Se temos um bom relacionamento com Deus permitindo que Jesus seja rei em nossas vidas agora, também viveremos com Deus para sempre em seu reino perfeito que virá um dia.</p><p>Algumas passagens no Novo Testamento falam sobre Deus ser o rei, e algumas passagens falam sobre Jesus ser o rei. Porque Jesus é Deus também, ambos são verdadeiros ao mesmo tempo. O <data class=\"resource-ref\" data-content-id=\"por-t6-v1\" data-resource-code=\"FIAKeyTerms\">apóstolo</data> Paulo em sua carta às pessoas em Corinto diz que Jesus é rei, e que quando Jesus tiver derrotado completamente todos os inimigos, Jesus entregará o reino a Deus.</p><p>Então, em resumo, o reino de Deus não se refere a um lugar físico, como um país em algum lugar desta terra. O reino de Deus refere-se especialmente ao governo de Deus. O reino de Deus está em todos os lugares onde Deus governa, e onde as pessoas estão obedecendo a ele e vivem em um relacionamento certo com ele. Ao mesmo tempo, o reino de Deus ainda não veio completamente. Nem todos se submeteram à vontade de Deus. Um dia, Jesus voltará e reinará sobre o mundo inteiro e a criação no reino perfeito de Deus. No reino perfeito de Deus não haverá mais sofrimento ou mal, e todas as pessoas e toda a criação o obedecerão.</p>",
 "associations": {
 "passage": [
 {
@@ -4674,7 +4705,127 @@
 "end_ref_usfm": "JAS 2:7"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t77-v2",
+"resource_code": "FIAKeyTerms",
+"label": "judeus",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t63-v1",
+"resource_code": "FIAKeyTerms",
+"label": "céu",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t226-v1",
+"resource_code": "FIAKeyTerms",
+"label": "rei",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t8-v1",
+"resource_code": "FIAKeyTerms",
+"label": "autoridade",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t157-v1",
+"resource_code": "FIAKeyTerms",
+"label": "reino",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israel",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t259-v2",
+"resource_code": "FIAKeyTerms",
+"label": "israelitas",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t104-v1",
+"resource_code": "FIAKeyTerms",
+"label": "profetas",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t187-v1",
+"resource_code": "FIAKeyTerms",
+"label": "mal",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t102-v1",
+"resource_code": "FIAKeyTerms",
+"label": "orava",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t93-v1",
+"resource_code": "FIAKeyTerms",
+"label": "maravilhosos",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t125-v1",
+"resource_code": "FIAKeyTerms",
+"label": "pecado",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t118-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Satanás",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t94-v1",
+"resource_code": "FIAKeyTerms",
+"label": "nação",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t39-v1",
+"resource_code": "FIAKeyTerms",
+"label": "discípulos",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t98-v1",
+"resource_code": "FIAKeyTerms",
+"label": "parábolas",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t6-v1",
+"resource_code": "FIAKeyTerms",
+"label": "apóstolo",
+"language": "por"
+}
+],
 "acai": []
 }
 },
@@ -5195,7 +5346,7 @@
 "index_reference": "resgate",
 "language": "por",
 "review_level": "None",
-"content": "<p>Quando alguém é um prisioneiro, ou um <a href=\"#t126\">escravo</a>, outra pessoa pode comprar a liberdade dessa pessoa. O dinheiro que a pessoa paga para libertar o prisioneiro ou o escravo é chamado de <b>resgate</b>.</p><p>A Bíblia diz que Jesus deu sua vida como um resgate pelas pessoas. Isso significa que as pessoas são como prisioneiras ou escravas, e que Jesus pagou algo para libertar as pessoas. Jesus não comprou a liberdade das pessoas com dinheiro, mas com sua própria vida, que é muito mais preciosa. A morte de Jesus era o preço que Jesus pagou para libertar as pessoas do <a href=\"#t125\">pecado</a>, vergonha e morte.</p>",
+"content": "<p>Quando alguém é um prisioneiro, ou um <data class=\"resource-ref\" data-content-id=\"por-t126-v2\" data-resource-code=\"FIAKeyTerms\">escravo</data>, outra pessoa pode comprar a liberdade dessa pessoa. O dinheiro que a pessoa paga para libertar o prisioneiro ou o escravo é chamado de <b>resgate</b>.</p><p>A Bíblia diz que Jesus deu sua vida como um resgate pelas pessoas. Isso significa que as pessoas são como prisioneiras ou escravas, e que Jesus pagou algo para libertar as pessoas. Jesus não comprou a liberdade das pessoas com dinheiro, mas com sua própria vida, que é muito mais preciosa. A morte de Jesus era o preço que Jesus pagou para libertar as pessoas do <data class=\"resource-ref\" data-content-id=\"por-t125-v1\" data-resource-code=\"FIAKeyTerms\">pecado</data>, vergonha e morte.</p>",
 "associations": {
 "passage": [
 {
@@ -5253,7 +5404,22 @@
 "end_ref_usfm": "1TI 2:7"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t126-v2",
+"resource_code": "FIAKeyTerms",
+"label": "escravo",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t125-v1",
+"resource_code": "FIAKeyTerms",
+"label": "pecado",
+"language": "por"
+}
+],
 "acai": []
 }
 },
@@ -5336,7 +5502,7 @@
 "index_reference": "ressurreição",
 "language": "por",
 "review_level": "None",
-"content": "<p>Depois que Jesus morreu, ele se tornou vivo novamente depois de três dias. Dizemos que ele foi <b>ressuscitado</b>. O evento no qual Jesus se tornou vivo novamente é chamado de <b>ressurreição</b>. Jesus se tornou vivo novamente como uma pessoa inteira — com um corpo! Ele não era apenas um <a href=\"#t132\">espírito</a>, porque as pessoas podiam tocar Jesus. Jesus também comeu com seus <a href=\"#t39\">discípulos</a>.</p><p>Quando Jesus voltar para governar como <a href=\"#t226\">rei</a> para sempre, as pessoas a quem Deus aceitou se tornarão vivas novamente e receberão um novo corpo — um corpo que nunca morrerá novamente! Esse evento é chamado de ressurreição dos <a href=\"#t12\">crentes</a>. Porque Jesus se tornou vivo novamente, podemos ter certeza de que Deus também nos tornará vivos novamente.</p>",
+"content": "<p>Depois que Jesus morreu, ele se tornou vivo novamente depois de três dias. Dizemos que ele foi <b>ressuscitado</b>. O evento no qual Jesus se tornou vivo novamente é chamado de <b>ressurreição</b>. Jesus se tornou vivo novamente como uma pessoa inteira — com um corpo! Ele não era apenas um <data class=\"resource-ref\" data-content-id=\"por-t132-v1\" data-resource-code=\"FIAKeyTerms\">espírito</data>, porque as pessoas podiam tocar Jesus. Jesus também comeu com seus <data class=\"resource-ref\" data-content-id=\"por-t39-v1\" data-resource-code=\"FIAKeyTerms\">discípulos</data>.</p><p>Quando Jesus voltar para governar como <data class=\"resource-ref\" data-content-id=\"por-t226-v1\" data-resource-code=\"FIAKeyTerms\">rei</data> para sempre, as pessoas a quem Deus aceitou se tornarão vivas novamente e receberão um novo corpo — um corpo que nunca morrerá novamente! Esse evento é chamado de ressurreição dos <data class=\"resource-ref\" data-content-id=\"por-t12-v1\" data-resource-code=\"FIAKeyTerms\">crentes</data>. Porque Jesus se tornou vivo novamente, podemos ter certeza de que Deus também nos tornará vivos novamente.</p>",
 "associations": {
 "passage": [
 {
@@ -5472,7 +5638,36 @@
 "end_ref_usfm": "2TI 2:19"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t132-v1",
+"resource_code": "FIAKeyTerms",
+"label": "espírito",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t39-v1",
+"resource_code": "FIAKeyTerms",
+"label": "discípulos",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t226-v1",
+"resource_code": "FIAKeyTerms",
+"label": "rei",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t12-v1",
+"resource_code": "FIAKeyTerms",
+"label": "crentes",
+"language": "por"
+}
+],
 "acai": [
 {
 "id": "keyterm:Resurrection",
@@ -5641,7 +5836,7 @@
 "index_reference": "retidão",
 "language": "por",
 "review_level": "None",
-"content": "<p>Alguém que é <b>reto</b> (ou justo) está se comportando da maneira certa. Deus é reto, porque tudo o que Deus faz é certo e bom.</p><p>Deus quer que todas as pessoas sejam justas. Apenas uma pessoa justa pode ter um bom <a href=\"#t108\">relacionamento</a> com Deus.</p><p>A pessoa que quer obedecer a Deus e quer fazer as coisas que agradam a Deus é justa, mesmo que ela ainda possa cometer erros e desobedecer a Deus sem intenção. Uma pessoa justa fica triste quando ela descobre que ela desobedeceu a Deus, e ela se <a href=\"#t109\">arrepende</a>. Uma pessoa injusta, por outro lado, continua fazendo coisas más, e não <a href=\"#t11\">acredita</a> ou se importa que Deus possa ficar zangado ou puni-lo.</p><p>Quando <a href=\"#t1\">Abraão</a> acreditou na promessa que Deus lhe deu que Abraão teria muitos <a href=\"#t234\">descendentes</a>, Deus considerou Abraão justo (ou reto). Abraão não era justo porque ele havia feito uma coisa boa, mas simplesmente porque ele confiava em Deus.</p><p>Esse mesmo tipo de justiça está disponível para as pessoas que acreditam em Jesus. Quando as pessoas confiam em Jesus, Deus lhes dá o dom da justiça. Quando você acredita que você pode ter um relacionamento certo com Deus por causa do que Jesus fez por você, Deus declara que você é justo.</p><p><strong>Quando você estiver traduzindo “retidão”, tenha cuidado com as seguintes coisas:</strong></p><p>Você pode descrever a retidão como estar em um relacionamento certo com Deus, sendo certo aos olhos de Deus, ou sendo aceito por Deus. Ou você pode descrever a justiça como sendo irrepreensível ou inocente, ou sendo irrepreensível, ou inocente aos olhos de Deus.</p><p>Seu idioma pode ter palavras especiais que descrevem a ideia de retidão (ou justiça), como “ter um coração reto”, “ser reto”, “andar no caminho de Deus”, ou outras coisas como essa.</p><div data-type=\"callout\" data-callout-style=\"action\"><p>Você pode pedir às pessoas no grupo que encenem em pares, sem usar a palavra reto, o que a retidão significa. Depois, discuta o que você viu e fale sobre se os dramas estavam explicando com precisão o que a retidão significa na Bíblia. Essa atividade pode ajudá-lo a encontrar uma maneira de explicar a retidão em sua tradução.</p></div>",
+"content": "<p>Alguém que é <b>reto</b> (ou justo) está se comportando da maneira certa. Deus é reto, porque tudo o que Deus faz é certo e bom.</p><p>Deus quer que todas as pessoas sejam justas. Apenas uma pessoa justa pode ter um bom relacionamento com Deus.</p><p>A pessoa que quer obedecer a Deus e quer fazer as coisas que agradam a Deus é justa, mesmo que ela ainda possa cometer erros e desobedecer a Deus sem intenção. Uma pessoa justa fica triste quando ela descobre que ela desobedeceu a Deus, e ela se <data class=\"resource-ref\" data-content-id=\"por-t109-v1\" data-resource-code=\"FIAKeyTerms\">arrepende</data>. Uma pessoa injusta, por outro lado, continua fazendo coisas más, e não <data class=\"resource-ref\" data-content-id=\"por-t11-v1\" data-resource-code=\"FIAKeyTerms\">acredita</data> ou se importa que Deus possa ficar zangado ou puni-lo.</p><p>Quando <data class=\"resource-ref\" data-content-id=\"por-t1-v1\" data-resource-code=\"FIAKeyTerms\">Abraão</data> acreditou na promessa que Deus lhe deu que Abraão teria muitos <data class=\"resource-ref\" data-content-id=\"por-t234-v1\" data-resource-code=\"FIAKeyTerms\">descendentes</data>, Deus considerou Abraão justo (ou reto). Abraão não era justo porque ele havia feito uma coisa boa, mas simplesmente porque ele confiava em Deus.</p><p>Esse mesmo tipo de justiça está disponível para as pessoas que acreditam em Jesus. Quando as pessoas confiam em Jesus, Deus lhes dá o dom da justiça. Quando você acredita que você pode ter um relacionamento certo com Deus por causa do que Jesus fez por você, Deus declara que você é justo.</p><p><strong>Quando você estiver traduzindo “retidão”, tenha cuidado com as seguintes coisas:</strong></p><p>Você pode descrever a retidão como estar em um relacionamento certo com Deus, sendo certo aos olhos de Deus, ou sendo aceito por Deus. Ou você pode descrever a justiça como sendo irrepreensível ou inocente, ou sendo irrepreensível, ou inocente aos olhos de Deus.</p><p>Seu idioma pode ter palavras especiais que descrevem a ideia de retidão (ou justiça), como “ter um coração reto”, “ser reto”, “andar no caminho de Deus”, ou outras coisas como essa.</p><div data-type=\"callout\" data-callout-style=\"action\"><p>Você pode pedir às pessoas no grupo que encenem em pares, sem usar a palavra reto, o que a retidão significa. Depois, discuta o que você viu e fale sobre se os dramas estavam explicando com precisão o que a retidão significa na Bíblia. Essa atividade pode ajudá-lo a encontrar uma maneira de explicar a retidão em sua tradução.</p></div>",
 "associations": {
 "passage": [
 {
@@ -6203,7 +6398,36 @@
 "end_ref_usfm": "1JN 5:21"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t109-v1",
+"resource_code": "FIAKeyTerms",
+"label": "arrepende",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t11-v1",
+"resource_code": "FIAKeyTerms",
+"label": "acredita",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t1-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Abraão",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t234-v1",
+"resource_code": "FIAKeyTerms",
+"label": "descendentes",
+"language": "por"
+}
+],
 "acai": [
 {
 "id": "keyterm:UnjustDeed",
@@ -6798,7 +7022,7 @@
 "index_reference": "rio jordão",
 "language": "por",
 "review_level": "None",
-"content": "<p>O <b>Rio Jordão</b> é um longo rio que corre por <a href=\"#t74\">Israel</a> do norte ao sul. Durante a estação chuvosa, o rio é bastante largo e profundo. Em outros momentos do ano, o rio é menor, e uma pessoa pode atravessar o rio caminhando ou nadando pela água. Em dois lugares, o rio passa por um grande lago: primeiro o Lago — ou mar — da Galileia, e mais adiante o Mar Morto. O <a href=\"#t121\">Lago da Galileia</a> tem água doce e há muitos peixes no lago; mas o Mar Morto tem água salgada, e a água é tão salgada que nenhum peixe pode viver nela. O Rio Jordão para (ou morre) no Mar Morto.</p><p>O Rio Jordão era muito importante para os <a href=\"#t77\">judeus</a>. Era importante porque o povo precisava da água do rio, mas também porque quando os <a href=\"#t259\">israelitas</a> haviam entrado pela primeira vez na terra, eles tinham que atravessar esse Rio Jordão. Era o tempo das chuvas, e o rio era muito profundo e largo no momento. Mas Deus fez um <a href=\"#t93\">milagre</a> e parou a água no rio, e o povo de Israel pôde andar com segurança pelo fundo do rio para o outro lado.</p><div data-type=\"callout\" data-callout-style=\"action\"><p>Você pode querer primeiro procurar o Rio Jordão no dicionário bíblico em vídeo.</p></div>",
+"content": "<p>O <b>Rio Jordão</b> é um longo rio que corre por <data class=\"resource-ref\" data-content-id=\"por-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israel</data> do norte ao sul. Durante a estação chuvosa, o rio é bastante largo e profundo. Em outros momentos do ano, o rio é menor, e uma pessoa pode atravessar o rio caminhando ou nadando pela água. Em dois lugares, o rio passa por um grande lago: primeiro o Lago — ou mar — da Galileia, e mais adiante o Mar Morto. O <data class=\"resource-ref\" data-content-id=\"por-t121-v1\" data-resource-code=\"FIAKeyTerms\">Lago da Galileia</data> tem água doce e há muitos peixes no lago; mas o Mar Morto tem água salgada, e a água é tão salgada que nenhum peixe pode viver nela. O Rio Jordão para (ou morre) no Mar Morto.</p><p>O Rio Jordão era muito importante para os <data class=\"resource-ref\" data-content-id=\"por-t77-v2\" data-resource-code=\"FIAKeyTerms\">judeus</data>. Era importante porque o povo precisava da água do rio, mas também porque quando os <data class=\"resource-ref\" data-content-id=\"por-t259-v2\" data-resource-code=\"FIAKeyTerms\">israelitas</data> haviam entrado pela primeira vez na terra, eles tinham que atravessar esse Rio Jordão. Era o tempo das chuvas, e o rio era muito profundo e largo no momento. Mas Deus fez um <data class=\"resource-ref\" data-content-id=\"por-t93-v1\" data-resource-code=\"FIAKeyTerms\">milagre</data> e parou a água no rio, e o povo de Israel pôde andar com segurança pelo fundo do rio para o outro lado.</p><div data-type=\"callout\" data-callout-style=\"action\"><p>Você pode querer primeiro procurar o Rio Jordão no dicionário bíblico em vídeo.</p></div>",
 "associations": {
 "passage": [
 {
@@ -7138,7 +7362,43 @@
 "end_ref_usfm": "JHN 10:42"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israel",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t121-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Lago da Galileia",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t77-v2",
+"resource_code": "FIAKeyTerms",
+"label": "judeus",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t259-v2",
+"resource_code": "FIAKeyTerms",
+"label": "israelitas",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t93-v1",
+"resource_code": "FIAKeyTerms",
+"label": "milagre",
+"language": "por"
+}
+],
 "acai": [
 {
 "id": "place:Jordan",

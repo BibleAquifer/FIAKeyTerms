@@ -8,7 +8,7 @@
 "index_reference": "abba",
 "language": "por",
 "review_level": "None",
-"content": "<p><b>Abba</b> é a palavra aramaica para “pai”. O aramaico era o idioma que as pessoas em <a href=\"#t74\">Israel</a> falavam na época de Jesus. Jesus chama Deus de “abba” quando ele <a href=\"#t102\">ora</a> a Deus pouco antes de ele ser preso e então <a href=\"#t169\">crucificado</a>. Paulo mais tarde escreveu em suas cartas que o <a href=\"#t68\">Espírito Santo</a> nos faz dizer “abba, pai!” para Deus. Isso significa que, por causa do Espírito Santo, podemos ter o mesmo relacionamento íntimo com Deus que uma criança tem com seu pai — assim como Jesus tinha.</p>",
+"content": "<p><b>Abba</b> é a palavra aramaica para “pai”. O aramaico era o idioma que as pessoas em <data class=\"resource-ref\" data-content-id=\"por-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israel</data> falavam na época de Jesus. Jesus chama Deus de “abba” quando ele <data class=\"resource-ref\" data-content-id=\"por-t102-v1\" data-resource-code=\"FIAKeyTerms\">ora</data> a Deus pouco antes de ele ser preso e então <data class=\"resource-ref\" data-content-id=\"por-t169-v1\" data-resource-code=\"FIAKeyTerms\">crucificado</data>. Paulo mais tarde escreveu em suas cartas que o <data class=\"resource-ref\" data-content-id=\"por-t68-v1\" data-resource-code=\"FIAKeyTerms\">Espírito Santo</data> nos faz dizer “abba, pai!” para Deus. Isso significa que, por causa do Espírito Santo, podemos ter o mesmo relacionamento íntimo com Deus que uma criança tem com seu pai — assim como Jesus tinha.</p>",
 "associations": {
 "passage": [
 {
@@ -24,7 +24,36 @@
 "end_ref_usfm": "GAL 4:7"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israel",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t102-v1",
+"resource_code": "FIAKeyTerms",
+"label": "ora",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t169-v1",
+"resource_code": "FIAKeyTerms",
+"label": "crucificado",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t68-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Espírito Santo",
+"language": "por"
+}
+],
 "acai": []
 }
 },
@@ -65,7 +94,7 @@
 "index_reference": "abençoar",
 "language": "por",
 "review_level": "None",
-"content": "<p>Quando Deus <b>abençoa</b> uma pessoa, Deus está fazendo, ou prometendo fazer, algo bom para essa pessoa.</p><p>Quando um humano fala uma <b>bênção</b> sobre outra pessoa, ele está <a href=\"#t102\">orando</a> para que Deus faça coisas boas para essa outra pessoa.</p><p>Quando as pessoas estão abençoando Deus, significa que elas estão <a href=\"#t149\">adorando</a> a Deus e agradecendo-o por sua bondade e suas bênçãos.</p><p>Quando as pessoas estão abençoando algo — por exemplo, comida — isso significa que elas estão agradecendo a Deus por isso.</p><p>Quando você chama alguém de <b>abençoado</b>, você quer dizer que outras pessoas podem parabenizar essa pessoa. Outras pessoas podem estar felizes por essas pessoas, porque Deus as abençoou.</p><p>O oposto de uma bênção é uma <a href=\"#t31\">maldição</a>. Por meio de Moisés, Deus disse aos <a href=\"#t259\">israelitas</a> que, se eles obedecessem aos mandamentos de Deus, Deus os abençoaria. Mas se eles desobedecessem a Deus, Deus os amaldiçoaria. Deus não protegerá essas pessoas que são amaldiçoadas, e as pessoas que são amaldiçoadas não estarão em um bom <a href=\"#t108\">relacionamento</a> com Deus.</p>",
+"content": "<p>Quando Deus <b>abençoa</b> uma pessoa, Deus está fazendo, ou prometendo fazer, algo bom para essa pessoa.</p><p>Quando um humano fala uma <b>bênção</b> sobre outra pessoa, ele está <data class=\"resource-ref\" data-content-id=\"por-t102-v1\" data-resource-code=\"FIAKeyTerms\">orando</data> para que Deus faça coisas boas para essa outra pessoa.</p><p>Quando as pessoas estão abençoando Deus, significa que elas estão <data class=\"resource-ref\" data-content-id=\"por-t149-v1\" data-resource-code=\"FIAKeyTerms\">adorando</data> a Deus e agradecendo-o por sua bondade e suas bênçãos.</p><p>Quando as pessoas estão abençoando algo — por exemplo, comida — isso significa que elas estão agradecendo a Deus por isso.</p><p>Quando você chama alguém de <b>abençoado</b>, você quer dizer que outras pessoas podem parabenizar essa pessoa. Outras pessoas podem estar felizes por essas pessoas, porque Deus as abençoou.</p><p>O oposto de uma bênção é uma <data class=\"resource-ref\" data-content-id=\"por-t31-v1\" data-resource-code=\"FIAKeyTerms\">maldição</data>. Por meio de Moisés, Deus disse aos <data class=\"resource-ref\" data-content-id=\"por-t259-v2\" data-resource-code=\"FIAKeyTerms\">israelitas</data> que, se eles obedecessem aos mandamentos de Deus, Deus os abençoaria. Mas se eles desobedecessem a Deus, Deus os amaldiçoaria. Deus não protegerá essas pessoas que são amaldiçoadas, e as pessoas que são amaldiçoadas não estarão em um bom relacionamento com Deus.</p>",
 "associations": {
 "passage": [
 {
@@ -669,7 +698,36 @@
 "end_ref_usfm": "2CH 30:27"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t102-v1",
+"resource_code": "FIAKeyTerms",
+"label": "orando",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t149-v1",
+"resource_code": "FIAKeyTerms",
+"label": "adorando",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t31-v1",
+"resource_code": "FIAKeyTerms",
+"label": "maldição",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t259-v2",
+"resource_code": "FIAKeyTerms",
+"label": "israelitas",
+"language": "por"
+}
+],
 "acai": [
 {
 "id": "keyterm:Bless",
@@ -1306,7 +1364,7 @@
 "index_reference": "abraão",
 "language": "por",
 "review_level": "None",
-"content": "<p><b>Abraão</b> foi o primeiro ancestral dos <a href=\"#t259\">israelitas</a>, os <a href=\"#t77\">judeus</a>. O nome de Abraão havia sido Abrão, mas Deus mais tarde mudou seu nome para Abraão. Abraão significa “o pai de muitas nações”.</p><p>Abraão viveu cerca de dois mil anos antes do nascimento de Jesus. Ele viveu primeiro em uma região chamada Ur, que ficava em algum lugar a leste de <a href=\"#t74\">Israel</a>. Tera, pai de Abraão, levou seus filhos e suas esposas com ele e deixou Ur, porque ele queria ir para um país chamado <a href=\"#t178\">Canaã</a>, mas ele parou em um lugar chamado Harã. Isso ainda era muito longe de Canaã. A família começou a viver lá, e depois de algum tempo, o pai de Abraão morreu. Abraão e sua família não conheciam a Deus; eles <a href=\"#t149\">adoravam</a> <a href=\"#t72\">ídolos</a>.</p><p>Quando Abraão tinha 75 anos de idade, Deus falou com ele. Deus lhe disse para deixar para trás sua terra natal, e para ir a um lugar que Deus lhe mostraria. Deus disse que ele <a href=\"#t16\">abençoaria</a> Abraão, que ele faria uma grande <a href=\"#t94\">nação</a> dele, e que Deus abençoaria todas as nações do mundo por meio de Abraão. E Abraão obedeceu a Deus! Juntamente com sua esposa Sara e seu sobrinho Ló, ele partiu em uma longa jornada. Quando ele veio para Canaã, Deus lhe disse que essa era a terra que ele daria a Abraão e seus <a href=\"#t234\">descendentes</a>.</p><p>No entanto, Abraão ainda não tinha nenhum descendente. Ele não tinha filhos, e ele já era um homem velho! Mas ele <a href=\"#t11\">acreditou</a> na promessa de Deus. E Deus ficou muito satisfeito com a confiança de Abraão, e, portanto, ele aceitou Abraão como alguém com quem Deus poderia ter um bom relacionamento.</p><p>Mas Abraão ainda teve que esperar por um longo tempo antes que Deus lhe desse quaisquer descendentes. Ele teve que esperar mais 25 anos, e durante esse tempo ele cometeu vários erros e às vezes esqueceu de confiar em Deus. Mas, eventualmente, quando Abraão tinha 100 anos de idade e sua esposa Sara, 90 anos de idade, Sara deu à luz um filho. Naquela ocasião, Abraão e Sara ficaram muito felizes! E eles chamaram seu filho de “Isaque”, que significa riso.</p><p>Então, depois de alguns anos, Deus deu a Abraão um teste muito difícil. Deus disse a Abraão que ele tinha que sacrificar seu filho Isaque. Ele tinha que matar Isaque, e queimá-lo como uma oferta para Deus! Mas agora Abraão havia realmente aprendido a confiar em Deus, e ele obedeceu. E quando Abraão já havia levantado sua faca para matar seu filho, Deus o parou e o elogiou! E Deus disse que, como Abraão havia mostrado que realmente confiava em Deus e o havia obedecido, agora a bênção que Deus havia prometido dar a Abraão continuaria também para Isaque e as gerações futuras de Abraão. Por meio dos descendentes de Abraão, todas as pessoas do mundo seriam abençoadas!</p><p>E assim, Isaque cresceu e teve dois filhos. O filho mais novo era Jacó. O nome de Jacó foi mais tarde mudado para Israel. Jacó, ou Israel, teve 12 filhos. Os descendentes desses 12 filhos se tornaram as 12 tribos de Israel. Eles se tornaram uma grande nação. E um de seus descendentes era Jesus! E, por meio de Jesus, todas as pessoas do mundo são abençoadas. Deus cumpriu sua promessa a Abraão!</p>",
+"content": "<p><b>Abraão</b> foi o primeiro ancestral dos <data class=\"resource-ref\" data-content-id=\"por-t259-v2\" data-resource-code=\"FIAKeyTerms\">israelitas</data>, os <data class=\"resource-ref\" data-content-id=\"por-t77-v2\" data-resource-code=\"FIAKeyTerms\">judeus</data>. O nome de Abraão havia sido Abrão, mas Deus mais tarde mudou seu nome para Abraão. Abraão significa “o pai de muitas nações”.</p><p>Abraão viveu cerca de dois mil anos antes do nascimento de Jesus. Ele viveu primeiro em uma região chamada Ur, que ficava em algum lugar a leste de <data class=\"resource-ref\" data-content-id=\"por-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israel</data>. Tera, pai de Abraão, levou seus filhos e suas esposas com ele e deixou Ur, porque ele queria ir para um país chamado <data class=\"resource-ref\" data-content-id=\"por-t178-v1\" data-resource-code=\"FIAKeyTerms\">Canaã</data>, mas ele parou em um lugar chamado Harã. Isso ainda era muito longe de Canaã. A família começou a viver lá, e depois de algum tempo, o pai de Abraão morreu. Abraão e sua família não conheciam a Deus; eles <data class=\"resource-ref\" data-content-id=\"por-t149-v1\" data-resource-code=\"FIAKeyTerms\">adoravam</data> <data class=\"resource-ref\" data-content-id=\"por-t72-v1\" data-resource-code=\"FIAKeyTerms\">ídolos</data>.</p><p>Quando Abraão tinha 75 anos de idade, Deus falou com ele. Deus lhe disse para deixar para trás sua terra natal, e para ir a um lugar que Deus lhe mostraria. Deus disse que ele <data class=\"resource-ref\" data-content-id=\"por-t16-v1\" data-resource-code=\"FIAKeyTerms\">abençoaria</data> Abraão, que ele faria uma grande <data class=\"resource-ref\" data-content-id=\"por-t94-v1\" data-resource-code=\"FIAKeyTerms\">nação</data> dele, e que Deus abençoaria todas as nações do mundo por meio de Abraão. E Abraão obedeceu a Deus! Juntamente com sua esposa Sara e seu sobrinho Ló, ele partiu em uma longa jornada. Quando ele veio para Canaã, Deus lhe disse que essa era a terra que ele daria a Abraão e seus <data class=\"resource-ref\" data-content-id=\"por-t234-v1\" data-resource-code=\"FIAKeyTerms\">descendentes</data>.</p><p>No entanto, Abraão ainda não tinha nenhum descendente. Ele não tinha filhos, e ele já era um homem velho! Mas ele <data class=\"resource-ref\" data-content-id=\"por-t11-v1\" data-resource-code=\"FIAKeyTerms\">acreditou</data> na promessa de Deus. E Deus ficou muito satisfeito com a confiança de Abraão, e, portanto, ele aceitou Abraão como alguém com quem Deus poderia ter um bom relacionamento.</p><p>Mas Abraão ainda teve que esperar por um longo tempo antes que Deus lhe desse quaisquer descendentes. Ele teve que esperar mais 25 anos, e durante esse tempo ele cometeu vários erros e às vezes esqueceu de confiar em Deus. Mas, eventualmente, quando Abraão tinha 100 anos de idade e sua esposa Sara, 90 anos de idade, Sara deu à luz um filho. Naquela ocasião, Abraão e Sara ficaram muito felizes! E eles chamaram seu filho de “Isaque”, que significa riso.</p><p>Então, depois de alguns anos, Deus deu a Abraão um teste muito difícil. Deus disse a Abraão que ele tinha que sacrificar seu filho Isaque. Ele tinha que matar Isaque, e queimá-lo como uma oferta para Deus! Mas agora Abraão havia realmente aprendido a confiar em Deus, e ele obedeceu. E quando Abraão já havia levantado sua faca para matar seu filho, Deus o parou e o elogiou! E Deus disse que, como Abraão havia mostrado que realmente confiava em Deus e o havia obedecido, agora a bênção que Deus havia prometido dar a Abraão continuaria também para Isaque e as gerações futuras de Abraão. Por meio dos descendentes de Abraão, todas as pessoas do mundo seriam abençoadas!</p><p>E assim, Isaque cresceu e teve dois filhos. O filho mais novo era Jacó. O nome de Jacó foi mais tarde mudado para Israel. Jacó, ou Israel, teve 12 filhos. Os descendentes desses 12 filhos se tornaram as 12 tribos de Israel. Eles se tornaram uma grande nação. E um de seus descendentes era Jesus! E, por meio de Jesus, todas as pessoas do mundo são abençoadas. Deus cumpriu sua promessa a Abraão!</p>",
 "associations": {
 "passage": [
 {
@@ -1496,7 +1554,78 @@
 "end_ref_usfm": "JAS 2:26"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t259-v2",
+"resource_code": "FIAKeyTerms",
+"label": "israelitas",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t77-v2",
+"resource_code": "FIAKeyTerms",
+"label": "judeus",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israel",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t178-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Canaã",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t149-v1",
+"resource_code": "FIAKeyTerms",
+"label": "adoravam",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t72-v1",
+"resource_code": "FIAKeyTerms",
+"label": "ídolos",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t16-v1",
+"resource_code": "FIAKeyTerms",
+"label": "abençoaria",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t94-v1",
+"resource_code": "FIAKeyTerms",
+"label": "nação",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t234-v1",
+"resource_code": "FIAKeyTerms",
+"label": "descendentes",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t11-v1",
+"resource_code": "FIAKeyTerms",
+"label": "acreditou",
+"language": "por"
+}
+],
 "acai": [
 {
 "id": "person:Abraham",
@@ -1719,7 +1848,7 @@
 "index_reference": "abrigo",
 "language": "por",
 "review_level": "None",
-"content": "<p>Um <b>abrigo</b> é uma construção temporária que as pessoas fazem para viver por um curto tempo. As pessoas faziam os abrigos de ramos e folhas de uma árvore.</p><p>Os <a href=\"#t77\">judeus</a> celebravam um festival especial uma vez por ano que eles chamavam de “Festa dos Abrigos”, ou a “<a href=\"#t233\">Festa dos Tabernáculos</a> ou tendas”. Durante essa festa, os judeus faziam abrigos ou tendas em seus jardins, ou no telhado de sua casa e viviam nesses abrigos por sete dias. Isso lembrava ao povo que há muito tempo, na época de Moisés, Deus libertou seus ancestrais do Egito e eles haviam vagado no <a href=\"#t145\">deserto</a> por muitos anos até que eles se estabeleceram no país que Deus havia prometido lhes dar. Os abrigos, ou casas temporárias, lembravam aos judeus que seus ancestrais não tinham um lugar permanente para ficar durante seus anos vagando no deserto.</p>",
+"content": "<p>Um <b>abrigo</b> é uma construção temporária que as pessoas fazem para viver por um curto tempo. As pessoas faziam os abrigos de ramos e folhas de uma árvore.</p><p>Os <data class=\"resource-ref\" data-content-id=\"por-t77-v2\" data-resource-code=\"FIAKeyTerms\">judeus</data> celebravam um festival especial uma vez por ano que eles chamavam de “Festa dos Abrigos”, ou a “<data class=\"resource-ref\" data-content-id=\"por-t233-v1\" data-resource-code=\"FIAKeyTerms\">Festa dos Tabernáculos</data> ou tendas”. Durante essa festa, os judeus faziam abrigos ou tendas em seus jardins, ou no telhado de sua casa e viviam nesses abrigos por sete dias. Isso lembrava ao povo que há muito tempo, na época de Moisés, Deus libertou seus ancestrais do Egito e eles haviam vagado no <data class=\"resource-ref\" data-content-id=\"por-t145-v1\" data-resource-code=\"FIAKeyTerms\">deserto</data> por muitos anos até que eles se estabeleceram no país que Deus havia prometido lhes dar. Os abrigos, ou casas temporárias, lembravam aos judeus que seus ancestrais não tinham um lugar permanente para ficar durante seus anos vagando no deserto.</p>",
 "associations": {
 "passage": [
 {
@@ -1735,7 +1864,29 @@
 "end_ref_usfm": "MRK 9:13"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t77-v2",
+"resource_code": "FIAKeyTerms",
+"label": "judeus",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t233-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Festa dos Tabernáculos",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t145-v1",
+"resource_code": "FIAKeyTerms",
+"label": "deserto",
+"language": "por"
+}
+],
 "acai": []
 }
 },
@@ -1989,7 +2140,7 @@
 "index_reference": "adonai",
 "language": "por",
 "review_level": "None",
-"content": "<p>A palavra <b>Adonai</b> é uma palavra no idioma hebraico, que é o idioma do Antigo Testamento. Adonai significa senhor, ou mestre. Os <a href=\"#t77\">judeus</a> muitas vezes usam essa palavra como um título respeitoso para falar sobre Deus.</p>",
+"content": "<p>A palavra <b>Adonai</b> é uma palavra no idioma hebraico, que é o idioma do Antigo Testamento. Adonai significa senhor, ou mestre. Os <data class=\"resource-ref\" data-content-id=\"por-t77-v2\" data-resource-code=\"FIAKeyTerms\">judeus</data> muitas vezes usam essa palavra como um título respeitoso para falar sobre Deus.</p>",
 "associations": {
 "passage": [
 {
@@ -2041,7 +2192,15 @@
 "end_ref_usfm": "2CH 27:9"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t77-v2",
+"resource_code": "FIAKeyTerms",
+"label": "judeus",
+"language": "por"
+}
+],
 "acai": []
 }
 },
@@ -2118,7 +2277,7 @@
 "index_reference": "adorar",
 "language": "por",
 "review_level": "None",
-"content": "<p>Quando <b>adoramos</b> a Deus, damos honra a Deus. Dizemos que Deus merece todos os nossos agradecimentos, nossos louvores e nosso respeito. Quando adoramos a Deus, refletimos sobre o quão bom, poderoso e amoroso Deus é, e o quão diferente ele é de nós humanos!</p><p>Apenas Deus merece nossa adoração. Não devemos adorar mais nada ou ninguém.</p><p>As pessoas na Bíblia muitas vezes mostravam sua adoração a Deus <a href=\"#t18\">curvando</a>-se a Ele. As pessoas adoravam a Deus juntas, ou individualmente. Durante o tempo da história de <a href=\"#t74\">Israel</a>, quando elas tinham o <a href=\"#t138\">templo</a> de Deus, as pessoas adoravam a Deus juntas no templo. Eles adoravam a Deus por meio de suas músicas, <a href=\"#t102\">orações</a> e <a href=\"#t114\">sacrifícios</a>. Mas essas atividades de adoração eram inúteis se seus corações não fossem obedientes a Deus. Deus disse a eles que ele rejeita a adoração das pessoas a ele se elas tratarem outras pessoas com crueldade e injustiça.</p><p>No tempo do Novo Testamento, os <a href=\"#t77\">judeus</a> também se encontravam para adorar nas <a href=\"#t133\">sinagogas</a>. Uma sinagoga é um lugar onde as pessoas judias se reúnem para ensinar e aprender sobre Deus. Os judeus também oravam e adoravam a Deus nas sinagogas. Mas Jesus também deixou claro que Deus se importa mais com nosso amor por ele do que com o lugar onde adoramos.</p><p>Depois que Jesus havia voltado para o <a href=\"#t63\">céu</a>, seus seguidores a princípio ainda adoravam a Deus no templo e nas sinagogas. Mais tarde, quando mais e mais pessoas que não eram judias se tornaram seguidores de Jesus, as pessoas começaram a se encontrar especialmente nas casas das pessoas. Eles adoravam a Deus juntos por meio da pregação, oração, canto e por outras atividades.</p><p>Mas adorar não é algo que fazemos apenas em momentos particulares, e em grupos. Tudo o que fazemos, até mesmo tarefas diárias comuns, pode ser adorar se as fizermos para Deus. Toda a nossa vida e todas as nossas ações devem ser uma adoração a Deus. Deus tem sido muito bom conosco, e como somos muito gratos a ele, o adoramos em tudo o que fazemos.</p>",
+"content": "<p>Quando <b>adoramos</b> a Deus, damos honra a Deus. Dizemos que Deus merece todos os nossos agradecimentos, nossos louvores e nosso respeito. Quando adoramos a Deus, refletimos sobre o quão bom, poderoso e amoroso Deus é, e o quão diferente ele é de nós humanos!</p><p>Apenas Deus merece nossa adoração. Não devemos adorar mais nada ou ninguém.</p><p>As pessoas na Bíblia muitas vezes mostravam sua adoração a Deus <data class=\"resource-ref\" data-content-id=\"por-t18-v1\" data-resource-code=\"FIAKeyTerms\">curvando</data>-se a Ele. As pessoas adoravam a Deus juntas, ou individualmente. Durante o tempo da história de <data class=\"resource-ref\" data-content-id=\"por-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israel</data>, quando elas tinham o <data class=\"resource-ref\" data-content-id=\"por-t138-v1\" data-resource-code=\"FIAKeyTerms\">templo</data> de Deus, as pessoas adoravam a Deus juntas no templo. Eles adoravam a Deus por meio de suas músicas, <data class=\"resource-ref\" data-content-id=\"por-t102-v1\" data-resource-code=\"FIAKeyTerms\">orações</data> e <data class=\"resource-ref\" data-content-id=\"por-t114-v1\" data-resource-code=\"FIAKeyTerms\">sacrifícios</data>. Mas essas atividades de adoração eram inúteis se seus corações não fossem obedientes a Deus. Deus disse a eles que ele rejeita a adoração das pessoas a ele se elas tratarem outras pessoas com crueldade e injustiça.</p><p>No tempo do Novo Testamento, os <data class=\"resource-ref\" data-content-id=\"por-t77-v2\" data-resource-code=\"FIAKeyTerms\">judeus</data> também se encontravam para adorar nas <data class=\"resource-ref\" data-content-id=\"por-t133-v1\" data-resource-code=\"FIAKeyTerms\">sinagogas</data>. Uma sinagoga é um lugar onde as pessoas judias se reúnem para ensinar e aprender sobre Deus. Os judeus também oravam e adoravam a Deus nas sinagogas. Mas Jesus também deixou claro que Deus se importa mais com nosso amor por ele do que com o lugar onde adoramos.</p><p>Depois que Jesus havia voltado para o <data class=\"resource-ref\" data-content-id=\"por-t63-v1\" data-resource-code=\"FIAKeyTerms\">céu</data>, seus seguidores a princípio ainda adoravam a Deus no templo e nas sinagogas. Mais tarde, quando mais e mais pessoas que não eram judias se tornaram seguidores de Jesus, as pessoas começaram a se encontrar especialmente nas casas das pessoas. Eles adoravam a Deus juntos por meio da pregação, oração, canto e por outras atividades.</p><p>Mas adorar não é algo que fazemos apenas em momentos particulares, e em grupos. Tudo o que fazemos, até mesmo tarefas diárias comuns, pode ser adorar se as fizermos para Deus. Toda a nossa vida e todas as nossas ações devem ser uma adoração a Deus. Deus tem sido muito bom conosco, e como somos muito gratos a ele, o adoramos em tudo o que fazemos.</p>",
 "associations": {
 "passage": [
 {
@@ -2722,7 +2881,64 @@
 "end_ref_usfm": "1CO 14:25"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t18-v1",
+"resource_code": "FIAKeyTerms",
+"label": "curvando",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israel",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t138-v1",
+"resource_code": "FIAKeyTerms",
+"label": "templo",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t102-v1",
+"resource_code": "FIAKeyTerms",
+"label": "orações",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t114-v1",
+"resource_code": "FIAKeyTerms",
+"label": "sacrifícios",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t77-v2",
+"resource_code": "FIAKeyTerms",
+"label": "judeus",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t133-v1",
+"resource_code": "FIAKeyTerms",
+"label": "sinagogas",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t63-v1",
+"resource_code": "FIAKeyTerms",
+"label": "céu",
+"language": "por"
+}
+],
 "acai": [
 {
 "id": "keyterm:Worship",
@@ -3359,7 +3575,7 @@
 "index_reference": "adultério",
 "language": "por",
 "review_level": "None",
-"content": "<p>O <b>adultério</b> é uma forma de <a href=\"#t125\">pecado</a> sexual. Deus considera um pecado sempre que as pessoas têm um relacionamento sexual com alguém com quem elas não são casadas, mas no Antigo Testamento a palavra adultério é usada para um caso específico. Se um homem tem relações sexuais com uma mulher que era casada com outra pessoa, tanto o homem quanto a mulher são culpados de adultério. A punição pelo adultério é a morte. No entanto, se a mulher é estuprada, apenas o homem tinha que morrer.</p><p>Quando um homem tinha relações sexuais com uma mulher ou <a href=\"#t126\">escrava</a> solteira, ele ainda havia desobedecido, ou pecado, contra Deus, mas de acordo com a lei do Antigo Testamento, esse pecado não está na categoria de adultério.</p><p>Deus odeia o adultério e toda forma de pecado sexual. Deus muitas vezes compara a desobediência das pessoas a si mesmo com o adultério: quando as pessoas são infiéis a Deus e começam a <a href=\"#t149\">adorar</a> <a href=\"#t72\">ídolos</a> e falsos deuses, elas estão se comportando exatamente como um homem e uma mulher que são infiéis a seu próprio marido ou esposa. Portanto, Deus chama de idolatria — a adoração de ídolos ou de qualquer outro deus além do próprio Deus — uma forma de adultério.</p><p>No Novo Testamento, Jesus tornou as regras sobre o adultério mais rigorosas. Ele disse que se alguém apenas <em>pensasse</em> em ter um relacionamento sexual com alguém com quem ele não é casado, isso já é pecado.</p>",
+"content": "<p>O <b>adultério</b> é uma forma de <data class=\"resource-ref\" data-content-id=\"por-t125-v1\" data-resource-code=\"FIAKeyTerms\">pecado</data> sexual. Deus considera um pecado sempre que as pessoas têm um relacionamento sexual com alguém com quem elas não são casadas, mas no Antigo Testamento a palavra adultério é usada para um caso específico. Se um homem tem relações sexuais com uma mulher que era casada com outra pessoa, tanto o homem quanto a mulher são culpados de adultério. A punição pelo adultério é a morte. No entanto, se a mulher é estuprada, apenas o homem tinha que morrer.</p><p>Quando um homem tinha relações sexuais com uma mulher ou <data class=\"resource-ref\" data-content-id=\"por-t126-v2\" data-resource-code=\"FIAKeyTerms\">escrava</data> solteira, ele ainda havia desobedecido, ou pecado, contra Deus, mas de acordo com a lei do Antigo Testamento, esse pecado não está na categoria de adultério.</p><p>Deus odeia o adultério e toda forma de pecado sexual. Deus muitas vezes compara a desobediência das pessoas a si mesmo com o adultério: quando as pessoas são infiéis a Deus e começam a <data class=\"resource-ref\" data-content-id=\"por-t149-v1\" data-resource-code=\"FIAKeyTerms\">adorar</data> <data class=\"resource-ref\" data-content-id=\"por-t72-v1\" data-resource-code=\"FIAKeyTerms\">ídolos</data> e falsos deuses, elas estão se comportando exatamente como um homem e uma mulher que são infiéis a seu próprio marido ou esposa. Portanto, Deus chama de idolatria — a adoração de ídolos ou de qualquer outro deus além do próprio Deus — uma forma de adultério.</p><p>No Novo Testamento, Jesus tornou as regras sobre o adultério mais rigorosas. Ele disse que se alguém apenas <em>pensasse</em> em ter um relacionamento sexual com alguém com quem ele não é casado, isso já é pecado.</p>",
 "associations": {
 "passage": [
 {
@@ -3471,7 +3687,36 @@
 "end_ref_usfm": "JAS 4:10"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t125-v1",
+"resource_code": "FIAKeyTerms",
+"label": "pecado",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t126-v2",
+"resource_code": "FIAKeyTerms",
+"label": "escrava",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t149-v1",
+"resource_code": "FIAKeyTerms",
+"label": "adorar",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t72-v1",
+"resource_code": "FIAKeyTerms",
+"label": "ídolos",
+"language": "por"
+}
+],
 "acai": []
 }
 },
@@ -3709,7 +3954,7 @@
 "index_reference": "aliança",
 "language": "por",
 "review_level": "None",
-"content": "<p>Quando as pessoas fazem uma <b>aliança</b>, elas fazem uma promessa solene uma à outra que não podem quebrar. Quando as pessoas fazem uma aliança, elas dizem que querem ter um bom relacionamento entre si. Portanto, as pessoas que fazem a aliança às vezes chamam umas às outras de irmão, ou pai, ou filho. Uma aliança é para sempre.</p><p>Quando as pessoas fazem uma aliança, elas fazem um <a href=\"#t96\">juramento</a>. No juramento elas dizem: “Vou manter minha promessa. Se eu não o fizer, Deus pode me punir”. Eles podem realizar um ritual que simboliza a punição que Deus lhes dará se quebrarem seu juramento. Por exemplo, quando as pessoas faziam uma aliança entre si, cada uma delas poderia matar um animal. Isso os lembrava de que, se um deles quebrasse a aliança, Deus os puniria. Muitas vezes, comer uma refeição juntos também era parte do ritual da aliança.</p><p>Pessoas individuais ou famílias inteiras poderiam fazer uma aliança entre si. Países ou grupos de pessoas também poderiam fazer uma aliança entre si. Por exemplo, eles podem prometer que não lutariam entre si e que ajudariam o outro grupo se aquele grupo tivesse um problema. Fazendo uma aliança entre si, eles estavam dizendo que queriam ter um bom <a href=\"#t108\">relacionamento</a> entre si. Nesse relacionamento, ambas as partes eram iguais. Eles tinham a escolha entre fazer a aliança entre si ou não, e eles poderiam concordar juntos sobre o que queriam prometer um ao outro. No Antigo Testamento, o povo de <a href=\"#t74\">Israel</a> às vezes fazia uma aliança com pessoas de outra <a href=\"#t94\">nação</a>.</p><p>Um <a href=\"#t226\">rei</a> ou um governante também poderia fazer uma aliança com outro governante ou <a href=\"#t157\">reino</a> que era mais fraco do que ele era. O rei poderia dizer a essas outras pessoas: “Eu os protegerei, mas vocês terão que me pagar”, ou “Vocês têm que trabalhar para mim”. Essas outras pessoas tinham que prometer fazer o que o rei queria. Se eles quebrassem a promessa, o rei os puniria. Se eles mantivessem sua promessa, o rei faria coisas boas por eles. Nesse tipo de aliança, o rei não fazia um juramento. Apenas as pessoas que tinham que fazer o que o rei queria, tinham que fazer um juramento.</p><p>Mas às vezes era o contrário, e apenas o rei fazia um juramento. Isso poderia acontecer se algumas pessoas tivessem feito algo muito bom para o rei, e o rei quisesse recompensá-las. Isso geralmente significava que o rei lhes dava alguma terra. O rei então fazia um juramento, dizendo que as pessoas poderiam ter esse pedaço de terra para sempre.</p><p>Deus fez várias alianças com pessoas. Esses tipos de alianças eram muito parecidos com os dois tipos diferentes de aliança que um rei poderia fazer com as pessoas.</p><p>Deus fez uma aliança com <a href=\"#t1\">Abraão</a>. Deus prometeu dar a Abraão uma terra e muitos descendentes. Deus foi o único que fez um juramento aqui. Deus confirmou seu juramento por meio de um ritual que envolvia a morte de animais. Isso simbolizava a sinceridade do juramento de Deus. Daquele momento em diante, Abraão e seus <a href=\"#t234\">descendentes</a> precisavam ser <a href=\"#t25\">circuncidados</a>. Circuncisão é o costume judaico de cortar a pele solta no final do pênis de um homem. Em <a href=\"#t227\">hebraico</a>, a língua do Antigo Testamento, quando as pessoas fazem uma aliança elas dizem que elas “<em>cortam</em> uma aliança”. Fazendo esse corte em seu corpo, os descendentes de Abraão seriam lembrados da aliança que Deus havia “cortado” com eles. Se os descendentes de Abraão parassem de circuncidar seus filhos, eles quebrariam sua parte da aliança.</p><p>Mais tarde, Deus confirmou essa aliança com os descendentes de Abraão, os <a href=\"#t259\">israelitas</a>, várias vezes. Por exemplo, isso aconteceu no Monte Sinai depois que Moisés levou os israelitas para fora da escravidão do Egito. Os descendentes de Abraão haviam se tornado um grande grupo de pessoas, assim como Deus havia prometido. Mas eles ainda não tinham sua própria terra. No Monte Sinai, Deus deu aos israelitas seus mandamentos, que eram suas leis. Os israelitas precisavam obedecer a esses mandamentos. Essa era a parte deles do acordo da aliança. Deus prometeu aos israelitas que, se eles o obedecessem e mantivessem sua parte na aliança, eles seriam o povo especial de Deus. Deus os <a href=\"#t16\">abençoaria</a> e lhes daria uma terra própria, e muitas outras coisas boas. Mas se os israelitas desobedecessem a Deus e quebrassem a aliança, Deus os puniria e tiraria sua terra.</p><p>Os israelitas prometeram manter a aliança de Deus e obedecê-lo completamente. Para confirmar essa promessa, eles fizeram um ritual. Moisés matou vários animais e aspergiu parte do sangue desses animais no <a href=\"#t3\">altar</a> — o lugar onde as pessoas ofereciam <a href=\"#t114\">sacrifícios</a> a Deus. E ele aspergiu um pouco do sangue sobre as pessoas. Ele chamou isso de o “sangue da aliança”. O sangue no altar simbolizava o juramento de Deus, e o sangue nas pessoas simbolizava o juramento das pessoas. O sangue fez da aliança um acordo formal que não poderia ser quebrado.</p><p>No entanto, os israelitas não mantiveram sua promessa. Eles continuamente desobedeciam aos mandamentos de Deus, e Deus teve que puni-los.</p><p>No Novo Testamento, essa aliança do Antigo Testamento com os israelitas é chamada de “a primeira aliança”. Jesus disse que ele estava fazendo uma <em>nova</em> aliança com as pessoas. Era necessário que Deus fizesse uma nova aliança porque as pessoas são muito <a href=\"#t125\">pecadoras</a>. Portanto, eles nunca poderiam obedecer a Deus completamente, e não poderiam manter sua parte da aliança. Pouco antes de Jesus morrer, Jesus falou sobre sua própria morte. Jesus disse que seu sangue era o sangue da nova aliança. Assim como o sangue no altar e nas pessoas na época de Moisés tornou a primeira aliança formal, a morte de Jesus torna a nova aliança entre Deus e as pessoas formal. A nova aliança é uma promessa solene de Deus às pessoas de que elas serão salvas se confiarem em Jesus.</p><p><strong>Quando você estiver traduzindo “aliança”, tenha cuidado com as seguintes coisas:</strong></p><p>Sua cultura pode ter uma palavra ou frase para aliança que é semelhante a uma aliança na Bíblia. Alguns idiomas usam linguagem figurada para descrever as pessoas fazendo uma aliança. As pessoas fazem uma determinada atividade quando elas estão fazendo uma promessa solene uma à outra? Se assim for, isso pode ajudá-lo a decidir um termo para aliança.</p><p>Algumas opções para traduzir a aliança poderiam ser:</p><ul><li>uma promessa solene</li><li>uma promessa inquebrável</li><li>um acordo vinculativo</li></ul><div data-type=\"callout\" data-callout-style=\"action\"><p>Vocês podem encenar os diferentes tipos de aliança que são mencionados anteriormente:</p><ul><li>Vocês poderiam encenar duas pessoas que são iguais entre si.</li><li>Vocês poderiam encenar um rei que faz uma aliança com pessoas que têm que obedecê-lo.</li><li>Vocês poderiam interpretar um rei que faz uma aliança com alguém a quem ele quer dar algo.</li></ul><p>Como esses dramas o ajudam a encontrar as palavras certas em seu idioma?</p></div>",
+"content": "<p>Quando as pessoas fazem uma <b>aliança</b>, elas fazem uma promessa solene uma à outra que não podem quebrar. Quando as pessoas fazem uma aliança, elas dizem que querem ter um bom relacionamento entre si. Portanto, as pessoas que fazem a aliança às vezes chamam umas às outras de irmão, ou pai, ou filho. Uma aliança é para sempre.</p><p>Quando as pessoas fazem uma aliança, elas fazem um <data class=\"resource-ref\" data-content-id=\"por-t96-v1\" data-resource-code=\"FIAKeyTerms\">juramento</data>. No juramento elas dizem: “Vou manter minha promessa. Se eu não o fizer, Deus pode me punir”. Eles podem realizar um ritual que simboliza a punição que Deus lhes dará se quebrarem seu juramento. Por exemplo, quando as pessoas faziam uma aliança entre si, cada uma delas poderia matar um animal. Isso os lembrava de que, se um deles quebrasse a aliança, Deus os puniria. Muitas vezes, comer uma refeição juntos também era parte do ritual da aliança.</p><p>Pessoas individuais ou famílias inteiras poderiam fazer uma aliança entre si. Países ou grupos de pessoas também poderiam fazer uma aliança entre si. Por exemplo, eles podem prometer que não lutariam entre si e que ajudariam o outro grupo se aquele grupo tivesse um problema. Fazendo uma aliança entre si, eles estavam dizendo que queriam ter um bom relacionamento entre si. Nesse relacionamento, ambas as partes eram iguais. Eles tinham a escolha entre fazer a aliança entre si ou não, e eles poderiam concordar juntos sobre o que queriam prometer um ao outro. No Antigo Testamento, o povo de <data class=\"resource-ref\" data-content-id=\"por-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israel</data> às vezes fazia uma aliança com pessoas de outra <data class=\"resource-ref\" data-content-id=\"por-t94-v1\" data-resource-code=\"FIAKeyTerms\">nação</data>.</p><p>Um <data class=\"resource-ref\" data-content-id=\"por-t226-v1\" data-resource-code=\"FIAKeyTerms\">rei</data> ou um governante também poderia fazer uma aliança com outro governante ou <data class=\"resource-ref\" data-content-id=\"por-t157-v1\" data-resource-code=\"FIAKeyTerms\">reino</data> que era mais fraco do que ele era. O rei poderia dizer a essas outras pessoas: “Eu os protegerei, mas vocês terão que me pagar”, ou “Vocês têm que trabalhar para mim”. Essas outras pessoas tinham que prometer fazer o que o rei queria. Se eles quebrassem a promessa, o rei os puniria. Se eles mantivessem sua promessa, o rei faria coisas boas por eles. Nesse tipo de aliança, o rei não fazia um juramento. Apenas as pessoas que tinham que fazer o que o rei queria, tinham que fazer um juramento.</p><p>Mas às vezes era o contrário, e apenas o rei fazia um juramento. Isso poderia acontecer se algumas pessoas tivessem feito algo muito bom para o rei, e o rei quisesse recompensá-las. Isso geralmente significava que o rei lhes dava alguma terra. O rei então fazia um juramento, dizendo que as pessoas poderiam ter esse pedaço de terra para sempre.</p><p>Deus fez várias alianças com pessoas. Esses tipos de alianças eram muito parecidos com os dois tipos diferentes de aliança que um rei poderia fazer com as pessoas.</p><p>Deus fez uma aliança com <data class=\"resource-ref\" data-content-id=\"por-t1-v1\" data-resource-code=\"FIAKeyTerms\">Abraão</data>. Deus prometeu dar a Abraão uma terra e muitos descendentes. Deus foi o único que fez um juramento aqui. Deus confirmou seu juramento por meio de um ritual que envolvia a morte de animais. Isso simbolizava a sinceridade do juramento de Deus. Daquele momento em diante, Abraão e seus <data class=\"resource-ref\" data-content-id=\"por-t234-v1\" data-resource-code=\"FIAKeyTerms\">descendentes</data> precisavam ser <data class=\"resource-ref\" data-content-id=\"por-t25-v1\" data-resource-code=\"FIAKeyTerms\">circuncidados</data>. Circuncisão é o costume judaico de cortar a pele solta no final do pênis de um homem. Em <data class=\"resource-ref\" data-content-id=\"por-t227-v1\" data-resource-code=\"FIAKeyTerms\">hebraico</data>, a língua do Antigo Testamento, quando as pessoas fazem uma aliança elas dizem que elas “<em>cortam</em> uma aliança”. Fazendo esse corte em seu corpo, os descendentes de Abraão seriam lembrados da aliança que Deus havia “cortado” com eles. Se os descendentes de Abraão parassem de circuncidar seus filhos, eles quebrariam sua parte da aliança.</p><p>Mais tarde, Deus confirmou essa aliança com os descendentes de Abraão, os <data class=\"resource-ref\" data-content-id=\"por-t259-v2\" data-resource-code=\"FIAKeyTerms\">israelitas</data>, várias vezes. Por exemplo, isso aconteceu no Monte Sinai depois que Moisés levou os israelitas para fora da escravidão do Egito. Os descendentes de Abraão haviam se tornado um grande grupo de pessoas, assim como Deus havia prometido. Mas eles ainda não tinham sua própria terra. No Monte Sinai, Deus deu aos israelitas seus mandamentos, que eram suas leis. Os israelitas precisavam obedecer a esses mandamentos. Essa era a parte deles do acordo da aliança. Deus prometeu aos israelitas que, se eles o obedecessem e mantivessem sua parte na aliança, eles seriam o povo especial de Deus. Deus os <data class=\"resource-ref\" data-content-id=\"por-t16-v1\" data-resource-code=\"FIAKeyTerms\">abençoaria</data> e lhes daria uma terra própria, e muitas outras coisas boas. Mas se os israelitas desobedecessem a Deus e quebrassem a aliança, Deus os puniria e tiraria sua terra.</p><p>Os israelitas prometeram manter a aliança de Deus e obedecê-lo completamente. Para confirmar essa promessa, eles fizeram um ritual. Moisés matou vários animais e aspergiu parte do sangue desses animais no <data class=\"resource-ref\" data-content-id=\"por-t3-v1\" data-resource-code=\"FIAKeyTerms\">altar</data> — o lugar onde as pessoas ofereciam <data class=\"resource-ref\" data-content-id=\"por-t114-v1\" data-resource-code=\"FIAKeyTerms\">sacrifícios</data> a Deus. E ele aspergiu um pouco do sangue sobre as pessoas. Ele chamou isso de o “sangue da aliança”. O sangue no altar simbolizava o juramento de Deus, e o sangue nas pessoas simbolizava o juramento das pessoas. O sangue fez da aliança um acordo formal que não poderia ser quebrado.</p><p>No entanto, os israelitas não mantiveram sua promessa. Eles continuamente desobedeciam aos mandamentos de Deus, e Deus teve que puni-los.</p><p>No Novo Testamento, essa aliança do Antigo Testamento com os israelitas é chamada de “a primeira aliança”. Jesus disse que ele estava fazendo uma <em>nova</em> aliança com as pessoas. Era necessário que Deus fizesse uma nova aliança porque as pessoas são muito <data class=\"resource-ref\" data-content-id=\"por-t125-v1\" data-resource-code=\"FIAKeyTerms\">pecadoras</data>. Portanto, eles nunca poderiam obedecer a Deus completamente, e não poderiam manter sua parte da aliança. Pouco antes de Jesus morrer, Jesus falou sobre sua própria morte. Jesus disse que seu sangue era o sangue da nova aliança. Assim como o sangue no altar e nas pessoas na época de Moisés tornou a primeira aliança formal, a morte de Jesus torna a nova aliança entre Deus e as pessoas formal. A nova aliança é uma promessa solene de Deus às pessoas de que elas serão salvas se confiarem em Jesus.</p><p><strong>Quando você estiver traduzindo “aliança”, tenha cuidado com as seguintes coisas:</strong></p><p>Sua cultura pode ter uma palavra ou frase para aliança que é semelhante a uma aliança na Bíblia. Alguns idiomas usam linguagem figurada para descrever as pessoas fazendo uma aliança. As pessoas fazem uma determinada atividade quando elas estão fazendo uma promessa solene uma à outra? Se assim for, isso pode ajudá-lo a decidir um termo para aliança.</p><p>Algumas opções para traduzir a aliança poderiam ser:</p><ul><li>uma promessa solene</li><li>uma promessa inquebrável</li><li>um acordo vinculativo</li></ul><div data-type=\"callout\" data-callout-style=\"action\"><p>Vocês podem encenar os diferentes tipos de aliança que são mencionados anteriormente:</p><ul><li>Vocês poderiam encenar duas pessoas que são iguais entre si.</li><li>Vocês poderiam encenar um rei que faz uma aliança com pessoas que têm que obedecê-lo.</li><li>Vocês poderiam interpretar um rei que faz uma aliança com alguém a quem ele quer dar algo.</li></ul><p>Como esses dramas o ajudam a encontrar as palavras certas em seu idioma?</p></div>",
 "associations": {
 "passage": [
 {
@@ -4277,7 +4522,106 @@
 "end_ref_usfm": "EPH 2:18"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t96-v1",
+"resource_code": "FIAKeyTerms",
+"label": "juramento",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israel",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t94-v1",
+"resource_code": "FIAKeyTerms",
+"label": "nação",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t226-v1",
+"resource_code": "FIAKeyTerms",
+"label": "rei",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t157-v1",
+"resource_code": "FIAKeyTerms",
+"label": "reino",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t1-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Abraão",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t234-v1",
+"resource_code": "FIAKeyTerms",
+"label": "descendentes",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t25-v1",
+"resource_code": "FIAKeyTerms",
+"label": "circuncidados",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t227-v1",
+"resource_code": "FIAKeyTerms",
+"label": "hebraico",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t259-v2",
+"resource_code": "FIAKeyTerms",
+"label": "israelitas",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t16-v1",
+"resource_code": "FIAKeyTerms",
+"label": "abençoaria",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t3-v1",
+"resource_code": "FIAKeyTerms",
+"label": "altar",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t114-v1",
+"resource_code": "FIAKeyTerms",
+"label": "sacrifícios",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t125-v1",
+"resource_code": "FIAKeyTerms",
+"label": "pecadoras",
+"language": "por"
+}
+],
 "acai": [
 {
 "id": "keyterm:Covenant",
@@ -4878,7 +5222,7 @@
 "index_reference": "alma",
 "language": "por",
 "review_level": "None",
-"content": "<p>Deus criou as pessoas com um corpo, e podemos tocar e ver o corpo um do outro. Mas Deus também criou as pessoas com pensamentos, sentimentos e desejos. Não podemos ver essa parte de uma pessoa, mas sabemos que ela está lá. Essa parte invisível de uma pessoa é na Bíblia geralmente chamada de <b>alma</b>. Mesmo quando nosso corpo morre, nossa alma pode viver.</p><p>Sem uma alma, uma pessoa não é completa. Portanto, a Bíblia muitas vezes usa a palavra alma apenas como outra maneira de dizer “pessoa”. Por exemplo, em uma passagem a Bíblia fala sobre “quatorze almas em uma família”. Isso significa simplesmente quatorze pessoas em uma família.</p><p>Em outros lugares, a palavra alma refere-se à <em>vida</em> de uma pessoa. Jesus disse que ele veio para dar sua <em>alma</em> pelas pessoas. Isso significa que ele veio para dar sua <em>vida</em> pelo povo.</p><p>A Bíblia também usa a palavra “<a href=\"#t132\">espírito</a>” para se referir à parte interna, invisível, de uma pessoa. Quando a Bíblia usa a palavra espírito, o foco está no <a href=\"#t108\">relacionamento</a> que uma pessoa tem com Deus. Quando estamos <a href=\"#t102\">orando</a>, nosso espírito está falando com Deus. Quando alguém que <a href=\"#t11\">acredita</a> em Jesus morre, seu espírito continuará a viver com Deus.</p><p>Algumas pessoas pensam que o espírito e a alma são os mesmos, e que essas duas palavras diferentes estão dando apenas uma ênfase ligeiramente diferente. Outras pessoas pensam que elas são diferentes, e que cada pessoa tem um corpo, uma alma e um espírito.</p><p><strong>Quando você estiver traduzindo “alma”, tenha cuidado com as seguintes coisas:</strong></p><p>Por favor, note que você também precisa ter uma palavra para “espírito”, “coração” e “mente”. As palavras coração, mente, alma e espírito, todas têm a ver com a parte interna e invisível de uma pessoa, mas cada uma delas tem um uso ligeiramente diferente. Você pode querer ouvir as explicações de cada um desses termos, e então discutir todos esses quatro termos juntos. Você pode então tomar uma decisão sobre como você vai traduzir cada um desses termos. Mas lembre-se de que em cada contexto particular você tem que decidir novamente se você escolheu a palavra certa. Às vezes uma dessas palavras pode se encaixar melhor do que outra.</p><p>Aqui está um breve resumo desses quatro termos diferentes:</p><ul><li><b>Alma</b>: a parte interna e invisível total de uma pessoa. Essa parte de uma pessoa pode viver mesmo depois que seu corpo morre.</li><li><a href=\"#t132\">Espírito</a>: o espírito é muito semelhante à alma, mas com mais ênfase no relacionamento com Deus.</li><li><a href=\"#t150\">Coração</a>: o coração é uma linguagem ilustrada para o lugar onde os pensamentos, sentimentos e decisões de uma pessoa acontecem.</li><li><a href=\"#t151\">Mente</a>: a mente é muito semelhante ao coração, mas um pouco mais de ênfase nos pensamentos, na inteligência e na vontade, ou o desejo de fazer algo.</li></ul>",
+"content": "<p>Deus criou as pessoas com um corpo, e podemos tocar e ver o corpo um do outro. Mas Deus também criou as pessoas com pensamentos, sentimentos e desejos. Não podemos ver essa parte de uma pessoa, mas sabemos que ela está lá. Essa parte invisível de uma pessoa é na Bíblia geralmente chamada de <b>alma</b>. Mesmo quando nosso corpo morre, nossa alma pode viver.</p><p>Sem uma alma, uma pessoa não é completa. Portanto, a Bíblia muitas vezes usa a palavra alma apenas como outra maneira de dizer “pessoa”. Por exemplo, em uma passagem a Bíblia fala sobre “quatorze almas em uma família”. Isso significa simplesmente quatorze pessoas em uma família.</p><p>Em outros lugares, a palavra alma refere-se à <em>vida</em> de uma pessoa. Jesus disse que ele veio para dar sua <em>alma</em> pelas pessoas. Isso significa que ele veio para dar sua <em>vida</em> pelo povo.</p><p>A Bíblia também usa a palavra “<data class=\"resource-ref\" data-content-id=\"por-t132-v1\" data-resource-code=\"FIAKeyTerms\">espírito</data>” para se referir à parte interna, invisível, de uma pessoa. Quando a Bíblia usa a palavra espírito, o foco está no relacionamento que uma pessoa tem com Deus. Quando estamos <data class=\"resource-ref\" data-content-id=\"por-t102-v1\" data-resource-code=\"FIAKeyTerms\">orando</data>, nosso espírito está falando com Deus. Quando alguém que <data class=\"resource-ref\" data-content-id=\"por-t11-v1\" data-resource-code=\"FIAKeyTerms\">acredita</data> em Jesus morre, seu espírito continuará a viver com Deus.</p><p>Algumas pessoas pensam que o espírito e a alma são os mesmos, e que essas duas palavras diferentes estão dando apenas uma ênfase ligeiramente diferente. Outras pessoas pensam que elas são diferentes, e que cada pessoa tem um corpo, uma alma e um espírito.</p><p><strong>Quando você estiver traduzindo “alma”, tenha cuidado com as seguintes coisas:</strong></p><p>Por favor, note que você também precisa ter uma palavra para “espírito”, “coração” e “mente”. As palavras coração, mente, alma e espírito, todas têm a ver com a parte interna e invisível de uma pessoa, mas cada uma delas tem um uso ligeiramente diferente. Você pode querer ouvir as explicações de cada um desses termos, e então discutir todos esses quatro termos juntos. Você pode então tomar uma decisão sobre como você vai traduzir cada um desses termos. Mas lembre-se de que em cada contexto particular você tem que decidir novamente se você escolheu a palavra certa. Às vezes uma dessas palavras pode se encaixar melhor do que outra.</p><p>Aqui está um breve resumo desses quatro termos diferentes:</p><ul><li><b>Alma</b>: a parte interna e invisível total de uma pessoa. Essa parte de uma pessoa pode viver mesmo depois que seu corpo morre.</li><li><data class=\"resource-ref\" data-content-id=\"por-t132-v1\" data-resource-code=\"FIAKeyTerms\">Espírito</data>: o espírito é muito semelhante à alma, mas com mais ênfase no relacionamento com Deus.</li><li><data class=\"resource-ref\" data-content-id=\"por-t150-v1\" data-resource-code=\"FIAKeyTerms\">Coração</data>: o coração é uma linguagem ilustrada para o lugar onde os pensamentos, sentimentos e decisões de uma pessoa acontecem.</li><li><data class=\"resource-ref\" data-content-id=\"por-t151-v1\" data-resource-code=\"FIAKeyTerms\">Mente</data>: a mente é muito semelhante ao coração, mas um pouco mais de ênfase nos pensamentos, na inteligência e na vontade, ou o desejo de fazer algo.</li></ul>",
 "associations": {
 "passage": [
 {
@@ -5092,7 +5436,50 @@
 "end_ref_usfm": "3JN 1:8"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t132-v1",
+"resource_code": "FIAKeyTerms",
+"label": "espírito",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t102-v1",
+"resource_code": "FIAKeyTerms",
+"label": "orando",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t11-v1",
+"resource_code": "FIAKeyTerms",
+"label": "acredita",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t132-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Espírito",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t150-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Coração",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t151-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Mente",
+"language": "por"
+}
+],
 "acai": []
 }
 },
@@ -5331,7 +5718,7 @@
 "index_reference": "altar",
 "language": "por",
 "review_level": "None",
-"content": "<p>Um <b>altar</b> é um lugar onde as pessoas fazem <a href=\"#t194\">ofertas</a> ou <a href=\"#t114\">sacrifícios</a> a Deus. É como uma mesa ou uma plataforma que as pessoas fazem de terra ou grandes pedras. As pessoas colocavam ofertas para Deus nessa mesa. Muitas vezes isso significava que as pessoas então queimariam a oferta. A oferta poderia ser um animal, ou poderia ser itens de comida, ou especiarias com cheiro doce.</p><p>Antes de os <a href=\"#t259\">israelitas</a> construírem o <a href=\"#t184\">tabernáculo</a> e o <a href=\"#t138\">templo</a>, os israelitas construíram altares em diferentes lugares. Depois que Deus havia dito a eles para fazer o tabernáculo, os israelitas deveriam apenas construir altares no tabernáculo, e mais tarde no templo.</p><p>Outros grupos de pessoas, além dos israelitas, também faziam altares para dar ofertas a seus próprios deuses.</p>",
+"content": "<p>Um <b>altar</b> é um lugar onde as pessoas fazem <data class=\"resource-ref\" data-content-id=\"por-t194-v1\" data-resource-code=\"FIAKeyTerms\">ofertas</data> ou <data class=\"resource-ref\" data-content-id=\"por-t114-v1\" data-resource-code=\"FIAKeyTerms\">sacrifícios</data> a Deus. É como uma mesa ou uma plataforma que as pessoas fazem de terra ou grandes pedras. As pessoas colocavam ofertas para Deus nessa mesa. Muitas vezes isso significava que as pessoas então queimariam a oferta. A oferta poderia ser um animal, ou poderia ser itens de comida, ou especiarias com cheiro doce.</p><p>Antes de os <data class=\"resource-ref\" data-content-id=\"por-t259-v2\" data-resource-code=\"FIAKeyTerms\">israelitas</data> construírem o <data class=\"resource-ref\" data-content-id=\"por-t184-v1\" data-resource-code=\"FIAKeyTerms\">tabernáculo</data> e o <data class=\"resource-ref\" data-content-id=\"por-t138-v1\" data-resource-code=\"FIAKeyTerms\">templo</data>, os israelitas construíram altares em diferentes lugares. Depois que Deus havia dito a eles para fazer o tabernáculo, os israelitas deveriam apenas construir altares no tabernáculo, e mais tarde no templo.</p><p>Outros grupos de pessoas, além dos israelitas, também faziam altares para dar ofertas a seus próprios deuses.</p>",
 "associations": {
 "passage": [
 {
@@ -5935,7 +6322,43 @@
 "end_ref_usfm": "1KI 19:21"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t194-v1",
+"resource_code": "FIAKeyTerms",
+"label": "ofertas",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t114-v1",
+"resource_code": "FIAKeyTerms",
+"label": "sacrifícios",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t259-v2",
+"resource_code": "FIAKeyTerms",
+"label": "israelitas",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t184-v1",
+"resource_code": "FIAKeyTerms",
+"label": "tabernáculo",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t138-v1",
+"resource_code": "FIAKeyTerms",
+"label": "templo",
+"language": "por"
+}
+],
 "acai": [
 {
 "id": "realia:Altar",
@@ -6572,7 +6995,7 @@
 "index_reference": "amém",
 "language": "por",
 "review_level": "None",
-"content": "<p><b>Amém</b> é uma palavra <a href=\"#t227\">hebraica</a>. Dependendo de quando é usada, pode significar algo como: “Eu aceito isso”, “Que isso seja verdadeiro”, “De fato” ou “Verdadeiramente”.</p><p>Quando alguém lhe diz que algo bom vai acontecer, você pode responder dizendo “Amém!” Isso significa que você diz que você espera e <a href=\"#t11\">acredita</a> que isso será verdadeiro.</p><p>Quando alguém oferece uma <a href=\"#t102\">oração</a> a Deus, você pode dizer “Amém”. Isso significa que você espera e acredita que a oração será respondida.</p><p>Jesus usa a palavra amém de uma maneira diferente. Jesus muitas vezes diz “Amém” ou mesmo “Amém, amém” no início de seu ensinamento. Quando Jesus diz “Amém”, ele quer dizer: “Ouça atentamente o que eu vou dizer, porque é verdadeiro e muito importante”.</p>",
+"content": "<p><b>Amém</b> é uma palavra <data class=\"resource-ref\" data-content-id=\"por-t227-v1\" data-resource-code=\"FIAKeyTerms\">hebraica</data>. Dependendo de quando é usada, pode significar algo como: “Eu aceito isso”, “Que isso seja verdadeiro”, “De fato” ou “Verdadeiramente”.</p><p>Quando alguém lhe diz que algo bom vai acontecer, você pode responder dizendo “Amém!” Isso significa que você diz que você espera e <data class=\"resource-ref\" data-content-id=\"por-t11-v1\" data-resource-code=\"FIAKeyTerms\">acredita</data> que isso será verdadeiro.</p><p>Quando alguém oferece uma <data class=\"resource-ref\" data-content-id=\"por-t102-v1\" data-resource-code=\"FIAKeyTerms\">oração</data> a Deus, você pode dizer “Amém”. Isso significa que você espera e acredita que a oração será respondida.</p><p>Jesus usa a palavra amém de uma maneira diferente. Jesus muitas vezes diz “Amém” ou mesmo “Amém, amém” no início de seu ensinamento. Quando Jesus diz “Amém”, ele quer dizer: “Ouça atentamente o que eu vou dizer, porque é verdadeiro e muito importante”.</p>",
 "associations": {
 "passage": [
 {
@@ -6666,7 +7089,29 @@
 "end_ref_usfm": "JUD 1:25"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t227-v1",
+"resource_code": "FIAKeyTerms",
+"label": "hebraica",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t11-v1",
+"resource_code": "FIAKeyTerms",
+"label": "acredita",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t102-v1",
+"resource_code": "FIAKeyTerms",
+"label": "oração",
+"language": "por"
+}
+],
 "acai": []
 }
 },
@@ -6785,7 +7230,7 @@
 "index_reference": "ancião",
 "language": "por",
 "review_level": "None",
-"content": "<p>Um <b>ancião</b> é uma pessoa com <a href=\"#t8\">autoridade</a> na comunidade. No Antigo Testamento, um ancião era geralmente o chefe de uma família ou um grupo de famílias. Um grupo de anciãos se encontrava para tomar decisões sobre os assuntos na comunidade.</p><p>No Novo Testamento, os anciãos são pessoas na <a href=\"#t24\">igreja</a> que têm autoridade. Os <a href=\"#t6\">apóstolos</a>, como Paulo, nomeavam os anciãos. Os apóstolos escolhiam pessoas que eram respeitadas pelas outras pessoas na comunidade da igreja para se tornarem anciãos. Um ancião tinha que estar disposto a servir outras pessoas e tinha que ser irrepreensível.</p><p><strong>Quando você estiver traduzindo “ancião”, tenha cuidado com as seguintes coisas:</strong></p><p>Quando você estiver traduzindo essa palavra, tenha cuidado para não usar uma palavra que significa apenas “pessoas velhas”. Um ancião não era necessariamente uma pessoa velha, embora ele não fosse uma pessoa muito jovem também.</p>",
+"content": "<p>Um <b>ancião</b> é uma pessoa com <data class=\"resource-ref\" data-content-id=\"por-t8-v1\" data-resource-code=\"FIAKeyTerms\">autoridade</data> na comunidade. No Antigo Testamento, um ancião era geralmente o chefe de uma família ou um grupo de famílias. Um grupo de anciãos se encontrava para tomar decisões sobre os assuntos na comunidade.</p><p>No Novo Testamento, os anciãos são pessoas na <data class=\"resource-ref\" data-content-id=\"por-t24-v1\" data-resource-code=\"FIAKeyTerms\">igreja</data> que têm autoridade. Os <data class=\"resource-ref\" data-content-id=\"por-t6-v1\" data-resource-code=\"FIAKeyTerms\">apóstolos</data>, como Paulo, nomeavam os anciãos. Os apóstolos escolhiam pessoas que eram respeitadas pelas outras pessoas na comunidade da igreja para se tornarem anciãos. Um ancião tinha que estar disposto a servir outras pessoas e tinha que ser irrepreensível.</p><p><strong>Quando você estiver traduzindo “ancião”, tenha cuidado com as seguintes coisas:</strong></p><p>Quando você estiver traduzindo essa palavra, tenha cuidado para não usar uma palavra que significa apenas “pessoas velhas”. Um ancião não era necessariamente uma pessoa velha, embora ele não fosse uma pessoa muito jovem também.</p>",
 "associations": {
 "passage": [
 {
@@ -7377,7 +7822,29 @@
 "end_ref_usfm": "3JN 1:8"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t8-v1",
+"resource_code": "FIAKeyTerms",
+"label": "autoridade",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t24-v1",
+"resource_code": "FIAKeyTerms",
+"label": "igreja",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t6-v1",
+"resource_code": "FIAKeyTerms",
+"label": "apóstolos",
+"language": "por"
+}
+],
 "acai": []
 }
 },
@@ -7994,7 +8461,7 @@
 "index_reference": "anjo",
 "language": "por",
 "review_level": "None",
-"content": "<p>Um <b>anjo</b> é um ser sobrenatural e espiritual criado por Deus. Os anjos dão mensagens de Deus às pessoas; por exemplo, um anjo disse a <a href=\"#t89\">Maria</a> que ela ficaria grávida por meio do poder de Deus. Às vezes um anjo dá uma mensagem às pessoas em um sonho; por exemplo, um anjo disse a José em um sonho para levar Maria e Jesus e fugir para o Egito.</p><p>Às vezes um anjo parece ter a semelhança de uma pessoa normal, mas em outros momentos, os anjos podem parecer muito brilhantes e reluzentes, ou até mesmo assustadores. Muitas vezes, a primeira coisa que eles tinham que dizer às pessoas era “não tenham medo!”</p><p>Um anjo também pode fazer uma tarefa específica para Deus. Eles podem ajudar as pessoas ou protegê-las; por exemplo, um exército inteiro de anjos ficou em torno do profeta <a href=\"#t104\">Eliseu</a> quando o rei aramaico tentou capturá-lo.</p><p>Deus também usa os anjos para dar punições às pessoas. Por exemplo, um anjo matou os filhos primogênitos no Egito depois que o rei se recusou a deixar os <a href=\"#t259\">israelitas</a> saírem. Do Novo Testamento sabemos que Deus usará os anjos para seu julgamento final.</p><p>Outra tarefa muito importante para os anjos é <a href=\"#t149\">adorar</a> a Deus. Encontramos isso especialmente no livro de Apocalipse.</p><p>Um tipo importante de anjo é um arcanjo. Esse é um anjo com <a href=\"#t8\">autoridade</a> especial. A Bíblia menciona dois arcanjos pelo nome: <a href=\"#t54\">Gabriel</a> e Miguel.</p><p>Nem todos os anjos permaneceram obedientes a Deus. Alguns anjos se rebelaram. Eles se tornaram <a href=\"#t47\">espíritos malignos</a>, e o nome de seu líder é <a href=\"#t118\">Satanás</a>.</p><p><strong>Quando traduzir a palavra “anjo”, seja cuidadoso com as seguintes coisas:</strong></p><p>Certifique-se de que as pessoas não confundam com a palavra que você escolheu para “<a href=\"#t104\">profeta</a>”. Um profeta também dá mensagens de Deus ao povo, mas um profeta é uma pessoa humana, pertencente à terra, enquanto um anjo é um ser sobrenatural, pertencente ao <a href=\"#t63\">céu</a>.</p>",
+"content": "<p>Um <b>anjo</b> é um ser sobrenatural e espiritual criado por Deus. Os anjos dão mensagens de Deus às pessoas; por exemplo, um anjo disse a <data class=\"resource-ref\" data-content-id=\"por-t89-v1\" data-resource-code=\"FIAKeyTerms\">Maria</data> que ela ficaria grávida por meio do poder de Deus. Às vezes um anjo dá uma mensagem às pessoas em um sonho; por exemplo, um anjo disse a José em um sonho para levar Maria e Jesus e fugir para o Egito.</p><p>Às vezes um anjo parece ter a semelhança de uma pessoa normal, mas em outros momentos, os anjos podem parecer muito brilhantes e reluzentes, ou até mesmo assustadores. Muitas vezes, a primeira coisa que eles tinham que dizer às pessoas era “não tenham medo!”</p><p>Um anjo também pode fazer uma tarefa específica para Deus. Eles podem ajudar as pessoas ou protegê-las; por exemplo, um exército inteiro de anjos ficou em torno do profeta <data class=\"resource-ref\" data-content-id=\"por-t104-v1\" data-resource-code=\"FIAKeyTerms\">Eliseu</data> quando o rei aramaico tentou capturá-lo.</p><p>Deus também usa os anjos para dar punições às pessoas. Por exemplo, um anjo matou os filhos primogênitos no Egito depois que o rei se recusou a deixar os <data class=\"resource-ref\" data-content-id=\"por-t259-v2\" data-resource-code=\"FIAKeyTerms\">israelitas</data> saírem. Do Novo Testamento sabemos que Deus usará os anjos para seu julgamento final.</p><p>Outra tarefa muito importante para os anjos é <data class=\"resource-ref\" data-content-id=\"por-t149-v1\" data-resource-code=\"FIAKeyTerms\">adorar</data> a Deus. Encontramos isso especialmente no livro de Apocalipse.</p><p>Um tipo importante de anjo é um arcanjo. Esse é um anjo com <data class=\"resource-ref\" data-content-id=\"por-t8-v1\" data-resource-code=\"FIAKeyTerms\">autoridade</data> especial. A Bíblia menciona dois arcanjos pelo nome: <data class=\"resource-ref\" data-content-id=\"por-t54-v1\" data-resource-code=\"FIAKeyTerms\">Gabriel</data> e Miguel.</p><p>Nem todos os anjos permaneceram obedientes a Deus. Alguns anjos se rebelaram. Eles se tornaram <data class=\"resource-ref\" data-content-id=\"por-t47-v1\" data-resource-code=\"FIAKeyTerms\">espíritos malignos</data>, e o nome de seu líder é <data class=\"resource-ref\" data-content-id=\"por-t118-v1\" data-resource-code=\"FIAKeyTerms\">Satanás</data>.</p><p><strong>Quando traduzir a palavra “anjo”, seja cuidadoso com as seguintes coisas:</strong></p><p>Certifique-se de que as pessoas não confundam com a palavra que você escolheu para “<data class=\"resource-ref\" data-content-id=\"por-t104-v1\" data-resource-code=\"FIAKeyTerms\">profeta</data>”. Um profeta também dá mensagens de Deus ao povo, mas um profeta é uma pessoa humana, pertencente à terra, enquanto um anjo é um ser sobrenatural, pertencente ao <data class=\"resource-ref\" data-content-id=\"por-t63-v1\" data-resource-code=\"FIAKeyTerms\">céu</data>.</p>",
 "associations": {
 "passage": [
 {
@@ -8508,7 +8975,78 @@
 "end_ref_usfm": "JUD 1:11"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t89-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Maria",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t104-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Eliseu",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t259-v2",
+"resource_code": "FIAKeyTerms",
+"label": "israelitas",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t149-v1",
+"resource_code": "FIAKeyTerms",
+"label": "adorar",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t8-v1",
+"resource_code": "FIAKeyTerms",
+"label": "autoridade",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t54-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Gabriel",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t47-v1",
+"resource_code": "FIAKeyTerms",
+"label": "espíritos malignos",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t118-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Satanás",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t104-v1",
+"resource_code": "FIAKeyTerms",
+"label": "profeta",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t63-v1",
+"resource_code": "FIAKeyTerms",
+"label": "céu",
+"language": "por"
+}
+],
 "acai": []
 }
 },
@@ -9047,7 +9585,7 @@
 "index_reference": "anjo do senhor",
 "language": "por",
 "review_level": "None",
-"content": "<p>Um anjo é um ser sobrenatural e espiritual criado por Deus. Os anjos dão mensagens de Deus às pessoas. O “anjo do Senhor” ou “anjo de Yavé” é um anjo especial que fala com tanta <a href=\"#t8\">autoridade</a> que é como se o próprio Deus estivesse falando. Normalmente, as pessoas morreriam se vissem Deus face a face, então poderia até ser que esse anjo seja o próprio Deus, mas aparecendo às pessoas de uma maneira que elas possam vê-lo e sobreviver! As pessoas muitas vezes têm medo quando veem um anjo do Senhor, porque ele geralmente parece incrível. Não ouvimos sobre esse tipo de anjo do Senhor ou anjo de Yavé no Novo Testamento, porque ele não é mais necessário. Deus agora está falando diretamente através de Jesus.</p>",
+"content": "<p>Um anjo é um ser sobrenatural e espiritual criado por Deus. Os anjos dão mensagens de Deus às pessoas. O “anjo do Senhor” ou “anjo de Yavé” é um anjo especial que fala com tanta <data class=\"resource-ref\" data-content-id=\"por-t8-v1\" data-resource-code=\"FIAKeyTerms\">autoridade</data> que é como se o próprio Deus estivesse falando. Normalmente, as pessoas morreriam se vissem Deus face a face, então poderia até ser que esse anjo seja o próprio Deus, mas aparecendo às pessoas de uma maneira que elas possam vê-lo e sobreviver! As pessoas muitas vezes têm medo quando veem um anjo do Senhor, porque ele geralmente parece incrível. Não ouvimos sobre esse tipo de anjo do Senhor ou anjo de Yavé no Novo Testamento, porque ele não é mais necessário. Deus agora está falando diretamente através de Jesus.</p>",
 "associations": {
 "passage": [
 {
@@ -9165,7 +9703,15 @@
 "end_ref_usfm": "LUK 1:25"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t8-v1",
+"resource_code": "FIAKeyTerms",
+"label": "autoridade",
+"language": "por"
+}
+],
 "acai": []
 }
 },
@@ -9308,7 +9854,7 @@
 "index_reference": "apóstolo",
 "language": "por",
 "review_level": "None",
-"content": "<p>Nos <a href=\"#t60\">Evangelhos</a>, Jesus escolhe 12 <a href=\"#t39\">discípulos</a>. Mas mesmo nos Evangelhos esses discípulos às vezes são chamados de <b>apóstolos</b>. No livro de Atos, essas mesmas pessoas, junto com algumas outras, agora são chamadas de apóstolos. Qual é a diferença?</p><p>Um <em>discípulo</em> significa alguém que está comprometido a seguir Jesus. Isso não significa que apenas os 12 discípulos eram discípulos. Os discípulos são todas as pessoas que seguem Jesus e que estão aprendendo com ele.</p><p>Um <em>apóstolo</em> é alguém que recebeu uma <a href=\"#t8\">autoridade</a> especial de Jesus. Um apóstolo é nomeado. Um apóstolo está falando em nome de Jesus.</p><p>Nos Evangelhos, os 12 discípulos às vezes são chamados de apóstolos, especialmente quando Jesus os está enviando para fazer algo. Mas no livro de Atos, os 12 discípulos são sempre chamados de apóstolos. Isso deixa claro que agora eles têm autoridade. Jesus lhes deu a tarefa de continuar a obra que ele começou. Eles não estão fazendo seu próprio trabalho; eles estão fazendo a obra de Jesus.</p><p>Essa é a obra que um apóstolo deve fazer:</p><ol><li>Um apóstolo é uma testemunha para outras pessoas de que Jesus havia realmente ressuscitado dos mortos. Os apóstolos haviam estado com Jesus, eles sabiam que ele havia realmente morrido, e eles o haviam visto depois que ele se tornou vivo novamente. Então eles são capazes de dizer às outras pessoas que isso é realmente verdadeiro.</li><li>Um apóstolo prega o evangelho a todas as pessoas e estabelece igrejas.</li><li>Um apóstolo tem autoridade na <a href=\"#t24\">igreja</a>. Deus havia dado aos apóstolos a autoridade para tomar decisões sobre assuntos espirituais. Eles são os representantes de Jesus na igreja. Deus também lhes havia dado poder para fazer <a href=\"#t93\">milagres</a>. Essa era a prova para as outras pessoas de que sua autoridade realmente veio de Deus.</li></ol>",
+"content": "<p>Nos <data class=\"resource-ref\" data-content-id=\"por-t60-v1\" data-resource-code=\"FIAKeyTerms\">Evangelhos</data>, Jesus escolhe 12 <data class=\"resource-ref\" data-content-id=\"por-t39-v1\" data-resource-code=\"FIAKeyTerms\">discípulos</data>. Mas mesmo nos Evangelhos esses discípulos às vezes são chamados de <b>apóstolos</b>. No livro de Atos, essas mesmas pessoas, junto com algumas outras, agora são chamadas de apóstolos. Qual é a diferença?</p><p>Um <em>discípulo</em> significa alguém que está comprometido a seguir Jesus. Isso não significa que apenas os 12 discípulos eram discípulos. Os discípulos são todas as pessoas que seguem Jesus e que estão aprendendo com ele.</p><p>Um <em>apóstolo</em> é alguém que recebeu uma <data class=\"resource-ref\" data-content-id=\"por-t8-v1\" data-resource-code=\"FIAKeyTerms\">autoridade</data> especial de Jesus. Um apóstolo é nomeado. Um apóstolo está falando em nome de Jesus.</p><p>Nos Evangelhos, os 12 discípulos às vezes são chamados de apóstolos, especialmente quando Jesus os está enviando para fazer algo. Mas no livro de Atos, os 12 discípulos são sempre chamados de apóstolos. Isso deixa claro que agora eles têm autoridade. Jesus lhes deu a tarefa de continuar a obra que ele começou. Eles não estão fazendo seu próprio trabalho; eles estão fazendo a obra de Jesus.</p><p>Essa é a obra que um apóstolo deve fazer:</p><ol><li>Um apóstolo é uma testemunha para outras pessoas de que Jesus havia realmente ressuscitado dos mortos. Os apóstolos haviam estado com Jesus, eles sabiam que ele havia realmente morrido, e eles o haviam visto depois que ele se tornou vivo novamente. Então eles são capazes de dizer às outras pessoas que isso é realmente verdadeiro.</li><li>Um apóstolo prega o evangelho a todas as pessoas e estabelece igrejas.</li><li>Um apóstolo tem autoridade na <data class=\"resource-ref\" data-content-id=\"por-t24-v1\" data-resource-code=\"FIAKeyTerms\">igreja</data>. Deus havia dado aos apóstolos a autoridade para tomar decisões sobre assuntos espirituais. Eles são os representantes de Jesus na igreja. Deus também lhes havia dado poder para fazer <data class=\"resource-ref\" data-content-id=\"por-t93-v1\" data-resource-code=\"FIAKeyTerms\">milagres</data>. Essa era a prova para as outras pessoas de que sua autoridade realmente veio de Deus.</li></ol>",
 "associations": {
 "passage": [
 {
@@ -9636,7 +10182,43 @@
 "end_ref_usfm": "JUD 1:23"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t60-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Evangelhos",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t39-v1",
+"resource_code": "FIAKeyTerms",
+"label": "discípulos",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t8-v1",
+"resource_code": "FIAKeyTerms",
+"label": "autoridade",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t24-v1",
+"resource_code": "FIAKeyTerms",
+"label": "igreja",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t93-v1",
+"resource_code": "FIAKeyTerms",
+"label": "milagres",
+"language": "por"
+}
+],
 "acai": []
 }
 },
@@ -10034,7 +10616,7 @@
 "index_reference": "arrependimento",
 "language": "por",
 "review_level": "None",
-"content": "<p>Quando você se <b>arrepende</b>, você se sente triste pelas coisas más que você fez e você quer mudar. É como se você estivesse dando a volta: você se afasta das coisas más e começa a andar em direção às coisas boas. Você agora está determinado a obedecer a Deus, em vez de desobedecer a Deus.</p><p>Deus diz ao povo que eles têm que se arrepender de seus <a href=\"#t125\">pecados</a>. Quando as pessoas se arrependem, Deus as <a href=\"#t53\">perdoa</a> e não as pune pelas coisas más que fizeram. Mas se as pessoas não se arrependerem, Deus as punirá.</p><p>Às vezes a Bíblia até nos diz que Deus se arrepende. É claro que Deus não pode pecar e não precisa se arrepender de algo ruim que ele fez. Quando a Bíblia diz que Deus se arrepende, significa que Deus muda de ideia sobre algo.</p><p><strong>Quando você estiver traduzindo arrepender, ou arrependimento, seja cuidadoso com as seguintes coisas:</strong></p><p>A palavra que você está escolhendo não deve significar apenas que alguém se sente triste pelo que fizeram. Deve ficar claro que a pessoa que se arrepende também quer parar de fazer coisas más e quer começar a obedecer a Deus. Talvez você precise de uma frase, em vez de apenas uma palavra.</p><blockquote><p>Aqui está uma maneira que você poderia ajudar a explicar o arrependimento:</p><p>Desenhe ou trace um caminho. Uma extremidade do caminho termina em um lugar muito perigoso — uma fogueira, ou um penhasco, ou qualquer coisa que seja perigosa. A outra extremidade do caminho termina em um bom lugar — talvez uma mesa com comida, ou um bom jardim, ou qualquer objeto que ajude as pessoas a ver que esse é um bom lugar.</p><p>Então faça com que algumas pessoas andem nesse caminho em direção ao lugar perigoso. Encene essas pessoas fazendo coisas más pelo caminho — talvez como bater uns nos outros ou roubar. Então faça com que outra pessoa venha a eles e diga a eles que eles deveriam se arrepender.</p><p>Encene algumas das pessoas andando na estrada percebendo as coisas más que fizeram, e percebem o lugar perigoso em direção ao qual estão andando. Encene que eles estão se sentindo realmente ruins! Então encene essas pessoas dando meia-volta e começando a andar em direção ao bom fim da estrada. Eles podem encenar fazendo coisas boas agora.</p><p>Talvez uma das pessoas em seu drama <em>não</em> possa se arrepender e acabar no fogo ou na beira do penhasco.</p></blockquote>",
+"content": "<p>Quando você se <b>arrepende</b>, você se sente triste pelas coisas más que você fez e você quer mudar. É como se você estivesse dando a volta: você se afasta das coisas más e começa a andar em direção às coisas boas. Você agora está determinado a obedecer a Deus, em vez de desobedecer a Deus.</p><p>Deus diz ao povo que eles têm que se arrepender de seus <data class=\"resource-ref\" data-content-id=\"por-t125-v1\" data-resource-code=\"FIAKeyTerms\">pecados</data>. Quando as pessoas se arrependem, Deus as <data class=\"resource-ref\" data-content-id=\"por-t53-v1\" data-resource-code=\"FIAKeyTerms\">perdoa</data> e não as pune pelas coisas más que fizeram. Mas se as pessoas não se arrependerem, Deus as punirá.</p><p>Às vezes a Bíblia até nos diz que Deus se arrepende. É claro que Deus não pode pecar e não precisa se arrepender de algo ruim que ele fez. Quando a Bíblia diz que Deus se arrepende, significa que Deus muda de ideia sobre algo.</p><p><strong>Quando você estiver traduzindo arrepender, ou arrependimento, seja cuidadoso com as seguintes coisas:</strong></p><p>A palavra que você está escolhendo não deve significar apenas que alguém se sente triste pelo que fizeram. Deve ficar claro que a pessoa que se arrepende também quer parar de fazer coisas más e quer começar a obedecer a Deus. Talvez você precise de uma frase, em vez de apenas uma palavra.</p><blockquote><p>Aqui está uma maneira que você poderia ajudar a explicar o arrependimento:</p><p>Desenhe ou trace um caminho. Uma extremidade do caminho termina em um lugar muito perigoso — uma fogueira, ou um penhasco, ou qualquer coisa que seja perigosa. A outra extremidade do caminho termina em um bom lugar — talvez uma mesa com comida, ou um bom jardim, ou qualquer objeto que ajude as pessoas a ver que esse é um bom lugar.</p><p>Então faça com que algumas pessoas andem nesse caminho em direção ao lugar perigoso. Encene essas pessoas fazendo coisas más pelo caminho — talvez como bater uns nos outros ou roubar. Então faça com que outra pessoa venha a eles e diga a eles que eles deveriam se arrepender.</p><p>Encene algumas das pessoas andando na estrada percebendo as coisas más que fizeram, e percebem o lugar perigoso em direção ao qual estão andando. Encene que eles estão se sentindo realmente ruins! Então encene essas pessoas dando meia-volta e começando a andar em direção ao bom fim da estrada. Eles podem encenar fazendo coisas boas agora.</p><p>Talvez uma das pessoas em seu drama <em>não</em> possa se arrepender e acabar no fogo ou na beira do penhasco.</p></blockquote>",
 "associations": {
 "passage": [
 {
@@ -10218,7 +10800,22 @@
 "end_ref_usfm": "2TI 2:26"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t125-v1",
+"resource_code": "FIAKeyTerms",
+"label": "pecados",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t53-v1",
+"resource_code": "FIAKeyTerms",
+"label": "perdoa",
+"language": "por"
+}
+],
 "acai": []
 }
 },
@@ -10427,7 +11024,7 @@
 "index_reference": "autoridade",
 "language": "por",
 "review_level": "None",
-"content": "<p>Alguém que tem <b>autoridade</b> tem o direito e o poder de tomar decisões e julgamentos. A mais alta autoridade pertence a Deus. Deus pode dar autoridade a outras pessoas para tomar decisões ou julgamentos em seu nome. Deus muitas vezes mostrará que ele deu autoridade às pessoas dando-lhes também poder para fazer <a href=\"#t93\">milagres</a>.</p><p>Jesus tem autoridade porque ele é o <a href=\"#t226\">rei</a>, e Deus o enviou.</p><p>Os <a href=\"#t6\">apóstolos</a> tinham autoridade na <a href=\"#t24\">igreja</a>, porque Jesus a deu a eles. Outras pessoas precisavam aceitar suas decisões.</p><p>A Bíblia tem autoridade porque Deus está falando com as pessoas por meio da Bíblia. Isso significa que as pessoas têm que ouvir o que Deus lhes diz por meio da Bíblia.</p>",
+"content": "<p>Alguém que tem <b>autoridade</b> tem o direito e o poder de tomar decisões e julgamentos. A mais alta autoridade pertence a Deus. Deus pode dar autoridade a outras pessoas para tomar decisões ou julgamentos em seu nome. Deus muitas vezes mostrará que ele deu autoridade às pessoas dando-lhes também poder para fazer <data class=\"resource-ref\" data-content-id=\"por-t93-v1\" data-resource-code=\"FIAKeyTerms\">milagres</data>.</p><p>Jesus tem autoridade porque ele é o <data class=\"resource-ref\" data-content-id=\"por-t226-v1\" data-resource-code=\"FIAKeyTerms\">rei</data>, e Deus o enviou.</p><p>Os <data class=\"resource-ref\" data-content-id=\"por-t6-v1\" data-resource-code=\"FIAKeyTerms\">apóstolos</data> tinham autoridade na <data class=\"resource-ref\" data-content-id=\"por-t24-v1\" data-resource-code=\"FIAKeyTerms\">igreja</data>, porque Jesus a deu a eles. Outras pessoas precisavam aceitar suas decisões.</p><p>A Bíblia tem autoridade porque Deus está falando com as pessoas por meio da Bíblia. Isso significa que as pessoas têm que ouvir o que Deus lhes diz por meio da Bíblia.</p>",
 "associations": {
 "passage": [
 {
@@ -10611,7 +11208,36 @@
 "end_ref_usfm": "JUD 1:25"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t93-v1",
+"resource_code": "FIAKeyTerms",
+"label": "milagres",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t226-v1",
+"resource_code": "FIAKeyTerms",
+"label": "rei",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t6-v1",
+"resource_code": "FIAKeyTerms",
+"label": "apóstolos",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t24-v1",
+"resource_code": "FIAKeyTerms",
+"label": "igreja",
+"language": "por"
+}
+],
 "acai": [
 {
 "id": "keyterm:Authority.2",

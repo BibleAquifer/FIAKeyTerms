@@ -8,7 +8,7 @@
 "index_reference": "主",
 "language": "zhs",
 "review_level": "None",
-"content": "<p>一个主是其他人的<b>主人</b>，他拥有完全的<a href=\"#t8\">权柄</a>，人们应该尊重他。 当你称呼某人为\"主\"时，你是在说这个人对你有权柄。 在圣经中，我们听到人们称他们的<a href=\"#t226\">王</a>为主；<a href=\"#t126\">奴隶</a>称他们的<a href=\"#t90\">主人</a>为主；有时一个妻子称她的丈夫为主。</p><p>神被称为主，因为祂对整个世界都有权柄。 当人们与神说话，或谈论神时，他们经常称祂为主，以给予祂尊敬。</p><p>在新约中，当<a href=\"#t74\">以色列</a>的人与耶稣说话并称祂为主时，他们的意思是要给祂尊敬。</p><p>当耶稣<a href=\"#t110\">复活</a>后，人们谈论耶稣并称祂为主时，他们是在说耶稣对他们有权柄，就像神一样。 当人们在耶稣复活后称祂为主时，他们是在说耶稣是神。</p><p>有时在新约中，并不清楚主这个词何时是指耶稣，或是指父神。</p><p><strong>当你翻译主时，请注意以下事项：</strong></p><p>在耶稣复活之前，大多数人还不认为耶稣是神。 当他们称耶稣为\"主\"时，这是一种尊称：他们并不是要对耶稣说\"神\"。 在你的翻译中，在这些情况下，你可能想使用一个一般的尊称，而不是使用你用来表示\"主\"的相同字眼，因为这个词的意思是神。</p>",
+"content": "<p>一个主是其他人的<b>主人</b>，他拥有完全的<data class=\"resource-ref\" data-content-id=\"cmn-t8-v1\" data-resource-code=\"FIAKeyTerms\">权柄</data>，人们应该尊重他。 当你称呼某人为\"主\"时，你是在说这个人对你有权柄。 在圣经中，我们听到人们称他们的<data class=\"resource-ref\" data-content-id=\"cmn-t226-v1\" data-resource-code=\"FIAKeyTerms\">王</data>为主；<data class=\"resource-ref\" data-content-id=\"cmn-t126-v2\" data-resource-code=\"FIAKeyTerms\">奴隶</data>称他们的主人为主；有时一个妻子称她的丈夫为主。</p><p>神被称为主，因为祂对整个世界都有权柄。 当人们与神说话，或谈论神时，他们经常称祂为主，以给予祂尊敬。</p><p>在新约中，当<data class=\"resource-ref\" data-content-id=\"cmn-t74-v1\" data-resource-code=\"FIAKeyTerms\">以色列</data>的人与耶稣说话并称祂为主时，他们的意思是要给祂尊敬。</p><p>当耶稣<data class=\"resource-ref\" data-content-id=\"cmn-t110-v1\" data-resource-code=\"FIAKeyTerms\">复活</data>后，人们谈论耶稣并称祂为主时，他们是在说耶稣对他们有权柄，就像神一样。 当人们在耶稣复活后称祂为主时，他们是在说耶稣是神。</p><p>有时在新约中，并不清楚主这个词何时是指耶稣，或是指父神。</p><p><strong>当你翻译主时，请注意以下事项：</strong></p><p>在耶稣复活之前，大多数人还不认为耶稣是神。 当他们称耶稣为\"主\"时，这是一种尊称：他们并不是要对耶稣说\"神\"。 在你的翻译中，在这些情况下，你可能想使用一个一般的尊称，而不是使用你用来表示\"主\"的相同字眼，因为这个词的意思是神。</p>",
 "associations": {
 "passage": [
 {
@@ -612,7 +612,43 @@
 "end_ref_usfm": "MAT 24:44"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t8-v1",
+"resource_code": "FIAKeyTerms",
+"label": "权柄",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t226-v1",
+"resource_code": "FIAKeyTerms",
+"label": "王",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t126-v2",
+"resource_code": "FIAKeyTerms",
+"label": "奴隶",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t74-v1",
+"resource_code": "FIAKeyTerms",
+"label": "以色列",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t110-v1",
+"resource_code": "FIAKeyTerms",
+"label": "复活",
+"language": "zhs"
+}
+],
 "acai": [
 {
 "id": "deity:Lord",
@@ -1249,7 +1285,7 @@
 "index_reference": "主耶和华",
 "language": "zhs",
 "review_level": "None",
-"content": "<p>在新约中的某些情况下，<b>主</b>指的是神自己。 这是<a href=\"#t77\">犹太人</a>在不愿意说出神的名字时对神的称呼，因为他们非常尊重神。</p>",
+"content": "<p>在新约中的某些情况下，<b>主</b>指的是神自己。 这是<data class=\"resource-ref\" data-content-id=\"cmn-t77-v1\" data-resource-code=\"FIAKeyTerms\">犹太人</data>在不愿意说出神的名字时对神的称呼，因为他们非常尊重神。</p>",
 "associations": {
 "passage": [
 {
@@ -1523,7 +1559,15 @@
 "end_ref_usfm": "2TI 2:19"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t77-v1",
+"resource_code": "FIAKeyTerms",
+"label": "犹太人",
+"language": "zhs"
+}
+],
 "acai": [
 {
 "id": "person:Jesus.2",
@@ -1830,7 +1874,7 @@
 "index_reference": "住棚帐篷",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><b>住棚</b>是人们为短期居住而建造的临时建筑。 人们用树枝和树叶做成帐篷。</p><p><a href=\"#t77\">犹太人</a>每年都会庆祝一个特别的节日，他们称之为\"住棚节\"或\"<a href=\"#t233\">帐篷节</a>\"。 在这个节日期间，犹太人在他们的花园或房屋的屋顶上建造棚子或帐篷，并在这些帐篷中生活七天。 这提醒人们，很久以前，在摩西时代，神将他们的祖先从埃及解放出来，他们曾在<a href=\"#t145\">旷野</a>流浪多年，直到他们定居在神应许赐给他们的国家。 帐篷或临时家园提醒犹太人，他们的祖先在流浪的岁月里没有永久的住处。</p>",
+"content": "<p><b>住棚</b>是人们为短期居住而建造的临时建筑。 人们用树枝和树叶做成帐篷。</p><p><data class=\"resource-ref\" data-content-id=\"cmn-t77-v1\" data-resource-code=\"FIAKeyTerms\">犹太人</data>每年都会庆祝一个特别的节日，他们称之为\"住棚节\"或\"帐篷节\"。 在这个节日期间，犹太人在他们的花园或房屋的屋顶上建造棚子或帐篷，并在这些帐篷中生活七天。 这提醒人们，很久以前，在摩西时代，神将他们的祖先从埃及解放出来，他们曾在<data class=\"resource-ref\" data-content-id=\"cmn-t145-v1\" data-resource-code=\"FIAKeyTerms\">旷野</data>流浪多年，直到他们定居在神应许赐给他们的国家。 帐篷或临时家园提醒犹太人，他们的祖先在流浪的岁月里没有永久的住处。</p>",
 "associations": {
 "passage": [
 {
@@ -1846,7 +1890,22 @@
 "end_ref_usfm": "MRK 9:13"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t77-v1",
+"resource_code": "FIAKeyTerms",
+"label": "犹太人",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t145-v1",
+"resource_code": "FIAKeyTerms",
+"label": "旷野",
+"language": "zhs"
+}
+],
 "acai": []
 }
 },
@@ -1887,7 +1946,7 @@
 "index_reference": "祝福",
 "language": "zhs",
 "review_level": "None",
-"content": "<p>当神<b>祝福</b>一个人时，神是在做、或者应许要做使那人得益处的事。</p><p>当一个人为另一个人说<b>祝福</b>的话时，他们是在<a href=\"#t102\">祷告</a>神为这个人做美好的事。</p><p>当人们祝福神时，这意味着他们是在<a href=\"#t149\">敬拜</a>神，并为祂的良善和祝福而感恩。</p><p>当人们祝福某物时（比如食物），这意味着他们在为它而感谢神。</p><p>当你称某人为有<b>福</b>时，你的意思是说其他人可以祝贺这个人。其他人可以为那些人高兴，因为神已经祝福了他们。</p><p>祝福的反面是<a href=\"#t31\">咒诅</a>。藉著摩西，神告诉<a href=\"#t259\">以色列人</a>，如果他们遵守神的诫命，神就会祝福他们。但是如果他们不顺服神，神就会咒诅他们。神不保守那些被咒诅的人，那些被咒诅的人不会与神保持良好的<a href=\"#t108\">关系</a>。</p>",
+"content": "<p>当神<b>祝福</b>一个人时，神是在做、或者应许要做使那人得益处的事。</p><p>当一个人为另一个人说<b>祝福</b>的话时，他们是在<data class=\"resource-ref\" data-content-id=\"cmn-t102-v1\" data-resource-code=\"FIAKeyTerms\">祷告</data>神为这个人做美好的事。</p><p>当人们祝福神时，这意味着他们是在敬拜神，并为祂的良善和祝福而感恩。</p><p>当人们祝福某物时（比如食物），这意味着他们在为它而感谢神。</p><p>当你称某人为有<b>福</b>时，你的意思是说其他人可以祝贺这个人。其他人可以为那些人高兴，因为神已经祝福了他们。</p><p>祝福的反面是<data class=\"resource-ref\" data-content-id=\"cmn-t31-v1\" data-resource-code=\"FIAKeyTerms\">咒诅</data>。藉著摩西，神告诉以色列人，如果他们遵守神的诫命，神就会祝福他们。但是如果他们不顺服神，神就会咒诅他们。神不保守那些被咒诅的人，那些被咒诅的人不会与神保持良好的关系。</p>",
 "associations": {
 "passage": [
 {
@@ -2491,7 +2550,22 @@
 "end_ref_usfm": "2CH 30:27"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t102-v1",
+"resource_code": "FIAKeyTerms",
+"label": "祷告",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t31-v1",
+"resource_code": "FIAKeyTerms",
+"label": "咒诅",
+"language": "zhs"
+}
+],
 "acai": [
 {
 "id": "keyterm:Bless",

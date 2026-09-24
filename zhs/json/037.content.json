@@ -8,7 +8,7 @@
 "index_reference": "凯撒",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><b>凯撒</b>是罗马皇帝的称号。罗马是意大利这个国家的一座城市。在新约时代，罗马是罗马帝国的首都。</p><p>帝国是由一个人或一个政府统治的一群<a href=\"#t94\">国民</a>或国家。帝国的领导者被称为皇帝。罗马人的皇帝被称作凯撒。</p><p>罗马帝国包括许多国家和民族。它非常大。所有这些国家的人都必须向凯撒纳税。凯撒是如此强大，以至于许多人把他当作神。在一些城市，人们建造了<a href=\"#t138\">神殿</a>，在那里他们<a href=\"#t149\">敬拜</a>凯撒的雕像。</p>",
+"content": "<p><b>凯撒</b>是罗马皇帝的称号。罗马是意大利这个国家的一座城市。在新约时代，罗马是罗马帝国的首都。</p><p>帝国是由一个人或一个政府统治的一群<data class=\"resource-ref\" data-content-id=\"cmn-t94-v1\" data-resource-code=\"FIAKeyTerms\">国民</data>或国家。帝国的领导者被称为皇帝。罗马人的皇帝被称作凯撒。</p><p>罗马帝国包括许多国家和民族。它非常大。所有这些国家的人都必须向凯撒纳税。凯撒是如此强大，以至于许多人把他当作神。在一些城市，人们建造了<data class=\"resource-ref\" data-content-id=\"cmn-t138-v1\" data-resource-code=\"FIAKeyTerms\">神殿</data>，在那里他们敬拜凯撒的雕像。</p>",
 "associations": {
 "passage": [
 {
@@ -84,7 +84,22 @@
 "end_ref_usfm": "PHP 4:23"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t94-v1",
+"resource_code": "FIAKeyTerms",
+"label": "国民",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t138-v1",
+"resource_code": "FIAKeyTerms",
+"label": "神殿",
+"language": "zhs"
+}
+],
 "acai": [
 {
 "id": "person:Tiberius",
@@ -207,7 +222,7 @@
 "index_reference": "凯撒利亚腓立比",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><b>凯撒利亚·腓立比</b>是一座城市，位于<a href=\"#t121\">加利利海</a>以北约四十公里。住在这个地区的人不是<a href=\"#t77\">犹太人</a>。人们在这个城市里建造了一座庙，为的是<a href=\"#t149\">敬拜</a>罗马皇帝<a href=\"#t19\">凯撒</a>。</p>",
+"content": "<p><b>凯撒利亚·腓立比</b>是一座城市，位于<data class=\"resource-ref\" data-content-id=\"cmn-t121-v1\" data-resource-code=\"FIAKeyTerms\">加利利海</data>以北约四十公里。住在这个地区的人不是<data class=\"resource-ref\" data-content-id=\"cmn-t77-v1\" data-resource-code=\"FIAKeyTerms\">犹太人</data>。人们在这个城市里建造了一座庙，为的是敬拜罗马皇帝<data class=\"resource-ref\" data-content-id=\"cmn-t19-v1\" data-resource-code=\"FIAKeyTerms\">凯撒</data>。</p>",
 "associations": {
 "passage": [
 {
@@ -217,7 +232,29 @@
 "end_ref_usfm": "MRK 8:30"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t121-v1",
+"resource_code": "FIAKeyTerms",
+"label": "加利利海",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t77-v1",
+"resource_code": "FIAKeyTerms",
+"label": "犹太人",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t19-v1",
+"resource_code": "FIAKeyTerms",
+"label": "凯撒",
+"language": "zhs"
+}
+],
 "acai": [
 {
 "id": "place:CaesareaPhilippi",

@@ -8,7 +8,7 @@
 "index_reference": "骆驼",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><b>骆驼</b>是一种大型、强壮的动物，可以走很长的距离而不需要食物或水。人们旅行时骑坐在骆驼上，也使用骆驼驮运行李。骆驼的背上长着一或两个驼峰。骆驼在这些驼峰里面储存脂肪，这使得骆驼能够在长时间没有食物或水的情况下生存。一旦骆驼有机会喝水，它会一次喝下大量的水。</p><p>骆驼是<a href=\"#t74\">以色列</a>最大的动物。</p><p>人们可以把骆驼短而硬的毛发织成布料。这可以制成简单粗糙的衣服。<a href=\"#t79\">施洗约翰</a>穿着骆驼毛做的衣服。</p><div data-type=\"callout\" data-callout-style=\"action\"><p>你可以在可视化词典中查找骆驼的图片。</p></div>",
+"content": "<p><b>骆驼</b>是一种大型、强壮的动物，可以走很长的距离而不需要食物或水。人们旅行时骑坐在骆驼上，也使用骆驼驮运行李。骆驼的背上长着一或两个驼峰。骆驼在这些驼峰里面储存脂肪，这使得骆驼能够在长时间没有食物或水的情况下生存。一旦骆驼有机会喝水，它会一次喝下大量的水。</p><p>骆驼是<data class=\"resource-ref\" data-content-id=\"cmn-t74-v1\" data-resource-code=\"FIAKeyTerms\">以色列</data>最大的动物。</p><p>人们可以把骆驼短而硬的毛发织成布料。这可以制成简单粗糙的衣服。<data class=\"resource-ref\" data-content-id=\"cmn-t79-v1\" data-resource-code=\"FIAKeyTerms\">施洗约翰</data>穿着骆驼毛做的衣服。</p><div data-type=\"callout\" data-callout-style=\"action\"><p>你可以在可视化词典中查找骆驼的图片。</p></div>",
 "associations": {
 "passage": [
 {
@@ -84,7 +84,22 @@
 "end_ref_usfm": "MRK 10:31"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t74-v1",
+"resource_code": "FIAKeyTerms",
+"label": "以色列",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t79-v1",
+"resource_code": "FIAKeyTerms",
+"label": "施洗约翰",
+"language": "zhs"
+}
+],
 "acai": [
 {
 "id": "fauna:Camel",

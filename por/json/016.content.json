@@ -8,7 +8,7 @@
 "index_reference": "querubim",
 "language": "por",
 "review_level": "None",
-"content": "<p>Um <b>querubim</b>, ou vários <b>querubins</b>, são um tipo de <a href=\"#t4\">anjo</a>. Os querubins parecem proteger especialmente os lugares sagrados, ou<a href=\"#t67\"> santo</a>s. Portanto, havia quadros e imagens de querubins no <a href=\"#t138\">templo</a> e no tabernáculo. Nessas imagens, os querubins têm o corpo de um leão, as asas de um pássaro e o rosto de um humano. Os querubins são um aviso para as pessoas de que Deus está presente. De fato, os querubins de ouro abriam suas asas sobre o topo da arca da aliança e protegeram o trono onde Deus se encontrava com seu povo do topo da arca da aliança. No livro de Ezequiel, Ezequiel tem uma <a href=\"#t143\">visão</a> na qual os querubins estão carregando o trono de Deus. Algumas das descrições dos querubins em Ezequiel se parecem com pessoas, mas têm quatro asas e quatro rostos.</p>",
+"content": "<p>Um <b>querubim</b>, ou vários <b>querubins</b>, são um tipo de <data class=\"resource-ref\" data-content-id=\"por-t4-v1\" data-resource-code=\"FIAKeyTerms\">anjo</data>. Os querubins parecem proteger especialmente os lugares sagrados, ou<data class=\"resource-ref\" data-content-id=\"por-t67-v1\" data-resource-code=\"FIAKeyTerms\"> santo</data>s. Portanto, havia quadros e imagens de querubins no <data class=\"resource-ref\" data-content-id=\"por-t138-v1\" data-resource-code=\"FIAKeyTerms\">templo</data> e no tabernáculo. Nessas imagens, os querubins têm o corpo de um leão, as asas de um pássaro e o rosto de um humano. Os querubins são um aviso para as pessoas de que Deus está presente. De fato, os querubins de ouro abriam suas asas sobre o topo da arca da aliança e protegeram o trono onde Deus se encontrava com seu povo do topo da arca da aliança. No livro de Ezequiel, Ezequiel tem uma <data class=\"resource-ref\" data-content-id=\"por-t143-v1\" data-resource-code=\"FIAKeyTerms\">visão</data> na qual os querubins estão carregando o trono de Deus. Algumas das descrições dos querubins em Ezequiel se parecem com pessoas, mas têm quatro asas e quatro rostos.</p>",
 "associations": {
 "passage": [
 {
@@ -120,7 +120,36 @@
 "end_ref_usfm": "2CH 5:14"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "por-t4-v1",
+"resource_code": "FIAKeyTerms",
+"label": "anjo",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t67-v1",
+"resource_code": "FIAKeyTerms",
+"label": " santo",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t138-v1",
+"resource_code": "FIAKeyTerms",
+"label": "templo",
+"language": "por"
+},
+{
+"reference_id": 0,
+"content_id": "por-t143-v1",
+"resource_code": "FIAKeyTerms",
+"label": "visão",
+"language": "por"
+}
+],
 "acai": [
 {
 "id": "realia:WingedCreature",

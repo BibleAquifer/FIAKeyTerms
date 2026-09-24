@@ -8,7 +8,7 @@
 "index_reference": "idole",
 "language": "fra",
 "review_level": "None",
-"content": "<p>Une <b>idole</b> est un objet que les gens font pour <a href=\"#t149\">adorer</a> un dieu. L'objet rappelle aux gens certaines caractéristiques de ce dieu. Dans la Bible, ils sont parfois appelés « images ». Les gens faisaient un objet - une image d'un dieu et adoraient cet objet comme s'il était ce dieu. Les gens pourraient faire un tel objet de pierre, de bois ou de métal. Un tel objet pourrait ressembler à une personne ou à un animal ou juste avoir n'importe quelle forme différente. Ils pourraient être très grands ou ils pourraient être petits et capables d'être porté facilement. Le mot idole peut aussi se référer à des choses ou à des idées que les gens adorent plus que Dieu lui-même. </p><p>Dieu a interdit aux <a href=\"#t259\">Israélites</a> dans ses commandements de ne jamais faire une telle idole ou une image ou d'adorer quelque chose d'autre en plus de Dieu lui-même.</p>",
+"content": "<p>Une <b>idole</b> est un objet que les gens font pour <data class=\"resource-ref\" data-content-id=\"fra-t149-v1\" data-resource-code=\"FIAKeyTerms\">adorer</data> un dieu. L&#x27;objet rappelle aux gens certaines caractéristiques de ce dieu. Dans la Bible, ils sont parfois appelés « images ». Les gens faisaient un objet - une image d&#x27;un dieu et adoraient cet objet comme s&#x27;il était ce dieu. Les gens pourraient faire un tel objet de pierre, de bois ou de métal. Un tel objet pourrait ressembler à une personne ou à un animal ou juste avoir n&#x27;importe quelle forme différente. Ils pourraient être très grands ou ils pourraient être petits et capables d&#x27;être porté facilement. Le mot idole peut aussi se référer à des choses ou à des idées que les gens adorent plus que Dieu lui-même. </p><p>Dieu a interdit aux <data class=\"resource-ref\" data-content-id=\"fra-t259-v2\" data-resource-code=\"FIAKeyTerms\">Israélites</data> dans ses commandements de ne jamais faire une telle idole ou une image ou d&#x27;adorer quelque chose d&#x27;autre en plus de Dieu lui-même.</p>",
 "associations": {
 "passage": [
 {
@@ -378,7 +378,22 @@
 "end_ref_usfm": "1JN 5:21"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t149-v1",
+"resource_code": "FIAKeyTerms",
+"label": "adorer",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t259-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israélites",
+"language": "fra"
+}
+],
 "acai": [
 {
 "id": "deity:Teraphim",
@@ -781,7 +796,7 @@
 "index_reference": "image de dieu",
 "language": "fra",
 "review_level": "None",
-"content": "<p>Une image est une photo de quelque chose. Une photo, une peinture ou une statue d'une personne est l'image d'une personne. L'image nous dit quelque chose sur ce à quoi la personne ressemble ou à ce que son personnage est.</p><p>Quand <a href=\"#t189\">Dieu</a> a créé l'humanité, Dieu a dit « faisons l'humanité à notre image. L'humanité ressemblera à nous. Et l'humanité gouvernera sur tous les animaux et les plantes sur la terre. »</p><p>Ainsi, toutes les personnes sont créées à l'image de Dieu Cela ne signifie pas que les gens ressemblent physiquement à Dieu parce que Dieu est esprit et n'a pas un corps comme nous l'avons Mais cela signifie que les gens représentent Dieu sur terre. Dieu a donné aux gens la responsabilité de prendre soin de la terre. Les gens sont censés prendre soin des animaux, des plantes et de toute la nature au nom de Dieu ou pour le compte de Dieu</p><p>Dans le Nouveau Testament, nous apprenons que Jésus est l'image ultime de Dieu. Nous ne pouvons pas voir Dieu mais nous pouvons voir Jésus et quand nous regardons à Jésus nous savons ce à quoi Dieu est semblable. En tant que disciples de Jésus, nous devons devenir des images de Jésus - nous devons ressembler plus et plus à Jésus.</p>",
+"content": "<p>Une image est une photo de quelque chose. Une photo, une peinture ou une statue d&#x27;une personne est l&#x27;image d&#x27;une personne. L&#x27;image nous dit quelque chose sur ce à quoi la personne ressemble ou à ce que son personnage est.</p><p>Quand <data class=\"resource-ref\" data-content-id=\"fra-t189-v1\" data-resource-code=\"FIAKeyTerms\">Dieu</data> a créé l&#x27;humanité, Dieu a dit « faisons l&#x27;humanité à notre image. L&#x27;humanité ressemblera à nous. Et l&#x27;humanité gouvernera sur tous les animaux et les plantes sur la terre. »</p><p>Ainsi, toutes les personnes sont créées à l&#x27;image de Dieu Cela ne signifie pas que les gens ressemblent physiquement à Dieu parce que Dieu est esprit et n&#x27;a pas un corps comme nous l&#x27;avons Mais cela signifie que les gens représentent Dieu sur terre. Dieu a donné aux gens la responsabilité de prendre soin de la terre. Les gens sont censés prendre soin des animaux, des plantes et de toute la nature au nom de Dieu ou pour le compte de Dieu</p><p>Dans le Nouveau Testament, nous apprenons que Jésus est l&#x27;image ultime de Dieu. Nous ne pouvons pas voir Dieu mais nous pouvons voir Jésus et quand nous regardons à Jésus nous savons ce à quoi Dieu est semblable. En tant que disciples de Jésus, nous devons devenir des images de Jésus - nous devons ressembler plus et plus à Jésus.</p>",
 "associations": {
 "passage": [
 {
@@ -821,7 +836,15 @@
 "end_ref_usfm": "JAS 3:12"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t189-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Dieu",
+"language": "fra"
+}
+],
 "acai": []
 }
 },
@@ -886,7 +909,7 @@
 "index_reference": "immoralité",
 "language": "fra",
 "review_level": "None",
-"content": "<p>Quand les gens commettent le péché sexuel de n&#x27;importe quel type, nous disons qu&#x27;ils sont <b>immoraux</b>. Quand un homme marié ou une femme mariée a des relations sexuelles en dehors de leur mariage, nous disons qu&#x27;ils commettent l&#x27; adultère. Cependant, quand la Bible dit que quelqu&#x27;un fait des choses immorales, il peut faire n&#x27;importe quel type de péché sexuel. Habituellement, quand quelqu&#x27;un est immoral, il fait un type de péché sexuel quand il n&#x27;est pas marié. Parfois, les auteurs bibliques utilisent la description « immorale » pour parler des personnes qui adorent les <b>idoles</b> au lieu d&#x27;adorer Dieu. Tout comme les hommes ou les femmes sont infidèles les uns aux autres quand ils pèchent avec quelqu&#x27;un sexuellement, quelqu&#x27;un qui adore un faux dieu ou une idole au lieu du vrai Dieu est infidèle à Dieu. Nous pouvons appeler ces personnes immorales aussi.</p>",
+"content": "<p>Quand les gens commettent le péché sexuel de n&#x27;importe quel type, nous disons qu&#x27;ils sont <b>immoraux</b>. Quand un homme marié ou une femme mariée a des relations sexuelles en dehors de leur mariage, nous disons qu&#x27;ils commettent l&#x27; adultère. Cependant, quand la Bible dit que quelqu&#x27;un fait des choses immorales, il peut faire n&#x27;importe quel type de péché sexuel. Habituellement, quand quelqu&#x27;un est immoral, il fait un type de péché sexuel quand il n&#x27;est pas marié. Parfois, les auteurs bibliques utilisent la description « immorale » pour parler des personnes qui adorent les <data class=\"resource-ref\" data-content-id=\"fra-t72-v1\" data-resource-code=\"FIAKeyTerms\">idoles</data> au lieu d&#x27;adorer Dieu. Tout comme les hommes ou les femmes sont infidèles les uns aux autres quand ils pèchent avec quelqu&#x27;un sexuellement, quelqu&#x27;un qui adore un faux dieu ou une idole au lieu du vrai Dieu est infidèle à Dieu. Nous pouvons appeler ces personnes immorales aussi.</p>",
 "associations": {
 "passage": [
 {
@@ -968,7 +991,15 @@
 "end_ref_usfm": "JUD 1:7"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t72-v1",
+"resource_code": "FIAKeyTerms",
+"label": "idoles",
+"language": "fra"
+}
+],
 "acai": []
 }
 },
@@ -1072,10 +1103,10 @@
 "version": "1.0.4",
 "title": "iniquité",
 "media_type": "Text",
-"index_reference": "iniquité ",
+"index_reference": "iniquité",
 "language": "fra",
 "review_level": "None",
-"content": "<p>Quelqu'un qui est <b>sans loi</b> ne se soucie pas d'obéir à la loi. Dans la Bible, les gens qui sont sans loi ne suivent pas les lois de Dieu. Ces personnes seraient méchantes et leurs communautés seraient pleines de désordre. Il n'y aurait pas d'ordre ou de paix dans leurs communautés. Quand beaucoup de personnes dans une communauté n'obéissent pas à la loi, on peut dire que l'impiété augmente.</p>",
+"content": "<p>Quelqu&#x27;un qui est <b>sans loi</b> ne se soucie pas d&#x27;obéir à la loi. Dans la Bible, les gens qui sont sans loi ne suivent pas les lois de Dieu. Ces personnes seraient méchantes et leurs communautés seraient pleines de désordre. Il n&#x27;y aurait pas d&#x27;ordre ou de paix dans leurs communautés. Quand beaucoup de personnes dans une communauté n&#x27;obéissent pas à la loi, on peut dire que l&#x27;impiété augmente.</p>",
 "associations": {
 "passage": [
 {
@@ -1201,7 +1232,7 @@
 "index_reference": "israël",
 "language": "fra",
 "review_level": "None",
-"content": "<p><b>Israël</b> est le nom du territoire où vivaient les <a href=\"#t259\">Israélites</a>. Ce nom vient du petit-fils d'<a href=\"#t1\">Abraham</a>, Israël. Abraham était l'ancêtre des Israélites. Le nom de son petit-fils était Jacob. Plus tard, Dieu a donné à Jacob le nom d'Israël. Depuis cette époque-là, ses <a href=\"#t234\">descendants</a> sont appelés Israélites.</p><p>Longtemps plus tard, les Israélites se sont battus entre eux. À cause de cela, la nation d'Israël s'est séparée en deux. La nation qui se trouvait le plus au sud du territoire d'Israël est connue sous le nom de <a href=\"#t81\">Juda</a>. La nation qui se trouvait le plus au nord du territoire d'Israël a continué à être connue sous le nom d'Israël.</p><p>C'est pour cela que le nom « Israël » désigne parfois un homme, c'est-à-dire Jacob, le petit-fils d'Abraham. C'est le nom que Dieu lui a donné alors que c'était déjà un adulte.</p><p>Mais parfois, le nom « Israël » fait référence à tous les descendants de Jacob dans leur ensemble. Dans ce cas, le nom « Israël » désigne tous les Israélites ou le peuple d'Israël dans son ensemble.</p><p>Parfois, le nom « Israël » fait référence à la terre, c'est-à-dire au territoire où les Israélites vivaient.</p><p>Et parfois, le mot Israël désigne seulement la partie nord de ce territoire.</p><p>Aujourd'hui, Israël est le nom du pays qui s'est formé pour servir de patrie au peuple <a href=\"#t77\">juif</a> après 1948. Ce pays ne correspond pas exactement au territoire où vivaient les Israélites à l'époque biblique.</p>",
+"content": "<p><b>Israël</b> est le nom du territoire où vivaient les <data class=\"resource-ref\" data-content-id=\"fra-t259-v2\" data-resource-code=\"FIAKeyTerms\">Israélites</data>. Ce nom vient du petit-fils d'<data class=\"resource-ref\" data-content-id=\"fra-t1-v1\" data-resource-code=\"FIAKeyTerms\">Abraham</data>, Israël. Abraham était l'ancêtre des Israélites. Le nom de son petit-fils était Jacob. Plus tard, Dieu a donné à Jacob le nom d'Israël. Depuis cette époque-là, ses <data class=\"resource-ref\" data-content-id=\"fra-t234-v1\" data-resource-code=\"FIAKeyTerms\">descendants</data> sont appelés Israélites.</p><p>Longtemps plus tard, les Israélites se sont battus entre eux. À cause de cela, la nation d'Israël s'est séparée en deux. La nation qui se trouvait le plus au sud du territoire d'Israël est connue sous le nom de <data class=\"resource-ref\" data-content-id=\"fra-t81-v1\" data-resource-code=\"FIAKeyTerms\">Juda</data>. La nation qui se trouvait le plus au nord du territoire d'Israël a continué à être connue sous le nom d'Israël.</p><p>C'est pour cela que le nom « Israël » désigne parfois un homme, c'est-à-dire Jacob, le petit-fils d'Abraham. C'est le nom que Dieu lui a donné alors que c'était déjà un adulte.</p><p>Mais parfois, le nom « Israël » fait référence à tous les descendants de Jacob dans leur ensemble. Dans ce cas, le nom « Israël » désigne tous les Israélites ou le peuple d'Israël dans son ensemble.</p><p>Parfois, le nom « Israël » fait référence à la terre, c'est-à-dire au territoire où les Israélites vivaient.</p><p>Et parfois, le mot Israël désigne seulement la partie nord de ce territoire.</p><p>Aujourd'hui, Israël est le nom du pays qui s'est formé pour servir de patrie au peuple <data class=\"resource-ref\" data-content-id=\"fra-t77-v2\" data-resource-code=\"FIAKeyTerms\">juif</data> après 1948. Ce pays ne correspond pas exactement au territoire où vivaient les Israélites à l'époque biblique.</p>",
 "associations": {
 "passage": [
 {
@@ -1805,7 +1836,43 @@
 "end_ref_usfm": "JDG 9:57"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t259-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israélites",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t1-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Abraham",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t234-v1",
+"resource_code": "FIAKeyTerms",
+"label": "descendants",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t81-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Juda",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t77-v2",
+"resource_code": "FIAKeyTerms",
+"label": "juif",
+"language": "fra"
+}
+],
 "acai": [
 {
 "id": "person:Israel",
@@ -2449,7 +2516,7 @@
 "index_reference": "israélite",
 "language": "fra",
 "review_level": "None",
-"content": "<p><b>Les Israélites</b> sont les <a href=\"#t234\">descendants</a> de Jacob. <a href=\"#t1\">Abraham</a>, le grand-père de Jacob, était un homme qui vécut environ 2000 ans avant la naissance de Jésus. Quand Abraham avait 75 ans, Dieu lui a parlé. Dieu lui a dit de quitter sa patrie et d'aller dans un endroit que Dieu lui montrerait. Dieu a dit qu'il bénirait Abraham, qu'il ferait de lui une grande <a href=\"#t94\">nation</a> et qu'il <a href=\"#t16\">bénirait</a> toutes les nations du monde à travers Abraham. Abraham a obéi à Dieu et Dieu l'a conduit dans la région qui était à cette époque appelée <a href=\"#t178\">Canaan</a>. Dieu a fait la promesse à Abraham qu'il donnerait cette terre aux descendants d'Abraham. Abraham et sa femme n'avaient pas d'enfants, mais quand Abraham et sa femme étaient déjà très vieux, Dieu leur a donné un fils, Isaac. C'était le début de l' accomplissant de la promesse de Dieu à Abraham.</p><p>Le fils d'Abraham Isaac avait un fils nommé Jacob. Dieu a donné plus tard à Jacob le nom d'Israël. À partir de ce moment, tous les descendants de Jacob sont appelés Israélites. Jacob avait 12 fils et par conséquent les Israélites étaient divisés en 12 tribus : Ruben, Siméon, Lévi, Juda, Issachar, Zabulun, Dan, Naphtali, Gad, Asher, Joseph et Benjamin. La tribu de Joseph était divisée en deux « demi-tribus » : Éphraïm et Manassé.</p><p>Parce que Dieu avait fait une promesse à Abraham, puis à Isaac et Jacob, les Israélites étaient les personnes spéciales de Dieu. Dieu a fait une <a href=\"#t29\">alliance</a> avec eux, ce qui est une promesse avec un accord spécial. L'accord était que les Israélites obéiraient à tous les <a href=\"#t245\">commandements</a> de Dieu et Dieu les bénirait et ferait d'eux une bénédiction pour toutes les nations de la terre.</p><p>La terre où les Israélites vivaient est appelée <a href=\"#t74\">Israël</a>. Cette terre était divisée entre les différentes tribus d'Israël.  D’abord, des personnes appelées “juges” gouvernèrent les Israélites. Quand le peuple a demandé à Dieu de leur donner un <a href=\"#t226\">roi</a>, Dieu a nommé un roi pour gouverner sur eux. Au début, cela s'est bien passé et sous le règne du roi <a href=\"#t33\">David</a> et de son fils Salomon, le royaume d'Israël est devenu grand et prospère. Mais quand le roi Salomon est mort, il y avait de conflit. Dix des 12 tribus ne voulaient pas avoir le fils du roi Salomon comme leur roi. Ils se sont séparés des deux autres tribus et ont choisi leur propre roi.</p><p>À partir de ce moment, Israël était divisé en parties. La partie nord, avec 10 tribus, était toujours appelée Israël. La partie sud, avec deux tribus, était appelée <a href=\"#t81\">Juda</a>. Il était appelé Juda parce que la tribu de Juda était la plus grande des deux tribus qui formaient ensemble ce royaume du sud<a href=\"#t157\">.</a></p><p>Chaque partie avait son propre roi. La <a href=\"#t94\">nation</a> de l'Assyrie a vaincu la partie nord, Israël, environ 700 ans avant la naissance de Jésus. Cela s'est produit parce que les gens désobéissaient continuellement à Dieu et brisaient l'alliance. Le roi des Assyriens a envoyé la plupart des personnes d'Israël dans des pays étrangers. C'était la fin du royaume du nord. Nous n'entendons jamais quelque chose de plus sur ce qui est arrivé à ces personnes. </p><p>Le royaume de Juda a duré un peu plus longtemps, mais après quelques années, Dieu les a aussi punis pour leur désobéissance. Une autre nation étrangère, les babyloniens, sont venus et ont détruit la ville de <a href=\"#t76\">Jérusalem</a> et les babyloniens ont pris beaucoup de personnes de Juda à Babylone comme prisonniers. Les gens de Juda étaient maintenant appelés <a href=\"#t77\">Juifs</a>, ce qui signifie « gens de Juda ». Plus tard, Dieu a permis aux Juifs de retourner en Juda, où ils ont reconstruit la ville de Jérusalem et le <a href=\"#t138\">temple</a>. Mais Juda ne deviendrait jamais à nouveau un royaume indépendant. À l'époque du Nouveau Testament, une autre nation nommée Rome gouvernait sur la zone qui avait été Israël. Ce qui avait été le royaume du sud de Juda était maintenant appelé la province romaine de la <a href=\"#t81\">Judée</a>. Ce qui avait été le royaume du nord d'Israël était maintenant à peu près les provinces romaines de <a href=\"#t221\">Samarie</a> et de <a href=\"#t55\">Galilée</a>. Le mot Juif avait maintenant commencé à se référer à tous les descendants restants de Jacob, peu importe où ils vivaient.</p>",
+"content": "<p><b>Les Israélites</b> sont les <data class=\"resource-ref\" data-content-id=\"fra-t234-v1\" data-resource-code=\"FIAKeyTerms\">descendants</data> de Jacob. <data class=\"resource-ref\" data-content-id=\"fra-t1-v1\" data-resource-code=\"FIAKeyTerms\">Abraham</data>, le grand-père de Jacob, était un homme qui vécut environ 2000 ans avant la naissance de Jésus. Quand Abraham avait 75 ans, Dieu lui a parlé. Dieu lui a dit de quitter sa patrie et d&#x27;aller dans un endroit que Dieu lui montrerait. Dieu a dit qu&#x27;il bénirait Abraham, qu&#x27;il ferait de lui une grande <data class=\"resource-ref\" data-content-id=\"fra-t94-v1\" data-resource-code=\"FIAKeyTerms\">nation</data> et qu&#x27;il <data class=\"resource-ref\" data-content-id=\"fra-t16-v1\" data-resource-code=\"FIAKeyTerms\">bénirait</data> toutes les nations du monde à travers Abraham. Abraham a obéi à Dieu et Dieu l&#x27;a conduit dans la région qui était à cette époque appelée <data class=\"resource-ref\" data-content-id=\"fra-t178-v1\" data-resource-code=\"FIAKeyTerms\">Canaan</data>. Dieu a fait la promesse à Abraham qu&#x27;il donnerait cette terre aux descendants d&#x27;Abraham. Abraham et sa femme n&#x27;avaient pas d&#x27;enfants, mais quand Abraham et sa femme étaient déjà très vieux, Dieu leur a donné un fils, Isaac. C&#x27;était le début de l&#x27; accomplissant de la promesse de Dieu à Abraham.</p><p>Le fils d&#x27;Abraham Isaac avait un fils nommé Jacob. Dieu a donné plus tard à Jacob le nom d&#x27;Israël. À partir de ce moment, tous les descendants de Jacob sont appelés Israélites. Jacob avait 12 fils et par conséquent les Israélites étaient divisés en 12 tribus : Ruben, Siméon, Lévi, Juda, Issachar, Zabulun, Dan, Naphtali, Gad, Asher, Joseph et Benjamin. La tribu de Joseph était divisée en deux « demi-tribus » : Éphraïm et Manassé.</p><p>Parce que Dieu avait fait une promesse à Abraham, puis à Isaac et Jacob, les Israélites étaient les personnes spéciales de Dieu. Dieu a fait une <data class=\"resource-ref\" data-content-id=\"fra-t29-v1\" data-resource-code=\"FIAKeyTerms\">alliance</data> avec eux, ce qui est une promesse avec un accord spécial. L&#x27;accord était que les Israélites obéiraient à tous les <data class=\"resource-ref\" data-content-id=\"fra-t245-v1\" data-resource-code=\"FIAKeyTerms\">commandements</data> de Dieu et Dieu les bénirait et ferait d&#x27;eux une bénédiction pour toutes les nations de la terre.</p><p>La terre où les Israélites vivaient est appelée <data class=\"resource-ref\" data-content-id=\"fra-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israël</data>. Cette terre était divisée entre les différentes tribus d&#x27;Israël.  D’abord, des personnes appelées “juges” gouvernèrent les Israélites. Quand le peuple a demandé à Dieu de leur donner un <data class=\"resource-ref\" data-content-id=\"fra-t226-v1\" data-resource-code=\"FIAKeyTerms\">roi</data>, Dieu a nommé un roi pour gouverner sur eux. Au début, cela s&#x27;est bien passé et sous le règne du roi <data class=\"resource-ref\" data-content-id=\"fra-t33-v1\" data-resource-code=\"FIAKeyTerms\">David</data> et de son fils Salomon, le royaume d&#x27;Israël est devenu grand et prospère. Mais quand le roi Salomon est mort, il y avait de conflit. Dix des 12 tribus ne voulaient pas avoir le fils du roi Salomon comme leur roi. Ils se sont séparés des deux autres tribus et ont choisi leur propre roi.</p><p>À partir de ce moment, Israël était divisé en parties. La partie nord, avec 10 tribus, était toujours appelée Israël. La partie sud, avec deux tribus, était appelée <data class=\"resource-ref\" data-content-id=\"fra-t81-v1\" data-resource-code=\"FIAKeyTerms\">Juda</data>. Il était appelé Juda parce que la tribu de Juda était la plus grande des deux tribus qui formaient ensemble ce royaume du sud<data class=\"resource-ref\" data-content-id=\"fra-t157-v1\" data-resource-code=\"FIAKeyTerms\">.</data></p><p>Chaque partie avait son propre roi. La <data class=\"resource-ref\" data-content-id=\"fra-t94-v1\" data-resource-code=\"FIAKeyTerms\">nation</data> de l&#x27;Assyrie a vaincu la partie nord, Israël, environ 700 ans avant la naissance de Jésus. Cela s&#x27;est produit parce que les gens désobéissaient continuellement à Dieu et brisaient l&#x27;alliance. Le roi des Assyriens a envoyé la plupart des personnes d&#x27;Israël dans des pays étrangers. C&#x27;était la fin du royaume du nord. Nous n&#x27;entendons jamais quelque chose de plus sur ce qui est arrivé à ces personnes. </p><p>Le royaume de Juda a duré un peu plus longtemps, mais après quelques années, Dieu les a aussi punis pour leur désobéissance. Une autre nation étrangère, les babyloniens, sont venus et ont détruit la ville de <data class=\"resource-ref\" data-content-id=\"fra-t76-v1\" data-resource-code=\"FIAKeyTerms\">Jérusalem</data> et les babyloniens ont pris beaucoup de personnes de Juda à Babylone comme prisonniers. Les gens de Juda étaient maintenant appelés <data class=\"resource-ref\" data-content-id=\"fra-t77-v2\" data-resource-code=\"FIAKeyTerms\">Juifs</data>, ce qui signifie « gens de Juda ». Plus tard, Dieu a permis aux Juifs de retourner en Juda, où ils ont reconstruit la ville de Jérusalem et le <data class=\"resource-ref\" data-content-id=\"fra-t138-v1\" data-resource-code=\"FIAKeyTerms\">temple</data>. Mais Juda ne deviendrait jamais à nouveau un royaume indépendant. À l&#x27;époque du Nouveau Testament, une autre nation nommée Rome gouvernait sur la zone qui avait été Israël. Ce qui avait été le royaume du sud de Juda était maintenant appelé la province romaine de la <data class=\"resource-ref\" data-content-id=\"fra-t81-v1\" data-resource-code=\"FIAKeyTerms\">Judée</data>. Ce qui avait été le royaume du nord d&#x27;Israël était maintenant à peu près les provinces romaines de <data class=\"resource-ref\" data-content-id=\"fra-t221-v1\" data-resource-code=\"FIAKeyTerms\">Samarie</data> et de <data class=\"resource-ref\" data-content-id=\"fra-t55-v1.0.1\" data-resource-code=\"FIAKeyTerms\">Galilée</data>. Le mot Juif avait maintenant commencé à se référer à tous les descendants restants de Jacob, peu importe où ils vivaient.</p>",
 "associations": {
 "passage": [
 {
@@ -3053,7 +3120,141 @@
 "end_ref_usfm": "LEV 27:34"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t234-v1",
+"resource_code": "FIAKeyTerms",
+"label": "descendants",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t1-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Abraham",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t94-v1",
+"resource_code": "FIAKeyTerms",
+"label": "nation",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t16-v1",
+"resource_code": "FIAKeyTerms",
+"label": "bénirait",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t178-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Canaan",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t29-v1",
+"resource_code": "FIAKeyTerms",
+"label": "alliance",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t245-v1",
+"resource_code": "FIAKeyTerms",
+"label": "commandements",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israël",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t226-v1",
+"resource_code": "FIAKeyTerms",
+"label": "roi",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t33-v1",
+"resource_code": "FIAKeyTerms",
+"label": "David",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t81-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Juda",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t157-v1",
+"resource_code": "FIAKeyTerms",
+"label": ".",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t94-v1",
+"resource_code": "FIAKeyTerms",
+"label": "nation",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t76-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Jérusalem",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t77-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Juifs",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t138-v1",
+"resource_code": "FIAKeyTerms",
+"label": "temple",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t81-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Judée",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t221-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Samarie",
+"language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t55-v1.0.1",
+"resource_code": "FIAKeyTerms",
+"label": "Galilée",
+"language": "fra"
+}
+],
 "acai": [
 {
 "id": "group:Israel",

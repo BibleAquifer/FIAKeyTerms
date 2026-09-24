@@ -8,7 +8,7 @@
 "index_reference": "watchtower",
 "language": "eng",
 "review_level": "None",
-"content": "<p>A <b>watchtower</b> is a place inside a <a href=\"#t142\">vineyard</a> from where a watchman could look out over the garden. A vineyard is a garden where people grow grapes. Grapes are a soft, juicy fruit that grow on a tree that is called a grapevine. People usually built a wall around a vineyard so that wild animals or thieves could not come into the garden. People made this wall out of rocks or thorny bushes. Inside the vineyard was a hut that workers made from grass, where the workers and the watchman could rest in the shade. They built this hut on top of a pile of stones, so that it was a bit higher than the rest of the garden. That way, the watchman could look out over the garden and see everything that happened. This hut was called a watchtower.</p>",
+"content": "<p>A <b>watchtower</b> is a place inside a <data class=\"resource-ref\" data-content-id=\"eng-t142-v1\" data-resource-code=\"FIAKeyTerms\">vineyard</data> from where a watchman could look out over the garden. A vineyard is a garden where people grow grapes. Grapes are a soft, juicy fruit that grow on a tree that is called a grapevine. People usually built a wall around a vineyard so that wild animals or thieves could not come into the garden. People made this wall out of rocks or thorny bushes. Inside the vineyard was a hut that workers made from grass, where the workers and the watchman could rest in the shade. They built this hut on top of a pile of stones, so that it was a bit higher than the rest of the garden. That way, the watchman could look out over the garden and see everything that happened. This hut was called a watchtower.</p>",
 "associations": {
 "passage": [
 {
@@ -30,7 +30,15 @@
 "end_ref_usfm": "MRK 12:12"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t142-v1",
+"resource_code": "FIAKeyTerms",
+"label": "vineyard",
+"language": "eng"
+}
+],
 "acai": [
 {
 "id": "realia:Tower",
@@ -85,7 +93,7 @@
 "index_reference": "wickedness",
 "language": "eng",
 "review_level": "None",
-"content": "<p><b>Wickedness</b> means the same as evil. Evil is the opposite of good.</p><p>A person who is evil, or wicked, willingly does bad things that hurt other people. When people stop obeying <a href=\"#t189\">God</a>, they begin to do evil actions.</p><p>Because humans are so disobedient to God, the Bible teaches us that our hearts have become evil. Instead of wanting to do good things, we want to do bad things. Very many problems in the world like war, poverty, and injustice, happen because of the evil inside people's hearts. Even sickness and death is ultimately a result of evil.</p><p>God hates evil. When God will establish his kingdom forever, he will destroy evil. Nothing that is evil will enter God's kingdom. Until that time, God still allows evil to happen. Why he allows this is one of the most difficult questions for Christians!</p>",
+"content": "<p><b>Wickedness</b> means the same as evil. Evil is the opposite of good.</p><p>A person who is evil, or wicked, willingly does bad things that hurt other people. When people stop obeying <data class=\"resource-ref\" data-content-id=\"eng-t189-v1\" data-resource-code=\"FIAKeyTerms\">God</data>, they begin to do evil actions.</p><p>Because humans are so disobedient to God, the Bible teaches us that our hearts have become evil. Instead of wanting to do good things, we want to do bad things. Very many problems in the world like war, poverty, and injustice, happen because of the evil inside people's hearts. Even sickness and death is ultimately a result of evil.</p><p>God hates evil. When God will establish his kingdom forever, he will destroy evil. Nothing that is evil will enter God's kingdom. Until that time, God still allows evil to happen. Why he allows this is one of the most difficult questions for Christians!</p>",
 "associations": {
 "passage": [
 {
@@ -335,7 +343,15 @@
 "end_ref_usfm": "JAS 1:27"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t189-v1",
+"resource_code": "FIAKeyTerms",
+"label": "God",
+"language": "eng"
+}
+],
 "acai": [
 {
 "id": "keyterm:Wickedness",
@@ -618,7 +634,7 @@
 "index_reference": "wilderness",
 "language": "eng",
 "review_level": "None",
-"content": "<p>A <a href=\"#t38\">desert</a> or <b>wilderness</b> is a lonely, barren place without water. There are almost no trees or bushes growing in a desert. The ground is dry and rocky, and there are wild animals roaming around. People do not live in the desert.</p>",
+"content": "<p>A <data class=\"resource-ref\" data-content-id=\"eng-t38-v1\" data-resource-code=\"FIAKeyTerms\">desert</data> or <b>wilderness</b> is a lonely, barren place without water. There are almost no trees or bushes growing in a desert. The ground is dry and rocky, and there are wild animals roaming around. People do not live in the desert.</p>",
 "associations": {
 "passage": [
 {
@@ -1222,7 +1238,15 @@
 "end_ref_usfm": "LUK 4:13"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t38-v1",
+"resource_code": "FIAKeyTerms",
+"label": "desert",
+"language": "eng"
+}
+],
 "acai": [
 {
 "id": "place:Arabah",
@@ -2536,7 +2560,7 @@
 "index_reference": "winepress",
 "language": "eng",
 "review_level": "None",
-"content": "<p>A <b>winepress</b> is a flat piece of stone with a ledge around it. People in <a href=\"#t74\">Israel</a> use this to press the juice out of grapes. Grapes are a soft, juicy fruit. People pour the grapes on this stone and then they trample on the grapes with their feet. This would squeeze out the juice from the grapes. The juice would flow into a container called a wine vat. Another way of taking out the juice was by rolling a heavy stone over the grapes.</p><div data-type=\"callout\" data-callout-style=\"action\"><p>You could look at pictures of a winepress in the video Bible dictionary.</p></div>",
+"content": "<p>A <b>winepress</b> is a flat piece of stone with a ledge around it. People in <data class=\"resource-ref\" data-content-id=\"eng-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israel</data> use this to press the juice out of grapes. Grapes are a soft, juicy fruit. People pour the grapes on this stone and then they trample on the grapes with their feet. This would squeeze out the juice from the grapes. The juice would flow into a container called a wine vat. Another way of taking out the juice was by rolling a heavy stone over the grapes.</p><div data-type=\"callout\" data-callout-style=\"action\"><p>You could look at pictures of a winepress in the video Bible dictionary.</p></div>",
 "associations": {
 "passage": [
 {
@@ -2582,7 +2606,15 @@
 "end_ref_usfm": "MRK 12:12"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israel",
+"language": "eng"
+}
+],
 "acai": [
 {
 "id": "realia:Winepress",
@@ -3362,7 +3394,7 @@
 "index_reference": "word",
 "language": "eng",
 "review_level": "None",
-"content": "<p>In the Bible, <b>word</b> usually means <b>the word of God</b>. The word of God means everything that God tells people. God speaks to the people either directly, or through people called <a href=\"#t104\">prophets</a>. God also speaks through his actions: When people see what God is doing, people can understand what he speaks to them.</p><p>When people in the New Testament talk about \"the word,\" or \"the word of God,\" or \"the word of the Lord,\" they usually mean the <a href=\"#t160\">good news</a> that Jesus has come into the world.</p><p>People can know what God tells them through the <a href=\"#t120\">Scriptures</a>-the Bible. Therefore, people also call the Scriptures \"the word of God.\"</p>",
+"content": "<p>In the Bible, <b>word</b> usually means <b>the word of God</b>. The word of God means everything that God tells people. God speaks to the people either directly, or through people called <data class=\"resource-ref\" data-content-id=\"eng-t104-v1\" data-resource-code=\"FIAKeyTerms\">prophets</data>. God also speaks through his actions: When people see what God is doing, people can understand what he speaks to them.</p><p>When people in the New Testament talk about \"the word,\" or \"the word of God,\" or \"the word of the Lord,\" they usually mean the <data class=\"resource-ref\" data-content-id=\"eng-t160-v1\" data-resource-code=\"FIAKeyTerms\">good news</data> that Jesus has come into the world.</p><p>People can know what God tells them through the <data class=\"resource-ref\" data-content-id=\"eng-t120-v1\" data-resource-code=\"FIAKeyTerms\">Scriptures</data>-the Bible. Therefore, people also call the Scriptures \"the word of God.\"</p>",
 "associations": {
 "passage": [
 {
@@ -3628,6 +3660,12 @@
 "start_ref_usfm": "2KI 9:30",
 "end_ref": "12009037",
 "end_ref_usfm": "2KI 9:37"
+},
+{
+"start_ref": "12014023",
+"start_ref_usfm": "2KI 14:23",
+"end_ref": "12014029",
+"end_ref_usfm": "2KI 14:29"
 },
 {
 "start_ref": "13010001",
@@ -3958,15 +3996,31 @@
 "start_ref_usfm": "1JN 1:5",
 "end_ref": "62002002",
 "end_ref_usfm": "1JN 2:2"
-},
-{
-"start_ref": "62002003",
-"start_ref_usfm": "1JN 2:3",
-"end_ref": "62002011",
-"end_ref_usfm": "1JN 2:11"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t104-v1",
+"resource_code": "FIAKeyTerms",
+"label": "prophets",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t160-v1",
+"resource_code": "FIAKeyTerms",
+"label": "good news",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t120-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Scriptures",
+"language": "eng"
+}
+],
 "acai": [
 {
 "id": "keyterm:Word",
@@ -4255,6 +4309,12 @@
 "end_ref_usfm": "2KI 9:37"
 },
 {
+"start_ref": "12014023",
+"start_ref_usfm": "2KI 14:23",
+"end_ref": "12014029",
+"end_ref_usfm": "2KI 14:29"
+},
+{
 "start_ref": "13010001",
 "start_ref_usfm": "1CH 10:1",
 "end_ref": "13010014",
@@ -4583,12 +4643,6 @@
 "start_ref_usfm": "1JN 1:5",
 "end_ref": "62002002",
 "end_ref_usfm": "1JN 2:2"
-},
-{
-"start_ref": "62002003",
-"start_ref_usfm": "1JN 2:3",
-"end_ref": "62002011",
-"end_ref_usfm": "1JN 2:11"
 }
 ],
 "resource": []
@@ -4603,7 +4657,7 @@
 "index_reference": "worship",
 "language": "eng",
 "review_level": "None",
-"content": "<p>When we <b>worship</b> God, we give honor to God. We say that God deserves all our thanks, our praises, and our respect. When we worship God, we are in awe and wonder about how good and powerful and loving God is, and how different he is from us humans!</p><p>Only God deserves our worship. We should not worship anything or anyone else.</p><p>People in the Bible often showed their worship to God by <a href=\"#t18\">bowing</a> down to him. People worshiped God together, or just by themselves. During the time in <a href=\"#t74\">Israel</a>'s history when they had the <a href=\"#t138\">temple</a> of God, people worshiped God together at the temple. They worshiped God through their songs, <a href=\"#t102\">prayers</a>, and <a href=\"#t114\">sacrifices</a>. But these activities of worship were useless if their hearts were not obedient to God. God told them that he rejects people's worship of him if they treat other people with cruelty and injustice.</p><p>In the time of the New Testament, the <a href=\"#t77\">Jews</a> also met together for worship in <a href=\"#t133\">synagogues</a>. A synagogue is a place where Jewish people gather for teaching and learning about God. The Jews also prayed and worshiped God in the synagogues. But Jesus also made it clear that God cares more about our love for him than about the place where we worship.</p><p>After Jesus had gone back to <a href=\"#t63\">heaven</a>, his followers at first still worshiped God in the temple and in the synagogues. Later, when more and more people who were not Jews became followers of Jesus, the people began to meet together especially in people's homes. They worshiped God together through preaching, prayer, singing, and by other activities.</p><p>But worship is not something that we do only at particular times, and in groups. Everything we do, even ordinary daily tasks, can be worship if we do them for God. Our whole life and all our actions should be a worship to God. God has been so good to us, and because we are so grateful to him we worship him in everything that we do.</p>",
+"content": "<p>When we <b>worship</b> God, we give honor to God. We say that God deserves all our thanks, our praises, and our respect. When we worship God, we are in awe and wonder about how good and powerful and loving God is, and how different he is from us humans!</p><p>Only God deserves our worship. We should not worship anything or anyone else.</p><p>People in the Bible often showed their worship to God by <data class=\"resource-ref\" data-content-id=\"eng-t18-v1\" data-resource-code=\"FIAKeyTerms\">bowing</data> down to him. People worshiped God together, or just by themselves. During the time in <data class=\"resource-ref\" data-content-id=\"eng-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israel</data>'s history when they had the <data class=\"resource-ref\" data-content-id=\"eng-t138-v1\" data-resource-code=\"FIAKeyTerms\">temple</data> of God, people worshiped God together at the temple. They worshiped God through their songs, <data class=\"resource-ref\" data-content-id=\"eng-t102-v1\" data-resource-code=\"FIAKeyTerms\">prayers</data>, and <data class=\"resource-ref\" data-content-id=\"eng-t114-v1\" data-resource-code=\"FIAKeyTerms\">sacrifices</data>. But these activities of worship were useless if their hearts were not obedient to God. God told them that he rejects people's worship of him if they treat other people with cruelty and injustice.</p><p>In the time of the New Testament, the <data class=\"resource-ref\" data-content-id=\"eng-t77-v2\" data-resource-code=\"FIAKeyTerms\">Jews</data> also met together for worship in <data class=\"resource-ref\" data-content-id=\"eng-t133-v1\" data-resource-code=\"FIAKeyTerms\">synagogues</data>. A synagogue is a place where Jewish people gather for teaching and learning about God. The Jews also prayed and worshiped God in the synagogues. But Jesus also made it clear that God cares more about our love for him than about the place where we worship.</p><p>After Jesus had gone back to <data class=\"resource-ref\" data-content-id=\"eng-t63-v1\" data-resource-code=\"FIAKeyTerms\">heaven</data>, his followers at first still worshiped God in the temple and in the synagogues. Later, when more and more people who were not Jews became followers of Jesus, the people began to meet together especially in people's homes. They worshiped God together through preaching, prayer, singing, and by other activities.</p><p>But worship is not something that we do only at particular times, and in groups. Everything we do, even ordinary daily tasks, can be worship if we do them for God. Our whole life and all our actions should be a worship to God. God has been so good to us, and because we are so grateful to him we worship him in everything that we do.</p>",
 "associations": {
 "passage": [
 {
@@ -5207,7 +5261,64 @@
 "end_ref_usfm": "1CO 14:25"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t18-v1",
+"resource_code": "FIAKeyTerms",
+"label": "bowing",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israel",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t138-v1",
+"resource_code": "FIAKeyTerms",
+"label": "temple",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t102-v1",
+"resource_code": "FIAKeyTerms",
+"label": "prayers",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t114-v1",
+"resource_code": "FIAKeyTerms",
+"label": "sacrifices",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t77-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Jews",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t133-v1",
+"resource_code": "FIAKeyTerms",
+"label": "synagogues",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t63-v1",
+"resource_code": "FIAKeyTerms",
+"label": "heaven",
+"language": "eng"
+}
+],
 "acai": [
 {
 "id": "keyterm:Worship",

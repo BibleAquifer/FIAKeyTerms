@@ -8,7 +8,7 @@
 "index_reference": "拿撒勒",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><b>拿撒勒</b>是<a href=\"#t74\">以色列</a>北部<a href=\"#t55\">加利利</a>地区的一个小城镇。 拿撒勒没有出现在旧约中，我们第一次听到这个城镇是当我们听说耶稣的父母<a href=\"#t89\">马利亚</a>和约瑟来自拿撒勒。 耶稣出生在<a href=\"#t81\">犹太</a>一个名叫<a href=\"#t13\">伯利恒</a>的村庄，但当祂还小时，马利亚和约瑟就去往拿撒勒生活。 因此，耶稣后来被称为拿撒勒人，这表示祂是一个来自拿撒勒的人。 这并不是恭维。 来自犹太地的<a href=\"#t77\">犹太人</a>看不起加利利人，甚至加利利人也看不起拿撒勒人，因为拿撒勒是一个微小的、不重要的城镇。</p>",
+"content": "<p><b>拿撒勒</b>是<data class=\"resource-ref\" data-content-id=\"cmn-t74-v1\" data-resource-code=\"FIAKeyTerms\">以色列</data>北部<data class=\"resource-ref\" data-content-id=\"cmn-t55-v1\" data-resource-code=\"FIAKeyTerms\">加利利</data>地区的一个小城镇。 拿撒勒没有出现在旧约中，我们第一次听到这个城镇是当我们听说耶稣的父母马利亚和约瑟来自拿撒勒。 耶稣出生在<data class=\"resource-ref\" data-content-id=\"cmn-t81-v1\" data-resource-code=\"FIAKeyTerms\">犹太</data>一个名叫伯利恒的村庄，但当祂还小时，马利亚和约瑟就去往拿撒勒生活。 因此，耶稣后来被称为拿撒勒人，这表示祂是一个来自拿撒勒的人。 这并不是恭维。 来自犹太地的<data class=\"resource-ref\" data-content-id=\"cmn-t77-v1\" data-resource-code=\"FIAKeyTerms\">犹太人</data>看不起加利利人，甚至加利利人也看不起拿撒勒人，因为拿撒勒是一个微小的、不重要的城镇。</p>",
 "associations": {
 "passage": [
 {
@@ -114,7 +114,36 @@
 "end_ref_usfm": "ACT 26:23"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t74-v1",
+"resource_code": "FIAKeyTerms",
+"label": "以色列",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t55-v1",
+"resource_code": "FIAKeyTerms",
+"label": "加利利",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t81-v1",
+"resource_code": "FIAKeyTerms",
+"label": "犹太",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t77-v1",
+"resource_code": "FIAKeyTerms",
+"label": "犹太人",
+"language": "zhs"
+}
+],
 "acai": [
 {
 "id": "place:Nazareth",

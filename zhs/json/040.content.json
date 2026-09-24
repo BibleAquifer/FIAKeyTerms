@@ -8,7 +8,7 @@
 "index_reference": "里衣内衣内袍",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><b>里衣</b>是男人和女人都有穿的衣服。 这是一种衬衫，可以延伸到膝盖或脚踝。 人们可以用羊毛或亚麻布制成内袍。 人们通常在外袍外面穿著一条腰带，绑在腰上。 男人可能会把他们的剑放在他们内袍的腰带中。 人们在外衣——如<a href=\"#t112\">外袍</a>或<a href=\"#t27\">外衣</a>——里面穿里衣。</p><div data-type=\"callout\" data-callout-style=\"action\"><p>你可以在图解词典中查找外衣的图片。</p></div>",
+"content": "<p><b>里衣</b>是男人和女人都有穿的衣服。 这是一种衬衫，可以延伸到膝盖或脚踝。 人们可以用羊毛或亚麻布制成内袍。 人们通常在外袍外面穿著一条腰带，绑在腰上。 男人可能会把他们的剑放在他们内袍的腰带中。 人们在外衣——如<data class=\"resource-ref\" data-content-id=\"cmn-t112-v1\" data-resource-code=\"FIAKeyTerms\">外袍</data>或<data class=\"resource-ref\" data-content-id=\"cmn-t27-v1\" data-resource-code=\"FIAKeyTerms\">外衣</data>——里面穿里衣。</p><div data-type=\"callout\" data-callout-style=\"action\"><p>你可以在图解词典中查找外衣的图片。</p></div>",
 "associations": {
 "passage": [
 {
@@ -132,7 +132,22 @@
 "end_ref_usfm": "ACT 9:43"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t112-v1",
+"resource_code": "FIAKeyTerms",
+"label": "外袍",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t27-v1",
+"resource_code": "FIAKeyTerms",
+"label": "外衣",
+"language": "zhs"
+}
+],
 "acai": [
 {
 "id": "realia:Tunic",
@@ -296,7 +311,7 @@
 "index_reference": "力量",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><b>力量</b>指某人做某事的能力，或他们的体力。 \"<a href=\"#t150\">心</a>、<a href=\"#t131\">灵魂</a>、<a href=\"#t151\">心意</a>和<a href=\"#t152\">力量</a>\"这些词的共同作用是描述一个人的所有个性和能力。</p>",
+"content": "<p><b>力量</b>指某人做某事的能力，或他们的体力。 \"<data class=\"resource-ref\" data-content-id=\"cmn-t150-v1\" data-resource-code=\"FIAKeyTerms\">心</data>、<data class=\"resource-ref\" data-content-id=\"cmn-t131-v1\" data-resource-code=\"FIAKeyTerms\">灵魂</data>、<data class=\"resource-ref\" data-content-id=\"cmn-t151-v1\" data-resource-code=\"FIAKeyTerms\">心意</data>和<data class=\"resource-ref\" data-content-id=\"cmn-t152-v1\" data-resource-code=\"FIAKeyTerms\">力量</data>\"这些词的共同作用是描述一个人的所有个性和能力。</p>",
 "associations": {
 "passage": [
 {
@@ -312,7 +327,36 @@
 "end_ref_usfm": "MRK 12:34"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t150-v1",
+"resource_code": "FIAKeyTerms",
+"label": "心",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t131-v1",
+"resource_code": "FIAKeyTerms",
+"label": "灵魂",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t151-v1",
+"resource_code": "FIAKeyTerms",
+"label": "心意",
+"language": "zhs"
+},
+{
+"reference_id": 0,
+"content_id": "cmn-t152-v1",
+"resource_code": "FIAKeyTerms",
+"label": "力量",
+"language": "zhs"
+}
+],
 "acai": [
 {
 "id": "keyterm:Strength",

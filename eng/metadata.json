@@ -29,13 +29,19 @@
 },
 "adaptation_notice": "<p><b>Familiarization, Internalization, Articulation (FIA) Key Terms</b> © 2025 Word Collective Released under CC BY-SA 4.0 license. <cite>Familiarization, Internalization, Articulation (FIA) Key Terms</cite> has been adapted in the following languages Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Familiarization, Internalization, Articulation (FIA)</cite> © 2025 Word Collective. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "FIAKeyTerms",
-"date_created": "2026-09-18",
+"date_created": "2026-09-23",
 "language": "eng",
 "localizations": [
+"arb",
 "fra",
+"ind",
+"nep",
 "por",
 "spa",
+"swh",
 "tpi",
+"zht",
+"hin",
 "zhs",
 "rus"
 ],
@@ -48,7 +54,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-09-18T08:50:12.741977"
+"dateCreated": "2026-09-23T19:31:57.023563"
 },
 "idAuthorities": {
 "aquifer": {
@@ -62,7 +68,7 @@
 "primary": {
 "aquifer": {
 "FIAKeyTerms": {
-"timestamp": "2026-09-18T08:50:12.741977"
+"timestamp": "2026-09-23T19:31:57.023563"
 }
 }
 },
@@ -94,7 +100,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 140466,
+"size": 155323,
 "scope": {
 "a": [
 "abba",
@@ -132,7 +138,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 132499,
+"size": 144296,
 "scope": {
 "b": [
 "Baal",
@@ -166,7 +172,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 235507,
+"size": 256255,
 "scope": {
 "c": [
 "Caesar",
@@ -224,7 +230,7 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 120566,
+"size": 131581,
 "scope": {
 "d": [
 "Dalmanutha",
@@ -266,7 +272,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 82800,
+"size": 92746,
 "scope": {
 "e": [
 "elder",
@@ -294,7 +300,7 @@
 },
 "json/006.content.json": {
 "mimeType": "text/json",
-"size": 124202,
+"size": 134190,
 "scope": {
 "f": [
 "faith",
@@ -334,7 +340,7 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 165260,
+"size": 178716,
 "scope": {
 "g": [
 "Gabriel",
@@ -370,7 +376,7 @@
 },
 "json/008.content.json": {
 "mimeType": "text/json",
-"size": 204046,
+"size": 226028,
 "scope": {
 "h": [
 "hades",
@@ -416,7 +422,7 @@
 },
 "json/009.content.json": {
 "mimeType": "text/json",
-"size": 81414,
+"size": 88725,
 "scope": {
 "i": [
 "I am",
@@ -440,7 +446,7 @@
 },
 "json/010.content.json": {
 "mimeType": "text/json",
-"size": 123496,
+"size": 138765,
 "scope": {
 "j": [
 "James",
@@ -468,7 +474,7 @@
 },
 "json/011.content.json": {
 "mimeType": "text/json",
-"size": 65909,
+"size": 69515,
 "scope": {
 "k": [
 "king",
@@ -482,7 +488,7 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 97180,
+"size": 103270,
 "scope": {
 "l": [
 "law",
@@ -504,7 +510,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 63739,
+"size": 75327,
 "scope": {
 "m": [
 "magician",
@@ -526,7 +532,7 @@
 },
 "json/014.content.json": {
 "mimeType": "text/json",
-"size": 27962,
+"size": 31228,
 "scope": {
 "n": [
 "nation",
@@ -538,7 +544,7 @@
 },
 "json/015.content.json": {
 "mimeType": "text/json",
-"size": 55140,
+"size": 56563,
 "scope": {
 "o": [
 "oath",
@@ -554,7 +560,7 @@
 },
 "json/016.content.json": {
 "mimeType": "text/json",
-"size": 205507,
+"size": 225480,
 "scope": {
 "p": [
 "parable",
@@ -598,7 +604,7 @@
 },
 "json/017.content.json": {
 "mimeType": "text/json",
-"size": 70033,
+"size": 74885,
 "scope": {
 "r": [
 "rabbi",
@@ -622,7 +628,7 @@
 },
 "json/018.content.json": {
 "mimeType": "text/json",
-"size": 364036,
+"size": 403706,
 "scope": {
 "s": [
 "sabbath",
@@ -698,7 +704,7 @@
 },
 "json/019.content.json": {
 "mimeType": "text/json",
-"size": 124836,
+"size": 138883,
 "scope": {
 "t": [
 "tabernacle",
@@ -728,7 +734,7 @@
 },
 "json/020.content.json": {
 "mimeType": "text/json",
-"size": 23086,
+"size": 24918,
 "scope": {
 "v": [
 "vineyard",
@@ -742,7 +748,7 @@
 },
 "json/021.content.json": {
 "mimeType": "text/json",
-"size": 113935,
+"size": 116995,
 "scope": {
 "w": [
 "watchtower",
@@ -766,7 +772,7 @@
 },
 "json/022.content.json": {
 "mimeType": "text/json",
-"size": 33180,
+"size": 34393,
 "scope": {
 "y": [
 "Yahweh",
@@ -780,7 +786,7 @@
 },
 "json/023.content.json": {
 "mimeType": "text/json",
-"size": 2364,
+"size": 3175,
 "scope": {
 "z": [
 "Zion",
@@ -790,279 +796,279 @@
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 59844
+"size": 63765
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 22996
+"size": 24318
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 68302
+"size": 72043
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
-"size": 36340
+"size": 38420
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 15890
+"size": 16489
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 63149
+"size": 66740
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 7037
+"size": 7403
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
-"size": 21634
+"size": 22563
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 36247
+"size": 38929
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 23520
+"size": 25337
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 37805
+"size": 39929
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 26231
+"size": 26873
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 23926
+"size": 25026
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 13406
+"size": 13681
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
-"size": 42190
+"size": 44625
 },
 "md/023.content.md": {
 "mimeType": "text/markdown",
-"size": 1654
+"size": 1806
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
-"size": 45754
+"size": 47596
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 39114
+"size": 41771
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 7107
+"size": 7668
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 21330
+"size": 23328
 },
 "md/022.content.md": {
 "mimeType": "text/markdown",
-"size": 11474
+"size": 11711
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 40726
+"size": 43143
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
-"size": 109136
+"size": 116193
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 50709
+"size": 50079
 },
 "docx/002.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 50325
+"size": 49727
 },
 "docx/003.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 55976
+"size": 55033
 },
 "docx/004.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 50704
+"size": 50107
 },
 "docx/005.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 47682
+"size": 47170
 },
 "docx/006.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 53742
+"size": 53292
 },
 "docx/007.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 48958
+"size": 48350
 },
 "docx/008.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 54798
+"size": 53865
 },
 "docx/009.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46983
+"size": 46508
 },
 "docx/010.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 49988
+"size": 49315
 },
 "docx/011.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44774
+"size": 44514
 },
 "docx/012.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46122
+"size": 45789
 },
 "docx/013.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 48243
+"size": 47679
 },
 "docx/014.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43314
+"size": 43133
 },
 "docx/015.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44096
+"size": 43993
 },
 "docx/016.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 55404
+"size": 54574
 },
 "docx/017.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 47152
+"size": 46867
 },
 "docx/018.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 65211
+"size": 63536
 },
 "docx/019.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 51378
+"size": 50764
 },
 "docx/020.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43649
+"size": 43506
 },
 "docx/021.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45606
+"size": 45406
 },
 "docx/022.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45046
+"size": 44948
 },
 "docx/023.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42442
+"size": 42384
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
-"size": 134641
+"size": 99613
 },
 "pdf/002.content.pdf": {
 "mimeType": "application/pdf",
-"size": 123103
+"size": 94680
 },
 "pdf/003.content.pdf": {
 "mimeType": "application/pdf",
-"size": 199845
+"size": 150401
 },
 "pdf/004.content.pdf": {
 "mimeType": "application/pdf",
-"size": 129534
+"size": 103456
 },
 "pdf/005.content.pdf": {
 "mimeType": "application/pdf",
-"size": 96947
+"size": 72905
 },
 "pdf/006.content.pdf": {
 "mimeType": "application/pdf",
-"size": 151483
+"size": 127927
 },
 "pdf/007.content.pdf": {
 "mimeType": "application/pdf",
-"size": 122752
+"size": 90945
 },
 "pdf/008.content.pdf": {
 "mimeType": "application/pdf",
-"size": 182294
+"size": 129664
 },
 "pdf/009.content.pdf": {
 "mimeType": "application/pdf",
-"size": 83091
+"size": 65776
 },
 "pdf/010.content.pdf": {
 "mimeType": "application/pdf",
-"size": 120987
+"size": 85142
 },
 "pdf/011.content.pdf": {
 "mimeType": "application/pdf",
-"size": 57029
+"size": 47530
 },
 "pdf/012.content.pdf": {
 "mimeType": "application/pdf",
-"size": 76948
+"size": 62574
 },
 "pdf/013.content.pdf": {
 "mimeType": "application/pdf",
-"size": 101172
+"size": 73862
 },
 "pdf/014.content.pdf": {
 "mimeType": "application/pdf",
-"size": 44217
+"size": 37148
 },
 "pdf/015.content.pdf": {
 "mimeType": "application/pdf",
-"size": 50033
+"size": 46695
 },
 "pdf/016.content.pdf": {
 "mimeType": "application/pdf",
-"size": 183193
+"size": 135577
 },
 "pdf/017.content.pdf": {
 "mimeType": "application/pdf",
-"size": 82580
+"size": 70587
 },
 "pdf/018.content.pdf": {
 "mimeType": "application/pdf",
-"size": 316189
+"size": 219729
 },
 "pdf/019.content.pdf": {
 "mimeType": "application/pdf",
-"size": 138103
+"size": 104051
 },
 "pdf/020.content.pdf": {
 "mimeType": "application/pdf",
-"size": 45595
+"size": 41329
 },
 "pdf/021.content.pdf": {
 "mimeType": "application/pdf",
-"size": 68019
+"size": 60868
 },
 "pdf/022.content.pdf": {
 "mimeType": "application/pdf",
-"size": 55039
+"size": 52144
 },
 "pdf/023.content.pdf": {
 "mimeType": "application/pdf",
-"size": 34163
+"size": 32304
 }
 },
 "copyright": {
@@ -1086,10 +1092,25 @@
 "reference_id": 0,
 "index_reference": "abraham",
 "localizations": {
+"arb": {
+"content_id": "arb-t1-v1",
+"language": "arb",
+"title": "إبراهيم"
+},
 "fra": {
 "content_id": "fra-t1-v1",
 "language": "fra",
 "title": "Abraham"
+},
+"ind": {
+"content_id": "ind-t1-v1",
+"language": "ind",
+"title": "Abraham"
+},
+"nep": {
+"content_id": "nep-t1-v1",
+"language": "nep",
+"title": "अब्राहाम"
 },
 "por": {
 "content_id": "por-t1-v1",
@@ -1101,10 +1122,20 @@
 "language": "spa",
 "title": "abraham"
 },
+"swh": {
+"content_id": "swh-t1-v1",
+"language": "swh",
+"title": "Abrahamu"
+},
 "tpi": {
 "content_id": "tpi-t1-v1",
 "language": "tpi",
 "title": "abraham"
+},
+"zht": {
+"content_id": "zht-t1-v1",
+"language": "zht",
+"title": "亞伯拉罕"
 }
 }
 },
@@ -1130,10 +1161,30 @@
 "reference_id": 0,
 "index_reference": "adultery",
 "localizations": {
+"arb": {
+"content_id": "arb-t2-v1",
+"language": "arb",
+"title": "الزنا"
+},
 "fra": {
 "content_id": "fra-t2-v1",
 "language": "fra",
 "title": "adultère"
+},
+"hin": {
+"content_id": "hin-t2-v1",
+"language": "hin",
+"title": "व्यभिचार"
+},
+"ind": {
+"content_id": "ind-t2-v1",
+"language": "ind",
+"title": "perzinahan"
+},
+"nep": {
+"content_id": "nep-t2-v1",
+"language": "nep",
+"title": "व्यभिचार"
 },
 "por": {
 "content_id": "por-t2-v1",
@@ -1144,6 +1195,11 @@
 "content_id": "spa-t2-v1",
 "language": "spa",
 "title": "adultery"
+},
+"swh": {
+"content_id": "swh-t2-v1",
+"language": "swh",
+"title": "uzinzi"
 },
 "tpi": {
 "content_id": "tpi-t2-v1",
@@ -1184,10 +1240,25 @@
 "reference_id": 0,
 "index_reference": "altar",
 "localizations": {
+"arb": {
+"content_id": "arb-t3-v1",
+"language": "arb",
+"title": "مذبح"
+},
 "fra": {
 "content_id": "fra-t3-v1",
 "language": "fra",
 "title": "autel"
+},
+"ind": {
+"content_id": "ind-t3-v1",
+"language": "ind",
+"title": "mezbah"
+},
+"nep": {
+"content_id": "nep-t3-v1",
+"language": "nep",
+"title": "वेदी"
 },
 "por": {
 "content_id": "por-t3-v1",
@@ -1199,10 +1270,20 @@
 "language": "spa",
 "title": "altar"
 },
+"swh": {
+"content_id": "swh-t3-v1",
+"language": "swh",
+"title": "madhabahu"
+},
 "tpi": {
 "content_id": "tpi-t3-v1",
 "language": "tpi",
 "title": "altar"
+},
+"zht": {
+"content_id": "zht-t3-v1",
+"language": "zht",
+"title": "壇"
 }
 }
 },
@@ -1228,10 +1309,30 @@
 "reference_id": 0,
 "index_reference": "angel",
 "localizations": {
+"arb": {
+"content_id": "arb-t4-v1",
+"language": "arb",
+"title": "ملاك"
+},
 "fra": {
 "content_id": "fra-t4-v1.0.1",
 "language": "fra",
 "title": "ange"
+},
+"hin": {
+"content_id": "hin-t4-v1",
+"language": "hin",
+"title": "स्वर्गदूत"
+},
+"ind": {
+"content_id": "ind-t4-v1",
+"language": "ind",
+"title": "malaikat"
+},
+"nep": {
+"content_id": "nep-t4-v1",
+"language": "nep",
+"title": "स्वर्गदूत"
 },
 "por": {
 "content_id": "por-t4-v1",
@@ -1247,6 +1348,11 @@
 "content_id": "spa-t4-v1",
 "language": "spa",
 "title": "angel"
+},
+"swh": {
+"content_id": "swh-t4-v1",
+"language": "swh",
+"title": "malaika"
 },
 "tpi": {
 "content_id": "tpi-t4-v1",
@@ -1292,10 +1398,30 @@
 "reference_id": 0,
 "index_reference": "anoint",
 "localizations": {
+"arb": {
+"content_id": "arb-t5-v1",
+"language": "arb",
+"title": "يمسح (يدهن)"
+},
 "fra": {
 "content_id": "fra-t5-v1",
 "language": "fra",
 "title": "oindre"
+},
+"hin": {
+"content_id": "hin-t5-v1",
+"language": "hin",
+"title": "अभिषेक करना"
+},
+"ind": {
+"content_id": "ind-t5-v1",
+"language": "ind",
+"title": "mengurapi"
+},
+"nep": {
+"content_id": "nep-t5-v1",
+"language": "nep",
+"title": "अभिषेक"
 },
 "por": {
 "content_id": "por-t5-v1",
@@ -1306,6 +1432,11 @@
 "content_id": "spa-t5-v1",
 "language": "spa",
 "title": "anoint"
+},
+"swh": {
+"content_id": "swh-t5-v1",
+"language": "swh",
+"title": "mafuta"
 },
 "tpi": {
 "content_id": "tpi-t5-v1",
@@ -1346,10 +1477,30 @@
 "reference_id": 0,
 "index_reference": "apostle",
 "localizations": {
+"arb": {
+"content_id": "arb-t6-v1",
+"language": "arb",
+"title": "رسول"
+},
 "fra": {
 "content_id": "fra-t6-v1",
 "language": "fra",
 "title": "apôtre"
+},
+"hin": {
+"content_id": "hin-t6-v1",
+"language": "hin",
+"title": "प्रेरित"
+},
+"ind": {
+"content_id": "ind-t6-v1",
+"language": "ind",
+"title": "rasul"
+},
+"nep": {
+"content_id": "nep-t6-v1",
+"language": "nep",
+"title": "प्रेरित"
 },
 "por": {
 "content_id": "por-t6-v1",
@@ -1360,6 +1511,11 @@
 "content_id": "spa-t6-v1",
 "language": "spa",
 "title": "apostle"
+},
+"swh": {
+"content_id": "swh-t6-v1",
+"language": "swh",
+"title": "mtume"
 },
 "tpi": {
 "content_id": "tpi-t6-v1",
@@ -1400,10 +1556,30 @@
 "reference_id": 0,
 "index_reference": "authority",
 "localizations": {
+"arb": {
+"content_id": "arb-t8-v1",
+"language": "arb",
+"title": "سلطان"
+},
 "fra": {
 "content_id": "fra-t8-v1.0.1",
 "language": "fra",
 "title": "autorité"
+},
+"hin": {
+"content_id": "hin-t8-v1",
+"language": "hin",
+"title": "अधिकार"
+},
+"ind": {
+"content_id": "ind-t8-v1",
+"language": "ind",
+"title": "otoritas"
+},
+"nep": {
+"content_id": "nep-t8-v1",
+"language": "nep",
+"title": "अधिकार"
 },
 "por": {
 "content_id": "por-t8-v1",
@@ -1419,6 +1595,11 @@
 "content_id": "spa-t8-v1",
 "language": "spa",
 "title": "authority"
+},
+"swh": {
+"content_id": "swh-t8-v1",
+"language": "swh",
+"title": "mamlaka"
 },
 "tpi": {
 "content_id": "tpi-t8-v1",
@@ -1464,10 +1645,30 @@
 "reference_id": 0,
 "index_reference": "baptism",
 "localizations": {
+"arb": {
+"content_id": "arb-t9-v1",
+"language": "arb",
+"title": "معمودية"
+},
 "fra": {
 "content_id": "fra-t9-v1.0.1",
 "language": "fra",
 "title": "baptême"
+},
+"hin": {
+"content_id": "hin-t9-v1",
+"language": "hin",
+"title": "बपतिस्मा"
+},
+"ind": {
+"content_id": "ind-t9-v1",
+"language": "ind",
+"title": "baptisan"
+},
+"nep": {
+"content_id": "nep-t9-v1",
+"language": "nep",
+"title": "बप्तिस्मा"
 },
 "por": {
 "content_id": "por-t9-v1",
@@ -1483,6 +1684,11 @@
 "content_id": "spa-t9-v1",
 "language": "spa",
 "title": "baptism"
+},
+"swh": {
+"content_id": "swh-t9-v1",
+"language": "swh",
+"title": "ubatizo"
 },
 "tpi": {
 "content_id": "tpi-t9-v1",
@@ -1528,10 +1734,25 @@
 "reference_id": 0,
 "index_reference": "basket",
 "localizations": {
+"arb": {
+"content_id": "arb-t10-v1",
+"language": "arb",
+"title": "سلة"
+},
 "fra": {
 "content_id": "fra-t10-v1",
 "language": "fra",
 "title": "panier"
+},
+"ind": {
+"content_id": "ind-t10-v1",
+"language": "ind",
+"title": "keranjang"
+},
+"nep": {
+"content_id": "nep-t10-v1",
+"language": "nep",
+"title": "टोकरी"
 },
 "por": {
 "content_id": "por-t10-v1",
@@ -1542,6 +1763,11 @@
 "content_id": "spa-t10-v1",
 "language": "spa",
 "title": "basket"
+},
+"swh": {
+"content_id": "swh-t10-v1",
+"language": "swh",
+"title": "kikapu"
 },
 "tpi": {
 "content_id": "tpi-t10-v1",
@@ -1582,10 +1808,30 @@
 "reference_id": 0,
 "index_reference": "belief",
 "localizations": {
+"arb": {
+"content_id": "arb-t11-v1",
+"language": "arb",
+"title": "إيمان"
+},
 "fra": {
 "content_id": "fra-t11-v1",
 "language": "fra",
 "title": "croire"
+},
+"hin": {
+"content_id": "hin-t11-v1",
+"language": "hin",
+"title": "मानना"
+},
+"ind": {
+"content_id": "ind-t11-v1",
+"language": "ind",
+"title": "percaya"
+},
+"nep": {
+"content_id": "nep-t11-v1",
+"language": "nep",
+"title": "विश्वास"
 },
 "por": {
 "content_id": "por-t11-v1",
@@ -1601,6 +1847,11 @@
 "content_id": "spa-t11-v1",
 "language": "spa",
 "title": "belief"
+},
+"swh": {
+"content_id": "swh-t11-v1",
+"language": "swh",
+"title": "imani"
 },
 "tpi": {
 "content_id": "tpi-t11-v1",
@@ -1646,10 +1897,25 @@
 "reference_id": 0,
 "index_reference": "believer",
 "localizations": {
+"arb": {
+"content_id": "arb-t12-v1",
+"language": "arb",
+"title": "مؤمن"
+},
 "fra": {
 "content_id": "fra-t12-v1",
 "language": "fra",
 "title": "croyant"
+},
+"ind": {
+"content_id": "ind-t12-v1",
+"language": "ind",
+"title": "orang percaya"
+},
+"nep": {
+"content_id": "nep-t12-v1",
+"language": "nep",
+"title": "विश्वासी"
 },
 "por": {
 "content_id": "por-t12-v1",
@@ -1661,10 +1927,20 @@
 "language": "spa",
 "title": "believer"
 },
+"swh": {
+"content_id": "swh-t12-v1",
+"language": "swh",
+"title": "muumini"
+},
 "tpi": {
 "content_id": "tpi-t12-v1",
 "language": "tpi",
 "title": "believer"
+},
+"zht": {
+"content_id": "zht-t12-v1",
+"language": "zht",
+"title": "信徒"
 }
 }
 },
@@ -1690,10 +1966,25 @@
 "reference_id": 0,
 "index_reference": "bethlehem",
 "localizations": {
+"arb": {
+"content_id": "arb-t13-v1",
+"language": "arb",
+"title": "بيت لحم"
+},
 "fra": {
 "content_id": "fra-t13-v1",
 "language": "fra",
 "title": "Bethléhem"
+},
+"ind": {
+"content_id": "ind-t13-v1",
+"language": "ind",
+"title": "Betlehem"
+},
+"nep": {
+"content_id": "nep-t13-v1",
+"language": "nep",
+"title": "बेथलेहेम"
 },
 "por": {
 "content_id": "por-t13-v1",
@@ -1705,10 +1996,20 @@
 "language": "spa",
 "title": "bethlehem"
 },
+"swh": {
+"content_id": "swh-t13-v1",
+"language": "swh",
+"title": "Bethlehemu"
+},
 "tpi": {
 "content_id": "tpi-t13-v1",
 "language": "tpi",
 "title": "bethlehem"
+},
+"zht": {
+"content_id": "zht-t13-v1",
+"language": "zht",
+"title": "伯利恆"
 }
 }
 },
@@ -1734,10 +2035,30 @@
 "reference_id": 0,
 "index_reference": "bethsaida",
 "localizations": {
+"arb": {
+"content_id": "arb-t14-v1",
+"language": "arb",
+"title": "بيت صيدا"
+},
 "fra": {
 "content_id": "fra-t14-v1",
 "language": "fra",
 "title": "Bethsaïda"
+},
+"hin": {
+"content_id": "hin-t14-v1",
+"language": "hin",
+"title": "बैतसैदा"
+},
+"ind": {
+"content_id": "ind-t14-v1",
+"language": "ind",
+"title": "Betsaida"
+},
+"nep": {
+"content_id": "nep-t14-v1",
+"language": "nep",
+"title": "बेथसेदा"
 },
 "por": {
 "content_id": "por-t14-v1",
@@ -1748,6 +2069,11 @@
 "content_id": "spa-t14-v1",
 "language": "spa",
 "title": "bethsaida"
+},
+"swh": {
+"content_id": "swh-t14-v1",
+"language": "swh",
+"title": "Bethsaida"
 },
 "tpi": {
 "content_id": "tpi-t14-v1",
@@ -1788,10 +2114,30 @@
 "reference_id": 0,
 "index_reference": "blasphemy",
 "localizations": {
+"arb": {
+"content_id": "arb-t15-v1",
+"language": "arb",
+"title": "تجديف"
+},
 "fra": {
 "content_id": "fra-t15-v1.0.1",
 "language": "fra",
 "title": "blasphème"
+},
+"hin": {
+"content_id": "hin-t15-v1",
+"language": "hin",
+"title": "परमेश्वर की निन्दा"
+},
+"ind": {
+"content_id": "ind-t15-v1",
+"language": "ind",
+"title": "penghujatan"
+},
+"nep": {
+"content_id": "nep-t15-v1",
+"language": "nep",
+"title": "निन्दा"
 },
 "por": {
 "content_id": "por-t15-v1",
@@ -1802,6 +2148,11 @@
 "content_id": "spa-t15-v1",
 "language": "spa",
 "title": "blasphemy"
+},
+"swh": {
+"content_id": "swh-t15-v1",
+"language": "swh",
+"title": "kukufuru"
 },
 "tpi": {
 "content_id": "tpi-t15-v1",
@@ -1842,10 +2193,30 @@
 "reference_id": 0,
 "index_reference": "bless",
 "localizations": {
+"arb": {
+"content_id": "arb-t16-v1",
+"language": "arb",
+"title": "بركة"
+},
 "fra": {
 "content_id": "fra-t16-v1",
 "language": "fra",
 "title": "bénir"
+},
+"hin": {
+"content_id": "hin-t16-v1",
+"language": "hin",
+"title": "आशीष"
+},
+"ind": {
+"content_id": "ind-t16-v1",
+"language": "ind",
+"title": "memberkati"
+},
+"nep": {
+"content_id": "nep-t16-v1",
+"language": "nep",
+"title": "आशिष"
 },
 "por": {
 "content_id": "por-t16-v1",
@@ -1856,6 +2227,11 @@
 "content_id": "spa-t16-v1",
 "language": "spa",
 "title": "bless"
+},
+"swh": {
+"content_id": "swh-t16-v1",
+"language": "swh",
+"title": "bariki"
 },
 "tpi": {
 "content_id": "tpi-t16-v1",
@@ -1896,10 +2272,30 @@
 "reference_id": 0,
 "index_reference": "boat",
 "localizations": {
+"arb": {
+"content_id": "arb-t17-v1",
+"language": "arb",
+"title": "سفينة (قارب)"
+},
 "fra": {
 "content_id": "fra-t17-v1",
 "language": "fra",
 "title": "barque"
+},
+"hin": {
+"content_id": "hin-t17-v1",
+"language": "hin",
+"title": "नाव"
+},
+"ind": {
+"content_id": "ind-t17-v1",
+"language": "ind",
+"title": "perahu"
+},
+"nep": {
+"content_id": "nep-t17-v1",
+"language": "nep",
+"title": "डुङ्गा"
 },
 "por": {
 "content_id": "por-t17-v1",
@@ -1915,6 +2311,11 @@
 "content_id": "spa-t17-v1",
 "language": "spa",
 "title": "barco"
+},
+"swh": {
+"content_id": "swh-t17-v1",
+"language": "swh",
+"title": "mashua"
 },
 "tpi": {
 "content_id": "tpi-t17-v1",
@@ -1965,10 +2366,30 @@
 "reference_id": 0,
 "index_reference": "bow",
 "localizations": {
+"arb": {
+"content_id": "arb-t18-v1",
+"language": "arb",
+"title": "ينحني (يجثو)"
+},
 "fra": {
 "content_id": "fra-t18-v1",
 "language": "fra",
 "title": "se prosterner"
+},
+"hin": {
+"content_id": "hin-t18-v1",
+"language": "hin",
+"title": "झुकना"
+},
+"ind": {
+"content_id": "ind-t18-v1",
+"language": "ind",
+"title": "membungkuk, menunduk"
+},
+"nep": {
+"content_id": "nep-t18-v1",
+"language": "nep",
+"title": "दण्डवत"
 },
 "por": {
 "content_id": "por-t18-v1",
@@ -1979,6 +2400,11 @@
 "content_id": "spa-t18-v1",
 "language": "spa",
 "title": "bow"
+},
+"swh": {
+"content_id": "swh-t18-v1",
+"language": "swh",
+"title": "upinde"
 },
 "tpi": {
 "content_id": "tpi-t18-v1",
@@ -2019,10 +2445,30 @@
 "reference_id": 0,
 "index_reference": "caesar",
 "localizations": {
+"arb": {
+"content_id": "arb-t19-v1",
+"language": "arb",
+"title": "قيصر"
+},
 "fra": {
 "content_id": "fra-t19-v1",
 "language": "fra",
 "title": "César"
+},
+"hin": {
+"content_id": "hin-t19-v1",
+"language": "hin",
+"title": "कैसर"
+},
+"ind": {
+"content_id": "ind-t19-v1",
+"language": "ind",
+"title": "Kaisar"
+},
+"nep": {
+"content_id": "nep-t19-v1",
+"language": "nep",
+"title": "कैसर"
 },
 "por": {
 "content_id": "por-t19-v1",
@@ -2033,6 +2479,11 @@
 "content_id": "spa-t19-v1",
 "language": "spa",
 "title": "caesar"
+},
+"swh": {
+"content_id": "swh-t19-v1",
+"language": "swh",
+"title": "Kaisari"
 },
 "tpi": {
 "content_id": "tpi-t19-v1",
@@ -2073,10 +2524,30 @@
 "reference_id": 0,
 "index_reference": "caeserea philippi",
 "localizations": {
+"arb": {
+"content_id": "arb-t20-v1",
+"language": "arb",
+"title": "قيصرية فيلبس"
+},
 "fra": {
 "content_id": "fra-t20-v1",
 "language": "fra",
 "title": "Césarée de Philippe"
+},
+"hin": {
+"content_id": "hin-t20-v1",
+"language": "hin",
+"title": "कैसरिया फिलिप्पी"
+},
+"ind": {
+"content_id": "ind-t20-v1",
+"language": "ind",
+"title": "Kaisarea Filipi"
+},
+"nep": {
+"content_id": "nep-t20-v1",
+"language": "nep",
+"title": "कैसरिया फिलिप्पी"
 },
 "por": {
 "content_id": "por-t20-v1",
@@ -2087,6 +2558,11 @@
 "content_id": "spa-t20-v1",
 "language": "spa",
 "title": "caeserea-philippi"
+},
+"swh": {
+"content_id": "swh-t20-v1",
+"language": "swh",
+"title": "Kaisari Filipi"
 },
 "tpi": {
 "content_id": "tpi-t20-v1",
@@ -2127,10 +2603,30 @@
 "reference_id": 0,
 "index_reference": "camel",
 "localizations": {
+"arb": {
+"content_id": "arb-t21-v1",
+"language": "arb",
+"title": "جمل"
+},
 "fra": {
 "content_id": "fra-t21-v1",
 "language": "fra",
 "title": "chameau"
+},
+"hin": {
+"content_id": "hin-t21-v1",
+"language": "hin",
+"title": "ऊँट"
+},
+"ind": {
+"content_id": "ind-t21-v1",
+"language": "ind",
+"title": "unta"
+},
+"nep": {
+"content_id": "nep-t21-v1",
+"language": "nep",
+"title": "ऊँट"
 },
 "por": {
 "content_id": "por-t21-v1",
@@ -2141,6 +2637,11 @@
 "content_id": "spa-t21-v1",
 "language": "spa",
 "title": "camel"
+},
+"swh": {
+"content_id": "swh-t21-v1",
+"language": "swh",
+"title": "ngamia"
 },
 "tpi": {
 "content_id": "tpi-t21-v1",
@@ -2181,10 +2682,30 @@
 "reference_id": 0,
 "index_reference": "capernaum",
 "localizations": {
+"arb": {
+"content_id": "arb-t22-v1",
+"language": "arb",
+"title": "كفرناحوم"
+},
 "fra": {
 "content_id": "fra-t22-v1.0.1",
 "language": "fra",
 "title": "Capernaüm"
+},
+"hin": {
+"content_id": "hin-t22-v1",
+"language": "hin",
+"title": "कफरनहूम"
+},
+"ind": {
+"content_id": "ind-t22-v1",
+"language": "ind",
+"title": "Kapernaum"
+},
+"nep": {
+"content_id": "nep-t22-v1",
+"language": "nep",
+"title": "कफर्नहुम"
 },
 "por": {
 "content_id": "por-t22-v1",
@@ -2200,6 +2721,11 @@
 "content_id": "spa-t22-v1",
 "language": "spa",
 "title": "Cafarnaúm"
+},
+"swh": {
+"content_id": "swh-t22-v1",
+"language": "swh",
+"title": "Kapernaumu"
 },
 "tpi": {
 "content_id": "tpi-t22-v1",
@@ -2250,10 +2776,30 @@
 "reference_id": 0,
 "index_reference": "christ",
 "localizations": {
+"arb": {
+"content_id": "arb-t23-v1",
+"language": "arb",
+"title": "المسيح"
+},
 "fra": {
 "content_id": "fra-t23-v1.0.1",
 "language": "fra",
 "title": "Christ"
+},
+"hin": {
+"content_id": "hin-t23-v1",
+"language": "hin",
+"title": "मसीह"
+},
+"ind": {
+"content_id": "ind-t23-v1",
+"language": "ind",
+"title": "Kristus"
+},
+"nep": {
+"content_id": "nep-t23-v1",
+"language": "nep",
+"title": "ख्रीष्ट"
 },
 "por": {
 "content_id": "por-t23-v1",
@@ -2269,6 +2815,11 @@
 "content_id": "spa-t23-v1",
 "language": "spa",
 "title": "christ"
+},
+"swh": {
+"content_id": "swh-t23-v1",
+"language": "swh",
+"title": "Kristo"
 },
 "tpi": {
 "content_id": "tpi-t23-v1",
@@ -2314,10 +2865,25 @@
 "reference_id": 0,
 "index_reference": "church",
 "localizations": {
+"arb": {
+"content_id": "arb-t24-v1",
+"language": "arb",
+"title": "الكنيسة"
+},
 "fra": {
 "content_id": "fra-t24-v1",
 "language": "fra",
 "title": "église"
+},
+"ind": {
+"content_id": "ind-t24-v1",
+"language": "ind",
+"title": "gereja"
+},
+"nep": {
+"content_id": "nep-t24-v1",
+"language": "nep",
+"title": "मण्डली"
 },
 "por": {
 "content_id": "por-t24-v1",
@@ -2329,10 +2895,20 @@
 "language": "spa",
 "title": "church"
 },
+"swh": {
+"content_id": "swh-t24-v1",
+"language": "swh",
+"title": "kanisa"
+},
 "tpi": {
 "content_id": "tpi-t24-v1",
 "language": "tpi",
 "title": "church"
+},
+"zht": {
+"content_id": "zht-t24-v1",
+"language": "zht",
+"title": "教會"
 }
 }
 },
@@ -2358,10 +2934,25 @@
 "reference_id": 0,
 "index_reference": "circumcision",
 "localizations": {
+"arb": {
+"content_id": "arb-t25-v1",
+"language": "arb",
+"title": "ختان"
+},
 "fra": {
 "content_id": "fra-t25-v1",
 "language": "fra",
 "title": "circoncision"
+},
+"ind": {
+"content_id": "ind-t25-v1",
+"language": "ind",
+"title": "sunat"
+},
+"nep": {
+"content_id": "nep-t25-v1",
+"language": "nep",
+"title": "खतना"
 },
 "por": {
 "content_id": "por-t25-v1",
@@ -2373,10 +2964,20 @@
 "language": "spa",
 "title": "circumcision"
 },
+"swh": {
+"content_id": "swh-t25-v1",
+"language": "swh",
+"title": "tohara"
+},
 "tpi": {
 "content_id": "tpi-t25-v1",
 "language": "tpi",
 "title": "circumcision"
+},
+"zht": {
+"content_id": "zht-t25-v1",
+"language": "zht",
+"title": "割禮"
 }
 }
 },
@@ -2402,10 +3003,30 @@
 "reference_id": 0,
 "index_reference": "cleanunclean",
 "localizations": {
+"arb": {
+"content_id": "arb-t26-v1",
+"language": "arb",
+"title": "طاهر/غير طاهر (نجس)"
+},
 "fra": {
 "content_id": "fra-t26-v1",
 "language": "fra",
 "title": "pur/impur"
+},
+"hin": {
+"content_id": "hin-t26-v1",
+"language": "hin",
+"title": "शुद्ध/अशुद्ध"
+},
+"ind": {
+"content_id": "ind-t26-v1",
+"language": "ind",
+"title": "tahir/najis"
+},
+"nep": {
+"content_id": "nep-t26-v1",
+"language": "nep",
+"title": "शुद्ध/अशुद्ध"
 },
 "por": {
 "content_id": "por-t26-v1",
@@ -2421,6 +3042,11 @@
 "content_id": "spa-t26-v1",
 "language": "spa",
 "title": "clean-unclean"
+},
+"swh": {
+"content_id": "swh-t26-v1",
+"language": "swh",
+"title": "safi / najisi"
 },
 "tpi": {
 "content_id": "tpi-t26-v1",
@@ -2466,10 +3092,30 @@
 "reference_id": 0,
 "index_reference": "cloak",
 "localizations": {
+"arb": {
+"content_id": "arb-t27-v1",
+"language": "arb",
+"title": "رداء"
+},
 "fra": {
 "content_id": "fra-t27-v1",
 "language": "fra",
 "title": "manteau"
+},
+"hin": {
+"content_id": "hin-t27-v1",
+"language": "hin",
+"title": "बाहरी वस्त्र"
+},
+"ind": {
+"content_id": "ind-t27-v1",
+"language": "ind",
+"title": "mantel"
+},
+"nep": {
+"content_id": "nep-t27-v1",
+"language": "nep",
+"title": "लुगा"
 },
 "por": {
 "content_id": "por-t27-v1",
@@ -2480,6 +3126,11 @@
 "content_id": "spa-t27-v1",
 "language": "spa",
 "title": "cloak"
+},
+"swh": {
+"content_id": "swh-t27-v1",
+"language": "swh",
+"title": "joho"
 },
 "tpi": {
 "content_id": "tpi-t27-v1",
@@ -2520,10 +3171,30 @@
 "reference_id": 0,
 "index_reference": "cornerstone",
 "localizations": {
+"arb": {
+"content_id": "arb-t28-v1",
+"language": "arb",
+"title": "حجر الزاوية"
+},
 "fra": {
 "content_id": "fra-t28-v1",
 "language": "fra",
 "title": "pierre angulaire"
+},
+"hin": {
+"content_id": "hin-t28-v1",
+"language": "hin",
+"title": "कोने का पत्थर"
+},
+"ind": {
+"content_id": "ind-t28-v1",
+"language": "ind",
+"title": "batu penjuru"
+},
+"nep": {
+"content_id": "nep-t28-v1",
+"language": "nep",
+"title": "कुने ढुङ्गा"
 },
 "por": {
 "content_id": "por-t28-v1",
@@ -2534,6 +3205,11 @@
 "content_id": "spa-t28-v1",
 "language": "spa",
 "title": "cornerstone"
+},
+"swh": {
+"content_id": "swh-t28-v1",
+"language": "swh",
+"title": "jiwe la pembeni"
 },
 "tpi": {
 "content_id": "tpi-t28-v1",
@@ -2574,10 +3250,30 @@
 "reference_id": 0,
 "index_reference": "covenant",
 "localizations": {
+"arb": {
+"content_id": "arb-t29-v1",
+"language": "arb",
+"title": "عهد"
+},
 "fra": {
 "content_id": "fra-t29-v1",
 "language": "fra",
 "title": "alliance"
+},
+"hin": {
+"content_id": "hin-t29-v1",
+"language": "hin",
+"title": "वाचा"
+},
+"ind": {
+"content_id": "ind-t29-v1",
+"language": "ind",
+"title": "perjanjian"
+},
+"nep": {
+"content_id": "nep-t29-v1",
+"language": "nep",
+"title": "करार"
 },
 "por": {
 "content_id": "por-t29-v1",
@@ -2588,6 +3284,11 @@
 "content_id": "spa-t29-v1",
 "language": "spa",
 "title": "covenant"
+},
+"swh": {
+"content_id": "swh-t29-v1",
+"language": "swh",
+"title": "agano"
 },
 "tpi": {
 "content_id": "tpi-t29-v1",
@@ -2628,10 +3329,30 @@
 "reference_id": 0,
 "index_reference": "cross",
 "localizations": {
+"arb": {
+"content_id": "arb-t30-v1",
+"language": "arb",
+"title": "صليب"
+},
 "fra": {
 "content_id": "fra-t30-v1",
 "language": "fra",
 "title": "croix"
+},
+"hin": {
+"content_id": "hin-t30-v1",
+"language": "hin",
+"title": "क्रूस"
+},
+"ind": {
+"content_id": "ind-t30-v1",
+"language": "ind",
+"title": "salib"
+},
+"nep": {
+"content_id": "nep-t30-v1",
+"language": "nep",
+"title": "क्रूस"
 },
 "por": {
 "content_id": "por-t30-v1",
@@ -2642,6 +3363,11 @@
 "content_id": "spa-t30-v1",
 "language": "spa",
 "title": "cross"
+},
+"swh": {
+"content_id": "swh-t30-v1",
+"language": "swh",
+"title": "msalaba"
 },
 "tpi": {
 "content_id": "tpi-t30-v1",
@@ -2682,10 +3408,30 @@
 "reference_id": 0,
 "index_reference": "curse",
 "localizations": {
+"arb": {
+"content_id": "arb-t31-v1",
+"language": "arb",
+"title": "لعنة"
+},
 "fra": {
 "content_id": "fra-t31-v1",
 "language": "fra",
 "title": "malédiction"
+},
+"hin": {
+"content_id": "hin-t31-v1",
+"language": "hin",
+"title": "श्राप"
+},
+"ind": {
+"content_id": "ind-t31-v1",
+"language": "ind",
+"title": "kutukan"
+},
+"nep": {
+"content_id": "nep-t31-v1",
+"language": "nep",
+"title": "श्राप"
 },
 "por": {
 "content_id": "por-t31-v1",
@@ -2696,6 +3442,11 @@
 "content_id": "spa-t31-v1",
 "language": "spa",
 "title": "curse"
+},
+"swh": {
+"content_id": "swh-t31-v1",
+"language": "swh",
+"title": "laana"
 },
 "tpi": {
 "content_id": "tpi-t31-v1",
@@ -2748,10 +3499,30 @@
 "reference_id": 0,
 "index_reference": "david",
 "localizations": {
+"arb": {
+"content_id": "arb-t33-v1",
+"language": "arb",
+"title": "داود"
+},
 "fra": {
 "content_id": "fra-t33-v1",
 "language": "fra",
 "title": "David"
+},
+"hin": {
+"content_id": "hin-t33-v1",
+"language": "hin",
+"title": "दाऊद"
+},
+"ind": {
+"content_id": "ind-t33-v1",
+"language": "ind",
+"title": "Daud"
+},
+"nep": {
+"content_id": "nep-t33-v1",
+"language": "nep",
+"title": "दाऊद"
 },
 "por": {
 "content_id": "por-t33-v1",
@@ -2762,6 +3533,11 @@
 "content_id": "spa-t33-v1",
 "language": "spa",
 "title": "david"
+},
+"swh": {
+"content_id": "swh-t33-v1",
+"language": "swh",
+"title": "Daudi"
 },
 "tpi": {
 "content_id": "tpi-t33-v1",
@@ -2802,10 +3578,30 @@
 "reference_id": 0,
 "index_reference": "decapolis",
 "localizations": {
+"arb": {
+"content_id": "arb-t35-v1",
+"language": "arb",
+"title": "المُدن العشرة (ديكابوليس)"
+},
 "fra": {
 "content_id": "fra-t35-v1",
 "language": "fra",
 "title": "Décapole"
+},
+"hin": {
+"content_id": "hin-t35-v1",
+"language": "hin",
+"title": "दिकापुलिस"
+},
+"ind": {
+"content_id": "ind-t35-v1",
+"language": "ind",
+"title": "Dekapolis"
+},
+"nep": {
+"content_id": "nep-t35-v1",
+"language": "nep",
+"title": "डेकापोलिस"
 },
 "por": {
 "content_id": "por-t35-v1",
@@ -2816,6 +3612,11 @@
 "content_id": "spa-t35-v1",
 "language": "spa",
 "title": "decapolis"
+},
+"swh": {
+"content_id": "swh-t35-v1",
+"language": "swh",
+"title": "Dekapoli"
 },
 "tpi": {
 "content_id": "tpi-t35-v1",
@@ -2856,10 +3657,30 @@
 "reference_id": 0,
 "index_reference": "demon",
 "localizations": {
+"arb": {
+"content_id": "arb-t36-v1",
+"language": "arb",
+"title": "شيطان (شياطين)"
+},
 "fra": {
 "content_id": "fra-t36-v1",
 "language": "fra",
 "title": "démon"
+},
+"hin": {
+"content_id": "hin-t36-v1",
+"language": "hin",
+"title": "बुरी आत्मा"
+},
+"ind": {
+"content_id": "ind-t36-v1",
+"language": "ind",
+"title": "setan"
+},
+"nep": {
+"content_id": "nep-t36-v1",
+"language": "nep",
+"title": "भूत"
 },
 "por": {
 "content_id": "por-t36-v1",
@@ -2875,6 +3696,11 @@
 "content_id": "spa-t36-v1",
 "language": "spa",
 "title": "demon"
+},
+"swh": {
+"content_id": "swh-t36-v1",
+"language": "swh",
+"title": "pepo"
 },
 "tpi": {
 "content_id": "tpi-t36-v1",
@@ -2920,10 +3746,30 @@
 "reference_id": 0,
 "index_reference": "denarius",
 "localizations": {
+"arb": {
+"content_id": "arb-t37-v1",
+"language": "arb",
+"title": "دينار"
+},
 "fra": {
 "content_id": "fra-t37-v1",
 "language": "fra",
 "title": "denier"
+},
+"hin": {
+"content_id": "hin-t37-v1",
+"language": "hin",
+"title": "दीनार"
+},
+"ind": {
+"content_id": "ind-t37-v1",
+"language": "ind",
+"title": "dinar"
+},
+"nep": {
+"content_id": "nep-t37-v1",
+"language": "nep",
+"title": "दीनार"
 },
 "por": {
 "content_id": "por-t37-v1",
@@ -2934,6 +3780,11 @@
 "content_id": "spa-t37-v1",
 "language": "spa",
 "title": "denarius"
+},
+"swh": {
+"content_id": "swh-t37-v1",
+"language": "swh",
+"title": "dinari"
 },
 "tpi": {
 "content_id": "tpi-t37-v1",
@@ -2974,10 +3825,30 @@
 "reference_id": 0,
 "index_reference": "desert",
 "localizations": {
+"arb": {
+"content_id": "arb-t38-v1",
+"language": "arb",
+"title": "الصحراء"
+},
 "fra": {
 "content_id": "fra-t38-v1.0.1",
 "language": "fra",
 "title": "désert"
+},
+"hin": {
+"content_id": "hin-t38-v1",
+"language": "hin",
+"title": "रेगिस्तान"
+},
+"ind": {
+"content_id": "ind-t38-v1",
+"language": "ind",
+"title": "padang pasir"
+},
+"nep": {
+"content_id": "nep-t38-v1",
+"language": "nep",
+"title": "मरुभूमि"
 },
 "por": {
 "content_id": "por-t38-v1",
@@ -2993,6 +3864,11 @@
 "content_id": "spa-t38-v1",
 "language": "spa",
 "title": "desert"
+},
+"swh": {
+"content_id": "swh-t38-v1",
+"language": "swh",
+"title": "jangwa"
 },
 "tpi": {
 "content_id": "tpi-t38-v1",
@@ -3038,10 +3914,30 @@
 "reference_id": 0,
 "index_reference": "disciple",
 "localizations": {
+"arb": {
+"content_id": "arb-t39-v1",
+"language": "arb",
+"title": "التلميذ"
+},
 "fra": {
 "content_id": "fra-t39-v1",
 "language": "fra",
 "title": "disciple"
+},
+"hin": {
+"content_id": "hin-t39-v1",
+"language": "hin",
+"title": "चेला"
+},
+"ind": {
+"content_id": "ind-t39-v1",
+"language": "ind",
+"title": "murid"
+},
+"nep": {
+"content_id": "nep-t39-v1",
+"language": "nep",
+"title": "चेला"
 },
 "por": {
 "content_id": "por-t39-v1",
@@ -3052,6 +3948,11 @@
 "content_id": "spa-t39-v1",
 "language": "spa",
 "title": "discípulo"
+},
+"swh": {
+"content_id": "swh-t39-v1",
+"language": "swh",
+"title": "mfuasi"
 },
 "tpi": {
 "content_id": "tpi-t39-v1",
@@ -3097,10 +3998,30 @@
 "reference_id": 0,
 "index_reference": "divorce",
 "localizations": {
+"arb": {
+"content_id": "arb-t40-v1",
+"language": "arb",
+"title": "طلاق"
+},
 "fra": {
 "content_id": "fra-t40-v1",
 "language": "fra",
 "title": "divorce"
+},
+"hin": {
+"content_id": "hin-t40-v1",
+"language": "hin",
+"title": "तलाक"
+},
+"ind": {
+"content_id": "ind-t40-v1",
+"language": "ind",
+"title": "perceraian"
+},
+"nep": {
+"content_id": "nep-t40-v1",
+"language": "nep",
+"title": "त्याग-पत्र"
 },
 "por": {
 "content_id": "por-t40-v1",
@@ -3111,6 +4032,11 @@
 "content_id": "spa-t40-v1",
 "language": "spa",
 "title": "divorce"
+},
+"swh": {
+"content_id": "swh-t40-v1",
+"language": "swh",
+"title": "talaka"
 },
 "tpi": {
 "content_id": "tpi-t40-v1",
@@ -3151,10 +4077,30 @@
 "reference_id": 0,
 "index_reference": "donkey",
 "localizations": {
+"arb": {
+"content_id": "arb-t41-v1",
+"language": "arb",
+"title": "حمار"
+},
 "fra": {
 "content_id": "fra-t41-v1",
 "language": "fra",
 "title": "âne ou ânesse"
+},
+"hin": {
+"content_id": "hin-t41-v1",
+"language": "hin",
+"title": "गधा"
+},
+"ind": {
+"content_id": "ind-t41-v1",
+"language": "ind",
+"title": "keledai"
+},
+"nep": {
+"content_id": "nep-t41-v1",
+"language": "nep",
+"title": "गधा"
 },
 "por": {
 "content_id": "por-t41-v1",
@@ -3165,6 +4111,11 @@
 "content_id": "spa-t41-v1",
 "language": "spa",
 "title": "donkey"
+},
+"swh": {
+"content_id": "swh-t41-v1",
+"language": "swh",
+"title": "punda"
 },
 "tpi": {
 "content_id": "tpi-t41-v1",
@@ -3205,10 +4156,30 @@
 "reference_id": 0,
 "index_reference": "dove",
 "localizations": {
+"arb": {
+"content_id": "arb-t42-v1",
+"language": "arb",
+"title": "حمامة"
+},
 "fra": {
 "content_id": "fra-t42-v1",
 "language": "fra",
 "title": "colombe"
+},
+"hin": {
+"content_id": "hin-t42-v1",
+"language": "hin",
+"title": "कबूतर"
+},
+"ind": {
+"content_id": "ind-t42-v1",
+"language": "ind",
+"title": "merpati"
+},
+"nep": {
+"content_id": "nep-t42-v1",
+"language": "nep",
+"title": "ढुकुर"
 },
 "por": {
 "content_id": "por-t42-v1",
@@ -3219,6 +4190,11 @@
 "content_id": "spa-t42-v1",
 "language": "spa",
 "title": "dove"
+},
+"swh": {
+"content_id": "swh-t42-v1",
+"language": "swh",
+"title": "njiwa"
 },
 "tpi": {
 "content_id": "tpi-t42-v1",
@@ -3259,10 +4235,30 @@
 "reference_id": 0,
 "index_reference": "elder",
 "localizations": {
+"arb": {
+"content_id": "arb-t43-v1",
+"language": "arb",
+"title": "شيخ"
+},
 "fra": {
 "content_id": "fra-t43-v1",
 "language": "fra",
 "title": "ancien"
+},
+"hin": {
+"content_id": "hin-t43-v1",
+"language": "hin",
+"title": "पुरनिया"
+},
+"ind": {
+"content_id": "ind-t43-v1",
+"language": "ind",
+"title": "penatua"
+},
+"nep": {
+"content_id": "nep-t43-v1",
+"language": "nep",
+"title": "एल्डर"
 },
 "por": {
 "content_id": "por-t43-v1",
@@ -3273,6 +4269,11 @@
 "content_id": "spa-t43-v1",
 "language": "spa",
 "title": "elder"
+},
+"swh": {
+"content_id": "swh-t43-v1",
+"language": "swh",
+"title": "mzee"
 },
 "tpi": {
 "content_id": "tpi-t43-v1",
@@ -3313,10 +4314,30 @@
 "reference_id": 0,
 "index_reference": "elijah",
 "localizations": {
+"arb": {
+"content_id": "arb-t44-v1",
+"language": "arb",
+"title": "إيليَّا"
+},
 "fra": {
 "content_id": "fra-t44-v1",
 "language": "fra",
 "title": "Élie"
+},
+"hin": {
+"content_id": "hin-t44-v1",
+"language": "hin",
+"title": "एलिय्याह"
+},
+"ind": {
+"content_id": "ind-t44-v1",
+"language": "ind",
+"title": "Elia"
+},
+"nep": {
+"content_id": "nep-t44-v1",
+"language": "nep",
+"title": "एलिया"
 },
 "por": {
 "content_id": "por-t44-v1",
@@ -3327,6 +4348,11 @@
 "content_id": "spa-t44-v1",
 "language": "spa",
 "title": "elijah"
+},
+"swh": {
+"content_id": "swh-t44-v1",
+"language": "swh",
+"title": "Eliya"
 },
 "tpi": {
 "content_id": "tpi-t44-v1",
@@ -3367,10 +4393,25 @@
 "reference_id": 0,
 "index_reference": "elizabeth",
 "localizations": {
+"arb": {
+"content_id": "arb-t45-v1",
+"language": "arb",
+"title": "أليصابات"
+},
 "fra": {
 "content_id": "fra-t45-v1",
 "language": "fra",
 "title": "Élisabeth"
+},
+"ind": {
+"content_id": "ind-t45-v1",
+"language": "ind",
+"title": "Elisabet"
+},
+"nep": {
+"content_id": "nep-t45-v1",
+"language": "nep",
+"title": "एलीशिबा"
 },
 "por": {
 "content_id": "por-t45-v1",
@@ -3382,10 +4423,20 @@
 "language": "spa",
 "title": "elizabeth"
 },
+"swh": {
+"content_id": "swh-t45-v1",
+"language": "swh",
+"title": "Elizabeti"
+},
 "tpi": {
 "content_id": "tpi-t45-v1",
 "language": "tpi",
 "title": "elizabeth"
+},
+"zht": {
+"content_id": "zht-t45-v1",
+"language": "zht",
+"title": "伊利莎白"
 }
 }
 },
@@ -3411,10 +4462,30 @@
 "reference_id": 0,
 "index_reference": "eternal life",
 "localizations": {
+"arb": {
+"content_id": "arb-t46-v1",
+"language": "arb",
+"title": "حياة أبدية"
+},
 "fra": {
 "content_id": "fra-t46-v1",
 "language": "fra",
 "title": "vie éternelle"
+},
+"hin": {
+"content_id": "hin-t46-v1",
+"language": "hin",
+"title": "अनन्त जीवन"
+},
+"ind": {
+"content_id": "ind-t46-v1",
+"language": "ind",
+"title": "kehidupan kekal"
+},
+"nep": {
+"content_id": "nep-t46-v1",
+"language": "nep",
+"title": "अनन्त जीवन"
 },
 "por": {
 "content_id": "por-t46-v1",
@@ -3425,6 +4496,11 @@
 "content_id": "spa-t46-v1",
 "language": "spa",
 "title": "eternal-life"
+},
+"swh": {
+"content_id": "swh-t46-v1",
+"language": "swh",
+"title": "uzima wa milele"
 },
 "tpi": {
 "content_id": "tpi-t46-v1",
@@ -3465,10 +4541,30 @@
 "reference_id": 0,
 "index_reference": "evil spirit",
 "localizations": {
+"arb": {
+"content_id": "arb-t47-v1",
+"language": "arb",
+"title": "روح شرير"
+},
 "fra": {
 "content_id": "fra-t47-v1",
 "language": "fra",
 "title": "mauvais esprit"
+},
+"hin": {
+"content_id": "hin-t47-v1",
+"language": "hin",
+"title": "दुष्ट आत्मा"
+},
+"ind": {
+"content_id": "ind-t47-v1",
+"language": "ind",
+"title": "roh jahat"
+},
+"nep": {
+"content_id": "nep-t47-v1",
+"language": "nep",
+"title": "दुष्ट आत्मा"
 },
 "por": {
 "content_id": "por-t47-v1",
@@ -3479,6 +4575,11 @@
 "content_id": "spa-t47-v1",
 "language": "spa",
 "title": "evil-spirit"
+},
+"swh": {
+"content_id": "swh-t47-v1",
+"language": "swh",
+"title": "pepo mbaya"
 },
 "tpi": {
 "content_id": "tpi-t47-v1",
@@ -3519,10 +4620,30 @@
 "reference_id": 0,
 "index_reference": "faith",
 "localizations": {
+"arb": {
+"content_id": "arb-t48-v1",
+"language": "arb",
+"title": "الإيمان"
+},
 "fra": {
 "content_id": "fra-t48-v1",
 "language": "fra",
 "title": "foi"
+},
+"hin": {
+"content_id": "hin-t48-v1",
+"language": "hin",
+"title": "विश्वास"
+},
+"ind": {
+"content_id": "ind-t48-v1",
+"language": "ind",
+"title": "iman"
+},
+"nep": {
+"content_id": "nep-t48-v1",
+"language": "nep",
+"title": "विश्वास"
 },
 "por": {
 "content_id": "por-t48-v1",
@@ -3538,6 +4659,11 @@
 "content_id": "spa-t48-v1",
 "language": "spa",
 "title": "fe"
+},
+"swh": {
+"content_id": "swh-t48-v1",
+"language": "swh",
+"title": "imani"
 },
 "tpi": {
 "content_id": "tpi-t48-v1",
@@ -3588,10 +4714,30 @@
 "reference_id": 0,
 "index_reference": "fasting",
 "localizations": {
+"arb": {
+"content_id": "arb-t49-v1",
+"language": "arb",
+"title": "الصوم"
+},
 "fra": {
 "content_id": "fra-t49-v1.0.1",
 "language": "fra",
 "title": "jeûner"
+},
+"hin": {
+"content_id": "hin-t49-v1",
+"language": "hin",
+"title": "उपवास"
+},
+"ind": {
+"content_id": "ind-t49-v1",
+"language": "ind",
+"title": "puasa"
+},
+"nep": {
+"content_id": "nep-t49-v1",
+"language": "nep",
+"title": "उपवास"
 },
 "por": {
 "content_id": "por-t49-v1",
@@ -3602,6 +4748,11 @@
 "content_id": "spa-t49-v1",
 "language": "spa",
 "title": "fasting"
+},
+"swh": {
+"content_id": "swh-t49-v1",
+"language": "swh",
+"title": "kufunga"
 },
 "tpi": {
 "content_id": "tpi-t49-v1",
@@ -3654,10 +4805,30 @@
 "reference_id": 0,
 "index_reference": "fig tree",
 "localizations": {
+"arb": {
+"content_id": "arb-t51-v1",
+"language": "arb",
+"title": "شجرة التين"
+},
 "fra": {
 "content_id": "fra-t51-v1",
 "language": "fra",
 "title": "figuier"
+},
+"hin": {
+"content_id": "hin-t51-v1",
+"language": "hin",
+"title": "अंजीर का पेड़"
+},
+"ind": {
+"content_id": "ind-t51-v1",
+"language": "ind",
+"title": "pohon ara"
+},
+"nep": {
+"content_id": "nep-t51-v1",
+"language": "nep",
+"title": "नेभाराको रूख"
 },
 "por": {
 "content_id": "por-t51-v1",
@@ -3668,6 +4839,11 @@
 "content_id": "spa-t51-v1",
 "language": "spa",
 "title": "fig-tree"
+},
+"swh": {
+"content_id": "swh-t51-v1",
+"language": "swh",
+"title": "mtini"
 },
 "tpi": {
 "content_id": "tpi-t51-v1",
@@ -3708,10 +4884,30 @@
 "reference_id": 0,
 "index_reference": "fishing net",
 "localizations": {
+"arb": {
+"content_id": "arb-t52-v1",
+"language": "arb",
+"title": "شبكة الصيد"
+},
 "fra": {
 "content_id": "fra-t52-v1.0.1",
 "language": "fra",
 "title": "filet de pêche"
+},
+"hin": {
+"content_id": "hin-t52-v1",
+"language": "hin",
+"title": "मछली पकड़ने का जाल"
+},
+"ind": {
+"content_id": "ind-t52-v1",
+"language": "ind",
+"title": "jala ikan"
+},
+"nep": {
+"content_id": "nep-t52-v1",
+"language": "nep",
+"title": "माछा मार्ने जाल"
 },
 "por": {
 "content_id": "por-t52-v1",
@@ -3727,6 +4923,11 @@
 "content_id": "spa-t52-v1",
 "language": "spa",
 "title": "fishing-net"
+},
+"swh": {
+"content_id": "swh-t52-v1",
+"language": "swh",
+"title": "nyavu"
 },
 "tpi": {
 "content_id": "tpi-t52-v1",
@@ -3772,10 +4973,30 @@
 "reference_id": 0,
 "index_reference": "forgiveness",
 "localizations": {
+"arb": {
+"content_id": "arb-t53-v1",
+"language": "arb",
+"title": "غفران"
+},
 "fra": {
 "content_id": "fra-t53-v1",
 "language": "fra",
 "title": "pardon"
+},
+"hin": {
+"content_id": "hin-t53-v1",
+"language": "hin",
+"title": "क्षमा"
+},
+"ind": {
+"content_id": "ind-t53-v1",
+"language": "ind",
+"title": "Pengampunan"
+},
+"nep": {
+"content_id": "nep-t53-v1",
+"language": "nep",
+"title": "क्षमा"
 },
 "por": {
 "content_id": "por-t53-v1",
@@ -3791,6 +5012,11 @@
 "content_id": "spa-t53-v1",
 "language": "spa",
 "title": "forgiveness"
+},
+"swh": {
+"content_id": "swh-t53-v1",
+"language": "swh",
+"title": "msamaha"
 },
 "tpi": {
 "content_id": "tpi-t53-v1",
@@ -3836,10 +5062,25 @@
 "reference_id": 0,
 "index_reference": "gabriel",
 "localizations": {
+"arb": {
+"content_id": "arb-t54-v1",
+"language": "arb",
+"title": "جبرائيل"
+},
 "fra": {
 "content_id": "fra-t54-v1",
 "language": "fra",
 "title": "Gabriel"
+},
+"ind": {
+"content_id": "ind-t54-v1",
+"language": "ind",
+"title": "Gabriel"
+},
+"nep": {
+"content_id": "nep-t54-v1",
+"language": "nep",
+"title": "गब्रिएल"
 },
 "por": {
 "content_id": "por-t54-v1",
@@ -3851,10 +5092,20 @@
 "language": "spa",
 "title": "gabriel"
 },
+"swh": {
+"content_id": "swh-t54-v1",
+"language": "swh",
+"title": "Gabrieli"
+},
 "tpi": {
 "content_id": "tpi-t54-v1",
 "language": "tpi",
 "title": "gabriel"
+},
+"zht": {
+"content_id": "zht-t54-v1",
+"language": "zht",
+"title": "加百列"
 }
 }
 },
@@ -3880,10 +5131,30 @@
 "reference_id": 0,
 "index_reference": "galilee",
 "localizations": {
+"arb": {
+"content_id": "arb-t55-v1",
+"language": "arb",
+"title": "الجليل"
+},
 "fra": {
 "content_id": "fra-t55-v1.0.1",
 "language": "fra",
 "title": "Galilée"
+},
+"hin": {
+"content_id": "hin-t55-v1",
+"language": "hin",
+"title": "गलील"
+},
+"ind": {
+"content_id": "ind-t55-v1",
+"language": "ind",
+"title": "Galilea"
+},
+"nep": {
+"content_id": "nep-t55-v1",
+"language": "nep",
+"title": "गालील"
 },
 "por": {
 "content_id": "por-t55-v1",
@@ -3899,6 +5170,11 @@
 "content_id": "spa-t55-v1",
 "language": "spa",
 "title": "galilee"
+},
+"swh": {
+"content_id": "swh-t55-v1",
+"language": "swh",
+"title": "Galilaya"
 },
 "tpi": {
 "content_id": "tpi-t55-v1",
@@ -3944,10 +5220,30 @@
 "reference_id": 0,
 "index_reference": "gentile",
 "localizations": {
+"arb": {
+"content_id": "arb-t56-v1",
+"language": "arb",
+"title": "أممي"
+},
 "fra": {
 "content_id": "fra-t56-v1",
 "language": "fra",
 "title": "Gentil ou païen"
+},
+"hin": {
+"content_id": "hin-t56-v1",
+"language": "hin",
+"title": "अन्यजाति"
+},
+"ind": {
+"content_id": "ind-t56-v1",
+"language": "ind",
+"title": "Kafir"
+},
+"nep": {
+"content_id": "nep-t56-v1",
+"language": "nep",
+"title": "अन्यजाति"
 },
 "por": {
 "content_id": "por-t56-v1",
@@ -3958,6 +5254,11 @@
 "content_id": "spa-t56-v1",
 "language": "spa",
 "title": "gentile"
+},
+"swh": {
+"content_id": "swh-t56-v1",
+"language": "swh",
+"title": "Mtu wa Mataifa"
 },
 "tpi": {
 "content_id": "tpi-t56-v1",
@@ -3998,10 +5299,30 @@
 "reference_id": 0,
 "index_reference": "gerasenes",
 "localizations": {
+"arb": {
+"content_id": "arb-t57-v2",
+"language": "arb",
+"title": "كورة الجدريين (الجرجسيين)"
+},
 "fra": {
 "content_id": "fra-t57-v1",
 "language": "fra",
 "title": "Gérasa"
+},
+"hin": {
+"content_id": "hin-t57-v1",
+"language": "hin",
+"title": "गिरासेनियों"
+},
+"ind": {
+"content_id": "ind-t57-v1",
+"language": "ind",
+"title": "Gerasa"
+},
+"nep": {
+"content_id": "nep-t57-v2",
+"language": "nep",
+"title": "गेरासेनीहरू"
 },
 "por": {
 "content_id": "por-t57-v1",
@@ -4012,6 +5333,11 @@
 "content_id": "spa-t57-v2.1",
 "language": "spa",
 "title": "gerasenes"
+},
+"swh": {
+"content_id": "swh-t57-v2",
+"language": "swh",
+"title": "Wagerasi"
 },
 "tpi": {
 "content_id": "tpi-t57-v2.1",
@@ -4052,10 +5378,30 @@
 "reference_id": 0,
 "index_reference": "glory",
 "localizations": {
+"arb": {
+"content_id": "arb-t58-v1",
+"language": "arb",
+"title": "مجد"
+},
 "fra": {
 "content_id": "fra-t58-v1",
 "language": "fra",
 "title": "gloire"
+},
+"hin": {
+"content_id": "hin-t58-v1",
+"language": "hin",
+"title": "महिमा"
+},
+"ind": {
+"content_id": "ind-t58-v1",
+"language": "ind",
+"title": "kemuliaan"
+},
+"nep": {
+"content_id": "nep-t58-v1",
+"language": "nep",
+"title": "महिमा"
 },
 "por": {
 "content_id": "por-t58-v1",
@@ -4066,6 +5412,11 @@
 "content_id": "spa-t58-v1",
 "language": "spa",
 "title": "glory"
+},
+"swh": {
+"content_id": "swh-t58-v1",
+"language": "swh",
+"title": "utukufu"
 },
 "tpi": {
 "content_id": "tpi-t58-v1",
@@ -4106,10 +5457,30 @@
 "reference_id": 0,
 "index_reference": "gospel",
 "localizations": {
+"arb": {
+"content_id": "arb-t60-v1",
+"language": "arb",
+"title": "إنجيل (بشارة)"
+},
 "fra": {
 "content_id": "fra-t60-v1.0.1",
 "language": "fra",
 "title": "Évangile"
+},
+"hin": {
+"content_id": "hin-t60-v1",
+"language": "hin",
+"title": "सुसमाचार"
+},
+"ind": {
+"content_id": "ind-t60-v1",
+"language": "ind",
+"title": "injil"
+},
+"nep": {
+"content_id": "nep-t60-v1",
+"language": "nep",
+"title": "सुसमाचार"
 },
 "por": {
 "content_id": "por-t60-v1",
@@ -4125,6 +5496,11 @@
 "content_id": "spa-t60-v1",
 "language": "spa",
 "title": "gospel"
+},
+"swh": {
+"content_id": "swh-t60-v1",
+"language": "swh",
+"title": "injili"
 },
 "tpi": {
 "content_id": "tpi-t60-v1",
@@ -4170,10 +5546,25 @@
 "reference_id": 0,
 "index_reference": "grace",
 "localizations": {
+"arb": {
+"content_id": "arb-t61-v1",
+"language": "arb",
+"title": "نعمة"
+},
 "fra": {
 "content_id": "fra-t61-v1",
 "language": "fra",
 "title": "grâce"
+},
+"ind": {
+"content_id": "ind-t61-v1",
+"language": "ind",
+"title": "anugerah; kasih karunia"
+},
+"nep": {
+"content_id": "nep-t61-v1",
+"language": "nep",
+"title": "अनुग्रह"
 },
 "por": {
 "content_id": "por-t61-v1",
@@ -4185,10 +5576,20 @@
 "language": "spa",
 "title": "grace"
 },
+"swh": {
+"content_id": "swh-t61-v1",
+"language": "swh",
+"title": "neema"
+},
 "tpi": {
 "content_id": "tpi-t61-v1",
 "language": "tpi",
 "title": "grace"
+},
+"zht": {
+"content_id": "zht-t61-v1",
+"language": "zht",
+"title": "恩典"
 }
 }
 },
@@ -4214,10 +5615,30 @@
 "reference_id": 0,
 "index_reference": "heal",
 "localizations": {
+"arb": {
+"content_id": "arb-t62-v1",
+"language": "arb",
+"title": "يشفي"
+},
 "fra": {
 "content_id": "fra-t62-v1.0.1",
 "language": "fra",
 "title": "guérir"
+},
+"hin": {
+"content_id": "hin-t62-v1",
+"language": "hin",
+"title": "चंगा"
+},
+"ind": {
+"content_id": "ind-t62-v1",
+"language": "ind",
+"title": "menyembuhkan"
+},
+"nep": {
+"content_id": "nep-t62-v1",
+"language": "nep",
+"title": "निको पार्नु"
 },
 "por": {
 "content_id": "por-t62-v1",
@@ -4233,6 +5654,11 @@
 "content_id": "spa-t62-v1",
 "language": "spa",
 "title": "heal"
+},
+"swh": {
+"content_id": "swh-t62-v1",
+"language": "swh",
+"title": "kuponya"
 },
 "tpi": {
 "content_id": "tpi-t62-v1",
@@ -4278,10 +5704,30 @@
 "reference_id": 0,
 "index_reference": "heaven",
 "localizations": {
+"arb": {
+"content_id": "arb-t63-v1",
+"language": "arb",
+"title": "السماء"
+},
 "fra": {
 "content_id": "fra-t63-v1",
 "language": "fra",
 "title": "ciel ou cieux"
+},
+"hin": {
+"content_id": "hin-t63-v1",
+"language": "hin",
+"title": "स्वर्ग"
+},
+"ind": {
+"content_id": "ind-t63-v1",
+"language": "ind",
+"title": "surga"
+},
+"nep": {
+"content_id": "nep-t63-v1",
+"language": "nep",
+"title": "स्वर्ग"
 },
 "por": {
 "content_id": "por-t63-v1",
@@ -4297,6 +5743,11 @@
 "content_id": "spa-t63-v1",
 "language": "spa",
 "title": "heaven"
+},
+"swh": {
+"content_id": "swh-t63-v1",
+"language": "swh",
+"title": "mbingu"
 },
 "tpi": {
 "content_id": "tpi-t63-v1",
@@ -4342,10 +5793,30 @@
 "reference_id": 0,
 "index_reference": "heir",
 "localizations": {
+"arb": {
+"content_id": "arb-t64-v1",
+"language": "arb",
+"title": "وارث"
+},
 "fra": {
 "content_id": "fra-t64-v1",
 "language": "fra",
 "title": "héritier"
+},
+"hin": {
+"content_id": "hin-t64-v1",
+"language": "hin",
+"title": "वारिस"
+},
+"ind": {
+"content_id": "ind-t64-v1",
+"language": "ind",
+"title": "ahli waris"
+},
+"nep": {
+"content_id": "nep-t64-v1",
+"language": "nep",
+"title": "उत्तराधिकारी"
 },
 "por": {
 "content_id": "por-t64-v1",
@@ -4356,6 +5827,11 @@
 "content_id": "spa-t64-v1",
 "language": "spa",
 "title": "heir"
+},
+"swh": {
+"content_id": "swh-t64-v1",
+"language": "swh",
+"title": "mrithi"
 },
 "tpi": {
 "content_id": "tpi-t64-v1",
@@ -4396,10 +5872,30 @@
 "reference_id": 0,
 "index_reference": "hell",
 "localizations": {
+"arb": {
+"content_id": "arb-t65-v1",
+"language": "arb",
+"title": "جهنم"
+},
 "fra": {
 "content_id": "fra-t65-v1",
 "language": "fra",
 "title": "enfer"
+},
+"hin": {
+"content_id": "hin-t65-v1",
+"language": "hin",
+"title": "नरक"
+},
+"ind": {
+"content_id": "ind-t65-v1",
+"language": "ind",
+"title": "neraka"
+},
+"nep": {
+"content_id": "nep-t65-v1",
+"language": "nep",
+"title": "नरक"
 },
 "por": {
 "content_id": "por-t65-v1",
@@ -4410,6 +5906,11 @@
 "content_id": "spa-t65-v1",
 "language": "spa",
 "title": "hell"
+},
+"swh": {
+"content_id": "swh-t65-v1",
+"language": "swh",
+"title": "jehanamu"
 },
 "tpi": {
 "content_id": "tpi-t65-v1",
@@ -4450,10 +5951,30 @@
 "reference_id": 0,
 "index_reference": "herodian",
 "localizations": {
+"arb": {
+"content_id": "arb-t66-v1",
+"language": "arb",
+"title": "الهيرودسيون"
+},
 "fra": {
 "content_id": "fra-t66-v1",
 "language": "fra",
 "title": "Hérodiens"
+},
+"hin": {
+"content_id": "hin-t66-v1",
+"language": "hin",
+"title": "हेरोदी"
+},
+"ind": {
+"content_id": "ind-t66-v1",
+"language": "ind",
+"title": "Herodian"
+},
+"nep": {
+"content_id": "nep-t66-v1",
+"language": "nep",
+"title": "हेरोदी"
 },
 "por": {
 "content_id": "por-t66-v1",
@@ -4464,6 +5985,11 @@
 "content_id": "spa-t66-v1",
 "language": "spa",
 "title": "herodian"
+},
+"swh": {
+"content_id": "swh-t66-v1",
+"language": "swh",
+"title": "Herodia"
 },
 "tpi": {
 "content_id": "tpi-t66-v1",
@@ -4504,10 +6030,30 @@
 "reference_id": 0,
 "index_reference": "holy",
 "localizations": {
+"arb": {
+"content_id": "arb-t67-v1",
+"language": "arb",
+"title": "مُقدَّس (أو قُدس)"
+},
 "fra": {
 "content_id": "fra-t67-v1",
 "language": "fra",
 "title": "saint"
+},
+"hin": {
+"content_id": "hin-t67-v1",
+"language": "hin",
+"title": "पवित्र"
+},
+"ind": {
+"content_id": "ind-t67-v1",
+"language": "ind",
+"title": "kudus"
+},
+"nep": {
+"content_id": "nep-t67-v1",
+"language": "nep",
+"title": "पवित्र"
 },
 "por": {
 "content_id": "por-t67-v1",
@@ -4523,6 +6069,11 @@
 "content_id": "spa-t67-v1",
 "language": "spa",
 "title": "holy"
+},
+"swh": {
+"content_id": "swh-t67-v1",
+"language": "swh",
+"title": "takatifu"
 },
 "tpi": {
 "content_id": "tpi-t67-v1",
@@ -4568,10 +6119,30 @@
 "reference_id": 0,
 "index_reference": "holy spirit",
 "localizations": {
+"arb": {
+"content_id": "arb-t68-v1",
+"language": "arb",
+"title": "الروح القدس"
+},
 "fra": {
 "content_id": "fra-t68-v1",
 "language": "fra",
 "title": "Saint-Esprit"
+},
+"hin": {
+"content_id": "hin-t68-v1",
+"language": "hin",
+"title": "पवित्र आत्मा"
+},
+"ind": {
+"content_id": "ind-t68-v1",
+"language": "ind",
+"title": "Roh Kudus"
+},
+"nep": {
+"content_id": "nep-t68-v1",
+"language": "nep",
+"title": "पवित्र आत्मा"
 },
 "por": {
 "content_id": "por-t68-v1",
@@ -4587,6 +6158,11 @@
 "content_id": "spa-t68-v1",
 "language": "spa",
 "title": "holy-spirit"
+},
+"swh": {
+"content_id": "swh-t68-v1",
+"language": "swh",
+"title": "Roho Mtakatifu"
 },
 "tpi": {
 "content_id": "tpi-t68-v1",
@@ -4632,10 +6208,30 @@
 "reference_id": 0,
 "index_reference": "hosanna",
 "localizations": {
+"arb": {
+"content_id": "arb-t69-v1",
+"language": "arb",
+"title": "أوصنَّا"
+},
 "fra": {
 "content_id": "fra-t69-v1",
 "language": "fra",
 "title": "Hosanna"
+},
+"hin": {
+"content_id": "hin-t69-v1",
+"language": "hin",
+"title": "होशाना"
+},
+"ind": {
+"content_id": "ind-t69-v1",
+"language": "ind",
+"title": "Hosana"
+},
+"nep": {
+"content_id": "nep-t69-v1",
+"language": "nep",
+"title": "होसन्ना"
 },
 "por": {
 "content_id": "por-t69-v1",
@@ -4646,6 +6242,11 @@
 "content_id": "spa-t69-v1",
 "language": "spa",
 "title": "hosanna"
+},
+"swh": {
+"content_id": "swh-t69-v1",
+"language": "swh",
+"title": "Hosana"
 },
 "tpi": {
 "content_id": "tpi-t69-v1",
@@ -4686,10 +6287,30 @@
 "reference_id": 0,
 "index_reference": "household",
 "localizations": {
+"arb": {
+"content_id": "arb-t70-v1",
+"language": "arb",
+"title": "أهل بيت (أسرة)"
+},
 "fra": {
 "content_id": "fra-t70-v1",
 "language": "fra",
 "title": "maison"
+},
+"hin": {
+"content_id": "hin-t70-v1",
+"language": "hin",
+"title": "घराना"
+},
+"ind": {
+"content_id": "ind-t70-v1",
+"language": "ind",
+"title": "rumah tangga"
+},
+"nep": {
+"content_id": "nep-t70-v1",
+"language": "nep",
+"title": "घराना"
 },
 "por": {
 "content_id": "por-t70-v1",
@@ -4700,6 +6321,11 @@
 "content_id": "spa-t70-v1",
 "language": "spa",
 "title": "household"
+},
+"swh": {
+"content_id": "swh-t70-v1",
+"language": "swh",
+"title": "kaya"
 },
 "tpi": {
 "content_id": "tpi-t70-v1",
@@ -4740,10 +6366,30 @@
 "reference_id": 0,
 "index_reference": "hypocrisy",
 "localizations": {
+"arb": {
+"content_id": "arb-t71-v1",
+"language": "arb",
+"title": "رياء"
+},
 "fra": {
 "content_id": "fra-t71-v1",
 "language": "fra",
 "title": "hypocrisie"
+},
+"hin": {
+"content_id": "hin-t71-v1",
+"language": "hin",
+"title": "पाखण्ड"
+},
+"ind": {
+"content_id": "ind-t71-v1",
+"language": "ind",
+"title": "kemunafikan"
+},
+"nep": {
+"content_id": "nep-t71-v1",
+"language": "nep",
+"title": "पाखण्ड"
 },
 "por": {
 "content_id": "por-t71-v1",
@@ -4754,6 +6400,11 @@
 "content_id": "spa-t71-v1",
 "language": "spa",
 "title": "hypocrisy"
+},
+"swh": {
+"content_id": "swh-t71-v1",
+"language": "swh",
+"title": "unafiki"
 },
 "tpi": {
 "content_id": "tpi-t71-v1",
@@ -4794,10 +6445,25 @@
 "reference_id": 0,
 "index_reference": "idol",
 "localizations": {
+"arb": {
+"content_id": "arb-t72-v1",
+"language": "arb",
+"title": "وثن (صنم)"
+},
 "fra": {
 "content_id": "fra-t72-v1",
 "language": "fra",
 "title": "idole"
+},
+"ind": {
+"content_id": "ind-t72-v1",
+"language": "ind",
+"title": "berhala"
+},
+"nep": {
+"content_id": "nep-t72-v1",
+"language": "nep",
+"title": "मूर्ति"
 },
 "por": {
 "content_id": "por-t72-v1",
@@ -4809,10 +6475,20 @@
 "language": "spa",
 "title": "idol"
 },
+"swh": {
+"content_id": "swh-t72-v1",
+"language": "swh",
+"title": "sanamu"
+},
 "tpi": {
 "content_id": "tpi-t72-v1",
 "language": "tpi",
 "title": "idol"
+},
+"zht": {
+"content_id": "zht-t72-v1",
+"language": "zht",
+"title": "偶像"
 }
 }
 },
@@ -4838,10 +6514,30 @@
 "reference_id": 0,
 "index_reference": "isaiah",
 "localizations": {
+"arb": {
+"content_id": "arb-t73-v1",
+"language": "arb",
+"title": "إشعياء"
+},
 "fra": {
 "content_id": "fra-t73-v1",
 "language": "fra",
 "title": "Ésaïe"
+},
+"hin": {
+"content_id": "hin-t73-v1",
+"language": "hin",
+"title": "यशायाह"
+},
+"ind": {
+"content_id": "ind-t73-v1",
+"language": "ind",
+"title": "Yesaya"
+},
+"nep": {
+"content_id": "nep-t73-v1",
+"language": "nep",
+"title": "यशैया"
 },
 "por": {
 "content_id": "por-t73-v1",
@@ -4852,6 +6548,11 @@
 "content_id": "spa-t73-v1",
 "language": "spa",
 "title": "isaiah"
+},
+"swh": {
+"content_id": "swh-t73-v1",
+"language": "swh",
+"title": "Isaya"
 },
 "tpi": {
 "content_id": "tpi-t73-v1",
@@ -4892,10 +6593,30 @@
 "reference_id": 0,
 "index_reference": "israel",
 "localizations": {
+"arb": {
+"content_id": "arb-t74-v2",
+"language": "arb",
+"title": "إسرائيل"
+},
 "fra": {
 "content_id": "fra-t74-v2",
 "language": "fra",
 "title": "Israël"
+},
+"hin": {
+"content_id": "hin-t74-v2",
+"language": "hin",
+"title": "इस्राएल"
+},
+"ind": {
+"content_id": "ind-t74-v2",
+"language": "ind",
+"title": "Israel"
+},
+"nep": {
+"content_id": "nep-t74-v2",
+"language": "nep",
+"title": "इस्राएल"
 },
 "por": {
 "content_id": "por-t74-v2",
@@ -4906,6 +6627,11 @@
 "content_id": "spa-t74-v2",
 "language": "spa",
 "title": "israel"
+},
+"swh": {
+"content_id": "swh-t74-v2",
+"language": "swh",
+"title": "Israeli"
 },
 "tpi": {
 "content_id": "tpi-t74-v2",
@@ -4936,10 +6662,30 @@
 "reference_id": 0,
 "index_reference": "james",
 "localizations": {
+"arb": {
+"content_id": "arb-t75-v1",
+"language": "arb",
+"title": "يعقوب"
+},
 "fra": {
 "content_id": "fra-t75-v1",
 "language": "fra",
 "title": "Jacques"
+},
+"hin": {
+"content_id": "hin-t75-v1",
+"language": "hin",
+"title": "याकूब"
+},
+"ind": {
+"content_id": "ind-t75-v1",
+"language": "ind",
+"title": "Yakobus"
+},
+"nep": {
+"content_id": "nep-t75-v1",
+"language": "nep",
+"title": "याकूब"
 },
 "por": {
 "content_id": "por-t75-v1",
@@ -4950,6 +6696,11 @@
 "content_id": "spa-t75-v1",
 "language": "spa",
 "title": "james"
+},
+"swh": {
+"content_id": "swh-t75-v1",
+"language": "swh",
+"title": "Yakobo"
 },
 "tpi": {
 "content_id": "tpi-t75-v1",
@@ -4990,10 +6741,30 @@
 "reference_id": 0,
 "index_reference": "jerusalem",
 "localizations": {
+"arb": {
+"content_id": "arb-t76-v1",
+"language": "arb",
+"title": "أورشليم"
+},
 "fra": {
 "content_id": "fra-t76-v1",
 "language": "fra",
 "title": "Jérusalem"
+},
+"hin": {
+"content_id": "hin-t76-v1",
+"language": "hin",
+"title": "यरूशलेम"
+},
+"ind": {
+"content_id": "ind-t76-v1",
+"language": "ind",
+"title": "Yerusalem"
+},
+"nep": {
+"content_id": "nep-t76-v1",
+"language": "nep",
+"title": "यरूशलेम"
 },
 "por": {
 "content_id": "por-t76-v1",
@@ -5009,6 +6780,11 @@
 "content_id": "spa-t76-v1",
 "language": "spa",
 "title": "jerusalem"
+},
+"swh": {
+"content_id": "swh-t76-v1",
+"language": "swh",
+"title": "Yerusalemu"
 },
 "tpi": {
 "content_id": "tpi-t76-v1",
@@ -5054,10 +6830,30 @@
 "reference_id": 0,
 "index_reference": "jew",
 "localizations": {
+"arb": {
+"content_id": "arb-t77-v2",
+"language": "arb",
+"title": "يهود"
+},
 "fra": {
 "content_id": "fra-t77-v2",
 "language": "fra",
 "title": "Juifs"
+},
+"hin": {
+"content_id": "hin-t77-v2",
+"language": "hin",
+"title": "यहूदी"
+},
+"ind": {
+"content_id": "ind-t77-v2",
+"language": "ind",
+"title": "Yahudi"
+},
+"nep": {
+"content_id": "nep-t77-v2",
+"language": "nep",
+"title": "यहूदी"
 },
 "por": {
 "content_id": "por-t77-v2",
@@ -5068,6 +6864,11 @@
 "content_id": "spa-t77-v2",
 "language": "spa",
 "title": "jew"
+},
+"swh": {
+"content_id": "swh-t77-v2",
+"language": "swh",
+"title": "Myahudi"
 },
 "tpi": {
 "content_id": "tpi-t77-v2",
@@ -5098,10 +6899,30 @@
 "reference_id": 0,
 "index_reference": "john",
 "localizations": {
+"arb": {
+"content_id": "arb-t78-v1",
+"language": "arb",
+"title": "يوحنا"
+},
 "fra": {
 "content_id": "fra-t78-v1",
 "language": "fra",
 "title": "Jean"
+},
+"hin": {
+"content_id": "hin-t78-v1",
+"language": "hin",
+"title": "यूहन्ना"
+},
+"ind": {
+"content_id": "ind-t78-v1",
+"language": "ind",
+"title": "Yohanes"
+},
+"nep": {
+"content_id": "nep-t78-v1",
+"language": "nep",
+"title": "यूहन्ना"
 },
 "por": {
 "content_id": "por-t78-v1",
@@ -5112,6 +6933,11 @@
 "content_id": "spa-t78-v1",
 "language": "spa",
 "title": "john"
+},
+"swh": {
+"content_id": "swh-t78-v1",
+"language": "swh",
+"title": "Yohana"
 },
 "tpi": {
 "content_id": "tpi-t78-v1",
@@ -5152,10 +6978,30 @@
 "reference_id": 0,
 "index_reference": "john the baptist",
 "localizations": {
+"arb": {
+"content_id": "arb-t79-v1",
+"language": "arb",
+"title": "يوحنا المعمدان"
+},
 "fra": {
 "content_id": "fra-t79-v1",
 "language": "fra",
 "title": "Jean le Baptiste"
+},
+"hin": {
+"content_id": "hin-t79-v1",
+"language": "hin",
+"title": "यूहन्ना बपतिस्मा देनेवाला"
+},
+"ind": {
+"content_id": "ind-t79-v1",
+"language": "ind",
+"title": "Yohanes Pembaptis"
+},
+"nep": {
+"content_id": "nep-t79-v1",
+"language": "nep",
+"title": "बप्तिस्मा दिने यूहन्ना"
 },
 "por": {
 "content_id": "por-t79-v1",
@@ -5166,6 +7012,11 @@
 "content_id": "spa-t79-v1",
 "language": "spa",
 "title": "john-the-baptist"
+},
+"swh": {
+"content_id": "swh-t79-v1",
+"language": "swh",
+"title": "Yohana Mbatizaji"
 },
 "tpi": {
 "content_id": "tpi-t79-v1",
@@ -5206,10 +7057,30 @@
 "reference_id": 0,
 "index_reference": "jordan river",
 "localizations": {
+"arb": {
+"content_id": "arb-t80-v1",
+"language": "arb",
+"title": "نهر الأردن"
+},
 "fra": {
 "content_id": "fra-t80-v1",
 "language": "fra",
 "title": "Jourdain"
+},
+"hin": {
+"content_id": "hin-t80-v1",
+"language": "hin",
+"title": "यरदन नदी"
+},
+"ind": {
+"content_id": "ind-t80-v1",
+"language": "ind",
+"title": "Sungai Yordan"
+},
+"nep": {
+"content_id": "nep-t80-v1",
+"language": "nep",
+"title": "यर्दन नदी"
 },
 "por": {
 "content_id": "por-t80-v1",
@@ -5220,6 +7091,11 @@
 "content_id": "spa-t80-v1",
 "language": "spa",
 "title": "jordan-river"
+},
+"swh": {
+"content_id": "swh-t80-v1",
+"language": "swh",
+"title": "Mto Yordani"
 },
 "tpi": {
 "content_id": "tpi-t80-v1",
@@ -5260,10 +7136,30 @@
 "reference_id": 0,
 "index_reference": "judea",
 "localizations": {
+"arb": {
+"content_id": "arb-t81-v1",
+"language": "arb",
+"title": "اليهودية"
+},
 "fra": {
 "content_id": "fra-t81-v1",
 "language": "fra",
 "title": "Judée"
+},
+"hin": {
+"content_id": "hin-t81-v1",
+"language": "hin",
+"title": "यहूदिया"
+},
+"ind": {
+"content_id": "ind-t81-v1",
+"language": "ind",
+"title": "Yudea"
+},
+"nep": {
+"content_id": "nep-t81-v1",
+"language": "nep",
+"title": "यहूदिया"
 },
 "por": {
 "content_id": "por-t81-v1",
@@ -5274,6 +7170,11 @@
 "content_id": "spa-t81-v1",
 "language": "spa",
 "title": "judea"
+},
+"swh": {
+"content_id": "swh-t81-v1",
+"language": "swh",
+"title": "Yudea"
 },
 "tpi": {
 "content_id": "tpi-t81-v1",
@@ -5314,10 +7215,30 @@
 "reference_id": 0,
 "index_reference": "kingdom of god",
 "localizations": {
+"arb": {
+"content_id": "arb-t82-v1",
+"language": "arb",
+"title": "ملكوت الله"
+},
 "fra": {
 "content_id": "fra-t82-v1.0.1",
 "language": "fra",
 "title": "royaume de Dieu"
+},
+"hin": {
+"content_id": "hin-t82-v1",
+"language": "hin",
+"title": "परमेश्वर का राज्य"
+},
+"ind": {
+"content_id": "ind-t82-v1",
+"language": "ind",
+"title": "Kerajaan Allah"
+},
+"nep": {
+"content_id": "nep-t82-v1",
+"language": "nep",
+"title": "परमेश्वरको राज्य"
 },
 "por": {
 "content_id": "por-t82-v1",
@@ -5333,6 +7254,11 @@
 "content_id": "spa-t82-v1",
 "language": "spa",
 "title": "kingdom-of-god"
+},
+"swh": {
+"content_id": "swh-t82-v1",
+"language": "swh",
+"title": "ufalme wa Mungu"
 },
 "tpi": {
 "content_id": "tpi-t82-v1",
@@ -5378,10 +7304,30 @@
 "reference_id": 0,
 "index_reference": "law",
 "localizations": {
+"arb": {
+"content_id": "arb-t83-v1",
+"language": "arb",
+"title": "الناموس"
+},
 "fra": {
 "content_id": "fra-t83-v1.0.1",
 "language": "fra",
 "title": "loi"
+},
+"hin": {
+"content_id": "hin-t83-v1",
+"language": "hin",
+"title": "व्यवस्था"
+},
+"ind": {
+"content_id": "ind-t83-v1",
+"language": "ind",
+"title": "hukum"
+},
+"nep": {
+"content_id": "nep-t83-v1",
+"language": "nep",
+"title": "व्यवस्था"
 },
 "por": {
 "content_id": "por-t83-v1",
@@ -5397,6 +7343,11 @@
 "content_id": "spa-t83-v1",
 "language": "spa",
 "title": "law"
+},
+"swh": {
+"content_id": "swh-t83-v1",
+"language": "swh",
+"title": "sheria"
 },
 "tpi": {
 "content_id": "tpi-t83-v1",
@@ -5442,10 +7393,30 @@
 "reference_id": 0,
 "index_reference": "legion",
 "localizations": {
+"arb": {
+"content_id": "arb-t84-v1",
+"language": "arb",
+"title": "لجئون"
+},
 "fra": {
 "content_id": "fra-t84-v1",
 "language": "fra",
 "title": "légion"
+},
+"hin": {
+"content_id": "hin-t84-v1",
+"language": "hin",
+"title": "सेना"
+},
+"ind": {
+"content_id": "ind-t84-v1",
+"language": "ind",
+"title": "legion"
+},
+"nep": {
+"content_id": "nep-t84-v1",
+"language": "nep",
+"title": "फौज"
 },
 "por": {
 "content_id": "por-t84-v1",
@@ -5456,6 +7427,11 @@
 "content_id": "spa-t84-v1",
 "language": "spa",
 "title": "legion"
+},
+"swh": {
+"content_id": "swh-t84-v1",
+"language": "swh",
+"title": "jeshi"
 },
 "tpi": {
 "content_id": "tpi-t84-v1",
@@ -5496,10 +7472,30 @@
 "reference_id": 0,
 "index_reference": "leprosy",
 "localizations": {
+"arb": {
+"content_id": "arb-t85-v1",
+"language": "arb",
+"title": "البرص"
+},
 "fra": {
 "content_id": "fra-t85-v1.0.1",
 "language": "fra",
 "title": "lèpre"
+},
+"hin": {
+"content_id": "hin-t85-v1",
+"language": "hin",
+"title": "कोढ़"
+},
+"ind": {
+"content_id": "ind-t85-v1",
+"language": "ind",
+"title": "kusta"
+},
+"nep": {
+"content_id": "nep-t85-v1",
+"language": "nep",
+"title": "कुष्ठरोग"
 },
 "por": {
 "content_id": "por-t85-v1",
@@ -5515,6 +7511,11 @@
 "content_id": "spa-t85-v1",
 "language": "spa",
 "title": "leprosy"
+},
+"swh": {
+"content_id": "swh-t85-v1",
+"language": "swh",
+"title": "Ukoma"
 },
 "tpi": {
 "content_id": "tpi-t85-v1",
@@ -5560,10 +7561,30 @@
 "reference_id": 0,
 "index_reference": "lord",
 "localizations": {
+"arb": {
+"content_id": "arb-t87-v1",
+"language": "arb",
+"title": "رب"
+},
 "fra": {
 "content_id": "fra-t87-v1",
 "language": "fra",
 "title": "Seigneur"
+},
+"hin": {
+"content_id": "hin-t87-v1",
+"language": "hin",
+"title": "प्रभु"
+},
+"ind": {
+"content_id": "ind-t87-v1",
+"language": "ind",
+"title": "Tuhan"
+},
+"nep": {
+"content_id": "nep-t87-v1",
+"language": "nep",
+"title": "प्रभु"
 },
 "por": {
 "content_id": "por-t87-v1",
@@ -5574,6 +7595,11 @@
 "content_id": "spa-t87-v1",
 "language": "spa",
 "title": "Señor"
+},
+"swh": {
+"content_id": "swh-t87-v1",
+"language": "swh",
+"title": "Bwana"
 },
 "tpi": {
 "content_id": "tpi-t87-v1",
@@ -5619,10 +7645,30 @@
 "reference_id": 0,
 "index_reference": "lord",
 "localizations": {
+"arb": {
+"content_id": "arb-t88-v1",
+"language": "arb",
+"title": "الرب"
+},
 "fra": {
 "content_id": "fra-t88-v1",
 "language": "fra",
 "title": "Seigneur"
+},
+"hin": {
+"content_id": "hin-t88-v1",
+"language": "hin",
+"title": "प्रभु"
+},
+"ind": {
+"content_id": "ind-t88-v1",
+"language": "ind",
+"title": "Tuhan"
+},
+"nep": {
+"content_id": "nep-t88-v1",
+"language": "nep",
+"title": "प्रभु"
 },
 "por": {
 "content_id": "por-t88-v1",
@@ -5633,6 +7679,11 @@
 "content_id": "spa-t88-v1",
 "language": "spa",
 "title": "Señor"
+},
+"swh": {
+"content_id": "swh-t88-v1",
+"language": "swh",
+"title": "Bwana"
 },
 "tpi": {
 "content_id": "tpi-t88-v1",
@@ -5678,10 +7729,25 @@
 "reference_id": 0,
 "index_reference": "mary",
 "localizations": {
+"arb": {
+"content_id": "arb-t89-v1",
+"language": "arb",
+"title": "مريم"
+},
 "fra": {
 "content_id": "fra-t89-v1",
 "language": "fra",
 "title": "Marie"
+},
+"ind": {
+"content_id": "ind-t89-v1",
+"language": "ind",
+"title": "Maria"
+},
+"nep": {
+"content_id": "nep-t89-v1",
+"language": "nep",
+"title": "मरियम"
 },
 "por": {
 "content_id": "por-t89-v1",
@@ -5693,10 +7759,20 @@
 "language": "spa",
 "title": "mary"
 },
+"swh": {
+"content_id": "swh-t89-v1",
+"language": "swh",
+"title": "Maria"
+},
 "tpi": {
 "content_id": "tpi-t89-v1",
 "language": "tpi",
 "title": "mary"
+},
+"zht": {
+"content_id": "zht-t89-v1",
+"language": "zht",
+"title": "馬利亞"
 }
 }
 },
@@ -5722,10 +7798,25 @@
 "reference_id": 0,
 "index_reference": "master",
 "localizations": {
+"arb": {
+"content_id": "arb-t90-v1",
+"language": "arb",
+"title": "السيِّد"
+},
 "fra": {
 "content_id": "fra-t90-v1",
 "language": "fra",
 "title": "maître"
+},
+"ind": {
+"content_id": "ind-t90-v1",
+"language": "ind",
+"title": "tuan"
+},
+"nep": {
+"content_id": "nep-t90-v1",
+"language": "nep",
+"title": "मालिक"
 },
 "por": {
 "content_id": "por-t90-v1",
@@ -5737,10 +7828,20 @@
 "language": "spa",
 "title": "maestro"
 },
+"swh": {
+"content_id": "swh-t90-v1",
+"language": "swh",
+"title": "bwana"
+},
 "tpi": {
 "content_id": "tpi-t90-v1",
 "language": "tpi",
 "title": "master"
+},
+"zht": {
+"content_id": "zht-t90-v1",
+"language": "zht",
+"title": "主人"
 }
 }
 },
@@ -5771,10 +7872,30 @@
 "reference_id": 0,
 "index_reference": "mercy",
 "localizations": {
+"arb": {
+"content_id": "arb-t91-v1",
+"language": "arb",
+"title": "الرحمة"
+},
 "fra": {
 "content_id": "fra-t91-v1",
 "language": "fra",
 "title": "miséricorde"
+},
+"hin": {
+"content_id": "hin-t91-v1",
+"language": "hin",
+"title": "दया"
+},
+"ind": {
+"content_id": "ind-t91-v1",
+"language": "ind",
+"title": "belas kasihan"
+},
+"nep": {
+"content_id": "nep-t91-v1",
+"language": "nep",
+"title": "दया"
 },
 "por": {
 "content_id": "por-t91-v1",
@@ -5785,6 +7906,11 @@
 "content_id": "spa-t91-v1",
 "language": "spa",
 "title": "mercy"
+},
+"swh": {
+"content_id": "swh-t91-v1",
+"language": "swh",
+"title": "huruma"
 },
 "tpi": {
 "content_id": "tpi-t91-v1",
@@ -5825,10 +7951,30 @@
 "reference_id": 0,
 "index_reference": "messiah",
 "localizations": {
+"arb": {
+"content_id": "arb-t92-v1",
+"language": "arb",
+"title": "المسيَّا"
+},
 "fra": {
 "content_id": "fra-t92-v1",
 "language": "fra",
 "title": "Messie"
+},
+"hin": {
+"content_id": "hin-t92-v1",
+"language": "hin",
+"title": "मसीहा"
+},
+"ind": {
+"content_id": "ind-t92-v1",
+"language": "ind",
+"title": "Mesias"
+},
+"nep": {
+"content_id": "nep-t92-v1",
+"language": "nep",
+"title": "मसीह"
 },
 "por": {
 "content_id": "por-t92-v1",
@@ -5839,6 +7985,11 @@
 "content_id": "spa-t92-v1",
 "language": "spa",
 "title": "messiah"
+},
+"swh": {
+"content_id": "swh-t92-v1",
+"language": "swh",
+"title": "Masihi"
 },
 "tpi": {
 "content_id": "tpi-t92-v1",
@@ -5879,10 +8030,30 @@
 "reference_id": 0,
 "index_reference": "miracles",
 "localizations": {
+"arb": {
+"content_id": "arb-t93-v1",
+"language": "arb",
+"title": "المعجزات"
+},
 "fra": {
 "content_id": "fra-t93-v1",
 "language": "fra",
 "title": "miracles"
+},
+"hin": {
+"content_id": "hin-t93-v1",
+"language": "hin",
+"title": "चमत्कार"
+},
+"ind": {
+"content_id": "ind-t93-v1",
+"language": "ind",
+"title": "mujizat"
+},
+"nep": {
+"content_id": "nep-t93-v1",
+"language": "nep",
+"title": "चमत्कारहरू"
 },
 "por": {
 "content_id": "por-t93-v1",
@@ -5893,6 +8064,11 @@
 "content_id": "spa-t93-v1",
 "language": "spa",
 "title": "miracles"
+},
+"swh": {
+"content_id": "swh-t93-v1",
+"language": "swh",
+"title": "miujiza"
 },
 "tpi": {
 "content_id": "tpi-t93-v1",
@@ -5933,10 +8109,30 @@
 "reference_id": 0,
 "index_reference": "nation",
 "localizations": {
+"arb": {
+"content_id": "arb-t94-v1",
+"language": "arb",
+"title": "أمَّة"
+},
 "fra": {
 "content_id": "fra-t94-v1",
 "language": "fra",
 "title": "nation"
+},
+"hin": {
+"content_id": "hin-t94-v1",
+"language": "hin",
+"title": "राष्ट्र"
+},
+"ind": {
+"content_id": "ind-t94-v1",
+"language": "ind",
+"title": "bangsa"
+},
+"nep": {
+"content_id": "nep-t94-v1",
+"language": "nep",
+"title": "राष्ट्र"
 },
 "por": {
 "content_id": "por-t94-v1",
@@ -5947,6 +8143,11 @@
 "content_id": "spa-t94-v1",
 "language": "spa",
 "title": "nation"
+},
+"swh": {
+"content_id": "swh-t94-v1",
+"language": "swh",
+"title": "taifa"
 },
 "tpi": {
 "content_id": "tpi-t94-v1",
@@ -5987,10 +8188,30 @@
 "reference_id": 0,
 "index_reference": "nazareth",
 "localizations": {
+"arb": {
+"content_id": "arb-t95-v1",
+"language": "arb",
+"title": "الناصرة"
+},
 "fra": {
 "content_id": "fra-t95-v1",
 "language": "fra",
 "title": "Nazareth"
+},
+"hin": {
+"content_id": "hin-t95-v1",
+"language": "hin",
+"title": "नासरत"
+},
+"ind": {
+"content_id": "ind-t95-v1",
+"language": "ind",
+"title": "Nazaret"
+},
+"nep": {
+"content_id": "nep-t95-v1",
+"language": "nep",
+"title": "नासरत"
 },
 "por": {
 "content_id": "por-t95-v1",
@@ -6006,6 +8227,11 @@
 "content_id": "spa-t95-v1",
 "language": "spa",
 "title": "nazareth"
+},
+"swh": {
+"content_id": "swh-t95-v1",
+"language": "swh",
+"title": "Nazareti"
 },
 "tpi": {
 "content_id": "tpi-t95-v1",
@@ -6051,10 +8277,30 @@
 "reference_id": 0,
 "index_reference": "oath",
 "localizations": {
+"arb": {
+"content_id": "arb-t96-v1",
+"language": "arb",
+"title": "قَسَم"
+},
 "fra": {
 "content_id": "fra-t96-v1",
 "language": "fra",
 "title": "serment"
+},
+"hin": {
+"content_id": "hin-t96-v1",
+"language": "hin",
+"title": "शपथ"
+},
+"ind": {
+"content_id": "ind-t96-v1",
+"language": "ind",
+"title": "sumpah"
+},
+"nep": {
+"content_id": "nep-t96-v1",
+"language": "nep",
+"title": "शपथ"
 },
 "por": {
 "content_id": "por-t96-v1",
@@ -6065,6 +8311,11 @@
 "content_id": "spa-t96-v1",
 "language": "spa",
 "title": "oath"
+},
+"swh": {
+"content_id": "swh-t96-v1",
+"language": "swh",
+"title": "kiapo"
 },
 "tpi": {
 "content_id": "tpi-t96-v1",
@@ -6105,10 +8356,30 @@
 "reference_id": 0,
 "index_reference": "oil lamp",
 "localizations": {
+"arb": {
+"content_id": "arb-t97-v1",
+"language": "arb",
+"title": "سراج (مصباح) زيت"
+},
 "fra": {
 "content_id": "fra-t97-v1.0.1",
 "language": "fra",
 "title": "lampe ou lampe à huile"
+},
+"hin": {
+"content_id": "hin-t97-v1",
+"language": "hin",
+"title": "तेल का दीपक"
+},
+"ind": {
+"content_id": "ind-t97-v1",
+"language": "ind",
+"title": "lampu minyak"
+},
+"nep": {
+"content_id": "nep-t97-v1",
+"language": "nep",
+"title": "तेल बत्ती"
 },
 "por": {
 "content_id": "por-t97-v1",
@@ -6119,6 +8390,11 @@
 "content_id": "spa-t97-v1",
 "language": "spa",
 "title": "oil-lamp"
+},
+"swh": {
+"content_id": "swh-t97-v1",
+"language": "swh",
+"title": "taa ya mafuta"
 },
 "tpi": {
 "content_id": "tpi-t97-v1",
@@ -6159,10 +8435,30 @@
 "reference_id": 0,
 "index_reference": "parable",
 "localizations": {
+"arb": {
+"content_id": "arb-t98-v1",
+"language": "arb",
+"title": "مَثَل"
+},
 "fra": {
 "content_id": "fra-t98-v1.0.1",
 "language": "fra",
 "title": "parabole"
+},
+"hin": {
+"content_id": "hin-t98-v1",
+"language": "hin",
+"title": "दृष्टान्त"
+},
+"ind": {
+"content_id": "ind-t98-v1",
+"language": "ind",
+"title": "perumpamaan"
+},
+"nep": {
+"content_id": "nep-t98-v1",
+"language": "nep",
+"title": "दृष्टान्त"
 },
 "por": {
 "content_id": "por-t98-v1",
@@ -6173,6 +8469,11 @@
 "content_id": "spa-t98-v1",
 "language": "spa",
 "title": "parable"
+},
+"swh": {
+"content_id": "swh-t98-v1",
+"language": "swh",
+"title": "mfano"
 },
 "tpi": {
 "content_id": "tpi-t98-v1",
@@ -6213,10 +8514,25 @@
 "reference_id": 0,
 "index_reference": "paradise",
 "localizations": {
+"arb": {
+"content_id": "arb-t99-v1",
+"language": "arb",
+"title": "فردوس (جنة)"
+},
 "fra": {
 "content_id": "fra-t99-v1",
 "language": "fra",
 "title": "paradis"
+},
+"ind": {
+"content_id": "ind-t99-v1",
+"language": "ind",
+"title": "firdaus"
+},
+"nep": {
+"content_id": "nep-t99-v1",
+"language": "nep",
+"title": "स्वर्गलोक"
 },
 "por": {
 "content_id": "por-t99-v1",
@@ -6228,10 +8544,20 @@
 "language": "spa",
 "title": "paradise"
 },
+"swh": {
+"content_id": "swh-t99-v1",
+"language": "swh",
+"title": "paradiso"
+},
 "tpi": {
 "content_id": "tpi-t99-v1",
 "language": "tpi",
 "title": "paradise"
+},
+"zht": {
+"content_id": "zht-t99-v1",
+"language": "zht",
+"title": "樂園"
 }
 }
 },
@@ -6257,10 +8583,25 @@
 "reference_id": 0,
 "index_reference": "pharisee",
 "localizations": {
+"arb": {
+"content_id": "arb-t100-v1",
+"language": "arb",
+"title": "فريسيّ"
+},
 "fra": {
 "content_id": "fra-t100-v1",
 "language": "fra",
 "title": "pharisien"
+},
+"ind": {
+"content_id": "ind-t100-v1",
+"language": "ind",
+"title": "Farisi"
+},
+"nep": {
+"content_id": "nep-t100-v1",
+"language": "nep",
+"title": "फरिसी"
 },
 "por": {
 "content_id": "por-t100-v1",
@@ -6271,6 +8612,11 @@
 "content_id": "spa-t100-v1",
 "language": "spa",
 "title": "pharisee"
+},
+"swh": {
+"content_id": "swh-t100-v1",
+"language": "swh",
+"title": "Farisayo"
 },
 "tpi": {
 "content_id": "tpi-t100-v1",
@@ -6311,10 +8657,30 @@
 "reference_id": 0,
 "index_reference": "possessed",
 "localizations": {
+"arb": {
+"content_id": "arb-t101-v1",
+"language": "arb",
+"title": "مسكون بالأرواح الشريرة"
+},
 "fra": {
 "content_id": "fra-t101-v1",
 "language": "fra",
 "title": "possédé"
+},
+"hin": {
+"content_id": "hin-t101-v1",
+"language": "hin",
+"title": "ग्रस्त"
+},
+"ind": {
+"content_id": "ind-t101-v1",
+"language": "ind",
+"title": "kerasukan"
+},
+"nep": {
+"content_id": "nep-t101-v1",
+"language": "nep",
+"title": "भुत लागेको"
 },
 "por": {
 "content_id": "por-t101-v1",
@@ -6330,6 +8696,11 @@
 "content_id": "spa-t101-v1",
 "language": "spa",
 "title": "possessed"
+},
+"swh": {
+"content_id": "swh-t101-v1",
+"language": "swh",
+"title": "pagawa"
 },
 "tpi": {
 "content_id": "tpi-t101-v1",
@@ -6375,10 +8746,25 @@
 "reference_id": 0,
 "index_reference": "pray",
 "localizations": {
+"arb": {
+"content_id": "arb-t102-v1",
+"language": "arb",
+"title": "الصلاة"
+},
 "fra": {
 "content_id": "fra-t102-v1.0.1",
 "language": "fra",
 "title": "prier"
+},
+"ind": {
+"content_id": "ind-t102-v1",
+"language": "ind",
+"title": "berdoa"
+},
+"nep": {
+"content_id": "nep-t102-v1",
+"language": "nep",
+"title": "प्रार्थना"
 },
 "por": {
 "content_id": "por-t102-v1",
@@ -6394,6 +8780,11 @@
 "content_id": "spa-t102-v1",
 "language": "spa",
 "title": "pray"
+},
+"swh": {
+"content_id": "swh-t102-v1",
+"language": "swh",
+"title": "sali"
 },
 "tpi": {
 "content_id": "tpi-t102-v1",
@@ -6439,10 +8830,25 @@
 "reference_id": 0,
 "index_reference": "priest",
 "localizations": {
+"arb": {
+"content_id": "arb-t103-v1",
+"language": "arb",
+"title": "كاهن"
+},
 "fra": {
 "content_id": "fra-t103-v1",
 "language": "fra",
 "title": "sacrificateur"
+},
+"ind": {
+"content_id": "ind-t103-v1",
+"language": "ind",
+"title": "imam"
+},
+"nep": {
+"content_id": "nep-t103-v1",
+"language": "nep",
+"title": "पूजाहारी"
 },
 "por": {
 "content_id": "por-t103-v1",
@@ -6458,6 +8864,11 @@
 "content_id": "spa-t103-v1",
 "language": "spa",
 "title": "priest"
+},
+"swh": {
+"content_id": "swh-t103-v1",
+"language": "swh",
+"title": "kuhani"
 },
 "tpi": {
 "content_id": "tpi-t103-v1",
@@ -6503,10 +8914,25 @@
 "reference_id": 0,
 "index_reference": "prophet",
 "localizations": {
+"arb": {
+"content_id": "arb-t104-v1",
+"language": "arb",
+"title": "نبي"
+},
 "fra": {
 "content_id": "fra-t104-v1",
 "language": "fra",
 "title": "prophète"
+},
+"ind": {
+"content_id": "ind-t104-v1",
+"language": "ind",
+"title": "Nabi"
+},
+"nep": {
+"content_id": "nep-t104-v1",
+"language": "nep",
+"title": "अगमवक्ता"
 },
 "por": {
 "content_id": "por-t104-v1",
@@ -6522,6 +8948,11 @@
 "content_id": "spa-t104-v1",
 "language": "spa",
 "title": "prophet"
+},
+"swh": {
+"content_id": "swh-t104-v1",
+"language": "swh",
+"title": "nabii"
 },
 "tpi": {
 "content_id": "tpi-t104-v1",
@@ -6567,10 +8998,30 @@
 "reference_id": 0,
 "index_reference": "ransom",
 "localizations": {
+"arb": {
+"content_id": "arb-t105-v1",
+"language": "arb",
+"title": "فدية"
+},
 "fra": {
 "content_id": "fra-t105-v1",
 "language": "fra",
 "title": "rançon"
+},
+"hin": {
+"content_id": "hin-t105-v1",
+"language": "hin",
+"title": "छुड़ौती"
+},
+"ind": {
+"content_id": "ind-t105-v1",
+"language": "ind",
+"title": "uang tebusan"
+},
+"nep": {
+"content_id": "nep-t105-v1",
+"language": "nep",
+"title": "फिरौती"
 },
 "por": {
 "content_id": "por-t105-v1",
@@ -6581,6 +9032,11 @@
 "content_id": "spa-t105-v1",
 "language": "spa",
 "title": "ransom"
+},
+"swh": {
+"content_id": "swh-t105-v1",
+"language": "swh",
+"title": "fidia"
 },
 "tpi": {
 "content_id": "tpi-t105-v1",
@@ -6621,10 +9077,25 @@
 "reference_id": 0,
 "index_reference": "rabbi",
 "localizations": {
+"arb": {
+"content_id": "arb-t106-v1",
+"language": "arb",
+"title": "راباي (مُعَلِّم)"
+},
 "fra": {
 "content_id": "fra-t106-v1",
 "language": "fra",
 "title": "Rabbi"
+},
+"ind": {
+"content_id": "ind-t106-v1",
+"language": "ind",
+"title": "rabi"
+},
+"nep": {
+"content_id": "nep-t106-v1",
+"language": "nep",
+"title": "रब्बी"
 },
 "por": {
 "content_id": "por-t106-v1",
@@ -6635,6 +9106,11 @@
 "content_id": "spa-t106-v1",
 "language": "spa",
 "title": "rabbi"
+},
+"swh": {
+"content_id": "swh-t106-v1",
+"language": "swh",
+"title": "rabi"
 },
 "tpi": {
 "content_id": "tpi-t106-v1",
@@ -6675,10 +9151,25 @@
 "reference_id": 0,
 "index_reference": "redeem",
 "localizations": {
+"arb": {
+"content_id": "arb-t107-v1",
+"language": "arb",
+"title": "يفدي"
+},
 "fra": {
 "content_id": "fra-t107-v1",
 "language": "fra",
 "title": "rachetez"
+},
+"ind": {
+"content_id": "ind-t107-v1",
+"language": "ind",
+"title": "menebus"
+},
+"nep": {
+"content_id": "nep-t107-v1",
+"language": "nep",
+"title": "छुटकारा दिनु"
 },
 "por": {
 "content_id": "por-t107-v1",
@@ -6690,10 +9181,20 @@
 "language": "spa",
 "title": "redeem"
 },
+"swh": {
+"content_id": "swh-t107-v1",
+"language": "swh",
+"title": "kukomboa"
+},
 "tpi": {
 "content_id": "tpi-t107-v1",
 "language": "tpi",
 "title": "redeem"
+},
+"zht": {
+"content_id": "zht-t107-v1",
+"language": "zht",
+"title": "贖（回）、救贖、代贖"
 }
 }
 },
@@ -6719,10 +9220,30 @@
 "reference_id": 0,
 "index_reference": "repentance",
 "localizations": {
+"arb": {
+"content_id": "arb-t109-v1",
+"language": "arb",
+"title": "التوبة"
+},
 "fra": {
 "content_id": "fra-t109-v1.0.1",
 "language": "fra",
 "title": "repentance"
+},
+"hin": {
+"content_id": "hin-t109-v1",
+"language": "hin",
+"title": "मन फिराव"
+},
+"ind": {
+"content_id": "ind-t109-v1",
+"language": "ind",
+"title": "pertobatan"
+},
+"nep": {
+"content_id": "nep-t109-v1",
+"language": "nep",
+"title": "पश्चात्ताप"
 },
 "por": {
 "content_id": "por-t109-v1",
@@ -6733,6 +9254,11 @@
 "content_id": "spa-t109-v1",
 "language": "spa",
 "title": "repentance"
+},
+"swh": {
+"content_id": "swh-t109-v1",
+"language": "swh",
+"title": "toba"
 },
 "tpi": {
 "content_id": "tpi-t109-v1",
@@ -6773,10 +9299,30 @@
 "reference_id": 0,
 "index_reference": "resurrection",
 "localizations": {
+"arb": {
+"content_id": "arb-t110-v1",
+"language": "arb",
+"title": "قيامة"
+},
 "fra": {
 "content_id": "fra-t110-v1",
 "language": "fra",
 "title": "résurrection"
+},
+"hin": {
+"content_id": "hin-t110-v1",
+"language": "hin",
+"title": "पुनरुत्थान"
+},
+"ind": {
+"content_id": "ind-t110-v1",
+"language": "ind",
+"title": "kebangkitan"
+},
+"nep": {
+"content_id": "nep-t110-v1",
+"language": "nep",
+"title": "पुनरुत्थान"
 },
 "por": {
 "content_id": "por-t110-v1",
@@ -6787,6 +9333,11 @@
 "content_id": "spa-t110-v1",
 "language": "spa",
 "title": "resurrection"
+},
+"swh": {
+"content_id": "swh-t110-v1",
+"language": "swh",
+"title": "ufufuo"
 },
 "tpi": {
 "content_id": "tpi-t110-v1",
@@ -6827,10 +9378,30 @@
 "reference_id": 0,
 "index_reference": "righteousness",
 "localizations": {
+"arb": {
+"content_id": "arb-t111-v1",
+"language": "arb",
+"title": "البرّ"
+},
 "fra": {
 "content_id": "fra-t111-v1",
 "language": "fra",
 "title": "justice ou droiture"
+},
+"hin": {
+"content_id": "hin-t111-v1",
+"language": "hin",
+"title": "धार्मिकता"
+},
+"ind": {
+"content_id": "ind-t111-v1",
+"language": "ind",
+"title": "kebenaran"
+},
+"nep": {
+"content_id": "nep-t111-v1",
+"language": "nep",
+"title": "धार्मिकता"
 },
 "por": {
 "content_id": "por-t111-v1",
@@ -6841,6 +9412,11 @@
 "content_id": "spa-t111-v1",
 "language": "spa",
 "title": "righteousness"
+},
+"swh": {
+"content_id": "swh-t111-v1",
+"language": "swh",
+"title": "kuwa mwenye haki"
 },
 "tpi": {
 "content_id": "tpi-t111-v1",
@@ -6881,10 +9457,30 @@
 "reference_id": 0,
 "index_reference": "robe",
 "localizations": {
+"arb": {
+"content_id": "arb-t112-v1",
+"language": "arb",
+"title": "ثوب (رداء)"
+},
 "fra": {
 "content_id": "fra-t112-v1",
 "language": "fra",
 "title": "robe"
+},
+"hin": {
+"content_id": "hin-t112-v1",
+"language": "hin",
+"title": "वस्त्र"
+},
+"ind": {
+"content_id": "ind-t112-v1",
+"language": "ind",
+"title": "jubah"
+},
+"nep": {
+"content_id": "nep-t112-v1",
+"language": "nep",
+"title": "लुगा"
 },
 "por": {
 "content_id": "por-t112-v1",
@@ -6895,6 +9491,11 @@
 "content_id": "spa-t112-v1",
 "language": "spa",
 "title": "robe"
+},
+"swh": {
+"content_id": "swh-t112-v1",
+"language": "swh",
+"title": "vazi"
 },
 "tpi": {
 "content_id": "tpi-t112-v1",
@@ -6935,10 +9536,30 @@
 "reference_id": 0,
 "index_reference": "sabbath",
 "localizations": {
+"arb": {
+"content_id": "arb-t113-v1",
+"language": "arb",
+"title": "السبت"
+},
 "fra": {
 "content_id": "fra-t113-v1.0.1",
 "language": "fra",
 "title": "sabbat"
+},
+"hin": {
+"content_id": "hin-t113-v1",
+"language": "hin",
+"title": "सब्त"
+},
+"ind": {
+"content_id": "ind-t113-v1",
+"language": "ind",
+"title": "sabat"
+},
+"nep": {
+"content_id": "nep-t113-v1",
+"language": "nep",
+"title": "विश्रामको दिन"
 },
 "por": {
 "content_id": "por-t113-v1",
@@ -6954,6 +9575,11 @@
 "content_id": "spa-t113-v1",
 "language": "spa",
 "title": "sabbath"
+},
+"swh": {
+"content_id": "swh-t113-v1",
+"language": "swh",
+"title": "sabato"
 },
 "tpi": {
 "content_id": "tpi-t113-v1",
@@ -6999,6 +9625,26 @@
 "reference_id": 0,
 "index_reference": "sacrifice",
 "localizations": {
+"arb": {
+"content_id": "arb-t114-v1",
+"language": "arb",
+"title": "ذبيحة"
+},
+"hin": {
+"content_id": "hin-t114-v1",
+"language": "hin",
+"title": "बलि"
+},
+"ind": {
+"content_id": "ind-t114-v1",
+"language": "ind",
+"title": "korban"
+},
+"nep": {
+"content_id": "nep-t114-v1",
+"language": "nep",
+"title": "बलिदान"
+},
 "por": {
 "content_id": "por-t114-v1",
 "language": "por",
@@ -7013,6 +9659,11 @@
 "content_id": "spa-t114-v1",
 "language": "spa",
 "title": "sacrifice"
+},
+"swh": {
+"content_id": "swh-t114-v1",
+"language": "swh",
+"title": "dhabihu"
 },
 "tpi": {
 "content_id": "tpi-t114-v1",
@@ -7053,10 +9704,30 @@
 "reference_id": 0,
 "index_reference": "sadducee",
 "localizations": {
+"arb": {
+"content_id": "arb-t115-v1",
+"language": "arb",
+"title": "الصدوقيُّون"
+},
 "fra": {
 "content_id": "fra-t115-v1",
 "language": "fra",
 "title": "sadducéen"
+},
+"hin": {
+"content_id": "hin-t115-v1",
+"language": "hin",
+"title": "सदूकी"
+},
+"ind": {
+"content_id": "ind-t115-v1",
+"language": "ind",
+"title": "Saduki"
+},
+"nep": {
+"content_id": "nep-t115-v1",
+"language": "nep",
+"title": "सदूकी"
 },
 "por": {
 "content_id": "por-t115-v1",
@@ -7067,6 +9738,11 @@
 "content_id": "spa-t115-v1",
 "language": "spa",
 "title": "sadducee"
+},
+"swh": {
+"content_id": "swh-t115-v1",
+"language": "swh",
+"title": "Masadukayo"
 },
 "tpi": {
 "content_id": "tpi-t115-v1",
@@ -7107,10 +9783,30 @@
 "reference_id": 0,
 "index_reference": "salvation",
 "localizations": {
+"arb": {
+"content_id": "arb-t116-v1",
+"language": "arb",
+"title": "خلاص"
+},
 "fra": {
 "content_id": "fra-t116-v1",
 "language": "fra",
 "title": "salut"
+},
+"hin": {
+"content_id": "hin-t116-v1",
+"language": "hin",
+"title": "उद्धार"
+},
+"ind": {
+"content_id": "ind-t116-v1",
+"language": "ind",
+"title": "keselamatan"
+},
+"nep": {
+"content_id": "nep-t116-v1",
+"language": "nep",
+"title": "मुक्ति"
 },
 "por": {
 "content_id": "por-t116-v1",
@@ -7121,6 +9817,11 @@
 "content_id": "spa-t116-v1",
 "language": "spa",
 "title": "salvation"
+},
+"swh": {
+"content_id": "swh-t116-v1",
+"language": "swh",
+"title": "wokovu"
 },
 "tpi": {
 "content_id": "tpi-t116-v1",
@@ -7161,10 +9862,25 @@
 "reference_id": 0,
 "index_reference": "sanctuary",
 "localizations": {
+"arb": {
+"content_id": "arb-t117-v1",
+"language": "arb",
+"title": "المَسكَن"
+},
 "fra": {
 "content_id": "fra-t117-v1",
 "language": "fra",
 "title": "sanctuaire"
+},
+"ind": {
+"content_id": "ind-t117-v1",
+"language": "ind",
+"title": "tempat kudus"
+},
+"nep": {
+"content_id": "nep-t117-v1",
+"language": "nep",
+"title": "पवित्रस्थान"
 },
 "por": {
 "content_id": "por-t117-v1",
@@ -7176,10 +9892,20 @@
 "language": "spa",
 "title": "sanctuary"
 },
+"swh": {
+"content_id": "swh-t117-v1",
+"language": "swh",
+"title": "patakatifu"
+},
 "tpi": {
 "content_id": "tpi-t117-v1",
 "language": "tpi",
 "title": "sanctuary"
+},
+"zht": {
+"content_id": "zht-t117-v1",
+"language": "zht",
+"title": "聖所"
 }
 }
 },
@@ -7205,10 +9931,30 @@
 "reference_id": 0,
 "index_reference": "satan",
 "localizations": {
+"arb": {
+"content_id": "arb-t118-v1",
+"language": "arb",
+"title": "الشيطان"
+},
 "fra": {
 "content_id": "fra-t118-v1.0.1",
 "language": "fra",
 "title": "Satan"
+},
+"hin": {
+"content_id": "hin-t118-v1",
+"language": "hin",
+"title": "शैतान"
+},
+"ind": {
+"content_id": "ind-t118-v1",
+"language": "ind",
+"title": "Iblis"
+},
+"nep": {
+"content_id": "nep-t118-v1",
+"language": "nep",
+"title": "शैतान"
 },
 "por": {
 "content_id": "por-t118-v1",
@@ -7224,6 +9970,11 @@
 "content_id": "spa-t118-v1",
 "language": "spa",
 "title": "satan"
+},
+"swh": {
+"content_id": "swh-t118-v1",
+"language": "swh",
+"title": "Shetani"
 },
 "tpi": {
 "content_id": "tpi-t118-v1",
@@ -7269,10 +10020,25 @@
 "reference_id": 0,
 "index_reference": "savior",
 "localizations": {
+"arb": {
+"content_id": "arb-t119-v1",
+"language": "arb",
+"title": "مُخلِّص"
+},
 "fra": {
 "content_id": "fra-t119-v1",
 "language": "fra",
 "title": "Sauveur"
+},
+"ind": {
+"content_id": "ind-t119-v1",
+"language": "ind",
+"title": "Juruselamat"
+},
+"nep": {
+"content_id": "nep-t119-v1",
+"language": "nep",
+"title": "मुक्तिदाता"
 },
 "por": {
 "content_id": "por-t119-v1",
@@ -7284,10 +10050,20 @@
 "language": "spa",
 "title": "savior"
 },
+"swh": {
+"content_id": "swh-t119-v1",
+"language": "swh",
+"title": "Mwokozi"
+},
 "tpi": {
 "content_id": "tpi-t119-v1",
 "language": "tpi",
 "title": "savior"
+},
+"zht": {
+"content_id": "zht-t119-v1",
+"language": "zht",
+"title": "救主"
 }
 }
 },
@@ -7313,10 +10089,30 @@
 "reference_id": 0,
 "index_reference": "scriptures",
 "localizations": {
+"arb": {
+"content_id": "arb-t120-v1",
+"language": "arb",
+"title": "الأسفار المُقَدَّسة"
+},
 "fra": {
 "content_id": "fra-t120-v1",
 "language": "fra",
 "title": "Écritures"
+},
+"hin": {
+"content_id": "hin-t120-v1",
+"language": "hin",
+"title": "शास्त्र"
+},
+"ind": {
+"content_id": "ind-t120-v1",
+"language": "ind",
+"title": "kitab suci"
+},
+"nep": {
+"content_id": "nep-t120-v1",
+"language": "nep",
+"title": "धर्मशास्त्रहरू"
 },
 "por": {
 "content_id": "por-t120-v1",
@@ -7327,6 +10123,11 @@
 "content_id": "spa-t120-v1",
 "language": "spa",
 "title": "scriptures"
+},
+"swh": {
+"content_id": "swh-t120-v1",
+"language": "swh",
+"title": "maandiko"
 },
 "tpi": {
 "content_id": "tpi-t120-v1",
@@ -7367,10 +10168,30 @@
 "reference_id": 0,
 "index_reference": "sea of galilee",
 "localizations": {
+"arb": {
+"content_id": "arb-t121-v1",
+"language": "arb",
+"title": "بحر الجليل"
+},
 "fra": {
 "content_id": "fra-t121-v1",
 "language": "fra",
 "title": "mer de Galilée"
+},
+"hin": {
+"content_id": "hin-t121-v1",
+"language": "hin",
+"title": "गलील की झील"
+},
+"ind": {
+"content_id": "ind-t121-v1",
+"language": "ind",
+"title": "Danau Galilea"
+},
+"nep": {
+"content_id": "nep-t121-v1",
+"language": "nep",
+"title": "गालीलको समुद्र"
 },
 "por": {
 "content_id": "por-t121-v1",
@@ -7386,6 +10207,11 @@
 "content_id": "spa-t121-v1",
 "language": "spa",
 "title": "Mar de Galilea"
+},
+"swh": {
+"content_id": "swh-t121-v1",
+"language": "swh",
+"title": "Bahari ya Galilaya"
 },
 "tpi": {
 "content_id": "tpi-t121-v1",
@@ -7436,10 +10262,30 @@
 "reference_id": 0,
 "index_reference": "seed",
 "localizations": {
+"arb": {
+"content_id": "arb-t122-v1",
+"language": "arb",
+"title": "بذرة"
+},
 "fra": {
 "content_id": "fra-t122-v1.0.1",
 "language": "fra",
 "title": "semence"
+},
+"hin": {
+"content_id": "hin-t122-v1",
+"language": "hin",
+"title": "बीज"
+},
+"ind": {
+"content_id": "ind-t122-v1",
+"language": "ind",
+"title": "benih"
+},
+"nep": {
+"content_id": "nep-t122-v1",
+"language": "nep",
+"title": "बीउ"
 },
 "por": {
 "content_id": "por-t122-v1",
@@ -7450,6 +10296,11 @@
 "content_id": "spa-t122-v1",
 "language": "spa",
 "title": "seed"
+},
+"swh": {
+"content_id": "swh-t122-v1",
+"language": "swh",
+"title": "mbegu"
 },
 "tpi": {
 "content_id": "tpi-t122-v1",
@@ -7490,10 +10341,30 @@
 "reference_id": 0,
 "index_reference": "servant",
 "localizations": {
+"arb": {
+"content_id": "arb-t123-v2",
+"language": "arb",
+"title": "خادم"
+},
 "fra": {
 "content_id": "fra-t123-v2",
 "language": "fra",
 "title": "serviteur ou servante"
+},
+"hin": {
+"content_id": "hin-t123-v2",
+"language": "hin",
+"title": "सेवक"
+},
+"ind": {
+"content_id": "ind-t123-v2",
+"language": "ind",
+"title": "hamba"
+},
+"nep": {
+"content_id": "nep-t123-v2",
+"language": "nep",
+"title": "नोकर"
 },
 "por": {
 "content_id": "por-t123-v2",
@@ -7504,6 +10375,11 @@
 "content_id": "spa-t123-v2",
 "language": "spa",
 "title": "servant"
+},
+"swh": {
+"content_id": "swh-t123-v2",
+"language": "swh",
+"title": "mtumishi"
 },
 "tpi": {
 "content_id": "tpi-t123-v2",
@@ -7544,10 +10420,30 @@
 "reference_id": 0,
 "index_reference": "shelter",
 "localizations": {
+"arb": {
+"content_id": "arb-t124-v1",
+"language": "arb",
+"title": "مظال (ملجأ)"
+},
 "fra": {
 "content_id": "fra-t124-v1",
 "language": "fra",
 "title": "cabane ou abri"
+},
+"hin": {
+"content_id": "hin-t124-v1",
+"language": "hin",
+"title": "आश्रय"
+},
+"ind": {
+"content_id": "ind-t124-v1",
+"language": "ind",
+"title": "tempat perteduhan"
+},
+"nep": {
+"content_id": "nep-t124-v1",
+"language": "nep",
+"title": "आश्रय स्थल"
 },
 "por": {
 "content_id": "por-t124-v1",
@@ -7558,6 +10454,11 @@
 "content_id": "spa-t124-v1",
 "language": "spa",
 "title": "shelter"
+},
+"swh": {
+"content_id": "swh-t124-v1",
+"language": "swh",
+"title": "makazi"
 },
 "tpi": {
 "content_id": "tpi-t124-v1",
@@ -7598,10 +10499,30 @@
 "reference_id": 0,
 "index_reference": "sin",
 "localizations": {
+"arb": {
+"content_id": "arb-t125-v1",
+"language": "arb",
+"title": "خطية"
+},
 "fra": {
 "content_id": "fra-t125-v1",
 "language": "fra",
 "title": "péché"
+},
+"hin": {
+"content_id": "hin-t125-v1",
+"language": "hin",
+"title": "पाप"
+},
+"ind": {
+"content_id": "ind-t125-v1",
+"language": "ind",
+"title": "dosa"
+},
+"nep": {
+"content_id": "nep-t125-v1",
+"language": "nep",
+"title": "पाप"
 },
 "por": {
 "content_id": "por-t125-v1",
@@ -7617,6 +10538,11 @@
 "content_id": "spa-t125-v1",
 "language": "spa",
 "title": "pecado"
+},
+"swh": {
+"content_id": "swh-t125-v1",
+"language": "swh",
+"title": "Dhambi"
 },
 "tpi": {
 "content_id": "tpi-t125-v1",
@@ -7667,10 +10593,30 @@
 "reference_id": 0,
 "index_reference": "slave",
 "localizations": {
+"arb": {
+"content_id": "arb-t126-v2",
+"language": "arb",
+"title": "عبد"
+},
 "fra": {
 "content_id": "fra-t126-v2",
 "language": "fra",
 "title": "esclave"
+},
+"hin": {
+"content_id": "hin-t126-v2",
+"language": "hin",
+"title": "दास"
+},
+"ind": {
+"content_id": "ind-t126-v2",
+"language": "ind",
+"title": "budak"
+},
+"nep": {
+"content_id": "nep-t126-v2",
+"language": "nep",
+"title": "दास"
 },
 "por": {
 "content_id": "por-t126-v2",
@@ -7681,6 +10627,11 @@
 "content_id": "spa-t126-v2",
 "language": "spa",
 "title": "slave"
+},
+"swh": {
+"content_id": "swh-t126-v2",
+"language": "swh",
+"title": "mtumwa"
 },
 "tpi": {
 "content_id": "tpi-t126-v2",
@@ -7721,10 +10672,30 @@
 "reference_id": 0,
 "index_reference": "son",
 "localizations": {
+"arb": {
+"content_id": "arb-t127-v1",
+"language": "arb",
+"title": "ابن"
+},
 "fra": {
 "content_id": "fra-t127-v1",
 "language": "fra",
 "title": "fils"
+},
+"hin": {
+"content_id": "hin-t127-v1",
+"language": "hin",
+"title": "पुत्र"
+},
+"ind": {
+"content_id": "ind-t127-v1",
+"language": "ind",
+"title": "anak"
+},
+"nep": {
+"content_id": "nep-t127-v1",
+"language": "nep",
+"title": "छोरा"
 },
 "por": {
 "content_id": "por-t127-v1",
@@ -7735,6 +10706,11 @@
 "content_id": "spa-t127-v1",
 "language": "spa",
 "title": "son"
+},
+"swh": {
+"content_id": "swh-t127-v1",
+"language": "swh",
+"title": "mwana"
 },
 "tpi": {
 "content_id": "tpi-t127-v1",
@@ -7775,10 +10751,30 @@
 "reference_id": 0,
 "index_reference": "son of david",
 "localizations": {
+"arb": {
+"content_id": "arb-t128-v1",
+"language": "arb",
+"title": "ابن داود"
+},
 "fra": {
 "content_id": "fra-t128-v1",
 "language": "fra",
 "title": "Fils de David"
+},
+"hin": {
+"content_id": "hin-t128-v1",
+"language": "hin",
+"title": "दाऊद का पुत्र"
+},
+"ind": {
+"content_id": "ind-t128-v1",
+"language": "ind",
+"title": "Anak Daud"
+},
+"nep": {
+"content_id": "nep-t128-v1",
+"language": "nep",
+"title": "दाऊदको छोरा"
 },
 "por": {
 "content_id": "por-t128-v1",
@@ -7789,6 +10785,11 @@
 "content_id": "spa-t128-v1",
 "language": "spa",
 "title": "son-of-david"
+},
+"swh": {
+"content_id": "swh-t128-v1",
+"language": "swh",
+"title": "Mwana wa Daudi"
 },
 "tpi": {
 "content_id": "tpi-t128-v1",
@@ -7829,10 +10830,30 @@
 "reference_id": 0,
 "index_reference": "son of god",
 "localizations": {
+"arb": {
+"content_id": "arb-t129-v1",
+"language": "arb",
+"title": "ابن الله"
+},
 "fra": {
 "content_id": "fra-t129-v1",
 "language": "fra",
 "title": "Fils de Dieu"
+},
+"hin": {
+"content_id": "hin-t129-v1",
+"language": "hin",
+"title": "परमेश्वर का पुत्र"
+},
+"ind": {
+"content_id": "ind-t129-v1",
+"language": "ind",
+"title": "Anak Allah"
+},
+"nep": {
+"content_id": "nep-t129-v1",
+"language": "nep",
+"title": "परमेश्वरको छोरा"
 },
 "por": {
 "content_id": "por-t129-v1",
@@ -7848,6 +10869,11 @@
 "content_id": "spa-t129-v1",
 "language": "spa",
 "title": "son-of-god"
+},
+"swh": {
+"content_id": "swh-t129-v1",
+"language": "swh",
+"title": "Mwana wa Mungu"
 },
 "tpi": {
 "content_id": "tpi-t129-v1",
@@ -7893,10 +10919,30 @@
 "reference_id": 0,
 "index_reference": "son of man",
 "localizations": {
+"arb": {
+"content_id": "arb-t130-v1",
+"language": "arb",
+"title": "ابن الإنسان"
+},
 "fra": {
 "content_id": "fra-t130-v1",
 "language": "fra",
 "title": "Fils de l'homme"
+},
+"hin": {
+"content_id": "hin-t130-v1",
+"language": "hin",
+"title": "मनुष्य का पुत्र"
+},
+"ind": {
+"content_id": "ind-t130-v1",
+"language": "ind",
+"title": "Anak Manusia"
+},
+"nep": {
+"content_id": "nep-t130-v1",
+"language": "nep",
+"title": "मानिसको छोरा"
 },
 "por": {
 "content_id": "por-t130-v1",
@@ -7907,6 +10953,11 @@
 "content_id": "spa-t130-v1",
 "language": "spa",
 "title": "son-of-man"
+},
+"swh": {
+"content_id": "swh-t130-v1",
+"language": "swh",
+"title": "Mwana wa Adamu"
 },
 "tpi": {
 "content_id": "tpi-t130-v1",
@@ -7947,10 +10998,30 @@
 "reference_id": 0,
 "index_reference": "soul",
 "localizations": {
+"arb": {
+"content_id": "arb-t131-v1",
+"language": "arb",
+"title": "نَفْس"
+},
 "fra": {
 "content_id": "fra-t131-v1",
 "language": "fra",
 "title": "âme"
+},
+"hin": {
+"content_id": "hin-t131-v1",
+"language": "hin",
+"title": "प्राण"
+},
+"ind": {
+"content_id": "ind-t131-v1",
+"language": "ind",
+"title": "jiwa"
+},
+"nep": {
+"content_id": "nep-t131-v1",
+"language": "nep",
+"title": "प्राण"
 },
 "por": {
 "content_id": "por-t131-v1",
@@ -7961,6 +11032,11 @@
 "content_id": "spa-t131-v1",
 "language": "spa",
 "title": "soul"
+},
+"swh": {
+"content_id": "swh-t131-v1",
+"language": "swh",
+"title": "nafsi"
 },
 "tpi": {
 "content_id": "tpi-t131-v1",
@@ -8001,10 +11077,30 @@
 "reference_id": 0,
 "index_reference": "spirit",
 "localizations": {
+"arb": {
+"content_id": "arb-t132-v1",
+"language": "arb",
+"title": "روح"
+},
 "fra": {
 "content_id": "fra-t132-v1",
 "language": "fra",
 "title": "esprit"
+},
+"hin": {
+"content_id": "hin-t132-v1",
+"language": "hin",
+"title": "आत्मा"
+},
+"ind": {
+"content_id": "ind-t132-v1",
+"language": "ind",
+"title": "roh"
+},
+"nep": {
+"content_id": "nep-t132-v1",
+"language": "nep",
+"title": "आत्मा"
 },
 "por": {
 "content_id": "por-t132-v1",
@@ -8015,6 +11111,11 @@
 "content_id": "spa-t132-v1",
 "language": "spa",
 "title": "spirit"
+},
+"swh": {
+"content_id": "swh-t132-v1",
+"language": "swh",
+"title": "roho"
 },
 "tpi": {
 "content_id": "tpi-t132-v1",
@@ -8055,10 +11156,30 @@
 "reference_id": 0,
 "index_reference": "synagogue",
 "localizations": {
+"arb": {
+"content_id": "arb-t133-v1",
+"language": "arb",
+"title": "المجمع اليهوديّ"
+},
 "fra": {
 "content_id": "fra-t133-v1.0.1",
 "language": "fra",
 "title": "synagogue"
+},
+"hin": {
+"content_id": "hin-t133-v1",
+"language": "hin",
+"title": "आराधनालय"
+},
+"ind": {
+"content_id": "ind-t133-v1",
+"language": "ind",
+"title": "Sinagoge"
+},
+"nep": {
+"content_id": "nep-t133-v1",
+"language": "nep",
+"title": "सभाघर"
 },
 "por": {
 "content_id": "por-t133-v1",
@@ -8069,6 +11190,11 @@
 "content_id": "spa-t133-v1",
 "language": "spa",
 "title": "synagogue"
+},
+"swh": {
+"content_id": "swh-t133-v1",
+"language": "swh",
+"title": "sinagogi"
 },
 "tpi": {
 "content_id": "tpi-t133-v1",
@@ -8109,10 +11235,30 @@
 "reference_id": 0,
 "index_reference": "synagogue ruler",
 "localizations": {
+"arb": {
+"content_id": "arb-t134-v1",
+"language": "arb",
+"title": "رئيس المجمع"
+},
 "fra": {
 "content_id": "fra-t134-v1",
 "language": "fra",
 "title": "chef de la synagogue"
+},
+"hin": {
+"content_id": "hin-t134-v1",
+"language": "hin",
+"title": "आराधनालय का प्रधान"
+},
+"ind": {
+"content_id": "ind-t134-v1",
+"language": "ind",
+"title": "kepala rumah ibadat"
+},
+"nep": {
+"content_id": "nep-t134-v1",
+"language": "nep",
+"title": "सभाघरको शासक"
 },
 "por": {
 "content_id": "por-t134-v1",
@@ -8123,6 +11269,11 @@
 "content_id": "spa-t134-v1",
 "language": "spa",
 "title": "synagogue-ruler"
+},
+"swh": {
+"content_id": "swh-t134-v1",
+"language": "swh",
+"title": "mtawala wa sinagogi"
 },
 "tpi": {
 "content_id": "tpi-t134-v1",
@@ -8163,10 +11314,30 @@
 "reference_id": 0,
 "index_reference": "syrian phoenicia",
 "localizations": {
+"arb": {
+"content_id": "arb-t135-v1",
+"language": "arb",
+"title": "فينيقية السورية"
+},
 "fra": {
 "content_id": "fra-t135-v1",
 "language": "fra",
 "title": "Syrie-Phénicie"
+},
+"hin": {
+"content_id": "hin-t135-v1",
+"language": "hin",
+"title": "सुरूफ‍िनीकी"
+},
+"ind": {
+"content_id": "ind-t135-v1",
+"language": "ind",
+"title": "Siro Fenisia"
+},
+"nep": {
+"content_id": "nep-t135-v1",
+"language": "nep",
+"title": "सिरियाली फोनिशिया"
 },
 "por": {
 "content_id": "por-t135-v1",
@@ -8177,6 +11348,11 @@
 "content_id": "spa-t135-v1",
 "language": "spa",
 "title": "syrian-phoenicia"
+},
+"swh": {
+"content_id": "swh-t135-v1",
+"language": "swh",
+"title": "Foinike ya Siria"
 },
 "tpi": {
 "content_id": "tpi-t135-v1",
@@ -8217,10 +11393,30 @@
 "reference_id": 0,
 "index_reference": "teacher",
 "localizations": {
+"arb": {
+"content_id": "arb-t136-v1",
+"language": "arb",
+"title": "مُعلِّم"
+},
 "fra": {
 "content_id": "fra-t136-v1",
 "language": "fra",
 "title": "maître"
+},
+"hin": {
+"content_id": "hin-t136-v1",
+"language": "hin",
+"title": "गुरु"
+},
+"ind": {
+"content_id": "ind-t136-v1",
+"language": "ind",
+"title": "guru"
+},
+"nep": {
+"content_id": "nep-t136-v1",
+"language": "nep",
+"title": "शिक्षक"
 },
 "por": {
 "content_id": "por-t136-v1",
@@ -8231,6 +11427,11 @@
 "content_id": "spa-t136-v1",
 "language": "spa",
 "title": "teacher"
+},
+"swh": {
+"content_id": "swh-t136-v1",
+"language": "swh",
+"title": "mwalimu"
 },
 "tpi": {
 "content_id": "tpi-t136-v1",
@@ -8271,10 +11472,30 @@
 "reference_id": 0,
 "index_reference": "teachers of the law",
 "localizations": {
+"arb": {
+"content_id": "arb-t137-v1",
+"language": "arb",
+"title": "معلّمو الناموس (الشريعة)"
+},
 "fra": {
 "content_id": "fra-t137-v1",
 "language": "fra",
 "title": "docteurs de la loi"
+},
+"hin": {
+"content_id": "hin-t137-v1",
+"language": "hin",
+"title": "व्यवस्था के शिक्षक"
+},
+"ind": {
+"content_id": "ind-t137-v1",
+"language": "ind",
+"title": "Para pengajar hukum Taurat"
+},
+"nep": {
+"content_id": "nep-t137-v1",
+"language": "nep",
+"title": "व्यवस्थाको शिक्षकहरू"
 },
 "por": {
 "content_id": "por-t137-v1",
@@ -8290,6 +11511,11 @@
 "content_id": "spa-t137-v1",
 "language": "spa",
 "title": "teachers-of-the-law"
+},
+"swh": {
+"content_id": "swh-t137-v1",
+"language": "swh",
+"title": "walimu wa sheria"
 },
 "tpi": {
 "content_id": "tpi-t137-v1",
@@ -8335,10 +11561,30 @@
 "reference_id": 0,
 "index_reference": "temple",
 "localizations": {
+"arb": {
+"content_id": "arb-t138-v1",
+"language": "arb",
+"title": "هيكل"
+},
 "fra": {
 "content_id": "fra-t138-v1",
 "language": "fra",
 "title": "Temple"
+},
+"hin": {
+"content_id": "hin-t138-v1",
+"language": "hin",
+"title": "मन्दिर"
+},
+"ind": {
+"content_id": "ind-t138-v1",
+"language": "ind",
+"title": "bait suci"
+},
+"nep": {
+"content_id": "nep-t138-v1",
+"language": "nep",
+"title": "मन्दिर"
 },
 "por": {
 "content_id": "por-t138-v1",
@@ -8349,6 +11595,11 @@
 "content_id": "spa-t138-v1",
 "language": "spa",
 "title": "temple"
+},
+"swh": {
+"content_id": "swh-t138-v1",
+"language": "swh",
+"title": "hekalu"
 },
 "tpi": {
 "content_id": "tpi-t138-v1",
@@ -8389,10 +11640,30 @@
 "reference_id": 0,
 "index_reference": "tenants",
 "localizations": {
+"arb": {
+"content_id": "arb-t139-v1",
+"language": "arb",
+"title": "كرَّامون (مستأجرون)"
+},
 "fra": {
 "content_id": "fra-t139-v1",
 "language": "fra",
 "title": "intendants"
+},
+"hin": {
+"content_id": "hin-t139-v1",
+"language": "hin",
+"title": "किरायेदार"
+},
+"ind": {
+"content_id": "ind-t139-v1",
+"language": "ind",
+"title": "para penggarap"
+},
+"nep": {
+"content_id": "nep-t139-v1",
+"language": "nep",
+"title": "मोहि"
 },
 "por": {
 "content_id": "por-t139-v1",
@@ -8403,6 +11674,11 @@
 "content_id": "spa-t139-v1",
 "language": "spa",
 "title": "tenants"
+},
+"swh": {
+"content_id": "swh-t139-v1",
+"language": "swh",
+"title": "wapangaji"
 },
 "tpi": {
 "content_id": "tpi-t139-v1",
@@ -8443,10 +11719,30 @@
 "reference_id": 0,
 "index_reference": "tomb",
 "localizations": {
+"arb": {
+"content_id": "arb-t140-v1",
+"language": "arb",
+"title": "قبر"
+},
 "fra": {
 "content_id": "fra-t140-v1",
 "language": "fra",
 "title": "sépulcre"
+},
+"hin": {
+"content_id": "hin-t140-v1",
+"language": "hin",
+"title": "कब्र"
+},
+"ind": {
+"content_id": "ind-t140-v1",
+"language": "ind",
+"title": "makam"
+},
+"nep": {
+"content_id": "nep-t140-v1",
+"language": "nep",
+"title": "चिहान"
 },
 "por": {
 "content_id": "por-t140-v1",
@@ -8457,6 +11753,11 @@
 "content_id": "spa-t140-v1",
 "language": "spa",
 "title": "tomb"
+},
+"swh": {
+"content_id": "swh-t140-v1",
+"language": "swh",
+"title": "kaburi"
 },
 "tpi": {
 "content_id": "tpi-t140-v1",
@@ -8497,10 +11798,30 @@
 "reference_id": 0,
 "index_reference": "tyre",
 "localizations": {
+"arb": {
+"content_id": "arb-t141-v1",
+"language": "arb",
+"title": "صُوْر (مدينة)"
+},
 "fra": {
 "content_id": "fra-t141-v1",
 "language": "fra",
 "title": "Tyr"
+},
+"hin": {
+"content_id": "hin-t141-v1",
+"language": "hin",
+"title": "सोर"
+},
+"ind": {
+"content_id": "ind-t141-v1",
+"language": "ind",
+"title": "Tirus"
+},
+"nep": {
+"content_id": "nep-t141-v1",
+"language": "nep",
+"title": "टायर"
 },
 "por": {
 "content_id": "por-t141-v1",
@@ -8511,6 +11832,11 @@
 "content_id": "spa-t141-v1",
 "language": "spa",
 "title": "tyre"
+},
+"swh": {
+"content_id": "swh-t141-v1",
+"language": "swh",
+"title": "Tiro"
 },
 "tpi": {
 "content_id": "tpi-t141-v1",
@@ -8551,10 +11877,30 @@
 "reference_id": 0,
 "index_reference": "vineyard",
 "localizations": {
+"arb": {
+"content_id": "arb-t142-v1",
+"language": "arb",
+"title": "كرم العنب"
+},
 "fra": {
 "content_id": "fra-t142-v1",
 "language": "fra",
 "title": "vignoble"
+},
+"hin": {
+"content_id": "hin-t142-v1",
+"language": "hin",
+"title": "अंगूर की बारी"
+},
+"ind": {
+"content_id": "ind-t142-v1",
+"language": "ind",
+"title": "kebun anggur"
+},
+"nep": {
+"content_id": "nep-t142-v1",
+"language": "nep",
+"title": "दाखबारी"
 },
 "por": {
 "content_id": "por-t142-v1",
@@ -8565,6 +11911,11 @@
 "content_id": "spa-t142-v1",
 "language": "spa",
 "title": "vineyard"
+},
+"swh": {
+"content_id": "swh-t142-v1",
+"language": "swh",
+"title": "shamba la mizabibu"
 },
 "tpi": {
 "content_id": "tpi-t142-v1",
@@ -8605,10 +11956,25 @@
 "reference_id": 0,
 "index_reference": "vision",
 "localizations": {
+"arb": {
+"content_id": "arb-t143-v1",
+"language": "arb",
+"title": "رؤيا"
+},
 "fra": {
 "content_id": "fra-t143-v1",
 "language": "fra",
 "title": "vision"
+},
+"ind": {
+"content_id": "ind-t143-v1",
+"language": "ind",
+"title": "penglihatan"
+},
+"nep": {
+"content_id": "nep-t143-v1",
+"language": "nep",
+"title": "दर्शन"
 },
 "por": {
 "content_id": "por-t143-v1",
@@ -8620,10 +11986,20 @@
 "language": "spa",
 "title": "vision"
 },
+"swh": {
+"content_id": "swh-t143-v1",
+"language": "swh",
+"title": "maono"
+},
 "tpi": {
 "content_id": "tpi-t143-v1",
 "language": "tpi",
 "title": "vision"
+},
+"zht": {
+"content_id": "zht-t143-v1",
+"language": "zht",
+"title": "異象"
 }
 }
 },
@@ -8649,10 +12025,30 @@
 "reference_id": 0,
 "index_reference": "watchtower",
 "localizations": {
+"arb": {
+"content_id": "arb-t144-v1",
+"language": "arb",
+"title": "برج مراقبة"
+},
 "fra": {
 "content_id": "fra-t144-v1",
 "language": "fra",
 "title": "tour"
+},
+"hin": {
+"content_id": "hin-t144-v1",
+"language": "hin",
+"title": "निगरानी मीनार"
+},
+"ind": {
+"content_id": "ind-t144-v1",
+"language": "ind",
+"title": "menara pengawas"
+},
+"nep": {
+"content_id": "nep-t144-v1",
+"language": "nep",
+"title": "पहरा घर"
 },
 "por": {
 "content_id": "por-t144-v1",
@@ -8663,6 +12059,11 @@
 "content_id": "spa-t144-v1",
 "language": "spa",
 "title": "watchtower"
+},
+"swh": {
+"content_id": "swh-t144-v1",
+"language": "swh",
+"title": "mnara wa ulinzi"
 },
 "tpi": {
 "content_id": "tpi-t144-v1",
@@ -8703,10 +12104,30 @@
 "reference_id": 0,
 "index_reference": "wilderness",
 "localizations": {
+"arb": {
+"content_id": "arb-t145-v1",
+"language": "arb",
+"title": "البرية (قفر)"
+},
 "fra": {
 "content_id": "fra-t145-v1",
 "language": "fra",
 "title": "désert"
+},
+"hin": {
+"content_id": "hin-t145-v1",
+"language": "hin",
+"title": "जंगल"
+},
+"ind": {
+"content_id": "ind-t145-v1",
+"language": "ind",
+"title": "padang gurun"
+},
+"nep": {
+"content_id": "nep-t145-v1",
+"language": "nep",
+"title": "मरुभूमि"
 },
 "por": {
 "content_id": "por-t145-v1",
@@ -8717,6 +12138,11 @@
 "content_id": "spa-t145-v1",
 "language": "spa",
 "title": "wilderness"
+},
+"swh": {
+"content_id": "swh-t145-v1",
+"language": "swh",
+"title": "jangwa"
 },
 "tpi": {
 "content_id": "tpi-t145-v1",
@@ -8757,10 +12183,30 @@
 "reference_id": 0,
 "index_reference": "winepress",
 "localizations": {
+"arb": {
+"content_id": "arb-t146-v1",
+"language": "arb",
+"title": "معصرة الخمر"
+},
 "fra": {
 "content_id": "fra-t146-v1",
 "language": "fra",
 "title": "pressoir à vin"
+},
+"hin": {
+"content_id": "hin-t146-v1",
+"language": "hin",
+"title": "दाखरस का कुण्ड"
+},
+"ind": {
+"content_id": "ind-t146-v1",
+"language": "ind",
+"title": "pemeras anggur"
+},
+"nep": {
+"content_id": "nep-t146-v1",
+"language": "nep",
+"title": "दाख पेल्ने कोल"
 },
 "por": {
 "content_id": "por-t146-v1",
@@ -8771,6 +12217,11 @@
 "content_id": "spa-t146-v1",
 "language": "spa",
 "title": "winepress"
+},
+"swh": {
+"content_id": "swh-t146-v1",
+"language": "swh",
+"title": "shinikizo la mvinyo"
 },
 "tpi": {
 "content_id": "tpi-t146-v1",
@@ -8811,10 +12262,30 @@
 "reference_id": 0,
 "index_reference": "wisdom",
 "localizations": {
+"arb": {
+"content_id": "arb-t147-v1",
+"language": "arb",
+"title": "الحكمة"
+},
 "fra": {
 "content_id": "fra-t147-v1",
 "language": "fra",
 "title": "sagesse"
+},
+"hin": {
+"content_id": "hin-t147-v1",
+"language": "hin",
+"title": "बुद्धि"
+},
+"ind": {
+"content_id": "ind-t147-v1",
+"language": "ind",
+"title": "hikmat"
+},
+"nep": {
+"content_id": "nep-t147-v1",
+"language": "nep",
+"title": "बुद्धि"
 },
 "por": {
 "content_id": "por-t147-v1",
@@ -8865,10 +12336,30 @@
 "reference_id": 0,
 "index_reference": "word",
 "localizations": {
+"arb": {
+"content_id": "arb-t148-v1",
+"language": "arb",
+"title": "الكلمة"
+},
 "fra": {
 "content_id": "fra-t148-v1.0.1",
 "language": "fra",
 "title": "Parole"
+},
+"hin": {
+"content_id": "hin-t148-v1",
+"language": "hin",
+"title": "वचन"
+},
+"ind": {
+"content_id": "ind-t148-v1",
+"language": "ind",
+"title": "Firman"
+},
+"nep": {
+"content_id": "nep-t148-v1",
+"language": "nep",
+"title": "वचन"
 },
 "por": {
 "content_id": "por-t148-v1",
@@ -8879,6 +12370,11 @@
 "content_id": "spa-t148-v1",
 "language": "spa",
 "title": "word"
+},
+"swh": {
+"content_id": "swh-t148-v1",
+"language": "swh",
+"title": "Neno"
 },
 "tpi": {
 "content_id": "tpi-t148-v1",
@@ -8919,10 +12415,25 @@
 "reference_id": 0,
 "index_reference": "worship",
 "localizations": {
+"arb": {
+"content_id": "arb-t149-v1",
+"language": "arb",
+"title": "العبادة"
+},
 "fra": {
 "content_id": "fra-t149-v1",
 "language": "fra",
 "title": "adoration"
+},
+"ind": {
+"content_id": "ind-t149-v1",
+"language": "ind",
+"title": "ibadah atau penyembahan"
+},
+"nep": {
+"content_id": "nep-t149-v1",
+"language": "nep",
+"title": "आराधना"
 },
 "por": {
 "content_id": "por-t149-v1",
@@ -8934,10 +12445,20 @@
 "language": "spa",
 "title": "worship"
 },
+"swh": {
+"content_id": "swh-t149-v1",
+"language": "swh",
+"title": "ibada"
+},
 "tpi": {
 "content_id": "tpi-t149-v1",
 "language": "tpi",
 "title": "worship"
+},
+"zht": {
+"content_id": "zht-t149-v1",
+"language": "zht",
+"title": "敬拜"
 }
 }
 },
@@ -8963,10 +12484,30 @@
 "reference_id": 0,
 "index_reference": "heart",
 "localizations": {
+"arb": {
+"content_id": "arb-t150-v1",
+"language": "arb",
+"title": "القلب"
+},
 "fra": {
 "content_id": "fra-t150-v1.0.1",
 "language": "fra",
 "title": "cœur"
+},
+"hin": {
+"content_id": "hin-t150-v1",
+"language": "hin",
+"title": "दिल"
+},
+"ind": {
+"content_id": "ind-t150-v1",
+"language": "ind",
+"title": "hati"
+},
+"nep": {
+"content_id": "nep-t150-v1",
+"language": "nep",
+"title": "हृदय"
 },
 "por": {
 "content_id": "por-t150-v1",
@@ -8977,6 +12518,11 @@
 "content_id": "spa-t150-v1",
 "language": "spa",
 "title": "heart"
+},
+"swh": {
+"content_id": "swh-t150-v1",
+"language": "swh",
+"title": "moyo"
 },
 "tpi": {
 "content_id": "tpi-t150-v1",
@@ -9017,10 +12563,30 @@
 "reference_id": 0,
 "index_reference": "mind",
 "localizations": {
+"arb": {
+"content_id": "arb-t151-v1",
+"language": "arb",
+"title": "عقل"
+},
 "fra": {
 "content_id": "fra-t151-v1",
 "language": "fra",
 "title": "esprit"
+},
+"hin": {
+"content_id": "hin-t151-v1",
+"language": "hin",
+"title": "मन"
+},
+"ind": {
+"content_id": "ind-t151-v1",
+"language": "ind",
+"title": "pikiran"
+},
+"nep": {
+"content_id": "nep-t151-v1",
+"language": "nep",
+"title": "मन"
 },
 "por": {
 "content_id": "por-t151-v1",
@@ -9031,6 +12597,11 @@
 "content_id": "spa-t151-v1",
 "language": "spa",
 "title": "mind"
+},
+"swh": {
+"content_id": "swh-t151-v1",
+"language": "swh",
+"title": "akili"
 },
 "tpi": {
 "content_id": "tpi-t151-v1",
@@ -9071,10 +12642,30 @@
 "reference_id": 0,
 "index_reference": "strength",
 "localizations": {
+"arb": {
+"content_id": "arb-t152-v1",
+"language": "arb",
+"title": "قوة"
+},
 "fra": {
 "content_id": "fra-t152-v1",
 "language": "fra",
 "title": "force"
+},
+"hin": {
+"content_id": "hin-t152-v1",
+"language": "hin",
+"title": "शक्ति"
+},
+"ind": {
+"content_id": "ind-t152-v1",
+"language": "ind",
+"title": "kekuatan"
+},
+"nep": {
+"content_id": "nep-t152-v1",
+"language": "nep",
+"title": "शक्ति"
 },
 "por": {
 "content_id": "por-t152-v1",
@@ -9085,6 +12676,11 @@
 "content_id": "spa-t152-v1",
 "language": "spa",
 "title": "strength"
+},
+"swh": {
+"content_id": "swh-t152-v1",
+"language": "swh",
+"title": "nguvu"
 },
 "tpi": {
 "content_id": "tpi-t152-v1",
@@ -9125,10 +12721,30 @@
 "reference_id": 0,
 "index_reference": "burnt offering",
 "localizations": {
+"arb": {
+"content_id": "arb-t154-v1",
+"language": "arb",
+"title": "ذبيحة مُحرقة"
+},
 "fra": {
 "content_id": "fra-t154-v1",
 "language": "fra",
 "title": "holocauste"
+},
+"hin": {
+"content_id": "hin-t154-v1",
+"language": "hin",
+"title": "होमबलि"
+},
+"ind": {
+"content_id": "ind-t154-v1",
+"language": "ind",
+"title": "korban bakaran"
+},
+"nep": {
+"content_id": "nep-t154-v1",
+"language": "nep",
+"title": "होमबलि"
 },
 "por": {
 "content_id": "por-t154-v1",
@@ -9139,6 +12755,11 @@
 "content_id": "spa-t154-v1",
 "language": "spa",
 "title": "burnt-offering"
+},
+"swh": {
+"content_id": "swh-t154-v1",
+"language": "swh",
+"title": "sadaka kuteketezwa"
 },
 "tpi": {
 "content_id": "tpi-t154-v1",
@@ -9179,10 +12800,30 @@
 "reference_id": 0,
 "index_reference": "scribe",
 "localizations": {
+"arb": {
+"content_id": "arb-t155-v1",
+"language": "arb",
+"title": "الكاتب"
+},
 "fra": {
 "content_id": "fra-t155-v1",
 "language": "fra",
 "title": "scribe"
+},
+"hin": {
+"content_id": "hin-t155-v1",
+"language": "hin",
+"title": "शास्त्री"
+},
+"ind": {
+"content_id": "ind-t155-v1",
+"language": "ind",
+"title": "ahli hukum"
+},
+"nep": {
+"content_id": "nep-t155-v1",
+"language": "nep",
+"title": "शास्त्री"
 },
 "por": {
 "content_id": "por-t155-v1",
@@ -9193,6 +12834,11 @@
 "content_id": "spa-t155-v1",
 "language": "spa",
 "title": "scribe"
+},
+"swh": {
+"content_id": "swh-t155-v1",
+"language": "swh",
+"title": "mwandishi"
 },
 "tpi": {
 "content_id": "tpi-t155-v1",
@@ -9233,10 +12879,30 @@
 "reference_id": 0,
 "index_reference": "sign",
 "localizations": {
+"arb": {
+"content_id": "arb-t156-v1",
+"language": "arb",
+"title": "آية"
+},
 "fra": {
 "content_id": "fra-t156-v1",
 "language": "fra",
 "title": "signe"
+},
+"hin": {
+"content_id": "hin-t156-v1",
+"language": "hin",
+"title": "चिन्ह"
+},
+"ind": {
+"content_id": "ind-t156-v1",
+"language": "ind",
+"title": "tanda ajaib"
+},
+"nep": {
+"content_id": "nep-t156-v1",
+"language": "nep",
+"title": "चिन्ह"
 },
 "por": {
 "content_id": "por-t156-v1",
@@ -9247,6 +12913,11 @@
 "content_id": "spa-t156-v1",
 "language": "spa",
 "title": "sign"
+},
+"swh": {
+"content_id": "swh-t156-v1",
+"language": "swh",
+"title": "ishara"
 },
 "tpi": {
 "content_id": "tpi-t156-v1",
@@ -9287,10 +12958,30 @@
 "reference_id": 0,
 "index_reference": "kingdom",
 "localizations": {
+"arb": {
+"content_id": "arb-t157-v1",
+"language": "arb",
+"title": "مملكة"
+},
 "fra": {
 "content_id": "fra-t157-v1",
 "language": "fra",
 "title": "royaume"
+},
+"hin": {
+"content_id": "hin-t157-v1",
+"language": "hin",
+"title": "राज्य"
+},
+"ind": {
+"content_id": "ind-t157-v1",
+"language": "ind",
+"title": "kerajaan"
+},
+"nep": {
+"content_id": "nep-t157-v1",
+"language": "nep",
+"title": "राज्य"
 },
 "por": {
 "content_id": "por-t157-v1",
@@ -9301,6 +12992,11 @@
 "content_id": "spa-t157-v1",
 "language": "spa",
 "title": "kingdom"
+},
+"swh": {
+"content_id": "swh-t157-v1",
+"language": "swh",
+"title": "ufalme"
 },
 "tpi": {
 "content_id": "tpi-t157-v1",
@@ -9341,10 +13037,25 @@
 "reference_id": 0,
 "index_reference": "house of david",
 "localizations": {
+"arb": {
+"content_id": "arb-t158-v1",
+"language": "arb",
+"title": "بيت داود"
+},
 "fra": {
 "content_id": "fra-t158-v1",
 "language": "fra",
 "title": "Maison de David"
+},
+"ind": {
+"content_id": "ind-t158-v1",
+"language": "ind",
+"title": "Rumah Daud"
+},
+"nep": {
+"content_id": "nep-t158-v1",
+"language": "nep",
+"title": "दाऊदको घर"
 },
 "por": {
 "content_id": "por-t158-v1",
@@ -9356,10 +13067,20 @@
 "language": "spa",
 "title": "house-of-david"
 },
+"swh": {
+"content_id": "swh-t158-v1",
+"language": "swh",
+"title": "Nyumba ya Daudi"
+},
 "tpi": {
 "content_id": "tpi-t158-v1",
 "language": "tpi",
 "title": "house-of-david"
+},
+"zht": {
+"content_id": "zht-t158-v1",
+"language": "zht",
+"title": "大衞家"
 }
 }
 },
@@ -9385,10 +13106,25 @@
 "reference_id": 0,
 "index_reference": "inn",
 "localizations": {
+"arb": {
+"content_id": "arb-t159-v1",
+"language": "arb",
+"title": "فندق (نُزُل)"
+},
 "fra": {
 "content_id": "fra-t159-v1",
 "language": "fra",
 "title": "auberge"
+},
+"ind": {
+"content_id": "ind-t159-v1",
+"language": "ind",
+"title": "penginapan"
+},
+"nep": {
+"content_id": "nep-t159-v1",
+"language": "nep",
+"title": "पौवा"
 },
 "por": {
 "content_id": "por-t159-v1",
@@ -9400,10 +13136,20 @@
 "language": "spa",
 "title": "inn"
 },
+"swh": {
+"content_id": "swh-t159-v1",
+"language": "swh",
+"title": "hoteli"
+},
 "tpi": {
 "content_id": "tpi-t159-v1",
 "language": "tpi",
 "title": "inn"
+},
+"zht": {
+"content_id": "zht-t159-v1",
+"language": "zht",
+"title": "客店、旅店、客棧"
 }
 }
 },
@@ -9429,10 +13175,30 @@
 "reference_id": 0,
 "index_reference": "good news",
 "localizations": {
+"arb": {
+"content_id": "arb-t160-v1",
+"language": "arb",
+"title": "أخبار سارة (بشارة الإنجيل)"
+},
 "fra": {
 "content_id": "fra-t160-v1",
 "language": "fra",
 "title": "Bonne Nouvelle"
+},
+"hin": {
+"content_id": "hin-t160-v1",
+"language": "hin",
+"title": "शुभ संदेश"
+},
+"ind": {
+"content_id": "ind-t160-v1",
+"language": "ind",
+"title": "kabar baik"
+},
+"nep": {
+"content_id": "nep-t160-v1",
+"language": "nep",
+"title": "सुसमाचार"
 },
 "por": {
 "content_id": "por-t160-v1",
@@ -9443,6 +13209,11 @@
 "content_id": "spa-t160-v1",
 "language": "spa",
 "title": "buenas nuevas"
+},
+"swh": {
+"content_id": "swh-t160-v1",
+"language": "swh",
+"title": "habari njema"
 },
 "tpi": {
 "content_id": "tpi-t160-v1",
@@ -9488,10 +13259,25 @@
 "reference_id": 0,
 "index_reference": "peace",
 "localizations": {
+"arb": {
+"content_id": "arb-t161-v1",
+"language": "arb",
+"title": "السلام"
+},
 "fra": {
 "content_id": "fra-t161-v1",
 "language": "fra",
 "title": "paix"
+},
+"ind": {
+"content_id": "ind-t161-v1",
+"language": "ind",
+"title": "damai"
+},
+"nep": {
+"content_id": "nep-t161-v1",
+"language": "nep",
+"title": "शान्ति"
 },
 "por": {
 "content_id": "por-t161-v1",
@@ -9503,10 +13289,20 @@
 "language": "spa",
 "title": "peace"
 },
+"swh": {
+"content_id": "swh-t161-v1",
+"language": "swh",
+"title": "amani"
+},
 "tpi": {
 "content_id": "tpi-t161-v1",
 "language": "tpi",
 "title": "peace"
+},
+"zht": {
+"content_id": "zht-t161-v1",
+"language": "zht",
+"title": "平安"
 }
 }
 },
@@ -9532,10 +13328,30 @@
 "reference_id": 0,
 "index_reference": "passover",
 "localizations": {
+"arb": {
+"content_id": "arb-t162-v1",
+"language": "arb",
+"title": "الفصح"
+},
 "fra": {
 "content_id": "fra-t162-v1",
 "language": "fra",
 "title": "Pâque"
+},
+"hin": {
+"content_id": "hin-t162-v1",
+"language": "hin",
+"title": "फसह"
+},
+"ind": {
+"content_id": "ind-t162-v1",
+"language": "ind",
+"title": "Paskah"
+},
+"nep": {
+"content_id": "nep-t162-v1",
+"language": "nep",
+"title": "निस्तारचाड"
 },
 "por": {
 "content_id": "por-t162-v1",
@@ -9546,6 +13362,11 @@
 "content_id": "spa-t162-v1",
 "language": "spa",
 "title": "passover"
+},
+"swh": {
+"content_id": "swh-t162-v1",
+"language": "swh",
+"title": "Pasaka"
 },
 "tpi": {
 "content_id": "tpi-t162-v1",
@@ -9586,10 +13407,25 @@
 "reference_id": 0,
 "index_reference": "purification offering or ceremony",
 "localizations": {
+"arb": {
+"content_id": "arb-t163-v1",
+"language": "arb",
+"title": "تقدمة التطهير أو مراسمه"
+},
 "fra": {
 "content_id": "fra-t163-v1",
 "language": "fra",
 "title": "Offrande ou cérémonie de purification"
+},
+"ind": {
+"content_id": "ind-t163-v1",
+"language": "ind",
+"title": "persembahan atau upacara pentahiran"
+},
+"nep": {
+"content_id": "nep-t163-v1",
+"language": "nep",
+"title": "शुद्धिकरण भेटी वा समारोह"
 },
 "por": {
 "content_id": "por-t163-v1",
@@ -9601,10 +13437,20 @@
 "language": "spa",
 "title": "purification-offering-or-ceremony"
 },
+"swh": {
+"content_id": "swh-t163-v1",
+"language": "swh",
+"title": "sadaka ya utakaso au sherehe"
+},
 "tpi": {
 "content_id": "tpi-t163-v1",
 "language": "tpi",
 "title": "purification-offering-or-ceremony"
+},
+"zht": {
+"content_id": "zht-t163-v1",
+"language": "zht",
+"title": "除罪祭或相關儀式"
 }
 }
 },
@@ -9630,10 +13476,30 @@
 "reference_id": 0,
 "index_reference": "festival of unleavened bread",
 "localizations": {
+"arb": {
+"content_id": "arb-t164-v1",
+"language": "arb",
+"title": "عيد الفطير (الخبز غير المُختمر)"
+},
 "fra": {
 "content_id": "fra-t164-v1",
 "language": "fra",
 "title": "fête des Pains sans levain"
+},
+"hin": {
+"content_id": "hin-t164-v1",
+"language": "hin",
+"title": "अख़मीरी रोटी का त्योहार"
+},
+"ind": {
+"content_id": "ind-t164-v1",
+"language": "ind",
+"title": "Perayaan Roti Tidak Beragi"
+},
+"nep": {
+"content_id": "nep-t164-v1",
+"language": "nep",
+"title": "अखमिरी रोटीको चाड"
 },
 "por": {
 "content_id": "por-t164-v1",
@@ -9644,6 +13510,11 @@
 "content_id": "spa-t164-v1",
 "language": "spa",
 "title": "festival-of-unleavened-bread"
+},
+"swh": {
+"content_id": "swh-t164-v1",
+"language": "swh",
+"title": "Tamasha la Mikate isiyotiwa chachu"
 },
 "tpi": {
 "content_id": "tpi-t164-v1",
@@ -9684,10 +13555,30 @@
 "reference_id": 0,
 "index_reference": "hymn",
 "localizations": {
+"arb": {
+"content_id": "arb-t165-v1",
+"language": "arb",
+"title": "تسبحة (ترنيمة)"
+},
 "fra": {
 "content_id": "fra-t165-v1",
 "language": "fra",
 "title": "hymne"
+},
+"hin": {
+"content_id": "hin-t165-v1",
+"language": "hin",
+"title": "भजन"
+},
+"ind": {
+"content_id": "ind-t165-v1",
+"language": "ind",
+"title": "lagu pujian"
+},
+"nep": {
+"content_id": "nep-t165-v1",
+"language": "nep",
+"title": "भजन"
 },
 "por": {
 "content_id": "por-t165-v1",
@@ -9698,6 +13589,11 @@
 "content_id": "spa-t165-v1",
 "language": "spa",
 "title": "hymn"
+},
+"swh": {
+"content_id": "swh-t165-v1",
+"language": "swh",
+"title": "tenzi"
 },
 "tpi": {
 "content_id": "tpi-t165-v1",
@@ -9738,10 +13634,30 @@
 "reference_id": 0,
 "index_reference": "shepherd",
 "localizations": {
+"arb": {
+"content_id": "arb-t166-v1",
+"language": "arb",
+"title": "الراعي"
+},
 "fra": {
 "content_id": "fra-t166-v1",
 "language": "fra",
 "title": "berger"
+},
+"hin": {
+"content_id": "hin-t166-v1",
+"language": "hin",
+"title": "चरवाहा"
+},
+"ind": {
+"content_id": "ind-t166-v1",
+"language": "ind",
+"title": "gembala"
+},
+"nep": {
+"content_id": "nep-t166-v1",
+"language": "nep",
+"title": "गोठाला"
 },
 "por": {
 "content_id": "por-t166-v1",
@@ -9752,6 +13668,11 @@
 "content_id": "spa-t166-v1",
 "language": "spa",
 "title": "shepherd"
+},
+"swh": {
+"content_id": "swh-t166-v1",
+"language": "swh",
+"title": "mchungaji"
 },
 "tpi": {
 "content_id": "tpi-t166-v1",
@@ -9792,10 +13713,30 @@
 "reference_id": 0,
 "index_reference": "abba",
 "localizations": {
+"arb": {
+"content_id": "arb-t167-v1",
+"language": "arb",
+"title": "أَبَا"
+},
 "fra": {
 "content_id": "fra-t167-v1",
 "language": "fra",
 "title": "abba"
+},
+"hin": {
+"content_id": "hin-t167-v1",
+"language": "hin",
+"title": "अब्बा"
+},
+"ind": {
+"content_id": "ind-t167-v1",
+"language": "ind",
+"title": "bapa"
+},
+"nep": {
+"content_id": "nep-t167-v1",
+"language": "nep",
+"title": "पिता"
 },
 "por": {
 "content_id": "por-t167-v1",
@@ -9805,6 +13746,11 @@
 "spa": {
 "content_id": "spa-t167-v1",
 "language": "spa",
+"title": "abba"
+},
+"swh": {
+"content_id": "swh-t167-v1",
+"language": "swh",
 "title": "abba"
 },
 "tpi": {
@@ -9846,10 +13792,30 @@
 "reference_id": 0,
 "index_reference": "sanhedrin",
 "localizations": {
+"arb": {
+"content_id": "arb-t168-v1",
+"language": "arb",
+"title": "مجمع السنهدريم"
+},
 "fra": {
 "content_id": "fra-t168-v1",
 "language": "fra",
 "title": "sanhédrin"
+},
+"hin": {
+"content_id": "hin-t168-v1",
+"language": "hin",
+"title": "महासभा"
+},
+"ind": {
+"content_id": "ind-t168-v1",
+"language": "ind",
+"title": "sanhedrin"
+},
+"nep": {
+"content_id": "nep-t168-v1",
+"language": "nep",
+"title": "महासभा"
 },
 "por": {
 "content_id": "por-t168-v1",
@@ -9860,6 +13826,11 @@
 "content_id": "spa-t168-v1",
 "language": "spa",
 "title": "sanhedrin"
+},
+"swh": {
+"content_id": "swh-t168-v1",
+"language": "swh",
+"title": "koti ya kiyahudi"
 },
 "tpi": {
 "content_id": "tpi-t168-v1",
@@ -9900,10 +13871,30 @@
 "reference_id": 0,
 "index_reference": "crucifixion",
 "localizations": {
+"arb": {
+"content_id": "arb-t169-v1",
+"language": "arb",
+"title": "الصلب"
+},
 "fra": {
 "content_id": "fra-t169-v1",
 "language": "fra",
 "title": "crucifixion"
+},
+"hin": {
+"content_id": "hin-t169-v1",
+"language": "hin",
+"title": "क्रूस पर चढ़ाना"
+},
+"ind": {
+"content_id": "ind-t169-v1",
+"language": "ind",
+"title": "penyaliban"
+},
+"nep": {
+"content_id": "nep-t169-v1",
+"language": "nep",
+"title": "क्रूसमा टाँग्नु"
 },
 "por": {
 "content_id": "por-t169-v1",
@@ -9914,6 +13905,11 @@
 "content_id": "spa-t169-v1",
 "language": "spa",
 "title": "crucifixion"
+},
+"swh": {
+"content_id": "swh-t169-v1",
+"language": "swh",
+"title": "kusulubiwa"
 },
 "tpi": {
 "content_id": "tpi-t169-v1",
@@ -9954,10 +13950,30 @@
 "reference_id": 0,
 "index_reference": "centurion",
 "localizations": {
+"arb": {
+"content_id": "arb-t170-v1",
+"language": "arb",
+"title": "قائد مئة"
+},
 "fra": {
 "content_id": "fra-t170-v1",
 "language": "fra",
 "title": "centurion"
+},
+"hin": {
+"content_id": "hin-t170-v1",
+"language": "hin",
+"title": "सूबेदार"
+},
+"ind": {
+"content_id": "ind-t170-v1",
+"language": "ind",
+"title": "perwira"
+},
+"nep": {
+"content_id": "nep-t170-v1",
+"language": "nep",
+"title": "कप्तान"
 },
 "por": {
 "content_id": "por-t170-v1",
@@ -9968,6 +13984,11 @@
 "content_id": "spa-t170-v1",
 "language": "spa",
 "title": "centurion"
+},
+"swh": {
+"content_id": "swh-t170-v1",
+"language": "swh",
+"title": "akida"
 },
 "tpi": {
 "content_id": "tpi-t170-v1",
@@ -10008,10 +14029,30 @@
 "reference_id": 0,
 "index_reference": "anoint",
 "localizations": {
+"arb": {
+"content_id": "arb-t171-v1",
+"language": "arb",
+"title": "يمسح (يُكفِّن)"
+},
 "fra": {
 "content_id": "fra-t171-v1",
 "language": "fra",
 "title": "embaumer"
+},
+"hin": {
+"content_id": "hin-t171-v1",
+"language": "hin",
+"title": "अभिषेक करना"
+},
+"ind": {
+"content_id": "ind-t171-v1",
+"language": "ind",
+"title": "mengurapi"
+},
+"nep": {
+"content_id": "nep-t171-v1",
+"language": "nep",
+"title": "अभिषेक"
 },
 "por": {
 "content_id": "por-t171-v1",
@@ -10022,6 +14063,11 @@
 "content_id": "spa-t171-v1",
 "language": "spa",
 "title": "anoint"
+},
+"swh": {
+"content_id": "swh-t171-v1",
+"language": "swh",
+"title": "mafuta"
 },
 "tpi": {
 "content_id": "tpi-t171-v1",
@@ -10062,10 +14108,25 @@
 "reference_id": 0,
 "index_reference": "genealogy",
 "localizations": {
+"arb": {
+"content_id": "arb-t172-v1",
+"language": "arb",
+"title": "سلسلة النسب"
+},
 "fra": {
 "content_id": "fra-t172-v1",
 "language": "fra",
 "title": "généalogie"
+},
+"ind": {
+"content_id": "ind-t172-v1",
+"language": "ind",
+"title": "silsilah"
+},
+"nep": {
+"content_id": "nep-t172-v1",
+"language": "nep",
+"title": "वंशावली"
 },
 "por": {
 "content_id": "por-t172-v1",
@@ -10077,10 +14138,20 @@
 "language": "spa",
 "title": "genealogy"
 },
+"swh": {
+"content_id": "swh-t172-v1",
+"language": "swh",
+"title": "nasaba"
+},
 "tpi": {
 "content_id": "tpi-t172-v1",
 "language": "tpi",
 "title": "genealogy"
+},
+"zht": {
+"content_id": "zht-t172-v1",
+"language": "zht",
+"title": "家譜"
 }
 }
 },
@@ -10106,10 +14177,30 @@
 "reference_id": 0,
 "index_reference": "generations",
 "localizations": {
+"arb": {
+"content_id": "arb-t173-v1",
+"language": "arb",
+"title": "أجيال"
+},
 "fra": {
 "content_id": "fra-t173-v1",
 "language": "fra",
 "title": "générations"
+},
+"hin": {
+"content_id": "hin-t173-v1",
+"language": "hin",
+"title": "पीढ़ियाँ"
+},
+"ind": {
+"content_id": "ind-t173-v1",
+"language": "ind",
+"title": "generasi"
+},
+"nep": {
+"content_id": "nep-t173-v1",
+"language": "nep",
+"title": "पुस्ताहरू"
 },
 "por": {
 "content_id": "por-t173-v1",
@@ -10120,6 +14211,11 @@
 "content_id": "spa-t173-v1",
 "language": "spa",
 "title": "generations"
+},
+"swh": {
+"content_id": "swh-t173-v1",
+"language": "swh",
+"title": "vizazi"
 },
 "tpi": {
 "content_id": "tpi-t173-v1",
@@ -10160,10 +14256,25 @@
 "reference_id": 0,
 "index_reference": "yahweh",
 "localizations": {
+"arb": {
+"content_id": "arb-t174-v1",
+"language": "arb",
+"title": "يهوه"
+},
 "fra": {
 "content_id": "fra-t174-v1",
 "language": "fra",
 "title": "Yahweh"
+},
+"ind": {
+"content_id": "ind-t174-v1",
+"language": "ind",
+"title": "Yahweh"
+},
+"nep": {
+"content_id": "nep-t174-v1",
+"language": "nep",
+"title": "यहोवा"
 },
 "por": {
 "content_id": "por-t174-v1",
@@ -10175,10 +14286,20 @@
 "language": "spa",
 "title": "yahweh"
 },
+"swh": {
+"content_id": "swh-t174-v1",
+"language": "swh",
+"title": "Yahweh"
+},
 "tpi": {
 "content_id": "tpi-t174-v1",
 "language": "tpi",
 "title": "yahweh"
+},
+"zht": {
+"content_id": "zht-t174-v1",
+"language": "zht",
+"title": "雅巍"
 }
 }
 },
@@ -10199,10 +14320,25 @@
 "reference_id": 0,
 "index_reference": "christian",
 "localizations": {
+"arb": {
+"content_id": "arb-t175-v1",
+"language": "arb",
+"title": "مسيحي"
+},
 "fra": {
 "content_id": "fra-t175-v1",
 "language": "fra",
 "title": "Chrétien"
+},
+"ind": {
+"content_id": "ind-t175-v1",
+"language": "ind",
+"title": "Kristen"
+},
+"nep": {
+"content_id": "nep-t175-v1",
+"language": "nep",
+"title": "ख्रीष्टियान"
 },
 "por": {
 "content_id": "por-t175-v1",
@@ -10214,10 +14350,20 @@
 "language": "spa",
 "title": "christian"
 },
+"swh": {
+"content_id": "swh-t175-v1",
+"language": "swh",
+"title": "Mkristo"
+},
 "tpi": {
 "content_id": "tpi-t175-v1",
 "language": "tpi",
 "title": "christian"
+},
+"zht": {
+"content_id": "zht-t175-v1",
+"language": "zht",
+"title": "基督徒"
 }
 }
 },
@@ -10243,10 +14389,25 @@
 "reference_id": 0,
 "index_reference": "evangelist",
 "localizations": {
+"arb": {
+"content_id": "arb-t176-v1",
+"language": "arb",
+"title": "كارز (مُبشِّر)"
+},
 "fra": {
 "content_id": "fra-t176-v1",
 "language": "fra",
 "title": "Évangéliste"
+},
+"ind": {
+"content_id": "ind-t176-v1",
+"language": "ind",
+"title": "penginjil"
+},
+"nep": {
+"content_id": "nep-t176-v1",
+"language": "nep",
+"title": "प्रचारक"
 },
 "por": {
 "content_id": "por-t176-v1",
@@ -10258,10 +14419,20 @@
 "language": "spa",
 "title": "evangelist"
 },
+"swh": {
+"content_id": "swh-t176-v1",
+"language": "swh",
+"title": "mwinjilisti"
+},
 "tpi": {
 "content_id": "tpi-t176-v1",
 "language": "tpi",
 "title": "evangelist"
+},
+"zht": {
+"content_id": "zht-t176-v1",
+"language": "zht",
+"title": "傳福音者、傳道人"
 }
 }
 },
@@ -10287,10 +14458,25 @@
 "reference_id": 0,
 "index_reference": "cubit",
 "localizations": {
+"arb": {
+"content_id": "arb-t177-v1",
+"language": "arb",
+"title": "ذراع (وحدة قياس)"
+},
 "fra": {
 "content_id": "fra-t177-v1",
 "language": "fra",
 "title": "coudée"
+},
+"ind": {
+"content_id": "ind-t177-v1",
+"language": "ind",
+"title": "hasta"
+},
+"nep": {
+"content_id": "nep-t177-v1",
+"language": "nep",
+"title": "एकहात"
 },
 "por": {
 "content_id": "por-t177-v1",
@@ -10302,10 +14488,20 @@
 "language": "spa",
 "title": "cubit"
 },
+"swh": {
+"content_id": "swh-t177-v1",
+"language": "swh",
+"title": "dhiraa"
+},
 "tpi": {
 "content_id": "tpi-t177-v1",
 "language": "tpi",
 "title": "cubit"
+},
+"zht": {
+"content_id": "zht-t177-v1",
+"language": "zht",
+"title": "肘（測量單位）"
 }
 }
 },
@@ -10331,10 +14527,25 @@
 "reference_id": 0,
 "index_reference": "canaan",
 "localizations": {
+"arb": {
+"content_id": "arb-t178-v1",
+"language": "arb",
+"title": "كنعان"
+},
 "fra": {
 "content_id": "fra-t178-v1",
 "language": "fra",
 "title": "Canaan"
+},
+"ind": {
+"content_id": "ind-t178-v1",
+"language": "ind",
+"title": "Kanaan"
+},
+"nep": {
+"content_id": "nep-t178-v1",
+"language": "nep",
+"title": "कनान"
 },
 "por": {
 "content_id": "por-t178-v1",
@@ -10346,10 +14557,20 @@
 "language": "spa",
 "title": "canaan"
 },
+"swh": {
+"content_id": "swh-t178-v1",
+"language": "swh",
+"title": "Kanaani"
+},
 "tpi": {
 "content_id": "tpi-t178-v1",
 "language": "tpi",
 "title": "canaan"
+},
+"zht": {
+"content_id": "zht-t178-v1",
+"language": "zht",
+"title": "迦南"
 }
 }
 },
@@ -10375,10 +14596,25 @@
 "reference_id": 0,
 "index_reference": "pharaoh",
 "localizations": {
+"arb": {
+"content_id": "arb-t179-v1",
+"language": "arb",
+"title": "فرعون"
+},
 "fra": {
 "content_id": "fra-t179-v1",
 "language": "fra",
 "title": "pharaon"
+},
+"ind": {
+"content_id": "ind-t179-v1",
+"language": "ind",
+"title": "firaun"
+},
+"nep": {
+"content_id": "nep-t179-v1",
+"language": "nep",
+"title": "फारो"
 },
 "por": {
 "content_id": "por-t179-v1",
@@ -10390,10 +14626,20 @@
 "language": "spa",
 "title": "pharaoh"
 },
+"swh": {
+"content_id": "swh-t179-v1",
+"language": "swh",
+"title": "farao"
+},
 "tpi": {
 "content_id": "tpi-t179-v1",
 "language": "tpi",
 "title": "pharaoh"
+},
+"zht": {
+"content_id": "zht-t179-v1",
+"language": "zht",
+"title": "法老"
 }
 }
 },
@@ -10419,10 +14665,30 @@
 "reference_id": 0,
 "index_reference": "tunic",
 "localizations": {
+"arb": {
+"content_id": "arb-t180-v2",
+"language": "arb",
+"title": "قميص (سترة داخلية قصيرة)"
+},
 "fra": {
 "content_id": "fra-t180-v1",
 "language": "fra",
 "title": "tunique"
+},
+"hin": {
+"content_id": "hin-t180-v1",
+"language": "hin",
+"title": "कुर्ता"
+},
+"ind": {
+"content_id": "ind-t180-v1",
+"language": "ind",
+"title": "jubah dalam"
+},
+"nep": {
+"content_id": "nep-t180-v2",
+"language": "nep",
+"title": "कुर्ता"
 },
 "por": {
 "content_id": "por-t180-v1",
@@ -10433,6 +14699,11 @@
 "content_id": "spa-t180-v2",
 "language": "spa",
 "title": "tunic"
+},
+"swh": {
+"content_id": "swh-t180-v2",
+"language": "swh",
+"title": "kimau"
 },
 "tpi": {
 "content_id": "tpi-t180-v2",
@@ -10473,10 +14744,30 @@
 "reference_id": 0,
 "index_reference": "devil",
 "localizations": {
+"arb": {
+"content_id": "arb-t181-v1",
+"language": "arb",
+"title": "إبليس"
+},
 "fra": {
 "content_id": "fra-t181-v1",
 "language": "fra",
 "title": "diable"
+},
+"hin": {
+"content_id": "hin-t181-v1",
+"language": "hin",
+"title": "शैतान"
+},
+"ind": {
+"content_id": "ind-t181-v1",
+"language": "ind",
+"title": "Iblis"
+},
+"nep": {
+"content_id": "nep-t181-v1",
+"language": "nep",
+"title": "शैतान"
 },
 "por": {
 "content_id": "por-t181-v1",
@@ -10487,6 +14778,11 @@
 "content_id": "spa-t181-v1",
 "language": "spa",
 "title": "devil"
+},
+"swh": {
+"content_id": "swh-t181-v1",
+"language": "swh",
+"title": "ibilisi"
 },
 "tpi": {
 "content_id": "tpi-t181-v1",
@@ -10527,10 +14823,25 @@
 "reference_id": 0,
 "index_reference": "proverb",
 "localizations": {
+"arb": {
+"content_id": "arb-t182-v1",
+"language": "arb",
+"title": "أمثال"
+},
 "fra": {
 "content_id": "fra-t182-v1",
 "language": "fra",
 "title": "proverbe"
+},
+"ind": {
+"content_id": "ind-t182-v1",
+"language": "ind",
+"title": "amsal"
+},
+"nep": {
+"content_id": "nep-t182-v1",
+"language": "nep",
+"title": "हितोपदेश"
 },
 "por": {
 "content_id": "por-t182-v1",
@@ -10542,10 +14853,20 @@
 "language": "spa",
 "title": "proverb"
 },
+"swh": {
+"content_id": "swh-t182-v1",
+"language": "swh",
+"title": "methali"
+},
 "tpi": {
 "content_id": "tpi-t182-v1",
 "language": "tpi",
 "title": "proverb"
+},
+"zht": {
+"content_id": "zht-t182-v1",
+"language": "zht",
+"title": "箴言"
 }
 }
 },
@@ -10571,10 +14892,30 @@
 "reference_id": 0,
 "index_reference": "house of god",
 "localizations": {
+"arb": {
+"content_id": "arb-t183-v1",
+"language": "arb",
+"title": "بيت الله"
+},
 "fra": {
 "content_id": "fra-t183-v1.0.1",
 "language": "fra",
 "title": "maison de Dieu"
+},
+"hin": {
+"content_id": "hin-t183-v1",
+"language": "hin",
+"title": "परमेश्वर का घर"
+},
+"ind": {
+"content_id": "ind-t183-v1",
+"language": "ind",
+"title": "bait Allah"
+},
+"nep": {
+"content_id": "nep-t183-v1",
+"language": "nep",
+"title": "परमेश्वरको घर"
 },
 "por": {
 "content_id": "por-t183-v1",
@@ -10585,6 +14926,11 @@
 "content_id": "spa-t183-v1",
 "language": "spa",
 "title": "house-of-god"
+},
+"swh": {
+"content_id": "swh-t183-v1",
+"language": "swh",
+"title": "nyumba ya Mungu"
 },
 "tpi": {
 "content_id": "tpi-t183-v1",
@@ -10625,10 +14971,30 @@
 "reference_id": 0,
 "index_reference": "tabernacle",
 "localizations": {
+"arb": {
+"content_id": "arb-t184-v1",
+"language": "arb",
+"title": "خيمة الاجتماع (المسكن)"
+},
 "fra": {
 "content_id": "fra-t184-v1.0.1",
 "language": "fra",
 "title": "tabernacle"
+},
+"hin": {
+"content_id": "hin-t184-v1",
+"language": "hin",
+"title": "मिलापवाला तम्बू"
+},
+"ind": {
+"content_id": "ind-t184-v1",
+"language": "ind",
+"title": "kemah suci"
+},
+"nep": {
+"content_id": "nep-t184-v1",
+"language": "nep",
+"title": "पबित्र बासस्थान"
 },
 "por": {
 "content_id": "por-t184-v1",
@@ -10639,6 +15005,11 @@
 "content_id": "spa-t184-v1",
 "language": "spa",
 "title": "tabernacle"
+},
+"swh": {
+"content_id": "swh-t184-v1",
+"language": "swh",
+"title": "hema"
 },
 "tpi": {
 "content_id": "tpi-t184-v1",
@@ -10679,10 +15050,25 @@
 "reference_id": 0,
 "index_reference": "fear of god",
 "localizations": {
+"arb": {
+"content_id": "arb-t185-v1",
+"language": "arb",
+"title": "مخافة الله (خوف الرب)"
+},
 "fra": {
 "content_id": "fra-t185-v1",
 "language": "fra",
 "title": "Crainte de Dieu"
+},
+"ind": {
+"content_id": "ind-t185-v1",
+"language": "ind",
+"title": "takut akan Allah"
+},
+"nep": {
+"content_id": "nep-t185-v1",
+"language": "nep",
+"title": "परमेश्वरको डर"
 },
 "por": {
 "content_id": "por-t185-v1",
@@ -10694,10 +15080,20 @@
 "language": "spa",
 "title": "fear-of-god"
 },
+"swh": {
+"content_id": "swh-t185-v1",
+"language": "swh",
+"title": "kumcha Mungu"
+},
 "tpi": {
 "content_id": "tpi-t185-v1",
 "language": "tpi",
 "title": "fear-of-god"
+},
+"zht": {
+"content_id": "zht-t185-v1",
+"language": "zht",
+"title": "敬畏神"
 }
 }
 },
@@ -10723,10 +15119,25 @@
 "reference_id": 0,
 "index_reference": "persecution",
 "localizations": {
+"arb": {
+"content_id": "arb-t186-v1",
+"language": "arb",
+"title": "اضطهاد"
+},
 "fra": {
 "content_id": "fra-t186-v1",
 "language": "fra",
 "title": "persécution"
+},
+"ind": {
+"content_id": "ind-t186-v1",
+"language": "ind",
+"title": "penganiayaan"
+},
+"nep": {
+"content_id": "nep-t186-v1",
+"language": "nep",
+"title": "सतावट"
 },
 "por": {
 "content_id": "por-t186-v1",
@@ -10738,10 +15149,20 @@
 "language": "spa",
 "title": "persecution"
 },
+"swh": {
+"content_id": "swh-t186-v1",
+"language": "swh",
+"title": "mateso"
+},
 "tpi": {
 "content_id": "tpi-t186-v1",
 "language": "tpi",
 "title": "persecution"
+},
+"zht": {
+"content_id": "zht-t186-v1",
+"language": "zht",
+"title": "迫害"
 }
 }
 },
@@ -10767,10 +15188,30 @@
 "reference_id": 0,
 "index_reference": "evil",
 "localizations": {
+"arb": {
+"content_id": "arb-t187-v1",
+"language": "arb",
+"title": "الشر"
+},
 "fra": {
 "content_id": "fra-t187-v1",
 "language": "fra",
 "title": "mal"
+},
+"hin": {
+"content_id": "hin-t187-v1",
+"language": "hin",
+"title": "बुराई"
+},
+"ind": {
+"content_id": "ind-t187-v1",
+"language": "ind",
+"title": "kejahatan jahat"
+},
+"nep": {
+"content_id": "nep-t187-v1",
+"language": "nep",
+"title": "दुष्ट"
 },
 "por": {
 "content_id": "por-t187-v1",
@@ -10781,6 +15222,11 @@
 "content_id": "spa-t187-v1",
 "language": "spa",
 "title": "evil"
+},
+"swh": {
+"content_id": "swh-t187-v1",
+"language": "swh",
+"title": "uovu"
 },
 "tpi": {
 "content_id": "tpi-t187-v1",
@@ -10821,10 +15267,25 @@
 "reference_id": 0,
 "index_reference": "saint",
 "localizations": {
+"arb": {
+"content_id": "arb-t188-v1",
+"language": "arb",
+"title": "قديس"
+},
 "fra": {
 "content_id": "fra-t188-v1",
 "language": "fra",
 "title": "saint"
+},
+"ind": {
+"content_id": "ind-t188-v1",
+"language": "ind",
+"title": "orang kudus"
+},
+"nep": {
+"content_id": "nep-t188-v1",
+"language": "nep",
+"title": "सन्त"
 },
 "por": {
 "content_id": "por-t188-v1",
@@ -10836,10 +15297,20 @@
 "language": "spa",
 "title": "saint"
 },
+"swh": {
+"content_id": "swh-t188-v1",
+"language": "swh",
+"title": "mtakatifu"
+},
 "tpi": {
 "content_id": "tpi-t188-v1",
 "language": "tpi",
 "title": "saint"
+},
+"zht": {
+"content_id": "zht-t188-v1",
+"language": "zht",
+"title": "聖徒"
 }
 }
 },
@@ -10865,10 +15336,30 @@
 "reference_id": 0,
 "index_reference": "god",
 "localizations": {
+"arb": {
+"content_id": "arb-t189-v1",
+"language": "arb",
+"title": "الله"
+},
 "fra": {
 "content_id": "fra-t189-v1",
 "language": "fra",
 "title": "Dieu"
+},
+"hin": {
+"content_id": "hin-t189-v1",
+"language": "hin",
+"title": "परमेश्वर"
+},
+"ind": {
+"content_id": "ind-t189-v1",
+"language": "ind",
+"title": "Allah"
+},
+"nep": {
+"content_id": "nep-t189-v1",
+"language": "nep",
+"title": "परमेश्वर"
 },
 "por": {
 "content_id": "por-t189-v1",
@@ -10879,6 +15370,11 @@
 "content_id": "spa-t189-v1",
 "language": "spa",
 "title": "god"
+},
+"swh": {
+"content_id": "swh-t189-v1",
+"language": "swh",
+"title": "Mungu"
 },
 "tpi": {
 "content_id": "tpi-t189-v1",
@@ -10919,10 +15415,25 @@
 "reference_id": 0,
 "index_reference": "hebron",
 "localizations": {
+"arb": {
+"content_id": "arb-t191-v1",
+"language": "arb",
+"title": "حبرون"
+},
 "fra": {
 "content_id": "fra-t191-v1",
 "language": "fra",
 "title": "Hébron"
+},
+"ind": {
+"content_id": "ind-t191-v1",
+"language": "ind",
+"title": "Hebron"
+},
+"nep": {
+"content_id": "nep-t191-v1",
+"language": "nep",
+"title": "हेब्रोन"
 },
 "por": {
 "content_id": "por-t191-v1",
@@ -10934,10 +15445,20 @@
 "language": "spa",
 "title": "hebron"
 },
+"swh": {
+"content_id": "swh-t191-v1",
+"language": "swh",
+"title": "Hebroni"
+},
 "tpi": {
 "content_id": "tpi-t191-v1",
 "language": "tpi",
 "title": "hebron"
+},
+"zht": {
+"content_id": "zht-t191-v1",
+"language": "zht",
+"title": "希伯倫"
 }
 }
 },
@@ -10963,10 +15484,25 @@
 "reference_id": 0,
 "index_reference": "foreigner",
 "localizations": {
+"arb": {
+"content_id": "arb-t192-v1",
+"language": "arb",
+"title": "أجنبي (غريب)"
+},
 "fra": {
 "content_id": "fra-t192-v1",
 "language": "fra",
 "title": "Étranger"
+},
+"ind": {
+"content_id": "ind-t192-v1",
+"language": "ind",
+"title": "orang asing"
+},
+"nep": {
+"content_id": "nep-t192-v1",
+"language": "nep",
+"title": "विदेशी"
 },
 "por": {
 "content_id": "por-t192-v1",
@@ -10978,10 +15514,20 @@
 "language": "spa",
 "title": "foreigner"
 },
+"swh": {
+"content_id": "swh-t192-v1",
+"language": "swh",
+"title": "mgeni"
+},
 "tpi": {
 "content_id": "tpi-t192-v1",
 "language": "tpi",
 "title": "foreigner"
+},
+"zht": {
+"content_id": "zht-t192-v1",
+"language": "zht",
+"title": "外人、外國人、外族人"
 }
 }
 },
@@ -11007,10 +15553,25 @@
 "reference_id": 0,
 "index_reference": "sojourner",
 "localizations": {
+"arb": {
+"content_id": "arb-t193-v1",
+"language": "arb",
+"title": "النزيل"
+},
 "fra": {
 "content_id": "fra-t193-v1",
 "language": "fra",
 "title": "voyager"
+},
+"ind": {
+"content_id": "ind-t193-v1",
+"language": "ind",
+"title": "orang asing"
+},
+"nep": {
+"content_id": "nep-t193-v1",
+"language": "nep",
+"title": "प्रवासी"
 },
 "por": {
 "content_id": "por-t193-v1",
@@ -11022,10 +15583,20 @@
 "language": "spa",
 "title": "sojourner"
 },
+"swh": {
+"content_id": "swh-t193-v1",
+"language": "swh",
+"title": "mgeni"
+},
 "tpi": {
 "content_id": "tpi-t193-v1",
 "language": "tpi",
 "title": "sojourner"
+},
+"zht": {
+"content_id": "zht-t193-v1",
+"language": "zht",
+"title": "寄居者"
 }
 }
 },
@@ -11051,10 +15622,30 @@
 "reference_id": 0,
 "index_reference": "offering",
 "localizations": {
+"arb": {
+"content_id": "arb-t194-v1",
+"language": "arb",
+"title": "قُربان (تقدمة)"
+},
 "fra": {
 "content_id": "fra-t194-v1",
 "language": "fra",
 "title": "offrande"
+},
+"hin": {
+"content_id": "hin-t194-v1",
+"language": "hin",
+"title": "भेंट"
+},
+"ind": {
+"content_id": "ind-t194-v1",
+"language": "ind",
+"title": "persembahan"
+},
+"nep": {
+"content_id": "nep-t194-v1",
+"language": "nep",
+"title": "भेटी"
 },
 "por": {
 "content_id": "por-t194-v1",
@@ -11070,6 +15661,11 @@
 "content_id": "spa-t194-v1",
 "language": "spa",
 "title": "offering"
+},
+"swh": {
+"content_id": "swh-t194-v1",
+"language": "swh",
+"title": "sadaka"
 },
 "tpi": {
 "content_id": "tpi-t194-v1",
@@ -11115,10 +15711,25 @@
 "reference_id": 0,
 "index_reference": "commander",
 "localizations": {
+"arb": {
+"content_id": "arb-t195-v1",
+"language": "arb",
+"title": "قائد (عسكري)"
+},
 "fra": {
 "content_id": "fra-t195-v1",
 "language": "fra",
 "title": "commandant"
+},
+"ind": {
+"content_id": "ind-t195-v1",
+"language": "ind",
+"title": "komandan"
+},
+"nep": {
+"content_id": "nep-t195-v1",
+"language": "nep",
+"title": "सेनापति"
 },
 "por": {
 "content_id": "por-t195-v1",
@@ -11130,10 +15741,20 @@
 "language": "spa",
 "title": "commander"
 },
+"swh": {
+"content_id": "swh-t195-v1",
+"language": "swh",
+"title": "kamanda"
+},
 "tpi": {
 "content_id": "tpi-t195-v1",
 "language": "tpi",
 "title": "commander"
+},
+"zht": {
+"content_id": "zht-t195-v1",
+"language": "zht",
+"title": "軍長、將軍、元帥"
 }
 }
 },
@@ -11159,10 +15780,25 @@
 "reference_id": 0,
 "index_reference": "hades",
 "localizations": {
+"arb": {
+"content_id": "arb-t196-v1",
+"language": "arb",
+"title": "الجحيم (هاديس)"
+},
 "fra": {
 "content_id": "fra-t196-v1",
 "language": "fra",
 "title": "hadès"
+},
+"ind": {
+"content_id": "ind-t196-v1",
+"language": "ind",
+"title": "dunia orang mati"
+},
+"nep": {
+"content_id": "nep-t196-v1",
+"language": "nep",
+"title": "पाताल"
 },
 "por": {
 "content_id": "por-t196-v1",
@@ -11174,10 +15810,20 @@
 "language": "spa",
 "title": "hades"
 },
+"swh": {
+"content_id": "swh-t196-v1",
+"language": "swh",
+"title": "kuzimu"
+},
 "tpi": {
 "content_id": "tpi-t196-v1",
 "language": "tpi",
 "title": "hades"
+},
+"zht": {
+"content_id": "zht-t196-v1",
+"language": "zht",
+"title": "陰間"
 }
 }
 },
@@ -11203,10 +15849,25 @@
 "reference_id": 0,
 "index_reference": "angel of the lord",
 "localizations": {
+"arb": {
+"content_id": "arb-t197-v1",
+"language": "arb",
+"title": "ملاك الرب"
+},
 "fra": {
 "content_id": "fra-t197-v1",
 "language": "fra",
 "title": "l'ange du Seigneur"
+},
+"ind": {
+"content_id": "ind-t197-v1",
+"language": "ind",
+"title": "malaikat Tuhan"
+},
+"nep": {
+"content_id": "nep-t197-v1",
+"language": "nep",
+"title": "प्रभुको स्वर्गदूत"
 },
 "por": {
 "content_id": "por-t197-v1",
@@ -11218,10 +15879,20 @@
 "language": "spa",
 "title": "angel-of-the-lord"
 },
+"swh": {
+"content_id": "swh-t197-v1",
+"language": "swh",
+"title": "malaika wa Bwana"
+},
 "tpi": {
 "content_id": "tpi-t197-v1",
 "language": "tpi",
 "title": "angel-of-the-lord"
+},
+"zht": {
+"content_id": "zht-t197-v1",
+"language": "zht",
+"title": "耶和華的使者"
 }
 }
 },
@@ -11247,10 +15918,25 @@
 "reference_id": 0,
 "index_reference": "yoke",
 "localizations": {
+"arb": {
+"content_id": "arb-t198-v1",
+"language": "arb",
+"title": "نير"
+},
 "fra": {
 "content_id": "fra-t198-v1",
 "language": "fra",
 "title": "fardeau"
+},
+"ind": {
+"content_id": "ind-t198-v1",
+"language": "ind",
+"title": "kuk"
+},
+"nep": {
+"content_id": "nep-t198-v1",
+"language": "nep",
+"title": "जुवा"
 },
 "por": {
 "content_id": "por-t198-v1",
@@ -11262,10 +15948,20 @@
 "language": "spa",
 "title": "yoke"
 },
+"swh": {
+"content_id": "swh-t198-v1",
+"language": "swh",
+"title": "nira"
+},
 "tpi": {
 "content_id": "tpi-t198-v1",
 "language": "tpi",
 "title": "yoke"
+},
+"zht": {
+"content_id": "zht-t198-v1",
+"language": "zht",
+"title": "軛"
 }
 }
 },
@@ -11291,10 +15987,30 @@
 "reference_id": 0,
 "index_reference": "glorify",
 "localizations": {
+"arb": {
+"content_id": "arb-t199-v1",
+"language": "arb",
+"title": "تمجيد"
+},
 "fra": {
 "content_id": "fra-t199-v1",
 "language": "fra",
 "title": "glorifier"
+},
+"hin": {
+"content_id": "hin-t199-v1",
+"language": "hin",
+"title": "महिमा करना"
+},
+"ind": {
+"content_id": "ind-t199-v1",
+"language": "ind",
+"title": "memuliakan"
+},
+"nep": {
+"content_id": "nep-t199-v1",
+"language": "nep",
+"title": "महिमा दिनु"
 },
 "por": {
 "content_id": "por-t199-v1",
@@ -11305,6 +16021,11 @@
 "content_id": "spa-t199-v1",
 "language": "spa",
 "title": "glorify"
+},
+"swh": {
+"content_id": "swh-t199-v1",
+"language": "swh",
+"title": "kumtukuza"
 },
 "tpi": {
 "content_id": "tpi-t199-v1",
@@ -11345,10 +16066,30 @@
 "reference_id": 0,
 "index_reference": "prophecy",
 "localizations": {
+"arb": {
+"content_id": "arb-t200-v1",
+"language": "arb",
+"title": "النبوَّة"
+},
 "fra": {
 "content_id": "fra-t200-v1",
 "language": "fra",
 "title": "prophétie"
+},
+"hin": {
+"content_id": "hin-t200-v1",
+"language": "hin",
+"title": "भविष्यवाणी"
+},
+"ind": {
+"content_id": "ind-t200-v1",
+"language": "ind",
+"title": "nubuat"
+},
+"nep": {
+"content_id": "nep-t200-v1",
+"language": "nep",
+"title": "अगमवाणी"
 },
 "por": {
 "content_id": "por-t200-v1",
@@ -11359,6 +16100,11 @@
 "content_id": "spa-t200-v1",
 "language": "spa",
 "title": "prophecy"
+},
+"swh": {
+"content_id": "swh-t200-v1",
+"language": "swh",
+"title": "unabii"
 },
 "tpi": {
 "content_id": "tpi-t200-v1",
@@ -11399,10 +16145,25 @@
 "reference_id": 0,
 "index_reference": "vow",
 "localizations": {
+"arb": {
+"content_id": "arb-t201-v1",
+"language": "arb",
+"title": "نذر"
+},
 "fra": {
 "content_id": "fra-t201-v1",
 "language": "fra",
 "title": "vœu"
+},
+"ind": {
+"content_id": "ind-t201-v1",
+"language": "ind",
+"title": "sumpah"
+},
+"nep": {
+"content_id": "nep-t201-v1",
+"language": "nep",
+"title": "भाकल"
 },
 "por": {
 "content_id": "por-t201-v1",
@@ -11414,10 +16175,20 @@
 "language": "spa",
 "title": "vow"
 },
+"swh": {
+"content_id": "swh-t201-v1",
+"language": "swh",
+"title": "nadhiri"
+},
 "tpi": {
 "content_id": "tpi-t201-v1",
 "language": "tpi",
 "title": "vow"
+},
+"zht": {
+"content_id": "zht-t201-v1",
+"language": "zht",
+"title": "許願、誓言"
 }
 }
 },
@@ -11443,10 +16214,25 @@
 "reference_id": 0,
 "index_reference": "dream",
 "localizations": {
+"arb": {
+"content_id": "arb-t202-v1",
+"language": "arb",
+"title": "الحُلم"
+},
 "fra": {
 "content_id": "fra-t202-v1",
 "language": "fra",
 "title": "Rêve"
+},
+"ind": {
+"content_id": "ind-t202-v1",
+"language": "ind",
+"title": "mimpi"
+},
+"nep": {
+"content_id": "nep-t202-v1",
+"language": "nep",
+"title": "सपना"
 },
 "por": {
 "content_id": "por-t202-v1",
@@ -11458,10 +16244,20 @@
 "language": "spa",
 "title": "dream"
 },
+"swh": {
+"content_id": "swh-t202-v1",
+"language": "swh",
+"title": "ndoto"
+},
 "tpi": {
 "content_id": "tpi-t202-v1",
 "language": "tpi",
 "title": "dream"
+},
+"zht": {
+"content_id": "zht-t202-v1",
+"language": "zht",
+"title": "夢"
 }
 }
 },
@@ -11487,10 +16283,25 @@
 "reference_id": 0,
 "index_reference": "divination",
 "localizations": {
+"arb": {
+"content_id": "arb-t203-v1",
+"language": "arb",
+"title": "العِرافة"
+},
 "fra": {
 "content_id": "fra-t203-v1",
 "language": "fra",
 "title": "Divination"
+},
+"ind": {
+"content_id": "ind-t203-v1",
+"language": "ind",
+"title": "ramalan"
+},
+"nep": {
+"content_id": "nep-t203-v1",
+"language": "nep",
+"title": "जोखाना"
 },
 "por": {
 "content_id": "por-t203-v1",
@@ -11502,10 +16313,20 @@
 "language": "spa",
 "title": "divination"
 },
+"swh": {
+"content_id": "swh-t203-v1",
+"language": "swh",
+"title": "utabiri"
+},
 "tpi": {
 "content_id": "tpi-t203-v1",
 "language": "tpi",
 "title": "divination"
+},
+"zht": {
+"content_id": "zht-t203-v1",
+"language": "zht",
+"title": "占卜"
 }
 }
 },
@@ -11531,10 +16352,25 @@
 "reference_id": 0,
 "index_reference": "zion",
 "localizations": {
+"arb": {
+"content_id": "arb-t204-v1",
+"language": "arb",
+"title": "صهيون"
+},
 "fra": {
 "content_id": "fra-t204-v1",
 "language": "fra",
 "title": "Sion"
+},
+"ind": {
+"content_id": "ind-t204-v1",
+"language": "ind",
+"title": "Sion"
+},
+"nep": {
+"content_id": "nep-t204-v1",
+"language": "nep",
+"title": "सियोन"
 },
 "por": {
 "content_id": "por-t204-v1",
@@ -11546,10 +16382,20 @@
 "language": "spa",
 "title": "zion"
 },
+"swh": {
+"content_id": "swh-t204-v1",
+"language": "swh",
+"title": "Sayuni"
+},
 "tpi": {
 "content_id": "tpi-t204-v1",
 "language": "tpi",
 "title": "zion"
+},
+"zht": {
+"content_id": "zht-t204-v1",
+"language": "zht",
+"title": "錫安"
 }
 }
 },
@@ -11575,10 +16421,30 @@
 "reference_id": 0,
 "index_reference": "compassion",
 "localizations": {
+"arb": {
+"content_id": "arb-t205-v1",
+"language": "arb",
+"title": "رأفة"
+},
 "fra": {
 "content_id": "fra-t205-v1.0.1",
 "language": "fra",
 "title": "compassion"
+},
+"hin": {
+"content_id": "hin-t205-v1",
+"language": "hin",
+"title": "करुणा"
+},
+"ind": {
+"content_id": "ind-t205-v1",
+"language": "ind",
+"title": "belas kasihan"
+},
+"nep": {
+"content_id": "nep-t205-v1",
+"language": "nep",
+"title": "दया"
 },
 "por": {
 "content_id": "por-t205-v1",
@@ -11594,6 +16460,11 @@
 "content_id": "spa-t205-v1",
 "language": "spa",
 "title": "compassion"
+},
+"swh": {
+"content_id": "swh-t205-v1",
+"language": "swh",
+"title": "huruma"
 },
 "tpi": {
 "content_id": "tpi-t205-v1",
@@ -11639,10 +16510,25 @@
 "reference_id": 0,
 "index_reference": "elshaddai",
 "localizations": {
+"arb": {
+"content_id": "arb-t207-v1",
+"language": "arb",
+"title": "إيل شدَّاي"
+},
 "fra": {
 "content_id": "fra-t207-v1",
 "language": "fra",
 "title": "El-Shaddaï"
+},
+"ind": {
+"content_id": "ind-t207-v1",
+"language": "ind",
+"title": "El-Shaddai"
+},
+"nep": {
+"content_id": "nep-t207-v1",
+"language": "nep",
+"title": "एल-शद्दाई"
 },
 "por": {
 "content_id": "por-t207-v1",
@@ -11654,10 +16540,20 @@
 "language": "spa",
 "title": "el-shaddai"
 },
+"swh": {
+"content_id": "swh-t207-v1",
+"language": "swh",
+"title": "el-shaddai"
+},
 "tpi": {
 "content_id": "tpi-t207-v1",
 "language": "tpi",
 "title": "el-shaddai"
+},
+"zht": {
+"content_id": "zht-t207-v1",
+"language": "zht",
+"title": "全能的神"
 }
 }
 },
@@ -11683,10 +16579,25 @@
 "reference_id": 0,
 "index_reference": "purify",
 "localizations": {
+"arb": {
+"content_id": "arb-t208-v1",
+"language": "arb",
+"title": "يُطهِّر"
+},
 "fra": {
 "content_id": "fra-t208-v1",
 "language": "fra",
 "title": "purifier"
+},
+"ind": {
+"content_id": "ind-t208-v1",
+"language": "ind",
+"title": "menyucikan, mentahirkan"
+},
+"nep": {
+"content_id": "nep-t208-v1",
+"language": "nep",
+"title": "शुद्ध पार्नु"
 },
 "por": {
 "content_id": "por-t208-v1",
@@ -11698,10 +16609,20 @@
 "language": "spa",
 "title": "purify"
 },
+"swh": {
+"content_id": "swh-t208-v1",
+"language": "swh",
+"title": "kutakasa"
+},
 "tpi": {
 "content_id": "tpi-t208-v1",
 "language": "tpi",
 "title": "purify"
+},
+"zht": {
+"content_id": "zht-t208-v1",
+"language": "zht",
+"title": "潔淨"
 }
 }
 },
@@ -11727,10 +16648,25 @@
 "reference_id": 0,
 "index_reference": "elelyon",
 "localizations": {
+"arb": {
+"content_id": "arb-t209-v1",
+"language": "arb",
+"title": "إيل عليون"
+},
 "fra": {
 "content_id": "fra-t209-v1",
 "language": "fra",
 "title": "El-Elyon"
+},
+"ind": {
+"content_id": "ind-t209-v1",
+"language": "ind",
+"title": "el-elyon"
+},
+"nep": {
+"content_id": "nep-t209-v1",
+"language": "nep",
+"title": "एल-एल्योन"
 },
 "por": {
 "content_id": "por-t209-v1",
@@ -11742,10 +16678,20 @@
 "language": "spa",
 "title": "el-elyon"
 },
+"swh": {
+"content_id": "swh-t209-v1",
+"language": "swh",
+"title": "elyon"
+},
 "tpi": {
 "content_id": "tpi-t209-v1",
 "language": "tpi",
 "title": "el-elyon"
+},
+"zht": {
+"content_id": "zht-t209-v1",
+"language": "zht",
+"title": "至高的神"
 }
 }
 },
@@ -11771,10 +16717,25 @@
 "reference_id": 0,
 "index_reference": "elroi",
 "localizations": {
+"arb": {
+"content_id": "arb-t210-v1",
+"language": "arb",
+"title": "إيل رُئِي"
+},
 "fra": {
 "content_id": "fra-t210-v1",
 "language": "fra",
 "title": "El-roï"
+},
+"ind": {
+"content_id": "ind-t210-v1",
+"language": "ind",
+"title": "El-Roi"
+},
+"nep": {
+"content_id": "nep-t210-v1",
+"language": "nep",
+"title": "एल-रोइ"
 },
 "por": {
 "content_id": "por-t210-v1",
@@ -11786,10 +16747,20 @@
 "language": "spa",
 "title": "el-roi"
 },
+"swh": {
+"content_id": "swh-t210-v1",
+"language": "swh",
+"title": "eloi"
+},
 "tpi": {
 "content_id": "tpi-t210-v1",
 "language": "tpi",
 "title": "el-roi"
+},
+"zht": {
+"content_id": "zht-t210-v1",
+"language": "zht",
+"title": "看顧人的神"
 }
 }
 },
@@ -11815,10 +16786,30 @@
 "reference_id": 0,
 "index_reference": "greeks",
 "localizations": {
+"arb": {
+"content_id": "arb-t211-v1",
+"language": "arb",
+"title": "يونانيون"
+},
 "fra": {
 "content_id": "fra-t211-v1",
 "language": "fra",
 "title": "Grecs"
+},
+"hin": {
+"content_id": "hin-t211-v1",
+"language": "hin",
+"title": "यूनानी"
+},
+"ind": {
+"content_id": "ind-t211-v1",
+"language": "ind",
+"title": "orang-orang Yunani"
+},
+"nep": {
+"content_id": "nep-t211-v1",
+"language": "nep",
+"title": "ग्रीकहरू"
 },
 "por": {
 "content_id": "por-t211-v1",
@@ -11829,6 +16820,11 @@
 "content_id": "spa-t211-v1",
 "language": "spa",
 "title": "greeks"
+},
+"swh": {
+"content_id": "swh-t211-v1",
+"language": "swh",
+"title": "Kigiriki"
 },
 "tpi": {
 "content_id": "tpi-t211-v1",
@@ -11869,10 +16865,25 @@
 "reference_id": 0,
 "index_reference": "anoint",
 "localizations": {
+"arb": {
+"content_id": "arb-t212-v1",
+"language": "arb",
+"title": "يمسح (يدهن)"
+},
 "fra": {
 "content_id": "fra-t212-v1",
 "language": "fra",
 "title": "oindre"
+},
+"ind": {
+"content_id": "ind-t212-v1",
+"language": "ind",
+"title": "mengurapi"
+},
+"nep": {
+"content_id": "nep-t212-v1",
+"language": "nep",
+"title": "अभिषेक"
 },
 "por": {
 "content_id": "por-t212-v1",
@@ -11884,10 +16895,20 @@
 "language": "spa",
 "title": "anoint"
 },
+"swh": {
+"content_id": "swh-t212-v1",
+"language": "swh",
+"title": "mafuta"
+},
 "tpi": {
 "content_id": "tpi-t212-v1",
 "language": "tpi",
 "title": "anoint"
+},
+"zht": {
+"content_id": "zht-t212-v1",
+"language": "zht",
+"title": "膏抹"
 }
 }
 },
@@ -11913,10 +16934,30 @@
 "reference_id": 0,
 "index_reference": "tongues",
 "localizations": {
+"arb": {
+"content_id": "arb-t213-v1",
+"language": "arb",
+"title": "ألسنة"
+},
 "fra": {
 "content_id": "fra-t213-v1",
 "language": "fra",
 "title": "langue(s)"
+},
+"hin": {
+"content_id": "hin-t213-v1",
+"language": "hin",
+"title": "अन्य भाषाएँ"
+},
+"ind": {
+"content_id": "ind-t213-v1",
+"language": "ind",
+"title": "bahasa lidah"
+},
+"nep": {
+"content_id": "nep-t213-v1",
+"language": "nep",
+"title": "अन्य भाषाहरू"
 },
 "por": {
 "content_id": "por-t213-v1",
@@ -11927,6 +16968,11 @@
 "content_id": "spa-t213-v1",
 "language": "spa",
 "title": "tongues"
+},
+"swh": {
+"content_id": "swh-t213-v1",
+"language": "swh",
+"title": "lugha"
 },
 "tpi": {
 "content_id": "tpi-t213-v1",
@@ -11967,10 +17013,25 @@
 "reference_id": 0,
 "index_reference": "lawlessness",
 "localizations": {
+"arb": {
+"content_id": "arb-t214-v1",
+"language": "arb",
+"title": "الإثم (التعدي)"
+},
 "fra": {
 "content_id": "fra-t214-v1",
 "language": "fra",
-"title": "iniquité "
+"title": "iniquité"
+},
+"ind": {
+"content_id": "ind-t214-v1",
+"language": "ind",
+"title": "kedurhakaan"
+},
+"nep": {
+"content_id": "nep-t214-v1",
+"language": "nep",
+"title": "अराजकता"
 },
 "por": {
 "content_id": "por-t214-v1",
@@ -11982,10 +17043,20 @@
 "language": "spa",
 "title": "lawlessness"
 },
+"swh": {
+"content_id": "swh-t214-v1",
+"language": "swh",
+"title": "uasi"
+},
 "tpi": {
 "content_id": "tpi-t214-v1",
 "language": "tpi",
 "title": "lawlessness"
+},
+"zht": {
+"content_id": "zht-t214-v1",
+"language": "zht",
+"title": "不法"
 }
 }
 },
@@ -12011,10 +17082,30 @@
 "reference_id": 0,
 "index_reference": "wickedness",
 "localizations": {
+"arb": {
+"content_id": "arb-t215-v1",
+"language": "arb",
+"title": "الإثم"
+},
 "fra": {
 "content_id": "fra-t215-v1",
 "language": "fra",
 "title": "méchanceté ou impiété"
+},
+"hin": {
+"content_id": "hin-t215-v1",
+"language": "hin",
+"title": "दुष्टता"
+},
+"ind": {
+"content_id": "ind-t215-v1",
+"language": "ind",
+"title": "kejahatan"
+},
+"nep": {
+"content_id": "nep-t215-v1",
+"language": "nep",
+"title": "दुष्टता"
 },
 "por": {
 "content_id": "por-t215-v1",
@@ -12025,6 +17116,11 @@
 "content_id": "spa-t215-v1",
 "language": "spa",
 "title": "wickedness"
+},
+"swh": {
+"content_id": "swh-t215-v1",
+"language": "swh",
+"title": "ubaya"
 },
 "tpi": {
 "content_id": "tpi-t215-v1",
@@ -12065,10 +17161,25 @@
 "reference_id": 0,
 "index_reference": "sheol",
 "localizations": {
+"arb": {
+"content_id": "arb-t216-v1",
+"language": "arb",
+"title": "الهاوية (شيول)"
+},
 "fra": {
 "content_id": "fra-t216-v1",
 "language": "fra",
 "title": "Enfer"
+},
+"ind": {
+"content_id": "ind-t216-v1",
+"language": "ind",
+"title": "dunia orang mati"
+},
+"nep": {
+"content_id": "nep-t216-v1",
+"language": "nep",
+"title": "पाताल"
 },
 "por": {
 "content_id": "por-t216-v1",
@@ -12080,10 +17191,20 @@
 "language": "spa",
 "title": "sheol"
 },
+"swh": {
+"content_id": "swh-t216-v1",
+"language": "swh",
+"title": "Sheoli"
+},
 "tpi": {
 "content_id": "tpi-t216-v1",
 "language": "tpi",
 "title": "sheol"
+},
+"zht": {
+"content_id": "zht-t216-v1",
+"language": "zht",
+"title": "陰間"
 }
 }
 },
@@ -12109,10 +17230,25 @@
 "reference_id": 0,
 "index_reference": "magician",
 "localizations": {
+"arb": {
+"content_id": "arb-t217-v1",
+"language": "arb",
+"title": "ساحر"
+},
 "fra": {
 "content_id": "fra-t217-v1",
 "language": "fra",
 "title": "magicien"
+},
+"ind": {
+"content_id": "ind-t217-v1",
+"language": "ind",
+"title": "Tukang sihir"
+},
+"nep": {
+"content_id": "nep-t217-v1",
+"language": "nep",
+"title": "जादूगर"
 },
 "por": {
 "content_id": "por-t217-v1",
@@ -12124,10 +17260,20 @@
 "language": "spa",
 "title": "magician"
 },
+"swh": {
+"content_id": "swh-t217-v1",
+"language": "swh",
+"title": "mchawi"
+},
 "tpi": {
 "content_id": "tpi-t217-v1",
 "language": "tpi",
 "title": "magician"
+},
+"zht": {
+"content_id": "zht-t217-v1",
+"language": "zht",
+"title": "術士、行法術的人"
 }
 }
 },
@@ -12153,10 +17299,25 @@
 "reference_id": 0,
 "index_reference": "blood",
 "localizations": {
+"arb": {
+"content_id": "arb-t218-v1",
+"language": "arb",
+"title": "دم"
+},
 "fra": {
 "content_id": "fra-t218-v1",
 "language": "fra",
 "title": "sang"
+},
+"ind": {
+"content_id": "ind-t218-v1",
+"language": "ind",
+"title": "darah"
+},
+"nep": {
+"content_id": "nep-t218-v1",
+"language": "nep",
+"title": "रगत"
 },
 "por": {
 "content_id": "por-t218-v1",
@@ -12168,10 +17329,20 @@
 "language": "spa",
 "title": "blood"
 },
+"swh": {
+"content_id": "swh-t218-v1",
+"language": "swh",
+"title": "damu"
+},
 "tpi": {
 "content_id": "tpi-t218-v1",
 "language": "tpi",
 "title": "blood"
+},
+"zht": {
+"content_id": "zht-t218-v1",
+"language": "zht",
+"title": "血"
 }
 }
 },
@@ -12197,10 +17368,25 @@
 "reference_id": 0,
 "index_reference": "praise",
 "localizations": {
+"arb": {
+"content_id": "arb-t219-v1",
+"language": "arb",
+"title": "تسبيح"
+},
 "fra": {
 "content_id": "fra-t219-v1",
 "language": "fra",
 "title": "louange"
+},
+"ind": {
+"content_id": "ind-t219-v1",
+"language": "ind",
+"title": "pujian"
+},
+"nep": {
+"content_id": "nep-t219-v1",
+"language": "nep",
+"title": "प्रशंसा"
 },
 "por": {
 "content_id": "por-t219-v1",
@@ -12212,10 +17398,20 @@
 "language": "spa",
 "title": "praise"
 },
+"swh": {
+"content_id": "swh-t219-v1",
+"language": "swh",
+"title": "sifa"
+},
 "tpi": {
 "content_id": "tpi-t219-v1",
 "language": "tpi",
 "title": "praise"
+},
+"zht": {
+"content_id": "zht-t219-v1",
+"language": "zht",
+"title": "讚美"
 }
 }
 },
@@ -12241,10 +17437,25 @@
 "reference_id": 0,
 "index_reference": "drachma",
 "localizations": {
+"arb": {
+"content_id": "arb-t220-v1",
+"language": "arb",
+"title": "درهم"
+},
 "fra": {
 "content_id": "fra-t220-v1",
 "language": "fra",
 "title": "Drachme"
+},
+"ind": {
+"content_id": "ind-t220-v1",
+"language": "ind",
+"title": "drakhma"
+},
+"nep": {
+"content_id": "nep-t220-v1",
+"language": "nep",
+"title": "ड्राक्मा"
 },
 "por": {
 "content_id": "por-t220-v1",
@@ -12256,10 +17467,20 @@
 "language": "spa",
 "title": "drachma"
 },
+"swh": {
+"content_id": "swh-t220-v1",
+"language": "swh",
+"title": "drakma"
+},
 "tpi": {
 "content_id": "tpi-t220-v1",
 "language": "tpi",
 "title": "drachma"
+},
+"zht": {
+"content_id": "zht-t220-v1",
+"language": "zht",
+"title": "德拉克馬"
 }
 }
 },
@@ -12285,10 +17506,25 @@
 "reference_id": 0,
 "index_reference": "samaria",
 "localizations": {
+"arb": {
+"content_id": "arb-t221-v1",
+"language": "arb",
+"title": "السامرة"
+},
 "fra": {
 "content_id": "fra-t221-v1",
 "language": "fra",
 "title": "Samarie"
+},
+"ind": {
+"content_id": "ind-t221-v1",
+"language": "ind",
+"title": "Samaria"
+},
+"nep": {
+"content_id": "nep-t221-v1",
+"language": "nep",
+"title": "सामरिया"
 },
 "por": {
 "content_id": "por-t221-v1",
@@ -12300,10 +17536,20 @@
 "language": "spa",
 "title": "samaria"
 },
+"swh": {
+"content_id": "swh-t221-v1",
+"language": "swh",
+"title": "Samaria"
+},
 "tpi": {
 "content_id": "tpi-t221-v1",
 "language": "tpi",
 "title": "samaria"
+},
+"zht": {
+"content_id": "zht-t221-v1",
+"language": "zht",
+"title": "撒馬利亞"
 }
 }
 },
@@ -12329,10 +17575,25 @@
 "reference_id": 0,
 "index_reference": "image of god",
 "localizations": {
+"arb": {
+"content_id": "arb-t222-v1",
+"language": "arb",
+"title": "صورة الله"
+},
 "fra": {
 "content_id": "fra-t222-v1",
 "language": "fra",
 "title": "image de Dieu"
+},
+"ind": {
+"content_id": "ind-t222-v1",
+"language": "ind",
+"title": "gambar Allah"
+},
+"nep": {
+"content_id": "nep-t222-v1",
+"language": "nep",
+"title": "परमेश्वरको प्रतिरुप"
 },
 "por": {
 "content_id": "por-t222-v1",
@@ -12344,10 +17605,20 @@
 "language": "spa",
 "title": "image-of-god"
 },
+"swh": {
+"content_id": "swh-t222-v1",
+"language": "swh",
+"title": "picha ya Mungu"
+},
 "tpi": {
 "content_id": "tpi-t222-v1",
 "language": "tpi",
 "title": "image-of-god"
+},
+"zht": {
+"content_id": "zht-t222-v1",
+"language": "zht",
+"title": "神的形像"
 }
 }
 },
@@ -12373,10 +17644,25 @@
 "reference_id": 0,
 "index_reference": "tithe",
 "localizations": {
+"arb": {
+"content_id": "arb-t223-v1",
+"language": "arb",
+"title": "عشور"
+},
 "fra": {
 "content_id": "fra-t223-v1",
 "language": "fra",
 "title": "la dîme"
+},
+"ind": {
+"content_id": "ind-t223-v1",
+"language": "ind",
+"title": "persepuluhan"
+},
+"nep": {
+"content_id": "nep-t223-v1",
+"language": "nep",
+"title": "दशांश"
 },
 "por": {
 "content_id": "por-t223-v1",
@@ -12388,10 +17674,20 @@
 "language": "spa",
 "title": "tithe"
 },
+"swh": {
+"content_id": "swh-t223-v1",
+"language": "swh",
+"title": "zaka"
+},
 "tpi": {
 "content_id": "tpi-t223-v1",
 "language": "tpi",
 "title": "tithe"
+},
+"zht": {
+"content_id": "zht-t223-v1",
+"language": "zht",
+"title": "十一奉獻"
 }
 }
 },
@@ -12417,10 +17713,25 @@
 "reference_id": 0,
 "index_reference": "justice",
 "localizations": {
+"arb": {
+"content_id": "arb-t224-v1",
+"language": "arb",
+"title": "العدل"
+},
 "fra": {
 "content_id": "fra-t224-v1",
 "language": "fra",
 "title": "justice"
+},
+"ind": {
+"content_id": "ind-t224-v1",
+"language": "ind",
+"title": "keadilan"
+},
+"nep": {
+"content_id": "nep-t224-v1",
+"language": "nep",
+"title": "न्याय"
 },
 "por": {
 "content_id": "por-t224-v1",
@@ -12432,10 +17743,20 @@
 "language": "spa",
 "title": "justice"
 },
+"swh": {
+"content_id": "swh-t224-v1",
+"language": "swh",
+"title": "haki"
+},
 "tpi": {
 "content_id": "tpi-t224-v1",
 "language": "tpi",
 "title": "justice"
+},
+"zht": {
+"content_id": "zht-t224-v1",
+"language": "zht",
+"title": "公義"
 }
 }
 },
@@ -12461,10 +17782,25 @@
 "reference_id": 0,
 "index_reference": "pentecost",
 "localizations": {
+"arb": {
+"content_id": "arb-t225-v1",
+"language": "arb",
+"title": "يوم الخمسين (عيد الخمسين)"
+},
 "fra": {
 "content_id": "fra-t225-v1",
 "language": "fra",
 "title": "pentecôte"
+},
+"ind": {
+"content_id": "ind-t225-v1",
+"language": "ind",
+"title": "pentakosta"
+},
+"nep": {
+"content_id": "nep-t225-v1",
+"language": "nep",
+"title": "पेन्तिकोस"
 },
 "por": {
 "content_id": "por-t225-v1",
@@ -12476,10 +17812,20 @@
 "language": "spa",
 "title": "pentecost"
 },
+"swh": {
+"content_id": "swh-t225-v1",
+"language": "swh",
+"title": "pentekoste"
+},
 "tpi": {
 "content_id": "tpi-t225-v1",
 "language": "tpi",
 "title": "pentecost"
+},
+"zht": {
+"content_id": "zht-t225-v1",
+"language": "zht",
+"title": "五旬節"
 }
 }
 },
@@ -12505,10 +17851,30 @@
 "reference_id": 0,
 "index_reference": "king",
 "localizations": {
+"arb": {
+"content_id": "arb-t226-v2",
+"language": "arb",
+"title": "ملك"
+},
 "fra": {
 "content_id": "fra-t226-v1",
 "language": "fra",
 "title": "roi"
+},
+"hin": {
+"content_id": "hin-t226-v1",
+"language": "hin",
+"title": "राजा"
+},
+"ind": {
+"content_id": "ind-t226-v1",
+"language": "ind",
+"title": "raja"
+},
+"nep": {
+"content_id": "nep-t226-v2",
+"language": "nep",
+"title": "राजा"
 },
 "por": {
 "content_id": "por-t226-v1",
@@ -12519,6 +17885,11 @@
 "content_id": "spa-t226-v2",
 "language": "spa",
 "title": "king"
+},
+"swh": {
+"content_id": "swh-t226-v2",
+"language": "swh",
+"title": "mfalme"
 },
 "tpi": {
 "content_id": "tpi-t226-v2",
@@ -12559,10 +17930,25 @@
 "reference_id": 0,
 "index_reference": "hebrew",
 "localizations": {
+"arb": {
+"content_id": "arb-t227-v1",
+"language": "arb",
+"title": "عبراني"
+},
 "fra": {
 "content_id": "fra-t227-v1",
 "language": "fra",
 "title": "Hébreu"
+},
+"ind": {
+"content_id": "ind-t227-v1",
+"language": "ind",
+"title": "Ibrani"
+},
+"nep": {
+"content_id": "nep-t227-v1",
+"language": "nep",
+"title": "हिब्रू"
 },
 "por": {
 "content_id": "por-t227-v1",
@@ -12574,10 +17960,20 @@
 "language": "spa",
 "title": "hebrew"
 },
+"swh": {
+"content_id": "swh-t227-v1",
+"language": "swh",
+"title": "Kiebrania"
+},
 "tpi": {
 "content_id": "tpi-t227-v1",
 "language": "tpi",
 "title": "hebrew"
+},
+"zht": {
+"content_id": "zht-t227-v1",
+"language": "zht",
+"title": "希伯來人、希伯來文"
 }
 }
 },
@@ -12603,10 +17999,25 @@
 "reference_id": 0,
 "index_reference": "adonai",
 "localizations": {
+"arb": {
+"content_id": "arb-t228-v1",
+"language": "arb",
+"title": "أدوناي (السيد)"
+},
 "fra": {
 "content_id": "fra-t228-v1",
 "language": "fra",
 "title": "Adonaï"
+},
+"ind": {
+"content_id": "ind-t228-v1",
+"language": "ind",
+"title": "adonai"
+},
+"nep": {
+"content_id": "nep-t228-v1",
+"language": "nep",
+"title": "अदोनै"
 },
 "por": {
 "content_id": "por-t228-v1",
@@ -12618,10 +18029,20 @@
 "language": "spa",
 "title": "adonai"
 },
+"swh": {
+"content_id": "swh-t228-v1",
+"language": "swh",
+"title": "adonai"
+},
 "tpi": {
 "content_id": "tpi-t228-v1",
 "language": "tpi",
 "title": "adonai"
+},
+"zht": {
+"content_id": "zht-t228-v1",
+"language": "zht",
+"title": "主（Adonai）"
 }
 }
 },
@@ -12647,10 +18068,25 @@
 "reference_id": 0,
 "index_reference": "cherubim",
 "localizations": {
+"arb": {
+"content_id": "arb-t230-v1",
+"language": "arb",
+"title": "كروبيم"
+},
 "fra": {
 "content_id": "fra-t230-v1",
 "language": "fra",
 "title": "chérubins"
+},
+"ind": {
+"content_id": "ind-t230-v1",
+"language": "ind",
+"title": "kerubim"
+},
+"nep": {
+"content_id": "nep-t230-v1",
+"language": "nep",
+"title": "करूबहरू"
 },
 "por": {
 "content_id": "por-t230-v1",
@@ -12662,10 +18098,20 @@
 "language": "spa",
 "title": "cherubim"
 },
+"swh": {
+"content_id": "swh-t230-v1",
+"language": "swh",
+"title": "makerubi"
+},
 "tpi": {
 "content_id": "tpi-t230-v1",
 "language": "tpi",
 "title": "cherubim"
+},
+"zht": {
+"content_id": "zht-t230-v1",
+"language": "zht",
+"title": "基路伯"
 }
 }
 },
@@ -12691,10 +18137,25 @@
 "reference_id": 0,
 "index_reference": "i am",
 "localizations": {
+"arb": {
+"content_id": "arb-t231-v1",
+"language": "arb",
+"title": "أنا هو (أهيه)"
+},
 "fra": {
 "content_id": "fra-t231-v1",
 "language": "fra",
 "title": "Je suis"
+},
+"ind": {
+"content_id": "ind-t231-v1",
+"language": "ind",
+"title": "Aku"
+},
+"nep": {
+"content_id": "nep-t231-v1",
+"language": "nep",
+"title": "म हुँ"
 },
 "por": {
 "content_id": "por-t231-v1",
@@ -12706,10 +18167,20 @@
 "language": "spa",
 "title": "i-am"
 },
+"swh": {
+"content_id": "swh-t231-v1",
+"language": "swh",
+"title": "Mimi ni"
+},
 "tpi": {
 "content_id": "tpi-t231-v1",
 "language": "tpi",
 "title": "i-am"
+},
+"zht": {
+"content_id": "zht-t231-v1",
+"language": "zht",
+"title": "我是（I AM）"
 }
 }
 },
@@ -12735,10 +18206,25 @@
 "reference_id": 0,
 "index_reference": "sanctification",
 "localizations": {
+"arb": {
+"content_id": "arb-t232-v1",
+"language": "arb",
+"title": "التقديس"
+},
 "fra": {
 "content_id": "fra-t232-v1",
 "language": "fra",
 "title": "sanctification"
+},
+"ind": {
+"content_id": "ind-t232-v1",
+"language": "ind",
+"title": "pengudusan"
+},
+"nep": {
+"content_id": "nep-t232-v1",
+"language": "nep",
+"title": "पवित्रीकरण"
 },
 "por": {
 "content_id": "por-t232-v1",
@@ -12750,10 +18236,20 @@
 "language": "spa",
 "title": "sanctification"
 },
+"swh": {
+"content_id": "swh-t232-v1",
+"language": "swh",
+"title": "utakaso"
+},
 "tpi": {
 "content_id": "tpi-t232-v1",
 "language": "tpi",
 "title": "sanctification"
+},
+"zht": {
+"content_id": "zht-t232-v1",
+"language": "zht",
+"title": "成聖"
 }
 }
 },
@@ -12779,10 +18275,25 @@
 "reference_id": 0,
 "index_reference": "festival of tabernacles",
 "localizations": {
+"arb": {
+"content_id": "arb-t233-v1",
+"language": "arb",
+"title": "عيد المظال"
+},
 "fra": {
 "content_id": "fra-t233-v1",
 "language": "fra",
 "title": "Fête des tabernacles"
+},
+"ind": {
+"content_id": "ind-t233-v1",
+"language": "ind",
+"title": "Perayaan Kemah Suci,"
+},
+"nep": {
+"content_id": "nep-t233-v1",
+"language": "nep",
+"title": "छाप्रोबासको चाड"
 },
 "por": {
 "content_id": "por-t233-v1",
@@ -12794,10 +18305,20 @@
 "language": "spa",
 "title": "festival-of-tabernacles"
 },
+"swh": {
+"content_id": "swh-t233-v1",
+"language": "swh",
+"title": "Tamasha la Vibanda"
+},
 "tpi": {
 "content_id": "tpi-t233-v1",
 "language": "tpi",
 "title": "festival-of-tabernacles"
+},
+"zht": {
+"content_id": "zht-t233-v1",
+"language": "zht",
+"title": "住棚節"
 }
 }
 },
@@ -12823,10 +18344,25 @@
 "reference_id": 0,
 "index_reference": "descendant",
 "localizations": {
+"arb": {
+"content_id": "arb-t234-v1",
+"language": "arb",
+"title": "نسل"
+},
 "fra": {
 "content_id": "fra-t234-v1",
 "language": "fra",
 "title": "descendant"
+},
+"ind": {
+"content_id": "ind-t234-v1",
+"language": "ind",
+"title": "keturunan"
+},
+"nep": {
+"content_id": "nep-t234-v1",
+"language": "nep",
+"title": "सन्तान"
 },
 "por": {
 "content_id": "por-t234-v1",
@@ -12838,10 +18374,20 @@
 "language": "spa",
 "title": "descendant"
 },
+"swh": {
+"content_id": "swh-t234-v1",
+"language": "swh",
+"title": "kizazi"
+},
 "tpi": {
 "content_id": "tpi-t234-v1",
 "language": "tpi",
 "title": "descendant"
+},
+"zht": {
+"content_id": "zht-t234-v1",
+"language": "zht",
+"title": "後裔"
 }
 }
 },
@@ -12867,10 +18413,25 @@
 "reference_id": 0,
 "index_reference": "gods",
 "localizations": {
+"arb": {
+"content_id": "arb-t235-v1",
+"language": "arb",
+"title": "آلهة"
+},
 "fra": {
 "content_id": "fra-t235-v1",
 "language": "fra",
 "title": "dieux"
+},
+"ind": {
+"content_id": "ind-t235-v1",
+"language": "ind",
+"title": "dewa-dewa, ilah-ilah"
+},
+"nep": {
+"content_id": "nep-t235-v1",
+"language": "nep",
+"title": "देवताहरू"
 },
 "por": {
 "content_id": "por-t235-v1",
@@ -12882,10 +18443,20 @@
 "language": "spa",
 "title": "gods"
 },
+"swh": {
+"content_id": "swh-t235-v1",
+"language": "swh",
+"title": "miungu"
+},
 "tpi": {
 "content_id": "tpi-t235-v1",
 "language": "tpi",
 "title": "gods"
+},
+"zht": {
+"content_id": "zht-t235-v1",
+"language": "zht",
+"title": "神明"
 }
 }
 },
@@ -12911,10 +18482,30 @@
 "reference_id": 0,
 "index_reference": "amen",
 "localizations": {
+"arb": {
+"content_id": "arb-t236-v1",
+"language": "arb",
+"title": "آمين"
+},
 "fra": {
 "content_id": "fra-t236-v1",
 "language": "fra",
 "title": "amen"
+},
+"hin": {
+"content_id": "hin-t236-v1",
+"language": "hin",
+"title": "आमीन"
+},
+"ind": {
+"content_id": "ind-t236-v1",
+"language": "ind",
+"title": "amin"
+},
+"nep": {
+"content_id": "nep-t236-v1",
+"language": "nep",
+"title": "आमीन"
 },
 "por": {
 "content_id": "por-t236-v1",
@@ -12925,6 +18516,11 @@
 "content_id": "spa-t236-v1",
 "language": "spa",
 "title": "amen"
+},
+"swh": {
+"content_id": "swh-t236-v1",
+"language": "swh",
+"title": "amina"
 },
 "tpi": {
 "content_id": "tpi-t236-v1",
@@ -12965,10 +18561,25 @@
 "reference_id": 0,
 "index_reference": "testimony",
 "localizations": {
+"arb": {
+"content_id": "arb-t237-v1",
+"language": "arb",
+"title": "شهادة"
+},
 "fra": {
 "content_id": "fra-t237-v1",
 "language": "fra",
 "title": "témoignage"
+},
+"ind": {
+"content_id": "ind-t237-v1",
+"language": "ind",
+"title": "kesaksian"
+},
+"nep": {
+"content_id": "nep-t237-v1",
+"language": "nep",
+"title": "साक्षी"
 },
 "por": {
 "content_id": "por-t237-v1",
@@ -12980,10 +18591,20 @@
 "language": "spa",
 "title": "testimony"
 },
+"swh": {
+"content_id": "swh-t237-v1",
+"language": "swh",
+"title": "ushuhuda"
+},
 "tpi": {
 "content_id": "tpi-t237-v1",
 "language": "tpi",
 "title": "testimony"
+},
+"zht": {
+"content_id": "zht-t237-v1",
+"language": "zht",
+"title": "見證"
 }
 }
 },
@@ -13009,10 +18630,25 @@
 "reference_id": 0,
 "index_reference": "convict",
 "localizations": {
+"arb": {
+"content_id": "arb-t238-v1",
+"language": "arb",
+"title": "إدانة"
+},
 "fra": {
 "content_id": "fra-t238-v1",
 "language": "fra",
-"title": "Condamner "
+"title": "Condamner"
+},
+"ind": {
+"content_id": "ind-t238-v1",
+"language": "ind",
+"title": "menyatakan bersalah"
+},
+"nep": {
+"content_id": "nep-t238-v1",
+"language": "nep",
+"title": "दोषी"
 },
 "por": {
 "content_id": "por-t238-v1",
@@ -13024,10 +18660,20 @@
 "language": "spa",
 "title": "convict"
 },
+"swh": {
+"content_id": "swh-t238-v1",
+"language": "swh",
+"title": "mfungwa"
+},
 "tpi": {
 "content_id": "tpi-t238-v1",
 "language": "tpi",
 "title": "convict"
+},
+"zht": {
+"content_id": "zht-t238-v1",
+"language": "zht",
+"title": "定罪"
 }
 }
 },
@@ -13053,10 +18699,25 @@
 "reference_id": 0,
 "index_reference": "festival of dedication",
 "localizations": {
+"arb": {
+"content_id": "arb-t239-v1",
+"language": "arb",
+"title": "عيد التجديد"
+},
 "fra": {
 "content_id": "fra-t239-v1",
 "language": "fra",
 "title": "Fête de la Dédicace"
+},
+"ind": {
+"content_id": "ind-t239-v1",
+"language": "ind",
+"title": "Perayaan Pentahbisan"
+},
+"nep": {
+"content_id": "nep-t239-v1",
+"language": "nep",
+"title": "समर्पणको चाड"
 },
 "por": {
 "content_id": "por-t239-v1",
@@ -13068,10 +18729,20 @@
 "language": "spa",
 "title": "festival-of-dedication"
 },
+"swh": {
+"content_id": "swh-t239-v1",
+"language": "swh",
+"title": "Tamasha la Kujitolea"
+},
 "tpi": {
 "content_id": "tpi-t239-v1",
 "language": "tpi",
 "title": "festival-of-dedication"
+},
+"zht": {
+"content_id": "zht-t239-v1",
+"language": "zht",
+"title": "修殿節"
 }
 }
 },
@@ -13097,10 +18768,25 @@
 "reference_id": 0,
 "index_reference": "wine",
 "localizations": {
+"arb": {
+"content_id": "arb-t243-v1",
+"language": "arb",
+"title": "الخمر"
+},
 "fra": {
 "content_id": "fra-t243-v1",
 "language": "fra",
 "title": "vin"
+},
+"ind": {
+"content_id": "ind-t243-v1",
+"language": "ind",
+"title": "anggur beralkohol"
+},
+"nep": {
+"content_id": "nep-t243-v1",
+"language": "nep",
+"title": "दाख मद्ध्"
 },
 "por": {
 "content_id": "por-t243-v1",
@@ -13112,10 +18798,20 @@
 "language": "spa",
 "title": "wine"
 },
+"swh": {
+"content_id": "swh-t243-v1",
+"language": "swh",
+"title": "mvinyo"
+},
 "tpi": {
 "content_id": "tpi-t243-v1",
 "language": "tpi",
 "title": "wine"
+},
+"zht": {
+"content_id": "zht-t243-v1",
+"language": "zht",
+"title": "酒"
 }
 }
 },
@@ -13141,10 +18837,25 @@
 "reference_id": 0,
 "index_reference": "levite",
 "localizations": {
+"arb": {
+"content_id": "arb-t244-v1",
+"language": "arb",
+"title": "لاوي"
+},
 "fra": {
 "content_id": "fra-t244-v1",
 "language": "fra",
 "title": "Lévite"
+},
+"ind": {
+"content_id": "ind-t244-v1",
+"language": "ind",
+"title": "Orang Lewi"
+},
+"nep": {
+"content_id": "nep-t244-v1",
+"language": "nep",
+"title": "लेवी"
 },
 "por": {
 "content_id": "por-t244-v1",
@@ -13156,10 +18867,20 @@
 "language": "spa",
 "title": "levite"
 },
+"swh": {
+"content_id": "swh-t244-v1",
+"language": "swh",
+"title": "Mlawi"
+},
 "tpi": {
 "content_id": "tpi-t244-v1",
 "language": "tpi",
 "title": "levite"
+},
+"zht": {
+"content_id": "zht-t244-v1",
+"language": "zht",
+"title": "利未人"
 }
 }
 },
@@ -13185,10 +18906,25 @@
 "reference_id": 0,
 "index_reference": "commandment",
 "localizations": {
+"arb": {
+"content_id": "arb-t245-v1",
+"language": "arb",
+"title": "وصية"
+},
 "fra": {
 "content_id": "fra-t245-v1",
 "language": "fra",
 "title": "commandement"
+},
+"ind": {
+"content_id": "ind-t245-v1",
+"language": "ind",
+"title": "perintah"
+},
+"nep": {
+"content_id": "nep-t245-v1",
+"language": "nep",
+"title": "आज्ञा"
 },
 "por": {
 "content_id": "por-t245-v1",
@@ -13200,10 +18936,20 @@
 "language": "spa",
 "title": "commandment"
 },
+"swh": {
+"content_id": "swh-t245-v1",
+"language": "swh",
+"title": "amri"
+},
 "tpi": {
 "content_id": "tpi-t245-v1",
 "language": "tpi",
 "title": "commandment"
+},
+"zht": {
+"content_id": "zht-t245-v1",
+"language": "zht",
+"title": "誡命"
 }
 }
 },
@@ -13229,10 +18975,25 @@
 "reference_id": 0,
 "index_reference": "high priest",
 "localizations": {
+"arb": {
+"content_id": "arb-t246-v1",
+"language": "arb",
+"title": "رئيس الكهنة"
+},
 "fra": {
 "content_id": "fra-t246-v1",
 "language": "fra",
 "title": "souverain sacrificateur"
+},
+"ind": {
+"content_id": "ind-t246-v1",
+"language": "ind",
+"title": "imam besar"
+},
+"nep": {
+"content_id": "nep-t246-v1",
+"language": "nep",
+"title": "प्रधान पूजाहारी"
 },
 "por": {
 "content_id": "por-t246-v1",
@@ -13244,10 +19005,20 @@
 "language": "spa",
 "title": "high-priest"
 },
+"swh": {
+"content_id": "swh-t246-v1",
+"language": "swh",
+"title": "kuhani mkuu"
+},
 "tpi": {
 "content_id": "tpi-t246-v1",
 "language": "tpi",
 "title": "high-priest"
+},
+"zht": {
+"content_id": "zht-t246-v1",
+"language": "zht",
+"title": "大祭司"
 }
 }
 },
@@ -13285,10 +19056,25 @@
 "reference_id": 0,
 "index_reference": "consecrate",
 "localizations": {
+"arb": {
+"content_id": "arb-t254-v1",
+"language": "arb",
+"title": "يُكرِّس، تكريس"
+},
 "fra": {
 "content_id": "fra-t254-v1",
 "language": "fra",
-"title": "Consacrer "
+"title": "Consacrer"
+},
+"ind": {
+"content_id": "ind-t254-v1",
+"language": "ind",
+"title": "menguduskan"
+},
+"nep": {
+"content_id": "nep-t254-v1",
+"language": "nep",
+"title": "पवित्र"
 },
 "por": {
 "content_id": "por-t254-v1",
@@ -13300,10 +19086,20 @@
 "language": "spa",
 "title": "consecrate"
 },
+"swh": {
+"content_id": "swh-t254-v1",
+"language": "swh",
+"title": "takasa"
+},
 "tpi": {
 "content_id": "tpi-t254-v1",
 "language": "tpi",
 "title": "consecrate"
+},
+"zht": {
+"content_id": "zht-t254-v1",
+"language": "zht",
+"title": "分別為聖"
 }
 }
 },
@@ -13341,10 +19137,25 @@
 "reference_id": 0,
 "index_reference": "israelite",
 "localizations": {
+"arb": {
+"content_id": "arb-t259-v2",
+"language": "arb",
+"title": "بنو إسرائيل"
+},
 "fra": {
 "content_id": "fra-t259-v2",
 "language": "fra",
 "title": "Israélite"
+},
+"ind": {
+"content_id": "ind-t259-v2",
+"language": "ind",
+"title": "Orang Israel"
+},
+"nep": {
+"content_id": "nep-t259-v2",
+"language": "nep",
+"title": "इस्राएली"
 },
 "por": {
 "content_id": "por-t259-v2",
@@ -13356,10 +19167,20 @@
 "language": "spa",
 "title": "israelite"
 },
+"swh": {
+"content_id": "swh-t259-v2",
+"language": "swh",
+"title": "Mwisraeli"
+},
 "tpi": {
 "content_id": "tpi-t259-v2",
 "language": "tpi",
 "title": "israelite"
+},
+"zht": {
+"content_id": "zht-t259-v2",
+"language": "zht",
+"title": "以色列人"
 }
 }
 },
@@ -13397,10 +19218,25 @@
 "reference_id": 0,
 "index_reference": "advocate",
 "localizations": {
+"arb": {
+"content_id": "arb-t264-v1",
+"language": "arb",
+"title": "مُدافع (محامي)"
+},
 "fra": {
 "content_id": "fra-t264-v1",
 "language": "fra",
-"title": "défenseur "
+"title": "défenseur"
+},
+"ind": {
+"content_id": "ind-t264-v1",
+"language": "ind",
+"title": "pembela"
+},
+"nep": {
+"content_id": "nep-t264-v1",
+"language": "nep",
+"title": "अधिवक्ता"
 },
 "por": {
 "content_id": "por-t264-v1",
@@ -13412,10 +19248,20 @@
 "language": "spa",
 "title": "advocate"
 },
+"swh": {
+"content_id": "swh-t264-v1",
+"language": "swh",
+"title": "wakili"
+},
 "tpi": {
 "content_id": "tpi-t264-v1",
 "language": "tpi",
 "title": "advocate"
+},
+"zht": {
+"content_id": "zht-t264-v1",
+"language": "zht",
+"title": "中保、陳情者、幫助者"
 }
 }
 },
@@ -13489,10 +19335,25 @@
 "reference_id": 0,
 "index_reference": "justify",
 "localizations": {
+"arb": {
+"content_id": "arb-t281-v1",
+"language": "arb",
+"title": "يُبرِّر"
+},
 "fra": {
 "content_id": "fra-t281-v1",
 "language": "fra",
 "title": "justifier"
+},
+"ind": {
+"content_id": "ind-t281-v1",
+"language": "ind",
+"title": "membenarkan"
+},
+"nep": {
+"content_id": "nep-t281-v1",
+"language": "nep",
+"title": "साँचो ठहराउनु"
 },
 "por": {
 "content_id": "por-t281-v1",
@@ -13504,10 +19365,20 @@
 "language": "spa",
 "title": "justify"
 },
+"swh": {
+"content_id": "swh-t281-v1",
+"language": "swh",
+"title": "kuhalalisha"
+},
 "tpi": {
 "content_id": "tpi-t281-v1",
 "language": "tpi",
 "title": "justify"
+},
+"zht": {
+"content_id": "zht-t281-v1",
+"language": "zht",
+"title": "稱義"
 }
 }
 },
@@ -13569,10 +19440,25 @@
 "reference_id": 0,
 "index_reference": "judge",
 "localizations": {
+"arb": {
+"content_id": "arb-t289-v1",
+"language": "arb",
+"title": "قاضي"
+},
 "fra": {
 "content_id": "fra-t289-v1",
 "language": "fra",
 "title": "juge"
+},
+"ind": {
+"content_id": "ind-t289-v1",
+"language": "ind",
+"title": "hakim"
+},
+"nep": {
+"content_id": "nep-t289-v1",
+"language": "nep",
+"title": "न्यायकर्ता"
 },
 "por": {
 "content_id": "por-t289-v1",
@@ -13584,10 +19470,20 @@
 "language": "spa",
 "title": "judge"
 },
+"swh": {
+"content_id": "swh-t289-v1",
+"language": "swh",
+"title": "hakimu"
+},
 "tpi": {
 "content_id": "tpi-t289-v1",
 "language": "tpi",
 "title": "judge"
+},
+"zht": {
+"content_id": "zht-t289-v1",
+"language": "zht",
+"title": "士師、審判官"
 }
 }
 },
@@ -13625,10 +19521,25 @@
 "reference_id": 0,
 "index_reference": "immorality",
 "localizations": {
+"arb": {
+"content_id": "arb-t293-v1",
+"language": "arb",
+"title": "فجور"
+},
 "fra": {
 "content_id": "fra-t293-v1",
 "language": "fra",
 "title": "immoralité"
+},
+"ind": {
+"content_id": "ind-t293-v1",
+"language": "ind",
+"title": "amoralitas"
+},
+"nep": {
+"content_id": "nep-t293-v1",
+"language": "nep",
+"title": "अनैतिकता"
 },
 "por": {
 "content_id": "por-t293-v1",
@@ -13640,10 +19551,20 @@
 "language": "spa",
 "title": "immorality"
 },
+"swh": {
+"content_id": "swh-t293-v1",
+"language": "swh",
+"title": "usherati"
+},
 "tpi": {
 "content_id": "tpi-t293-v1",
 "language": "tpi",
 "title": "immorality"
+},
+"zht": {
+"content_id": "zht-t293-v1",
+"language": "zht",
+"title": "淫亂"
 }
 }
 },

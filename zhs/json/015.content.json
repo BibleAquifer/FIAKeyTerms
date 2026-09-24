@@ -8,7 +8,7 @@
 "index_reference": "燔祭",
 "language": "zhs",
 "review_level": "None",
-"content": "<p>在旧约中，<b>燔祭</b>是人们献给神的一种<a href=\"#t114\">祭物</a>的形式。当一个人把燔祭献给神时，他会杀死一只动物，然后在<a href=\"#t3\">祭坛</a>上把这只动物完全烧掉，祭坛是一个特别的地方，用来把礼物献给神。当一个人把燔祭献给神时，他们是在对神说：\"正如我完全地烧掉这头牲畜一样，我也把自己完全地奉献给你。\"</p>",
+"content": "<p>在旧约中，<b>燔祭</b>是人们献给神的一种<data class=\"resource-ref\" data-content-id=\"cmn-t114-v1\" data-resource-code=\"FIAKeyTerms\">祭物</data>的形式。当一个人把燔祭献给神时，他会杀死一只动物，然后在祭坛上把这只动物完全烧掉，祭坛是一个特别的地方，用来把礼物献给神。当一个人把燔祭献给神时，他们是在对神说：\"正如我完全地烧掉这头牲畜一样，我也把自己完全地奉献给你。\"</p>",
 "associations": {
 "passage": [
 {
@@ -480,6 +480,12 @@
 "end_ref_usfm": "2KI 5:27"
 },
 {
+"start_ref": "12015001",
+"start_ref_usfm": "2KI 15:1",
+"end_ref": "12015007",
+"end_ref_usfm": "2KI 15:7"
+},
+{
 "start_ref": "13006049",
 "start_ref_usfm": "1CH 6:49",
 "end_ref": "13006053",
@@ -604,15 +610,17 @@
 "start_ref_usfm": "2CH 31:1",
 "end_ref": "14031010",
 "end_ref_usfm": "2CH 31:10"
-},
-{
-"start_ref": "14035001",
-"start_ref_usfm": "2CH 35:1",
-"end_ref": "14035019",
-"end_ref_usfm": "2CH 35:19"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "cmn-t114-v1",
+"resource_code": "FIAKeyTerms",
+"label": "祭物",
+"language": "zhs"
+}
+],
 "acai": []
 }
 },
@@ -1097,6 +1105,12 @@
 "end_ref_usfm": "2KI 5:27"
 },
 {
+"start_ref": "12015001",
+"start_ref_usfm": "2KI 15:1",
+"end_ref": "12015007",
+"end_ref_usfm": "2KI 15:7"
+},
+{
 "start_ref": "13006049",
 "start_ref_usfm": "1CH 6:49",
 "end_ref": "13006053",
@@ -1221,12 +1235,6 @@
 "start_ref_usfm": "2CH 31:1",
 "end_ref": "14031010",
 "end_ref_usfm": "2CH 31:10"
-},
-{
-"start_ref": "14035001",
-"start_ref_usfm": "2CH 35:1",
-"end_ref": "14035019",
-"end_ref_usfm": "2CH 35:19"
 }
 ],
 "resource": []
