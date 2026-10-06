@@ -741,7 +741,7 @@
 {
 "id": "place:Jerusalem",
 "type": "place",
-"confidence": 0.658,
+"confidence": 0.6593,
 "match_method": "scored",
 "preferred_label": "Jerusalem"
 },
@@ -2741,9 +2741,16 @@
 {
 "id": "place:Judea",
 "type": "place",
-"confidence": 0.6004,
+"confidence": 0.6,
 "match_method": "scored",
 "preferred_label": "Judia"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.5603,
+"match_method": "scored",
+"preferred_label": "Jews"
 }
 ]
 }

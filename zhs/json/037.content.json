@@ -1,6 +1,6 @@
 [
 {
-"content_id": "cmn-t19-v1",
+"content_id": "zhs-t19-v1",
 "reference_id": 0,
 "version": "1.0.4",
 "title": "凯撒",
@@ -8,7 +8,7 @@
 "index_reference": "凯撒",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><b>凯撒</b>是罗马皇帝的称号。罗马是意大利这个国家的一座城市。在新约时代，罗马是罗马帝国的首都。</p><p>帝国是由一个人或一个政府统治的一群<data class=\"resource-ref\" data-content-id=\"cmn-t94-v1\" data-resource-code=\"FIAKeyTerms\">国民</data>或国家。帝国的领导者被称为皇帝。罗马人的皇帝被称作凯撒。</p><p>罗马帝国包括许多国家和民族。它非常大。所有这些国家的人都必须向凯撒纳税。凯撒是如此强大，以至于许多人把他当作神。在一些城市，人们建造了<data class=\"resource-ref\" data-content-id=\"cmn-t138-v1\" data-resource-code=\"FIAKeyTerms\">神殿</data>，在那里他们敬拜凯撒的雕像。</p>",
+"content": "<p><b>凯撒</b>是罗马皇帝的称号。罗马是意大利这个国家的一座城市。在新约时代，罗马是罗马帝国的首都。</p><p>帝国是由一个人或一个政府统治的一群<data class=\"resource-ref\" data-content-id=\"zhs-t94-v1\" data-resource-code=\"FIAKeyTerms\">国民</data>或国家。帝国的领导者被称为皇帝。罗马人的皇帝被称作凯撒。</p><p>罗马帝国包括许多国家和民族。它非常大。所有这些国家的人都必须向凯撒纳税。凯撒是如此强大，以至于许多人把他当作神。在一些城市，人们建造了<data class=\"resource-ref\" data-content-id=\"zhs-t138-v1\" data-resource-code=\"FIAKeyTerms\">神殿</data>，在那里他们敬拜凯撒的雕像。</p>",
 "associations": {
 "passage": [
 {
@@ -87,14 +87,14 @@
 "resource": [
 {
 "reference_id": 0,
-"content_id": "cmn-t94-v1",
+"content_id": "zhs-t94-v1",
 "resource_code": "FIAKeyTerms",
 "label": "国民",
 "language": "zhs"
 },
 {
 "reference_id": 0,
-"content_id": "cmn-t138-v1",
+"content_id": "zhs-t138-v1",
 "resource_code": "FIAKeyTerms",
 "label": "神殿",
 "language": "zhs"
@@ -126,95 +126,7 @@
 }
 },
 {
-"content_id": "cmn-t19-v1-audio",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "凯撒",
-"media_type": "Audio",
-"index_reference": "凯撒",
-"language": "zhs",
-"review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='None'>mp3 file</a> (None KB)</p>",
-"associations": {
-"passage": [
-{
-"start_ref": "40022015",
-"start_ref_usfm": "MAT 22:15",
-"end_ref": "40022022",
-"end_ref_usfm": "MAT 22:22"
-},
-{
-"start_ref": "41012013",
-"start_ref_usfm": "MRK 12:13",
-"end_ref": "41012017",
-"end_ref_usfm": "MRK 12:17"
-},
-{
-"start_ref": "42020020",
-"start_ref_usfm": "LUK 20:20",
-"end_ref": "42020040",
-"end_ref_usfm": "LUK 20:40"
-},
-{
-"start_ref": "42023001",
-"start_ref_usfm": "LUK 23:1",
-"end_ref": "42023012",
-"end_ref_usfm": "LUK 23:12"
-},
-{
-"start_ref": "43019001",
-"start_ref_usfm": "JHN 19:1",
-"end_ref": "43019016",
-"end_ref_usfm": "JHN 19:16"
-},
-{
-"start_ref": "44025006",
-"start_ref_usfm": "ACT 25:6",
-"end_ref": "44025012",
-"end_ref_usfm": "ACT 25:12"
-},
-{
-"start_ref": "44025013",
-"start_ref_usfm": "ACT 25:13",
-"end_ref": "44025022",
-"end_ref_usfm": "ACT 25:22"
-},
-{
-"start_ref": "44025023",
-"start_ref_usfm": "ACT 25:23",
-"end_ref": "44025027",
-"end_ref_usfm": "ACT 25:27"
-},
-{
-"start_ref": "44026024",
-"start_ref_usfm": "ACT 26:24",
-"end_ref": "44026032",
-"end_ref_usfm": "ACT 26:32"
-},
-{
-"start_ref": "44027009",
-"start_ref_usfm": "ACT 27:9",
-"end_ref": "44027026",
-"end_ref_usfm": "ACT 27:26"
-},
-{
-"start_ref": "44028017",
-"start_ref_usfm": "ACT 28:17",
-"end_ref": "44028031",
-"end_ref_usfm": "ACT 28:31"
-},
-{
-"start_ref": "50004010",
-"start_ref_usfm": "PHP 4:10",
-"end_ref": "50004023",
-"end_ref_usfm": "PHP 4:23"
-}
-],
-"resource": []
-}
-},
-{
-"content_id": "cmn-t20-v1",
+"content_id": "zhs-t20-v1",
 "reference_id": 0,
 "version": "1.0.4",
 "title": "凯撒利亚•腓立比",
@@ -222,7 +134,7 @@
 "index_reference": "凯撒利亚腓立比",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><b>凯撒利亚·腓立比</b>是一座城市，位于<data class=\"resource-ref\" data-content-id=\"cmn-t121-v1\" data-resource-code=\"FIAKeyTerms\">加利利海</data>以北约四十公里。住在这个地区的人不是<data class=\"resource-ref\" data-content-id=\"cmn-t77-v1\" data-resource-code=\"FIAKeyTerms\">犹太人</data>。人们在这个城市里建造了一座庙，为的是敬拜罗马皇帝<data class=\"resource-ref\" data-content-id=\"cmn-t19-v1\" data-resource-code=\"FIAKeyTerms\">凯撒</data>。</p>",
+"content": "<p><b>凯撒利亚·腓立比</b>是一座城市，位于<data class=\"resource-ref\" data-content-id=\"zhs-t121-v1\" data-resource-code=\"FIAKeyTerms\">加利利海</data>以北约四十公里。住在这个地区的人不是<data class=\"resource-ref\" data-content-id=\"zhs-t77-v1\" data-resource-code=\"FIAKeyTerms\">犹太人</data>。人们在这个城市里建造了一座庙，为的是敬拜罗马皇帝<data class=\"resource-ref\" data-content-id=\"zhs-t19-v1\" data-resource-code=\"FIAKeyTerms\">凯撒</data>。</p>",
 "associations": {
 "passage": [
 {
@@ -235,21 +147,21 @@
 "resource": [
 {
 "reference_id": 0,
-"content_id": "cmn-t121-v1",
+"content_id": "zhs-t121-v1",
 "resource_code": "FIAKeyTerms",
 "label": "加利利海",
 "language": "zhs"
 },
 {
 "reference_id": 0,
-"content_id": "cmn-t77-v1",
+"content_id": "zhs-t77-v1",
 "resource_code": "FIAKeyTerms",
 "label": "犹太人",
 "language": "zhs"
 },
 {
 "reference_id": 0,
-"content_id": "cmn-t19-v1",
+"content_id": "zhs-t19-v1",
 "resource_code": "FIAKeyTerms",
 "label": "凯撒",
 "language": "zhs"
@@ -264,28 +176,6 @@
 "preferred_label": "Caesarea Philippi"
 }
 ]
-}
-},
-{
-"content_id": "cmn-t20-v1-audio",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "凯撒利亚•腓立比",
-"media_type": "Audio",
-"index_reference": "凯撒利亚腓立比",
-"language": "zhs",
-"review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='None'>mp3 file</a> (None KB)</p>",
-"associations": {
-"passage": [
-{
-"start_ref": "41008027",
-"start_ref_usfm": "MRK 8:27",
-"end_ref": "41008030",
-"end_ref_usfm": "MRK 8:30"
-}
-],
-"resource": []
 }
 }
 ]

@@ -810,10 +810,10 @@
 "end_ref_usfm": "1KI 22:53"
 },
 {
-"start_ref": "12010028",
-"start_ref_usfm": "2KI 10:28",
-"end_ref": "12010036",
-"end_ref_usfm": "2KI 10:36"
+"start_ref": "12003001",
+"start_ref_usfm": "2KI 3:1",
+"end_ref": "12003009",
+"end_ref_usfm": "2KI 3:9"
 }
 ],
 "resource": [
@@ -893,6 +893,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "arrepintieran",
 "language": "spa"
+},
+{
+"reference_id": 0,
+"content_id": "spa-t125-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "pecado",
+"language": "spa"
 }
 ],
 "acai": []
@@ -907,7 +914,7 @@
 "index_reference": "pecado",
 "language": "spa",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/spa/t125/v1/vbr4.mp3'>mp3 file</a> (4329644 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/spa/t125/v1/vbr4.mp3'>mp3 file</a> (4.1 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -1505,13 +1512,21 @@
 "end_ref_usfm": "1KI 22:53"
 },
 {
-"start_ref": "12010028",
-"start_ref_usfm": "2KI 10:28",
-"end_ref": "12010036",
-"end_ref_usfm": "2KI 10:36"
+"start_ref": "12003001",
+"start_ref_usfm": "2KI 3:1",
+"end_ref": "12003009",
+"end_ref_usfm": "2KI 3:9"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "spa-t125-v1",
+"resource_code": "FIAKeyTerms",
+"label": "pecado",
+"language": "spa"
+}
+]
 }
 },
 {
@@ -1643,14 +1658,14 @@
 {
 "id": "person:Pharaoh.6",
 "type": "person",
-"confidence": 0.5907,
+"confidence": 0.59,
 "match_method": "scored",
 "preferred_label": "Faraón"
 },
 {
 "id": "person:Pharaoh.4",
 "type": "person",
-"confidence": 0.569,
+"confidence": 0.5683,
 "match_method": "scored",
 "preferred_label": "Faraón"
 }

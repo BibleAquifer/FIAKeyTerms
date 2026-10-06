@@ -706,6 +706,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "perdonado",
 "language": "spa"
+},
+{
+"reference_id": 0,
+"content_id": "spa-t48-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "fe",
+"language": "spa"
 }
 ],
 "acai": []
@@ -720,7 +727,7 @@
 "index_reference": "fe",
 "language": "spa",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/spa/t48/v1/vbr4.mp3'>mp3 file</a> (2378132 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/spa/t48/v1/vbr4.mp3'>mp3 file</a> (2.3 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -1324,7 +1331,15 @@
 "end_ref_usfm": "2TI 2:19"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "spa-t48-v1",
+"resource_code": "FIAKeyTerms",
+"label": "fe",
+"language": "spa"
+}
+]
 }
 },
 {

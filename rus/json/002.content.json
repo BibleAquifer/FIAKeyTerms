@@ -8,7 +8,7 @@
 "index_reference": "бес",
 "language": "rus",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/rus/t36/v1/vbr4.mp3'>mp3 file</a> (1060947 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/rus/t36/v1/vbr4.mp3'>mp3 file</a> (1.0 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -276,7 +276,15 @@
 "end_ref_usfm": "JAS 3:18"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "rus-t36-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Бес",
+"language": "rus"
+}
+]
 }
 }
 ]

@@ -8,7 +8,7 @@
 "index_reference": "галилея",
 "language": "rus",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/rus/t55/v1/vbr4.mp3'>mp3 file</a> (961851 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/rus/t55/v1/vbr4.mp3'>mp3 file</a> (939 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -204,7 +204,15 @@
 "end_ref_usfm": "ACT 3:10"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "rus-t55-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Галилея",
+"language": "rus"
+}
+]
 }
 },
 {
@@ -216,7 +224,7 @@
 "index_reference": "грех",
 "language": "rus",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/rus/t125/v1/vbr4.mp3'>mp3 file</a> (3744982 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/rus/t125/v1/vbr4.mp3'>mp3 file</a> (3.6 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -814,13 +822,21 @@
 "end_ref_usfm": "1KI 22:53"
 },
 {
-"start_ref": "12010028",
-"start_ref_usfm": "2KI 10:28",
-"end_ref": "12010036",
-"end_ref_usfm": "2KI 10:36"
+"start_ref": "12003001",
+"start_ref_usfm": "2KI 3:1",
+"end_ref": "12003009",
+"end_ref_usfm": "2KI 3:9"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "rus-t125-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Грех",
+"language": "rus"
+}
+]
 }
 }
 ]

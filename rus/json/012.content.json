@@ -8,7 +8,7 @@
 "index_reference": "молиться",
 "language": "rus",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/rus/t102/v1/vbr4.mp3'>mp3 file</a> (1010950 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/rus/t102/v1/vbr4.mp3'>mp3 file</a> (987 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -582,7 +582,15 @@
 "end_ref_usfm": "JUD 1:23"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "rus-t102-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Молиться",
+"language": "rus"
+}
+]
 }
 },
 {
@@ -594,7 +602,7 @@
 "index_reference": "море галилейское",
 "language": "rus",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/rus/t121/v1/vbr4.mp3'>mp3 file</a> (533326 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/rus/t121/v1/vbr4.mp3'>mp3 file</a> (521 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -772,7 +780,15 @@
 "end_ref_usfm": "JHN 21:14"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "rus-t121-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Море Галилейское",
+"language": "rus"
+}
+]
 }
 }
 ]

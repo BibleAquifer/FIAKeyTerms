@@ -254,6 +254,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "discípulos",
 "language": "spa"
+},
+{
+"reference_id": 0,
+"content_id": "spa-t22-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "Cafarnaúm",
+"language": "spa"
 }
 ],
 "acai": [
@@ -276,7 +283,7 @@
 "index_reference": "cafarnaúm",
 "language": "spa",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/spa/t22/v1/vbr4.mp3'>mp3 file</a> (382220 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/spa/t22/v1/vbr4.mp3'>mp3 file</a> (373 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -388,7 +395,15 @@
 "end_ref_usfm": "JHN 6:59"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "spa-t22-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Cafarnaúm",
+"language": "spa"
+}
+]
 }
 },
 {
@@ -1120,7 +1135,7 @@
 {
 "id": "keyterm:Commandment",
 "type": "keyterm",
-"confidence": 0.5711,
+"confidence": 0.5704,
 "match_method": "scored",
 "preferred_label": "mandamiento"
 }
@@ -1365,7 +1380,7 @@
 {
 "id": "keyterm:Covenant",
 "type": "keyterm",
-"confidence": 0.5896,
+"confidence": 0.5892,
 "match_method": "scored",
 "preferred_label": "pacto"
 }

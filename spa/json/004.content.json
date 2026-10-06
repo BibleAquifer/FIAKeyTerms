@@ -115,7 +115,7 @@
 {
 "id": "person:David",
 "type": "person",
-"confidence": 0.5683,
+"confidence": 0.5656,
 "match_method": "scored",
 "preferred_label": "David"
 }
@@ -1026,6 +1026,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "apóstol",
 "language": "spa"
+},
+{
+"reference_id": 0,
+"content_id": "spa-t39-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "discípulo",
+"language": "spa"
 }
 ],
 "acai": []
@@ -1040,7 +1047,7 @@
 "index_reference": "discípulo",
 "language": "spa",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/spa/t39/v1/vbr4.mp3'>mp3 file</a> (1178588 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/spa/t39/v1/vbr4.mp3'>mp3 file</a> (1.1 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -1644,7 +1651,15 @@
 "end_ref_usfm": "LUK 14:35"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "spa-t39-v1",
+"resource_code": "FIAKeyTerms",
+"label": "discípulo",
+"language": "spa"
+}
+]
 }
 },
 {

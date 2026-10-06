@@ -1,6 +1,6 @@
 [
 {
-"content_id": "cmn-t106-v1",
+"content_id": "zhs-t106-v1",
 "reference_id": 0,
 "version": "1.0.4",
 "title": "拉比",
@@ -8,7 +8,7 @@
 "index_reference": "拉比",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><b>拉比</b>是<data class=\"resource-ref\" data-content-id=\"cmn-t74-v1\" data-resource-code=\"FIAKeyTerms\">以色列</data>人给宗教<data class=\"resource-ref\" data-content-id=\"cmn-t136-v1\" data-resource-code=\"FIAKeyTerms\">教师</data>的名字。 在他们的语言中，这个词的意思是\"我的伟大的人\"，或\"我伟大的老师\"。 当有人称呼另一个人为\"拉比\"时，他们是在给予那人尊重。 有些翻译保留了\"拉比\"这个词，另一些翻译只说\"教师。\"</p><p><strong>当你翻译拉比时，要注意以下几个事项：</strong></p><p>你可以使用你的语言中表示教师的一个词或片语。 但这个词不应该只用于学校里教导儿童的教师。</p>",
+"content": "<p><b>拉比</b>是<data class=\"resource-ref\" data-content-id=\"zhs-t74-v1\" data-resource-code=\"FIAKeyTerms\">以色列</data>人给宗教<data class=\"resource-ref\" data-content-id=\"zhs-t136-v1\" data-resource-code=\"FIAKeyTerms\">教师</data>的名字。 在他们的语言中，这个词的意思是\"我的伟大的人\"，或\"我伟大的老师\"。 当有人称呼另一个人为\"拉比\"时，他们是在给予那人尊重。 有些翻译保留了\"拉比\"这个词，另一些翻译只说\"教师。\"</p><p><strong>当你翻译拉比时，要注意以下几个事项：</strong></p><p>你可以使用你的语言中表示教师的一个词或片语。 但这个词不应该只用于学校里教导儿童的教师。</p>",
 "associations": {
 "passage": [
 {
@@ -123,144 +123,20 @@
 "resource": [
 {
 "reference_id": 0,
-"content_id": "cmn-t74-v1",
+"content_id": "zhs-t74-v1",
 "resource_code": "FIAKeyTerms",
 "label": "以色列",
 "language": "zhs"
 },
 {
 "reference_id": 0,
-"content_id": "cmn-t136-v1",
+"content_id": "zhs-t136-v1",
 "resource_code": "FIAKeyTerms",
 "label": "教师",
 "language": "zhs"
 }
 ],
 "acai": []
-}
-},
-{
-"content_id": "cmn-t106-v1-audio",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "拉比",
-"media_type": "Audio",
-"index_reference": "拉比",
-"language": "zhs",
-"review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='None'>mp3 file</a> (None KB)</p>",
-"associations": {
-"passage": [
-{
-"start_ref": "01024015",
-"start_ref_usfm": "GEN 24:15",
-"end_ref": "01024028",
-"end_ref_usfm": "GEN 24:28"
-},
-{
-"start_ref": "01024029",
-"start_ref_usfm": "GEN 24:29",
-"end_ref": "01024049",
-"end_ref_usfm": "GEN 24:49"
-},
-{
-"start_ref": "40023001",
-"start_ref_usfm": "MAT 23:1",
-"end_ref": "40023012",
-"end_ref_usfm": "MAT 23:12"
-},
-{
-"start_ref": "40026017",
-"start_ref_usfm": "MAT 26:17",
-"end_ref": "40026025",
-"end_ref_usfm": "MAT 26:25"
-},
-{
-"start_ref": "40026047",
-"start_ref_usfm": "MAT 26:47",
-"end_ref": "40026056",
-"end_ref_usfm": "MAT 26:56"
-},
-{
-"start_ref": "41009002",
-"start_ref_usfm": "MRK 9:2",
-"end_ref": "41009013",
-"end_ref_usfm": "MRK 9:13"
-},
-{
-"start_ref": "41010046",
-"start_ref_usfm": "MRK 10:46",
-"end_ref": "41010052",
-"end_ref_usfm": "MRK 10:52"
-},
-{
-"start_ref": "41011012",
-"start_ref_usfm": "MRK 11:12",
-"end_ref": "41011026",
-"end_ref_usfm": "MRK 11:26"
-},
-{
-"start_ref": "41014043",
-"start_ref_usfm": "MRK 14:43",
-"end_ref": "41014052",
-"end_ref_usfm": "MRK 14:52"
-},
-{
-"start_ref": "43001035",
-"start_ref_usfm": "JHN 1:35",
-"end_ref": "43001042",
-"end_ref_usfm": "JHN 1:42"
-},
-{
-"start_ref": "43001043",
-"start_ref_usfm": "JHN 1:43",
-"end_ref": "43001051",
-"end_ref_usfm": "JHN 1:51"
-},
-{
-"start_ref": "43003001",
-"start_ref_usfm": "JHN 3:1",
-"end_ref": "43003008",
-"end_ref_usfm": "JHN 3:8"
-},
-{
-"start_ref": "43003022",
-"start_ref_usfm": "JHN 3:22",
-"end_ref": "43003036",
-"end_ref_usfm": "JHN 3:36"
-},
-{
-"start_ref": "43004027",
-"start_ref_usfm": "JHN 4:27",
-"end_ref": "43004042",
-"end_ref_usfm": "JHN 4:42"
-},
-{
-"start_ref": "43006022",
-"start_ref_usfm": "JHN 6:22",
-"end_ref": "43006027",
-"end_ref_usfm": "JHN 6:27"
-},
-{
-"start_ref": "43009001",
-"start_ref_usfm": "JHN 9:1",
-"end_ref": "43009012",
-"end_ref_usfm": "JHN 9:12"
-},
-{
-"start_ref": "43011001",
-"start_ref_usfm": "JHN 11:1",
-"end_ref": "43011016",
-"end_ref_usfm": "JHN 11:16"
-},
-{
-"start_ref": "43020001",
-"start_ref_usfm": "JHN 20:1",
-"end_ref": "43020018",
-"end_ref_usfm": "JHN 20:18"
-}
-],
-"resource": []
 }
 }
 ]

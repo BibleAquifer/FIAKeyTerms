@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Familiarization, Internalization, Articulation (FIA) Key Terms</b> © 2025 Word Collective Released under CC BY-SA 4.0 license. <cite>Familiarization, Internalization, Articulation (FIA) Key Terms</cite> has been adapted in the following languages Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Familiarization, Internalization, Articulation (FIA)</cite> © 2025 Word Collective. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "FIAKeyTerms",
-"date_created": "2026-09-23",
+"date_created": "2026-10-05",
 "language": "tpi",
 "localizations": [
 "arb",
@@ -54,7 +54,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-09-23T19:31:58.044831"
+"dateCreated": "2026-10-05T18:57:44.726991"
 },
 "idAuthorities": {
 "aquifer": {
@@ -68,7 +68,7 @@
 "primary": {
 "aquifer": {
 "FIAKeyTerms": {
-"timestamp": "2026-09-23T19:31:58.044831"
+"timestamp": "2026-10-05T18:57:44.726991"
 }
 }
 },
@@ -522,95 +522,95 @@
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 47141
+"size": 47826
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 19023
+"size": 19480
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 54818
+"size": 55787
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
-"size": 25356
+"size": 25185
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 13024
+"size": 12950
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 54377
+"size": 54770
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 6139
+"size": 6290
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
-"size": 15143
+"size": 15253
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 29093
+"size": 29296
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 20190
+"size": 20233
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 29159
+"size": 29648
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 18853
+"size": 18698
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 18693
+"size": 18909
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 6567
+"size": 6702
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
-"size": 31544
+"size": 31922
 },
 "md/023.content.md": {
 "mimeType": "text/markdown",
-"size": 1775
+"size": 1770
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
-"size": 25797
+"size": 26133
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 29965
+"size": 30786
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 3938
+"size": 4014
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 19526
+"size": 19560
 },
 "md/022.content.md": {
 "mimeType": "text/markdown",
-"size": 6540
+"size": 6607
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 37523
+"size": 37700
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
-"size": 87876
+"size": 88552
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -916,7 +916,7 @@
 "title": "uzinzi"
 },
 "zhs": {
-"content_id": "cmn-t2-v1",
+"content_id": "zhs-t2-v1",
 "language": "zhs",
 "title": "奸淫"
 }
@@ -1030,7 +1030,7 @@
 "title": "malaika"
 },
 "zhs": {
-"content_id": "cmn-t4-v1",
+"content_id": "zhs-t4-v1",
 "language": "zhs",
 "title": "天使"
 }
@@ -1087,7 +1087,7 @@
 "title": "mafuta"
 },
 "zhs": {
-"content_id": "cmn-t5-v1",
+"content_id": "zhs-t5-v1",
 "language": "zhs",
 "title": "膏抹"
 }
@@ -1144,7 +1144,7 @@
 "title": "mtume"
 },
 "zhs": {
-"content_id": "cmn-t6-v1",
+"content_id": "zhs-t6-v1",
 "language": "zhs",
 "title": "使徒"
 }
@@ -1206,7 +1206,7 @@
 "title": "mamlaka"
 },
 "zhs": {
-"content_id": "cmn-t8-v1",
+"content_id": "zhs-t8-v1",
 "language": "zhs",
 "title": "权柄"
 }
@@ -1268,7 +1268,7 @@
 "title": "ubatizo"
 },
 "zhs": {
-"content_id": "cmn-t9-v1",
+"content_id": "zhs-t9-v1",
 "language": "zhs",
 "title": "洗礼"
 }
@@ -1320,7 +1320,7 @@
 "title": "kikapu"
 },
 "zhs": {
-"content_id": "cmn-t10-v1",
+"content_id": "zhs-t10-v1",
 "language": "zhs",
 "title": "筐子、箱子、篮子"
 }
@@ -1382,7 +1382,7 @@
 "title": "imani"
 },
 "zhs": {
-"content_id": "cmn-t11-v1",
+"content_id": "zhs-t11-v1",
 "language": "zhs",
 "title": "信"
 }
@@ -1543,7 +1543,7 @@
 "title": "Bethsaida"
 },
 "zhs": {
-"content_id": "cmn-t14-v1",
+"content_id": "zhs-t14-v1",
 "language": "zhs",
 "title": "伯赛大"
 }
@@ -1600,7 +1600,7 @@
 "title": "kukufuru"
 },
 "zhs": {
-"content_id": "cmn-t15-v1",
+"content_id": "zhs-t15-v1",
 "language": "zhs",
 "title": "亵渎"
 }
@@ -1657,7 +1657,7 @@
 "title": "bariki"
 },
 "zhs": {
-"content_id": "cmn-t16-v1",
+"content_id": "zhs-t16-v1",
 "language": "zhs",
 "title": "祝福"
 }
@@ -1719,7 +1719,7 @@
 "title": "mashua"
 },
 "zhs": {
-"content_id": "cmn-t17-v1",
+"content_id": "zhs-t17-v1",
 "language": "zhs",
 "title": "船"
 }
@@ -1776,7 +1776,7 @@
 "title": "upinde"
 },
 "zhs": {
-"content_id": "cmn-t18-v1",
+"content_id": "zhs-t18-v1",
 "language": "zhs",
 "title": "屈身、跪拜"
 }
@@ -1833,7 +1833,7 @@
 "title": "Kaisari"
 },
 "zhs": {
-"content_id": "cmn-t19-v1",
+"content_id": "zhs-t19-v1",
 "language": "zhs",
 "title": "凯撒"
 }
@@ -1890,7 +1890,7 @@
 "title": "Kaisari Filipi"
 },
 "zhs": {
-"content_id": "cmn-t20-v1",
+"content_id": "zhs-t20-v1",
 "language": "zhs",
 "title": "凯撒利亚•腓立比"
 }
@@ -1947,7 +1947,7 @@
 "title": "ngamia"
 },
 "zhs": {
-"content_id": "cmn-t21-v1",
+"content_id": "zhs-t21-v1",
 "language": "zhs",
 "title": "骆驼"
 }
@@ -2009,7 +2009,7 @@
 "title": "Kapernaumu"
 },
 "zhs": {
-"content_id": "cmn-t22-v1",
+"content_id": "zhs-t22-v1",
 "language": "zhs",
 "title": "迦百农"
 }
@@ -2071,7 +2071,7 @@
 "title": "Kristo"
 },
 "zhs": {
-"content_id": "cmn-t23-v1",
+"content_id": "zhs-t23-v1",
 "language": "zhs",
 "title": "基督"
 }
@@ -2237,7 +2237,7 @@
 "title": "safi / najisi"
 },
 "zhs": {
-"content_id": "cmn-t26-v1",
+"content_id": "zhs-t26-v1",
 "language": "zhs",
 "title": "洁净/不洁净"
 }
@@ -2294,7 +2294,7 @@
 "title": "joho"
 },
 "zhs": {
-"content_id": "cmn-t27-v1",
+"content_id": "zhs-t27-v1",
 "language": "zhs",
 "title": "外衣、外袍"
 }
@@ -2351,7 +2351,7 @@
 "title": "jiwe la pembeni"
 },
 "zhs": {
-"content_id": "cmn-t28-v1",
+"content_id": "zhs-t28-v1",
 "language": "zhs",
 "title": "房角石"
 }
@@ -2408,7 +2408,7 @@
 "title": "agano"
 },
 "zhs": {
-"content_id": "cmn-t29-v1",
+"content_id": "zhs-t29-v1",
 "language": "zhs",
 "title": "约"
 }
@@ -2465,7 +2465,7 @@
 "title": "msalaba"
 },
 "zhs": {
-"content_id": "cmn-t30-v1",
+"content_id": "zhs-t30-v1",
 "language": "zhs",
 "title": "十字架"
 }
@@ -2522,7 +2522,7 @@
 "title": "laana"
 },
 "zhs": {
-"content_id": "cmn-t31-v1",
+"content_id": "zhs-t31-v1",
 "language": "zhs",
 "title": "咒诅"
 }
@@ -2579,7 +2579,7 @@
 "title": "Daudi"
 },
 "zhs": {
-"content_id": "cmn-t33-v1",
+"content_id": "zhs-t33-v1",
 "language": "zhs",
 "title": "大卫"
 }
@@ -2636,7 +2636,7 @@
 "title": "Dekapoli"
 },
 "zhs": {
-"content_id": "cmn-t35-v1",
+"content_id": "zhs-t35-v1",
 "language": "zhs",
 "title": "低加坡里"
 }
@@ -2698,7 +2698,7 @@
 "title": "pepo"
 },
 "zhs": {
-"content_id": "cmn-t36-v1",
+"content_id": "zhs-t36-v1",
 "language": "zhs",
 "title": "鬼"
 }
@@ -2755,7 +2755,7 @@
 "title": "dinari"
 },
 "zhs": {
-"content_id": "cmn-t37-v1",
+"content_id": "zhs-t37-v1",
 "language": "zhs",
 "title": "得拿利"
 }
@@ -2817,7 +2817,7 @@
 "title": "jangwa"
 },
 "zhs": {
-"content_id": "cmn-t38-v1",
+"content_id": "zhs-t38-v1",
 "language": "zhs",
 "title": "沙漠"
 }
@@ -2874,7 +2874,7 @@
 "title": "mfuasi"
 },
 "zhs": {
-"content_id": "cmn-t39-v1",
+"content_id": "zhs-t39-v1",
 "language": "zhs",
 "title": "门徒"
 }
@@ -2931,7 +2931,7 @@
 "title": "talaka"
 },
 "zhs": {
-"content_id": "cmn-t40-v1",
+"content_id": "zhs-t40-v1",
 "language": "zhs",
 "title": "休妻（离婚）"
 }
@@ -2988,7 +2988,7 @@
 "title": "punda"
 },
 "zhs": {
-"content_id": "cmn-t41-v1",
+"content_id": "zhs-t41-v1",
 "language": "zhs",
 "title": "驴"
 }
@@ -3045,7 +3045,7 @@
 "title": "njiwa"
 },
 "zhs": {
-"content_id": "cmn-t42-v1",
+"content_id": "zhs-t42-v1",
 "language": "zhs",
 "title": "鸽子"
 }
@@ -3102,7 +3102,7 @@
 "title": "mzee"
 },
 "zhs": {
-"content_id": "cmn-t43-v1",
+"content_id": "zhs-t43-v1",
 "language": "zhs",
 "title": "长老"
 }
@@ -3159,7 +3159,7 @@
 "title": "Eliya"
 },
 "zhs": {
-"content_id": "cmn-t44-v1",
+"content_id": "zhs-t44-v1",
 "language": "zhs",
 "title": "以利亚"
 }
@@ -3268,7 +3268,7 @@
 "title": "uzima wa milele"
 },
 "zhs": {
-"content_id": "cmn-t46-v1",
+"content_id": "zhs-t46-v1",
 "language": "zhs",
 "title": "永生"
 }
@@ -3325,7 +3325,7 @@
 "title": "pepo mbaya"
 },
 "zhs": {
-"content_id": "cmn-t47-v1",
+"content_id": "zhs-t47-v1",
 "language": "zhs",
 "title": "邪灵"
 }
@@ -3387,7 +3387,7 @@
 "title": "imani"
 },
 "zhs": {
-"content_id": "cmn-t48-v1",
+"content_id": "zhs-t48-v1",
 "language": "zhs",
 "title": "信心"
 }
@@ -3444,7 +3444,7 @@
 "title": "kufunga"
 },
 "zhs": {
-"content_id": "cmn-t49-v1",
+"content_id": "zhs-t49-v1",
 "language": "zhs",
 "title": "禁食"
 }
@@ -3501,7 +3501,7 @@
 "title": "mtini"
 },
 "zhs": {
-"content_id": "cmn-t51-v1",
+"content_id": "zhs-t51-v1",
 "language": "zhs",
 "title": "无花果树"
 }
@@ -3563,7 +3563,7 @@
 "title": "nyavu"
 },
 "zhs": {
-"content_id": "cmn-t52-v1",
+"content_id": "zhs-t52-v1",
 "language": "zhs",
 "title": "渔网"
 }
@@ -3625,7 +3625,7 @@
 "title": "msamaha"
 },
 "zhs": {
-"content_id": "cmn-t53-v1",
+"content_id": "zhs-t53-v1",
 "language": "zhs",
 "title": "饶恕"
 }
@@ -3739,7 +3739,7 @@
 "title": "Galilaya"
 },
 "zhs": {
-"content_id": "cmn-t55-v1",
+"content_id": "zhs-t55-v1",
 "language": "zhs",
 "title": "加利利"
 }
@@ -3796,7 +3796,7 @@
 "title": "Mtu wa Mataifa"
 },
 "zhs": {
-"content_id": "cmn-t56-v1",
+"content_id": "zhs-t56-v1",
 "language": "zhs",
 "title": "外邦人"
 }
@@ -3853,7 +3853,7 @@
 "title": "Wagerasi"
 },
 "zhs": {
-"content_id": "cmn-t57-v1",
+"content_id": "zhs-t57-v1",
 "language": "zhs",
 "title": "格拉森人"
 }
@@ -3910,7 +3910,7 @@
 "title": "utukufu"
 },
 "zhs": {
-"content_id": "cmn-t58-v1",
+"content_id": "zhs-t58-v1",
 "language": "zhs",
 "title": "荣耀"
 }
@@ -3972,7 +3972,7 @@
 "title": "injili"
 },
 "zhs": {
-"content_id": "cmn-t60-v1",
+"content_id": "zhs-t60-v1",
 "language": "zhs",
 "title": "福音"
 }
@@ -4086,7 +4086,7 @@
 "title": "kuponya"
 },
 "zhs": {
-"content_id": "cmn-t62-v1",
+"content_id": "zhs-t62-v1",
 "language": "zhs",
 "title": "医治"
 }
@@ -4148,7 +4148,7 @@
 "title": "mbingu"
 },
 "zhs": {
-"content_id": "cmn-t63-v1",
+"content_id": "zhs-t63-v1",
 "language": "zhs",
 "title": "天堂、天、天上"
 }
@@ -4205,7 +4205,7 @@
 "title": "mrithi"
 },
 "zhs": {
-"content_id": "cmn-t64-v1",
+"content_id": "zhs-t64-v1",
 "language": "zhs",
 "title": "后嗣"
 }
@@ -4262,7 +4262,7 @@
 "title": "jehanamu"
 },
 "zhs": {
-"content_id": "cmn-t65-v1",
+"content_id": "zhs-t65-v1",
 "language": "zhs",
 "title": "地狱"
 }
@@ -4319,7 +4319,7 @@
 "title": "Herodia"
 },
 "zhs": {
-"content_id": "cmn-t66-v1",
+"content_id": "zhs-t66-v1",
 "language": "zhs",
 "title": "希律党人"
 }
@@ -4381,7 +4381,7 @@
 "title": "takatifu"
 },
 "zhs": {
-"content_id": "cmn-t67-v1",
+"content_id": "zhs-t67-v1",
 "language": "zhs",
 "title": "圣洁"
 }
@@ -4443,7 +4443,7 @@
 "title": "Roho Mtakatifu"
 },
 "zhs": {
-"content_id": "cmn-t68-v1",
+"content_id": "zhs-t68-v1",
 "language": "zhs",
 "title": "圣灵"
 }
@@ -4500,7 +4500,7 @@
 "title": "Hosana"
 },
 "zhs": {
-"content_id": "cmn-t69-v1",
+"content_id": "zhs-t69-v1",
 "language": "zhs",
 "title": "和散那"
 }
@@ -4557,7 +4557,7 @@
 "title": "kaya"
 },
 "zhs": {
-"content_id": "cmn-t70-v1",
+"content_id": "zhs-t70-v1",
 "language": "zhs",
 "title": "家中的人"
 }
@@ -4614,7 +4614,7 @@
 "title": "unafiki"
 },
 "zhs": {
-"content_id": "cmn-t71-v1",
+"content_id": "zhs-t71-v1",
 "language": "zhs",
 "title": "假冒为善"
 }
@@ -4723,7 +4723,7 @@
 "title": "Isaya"
 },
 "zhs": {
-"content_id": "cmn-t73-v1",
+"content_id": "zhs-t73-v1",
 "language": "zhs",
 "title": "以赛亚"
 }
@@ -4832,7 +4832,7 @@
 "title": "Yakobo"
 },
 "zhs": {
-"content_id": "cmn-t75-v1",
+"content_id": "zhs-t75-v1",
 "language": "zhs",
 "title": "雅各"
 }
@@ -4894,7 +4894,7 @@
 "title": "Yerusalemu"
 },
 "zhs": {
-"content_id": "cmn-t76-v1",
+"content_id": "zhs-t76-v1",
 "language": "zhs",
 "title": "耶路撒冷"
 }
@@ -5003,7 +5003,7 @@
 "title": "Yohana"
 },
 "zhs": {
-"content_id": "cmn-t78-v1",
+"content_id": "zhs-t78-v1",
 "language": "zhs",
 "title": "约翰"
 }
@@ -5060,7 +5060,7 @@
 "title": "Yohana Mbatizaji"
 },
 "zhs": {
-"content_id": "cmn-t79-v1",
+"content_id": "zhs-t79-v1",
 "language": "zhs",
 "title": "施洗约翰"
 }
@@ -5117,7 +5117,7 @@
 "title": "Mto Yordani"
 },
 "zhs": {
-"content_id": "cmn-t80-v1",
+"content_id": "zhs-t80-v1",
 "language": "zhs",
 "title": "约旦河"
 }
@@ -5174,7 +5174,7 @@
 "title": "Yudea"
 },
 "zhs": {
-"content_id": "cmn-t81-v1",
+"content_id": "zhs-t81-v1",
 "language": "zhs",
 "title": "犹大（旧约）犹太（新约）"
 }
@@ -5236,7 +5236,7 @@
 "title": "ufalme wa Mungu"
 },
 "zhs": {
-"content_id": "cmn-t82-v1",
+"content_id": "zhs-t82-v1",
 "language": "zhs",
 "title": "神的国"
 }
@@ -5298,7 +5298,7 @@
 "title": "sheria"
 },
 "zhs": {
-"content_id": "cmn-t83-v1",
+"content_id": "zhs-t83-v1",
 "language": "zhs",
 "title": "律法"
 }
@@ -5355,7 +5355,7 @@
 "title": "jeshi"
 },
 "zhs": {
-"content_id": "cmn-t84-v1",
+"content_id": "zhs-t84-v1",
 "language": "zhs",
 "title": "群"
 }
@@ -5417,7 +5417,7 @@
 "title": "Ukoma"
 },
 "zhs": {
-"content_id": "cmn-t85-v1",
+"content_id": "zhs-t85-v1",
 "language": "zhs",
 "title": "痲疯病"
 }
@@ -5474,7 +5474,7 @@
 "title": "Bwana"
 },
 "zhs": {
-"content_id": "cmn-t87-v1",
+"content_id": "zhs-t87-v1",
 "language": "zhs",
 "title": "主"
 }
@@ -5531,7 +5531,7 @@
 "title": "Bwana"
 },
 "zhs": {
-"content_id": "cmn-t88-v1",
+"content_id": "zhs-t88-v1",
 "language": "zhs",
 "title": "主、耶和华"
 }
@@ -5692,7 +5692,7 @@
 "title": "huruma"
 },
 "zhs": {
-"content_id": "cmn-t91-v1",
+"content_id": "zhs-t91-v1",
 "language": "zhs",
 "title": "怜悯"
 }
@@ -5749,7 +5749,7 @@
 "title": "Masihi"
 },
 "zhs": {
-"content_id": "cmn-t92-v1",
+"content_id": "zhs-t92-v1",
 "language": "zhs",
 "title": "弥赛亚"
 }
@@ -5806,7 +5806,7 @@
 "title": "miujiza"
 },
 "zhs": {
-"content_id": "cmn-t93-v1",
+"content_id": "zhs-t93-v1",
 "language": "zhs",
 "title": "神迹"
 }
@@ -5863,7 +5863,7 @@
 "title": "taifa"
 },
 "zhs": {
-"content_id": "cmn-t94-v1",
+"content_id": "zhs-t94-v1",
 "language": "zhs",
 "title": "国"
 }
@@ -5925,7 +5925,7 @@
 "title": "Nazareti"
 },
 "zhs": {
-"content_id": "cmn-t95-v1",
+"content_id": "zhs-t95-v1",
 "language": "zhs",
 "title": "拿撒勒"
 }
@@ -5982,7 +5982,7 @@
 "title": "kiapo"
 },
 "zhs": {
-"content_id": "cmn-t96-v1",
+"content_id": "zhs-t96-v1",
 "language": "zhs",
 "title": "誓、起誓"
 }
@@ -6039,7 +6039,7 @@
 "title": "taa ya mafuta"
 },
 "zhs": {
-"content_id": "cmn-t97-v1",
+"content_id": "zhs-t97-v1",
 "language": "zhs",
 "title": "油灯"
 }
@@ -6096,7 +6096,7 @@
 "title": "mfano"
 },
 "zhs": {
-"content_id": "cmn-t98-v1",
+"content_id": "zhs-t98-v1",
 "language": "zhs",
 "title": "比喻"
 }
@@ -6200,7 +6200,7 @@
 "title": "Farisayo"
 },
 "zhs": {
-"content_id": "cmn-t100-v1",
+"content_id": "zhs-t100-v1",
 "language": "zhs",
 "title": "法利赛人"
 }
@@ -6262,7 +6262,7 @@
 "title": "pagawa"
 },
 "zhs": {
-"content_id": "cmn-t101-v1",
+"content_id": "zhs-t101-v1",
 "language": "zhs",
 "title": "（被鬼）附"
 }
@@ -6319,7 +6319,7 @@
 "title": "sali"
 },
 "zhs": {
-"content_id": "cmn-t102-v1",
+"content_id": "zhs-t102-v1",
 "language": "zhs",
 "title": "祷告"
 }
@@ -6376,7 +6376,7 @@
 "title": "kuhani"
 },
 "zhs": {
-"content_id": "cmn-t103-v1",
+"content_id": "zhs-t103-v1",
 "language": "zhs",
 "title": "祭司"
 }
@@ -6433,7 +6433,7 @@
 "title": "nabii"
 },
 "zhs": {
-"content_id": "cmn-t104-v1",
+"content_id": "zhs-t104-v1",
 "language": "zhs",
 "title": "先知"
 }
@@ -6490,7 +6490,7 @@
 "title": "fidia"
 },
 "zhs": {
-"content_id": "cmn-t105-v1",
+"content_id": "zhs-t105-v1",
 "language": "zhs",
 "title": "赎价"
 }
@@ -6542,7 +6542,7 @@
 "title": "rabi"
 },
 "zhs": {
-"content_id": "cmn-t106-v1",
+"content_id": "zhs-t106-v1",
 "language": "zhs",
 "title": "拉比"
 }
@@ -6651,7 +6651,7 @@
 "title": "toba"
 },
 "zhs": {
-"content_id": "cmn-t109-v1",
+"content_id": "zhs-t109-v1",
 "language": "zhs",
 "title": "悔改"
 }
@@ -6708,7 +6708,7 @@
 "title": "ufufuo"
 },
 "zhs": {
-"content_id": "cmn-t110-v1",
+"content_id": "zhs-t110-v1",
 "language": "zhs",
 "title": "复活"
 }
@@ -6765,7 +6765,7 @@
 "title": "kuwa mwenye haki"
 },
 "zhs": {
-"content_id": "cmn-t111-v1",
+"content_id": "zhs-t111-v1",
 "language": "zhs",
 "title": "公义"
 }
@@ -6822,7 +6822,7 @@
 "title": "vazi"
 },
 "zhs": {
-"content_id": "cmn-t112-v1",
+"content_id": "zhs-t112-v1",
 "language": "zhs",
 "title": "外袍"
 }
@@ -6884,7 +6884,7 @@
 "title": "sabato"
 },
 "zhs": {
-"content_id": "cmn-t113-v1",
+"content_id": "zhs-t113-v1",
 "language": "zhs",
 "title": "安息日"
 }
@@ -6941,7 +6941,7 @@
 "title": "dhabihu"
 },
 "zhs": {
-"content_id": "cmn-t114-v1",
+"content_id": "zhs-t114-v1",
 "language": "zhs",
 "title": "献祭"
 }
@@ -6998,7 +6998,7 @@
 "title": "Masadukayo"
 },
 "zhs": {
-"content_id": "cmn-t115-v1",
+"content_id": "zhs-t115-v1",
 "language": "zhs",
 "title": "撒都该人"
 }
@@ -7055,7 +7055,7 @@
 "title": "wokovu"
 },
 "zhs": {
-"content_id": "cmn-t116-v1",
+"content_id": "zhs-t116-v1",
 "language": "zhs",
 "title": "救恩"
 }
@@ -7169,7 +7169,7 @@
 "title": "Shetani"
 },
 "zhs": {
-"content_id": "cmn-t118-v1",
+"content_id": "zhs-t118-v1",
 "language": "zhs",
 "title": "撒但"
 }
@@ -7278,7 +7278,7 @@
 "title": "maandiko"
 },
 "zhs": {
-"content_id": "cmn-t120-v1",
+"content_id": "zhs-t120-v1",
 "language": "zhs",
 "title": "经文"
 }
@@ -7340,7 +7340,7 @@
 "title": "Bahari ya Galilaya"
 },
 "zhs": {
-"content_id": "cmn-t121-v1",
+"content_id": "zhs-t121-v1",
 "language": "zhs",
 "title": "加利利海"
 }
@@ -7397,7 +7397,7 @@
 "title": "mbegu"
 },
 "zhs": {
-"content_id": "cmn-t122-v1",
+"content_id": "zhs-t122-v1",
 "language": "zhs",
 "title": "种子"
 }
@@ -7454,7 +7454,7 @@
 "title": "mtumishi"
 },
 "zhs": {
-"content_id": "cmn-t123-v2",
+"content_id": "zhs-t123-v2",
 "language": "zhs",
 "title": "仆人"
 }
@@ -7511,7 +7511,7 @@
 "title": "makazi"
 },
 "zhs": {
-"content_id": "cmn-t124-v1",
+"content_id": "zhs-t124-v1",
 "language": "zhs",
 "title": "住棚、帐篷"
 }
@@ -7573,7 +7573,7 @@
 "title": "Dhambi"
 },
 "zhs": {
-"content_id": "cmn-t125-v1",
+"content_id": "zhs-t125-v1",
 "language": "zhs",
 "title": "罪"
 }
@@ -7630,7 +7630,7 @@
 "title": "mtumwa"
 },
 "zhs": {
-"content_id": "cmn-t126-v2",
+"content_id": "zhs-t126-v2",
 "language": "zhs",
 "title": "奴隶"
 }
@@ -7687,7 +7687,7 @@
 "title": "mwana"
 },
 "zhs": {
-"content_id": "cmn-t127-v1",
+"content_id": "zhs-t127-v1",
 "language": "zhs",
 "title": "儿子"
 }
@@ -7744,7 +7744,7 @@
 "title": "Mwana wa Daudi"
 },
 "zhs": {
-"content_id": "cmn-t128-v1",
+"content_id": "zhs-t128-v1",
 "language": "zhs",
 "title": "大卫的子孙"
 }
@@ -7806,7 +7806,7 @@
 "title": "Mwana wa Mungu"
 },
 "zhs": {
-"content_id": "cmn-t129-v1",
+"content_id": "zhs-t129-v1",
 "language": "zhs",
 "title": "神的儿子"
 }
@@ -7863,7 +7863,7 @@
 "title": "Mwana wa Adamu"
 },
 "zhs": {
-"content_id": "cmn-t130-v1",
+"content_id": "zhs-t130-v1",
 "language": "zhs",
 "title": "人子"
 }
@@ -7920,7 +7920,7 @@
 "title": "nafsi"
 },
 "zhs": {
-"content_id": "cmn-t131-v1",
+"content_id": "zhs-t131-v1",
 "language": "zhs",
 "title": "灵魂"
 }
@@ -7977,7 +7977,7 @@
 "title": "roho"
 },
 "zhs": {
-"content_id": "cmn-t132-v1",
+"content_id": "zhs-t132-v1",
 "language": "zhs",
 "title": "灵"
 }
@@ -8034,7 +8034,7 @@
 "title": "sinagogi"
 },
 "zhs": {
-"content_id": "cmn-t133-v1",
+"content_id": "zhs-t133-v1",
 "language": "zhs",
 "title": "会堂"
 }
@@ -8091,7 +8091,7 @@
 "title": "mtawala wa sinagogi"
 },
 "zhs": {
-"content_id": "cmn-t134-v1",
+"content_id": "zhs-t134-v1",
 "language": "zhs",
 "title": "管理犹太会堂的人"
 }
@@ -8148,7 +8148,7 @@
 "title": "Foinike ya Siria"
 },
 "zhs": {
-"content_id": "cmn-t135-v1",
+"content_id": "zhs-t135-v1",
 "language": "zhs",
 "title": "叙利亚腓尼基"
 }
@@ -8205,7 +8205,7 @@
 "title": "mwalimu"
 },
 "zhs": {
-"content_id": "cmn-t136-v1",
+"content_id": "zhs-t136-v1",
 "language": "zhs",
 "title": "教师"
 }
@@ -8267,7 +8267,7 @@
 "title": "walimu wa sheria"
 },
 "zhs": {
-"content_id": "cmn-t137-v1",
+"content_id": "zhs-t137-v1",
 "language": "zhs",
 "title": "律法教师、教法师"
 }
@@ -8324,7 +8324,7 @@
 "title": "hekalu"
 },
 "zhs": {
-"content_id": "cmn-t138-v1",
+"content_id": "zhs-t138-v1",
 "language": "zhs",
 "title": "圣殿"
 }
@@ -8381,7 +8381,7 @@
 "title": "wapangaji"
 },
 "zhs": {
-"content_id": "cmn-t139-v1",
+"content_id": "zhs-t139-v1",
 "language": "zhs",
 "title": "园户"
 }
@@ -8438,7 +8438,7 @@
 "title": "kaburi"
 },
 "zhs": {
-"content_id": "cmn-t140-v1",
+"content_id": "zhs-t140-v1",
 "language": "zhs",
 "title": "坟墓"
 }
@@ -8495,7 +8495,7 @@
 "title": "Tiro"
 },
 "zhs": {
-"content_id": "cmn-t141-v1",
+"content_id": "zhs-t141-v1",
 "language": "zhs",
 "title": "泰尔（有些译本译为：推罗）"
 }
@@ -8552,7 +8552,7 @@
 "title": "shamba la mizabibu"
 },
 "zhs": {
-"content_id": "cmn-t142-v1",
+"content_id": "zhs-t142-v1",
 "language": "zhs",
 "title": "葡萄园"
 }
@@ -8661,7 +8661,7 @@
 "title": "mnara wa ulinzi"
 },
 "zhs": {
-"content_id": "cmn-t144-v1",
+"content_id": "zhs-t144-v1",
 "language": "zhs",
 "title": "守望台"
 }
@@ -8718,7 +8718,7 @@
 "title": "jangwa"
 },
 "zhs": {
-"content_id": "cmn-t145-v1",
+"content_id": "zhs-t145-v1",
 "language": "zhs",
 "title": "旷野"
 }
@@ -8775,7 +8775,7 @@
 "title": "shinikizo la mvinyo"
 },
 "zhs": {
-"content_id": "cmn-t146-v1",
+"content_id": "zhs-t146-v1",
 "language": "zhs",
 "title": "酒榨"
 }
@@ -8827,7 +8827,7 @@
 "title": "wisdom"
 },
 "zhs": {
-"content_id": "cmn-t147-v1",
+"content_id": "zhs-t147-v1",
 "language": "zhs",
 "title": "智慧"
 }
@@ -8884,7 +8884,7 @@
 "title": "Neno"
 },
 "zhs": {
-"content_id": "cmn-t148-v1",
+"content_id": "zhs-t148-v1",
 "language": "zhs",
 "title": "道"
 }
@@ -8993,7 +8993,7 @@
 "title": "moyo"
 },
 "zhs": {
-"content_id": "cmn-t150-v1",
+"content_id": "zhs-t150-v1",
 "language": "zhs",
 "title": "心"
 }
@@ -9050,7 +9050,7 @@
 "title": "akili"
 },
 "zhs": {
-"content_id": "cmn-t151-v1",
+"content_id": "zhs-t151-v1",
 "language": "zhs",
 "title": "意、心意、心里、心思、意念、悟性、理智、心地"
 }
@@ -9107,7 +9107,7 @@
 "title": "nguvu"
 },
 "zhs": {
-"content_id": "cmn-t152-v1",
+"content_id": "zhs-t152-v1",
 "language": "zhs",
 "title": "力量"
 }
@@ -9164,7 +9164,7 @@
 "title": "sadaka kuteketezwa"
 },
 "zhs": {
-"content_id": "cmn-t154-v1",
+"content_id": "zhs-t154-v1",
 "language": "zhs",
 "title": "燔祭"
 }
@@ -9221,7 +9221,7 @@
 "title": "mwandishi"
 },
 "zhs": {
-"content_id": "cmn-t155-v1",
+"content_id": "zhs-t155-v1",
 "language": "zhs",
 "title": "文士"
 }
@@ -9278,7 +9278,7 @@
 "title": "ishara"
 },
 "zhs": {
-"content_id": "cmn-t156-v1",
+"content_id": "zhs-t156-v1",
 "language": "zhs",
 "title": "记号"
 }
@@ -9335,7 +9335,7 @@
 "title": "ufalme"
 },
 "zhs": {
-"content_id": "cmn-t157-v1",
+"content_id": "zhs-t157-v1",
 "language": "zhs",
 "title": "国"
 }
@@ -9496,7 +9496,7 @@
 "title": "habari njema"
 },
 "zhs": {
-"content_id": "cmn-t160-v1",
+"content_id": "zhs-t160-v1",
 "language": "zhs",
 "title": "好消息"
 }
@@ -9605,7 +9605,7 @@
 "title": "Pasaka"
 },
 "zhs": {
-"content_id": "cmn-t162-v1",
+"content_id": "zhs-t162-v1",
 "language": "zhs",
 "title": "逾越节"
 }
@@ -9714,7 +9714,7 @@
 "title": "Tamasha la Mikate isiyotiwa chachu"
 },
 "zhs": {
-"content_id": "cmn-t164-v1",
+"content_id": "zhs-t164-v1",
 "language": "zhs",
 "title": "无酵节"
 }
@@ -9771,7 +9771,7 @@
 "title": "tenzi"
 },
 "zhs": {
-"content_id": "cmn-t165-v1",
+"content_id": "zhs-t165-v1",
 "language": "zhs",
 "title": "赞美诗"
 }
@@ -9828,7 +9828,7 @@
 "title": "mchungaji"
 },
 "zhs": {
-"content_id": "cmn-t166-v1",
+"content_id": "zhs-t166-v1",
 "language": "zhs",
 "title": "牧羊人"
 }
@@ -9885,7 +9885,7 @@
 "title": "abba"
 },
 "zhs": {
-"content_id": "cmn-t167-v1",
+"content_id": "zhs-t167-v1",
 "language": "zhs",
 "title": "阿爸"
 }
@@ -9942,7 +9942,7 @@
 "title": "koti ya kiyahudi"
 },
 "zhs": {
-"content_id": "cmn-t168-v1",
+"content_id": "zhs-t168-v1",
 "language": "zhs",
 "title": "公会"
 }
@@ -9999,7 +9999,7 @@
 "title": "kusulubiwa"
 },
 "zhs": {
-"content_id": "cmn-t169-v1",
+"content_id": "zhs-t169-v1",
 "language": "zhs",
 "title": "钉十字架"
 }
@@ -10056,7 +10056,7 @@
 "title": "akida"
 },
 "zhs": {
-"content_id": "cmn-t170-v1",
+"content_id": "zhs-t170-v1",
 "language": "zhs",
 "title": "百夫长"
 }
@@ -10113,7 +10113,7 @@
 "title": "mafuta"
 },
 "zhs": {
-"content_id": "cmn-t171-v1",
+"content_id": "zhs-t171-v1",
 "language": "zhs",
 "title": "抹"
 }
@@ -10222,7 +10222,7 @@
 "title": "vizazi"
 },
 "zhs": {
-"content_id": "cmn-t173-v1",
+"content_id": "zhs-t173-v1",
 "language": "zhs",
 "title": "世代、后代"
 }
@@ -10591,7 +10591,7 @@
 "title": "kimau"
 },
 "zhs": {
-"content_id": "cmn-t180-v1",
+"content_id": "zhs-t180-v1",
 "language": "zhs",
 "title": "里衣、内衣、内袍"
 }
@@ -10648,7 +10648,7 @@
 "title": "ibilisi"
 },
 "zhs": {
-"content_id": "cmn-t181-v1",
+"content_id": "zhs-t181-v1",
 "language": "zhs",
 "title": "魔鬼"
 }
@@ -10757,7 +10757,7 @@
 "title": "nyumba ya Mungu"
 },
 "zhs": {
-"content_id": "cmn-t183-v1",
+"content_id": "zhs-t183-v1",
 "language": "zhs",
 "title": "神的家"
 }
@@ -10814,7 +10814,7 @@
 "title": "hema"
 },
 "zhs": {
-"content_id": "cmn-t184-v1",
+"content_id": "zhs-t184-v1",
 "language": "zhs",
 "title": "会幕"
 }
@@ -10975,7 +10975,7 @@
 "title": "uovu"
 },
 "zhs": {
-"content_id": "cmn-t187-v1",
+"content_id": "zhs-t187-v1",
 "language": "zhs",
 "title": "邪恶"
 }
@@ -11084,7 +11084,7 @@
 "title": "Mungu"
 },
 "zhs": {
-"content_id": "cmn-t189-v1",
+"content_id": "zhs-t189-v1",
 "language": "zhs",
 "title": "神、上帝"
 }
@@ -11302,7 +11302,7 @@
 "title": "sadaka"
 },
 "zhs": {
-"content_id": "cmn-t194-v1",
+"content_id": "zhs-t194-v1",
 "language": "zhs",
 "title": "祭物"
 }
@@ -11567,7 +11567,7 @@
 "title": "kumtukuza"
 },
 "zhs": {
-"content_id": "cmn-t199-v1",
+"content_id": "zhs-t199-v1",
 "language": "zhs",
 "title": "荣耀"
 }
@@ -11624,7 +11624,7 @@
 "title": "unabii"
 },
 "zhs": {
-"content_id": "cmn-t200-v1",
+"content_id": "zhs-t200-v1",
 "language": "zhs",
 "title": "预言"
 }
@@ -11894,7 +11894,7 @@
 "title": "huruma"
 },
 "zhs": {
-"content_id": "cmn-t205-v1",
+"content_id": "zhs-t205-v1",
 "language": "zhs",
 "title": "怜悯、怜恤"
 }
@@ -12159,7 +12159,7 @@
 "title": "Kigiriki"
 },
 "zhs": {
-"content_id": "cmn-t211-v1",
+"content_id": "zhs-t211-v1",
 "language": "zhs",
 "title": "希腊人"
 }
@@ -12268,7 +12268,7 @@
 "title": "lugha"
 },
 "zhs": {
-"content_id": "cmn-t213-v1",
+"content_id": "zhs-t213-v1",
 "language": "zhs",
 "title": "方言"
 }
@@ -12377,7 +12377,7 @@
 "title": "ubaya"
 },
 "zhs": {
-"content_id": "cmn-t215-v1",
+"content_id": "zhs-t215-v1",
 "language": "zhs",
 "title": "邪恶"
 }
@@ -12954,7 +12954,7 @@
 "title": "mfalme"
 },
 "zhs": {
-"content_id": "cmn-t226-v1",
+"content_id": "zhs-t226-v1",
 "language": "zhs",
 "title": "王"
 }
@@ -13427,7 +13427,7 @@
 "title": "amina"
 },
 "zhs": {
-"content_id": "cmn-t236-v1",
+"content_id": "zhs-t236-v1",
 "language": "zhs",
 "title": "阿们"
 }

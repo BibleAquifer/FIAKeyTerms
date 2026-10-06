@@ -8,7 +8,7 @@
 "index_reference": "закон",
 "language": "rus",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/rus/t83/v1/vbr4.mp3'>mp3 file</a> (1098958 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/rus/t83/v1/vbr4.mp3'>mp3 file</a> (1.0 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -262,6 +262,18 @@
 "start_ref_usfm": "2KI 14:1",
 "end_ref": "12014007",
 "end_ref_usfm": "2KI 14:7"
+},
+{
+"start_ref": "12017007",
+"start_ref_usfm": "2KI 17:7",
+"end_ref": "12017023",
+"end_ref_usfm": "2KI 17:23"
+},
+{
+"start_ref": "12017024",
+"start_ref_usfm": "2KI 17:24",
+"end_ref": "12017041",
+"end_ref_usfm": "2KI 17:41"
 },
 {
 "start_ref": "13016037",
@@ -598,21 +610,17 @@
 "start_ref_usfm": "ACT 25:13",
 "end_ref": "44025022",
 "end_ref_usfm": "ACT 25:22"
-},
-{
-"start_ref": "44028017",
-"start_ref_usfm": "ACT 28:17",
-"end_ref": "44028031",
-"end_ref_usfm": "ACT 28:31"
-},
-{
-"start_ref": "46009001",
-"start_ref_usfm": "1CO 9:1",
-"end_ref": "46009014",
-"end_ref_usfm": "1CO 9:14"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "rus-t83-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Закон",
+"language": "rus"
+}
+]
 }
 }
 ]

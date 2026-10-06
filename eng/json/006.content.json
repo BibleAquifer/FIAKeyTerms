@@ -654,6 +654,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "forgiven",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t48-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "faith",
+"language": "eng"
 }
 ],
 "acai": []
@@ -668,7 +675,7 @@
 "index_reference": "faith",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t48/v1/vbr4.mp3'>mp3 file</a> (2305605 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t48/v1/vbr4.mp3'>mp3 file</a> (2.2 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -1272,7 +1279,15 @@
 "end_ref_usfm": "2TI 2:19"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t48-v1",
+"resource_code": "FIAKeyTerms",
+"label": "faith",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -1467,6 +1482,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "prophets",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t49-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "fasting",
+"language": "eng"
 }
 ],
 "acai": []
@@ -1481,7 +1503,7 @@
 "index_reference": "fasting",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t49/v1/vbr4.mp3'>mp3 file</a> (1503308 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t49/v1/vbr4.mp3'>mp3 file</a> (1.4 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -1629,7 +1651,15 @@
 "end_ref_usfm": "ACT 27:26"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t49-v1",
+"resource_code": "FIAKeyTerms",
+"label": "fasting",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -1805,6 +1835,12 @@
 "start_ref_usfm": "2KI 4:1",
 "end_ref": "12004007",
 "end_ref_usfm": "2KI 4:7"
+},
+{
+"start_ref": "12017024",
+"start_ref_usfm": "2KI 17:24",
+"end_ref": "12017041",
+"end_ref_usfm": "2KI 17:41"
 },
 {
 "start_ref": "13014008",
@@ -2008,6 +2044,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "sin",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t185-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "fear of God",
+"language": "eng"
 }
 ],
 "acai": [
@@ -2030,7 +2073,7 @@
 "index_reference": "fear of god",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t185/v1/vbr4.mp3'>mp3 file</a> (697196 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t185/v1/vbr4.mp3'>mp3 file</a> (681 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -2194,6 +2237,12 @@
 "start_ref_usfm": "2KI 4:1",
 "end_ref": "12004007",
 "end_ref_usfm": "2KI 4:7"
+},
+{
+"start_ref": "12017024",
+"start_ref_usfm": "2KI 17:24",
+"end_ref": "12017041",
+"end_ref_usfm": "2KI 17:41"
 },
 {
 "start_ref": "13014008",
@@ -2376,7 +2425,15 @@
 "end_ref_usfm": "PHP 2:18"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t185-v1",
+"resource_code": "FIAKeyTerms",
+"label": "fear of God",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -2454,6 +2511,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "Holy Spirit",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t50-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "fellowship",
+"language": "eng"
 }
 ],
 "acai": [
@@ -2476,7 +2540,7 @@
 "index_reference": "fellowship",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t50/v1/vbr4.mp3'>mp3 file</a> (440661 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t50/v1/vbr4.mp3'>mp3 file</a> (430 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -2528,7 +2592,15 @@
 "end_ref_usfm": "JUD 1:16"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t50-v1",
+"resource_code": "FIAKeyTerms",
+"label": "fellowship",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -2585,6 +2657,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "temple",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t239-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "Festival of Dedication",
+"language": "eng"
 }
 ],
 "acai": []
@@ -2599,7 +2678,7 @@
 "index_reference": "festival of dedication",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t239/v1/vbr4.mp3'>mp3 file</a> (1212260 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t239/v1/vbr4.mp3'>mp3 file</a> (1.2 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -2609,7 +2688,15 @@
 "end_ref_usfm": "JHN 10:42"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t239-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Festival of Dedication",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -2751,6 +2838,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "Jerusalem",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t233-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "Festival of Tabernacles",
+"language": "eng"
 }
 ],
 "acai": [
@@ -2780,7 +2874,7 @@
 "index_reference": "festival of tabernacles",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t233/v1/vbr4.mp3'>mp3 file</a> (1129100 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t233/v1/vbr4.mp3'>mp3 file</a> (1.1 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -2868,7 +2962,15 @@
 "end_ref_usfm": "JHN 8:20"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t233-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Festival of Tabernacles",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -2932,7 +3034,15 @@
 "end_ref_usfm": "EZR 3:7"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t304-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "festival of the new moon",
+"language": "eng"
+}
+],
 "acai": [
 {
 "id": "keyterm:NewMoonFestival",
@@ -2953,7 +3063,7 @@
 "index_reference": "festival of the new moon",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t304/v1/vbr4.mp3'>mp3 file</a> (1002189 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t304/v1/vbr4.mp3'>mp3 file</a> (979 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -3005,7 +3115,15 @@
 "end_ref_usfm": "EZR 3:7"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t304-v1",
+"resource_code": "FIAKeyTerms",
+"label": "festival of the new moon",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -3033,7 +3151,15 @@
 "end_ref_usfm": "NUM 29:6"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t268-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "Festival of Trumpets",
+"language": "eng"
+}
+],
 "acai": []
 }
 },
@@ -3046,7 +3172,7 @@
 "index_reference": "festival of trumpets",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t268/v1/vbr4.mp3'>mp3 file</a> (808605 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t268/v1/vbr4.mp3'>mp3 file</a> (790 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -3062,7 +3188,15 @@
 "end_ref_usfm": "NUM 29:6"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t268-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Festival of Trumpets",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -3264,6 +3398,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "sin",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t164-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "Festival of Unleavened Bread",
+"language": "eng"
 }
 ],
 "acai": []
@@ -3278,7 +3419,7 @@
 "index_reference": "festival of unleavened bread",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t164/v1/vbr4.mp3'>mp3 file</a> (3806324 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t164/v1/vbr4.mp3'>mp3 file</a> (3.6 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -3384,7 +3525,15 @@
 "end_ref_usfm": "ACT 20:6"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t164-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Festival of Unleavened Bread",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -3418,7 +3567,15 @@
 "end_ref_usfm": "2CH 8:18"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t287-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "Festival of Weeks",
+"language": "eng"
+}
+],
 "acai": [
 {
 "id": "keyterm:FeastOfWeeks",
@@ -3439,7 +3596,7 @@
 "index_reference": "festival of weeks",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t287/v1/vbr4.mp3'>mp3 file</a> (1887501 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t287/v1/vbr4.mp3'>mp3 file</a> (1.8 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -3461,7 +3618,15 @@
 "end_ref_usfm": "2CH 8:18"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t287-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Festival of Weeks",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -3526,6 +3691,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "Israel",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t51-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "fig tree",
+"language": "eng"
 }
 ],
 "acai": [
@@ -3548,7 +3720,7 @@
 "index_reference": "fig tree",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t51/v1/vbr4.mp3'>mp3 file</a> (388965 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t51/v1/vbr4.mp3'>mp3 file</a> (380 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -3594,7 +3766,15 @@
 "end_ref_usfm": "LUK 13:9"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t51-v1",
+"resource_code": "FIAKeyTerms",
+"label": "fig tree",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -3640,7 +3820,15 @@
 "end_ref_usfm": "JAS 1:18"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t317-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "firstfruits",
+"language": "eng"
+}
+],
 "acai": []
 }
 },
@@ -3653,7 +3841,7 @@
 "index_reference": "firstfruits",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t317/v1/vbr4.mp3'>mp3 file</a> (1584566 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t317/v1/vbr4.mp3'>mp3 file</a> (1.5 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -3687,7 +3875,15 @@
 "end_ref_usfm": "JAS 1:18"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t317-v1",
+"resource_code": "FIAKeyTerms",
+"label": "firstfruits",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -3715,7 +3911,15 @@
 "end_ref_usfm": "JHN 21:14"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t52-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "fishing net",
+"language": "eng"
+}
+],
 "acai": [
 {
 "id": "realia:CastingNet",
@@ -3736,7 +3940,7 @@
 "index_reference": "fishing net",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t52/v1/vbr4.mp3'>mp3 file</a> (390500 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t52/v1/vbr4.mp3'>mp3 file</a> (381 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -3752,7 +3956,15 @@
 "end_ref_usfm": "JHN 21:14"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t52-v1",
+"resource_code": "FIAKeyTerms",
+"label": "fishing net",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -3870,7 +4082,15 @@
 "end_ref_usfm": "1JN 4:6"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t312-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "flesh",
+"language": "eng"
+}
+],
 "acai": []
 }
 },
@@ -3883,7 +4103,7 @@
 "index_reference": "flesh",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t312/v1/vbr4.mp3'>mp3 file</a> (1644597 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t312/v1/vbr4.mp3'>mp3 file</a> (1.6 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -3989,7 +4209,132 @@
 "end_ref_usfm": "1JN 4:6"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t312-v1",
+"resource_code": "FIAKeyTerms",
+"label": "flesh",
+"language": "eng"
+}
+]
+}
+},
+{
+"content_id": "eng-t301-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "fool",
+"media_type": "Text",
+"index_reference": "fool",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A <b>fool</b> is a person who is not wise. A fool may be someone who does not know much or has not yet learned about something. But a fool may also be someone who can think well and make right decisions, but chooses not to. Usually a fool knows the right way to act, but chooses to act in a bad way, so a fool often offends another person or God.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05031030",
+"start_ref_usfm": "DEU 31:30",
+"end_ref": "05032006",
+"end_ref_usfm": "DEU 32:6"
+},
+{
+"start_ref": "10003031",
+"start_ref_usfm": "2SA 3:31",
+"end_ref": "10003039",
+"end_ref_usfm": "2SA 3:39"
+},
+{
+"start_ref": "10013010",
+"start_ref_usfm": "2SA 13:10",
+"end_ref": "10013022",
+"end_ref_usfm": "2SA 13:22"
+},
+{
+"start_ref": "47011016",
+"start_ref_usfm": "2CO 11:16",
+"end_ref": "47011033",
+"end_ref_usfm": "2CO 11:33"
+},
+{
+"start_ref": "59002014",
+"start_ref_usfm": "JAS 2:14",
+"end_ref": "59002026",
+"end_ref_usfm": "JAS 2:26"
+}
+],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t301-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "fool",
+"language": "eng"
+}
+],
+"acai": [
+{
+"id": "keyterm:Fool",
+"type": "keyterm",
+"confidence": 0.8338,
+"match_method": "embedding",
+"preferred_label": "Fool"
+}
+]
+}
+},
+{
+"content_id": "eng-t301-v1-audio",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "fool",
+"media_type": "Audio",
+"index_reference": "fool",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t301/v1/vbr4.mp3'>mp3 file</a> (296 KB)</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05031030",
+"start_ref_usfm": "DEU 31:30",
+"end_ref": "05032006",
+"end_ref_usfm": "DEU 32:6"
+},
+{
+"start_ref": "10003031",
+"start_ref_usfm": "2SA 3:31",
+"end_ref": "10003039",
+"end_ref_usfm": "2SA 3:39"
+},
+{
+"start_ref": "10013010",
+"start_ref_usfm": "2SA 13:10",
+"end_ref": "10013022",
+"end_ref_usfm": "2SA 13:22"
+},
+{
+"start_ref": "47011016",
+"start_ref_usfm": "2CO 11:16",
+"end_ref": "47011033",
+"end_ref_usfm": "2CO 11:33"
+},
+{
+"start_ref": "59002014",
+"start_ref_usfm": "JAS 2:14",
+"end_ref": "59002026",
+"end_ref_usfm": "JAS 2:26"
+}
+],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t301-v1",
+"resource_code": "FIAKeyTerms",
+"label": "fool",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -4365,6 +4710,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "God's kingdom",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t192-v2-audio",
+"resource_code": "FIAKeyTerms",
+"label": "foreigner",
+"language": "eng"
 }
 ],
 "acai": []
@@ -4379,7 +4731,7 @@
 "index_reference": "foreigner",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t192/v2/vbr4.mp3'>mp3 file</a> (1387581 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t192/v2/vbr4.mp3'>mp3 file</a> (1.3 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -4701,7 +5053,15 @@
 "end_ref_usfm": "EPH 2:22"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t192-v2",
+"resource_code": "FIAKeyTerms",
+"label": "foreigner",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -5134,6 +5494,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "believe",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t53-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "forgiveness",
+"language": "eng"
 }
 ],
 "acai": []
@@ -5148,7 +5515,7 @@
 "index_reference": "forgiveness",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t53/v1/vbr4.mp3'>mp3 file</a> (1865660 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t53/v1/vbr4.mp3'>mp3 file</a> (1.8 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -5548,7 +5915,15 @@
 "end_ref_usfm": "1JN 2:17"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t53-v1",
+"resource_code": "FIAKeyTerms",
+"label": "forgiveness",
+"language": "eng"
+}
+]
 }
 }
 ]

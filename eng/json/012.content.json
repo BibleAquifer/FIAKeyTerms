@@ -1,5 +1,121 @@
 [
 {
+"content_id": "eng-t297-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "lament",
+"media_type": "Text",
+"index_reference": "lament",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A <b>lament</b> is a song people sing to mourn the death of someone, or to grieve the loss of something. In the Bible, it was common to sing during funerals, when people would bury someone who had died. People would also sing laments in other sad situations, such as when their nation was in trouble or when the people were sad that they had sinned.</p><p>Sometimes a person would create and sing a lament on their own. But often someone would create a lament to sing at a public gathering, where other people would sing the lament too. People would then teach this song to others so that people could sing this song again when they feel sad. Often, someone would create a lament for the whole nation to sing when the nation was in trouble.</p><p>Many of the laments in the Bible are songs that people kept so that they could sing the laments again and again. Some laments were for a specific situation, such as when enemies destroyed the city of <data class=\"resource-ref\" data-content-id=\"eng-t76-v1\" data-resource-code=\"FIAKeyTerms\">Jerusalem</data>. Some laments were for any situation when people felt sad.</p><p>When you are sad, it is hard sometimes to know what to say, but it often helps to talk about why you are sad. These laments would help people have words to sing when the people were grieving. People could sing these laments to show how sad, angry, or confused they were. These songs would cause other people to pay attention to the sad or bad things that were happening. Most of these laments lead people to sing to God, to tell God why the people are sad, and to ask God to help the people. Many of these laments remind the people of who God is and how good God is. These laments often help people be humble and continue to hope in God, even while the people are sad.</p><p>Sometimes people would sing laments that were full of sounds that people made with their voices to show how sad the people were. Other times, people would create laments with poetic language, which are words that people carefully choose and arrange in order to create something that sounds beautiful to listeners.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "09006019",
+"start_ref_usfm": "1SA 6:19",
+"end_ref": "09007002",
+"end_ref_usfm": "1SA 7:2"
+},
+{
+"start_ref": "10001017",
+"start_ref_usfm": "2SA 1:17",
+"end_ref": "10001027",
+"end_ref_usfm": "2SA 1:27"
+},
+{
+"start_ref": "10003031",
+"start_ref_usfm": "2SA 3:31",
+"end_ref": "10003039",
+"end_ref_usfm": "2SA 3:39"
+},
+{
+"start_ref": "14035020",
+"start_ref_usfm": "2CH 35:20",
+"end_ref": "14035027",
+"end_ref_usfm": "2CH 35:27"
+},
+{
+"start_ref": "17004001",
+"start_ref_usfm": "EST 4:1",
+"end_ref": "17004011",
+"end_ref_usfm": "EST 4:11"
+}
+],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t76-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Jerusalem",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t297-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "lament",
+"language": "eng"
+}
+],
+"acai": []
+}
+},
+{
+"content_id": "eng-t297-v1-audio",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "lament",
+"media_type": "Audio",
+"index_reference": "lament",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t297/v1/vbr4.mp3'>mp3 file</a> (1.9 MB)</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "09006019",
+"start_ref_usfm": "1SA 6:19",
+"end_ref": "09007002",
+"end_ref_usfm": "1SA 7:2"
+},
+{
+"start_ref": "10001017",
+"start_ref_usfm": "2SA 1:17",
+"end_ref": "10001027",
+"end_ref_usfm": "2SA 1:27"
+},
+{
+"start_ref": "10003031",
+"start_ref_usfm": "2SA 3:31",
+"end_ref": "10003039",
+"end_ref_usfm": "2SA 3:39"
+},
+{
+"start_ref": "14035020",
+"start_ref_usfm": "2CH 35:20",
+"end_ref": "14035027",
+"end_ref_usfm": "2CH 35:27"
+},
+{
+"start_ref": "17004001",
+"start_ref_usfm": "EST 4:1",
+"end_ref": "17004011",
+"end_ref_usfm": "EST 4:11"
+}
+],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t297-v1",
+"resource_code": "FIAKeyTerms",
+"label": "lament",
+"language": "eng"
+}
+]
+}
+},
+{
 "content_id": "eng-t83-v1",
 "reference_id": 0,
 "version": "1.0.4",
@@ -264,6 +380,18 @@
 "end_ref_usfm": "2KI 14:7"
 },
 {
+"start_ref": "12017007",
+"start_ref_usfm": "2KI 17:7",
+"end_ref": "12017023",
+"end_ref_usfm": "2KI 17:23"
+},
+{
+"start_ref": "12017024",
+"start_ref_usfm": "2KI 17:24",
+"end_ref": "12017041",
+"end_ref_usfm": "2KI 17:41"
+},
+{
 "start_ref": "13016037",
 "start_ref_usfm": "1CH 16:37",
 "end_ref": "13016043",
@@ -598,18 +726,6 @@
 "start_ref_usfm": "ACT 25:13",
 "end_ref": "44025022",
 "end_ref_usfm": "ACT 25:22"
-},
-{
-"start_ref": "44028017",
-"start_ref_usfm": "ACT 28:17",
-"end_ref": "44028031",
-"end_ref_usfm": "ACT 28:31"
-},
-{
-"start_ref": "46009001",
-"start_ref_usfm": "1CO 9:1",
-"end_ref": "46009014",
-"end_ref_usfm": "1CO 9:14"
 }
 ],
 "resource": [
@@ -647,6 +763,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "Scriptures",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t83-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "law",
+"language": "eng"
 }
 ],
 "acai": []
@@ -661,7 +784,7 @@
 "index_reference": "law",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t83/v1/vbr4.mp3'>mp3 file</a> (1499037 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t83/v1/vbr4.mp3'>mp3 file</a> (1.4 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -917,6 +1040,18 @@
 "end_ref_usfm": "2KI 14:7"
 },
 {
+"start_ref": "12017007",
+"start_ref_usfm": "2KI 17:7",
+"end_ref": "12017023",
+"end_ref_usfm": "2KI 17:23"
+},
+{
+"start_ref": "12017024",
+"start_ref_usfm": "2KI 17:24",
+"end_ref": "12017041",
+"end_ref_usfm": "2KI 17:41"
+},
+{
 "start_ref": "13016037",
 "start_ref_usfm": "1CH 16:37",
 "end_ref": "13016043",
@@ -1251,21 +1386,17 @@
 "start_ref_usfm": "ACT 25:13",
 "end_ref": "44025022",
 "end_ref_usfm": "ACT 25:22"
-},
-{
-"start_ref": "44028017",
-"start_ref_usfm": "ACT 28:17",
-"end_ref": "44028031",
-"end_ref_usfm": "ACT 28:31"
-},
-{
-"start_ref": "46009001",
-"start_ref_usfm": "1CO 9:1",
-"end_ref": "46009014",
-"end_ref_usfm": "1CO 9:14"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t83-v1",
+"resource_code": "FIAKeyTerms",
+"label": "law",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -1305,7 +1436,15 @@
 "end_ref_usfm": "TIT 2:15"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t214-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "lawlessness",
+"language": "eng"
+}
+],
 "acai": []
 }
 },
@@ -1318,7 +1457,7 @@
 "index_reference": "lawlessness",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t214/v1/vbr4.mp3'>mp3 file</a> (364316 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t214/v1/vbr4.mp3'>mp3 file</a> (356 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -1346,7 +1485,15 @@
 "end_ref_usfm": "TIT 2:15"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t214-v1",
+"resource_code": "FIAKeyTerms",
+"label": "lawlessness",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -1393,6 +1540,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "demon",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t84-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "legion",
+"language": "eng"
 }
 ],
 "acai": [
@@ -1415,7 +1569,7 @@
 "index_reference": "legion",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t84/v1/vbr4.mp3'>mp3 file</a> (246333 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t84/v1/vbr4.mp3'>mp3 file</a> (241 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -1443,7 +1597,15 @@
 "end_ref_usfm": "ACT 10:23"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t84-v1",
+"resource_code": "FIAKeyTerms",
+"label": "legion",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -1670,6 +1832,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "law",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t85-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "leprosy",
+"language": "eng"
 }
 ],
 "acai": []
@@ -1684,7 +1853,7 @@
 "index_reference": "leprosy",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t85/v1/vbr4.mp3'>mp3 file</a> (2078877 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t85/v1/vbr4.mp3'>mp3 file</a> (2.0 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -1850,7 +2019,15 @@
 "end_ref_usfm": "LUK 17:19"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t85-v1",
+"resource_code": "FIAKeyTerms",
+"label": "leprosy",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -2529,6 +2706,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "sacrifices",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t244-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "Levite",
+"language": "eng"
 }
 ],
 "acai": [
@@ -2558,7 +2742,7 @@
 "index_reference": "levite",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t244/v1/vbr4.mp3'>mp3 file</a> (1096124 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t244/v1/vbr4.mp3'>mp3 file</a> (1.0 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -3162,7 +3346,15 @@
 "end_ref_usfm": "NEH 8:8"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t244-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Levite",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -3820,6 +4012,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "resurrection",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t87-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "Lord",
+"language": "eng"
 }
 ],
 "acai": [
@@ -3842,7 +4041,7 @@
 "index_reference": "lord",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t87/v1/vbr4.mp3'>mp3 file</a> (1160853 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t87/v1/vbr4.mp3'>mp3 file</a> (1.1 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -4446,7 +4645,15 @@
 "end_ref_usfm": "MAT 24:44"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t87-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Lord",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -4739,6 +4946,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "Jewish",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t88-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "Lord",
+"language": "eng"
 }
 ],
 "acai": [
@@ -4761,7 +4975,7 @@
 "index_reference": "lord",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t88/v1/vbr4.mp3'>mp3 file</a> (184892 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t88/v1/vbr4.mp3'>mp3 file</a> (181 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -5035,7 +5249,15 @@
 "end_ref_usfm": "2TI 2:19"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t88-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Lord",
+"language": "eng"
+}
+]
 }
 }
 ]

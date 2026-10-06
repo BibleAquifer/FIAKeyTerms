@@ -333,6 +333,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "croyants",
 "language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t9-v1.0.1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "baptême",
+"language": "fra"
 }
 ],
 "acai": [
@@ -355,7 +362,7 @@
 "index_reference": "baptême",
 "language": "fra",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t9/v1.0.1/vbr4.mp3'>mp3 file</a> (1897100 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t9/v1.0.1/vbr4.mp3'>mp3 file</a> (1.8 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -575,7 +582,15 @@
 "end_ref_usfm": "EPH 4:6"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t9-v1.0.1",
+"resource_code": "FIAKeyTerms",
+"label": "baptême",
+"language": "fra"
+}
+]
 }
 },
 {
@@ -720,6 +735,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "Dans son épître",
 "language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t17-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "barque",
+"language": "fra"
 }
 ],
 "acai": [
@@ -749,7 +771,7 @@
 "index_reference": "barque",
 "language": "fra",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t17/v1/vbr4.mp3'>mp3 file</a> (2734844 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t17/v1/vbr4.mp3'>mp3 file</a> (2.6 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -861,7 +883,15 @@
 "end_ref_usfm": "JHN 21:14"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t17-v1",
+"resource_code": "FIAKeyTerms",
+"label": "barque",
+"language": "fra"
+}
+]
 }
 },
 {
@@ -1505,6 +1535,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "Israélites",
 "language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t16-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "bénir",
+"language": "fra"
 }
 ],
 "acai": [
@@ -1527,7 +1564,7 @@
 "index_reference": "bénir",
 "language": "fra",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t16/v1/vbr4.mp3'>mp3 file</a> (1000820 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t16/v1/vbr4.mp3'>mp3 file</a> (977 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -2131,7 +2168,15 @@
 "end_ref_usfm": "2CH 30:27"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t16-v1",
+"resource_code": "FIAKeyTerms",
+"label": "bénir",
+"language": "fra"
+}
+]
 }
 },
 {
@@ -2336,6 +2381,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "Israël",
 "language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t166-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "berger",
+"language": "fra"
 }
 ],
 "acai": []
@@ -2350,7 +2402,7 @@
 "index_reference": "berger",
 "language": "fra",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t166/v1/vbr4.mp3'>mp3 file</a> (1072316 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t166/v1/vbr4.mp3'>mp3 file</a> (1.0 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -2522,7 +2574,15 @@
 "end_ref_usfm": "JUD 1:16"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t166-v1",
+"resource_code": "FIAKeyTerms",
+"label": "berger",
+"language": "fra"
+}
+]
 }
 },
 {
@@ -2668,82 +2728,6 @@
 }
 },
 {
-"content_id": "fra-t13-v1-audio",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "Bethléhem",
-"media_type": "Audio",
-"index_reference": "bethléhem",
-"language": "fra",
-"review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='None'>mp3 file</a> (None KB)</p>",
-"associations": {
-"passage": [
-{
-"start_ref": "07019001",
-"start_ref_usfm": "JDG 19:1",
-"end_ref": "07019010",
-"end_ref_usfm": "JDG 19:10"
-},
-{
-"start_ref": "07019011",
-"start_ref_usfm": "JDG 19:11",
-"end_ref": "07019021",
-"end_ref_usfm": "JDG 19:21"
-},
-{
-"start_ref": "09016001",
-"start_ref_usfm": "1SA 16:1",
-"end_ref": "09016013",
-"end_ref_usfm": "1SA 16:13"
-},
-{
-"start_ref": "09016014",
-"start_ref_usfm": "1SA 16:14",
-"end_ref": "09016023",
-"end_ref_usfm": "1SA 16:23"
-},
-{
-"start_ref": "09017012",
-"start_ref_usfm": "1SA 17:12",
-"end_ref": "09017019",
-"end_ref_usfm": "1SA 17:19"
-},
-{
-"start_ref": "10002018",
-"start_ref_usfm": "2SA 2:18",
-"end_ref": "10003001",
-"end_ref_usfm": "2SA 3:1"
-},
-{
-"start_ref": "13004021",
-"start_ref_usfm": "1CH 4:21",
-"end_ref": "13004023",
-"end_ref_usfm": "1CH 4:23"
-},
-{
-"start_ref": "15002021",
-"start_ref_usfm": "EZR 2:21",
-"end_ref": "15002035",
-"end_ref_usfm": "EZR 2:35"
-},
-{
-"start_ref": "16007026",
-"start_ref_usfm": "NEH 7:26",
-"end_ref": "16007038",
-"end_ref_usfm": "NEH 7:38"
-},
-{
-"start_ref": "42002001",
-"start_ref_usfm": "LUK 2:1",
-"end_ref": "42002021",
-"end_ref_usfm": "LUK 2:21"
-}
-],
-"resource": []
-}
-},
-{
 "content_id": "fra-t14-v1",
 "reference_id": 0,
 "version": "1.0.4",
@@ -2797,6 +2781,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "mer de Galilée",
 "language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t14-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "Bethsaïda",
+"language": "fra"
 }
 ],
 "acai": [
@@ -2819,7 +2810,7 @@
 "index_reference": "bethsaïda",
 "language": "fra",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t14/v1/vbr4.mp3'>mp3 file</a> (455276 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t14/v1/vbr4.mp3'>mp3 file</a> (445 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -2829,7 +2820,15 @@
 "end_ref_usfm": "MRK 8:26"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t14-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Bethsaïda",
+"language": "fra"
+}
+]
 }
 },
 {
@@ -3009,6 +3008,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "maudit",
 "language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t15-v1.0.1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "blasphème",
+"language": "fra"
 }
 ],
 "acai": [
@@ -3031,7 +3037,7 @@
 "index_reference": "blasphème",
 "language": "fra",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t15/v1.0.1/vbr4.mp3'>mp3 file</a> (281612 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t15/v1.0.1/vbr4.mp3'>mp3 file</a> (275 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -3185,7 +3191,15 @@
 "end_ref_usfm": "JUD 1:11"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t15-v1.0.1",
+"resource_code": "FIAKeyTerms",
+"label": "blasphème",
+"language": "fra"
+}
+]
 }
 },
 {
@@ -3355,6 +3369,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "Église",
 "language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t160-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "Bonne Nouvelle",
+"language": "fra"
 }
 ],
 "acai": [
@@ -3377,7 +3398,7 @@
 "index_reference": "bonne nouvelle",
 "language": "fra",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t160/v1/vbr4.mp3'>mp3 file</a> (1748828 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t160/v1/vbr4.mp3'>mp3 file</a> (1.7 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -3507,7 +3528,15 @@
 "end_ref_usfm": "1TI 1:11"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t160-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Bonne Nouvelle",
+"language": "fra"
+}
+]
 }
 }
 ]

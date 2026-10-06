@@ -45,6 +45,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "désert",
 "language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t124-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "cabane ou abri",
+"language": "fra"
 }
 ],
 "acai": []
@@ -59,7 +66,7 @@
 "index_reference": "cabane ou abri",
 "language": "fra",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t124/v1/vbr4.mp3'>mp3 file</a> (659276 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t124/v1/vbr4.mp3'>mp3 file</a> (644 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -75,7 +82,15 @@
 "end_ref_usfm": "MRK 9:13"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t124-v1",
+"resource_code": "FIAKeyTerms",
+"label": "cabane ou abri",
+"language": "fra"
+}
+]
 }
 },
 {
@@ -409,256 +424,6 @@
 }
 },
 {
-"content_id": "fra-t178-v1-audio",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "Canaan",
-"media_type": "Audio",
-"index_reference": "canaan",
-"language": "fra",
-"review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='None'>mp3 file</a> (None KB)</p>",
-"associations": {
-"passage": [
-{
-"start_ref": "01011027",
-"start_ref_usfm": "GEN 11:27",
-"end_ref": "01011032",
-"end_ref_usfm": "GEN 11:32"
-},
-{
-"start_ref": "01012001",
-"start_ref_usfm": "GEN 12:1",
-"end_ref": "01012009",
-"end_ref_usfm": "GEN 12:9"
-},
-{
-"start_ref": "02005022",
-"start_ref_usfm": "EXO 5:22",
-"end_ref": "02006013",
-"end_ref_usfm": "EXO 6:13"
-},
-{
-"start_ref": "02013017",
-"start_ref_usfm": "EXO 13:17",
-"end_ref": "02013022",
-"end_ref_usfm": "EXO 13:22"
-},
-{
-"start_ref": "02015011",
-"start_ref_usfm": "EXO 15:11",
-"end_ref": "02015018",
-"end_ref_usfm": "EXO 15:18"
-},
-{
-"start_ref": "02016022",
-"start_ref_usfm": "EXO 16:22",
-"end_ref": "02016036",
-"end_ref_usfm": "EXO 16:36"
-},
-{
-"start_ref": "02023020",
-"start_ref_usfm": "EXO 23:20",
-"end_ref": "02023033",
-"end_ref_usfm": "EXO 23:33"
-},
-{
-"start_ref": "02033001",
-"start_ref_usfm": "EXO 33:1",
-"end_ref": "02033011",
-"end_ref_usfm": "EXO 33:11"
-},
-{
-"start_ref": "02033012",
-"start_ref_usfm": "EXO 33:12",
-"end_ref": "02033023",
-"end_ref_usfm": "EXO 33:23"
-},
-{
-"start_ref": "02034001",
-"start_ref_usfm": "EXO 34:1",
-"end_ref": "02034009",
-"end_ref_usfm": "EXO 34:9"
-},
-{
-"start_ref": "02034010",
-"start_ref_usfm": "EXO 34:10",
-"end_ref": "02034017",
-"end_ref_usfm": "EXO 34:17"
-},
-{
-"start_ref": "03014033",
-"start_ref_usfm": "LEV 14:33",
-"end_ref": "03014042",
-"end_ref_usfm": "LEV 14:42"
-},
-{
-"start_ref": "03025035",
-"start_ref_usfm": "LEV 25:35",
-"end_ref": "03025046",
-"end_ref_usfm": "LEV 25:46"
-},
-{
-"start_ref": "04013001",
-"start_ref_usfm": "NUM 13:1",
-"end_ref": "04013016",
-"end_ref_usfm": "NUM 13:16"
-},
-{
-"start_ref": "04013017",
-"start_ref_usfm": "NUM 13:17",
-"end_ref": "04013033",
-"end_ref_usfm": "NUM 13:33"
-},
-{
-"start_ref": "04021001",
-"start_ref_usfm": "NUM 21:1",
-"end_ref": "04021009",
-"end_ref_usfm": "NUM 21:9"
-},
-{
-"start_ref": "04032028",
-"start_ref_usfm": "NUM 32:28",
-"end_ref": "04032032",
-"end_ref_usfm": "NUM 32:32"
-},
-{
-"start_ref": "04033037",
-"start_ref_usfm": "NUM 33:37",
-"end_ref": "04033049",
-"end_ref_usfm": "NUM 33:49"
-},
-{
-"start_ref": "04033050",
-"start_ref_usfm": "NUM 33:50",
-"end_ref": "04033056",
-"end_ref_usfm": "NUM 33:56"
-},
-{
-"start_ref": "04034001",
-"start_ref_usfm": "NUM 34:1",
-"end_ref": "04034015",
-"end_ref_usfm": "NUM 34:15"
-},
-{
-"start_ref": "04034016",
-"start_ref_usfm": "NUM 34:16",
-"end_ref": "04034029",
-"end_ref_usfm": "NUM 34:29"
-},
-{
-"start_ref": "06005010",
-"start_ref_usfm": "JOS 5:10",
-"end_ref": "06005015",
-"end_ref_usfm": "JOS 5:15"
-},
-{
-"start_ref": "06007001",
-"start_ref_usfm": "JOS 7:1",
-"end_ref": "06007009",
-"end_ref_usfm": "JOS 7:9"
-},
-{
-"start_ref": "06014001",
-"start_ref_usfm": "JOS 14:1",
-"end_ref": "06014015",
-"end_ref_usfm": "JOS 14:15"
-},
-{
-"start_ref": "06016001",
-"start_ref_usfm": "JOS 16:1",
-"end_ref": "06016010",
-"end_ref_usfm": "JOS 16:10"
-},
-{
-"start_ref": "06021001",
-"start_ref_usfm": "JOS 21:1",
-"end_ref": "06021008",
-"end_ref_usfm": "JOS 21:8"
-},
-{
-"start_ref": "06022001",
-"start_ref_usfm": "JOS 22:1",
-"end_ref": "06022012",
-"end_ref_usfm": "JOS 22:12"
-},
-{
-"start_ref": "06024001",
-"start_ref_usfm": "JOS 24:1",
-"end_ref": "06024013",
-"end_ref_usfm": "JOS 24:13"
-},
-{
-"start_ref": "07001001",
-"start_ref_usfm": "JDG 1:1",
-"end_ref": "07001008",
-"end_ref_usfm": "JDG 1:8"
-},
-{
-"start_ref": "07001009",
-"start_ref_usfm": "JDG 1:9",
-"end_ref": "07001017",
-"end_ref_usfm": "JDG 1:17"
-},
-{
-"start_ref": "07001027",
-"start_ref_usfm": "JDG 1:27",
-"end_ref": "07001036",
-"end_ref_usfm": "JDG 1:36"
-},
-{
-"start_ref": "07002020",
-"start_ref_usfm": "JDG 2:20",
-"end_ref": "07003006",
-"end_ref_usfm": "JDG 3:6"
-},
-{
-"start_ref": "07004001",
-"start_ref_usfm": "JDG 4:1",
-"end_ref": "07004010",
-"end_ref_usfm": "JDG 4:10"
-},
-{
-"start_ref": "07004011",
-"start_ref_usfm": "JDG 4:11",
-"end_ref": "07004024",
-"end_ref_usfm": "JDG 4:24"
-},
-{
-"start_ref": "07011012",
-"start_ref_usfm": "JDG 11:12",
-"end_ref": "07011028",
-"end_ref_usfm": "JDG 11:28"
-},
-{
-"start_ref": "11009010",
-"start_ref_usfm": "1KI 9:10",
-"end_ref": "11009025",
-"end_ref_usfm": "1KI 9:25"
-},
-{
-"start_ref": "13002001",
-"start_ref_usfm": "1CH 2:1",
-"end_ref": "13002008",
-"end_ref_usfm": "1CH 2:8"
-},
-{
-"start_ref": "13016014",
-"start_ref_usfm": "1CH 16:14",
-"end_ref": "13016022",
-"end_ref_usfm": "1CH 16:22"
-},
-{
-"start_ref": "14008001",
-"start_ref_usfm": "2CH 8:1",
-"end_ref": "14008018",
-"end_ref_usfm": "2CH 8:18"
-}
-],
-"resource": []
-}
-},
-{
 "content_id": "fra-t22-v1.0.1",
 "reference_id": 0,
 "version": "1.0.4",
@@ -800,6 +565,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "disciples",
 "language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t22-v1.0.1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "Capernaüm",
+"language": "fra"
 }
 ],
 "acai": [
@@ -822,7 +594,7 @@
 "index_reference": "capernaüm",
 "language": "fra",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t22/v1.0.1/vbr4.mp3'>mp3 file</a> (559329 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t22/v1.0.1/vbr4.mp3'>mp3 file</a> (546 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -934,7 +706,15 @@
 "end_ref_usfm": "JHN 6:59"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t22-v1.0.1",
+"resource_code": "FIAKeyTerms",
+"label": "Capernaüm",
+"language": "fra"
+}
+]
 }
 },
 {
@@ -1052,7 +832,15 @@
 "end_ref_usfm": "ACT 27:44"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t170-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "centurion",
+"language": "fra"
+}
+],
 "acai": []
 }
 },
@@ -1065,7 +853,7 @@
 "index_reference": "centurion",
 "language": "fra",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t170/v1/vbr4.mp3'>mp3 file</a> (69788 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t170/v1/vbr4.mp3'>mp3 file</a> (68 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -1171,7 +959,15 @@
 "end_ref_usfm": "ACT 27:44"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t170-v1",
+"resource_code": "FIAKeyTerms",
+"label": "centurion",
+"language": "fra"
+}
+]
 }
 },
 {
@@ -1280,6 +1076,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "adorer",
 "language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t19-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "César",
+"language": "fra"
 }
 ],
 "acai": [
@@ -1316,7 +1119,7 @@
 "index_reference": "césar",
 "language": "fra",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t19/v1/vbr4.mp3'>mp3 file</a> (670124 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t19/v1/vbr4.mp3'>mp3 file</a> (654 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -1392,7 +1195,15 @@
 "end_ref_usfm": "PHP 4:23"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t19-v1",
+"resource_code": "FIAKeyTerms",
+"label": "César",
+"language": "fra"
+}
+]
 }
 },
 {
@@ -1442,6 +1253,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "César",
 "language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t20-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "Césarée de Philippe",
+"language": "fra"
 }
 ],
 "acai": [
@@ -1464,7 +1282,7 @@
 "index_reference": "césarée de philippe",
 "language": "fra",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t20/v1/vbr4.mp3'>mp3 file</a> (317804 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t20/v1/vbr4.mp3'>mp3 file</a> (310 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -1474,7 +1292,15 @@
 "end_ref_usfm": "MRK 8:30"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t20-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Césarée de Philippe",
+"language": "fra"
+}
+]
 }
 },
 {
@@ -1576,6 +1402,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "Jean le Baptiste",
 "language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t21-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "chameau",
+"language": "fra"
 }
 ],
 "acai": [
@@ -1598,7 +1431,7 @@
 "index_reference": "chameau",
 "language": "fra",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t21/v1/vbr4.mp3'>mp3 file</a> (980289 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t21/v1/vbr4.mp3'>mp3 file</a> (957 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -1674,7 +1507,15 @@
 "end_ref_usfm": "MRK 10:31"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t21-v1",
+"resource_code": "FIAKeyTerms",
+"label": "chameau",
+"language": "fra"
+}
+]
 }
 },
 {
@@ -1723,6 +1564,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "Écritures",
 "language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t134-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "chef de la synagogue",
+"language": "fra"
 }
 ],
 "acai": []
@@ -1737,7 +1585,7 @@
 "index_reference": "chef de la synagogue",
 "language": "fra",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t134/v1/vbr4.mp3'>mp3 file</a> (446300 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t134/v1/vbr4.mp3'>mp3 file</a> (436 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -1753,7 +1601,15 @@
 "end_ref_usfm": "MRK 5:43"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t134-v1",
+"resource_code": "FIAKeyTerms",
+"label": "chef de la synagogue",
+"language": "fra"
+}
+]
 }
 },
 {
@@ -1919,130 +1775,6 @@
 }
 },
 {
-"content_id": "fra-t230-v1-audio",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "chérubins",
-"media_type": "Audio",
-"index_reference": "chérubins",
-"language": "fra",
-"review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='None'>mp3 file</a> (None KB)</p>",
-"associations": {
-"passage": [
-{
-"start_ref": "01003001",
-"start_ref_usfm": "GEN 3:1",
-"end_ref": "01003024",
-"end_ref_usfm": "GEN 3:24"
-},
-{
-"start_ref": "02025010",
-"start_ref_usfm": "EXO 25:10",
-"end_ref": "02025022",
-"end_ref_usfm": "EXO 25:22"
-},
-{
-"start_ref": "02026001",
-"start_ref_usfm": "EXO 26:1",
-"end_ref": "02026014",
-"end_ref_usfm": "EXO 26:14"
-},
-{
-"start_ref": "02026031",
-"start_ref_usfm": "EXO 26:31",
-"end_ref": "02026037",
-"end_ref_usfm": "EXO 26:37"
-},
-{
-"start_ref": "02036008",
-"start_ref_usfm": "EXO 36:8",
-"end_ref": "02036019",
-"end_ref_usfm": "EXO 36:19"
-},
-{
-"start_ref": "02036035",
-"start_ref_usfm": "EXO 36:35",
-"end_ref": "02036038",
-"end_ref_usfm": "EXO 36:38"
-},
-{
-"start_ref": "02037001",
-"start_ref_usfm": "EXO 37:1",
-"end_ref": "02037009",
-"end_ref_usfm": "EXO 37:9"
-},
-{
-"start_ref": "04007084",
-"start_ref_usfm": "NUM 7:84",
-"end_ref": "04007089",
-"end_ref_usfm": "NUM 7:89"
-},
-{
-"start_ref": "09004001",
-"start_ref_usfm": "1SA 4:1",
-"end_ref": "09004011",
-"end_ref_usfm": "1SA 4:11"
-},
-{
-"start_ref": "10006001",
-"start_ref_usfm": "2SA 6:1",
-"end_ref": "10006015",
-"end_ref_usfm": "2SA 6:15"
-},
-{
-"start_ref": "10022005",
-"start_ref_usfm": "2SA 22:5",
-"end_ref": "10022020",
-"end_ref_usfm": "2SA 22:20"
-},
-{
-"start_ref": "11006014",
-"start_ref_usfm": "1KI 6:14",
-"end_ref": "11006038",
-"end_ref_usfm": "1KI 6:38"
-},
-{
-"start_ref": "11007023",
-"start_ref_usfm": "1KI 7:23",
-"end_ref": "11007039",
-"end_ref_usfm": "1KI 7:39"
-},
-{
-"start_ref": "11008001",
-"start_ref_usfm": "1KI 8:1",
-"end_ref": "11008011",
-"end_ref_usfm": "1KI 8:11"
-},
-{
-"start_ref": "13013001",
-"start_ref_usfm": "1CH 13:1",
-"end_ref": "13013014",
-"end_ref_usfm": "1CH 13:14"
-},
-{
-"start_ref": "13028009",
-"start_ref_usfm": "1CH 28:9",
-"end_ref": "13028021",
-"end_ref_usfm": "1CH 28:21"
-},
-{
-"start_ref": "14003001",
-"start_ref_usfm": "2CH 3:1",
-"end_ref": "14003014",
-"end_ref_usfm": "2CH 3:14"
-},
-{
-"start_ref": "14005002",
-"start_ref_usfm": "2CH 5:2",
-"end_ref": "14005014",
-"end_ref_usfm": "2CH 5:14"
-}
-],
-"resource": []
-}
-},
-{
 "content_id": "fra-t175-v1",
 "reference_id": 0,
 "version": "1.0.4",
@@ -2120,34 +1852,6 @@
 "preferred_label": "chrétien"
 }
 ]
-}
-},
-{
-"content_id": "fra-t175-v1-audio",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "Chrétien",
-"media_type": "Audio",
-"index_reference": "chrétien",
-"language": "fra",
-"review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='None'>mp3 file</a> (None KB)</p>",
-"associations": {
-"passage": [
-{
-"start_ref": "44011019",
-"start_ref_usfm": "ACT 11:19",
-"end_ref": "44011026",
-"end_ref_usfm": "ACT 11:26"
-},
-{
-"start_ref": "44026024",
-"start_ref_usfm": "ACT 26:24",
-"end_ref": "44026032",
-"end_ref_usfm": "ACT 26:32"
-}
-],
-"resource": []
 }
 },
 {
@@ -2875,6 +2579,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "péché",
 "language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t23-v1.0.1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "Christ",
+"language": "fra"
 }
 ],
 "acai": [
@@ -2897,7 +2608,7 @@
 "index_reference": "christ",
 "language": "fra",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t23/v1.0.1/vbr4.mp3'>mp3 file</a> (3117033 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t23/v1.0.1/vbr4.mp3'>mp3 file</a> (3.0 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -3501,7 +3212,15 @@
 "end_ref_usfm": "GAL 2:21"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t23-v1.0.1",
+"resource_code": "FIAKeyTerms",
+"label": "Christ",
+"language": "fra"
+}
+]
 }
 },
 {
@@ -4145,6 +3864,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "hébreu",
 "language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t63-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "ciel ou cieux",
+"language": "fra"
 }
 ],
 "acai": []
@@ -4159,7 +3885,7 @@
 "index_reference": "ciel ou cieux",
 "language": "fra",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t63/v1/vbr4.mp3'>mp3 file</a> (1548524 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t63/v1/vbr4.mp3'>mp3 file</a> (1.5 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -4763,7 +4489,15 @@
 "end_ref_usfm": "MRK 16:20"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t63-v1",
+"resource_code": "FIAKeyTerms",
+"label": "ciel ou cieux",
+"language": "fra"
+}
+]
 }
 },
 {
@@ -5106,268 +4840,6 @@
 "preferred_label": "Circumcision"
 }
 ]
-}
-},
-{
-"content_id": "fra-t25-v1-audio",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "circoncision",
-"media_type": "Audio",
-"index_reference": "circoncision",
-"language": "fra",
-"review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='None'>mp3 file</a> (None KB)</p>",
-"associations": {
-"passage": [
-{
-"start_ref": "01017001",
-"start_ref_usfm": "GEN 17:1",
-"end_ref": "01017027",
-"end_ref_usfm": "GEN 17:27"
-},
-{
-"start_ref": "01021001",
-"start_ref_usfm": "GEN 21:1",
-"end_ref": "01021021",
-"end_ref_usfm": "GEN 21:21"
-},
-{
-"start_ref": "01034001",
-"start_ref_usfm": "GEN 34:1",
-"end_ref": "01034017",
-"end_ref_usfm": "GEN 34:17"
-},
-{
-"start_ref": "01034018",
-"start_ref_usfm": "GEN 34:18",
-"end_ref": "01034031",
-"end_ref_usfm": "GEN 34:31"
-},
-{
-"start_ref": "02004018",
-"start_ref_usfm": "EXO 4:18",
-"end_ref": "02004031",
-"end_ref_usfm": "EXO 4:31"
-},
-{
-"start_ref": "02012043",
-"start_ref_usfm": "EXO 12:43",
-"end_ref": "02012051",
-"end_ref_usfm": "EXO 12:51"
-},
-{
-"start_ref": "03012001",
-"start_ref_usfm": "LEV 12:1",
-"end_ref": "03012008",
-"end_ref_usfm": "LEV 12:8"
-},
-{
-"start_ref": "03019019",
-"start_ref_usfm": "LEV 19:19",
-"end_ref": "03019025",
-"end_ref_usfm": "LEV 19:25"
-},
-{
-"start_ref": "03026010",
-"start_ref_usfm": "LEV 26:10",
-"end_ref": "03026046",
-"end_ref_usfm": "LEV 26:46"
-},
-{
-"start_ref": "05010012",
-"start_ref_usfm": "DEU 10:12",
-"end_ref": "05010022",
-"end_ref_usfm": "DEU 10:22"
-},
-{
-"start_ref": "05030001",
-"start_ref_usfm": "DEU 30:1",
-"end_ref": "05030010",
-"end_ref_usfm": "DEU 30:10"
-},
-{
-"start_ref": "06005002",
-"start_ref_usfm": "JOS 5:2",
-"end_ref": "06005009",
-"end_ref_usfm": "JOS 5:9"
-},
-{
-"start_ref": "06005010",
-"start_ref_usfm": "JOS 5:10",
-"end_ref": "06005015",
-"end_ref_usfm": "JOS 5:15"
-},
-{
-"start_ref": "07014001",
-"start_ref_usfm": "JDG 14:1",
-"end_ref": "07014009",
-"end_ref_usfm": "JDG 14:9"
-},
-{
-"start_ref": "07015009",
-"start_ref_usfm": "JDG 15:9",
-"end_ref": "07015020",
-"end_ref_usfm": "JDG 15:20"
-},
-{
-"start_ref": "09014001",
-"start_ref_usfm": "1SA 14:1",
-"end_ref": "09014015",
-"end_ref_usfm": "1SA 14:15"
-},
-{
-"start_ref": "09017020",
-"start_ref_usfm": "1SA 17:20",
-"end_ref": "09017030",
-"end_ref_usfm": "1SA 17:30"
-},
-{
-"start_ref": "09017031",
-"start_ref_usfm": "1SA 17:31",
-"end_ref": "09017040",
-"end_ref_usfm": "1SA 17:40"
-},
-{
-"start_ref": "09031001",
-"start_ref_usfm": "1SA 31:1",
-"end_ref": "09031013",
-"end_ref_usfm": "1SA 31:13"
-},
-{
-"start_ref": "10001017",
-"start_ref_usfm": "2SA 1:17",
-"end_ref": "10001027",
-"end_ref_usfm": "2SA 1:27"
-},
-{
-"start_ref": "13010001",
-"start_ref_usfm": "1CH 10:1",
-"end_ref": "13010014",
-"end_ref_usfm": "1CH 10:14"
-},
-{
-"start_ref": "42001057",
-"start_ref_usfm": "LUK 1:57",
-"end_ref": "42001080",
-"end_ref_usfm": "LUK 1:80"
-},
-{
-"start_ref": "42002001",
-"start_ref_usfm": "LUK 2:1",
-"end_ref": "42002021",
-"end_ref_usfm": "LUK 2:21"
-},
-{
-"start_ref": "43007011",
-"start_ref_usfm": "JHN 7:11",
-"end_ref": "43007024",
-"end_ref_usfm": "JHN 7:24"
-},
-{
-"start_ref": "44007001",
-"start_ref_usfm": "ACT 7:1",
-"end_ref": "44007008",
-"end_ref_usfm": "ACT 7:8"
-},
-{
-"start_ref": "44007044",
-"start_ref_usfm": "ACT 7:44",
-"end_ref": "44007053",
-"end_ref_usfm": "ACT 7:53"
-},
-{
-"start_ref": "44010001",
-"start_ref_usfm": "ACT 10:1",
-"end_ref": "44010008",
-"end_ref_usfm": "ACT 10:8"
-},
-{
-"start_ref": "44010034",
-"start_ref_usfm": "ACT 10:34",
-"end_ref": "44010048",
-"end_ref_usfm": "ACT 10:48"
-},
-{
-"start_ref": "44011001",
-"start_ref_usfm": "ACT 11:1",
-"end_ref": "44011018",
-"end_ref_usfm": "ACT 11:18"
-},
-{
-"start_ref": "44015001",
-"start_ref_usfm": "ACT 15:1",
-"end_ref": "44015021",
-"end_ref_usfm": "ACT 15:21"
-},
-{
-"start_ref": "44016001",
-"start_ref_usfm": "ACT 16:1",
-"end_ref": "44016005",
-"end_ref_usfm": "ACT 16:5"
-},
-{
-"start_ref": "44021015",
-"start_ref_usfm": "ACT 21:15",
-"end_ref": "44021026",
-"end_ref_usfm": "ACT 21:26"
-},
-{
-"start_ref": "46007017",
-"start_ref_usfm": "1CO 7:17",
-"end_ref": "46007024",
-"end_ref_usfm": "1CO 7:24"
-},
-{
-"start_ref": "48002001",
-"start_ref_usfm": "GAL 2:1",
-"end_ref": "48002010",
-"end_ref_usfm": "GAL 2:10"
-},
-{
-"start_ref": "48002011",
-"start_ref_usfm": "GAL 2:11",
-"end_ref": "48002014",
-"end_ref_usfm": "GAL 2:14"
-},
-{
-"start_ref": "48005002",
-"start_ref_usfm": "GAL 5:2",
-"end_ref": "48005006",
-"end_ref_usfm": "GAL 5:6"
-},
-{
-"start_ref": "48005007",
-"start_ref_usfm": "GAL 5:7",
-"end_ref": "48005012",
-"end_ref_usfm": "GAL 5:12"
-},
-{
-"start_ref": "48006011",
-"start_ref_usfm": "GAL 6:11",
-"end_ref": "48006018",
-"end_ref_usfm": "GAL 6:18"
-},
-{
-"start_ref": "49002011",
-"start_ref_usfm": "EPH 2:11",
-"end_ref": "49002018",
-"end_ref_usfm": "EPH 2:18"
-},
-{
-"start_ref": "50003002",
-"start_ref_usfm": "PHP 3:2",
-"end_ref": "50003011",
-"end_ref_usfm": "PHP 3:11"
-},
-{
-"start_ref": "56001010",
-"start_ref_usfm": "TIT 1:10",
-"end_ref": "56001016",
-"end_ref_usfm": "TIT 1:16"
-}
-],
-"resource": []
 }
 },
 {
@@ -6032,6 +5504,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "Esprit",
 "language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t150-v1.0.1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "cœur",
+"language": "fra"
 }
 ],
 "acai": [
@@ -6054,7 +5533,7 @@
 "index_reference": "cœur",
 "language": "fra",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t150/v1.0.1/vbr4.mp3'>mp3 file</a> (1533956 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t150/v1.0.1/vbr4.mp3'>mp3 file</a> (1.5 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -6658,7 +6137,15 @@
 "end_ref_usfm": "2CH 25:13"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t150-v1.0.1",
+"resource_code": "FIAKeyTerms",
+"label": "cœur",
+"language": "fra"
+}
+]
 }
 },
 {
@@ -6733,6 +6220,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "Saint-Esprit",
 "language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t42-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "colombe",
+"language": "fra"
 }
 ],
 "acai": [
@@ -6755,7 +6249,7 @@
 "index_reference": "colombe",
 "language": "fra",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t42/v1/vbr4.mp3'>mp3 file</a> (948045 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t42/v1/vbr4.mp3'>mp3 file</a> (926 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -6783,7 +6277,15 @@
 "end_ref_usfm": "LUK 3:22"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t42-v1",
+"resource_code": "FIAKeyTerms",
+"label": "colombe",
+"language": "fra"
+}
+]
 }
 },
 {
@@ -6857,70 +6359,6 @@
 }
 ],
 "acai": []
-}
-},
-{
-"content_id": "fra-t195-v1-audio",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "commandant",
-"media_type": "Audio",
-"index_reference": "commandant",
-"language": "fra",
-"review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='None'>mp3 file</a> (None KB)</p>",
-"associations": {
-"passage": [
-{
-"start_ref": "12004008",
-"start_ref_usfm": "2KI 4:8",
-"end_ref": "12004017",
-"end_ref_usfm": "2KI 4:17"
-},
-{
-"start_ref": "44021027",
-"start_ref_usfm": "ACT 21:27",
-"end_ref": "44021036",
-"end_ref_usfm": "ACT 21:36"
-},
-{
-"start_ref": "44021037",
-"start_ref_usfm": "ACT 21:37",
-"end_ref": "44022021",
-"end_ref_usfm": "ACT 22:21"
-},
-{
-"start_ref": "44022022",
-"start_ref_usfm": "ACT 22:22",
-"end_ref": "44022029",
-"end_ref_usfm": "ACT 22:29"
-},
-{
-"start_ref": "44022030",
-"start_ref_usfm": "ACT 22:30",
-"end_ref": "44023011",
-"end_ref_usfm": "ACT 23:11"
-},
-{
-"start_ref": "44023012",
-"start_ref_usfm": "ACT 23:12",
-"end_ref": "44023035",
-"end_ref_usfm": "ACT 23:35"
-},
-{
-"start_ref": "44024010",
-"start_ref_usfm": "ACT 24:10",
-"end_ref": "44024023",
-"end_ref_usfm": "ACT 24:23"
-},
-{
-"start_ref": "44025023",
-"start_ref_usfm": "ACT 25:23",
-"end_ref": "44025027",
-"end_ref_usfm": "ACT 25:27"
-}
-],
-"resource": []
 }
 },
 {
@@ -7230,6 +6668,24 @@
 "end_ref_usfm": "1KI 18:29"
 },
 {
+"start_ref": "12017007",
+"start_ref_usfm": "2KI 17:7",
+"end_ref": "12017023",
+"end_ref_usfm": "2KI 17:23"
+},
+{
+"start_ref": "12017024",
+"start_ref_usfm": "2KI 17:24",
+"end_ref": "12017041",
+"end_ref_usfm": "2KI 17:41"
+},
+{
+"start_ref": "12018001",
+"start_ref_usfm": "2KI 18:1",
+"end_ref": "12018012",
+"end_ref_usfm": "2KI 18:12"
+},
+{
 "start_ref": "13028001",
 "start_ref_usfm": "1CH 28:1",
 "end_ref": "13028008",
@@ -7397,483 +6853,11 @@
 {
 "id": "keyterm:Commandment",
 "type": "keyterm",
-"confidence": 0.5711,
+"confidence": 0.5704,
 "match_method": "scored",
 "preferred_label": "commandement"
 }
 ]
-}
-},
-{
-"content_id": "fra-t245-v1-audio",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "commandement",
-"media_type": "Audio",
-"index_reference": "commandement",
-"language": "fra",
-"review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='None'>mp3 file</a> (None KB)</p>",
-"associations": {
-"passage": [
-{
-"start_ref": "02015019",
-"start_ref_usfm": "EXO 15:19",
-"end_ref": "02015027",
-"end_ref_usfm": "EXO 15:27"
-},
-{
-"start_ref": "02016022",
-"start_ref_usfm": "EXO 16:22",
-"end_ref": "02016036",
-"end_ref_usfm": "EXO 16:36"
-},
-{
-"start_ref": "02020001",
-"start_ref_usfm": "EXO 20:1",
-"end_ref": "02020007",
-"end_ref_usfm": "EXO 20:7"
-},
-{
-"start_ref": "02020008",
-"start_ref_usfm": "EXO 20:8",
-"end_ref": "02020017",
-"end_ref_usfm": "EXO 20:17"
-},
-{
-"start_ref": "02024001",
-"start_ref_usfm": "EXO 24:1",
-"end_ref": "02024008",
-"end_ref_usfm": "EXO 24:8"
-},
-{
-"start_ref": "02024009",
-"start_ref_usfm": "EXO 24:9",
-"end_ref": "02024018",
-"end_ref_usfm": "EXO 24:18"
-},
-{
-"start_ref": "02025010",
-"start_ref_usfm": "EXO 25:10",
-"end_ref": "02025022",
-"end_ref_usfm": "EXO 25:22"
-},
-{
-"start_ref": "02034001",
-"start_ref_usfm": "EXO 34:1",
-"end_ref": "02034009",
-"end_ref_usfm": "EXO 34:9"
-},
-{
-"start_ref": "02034010",
-"start_ref_usfm": "EXO 34:10",
-"end_ref": "02034017",
-"end_ref_usfm": "EXO 34:17"
-},
-{
-"start_ref": "02034018",
-"start_ref_usfm": "EXO 34:18",
-"end_ref": "02034028",
-"end_ref_usfm": "EXO 34:28"
-},
-{
-"start_ref": "02034029",
-"start_ref_usfm": "EXO 34:29",
-"end_ref": "02034035",
-"end_ref_usfm": "EXO 34:35"
-},
-{
-"start_ref": "03004001",
-"start_ref_usfm": "LEV 4:1",
-"end_ref": "03004012",
-"end_ref_usfm": "LEV 4:12"
-},
-{
-"start_ref": "03004013",
-"start_ref_usfm": "LEV 4:13",
-"end_ref": "03004026",
-"end_ref_usfm": "LEV 4:26"
-},
-{
-"start_ref": "03004027",
-"start_ref_usfm": "LEV 4:27",
-"end_ref": "03004035",
-"end_ref_usfm": "LEV 4:35"
-},
-{
-"start_ref": "03005014",
-"start_ref_usfm": "LEV 5:14",
-"end_ref": "03006007",
-"end_ref_usfm": "LEV 6:7"
-},
-{
-"start_ref": "03022026",
-"start_ref_usfm": "LEV 22:26",
-"end_ref": "03022033",
-"end_ref_usfm": "LEV 22:33"
-},
-{
-"start_ref": "03026001",
-"start_ref_usfm": "LEV 26:1",
-"end_ref": "03026005",
-"end_ref_usfm": "LEV 26:5"
-},
-{
-"start_ref": "03026014",
-"start_ref_usfm": "LEV 26:14",
-"end_ref": "03026020",
-"end_ref_usfm": "LEV 26:20"
-},
-{
-"start_ref": "03027026",
-"start_ref_usfm": "LEV 27:26",
-"end_ref": "03027034",
-"end_ref_usfm": "LEV 27:34"
-},
-{
-"start_ref": "04036001",
-"start_ref_usfm": "NUM 36:1",
-"end_ref": "04036013",
-"end_ref_usfm": "NUM 36:13"
-},
-{
-"start_ref": "05005006",
-"start_ref_usfm": "DEU 5:6",
-"end_ref": "05005011",
-"end_ref_usfm": "DEU 5:11"
-},
-{
-"start_ref": "05005022",
-"start_ref_usfm": "DEU 5:22",
-"end_ref": "05005027",
-"end_ref_usfm": "DEU 5:27"
-},
-{
-"start_ref": "05005028",
-"start_ref_usfm": "DEU 5:28",
-"end_ref": "05005033",
-"end_ref_usfm": "DEU 5:33"
-},
-{
-"start_ref": "05007001",
-"start_ref_usfm": "DEU 7:1",
-"end_ref": "05007011",
-"end_ref_usfm": "DEU 7:11"
-},
-{
-"start_ref": "05008001",
-"start_ref_usfm": "DEU 8:1",
-"end_ref": "05008010",
-"end_ref_usfm": "DEU 8:10"
-},
-{
-"start_ref": "05008011",
-"start_ref_usfm": "DEU 8:11",
-"end_ref": "05008020",
-"end_ref_usfm": "DEU 8:20"
-},
-{
-"start_ref": "05009007",
-"start_ref_usfm": "DEU 9:7",
-"end_ref": "05009017",
-"end_ref_usfm": "DEU 9:17"
-},
-{
-"start_ref": "05010001",
-"start_ref_usfm": "DEU 10:1",
-"end_ref": "05010005",
-"end_ref_usfm": "DEU 10:5"
-},
-{
-"start_ref": "05010012",
-"start_ref_usfm": "DEU 10:12",
-"end_ref": "05010022",
-"end_ref_usfm": "DEU 10:22"
-},
-{
-"start_ref": "05012029",
-"start_ref_usfm": "DEU 12:29",
-"end_ref": "05013005",
-"end_ref_usfm": "DEU 13:5"
-},
-{
-"start_ref": "05013012",
-"start_ref_usfm": "DEU 13:12",
-"end_ref": "05013018",
-"end_ref_usfm": "DEU 13:18"
-},
-{
-"start_ref": "05028001",
-"start_ref_usfm": "DEU 28:1",
-"end_ref": "05028006",
-"end_ref_usfm": "DEU 28:6"
-},
-{
-"start_ref": "05028007",
-"start_ref_usfm": "DEU 28:7",
-"end_ref": "05028014",
-"end_ref_usfm": "DEU 28:14"
-},
-{
-"start_ref": "05028015",
-"start_ref_usfm": "DEU 28:15",
-"end_ref": "05028024",
-"end_ref_usfm": "DEU 28:24"
-},
-{
-"start_ref": "05028038",
-"start_ref_usfm": "DEU 28:38",
-"end_ref": "05028046",
-"end_ref_usfm": "DEU 28:46"
-},
-{
-"start_ref": "05030001",
-"start_ref_usfm": "DEU 30:1",
-"end_ref": "05030010",
-"end_ref_usfm": "DEU 30:10"
-},
-{
-"start_ref": "05030011",
-"start_ref_usfm": "DEU 30:11",
-"end_ref": "05030020",
-"end_ref_usfm": "DEU 30:20"
-},
-{
-"start_ref": "06022001",
-"start_ref_usfm": "JOS 22:1",
-"end_ref": "06022012",
-"end_ref_usfm": "JOS 22:12"
-},
-{
-"start_ref": "07002011",
-"start_ref_usfm": "JDG 2:11",
-"end_ref": "07002019",
-"end_ref_usfm": "JDG 2:19"
-},
-{
-"start_ref": "07002020",
-"start_ref_usfm": "JDG 2:20",
-"end_ref": "07003006",
-"end_ref_usfm": "JDG 3:6"
-},
-{
-"start_ref": "09013001",
-"start_ref_usfm": "1SA 13:1",
-"end_ref": "09013014",
-"end_ref_usfm": "1SA 13:14"
-},
-{
-"start_ref": "11002001",
-"start_ref_usfm": "1KI 2:1",
-"end_ref": "11002012",
-"end_ref_usfm": "1KI 2:12"
-},
-{
-"start_ref": "11003001",
-"start_ref_usfm": "1KI 3:1",
-"end_ref": "11003015",
-"end_ref_usfm": "1KI 3:15"
-},
-{
-"start_ref": "11006001",
-"start_ref_usfm": "1KI 6:1",
-"end_ref": "11006013",
-"end_ref_usfm": "1KI 6:13"
-},
-{
-"start_ref": "11008054",
-"start_ref_usfm": "1KI 8:54",
-"end_ref": "11008061",
-"end_ref_usfm": "1KI 8:61"
-},
-{
-"start_ref": "11009001",
-"start_ref_usfm": "1KI 9:1",
-"end_ref": "11009009",
-"end_ref_usfm": "1KI 9:9"
-},
-{
-"start_ref": "11011026",
-"start_ref_usfm": "1KI 11:26",
-"end_ref": "11011043",
-"end_ref_usfm": "1KI 11:43"
-},
-{
-"start_ref": "11014001",
-"start_ref_usfm": "1KI 14:1",
-"end_ref": "11014011",
-"end_ref_usfm": "1KI 14:11"
-},
-{
-"start_ref": "11018016",
-"start_ref_usfm": "1KI 18:16",
-"end_ref": "11018029",
-"end_ref_usfm": "1KI 18:29"
-},
-{
-"start_ref": "13028001",
-"start_ref_usfm": "1CH 28:1",
-"end_ref": "13028008",
-"end_ref_usfm": "1CH 28:8"
-},
-{
-"start_ref": "13029010",
-"start_ref_usfm": "1CH 29:10",
-"end_ref": "13029020",
-"end_ref_usfm": "1CH 29:20"
-},
-{
-"start_ref": "14007011",
-"start_ref_usfm": "2CH 7:11",
-"end_ref": "14007022",
-"end_ref_usfm": "2CH 7:22"
-},
-{
-"start_ref": "14014002",
-"start_ref_usfm": "2CH 14:2",
-"end_ref": "14014015",
-"end_ref_usfm": "2CH 14:15"
-},
-{
-"start_ref": "14017001",
-"start_ref_usfm": "2CH 17:1",
-"end_ref": "14017009",
-"end_ref_usfm": "2CH 17:9"
-},
-{
-"start_ref": "14019001",
-"start_ref_usfm": "2CH 19:1",
-"end_ref": "14019011",
-"end_ref_usfm": "2CH 19:11"
-},
-{
-"start_ref": "14024017",
-"start_ref_usfm": "2CH 24:17",
-"end_ref": "14024027",
-"end_ref_usfm": "2CH 24:27"
-},
-{
-"start_ref": "14031011",
-"start_ref_usfm": "2CH 31:11",
-"end_ref": "14031021",
-"end_ref_usfm": "2CH 31:21"
-},
-{
-"start_ref": "14033001",
-"start_ref_usfm": "2CH 33:1",
-"end_ref": "14033009",
-"end_ref_usfm": "2CH 33:9"
-},
-{
-"start_ref": "14034022",
-"start_ref_usfm": "2CH 34:22",
-"end_ref": "14034033",
-"end_ref_usfm": "2CH 34:33"
-},
-{
-"start_ref": "15007011",
-"start_ref_usfm": "EZR 7:11",
-"end_ref": "15007028",
-"end_ref_usfm": "EZR 7:28"
-},
-{
-"start_ref": "15009005",
-"start_ref_usfm": "EZR 9:5",
-"end_ref": "15009015",
-"end_ref_usfm": "EZR 9:15"
-},
-{
-"start_ref": "16001001",
-"start_ref_usfm": "NEH 1:1",
-"end_ref": "16001011",
-"end_ref_usfm": "NEH 1:11"
-},
-{
-"start_ref": "40015001",
-"start_ref_usfm": "MAT 15:1",
-"end_ref": "40015020",
-"end_ref_usfm": "MAT 15:20"
-},
-{
-"start_ref": "40019013",
-"start_ref_usfm": "MAT 19:13",
-"end_ref": "40019030",
-"end_ref_usfm": "MAT 19:30"
-},
-{
-"start_ref": "40022034",
-"start_ref_usfm": "MAT 22:34",
-"end_ref": "40022046",
-"end_ref_usfm": "MAT 22:46"
-},
-{
-"start_ref": "46007017",
-"start_ref_usfm": "1CO 7:17",
-"end_ref": "46007024",
-"end_ref_usfm": "1CO 7:24"
-},
-{
-"start_ref": "48005013",
-"start_ref_usfm": "GAL 5:13",
-"end_ref": "48005018",
-"end_ref_usfm": "GAL 5:18"
-},
-{
-"start_ref": "49002011",
-"start_ref_usfm": "EPH 2:11",
-"end_ref": "49002018",
-"end_ref_usfm": "EPH 2:18"
-},
-{
-"start_ref": "49006001",
-"start_ref_usfm": "EPH 6:1",
-"end_ref": "49006009",
-"end_ref_usfm": "EPH 6:9"
-},
-{
-"start_ref": "56001001",
-"start_ref_usfm": "TIT 1:1",
-"end_ref": "56001004",
-"end_ref_usfm": "TIT 1:4"
-},
-{
-"start_ref": "56001010",
-"start_ref_usfm": "TIT 1:10",
-"end_ref": "56001016",
-"end_ref_usfm": "TIT 1:16"
-},
-{
-"start_ref": "62002003",
-"start_ref_usfm": "1JN 2:3",
-"end_ref": "62002011",
-"end_ref_usfm": "1JN 2:11"
-},
-{
-"start_ref": "62003019",
-"start_ref_usfm": "1JN 3:19",
-"end_ref": "62003024",
-"end_ref_usfm": "1JN 3:24"
-},
-{
-"start_ref": "62004013",
-"start_ref_usfm": "1JN 4:13",
-"end_ref": "62004021",
-"end_ref_usfm": "1JN 4:21"
-},
-{
-"start_ref": "62005001",
-"start_ref_usfm": "1JN 5:1",
-"end_ref": "62005005",
-"end_ref_usfm": "1JN 5:5"
-},
-{
-"start_ref": "63001004",
-"start_ref_usfm": "2JN 1:4",
-"end_ref": "63001006",
-"end_ref_usfm": "2JN 1:6"
-}
-],
-"resource": []
 }
 },
 {
@@ -7985,7 +6969,15 @@
 "end_ref_usfm": "JAS 5:12"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t205-v1.0.1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "compassion",
+"language": "fra"
+}
+],
 "acai": []
 }
 },
@@ -7998,7 +6990,7 @@
 "index_reference": "compassion",
 "language": "fra",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t205/v1.0.1/vbr4.mp3'>mp3 file</a> (195260 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t205/v1.0.1/vbr4.mp3'>mp3 file</a> (191 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -8098,7 +7090,15 @@
 "end_ref_usfm": "JAS 5:12"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t205-v1.0.1",
+"resource_code": "FIAKeyTerms",
+"label": "compassion",
+"language": "fra"
+}
+]
 }
 },
 {
@@ -8134,40 +7134,6 @@
 ],
 "resource": [],
 "acai": []
-}
-},
-{
-"content_id": "fra-t238-v1-audio",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "Condamner",
-"media_type": "Audio",
-"index_reference": "condamner ",
-"language": "fra",
-"review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='None'>mp3 file</a> (None KB)</p>",
-"associations": {
-"passage": [
-{
-"start_ref": "43016001",
-"start_ref_usfm": "JHN 16:1",
-"end_ref": "43016015",
-"end_ref_usfm": "JHN 16:15"
-},
-{
-"start_ref": "52001001",
-"start_ref_usfm": "1TH 1:1",
-"end_ref": "52001010",
-"end_ref_usfm": "1TH 1:10"
-},
-{
-"start_ref": "65001012",
-"start_ref_usfm": "JUD 1:12",
-"end_ref": "65001016",
-"end_ref_usfm": "JUD 1:16"
-}
-],
-"resource": []
 }
 },
 {
@@ -8597,388 +7563,6 @@
 }
 },
 {
-"content_id": "fra-t254-v1-audio",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "Consacrer",
-"media_type": "Audio",
-"index_reference": "consacrer ",
-"language": "fra",
-"review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='None'>mp3 file</a> (None KB)</p>",
-"associations": {
-"passage": [
-{
-"start_ref": "02013001",
-"start_ref_usfm": "EXO 13:1",
-"end_ref": "02013016",
-"end_ref_usfm": "EXO 13:16"
-},
-{
-"start_ref": "02019001",
-"start_ref_usfm": "EXO 19:1",
-"end_ref": "02019015",
-"end_ref_usfm": "EXO 19:15"
-},
-{
-"start_ref": "02019016",
-"start_ref_usfm": "EXO 19:16",
-"end_ref": "02019025",
-"end_ref_usfm": "EXO 19:25"
-},
-{
-"start_ref": "02028031",
-"start_ref_usfm": "EXO 28:31",
-"end_ref": "02028043",
-"end_ref_usfm": "EXO 28:43"
-},
-{
-"start_ref": "02029001",
-"start_ref_usfm": "EXO 29:1",
-"end_ref": "02029009",
-"end_ref_usfm": "EXO 29:9"
-},
-{
-"start_ref": "02029010",
-"start_ref_usfm": "EXO 29:10",
-"end_ref": "02029018",
-"end_ref_usfm": "EXO 29:18"
-},
-{
-"start_ref": "02029019",
-"start_ref_usfm": "EXO 29:19",
-"end_ref": "02029028",
-"end_ref_usfm": "EXO 29:28"
-},
-{
-"start_ref": "02029029",
-"start_ref_usfm": "EXO 29:29",
-"end_ref": "02029037",
-"end_ref_usfm": "EXO 29:37"
-},
-{
-"start_ref": "02029038",
-"start_ref_usfm": "EXO 29:38",
-"end_ref": "02029046",
-"end_ref_usfm": "EXO 29:46"
-},
-{
-"start_ref": "02030001",
-"start_ref_usfm": "EXO 30:1",
-"end_ref": "02030010",
-"end_ref_usfm": "EXO 30:10"
-},
-{
-"start_ref": "02030022",
-"start_ref_usfm": "EXO 30:22",
-"end_ref": "02030033",
-"end_ref_usfm": "EXO 30:33"
-},
-{
-"start_ref": "02039001",
-"start_ref_usfm": "EXO 39:1",
-"end_ref": "02039007",
-"end_ref_usfm": "EXO 39:7"
-},
-{
-"start_ref": "02040001",
-"start_ref_usfm": "EXO 40:1",
-"end_ref": "02040015",
-"end_ref_usfm": "EXO 40:15"
-},
-{
-"start_ref": "03008001",
-"start_ref_usfm": "LEV 8:1",
-"end_ref": "03008013",
-"end_ref_usfm": "LEV 8:13"
-},
-{
-"start_ref": "03008014",
-"start_ref_usfm": "LEV 8:14",
-"end_ref": "03008021",
-"end_ref_usfm": "LEV 8:21"
-},
-{
-"start_ref": "03008030",
-"start_ref_usfm": "LEV 8:30",
-"end_ref": "03008036",
-"end_ref_usfm": "LEV 8:36"
-},
-{
-"start_ref": "03011039",
-"start_ref_usfm": "LEV 11:39",
-"end_ref": "03011047",
-"end_ref_usfm": "LEV 11:47"
-},
-{
-"start_ref": "03016015",
-"start_ref_usfm": "LEV 16:15",
-"end_ref": "03016022",
-"end_ref_usfm": "LEV 16:22"
-},
-{
-"start_ref": "03020001",
-"start_ref_usfm": "LEV 20:1",
-"end_ref": "03020009",
-"end_ref_usfm": "LEV 20:9"
-},
-{
-"start_ref": "03021010",
-"start_ref_usfm": "LEV 21:10",
-"end_ref": "03021016",
-"end_ref_usfm": "LEV 21:16"
-},
-{
-"start_ref": "03022001",
-"start_ref_usfm": "LEV 22:1",
-"end_ref": "03022009",
-"end_ref_usfm": "LEV 22:9"
-},
-{
-"start_ref": "03025008",
-"start_ref_usfm": "LEV 25:8",
-"end_ref": "03025022",
-"end_ref_usfm": "LEV 25:22"
-},
-{
-"start_ref": "03027009",
-"start_ref_usfm": "LEV 27:9",
-"end_ref": "03027015",
-"end_ref_usfm": "LEV 27:15"
-},
-{
-"start_ref": "03027016",
-"start_ref_usfm": "LEV 27:16",
-"end_ref": "03027025",
-"end_ref_usfm": "LEV 27:25"
-},
-{
-"start_ref": "03027026",
-"start_ref_usfm": "LEV 27:26",
-"end_ref": "03027034",
-"end_ref_usfm": "LEV 27:34"
-},
-{
-"start_ref": "04003001",
-"start_ref_usfm": "NUM 3:1",
-"end_ref": "04003013",
-"end_ref_usfm": "NUM 3:13"
-},
-{
-"start_ref": "04007001",
-"start_ref_usfm": "NUM 7:1",
-"end_ref": "04007009",
-"end_ref_usfm": "NUM 7:9"
-},
-{
-"start_ref": "04011016",
-"start_ref_usfm": "NUM 11:16",
-"end_ref": "04011030",
-"end_ref_usfm": "NUM 11:30"
-},
-{
-"start_ref": "04018008",
-"start_ref_usfm": "NUM 18:8",
-"end_ref": "04018020",
-"end_ref_usfm": "NUM 18:20"
-},
-{
-"start_ref": "06003001",
-"start_ref_usfm": "JOS 3:1",
-"end_ref": "06003017",
-"end_ref_usfm": "JOS 3:17"
-},
-{
-"start_ref": "06007010",
-"start_ref_usfm": "JOS 7:10",
-"end_ref": "06007026",
-"end_ref_usfm": "JOS 7:26"
-},
-{
-"start_ref": "07017001",
-"start_ref_usfm": "JDG 17:1",
-"end_ref": "07017013",
-"end_ref_usfm": "JDG 17:13"
-},
-{
-"start_ref": "09006019",
-"start_ref_usfm": "1SA 6:19",
-"end_ref": "09007002",
-"end_ref_usfm": "1SA 7:2"
-},
-{
-"start_ref": "09021001",
-"start_ref_usfm": "1SA 21:1",
-"end_ref": "09021009",
-"end_ref_usfm": "1SA 21:9"
-},
-{
-"start_ref": "11008062",
-"start_ref_usfm": "1KI 8:62",
-"end_ref": "11008066",
-"end_ref_usfm": "1KI 8:66"
-},
-{
-"start_ref": "11009001",
-"start_ref_usfm": "1KI 9:1",
-"end_ref": "11009009",
-"end_ref_usfm": "1KI 9:9"
-},
-{
-"start_ref": "12012017",
-"start_ref_usfm": "2KI 12:17",
-"end_ref": "12012021",
-"end_ref_usfm": "2KI 12:21"
-},
-{
-"start_ref": "13015001",
-"start_ref_usfm": "1CH 15:1",
-"end_ref": "13015024",
-"end_ref_usfm": "1CH 15:24"
-},
-{
-"start_ref": "13023012",
-"start_ref_usfm": "1CH 23:12",
-"end_ref": "13023020",
-"end_ref_usfm": "1CH 23:20"
-},
-{
-"start_ref": "13024001",
-"start_ref_usfm": "1CH 24:1",
-"end_ref": "13024019",
-"end_ref_usfm": "1CH 24:19"
-},
-{
-"start_ref": "13026020",
-"start_ref_usfm": "1CH 26:20",
-"end_ref": "13026028",
-"end_ref_usfm": "1CH 26:28"
-},
-{
-"start_ref": "13029001",
-"start_ref_usfm": "1CH 29:1",
-"end_ref": "13029009",
-"end_ref_usfm": "1CH 29:9"
-},
-{
-"start_ref": "14002001",
-"start_ref_usfm": "2CH 2:1",
-"end_ref": "14002018",
-"end_ref_usfm": "2CH 2:18"
-},
-{
-"start_ref": "14005002",
-"start_ref_usfm": "2CH 5:2",
-"end_ref": "14005014",
-"end_ref_usfm": "2CH 5:14"
-},
-{
-"start_ref": "14007004",
-"start_ref_usfm": "2CH 7:4",
-"end_ref": "14007010",
-"end_ref_usfm": "2CH 7:10"
-},
-{
-"start_ref": "14007011",
-"start_ref_usfm": "2CH 7:11",
-"end_ref": "14007022",
-"end_ref_usfm": "2CH 7:22"
-},
-{
-"start_ref": "14013001",
-"start_ref_usfm": "2CH 13:1",
-"end_ref": "14013012",
-"end_ref_usfm": "2CH 13:12"
-},
-{
-"start_ref": "14026016",
-"start_ref_usfm": "2CH 26:16",
-"end_ref": "14026023",
-"end_ref_usfm": "2CH 26:23"
-},
-{
-"start_ref": "14029001",
-"start_ref_usfm": "2CH 29:1",
-"end_ref": "14029017",
-"end_ref_usfm": "2CH 29:17"
-},
-{
-"start_ref": "14029018",
-"start_ref_usfm": "2CH 29:18",
-"end_ref": "14029030",
-"end_ref_usfm": "2CH 29:30"
-},
-{
-"start_ref": "14029031",
-"start_ref_usfm": "2CH 29:31",
-"end_ref": "14029036",
-"end_ref_usfm": "2CH 29:36"
-},
-{
-"start_ref": "14030001",
-"start_ref_usfm": "2CH 30:1",
-"end_ref": "14030012",
-"end_ref_usfm": "2CH 30:12"
-},
-{
-"start_ref": "14030013",
-"start_ref_usfm": "2CH 30:13",
-"end_ref": "14030020",
-"end_ref_usfm": "2CH 30:20"
-},
-{
-"start_ref": "14030021",
-"start_ref_usfm": "2CH 30:21",
-"end_ref": "14030027",
-"end_ref_usfm": "2CH 30:27"
-},
-{
-"start_ref": "14031001",
-"start_ref_usfm": "2CH 31:1",
-"end_ref": "14031010",
-"end_ref_usfm": "2CH 31:10"
-},
-{
-"start_ref": "14031011",
-"start_ref_usfm": "2CH 31:11",
-"end_ref": "14031021",
-"end_ref_usfm": "2CH 31:21"
-},
-{
-"start_ref": "14035001",
-"start_ref_usfm": "2CH 35:1",
-"end_ref": "14035019",
-"end_ref_usfm": "2CH 35:19"
-},
-{
-"start_ref": "14036001",
-"start_ref_usfm": "2CH 36:1",
-"end_ref": "14036016",
-"end_ref_usfm": "2CH 36:16"
-},
-{
-"start_ref": "15008024",
-"start_ref_usfm": "EZR 8:24",
-"end_ref": "15008030",
-"end_ref_usfm": "EZR 8:30"
-},
-{
-"start_ref": "16003001",
-"start_ref_usfm": "NEH 3:1",
-"end_ref": "16003005",
-"end_ref_usfm": "NEH 3:5"
-},
-{
-"start_ref": "54004001",
-"start_ref_usfm": "1TI 4:1",
-"end_ref": "54004005",
-"end_ref_usfm": "1TI 4:5"
-}
-],
-"resource": []
-}
-},
-{
 "content_id": "fra-t177-v1",
 "reference_id": 0,
 "version": "1.0.4",
@@ -9194,220 +7778,6 @@
 }
 },
 {
-"content_id": "fra-t177-v1-audio",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "coudée",
-"media_type": "Audio",
-"index_reference": "coudée",
-"language": "fra",
-"review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='None'>mp3 file</a> (None KB)</p>",
-"associations": {
-"passage": [
-{
-"start_ref": "01006009",
-"start_ref_usfm": "GEN 6:9",
-"end_ref": "01006022",
-"end_ref_usfm": "GEN 6:22"
-},
-{
-"start_ref": "01007001",
-"start_ref_usfm": "GEN 7:1",
-"end_ref": "01007024",
-"end_ref_usfm": "GEN 7:24"
-},
-{
-"start_ref": "02025010",
-"start_ref_usfm": "EXO 25:10",
-"end_ref": "02025022",
-"end_ref_usfm": "EXO 25:22"
-},
-{
-"start_ref": "02025023",
-"start_ref_usfm": "EXO 25:23",
-"end_ref": "02025030",
-"end_ref_usfm": "EXO 25:30"
-},
-{
-"start_ref": "02026015",
-"start_ref_usfm": "EXO 26:15",
-"end_ref": "02026030",
-"end_ref_usfm": "EXO 26:30"
-},
-{
-"start_ref": "02027001",
-"start_ref_usfm": "EXO 27:1",
-"end_ref": "02027008",
-"end_ref_usfm": "EXO 27:8"
-},
-{
-"start_ref": "02027009",
-"start_ref_usfm": "EXO 27:9",
-"end_ref": "02027021",
-"end_ref_usfm": "EXO 27:21"
-},
-{
-"start_ref": "02030001",
-"start_ref_usfm": "EXO 30:1",
-"end_ref": "02030010",
-"end_ref_usfm": "EXO 30:10"
-},
-{
-"start_ref": "02036020",
-"start_ref_usfm": "EXO 36:20",
-"end_ref": "02036034",
-"end_ref_usfm": "EXO 36:34"
-},
-{
-"start_ref": "02037001",
-"start_ref_usfm": "EXO 37:1",
-"end_ref": "02037009",
-"end_ref_usfm": "EXO 37:9"
-},
-{
-"start_ref": "02037010",
-"start_ref_usfm": "EXO 37:10",
-"end_ref": "02037016",
-"end_ref_usfm": "EXO 37:16"
-},
-{
-"start_ref": "02037025",
-"start_ref_usfm": "EXO 37:25",
-"end_ref": "02038008",
-"end_ref_usfm": "EXO 38:8"
-},
-{
-"start_ref": "02038009",
-"start_ref_usfm": "EXO 38:9",
-"end_ref": "02038020",
-"end_ref_usfm": "EXO 38:20"
-},
-{
-"start_ref": "04011031",
-"start_ref_usfm": "NUM 11:31",
-"end_ref": "04011035",
-"end_ref_usfm": "NUM 11:35"
-},
-{
-"start_ref": "04035001",
-"start_ref_usfm": "NUM 35:1",
-"end_ref": "04035008",
-"end_ref_usfm": "NUM 35:8"
-},
-{
-"start_ref": "06003001",
-"start_ref_usfm": "JOS 3:1",
-"end_ref": "06003017",
-"end_ref_usfm": "JOS 3:17"
-},
-{
-"start_ref": "07003012",
-"start_ref_usfm": "JDG 3:12",
-"end_ref": "07003031",
-"end_ref_usfm": "JDG 3:31"
-},
-{
-"start_ref": "09017001",
-"start_ref_usfm": "1SA 17:1",
-"end_ref": "09017011",
-"end_ref_usfm": "1SA 17:11"
-},
-{
-"start_ref": "11006001",
-"start_ref_usfm": "1KI 6:1",
-"end_ref": "11006013",
-"end_ref_usfm": "1KI 6:13"
-},
-{
-"start_ref": "11006014",
-"start_ref_usfm": "1KI 6:14",
-"end_ref": "11006038",
-"end_ref_usfm": "1KI 6:38"
-},
-{
-"start_ref": "11007001",
-"start_ref_usfm": "1KI 7:1",
-"end_ref": "11007012",
-"end_ref_usfm": "1KI 7:12"
-},
-{
-"start_ref": "11007013",
-"start_ref_usfm": "1KI 7:13",
-"end_ref": "11007022",
-"end_ref_usfm": "1KI 7:22"
-},
-{
-"start_ref": "11007023",
-"start_ref_usfm": "1KI 7:23",
-"end_ref": "11007039",
-"end_ref_usfm": "1KI 7:39"
-},
-{
-"start_ref": "12014008",
-"start_ref_usfm": "2KI 14:8",
-"end_ref": "12014016",
-"end_ref_usfm": "2KI 14:16"
-},
-{
-"start_ref": "13011020",
-"start_ref_usfm": "1CH 11:20",
-"end_ref": "13011025",
-"end_ref_usfm": "1CH 11:25"
-},
-{
-"start_ref": "14003001",
-"start_ref_usfm": "2CH 3:1",
-"end_ref": "14003014",
-"end_ref_usfm": "2CH 3:14"
-},
-{
-"start_ref": "14003015",
-"start_ref_usfm": "2CH 3:15",
-"end_ref": "14004010",
-"end_ref_usfm": "2CH 4:10"
-},
-{
-"start_ref": "14006012",
-"start_ref_usfm": "2CH 6:12",
-"end_ref": "14006021",
-"end_ref_usfm": "2CH 6:21"
-},
-{
-"start_ref": "14025014",
-"start_ref_usfm": "2CH 25:14",
-"end_ref": "14025028",
-"end_ref_usfm": "2CH 25:28"
-},
-{
-"start_ref": "15006001",
-"start_ref_usfm": "EZR 6:1",
-"end_ref": "15006012",
-"end_ref_usfm": "EZR 6:12"
-},
-{
-"start_ref": "17005009",
-"start_ref_usfm": "EST 5:9",
-"end_ref": "17005014",
-"end_ref_usfm": "EST 5:14"
-},
-{
-"start_ref": "17007001",
-"start_ref_usfm": "EST 7:1",
-"end_ref": "17007010",
-"end_ref_usfm": "EST 7:10"
-},
-{
-"start_ref": "42012022",
-"start_ref_usfm": "LUK 12:22",
-"end_ref": "42012034",
-"end_ref_usfm": "LUK 12:34"
-}
-],
-"resource": []
-}
-},
-{
 "content_id": "fra-t185-v1",
 "reference_id": 0,
 "version": "1.0.4",
@@ -9580,6 +7950,12 @@
 "start_ref_usfm": "2KI 4:1",
 "end_ref": "12004007",
 "end_ref_usfm": "2KI 4:7"
+},
+{
+"start_ref": "12017024",
+"start_ref_usfm": "2KI 17:24",
+"end_ref": "12017041",
+"end_ref_usfm": "2KI 17:41"
 },
 {
 "start_ref": "13014008",
@@ -9794,364 +8170,6 @@
 "preferred_label": "dévot"
 }
 ]
-}
-},
-{
-"content_id": "fra-t185-v1-audio",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "Crainte de Dieu",
-"media_type": "Audio",
-"index_reference": "crainte de dieu",
-"language": "fra",
-"review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='None'>mp3 file</a> (None KB)</p>",
-"associations": {
-"passage": [
-{
-"start_ref": "01020001",
-"start_ref_usfm": "GEN 20:1",
-"end_ref": "01020018",
-"end_ref_usfm": "GEN 20:18"
-},
-{
-"start_ref": "01022001",
-"start_ref_usfm": "GEN 22:1",
-"end_ref": "01022019",
-"end_ref_usfm": "GEN 22:19"
-},
-{
-"start_ref": "01028010",
-"start_ref_usfm": "GEN 28:10",
-"end_ref": "01028022",
-"end_ref_usfm": "GEN 28:22"
-},
-{
-"start_ref": "01042001",
-"start_ref_usfm": "GEN 42:1",
-"end_ref": "01042026",
-"end_ref_usfm": "GEN 42:26"
-},
-{
-"start_ref": "02001015",
-"start_ref_usfm": "EXO 1:15",
-"end_ref": "02001022",
-"end_ref_usfm": "EXO 1:22"
-},
-{
-"start_ref": "02009022",
-"start_ref_usfm": "EXO 9:22",
-"end_ref": "02009035",
-"end_ref_usfm": "EXO 9:35"
-},
-{
-"start_ref": "02018013",
-"start_ref_usfm": "EXO 18:13",
-"end_ref": "02018027",
-"end_ref_usfm": "EXO 18:27"
-},
-{
-"start_ref": "02020018",
-"start_ref_usfm": "EXO 20:18",
-"end_ref": "02020026",
-"end_ref_usfm": "EXO 20:26"
-},
-{
-"start_ref": "03019009",
-"start_ref_usfm": "LEV 19:9",
-"end_ref": "03019014",
-"end_ref_usfm": "LEV 19:14"
-},
-{
-"start_ref": "03019031",
-"start_ref_usfm": "LEV 19:31",
-"end_ref": "03019037",
-"end_ref_usfm": "LEV 19:37"
-},
-{
-"start_ref": "03025008",
-"start_ref_usfm": "LEV 25:8",
-"end_ref": "03025022",
-"end_ref_usfm": "LEV 25:22"
-},
-{
-"start_ref": "03025035",
-"start_ref_usfm": "LEV 25:35",
-"end_ref": "03025046",
-"end_ref_usfm": "LEV 25:46"
-},
-{
-"start_ref": "05005028",
-"start_ref_usfm": "DEU 5:28",
-"end_ref": "05005033",
-"end_ref_usfm": "DEU 5:33"
-},
-{
-"start_ref": "05008001",
-"start_ref_usfm": "DEU 8:1",
-"end_ref": "05008010",
-"end_ref_usfm": "DEU 8:10"
-},
-{
-"start_ref": "05010012",
-"start_ref_usfm": "DEU 10:12",
-"end_ref": "05010022",
-"end_ref_usfm": "DEU 10:22"
-},
-{
-"start_ref": "05012029",
-"start_ref_usfm": "DEU 12:29",
-"end_ref": "05013005",
-"end_ref_usfm": "DEU 13:5"
-},
-{
-"start_ref": "05013006",
-"start_ref_usfm": "DEU 13:6",
-"end_ref": "05013011",
-"end_ref_usfm": "DEU 13:11"
-},
-{
-"start_ref": "05014022",
-"start_ref_usfm": "DEU 14:22",
-"end_ref": "05014029",
-"end_ref_usfm": "DEU 14:29"
-},
-{
-"start_ref": "06004015",
-"start_ref_usfm": "JOS 4:15",
-"end_ref": "06005001",
-"end_ref_usfm": "JOS 5:1"
-},
-{
-"start_ref": "06022021",
-"start_ref_usfm": "JOS 22:21",
-"end_ref": "06022034",
-"end_ref_usfm": "JOS 22:34"
-},
-{
-"start_ref": "06024014",
-"start_ref_usfm": "JOS 24:14",
-"end_ref": "06024028",
-"end_ref_usfm": "JOS 24:28"
-},
-{
-"start_ref": "09012001",
-"start_ref_usfm": "1SA 12:1",
-"end_ref": "09012017",
-"end_ref_usfm": "1SA 12:17"
-},
-{
-"start_ref": "09012018",
-"start_ref_usfm": "1SA 12:18",
-"end_ref": "09012025",
-"end_ref_usfm": "1SA 12:25"
-},
-{
-"start_ref": "10023001",
-"start_ref_usfm": "2SA 23:1",
-"end_ref": "10023007",
-"end_ref_usfm": "2SA 23:7"
-},
-{
-"start_ref": "11008031",
-"start_ref_usfm": "1KI 8:31",
-"end_ref": "11008053",
-"end_ref_usfm": "1KI 8:53"
-},
-{
-"start_ref": "11018001",
-"start_ref_usfm": "1KI 18:1",
-"end_ref": "11018015",
-"end_ref_usfm": "1KI 18:15"
-},
-{
-"start_ref": "12004001",
-"start_ref_usfm": "2KI 4:1",
-"end_ref": "12004007",
-"end_ref_usfm": "2KI 4:7"
-},
-{
-"start_ref": "13014008",
-"start_ref_usfm": "1CH 14:8",
-"end_ref": "13014017",
-"end_ref_usfm": "1CH 14:17"
-},
-{
-"start_ref": "13016023",
-"start_ref_usfm": "1CH 16:23",
-"end_ref": "13016033",
-"end_ref_usfm": "1CH 16:33"
-},
-{
-"start_ref": "14006022",
-"start_ref_usfm": "2CH 6:22",
-"end_ref": "14006039",
-"end_ref_usfm": "2CH 6:39"
-},
-{
-"start_ref": "14017010",
-"start_ref_usfm": "2CH 17:10",
-"end_ref": "14017019",
-"end_ref_usfm": "2CH 17:19"
-},
-{
-"start_ref": "14019001",
-"start_ref_usfm": "2CH 19:1",
-"end_ref": "14019011",
-"end_ref_usfm": "2CH 19:11"
-},
-{
-"start_ref": "14020020",
-"start_ref_usfm": "2CH 20:20",
-"end_ref": "14020030",
-"end_ref_usfm": "2CH 20:30"
-},
-{
-"start_ref": "14026001",
-"start_ref_usfm": "2CH 26:1",
-"end_ref": "14026015",
-"end_ref_usfm": "2CH 26:15"
-},
-{
-"start_ref": "16005001",
-"start_ref_usfm": "NEH 5:1",
-"end_ref": "16005013",
-"end_ref_usfm": "NEH 5:13"
-},
-{
-"start_ref": "16005014",
-"start_ref_usfm": "NEH 5:14",
-"end_ref": "16005019",
-"end_ref_usfm": "NEH 5:19"
-},
-{
-"start_ref": "16006015",
-"start_ref_usfm": "NEH 6:15",
-"end_ref": "16007004",
-"end_ref_usfm": "NEH 7:4"
-},
-{
-"start_ref": "18001001",
-"start_ref_usfm": "JOB 1:1",
-"end_ref": "18001005",
-"end_ref_usfm": "JOB 1:5"
-},
-{
-"start_ref": "18001006",
-"start_ref_usfm": "JOB 1:6",
-"end_ref": "18001012",
-"end_ref_usfm": "JOB 1:12"
-},
-{
-"start_ref": "32001001",
-"start_ref_usfm": "JON 1:1",
-"end_ref": "32001016",
-"end_ref_usfm": "JON 1:16"
-},
-{
-"start_ref": "40009001",
-"start_ref_usfm": "MAT 9:1",
-"end_ref": "40009008",
-"end_ref_usfm": "MAT 9:8"
-},
-{
-"start_ref": "40010026",
-"start_ref_usfm": "MAT 10:26",
-"end_ref": "40010033",
-"end_ref_usfm": "MAT 10:33"
-},
-{
-"start_ref": "42012001",
-"start_ref_usfm": "LUK 12:1",
-"end_ref": "42012012",
-"end_ref_usfm": "LUK 12:12"
-},
-{
-"start_ref": "42023026",
-"start_ref_usfm": "LUK 23:26",
-"end_ref": "42023043",
-"end_ref_usfm": "LUK 23:43"
-},
-{
-"start_ref": "43009024",
-"start_ref_usfm": "JHN 9:24",
-"end_ref": "43009034",
-"end_ref_usfm": "JHN 9:34"
-},
-{
-"start_ref": "44002001",
-"start_ref_usfm": "ACT 2:1",
-"end_ref": "44002013",
-"end_ref_usfm": "ACT 2:13"
-},
-{
-"start_ref": "44009019",
-"start_ref_usfm": "ACT 9:19",
-"end_ref": "44009031",
-"end_ref_usfm": "ACT 9:31"
-},
-{
-"start_ref": "44010001",
-"start_ref_usfm": "ACT 10:1",
-"end_ref": "44010008",
-"end_ref_usfm": "ACT 10:8"
-},
-{
-"start_ref": "44010009",
-"start_ref_usfm": "ACT 10:9",
-"end_ref": "44010023",
-"end_ref_usfm": "ACT 10:23"
-},
-{
-"start_ref": "44010034",
-"start_ref_usfm": "ACT 10:34",
-"end_ref": "44010048",
-"end_ref_usfm": "ACT 10:48"
-},
-{
-"start_ref": "44013013",
-"start_ref_usfm": "ACT 13:13",
-"end_ref": "44013022",
-"end_ref_usfm": "ACT 13:22"
-},
-{
-"start_ref": "44013023",
-"start_ref_usfm": "ACT 13:23",
-"end_ref": "44013041",
-"end_ref_usfm": "ACT 13:41"
-},
-{
-"start_ref": "44016006",
-"start_ref_usfm": "ACT 16:6",
-"end_ref": "44016015",
-"end_ref_usfm": "ACT 16:15"
-},
-{
-"start_ref": "47005011",
-"start_ref_usfm": "2CO 5:11",
-"end_ref": "47005015",
-"end_ref_usfm": "2CO 5:15"
-},
-{
-"start_ref": "47006014",
-"start_ref_usfm": "2CO 6:14",
-"end_ref": "47007001",
-"end_ref_usfm": "2CO 7:1"
-},
-{
-"start_ref": "49005015",
-"start_ref_usfm": "EPH 5:15",
-"end_ref": "49005021",
-"end_ref_usfm": "EPH 5:21"
-},
-{
-"start_ref": "50002012",
-"start_ref_usfm": "PHP 2:12",
-"end_ref": "50002018",
-"end_ref_usfm": "PHP 2:18"
-}
-],
-"resource": []
 }
 },
 {
@@ -10431,6 +8449,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "pardonnés",
 "language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t11-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "croire",
+"language": "fra"
 }
 ],
 "acai": []
@@ -10445,7 +8470,7 @@
 "index_reference": "croire",
 "language": "fra",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t11/v1/vbr4.mp3'>mp3 file</a> (3340076 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t11/v1/vbr4.mp3'>mp3 file</a> (3.2 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -10671,7 +8696,15 @@
 "end_ref_usfm": "JUD 1:7"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t11-v1",
+"resource_code": "FIAKeyTerms",
+"label": "croire",
+"language": "fra"
+}
+]
 }
 },
 {
@@ -10814,6 +8847,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "crucifixion",
 "language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t30-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "croix",
+"language": "fra"
 }
 ],
 "acai": [
@@ -10836,7 +8876,7 @@
 "index_reference": "croix",
 "language": "fra",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t30/v1/vbr4.mp3'>mp3 file</a> (1503788 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t30/v1/vbr4.mp3'>mp3 file</a> (1.4 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -10960,7 +9000,15 @@
 "end_ref_usfm": "PHP 4:1"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t30-v1",
+"resource_code": "FIAKeyTerms",
+"label": "croix",
+"language": "fra"
+}
+]
 }
 },
 {
@@ -11242,268 +9290,6 @@
 }
 },
 {
-"content_id": "fra-t12-v1-audio",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "croyant",
-"media_type": "Audio",
-"index_reference": "croyant",
-"language": "fra",
-"review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='None'>mp3 file</a> (None KB)</p>",
-"associations": {
-"passage": [
-{
-"start_ref": "44001001",
-"start_ref_usfm": "ACT 1:1",
-"end_ref": "44001005",
-"end_ref_usfm": "ACT 1:5"
-},
-{
-"start_ref": "44002001",
-"start_ref_usfm": "ACT 2:1",
-"end_ref": "44002013",
-"end_ref_usfm": "ACT 2:13"
-},
-{
-"start_ref": "44002042",
-"start_ref_usfm": "ACT 2:42",
-"end_ref": "44002047",
-"end_ref_usfm": "ACT 2:47"
-},
-{
-"start_ref": "44004023",
-"start_ref_usfm": "ACT 4:23",
-"end_ref": "44004031",
-"end_ref_usfm": "ACT 4:31"
-},
-{
-"start_ref": "44004032",
-"start_ref_usfm": "ACT 4:32",
-"end_ref": "44004037",
-"end_ref_usfm": "ACT 4:37"
-},
-{
-"start_ref": "44005012",
-"start_ref_usfm": "ACT 5:12",
-"end_ref": "44005016",
-"end_ref_usfm": "ACT 5:16"
-},
-{
-"start_ref": "44009019",
-"start_ref_usfm": "ACT 9:19",
-"end_ref": "44009031",
-"end_ref_usfm": "ACT 9:31"
-},
-{
-"start_ref": "44010034",
-"start_ref_usfm": "ACT 10:34",
-"end_ref": "44010048",
-"end_ref_usfm": "ACT 10:48"
-},
-{
-"start_ref": "44011001",
-"start_ref_usfm": "ACT 11:1",
-"end_ref": "44011018",
-"end_ref_usfm": "ACT 11:18"
-},
-{
-"start_ref": "44015022",
-"start_ref_usfm": "ACT 15:22",
-"end_ref": "44015035",
-"end_ref_usfm": "ACT 15:35"
-},
-{
-"start_ref": "44015036",
-"start_ref_usfm": "ACT 15:36",
-"end_ref": "44015041",
-"end_ref_usfm": "ACT 15:41"
-},
-{
-"start_ref": "44016001",
-"start_ref_usfm": "ACT 16:1",
-"end_ref": "44016005",
-"end_ref_usfm": "ACT 16:5"
-},
-{
-"start_ref": "44016025",
-"start_ref_usfm": "ACT 16:25",
-"end_ref": "44016040",
-"end_ref_usfm": "ACT 16:40"
-},
-{
-"start_ref": "44019001",
-"start_ref_usfm": "ACT 19:1",
-"end_ref": "44019007",
-"end_ref_usfm": "ACT 19:7"
-},
-{
-"start_ref": "44026001",
-"start_ref_usfm": "ACT 26:1",
-"end_ref": "44026023",
-"end_ref_usfm": "ACT 26:23"
-},
-{
-"start_ref": "46001010",
-"start_ref_usfm": "1CO 1:10",
-"end_ref": "46001017",
-"end_ref_usfm": "1CO 1:17"
-},
-{
-"start_ref": "46001026",
-"start_ref_usfm": "1CO 1:26",
-"end_ref": "46001031",
-"end_ref_usfm": "1CO 1:31"
-},
-{
-"start_ref": "46006001",
-"start_ref_usfm": "1CO 6:1",
-"end_ref": "46006011",
-"end_ref_usfm": "1CO 6:11"
-},
-{
-"start_ref": "46007010",
-"start_ref_usfm": "1CO 7:10",
-"end_ref": "46007016",
-"end_ref_usfm": "1CO 7:16"
-},
-{
-"start_ref": "46010023",
-"start_ref_usfm": "1CO 10:23",
-"end_ref": "46011001",
-"end_ref_usfm": "1CO 11:1"
-},
-{
-"start_ref": "47004001",
-"start_ref_usfm": "2CO 4:1",
-"end_ref": "47004006",
-"end_ref_usfm": "2CO 4:6"
-},
-{
-"start_ref": "47006014",
-"start_ref_usfm": "2CO 6:14",
-"end_ref": "47007001",
-"end_ref_usfm": "2CO 7:1"
-},
-{
-"start_ref": "48001001",
-"start_ref_usfm": "GAL 1:1",
-"end_ref": "48001005",
-"end_ref_usfm": "GAL 1:5"
-},
-{
-"start_ref": "48001011",
-"start_ref_usfm": "GAL 1:11",
-"end_ref": "48001024",
-"end_ref_usfm": "GAL 1:24"
-},
-{
-"start_ref": "48002001",
-"start_ref_usfm": "GAL 2:1",
-"end_ref": "48002010",
-"end_ref_usfm": "GAL 2:10"
-},
-{
-"start_ref": "48003015",
-"start_ref_usfm": "GAL 3:15",
-"end_ref": "48003018",
-"end_ref_usfm": "GAL 3:18"
-},
-{
-"start_ref": "48004008",
-"start_ref_usfm": "GAL 4:8",
-"end_ref": "48004020",
-"end_ref_usfm": "GAL 4:20"
-},
-{
-"start_ref": "48004028",
-"start_ref_usfm": "GAL 4:28",
-"end_ref": "48005001",
-"end_ref_usfm": "GAL 5:1"
-},
-{
-"start_ref": "48005007",
-"start_ref_usfm": "GAL 5:7",
-"end_ref": "48005012",
-"end_ref_usfm": "GAL 5:12"
-},
-{
-"start_ref": "48005013",
-"start_ref_usfm": "GAL 5:13",
-"end_ref": "48005018",
-"end_ref_usfm": "GAL 5:18"
-},
-{
-"start_ref": "48006001",
-"start_ref_usfm": "GAL 6:1",
-"end_ref": "48006010",
-"end_ref_usfm": "GAL 6:10"
-},
-{
-"start_ref": "48006011",
-"start_ref_usfm": "GAL 6:11",
-"end_ref": "48006018",
-"end_ref_usfm": "GAL 6:18"
-},
-{
-"start_ref": "49006021",
-"start_ref_usfm": "EPH 6:21",
-"end_ref": "49006024",
-"end_ref_usfm": "EPH 6:24"
-},
-{
-"start_ref": "52001001",
-"start_ref_usfm": "1TH 1:1",
-"end_ref": "52001010",
-"end_ref_usfm": "1TH 1:10"
-},
-{
-"start_ref": "54004006",
-"start_ref_usfm": "1TI 4:6",
-"end_ref": "54004010",
-"end_ref_usfm": "1TI 4:10"
-},
-{
-"start_ref": "54004011",
-"start_ref_usfm": "1TI 4:11",
-"end_ref": "54004016",
-"end_ref_usfm": "1TI 4:16"
-},
-{
-"start_ref": "54005001",
-"start_ref_usfm": "1TI 5:1",
-"end_ref": "54005008",
-"end_ref_usfm": "1TI 5:8"
-},
-{
-"start_ref": "54005009",
-"start_ref_usfm": "1TI 5:9",
-"end_ref": "54005016",
-"end_ref_usfm": "1TI 5:16"
-},
-{
-"start_ref": "54006001",
-"start_ref_usfm": "1TI 6:1",
-"end_ref": "54006002",
-"end_ref_usfm": "1TI 6:2"
-},
-{
-"start_ref": "59001001",
-"start_ref_usfm": "JAS 1:1",
-"end_ref": "59001011",
-"end_ref_usfm": "JAS 1:11"
-},
-{
-"start_ref": "64001009",
-"start_ref_usfm": "3JN 1:9",
-"end_ref": "64001010",
-"end_ref_usfm": "3JN 1:10"
-}
-],
-"resource": []
-}
-},
-{
 "content_id": "fra-t169-v1",
 "reference_id": 0,
 "version": "1.0.4",
@@ -11692,6 +9478,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "croix",
 "language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t169-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "crucifixion",
+"language": "fra"
 }
 ],
 "acai": []
@@ -11706,7 +9499,7 @@
 "index_reference": "crucifixion",
 "language": "fra",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t169/v1/vbr4.mp3'>mp3 file</a> (937292 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t169/v1/vbr4.mp3'>mp3 file</a> (915 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -11872,7 +9665,15 @@
 "end_ref_usfm": "GAL 6:18"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t169-v1",
+"resource_code": "FIAKeyTerms",
+"label": "crucifixion",
+"language": "fra"
+}
+]
 }
 }
 ]
