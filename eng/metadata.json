@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Familiarization, Internalization, Articulation (FIA) Key Terms</b> © 2025 Word Collective Released under CC BY-SA 4.0 license. <cite>Familiarization, Internalization, Articulation (FIA) Key Terms</cite> has been adapted in the following languages Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Familiarization, Internalization, Articulation (FIA)</cite> © 2025 Word Collective. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "FIAKeyTerms",
-"date_created": "2026-09-23",
+"date_created": "2026-10-05",
 "language": "eng",
 "localizations": [
 "arb",
@@ -54,7 +54,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-09-23T19:31:57.023563"
+"dateCreated": "2026-10-05T18:57:43.779775"
 },
 "idAuthorities": {
 "aquifer": {
@@ -68,7 +68,7 @@
 "primary": {
 "aquifer": {
 "FIAKeyTerms": {
-"timestamp": "2026-09-23T19:31:57.023563"
+"timestamp": "2026-10-05T18:57:43.779775"
 }
 }
 },
@@ -100,7 +100,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 155323,
+"size": 180320,
 "scope": {
 "a": [
 "abba",
@@ -129,6 +129,8 @@
 "anoint",
 "apostle",
 "apostle",
+"ark of the covenant",
+"ark of the covenant",
 "atonement",
 "atonement",
 "authority",
@@ -138,7 +140,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 144296,
+"size": 163764,
 "scope": {
 "b": [
 "Baal",
@@ -165,6 +167,10 @@
 "boat",
 "bow",
 "bow",
+"bread of the presence",
+"bread of the presence",
+"bronze",
+"bronze",
 "burnt offering",
 "burnt offering"
 ]
@@ -172,7 +178,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 256255,
+"size": 263859,
 "scope": {
 "c": [
 "Caesar",
@@ -230,7 +236,7 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 131581,
+"size": 138822,
 "scope": {
 "d": [
 "Dalmanutha",
@@ -239,6 +245,8 @@
 "David",
 "Day of Atonement",
 "Day of Atonement",
+"deacon",
+"deacon",
 "Decapolis",
 "Decapolis",
 "demon",
@@ -272,7 +280,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 92746,
+"size": 111531,
 "scope": {
 "e": [
 "elder",
@@ -287,6 +295,10 @@
 "el-roi",
 "el-shaddai",
 "el-shaddai",
+"ephah",
+"ephah",
+"ephod",
+"ephod",
 "eternal life",
 "eternal life",
 "evangelist",
@@ -300,7 +312,7 @@
 },
 "json/006.content.json": {
 "mimeType": "text/json",
-"size": 134190,
+"size": 140940,
 "scope": {
 "f": [
 "faith",
@@ -331,6 +343,8 @@
 "fishing net",
 "flesh",
 "flesh",
+"fool",
+"fool",
 "foreigner",
 "foreigner",
 "forgiveness",
@@ -340,7 +354,7 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 178716,
+"size": 196949,
 "scope": {
 "g": [
 "Gabriel",
@@ -355,12 +369,16 @@
 "Gentile",
 "Gerasenes",
 "Gerasenes",
+"gift",
+"gift",
 "glorify",
 "glorify",
 "glory",
 "glory",
 "God",
 "God",
+"godly/ungodly",
+"godly/ungodly",
 "gods",
 "gods",
 "good news",
@@ -369,6 +387,8 @@
 "gospel",
 "grace",
 "grace",
+"grave",
+"grave",
 "greeks",
 "greeks"
 ]
@@ -376,7 +396,7 @@
 },
 "json/008.content.json": {
 "mimeType": "text/json",
-"size": 226028,
+"size": 249249,
 "scope": {
 "h": [
 "hades",
@@ -399,10 +419,16 @@
 "Herodian",
 "high priest",
 "high priest",
+"hin",
+"hin",
 "holy",
 "holy",
+"holy place",
+"holy place",
 "Holy Spirit",
 "Holy Spirit",
+"hope",
+"hope",
 "horn",
 "horn",
 "Hosanna",
@@ -422,7 +448,7 @@
 },
 "json/009.content.json": {
 "mimeType": "text/json",
-"size": 88725,
+"size": 91152,
 "scope": {
 "i": [
 "I am",
@@ -446,7 +472,7 @@
 },
 "json/010.content.json": {
 "mimeType": "text/json",
-"size": 138765,
+"size": 141253,
 "scope": {
 "j": [
 "James",
@@ -474,7 +500,7 @@
 },
 "json/011.content.json": {
 "mimeType": "text/json",
-"size": 69515,
+"size": 70491,
 "scope": {
 "k": [
 "king",
@@ -488,9 +514,11 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 103270,
+"size": 109224,
 "scope": {
 "l": [
+"lament",
+"lament",
 "law",
 "law",
 "lawlessness",
@@ -510,7 +538,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 75327,
+"size": 87295,
 "scope": {
 "m": [
 "magician",
@@ -519,6 +547,8 @@
 "Mary",
 "master",
 "master",
+"medium",
+"medium",
 "mercy",
 "mercy",
 "Messiah",
@@ -526,41 +556,65 @@
 "mind",
 "mind",
 "miracles",
-"miracles"
+"miracles",
+"most holy place",
+"most holy place"
 ]
 }
 },
 "json/014.content.json": {
 "mimeType": "text/json",
-"size": 31228,
+"size": 38173,
 "scope": {
 "n": [
 "nation",
 "nation",
 "Nazareth",
-"Nazareth"
+"Nazareth",
+"neighbor",
+"neighbor"
 ]
 }
 },
 "json/015.content.json": {
 "mimeType": "text/json",
-"size": 56563,
+"size": 136932,
 "scope": {
 "o": [
 "oath",
 "oath",
 "offering",
 "offering",
+"offering",
+"offering",
+"offering-drink",
+"offering-drink",
+"offering-fire",
+"offering-fire",
+"offering-firstfruits",
+"offering-firstfruits",
+"offering-freewill",
+"offering-freewill",
 "offering-grain",
 "offering-grain",
+"offering-peace or fellowship",
+"offering-peace or fellowship",
+"offering-sin or purification",
+"offering-sin or purification",
+"offering-wave",
+"offering-wave",
 "oil lamp",
-"oil lamp"
+"oil lamp",
+"ordinance",
+"ordinance",
+"overseer",
+"overseer"
 ]
 }
 },
 "json/016.content.json": {
 "mimeType": "text/json",
-"size": 225480,
+"size": 258821,
 "scope": {
 "p": [
 "parable",
@@ -569,10 +623,14 @@
 "paradise",
 "Passover",
 "Passover",
+"pastor",
+"pastor",
 "peace",
 "peace",
 "pentecost",
 "pentecost",
+"perfect",
+"perfect",
 "persecution",
 "persecution",
 "pharaoh",
@@ -589,12 +647,18 @@
 "pray",
 "priest",
 "priest",
+"Promised Land",
+"Promised Land",
 "prophecy",
 "prophecy",
+"prophesy",
+"prophesy",
 "prophet",
 "prophet",
 "proverb",
 "proverb",
+"pure",
+"pure",
 "purification offering or ceremony",
 "purification offering or ceremony",
 "purify",
@@ -604,13 +668,25 @@
 },
 "json/017.content.json": {
 "mimeType": "text/json",
-"size": 74885,
+"size": 4802,
+"scope": {
+"q": [
+"queen",
+"queen"
+]
+}
+},
+"json/018.content.json": {
+"mimeType": "text/json",
+"size": 79383,
 "scope": {
 "r": [
 "rabbi",
 "rabbi",
 "ransom",
 "ransom",
+"reconcile",
+"reconcile",
 "redeem",
 "redeem",
 "repentance",
@@ -626,9 +702,9 @@
 ]
 }
 },
-"json/018.content.json": {
+"json/019.content.json": {
 "mimeType": "text/json",
-"size": 403706,
+"size": 488850,
 "scope": {
 "s": [
 "sabbath",
@@ -657,18 +733,24 @@
 "scribe",
 "scriptures",
 "scriptures",
+"scroll",
+"scroll",
 "Sea of Galilee",
 "Sea of Galilee",
 "seed",
 "seed",
 "servant",
 "servant",
+"shekel",
+"shekel",
 "shelter",
 "shelter",
 "Sheol",
 "Sheol",
 "shepherd",
 "shepherd",
+"siege",
+"siege",
 "sign",
 "sign",
 "sin",
@@ -691,8 +773,18 @@
 "span",
 "spirit",
 "spirit",
+"spirit",
+"spirit",
+"statute",
+"statute",
+"steadfast love",
+"steadfast love",
+"steward",
+"steward",
 "strength",
 "strength",
+"stronghold",
+"stronghold",
 "synagogue",
 "synagogue",
 "synagogue ruler",
@@ -702,13 +794,15 @@
 ]
 }
 },
-"json/019.content.json": {
+"json/020.content.json": {
 "mimeType": "text/json",
-"size": 138883,
+"size": 147531,
 "scope": {
 "t": [
 "tabernacle",
 "tabernacle",
+"talent",
+"talent",
 "teacher",
 "teacher",
 "teachers of the Law",
@@ -732,9 +826,9 @@
 ]
 }
 },
-"json/020.content.json": {
+"json/021.content.json": {
 "mimeType": "text/json",
-"size": 24918,
+"size": 25656,
 "scope": {
 "v": [
 "vineyard",
@@ -746,9 +840,9 @@
 ]
 }
 },
-"json/021.content.json": {
+"json/022.content.json": {
 "mimeType": "text/json",
-"size": 116995,
+"size": 127389,
 "scope": {
 "w": [
 "watchtower",
@@ -766,17 +860,21 @@
 "Word",
 "Word",
 "worship",
-"worship"
+"worship",
+"wrath",
+"wrath"
 ]
 }
 },
-"json/022.content.json": {
+"json/023.content.json": {
 "mimeType": "text/json",
-"size": 34393,
+"size": 41307,
 "scope": {
 "y": [
 "Yahweh",
 "Yahweh",
+"Yahweh of hosts",
+"Yahweh of hosts",
 "Year of Jubilee",
 "Year of Jubilee",
 "yoke",
@@ -784,11 +882,13 @@
 ]
 }
 },
-"json/023.content.json": {
+"json/024.content.json": {
 "mimeType": "text/json",
-"size": 3175,
+"size": 6883,
 "scope": {
 "z": [
+"zeal",
+"zeal",
 "Zion",
 "Zion"
 ]
@@ -796,279 +896,291 @@
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 63765
+"size": 71836
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 24318
+"size": 25292
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 72043
+"size": 75258
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
-"size": 38420
+"size": 41964
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 16489
+"size": 16890
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 66740
+"size": 82054
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 7403
+"size": 46059
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
-"size": 22563
+"size": 1907
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 38929
+"size": 40070
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 25337
+"size": 32169
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 39929
+"size": 46559
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 26873
+"size": 7728
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 25026
+"size": 28389
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 13681
+"size": 41362
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
-"size": 44625
+"size": 52127
 },
 "md/023.content.md": {
 "mimeType": "text/markdown",
-"size": 1806
+"size": 14198
+},
+"md/024.content.md": {
+"mimeType": "text/markdown",
+"size": 3724
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
-"size": 47596
+"size": 50738
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 41771
+"size": 50672
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 7668
+"size": 9710
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 23328
+"size": 28400
 },
 "md/022.content.md": {
 "mimeType": "text/markdown",
-"size": 11711
+"size": 30228
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 43143
+"size": 143997
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
-"size": 116193
+"size": 25164
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 50079
+"size": 51455
 },
 "docx/002.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 49727
+"size": 50666
 },
 "docx/003.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 55033
+"size": 54954
 },
 "docx/004.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 50107
+"size": 50531
 },
 "docx/005.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 47170
+"size": 48460
 },
 "docx/006.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 53292
+"size": 53423
 },
 "docx/007.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 48350
+"size": 49723
 },
 "docx/008.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 53865
+"size": 54837
 },
 "docx/009.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46508
+"size": 46489
 },
 "docx/010.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 49315
+"size": 49286
 },
 "docx/011.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44514
+"size": 44507
 },
 "docx/012.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45789
+"size": 46647
 },
 "docx/013.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 47679
+"size": 48679
 },
 "docx/014.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43133
+"size": 43430
 },
 "docx/015.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43993
+"size": 49131
 },
 "docx/016.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 54574
+"size": 57681
 },
 "docx/017.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 46867
+"size": 42311
 },
 "docx/018.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 63536
+"size": 47252
 },
 "docx/019.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 50764
+"size": 67710
 },
 "docx/020.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 43506
+"size": 50934
 },
 "docx/021.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 45406
+"size": 43502
 },
 "docx/022.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44948
+"size": 45810
 },
 "docx/023.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 42384
+"size": 45377
+},
+"docx/024.content.docx": {
+"mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+"size": 42908
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
-"size": 99613
+"size": 109080
 },
 "pdf/002.content.pdf": {
 "mimeType": "application/pdf",
-"size": 94680
+"size": 102702
 },
 "pdf/003.content.pdf": {
 "mimeType": "application/pdf",
-"size": 150401
+"size": 150250
 },
 "pdf/004.content.pdf": {
 "mimeType": "application/pdf",
-"size": 103456
+"size": 107865
 },
 "pdf/005.content.pdf": {
 "mimeType": "application/pdf",
-"size": 72905
+"size": 83427
 },
 "pdf/006.content.pdf": {
 "mimeType": "application/pdf",
-"size": 127927
+"size": 130012
 },
 "pdf/007.content.pdf": {
 "mimeType": "application/pdf",
-"size": 90945
+"size": 103319
 },
 "pdf/008.content.pdf": {
 "mimeType": "application/pdf",
-"size": 129664
+"size": 140080
 },
 "pdf/009.content.pdf": {
 "mimeType": "application/pdf",
-"size": 65776
+"size": 65733
 },
 "pdf/010.content.pdf": {
 "mimeType": "application/pdf",
-"size": 85142
+"size": 84966
 },
 "pdf/011.content.pdf": {
 "mimeType": "application/pdf",
-"size": 47530
+"size": 47439
 },
 "pdf/012.content.pdf": {
 "mimeType": "application/pdf",
-"size": 62574
+"size": 67658
 },
 "pdf/013.content.pdf": {
 "mimeType": "application/pdf",
-"size": 73862
+"size": 83160
 },
 "pdf/014.content.pdf": {
 "mimeType": "application/pdf",
-"size": 37148
+"size": 40240
 },
 "pdf/015.content.pdf": {
 "mimeType": "application/pdf",
-"size": 46695
+"size": 94055
 },
 "pdf/016.content.pdf": {
 "mimeType": "application/pdf",
-"size": 135577
+"size": 161292
 },
 "pdf/017.content.pdf": {
 "mimeType": "application/pdf",
-"size": 70587
+"size": 31631
 },
 "pdf/018.content.pdf": {
 "mimeType": "application/pdf",
-"size": 219729
+"size": 75454
 },
 "pdf/019.content.pdf": {
 "mimeType": "application/pdf",
-"size": 104051
+"size": 258466
 },
 "pdf/020.content.pdf": {
 "mimeType": "application/pdf",
-"size": 41329
+"size": 105751
 },
 "pdf/021.content.pdf": {
 "mimeType": "application/pdf",
-"size": 60868
+"size": 41031
 },
 "pdf/022.content.pdf": {
 "mimeType": "application/pdf",
-"size": 52144
+"size": 65514
 },
 "pdf/023.content.pdf": {
 "mimeType": "application/pdf",
-"size": 32304
+"size": 55177
+},
+"pdf/024.content.pdf": {
+"mimeType": "application/pdf",
+"size": 36922
 }
 },
 "copyright": {
@@ -1143,18 +1255,7 @@
 "content_id": "eng-t1-v1-audio",
 "reference_id": 0,
 "index_reference": "abraham",
-"localizations": {
-"fra": {
-"content_id": "fra-t1-v1-audio",
-"language": "fra",
-"title": "Abraham"
-},
-"por": {
-"content_id": "por-t1-v1-audio",
-"language": "por",
-"title": "Abraão"
-}
-}
+"localizations": {}
 },
 "eng-t2-v1": {
 "content_id": "eng-t2-v1",
@@ -1207,7 +1308,7 @@
 "title": "adultery"
 },
 "zhs": {
-"content_id": "cmn-t2-v1",
+"content_id": "zhs-t2-v1",
 "language": "zhs",
 "title": "奸淫"
 }
@@ -1222,16 +1323,6 @@
 "content_id": "fra-t2-v1-audio",
 "language": "fra",
 "title": "adultère"
-},
-"por": {
-"content_id": "por-t2-v1-audio",
-"language": "por",
-"title": "adultério"
-},
-"zhs": {
-"content_id": "cmn-t2-v1-audio",
-"language": "zhs",
-"title": "奸淫"
 }
 }
 },
@@ -1291,18 +1382,7 @@
 "content_id": "eng-t3-v1-audio",
 "reference_id": 0,
 "index_reference": "altar",
-"localizations": {
-"fra": {
-"content_id": "fra-t3-v1-audio",
-"language": "fra",
-"title": "autel"
-},
-"por": {
-"content_id": "por-t3-v1-audio",
-"language": "por",
-"title": "altar"
-}
-}
+"localizations": {}
 },
 "eng-t4-v1": {
 "content_id": "eng-t4-v1",
@@ -1360,7 +1440,7 @@
 "title": "angel"
 },
 "zhs": {
-"content_id": "cmn-t4-v1",
+"content_id": "zhs-t4-v1",
 "language": "zhs",
 "title": "天使"
 }
@@ -1376,20 +1456,10 @@
 "language": "fra",
 "title": "ange"
 },
-"por": {
-"content_id": "por-t4-v1-audio",
-"language": "por",
-"title": "anjo"
-},
 "rus": {
 "content_id": "rus-t4-v1-audio",
 "language": "rus",
 "title": "Ангелы"
-},
-"zhs": {
-"content_id": "cmn-t4-v1-audio",
-"language": "zhs",
-"title": "天使"
 }
 }
 },
@@ -1444,7 +1514,7 @@
 "title": "anoint"
 },
 "zhs": {
-"content_id": "cmn-t5-v1",
+"content_id": "zhs-t5-v1",
 "language": "zhs",
 "title": "膏抹"
 }
@@ -1459,16 +1529,6 @@
 "content_id": "fra-t5-v1-audio",
 "language": "fra",
 "title": "oindre"
-},
-"por": {
-"content_id": "por-t5-v1-audio",
-"language": "por",
-"title": "ungir"
-},
-"zhs": {
-"content_id": "cmn-t5-v1-audio",
-"language": "zhs",
-"title": "膏抹"
 }
 }
 },
@@ -1523,7 +1583,7 @@
 "title": "apostle"
 },
 "zhs": {
-"content_id": "cmn-t6-v1",
+"content_id": "zhs-t6-v1",
 "language": "zhs",
 "title": "使徒"
 }
@@ -1538,18 +1598,20 @@
 "content_id": "fra-t6-v1-audio",
 "language": "fra",
 "title": "apôtre"
-},
-"por": {
-"content_id": "por-t6-v1-audio",
-"language": "por",
-"title": "apóstolo"
-},
-"zhs": {
-"content_id": "cmn-t6-v1-audio",
-"language": "zhs",
-"title": "使徒"
 }
 }
+},
+"eng-t7-v1": {
+"content_id": "eng-t7-v1",
+"reference_id": 0,
+"index_reference": "ark of the covenant",
+"localizations": {}
+},
+"eng-t7-v1-audio": {
+"content_id": "eng-t7-v1-audio",
+"reference_id": 0,
+"index_reference": "ark of the covenant",
+"localizations": {}
 },
 "eng-t8-v1": {
 "content_id": "eng-t8-v1",
@@ -1607,7 +1669,7 @@
 "title": "authority"
 },
 "zhs": {
-"content_id": "cmn-t8-v1",
+"content_id": "zhs-t8-v1",
 "language": "zhs",
 "title": "权柄"
 }
@@ -1623,20 +1685,10 @@
 "language": "fra",
 "title": "autorité"
 },
-"por": {
-"content_id": "por-t8-v1-audio",
-"language": "por",
-"title": "autoridade"
-},
 "rus": {
 "content_id": "rus-t8-v1-audio",
 "language": "rus",
 "title": "Власть или Авторитет"
-},
-"zhs": {
-"content_id": "cmn-t8-v1-audio",
-"language": "zhs",
-"title": "权柄"
 }
 }
 },
@@ -1696,7 +1748,7 @@
 "title": "baptism"
 },
 "zhs": {
-"content_id": "cmn-t9-v1",
+"content_id": "zhs-t9-v1",
 "language": "zhs",
 "title": "洗礼"
 }
@@ -1712,20 +1764,10 @@
 "language": "fra",
 "title": "baptême"
 },
-"por": {
-"content_id": "por-t9-v1-audio",
-"language": "por",
-"title": "batismo"
-},
 "rus": {
 "content_id": "rus-t9-v1-audio",
 "language": "rus",
 "title": "Крещение"
-},
-"zhs": {
-"content_id": "cmn-t9-v1-audio",
-"language": "zhs",
-"title": "洗礼"
 }
 }
 },
@@ -1775,7 +1817,7 @@
 "title": "basket"
 },
 "zhs": {
-"content_id": "cmn-t10-v1",
+"content_id": "zhs-t10-v1",
 "language": "zhs",
 "title": "筐子、箱子、篮子"
 }
@@ -1790,16 +1832,6 @@
 "content_id": "fra-t10-v1-audio",
 "language": "fra",
 "title": "panier"
-},
-"por": {
-"content_id": "por-t10-v1-audio",
-"language": "por",
-"title": "cesta"
-},
-"zhs": {
-"content_id": "cmn-t10-v1-audio",
-"language": "zhs",
-"title": "筐子、箱子、篮子"
 }
 }
 },
@@ -1859,7 +1891,7 @@
 "title": "belief"
 },
 "zhs": {
-"content_id": "cmn-t11-v1",
+"content_id": "zhs-t11-v1",
 "language": "zhs",
 "title": "信"
 }
@@ -1875,20 +1907,10 @@
 "language": "fra",
 "title": "croire"
 },
-"por": {
-"content_id": "por-t11-v1-audio",
-"language": "por",
-"title": "crença"
-},
 "rus": {
 "content_id": "rus-t11-v1-audio",
 "language": "rus",
 "title": "Вера/верить"
-},
-"zhs": {
-"content_id": "cmn-t11-v1-audio",
-"language": "zhs",
-"title": "信"
 }
 }
 },
@@ -1948,18 +1970,7 @@
 "content_id": "eng-t12-v1-audio",
 "reference_id": 0,
 "index_reference": "believer",
-"localizations": {
-"fra": {
-"content_id": "fra-t12-v1-audio",
-"language": "fra",
-"title": "croyant"
-},
-"por": {
-"content_id": "por-t12-v1-audio",
-"language": "por",
-"title": "crente"
-}
-}
+"localizations": {}
 },
 "eng-t13-v1": {
 "content_id": "eng-t13-v1",
@@ -2017,18 +2028,7 @@
 "content_id": "eng-t13-v1-audio",
 "reference_id": 0,
 "index_reference": "bethlehem",
-"localizations": {
-"fra": {
-"content_id": "fra-t13-v1-audio",
-"language": "fra",
-"title": "Bethléhem"
-},
-"por": {
-"content_id": "por-t13-v1-audio",
-"language": "por",
-"title": "Belém"
-}
-}
+"localizations": {}
 },
 "eng-t14-v1": {
 "content_id": "eng-t14-v1",
@@ -2081,7 +2081,7 @@
 "title": "bethsaida"
 },
 "zhs": {
-"content_id": "cmn-t14-v1",
+"content_id": "zhs-t14-v1",
 "language": "zhs",
 "title": "伯赛大"
 }
@@ -2096,16 +2096,6 @@
 "content_id": "fra-t14-v1-audio",
 "language": "fra",
 "title": "Bethsaïda"
-},
-"por": {
-"content_id": "por-t14-v1-audio",
-"language": "por",
-"title": "Betsaida"
-},
-"zhs": {
-"content_id": "cmn-t14-v1-audio",
-"language": "zhs",
-"title": "伯赛大"
 }
 }
 },
@@ -2160,7 +2150,7 @@
 "title": "blasphemy"
 },
 "zhs": {
-"content_id": "cmn-t15-v1",
+"content_id": "zhs-t15-v1",
 "language": "zhs",
 "title": "亵渎"
 }
@@ -2175,16 +2165,6 @@
 "content_id": "fra-t15-v1.0.1-audio",
 "language": "fra",
 "title": "blasphème"
-},
-"por": {
-"content_id": "por-t15-v1-audio",
-"language": "por",
-"title": "blasfêmia"
-},
-"zhs": {
-"content_id": "cmn-t15-v1-audio",
-"language": "zhs",
-"title": "亵渎"
 }
 }
 },
@@ -2239,7 +2219,7 @@
 "title": "bless"
 },
 "zhs": {
-"content_id": "cmn-t16-v1",
+"content_id": "zhs-t16-v1",
 "language": "zhs",
 "title": "祝福"
 }
@@ -2254,16 +2234,6 @@
 "content_id": "fra-t16-v1-audio",
 "language": "fra",
 "title": "bénir"
-},
-"por": {
-"content_id": "por-t16-v1-audio",
-"language": "por",
-"title": "abençoar"
-},
-"zhs": {
-"content_id": "cmn-t16-v1-audio",
-"language": "zhs",
-"title": "祝福"
 }
 }
 },
@@ -2323,7 +2293,7 @@
 "title": "boat"
 },
 "zhs": {
-"content_id": "cmn-t17-v1",
+"content_id": "zhs-t17-v1",
 "language": "zhs",
 "title": "船"
 }
@@ -2339,11 +2309,6 @@
 "language": "fra",
 "title": "barque"
 },
-"por": {
-"content_id": "por-t17-v1-audio",
-"language": "por",
-"title": "barco"
-},
 "rus": {
 "content_id": "rus-t17-v1-audio",
 "language": "rus",
@@ -2353,11 +2318,6 @@
 "content_id": "spa-t17-v1-audio",
 "language": "spa",
 "title": "barco"
-},
-"zhs": {
-"content_id": "cmn-t17-v1-audio",
-"language": "zhs",
-"title": "船"
 }
 }
 },
@@ -2412,7 +2372,7 @@
 "title": "bow"
 },
 "zhs": {
-"content_id": "cmn-t18-v1",
+"content_id": "zhs-t18-v1",
 "language": "zhs",
 "title": "屈身、跪拜"
 }
@@ -2427,16 +2387,6 @@
 "content_id": "fra-t18-v1-audio",
 "language": "fra",
 "title": "se prosterner"
-},
-"por": {
-"content_id": "por-t18-v1-audio",
-"language": "por",
-"title": "curvar"
-},
-"zhs": {
-"content_id": "cmn-t18-v1-audio",
-"language": "zhs",
-"title": "屈身、跪拜"
 }
 }
 },
@@ -2491,7 +2441,7 @@
 "title": "caesar"
 },
 "zhs": {
-"content_id": "cmn-t19-v1",
+"content_id": "zhs-t19-v1",
 "language": "zhs",
 "title": "凯撒"
 }
@@ -2506,16 +2456,6 @@
 "content_id": "fra-t19-v1-audio",
 "language": "fra",
 "title": "César"
-},
-"por": {
-"content_id": "por-t19-v1-audio",
-"language": "por",
-"title": "César"
-},
-"zhs": {
-"content_id": "cmn-t19-v1-audio",
-"language": "zhs",
-"title": "凯撒"
 }
 }
 },
@@ -2570,7 +2510,7 @@
 "title": "caeserea-philippi"
 },
 "zhs": {
-"content_id": "cmn-t20-v1",
+"content_id": "zhs-t20-v1",
 "language": "zhs",
 "title": "凯撒利亚•腓立比"
 }
@@ -2585,16 +2525,6 @@
 "content_id": "fra-t20-v1-audio",
 "language": "fra",
 "title": "Césarée de Philippe"
-},
-"por": {
-"content_id": "por-t20-v1-audio",
-"language": "por",
-"title": "Cesareia de Filipe"
-},
-"zhs": {
-"content_id": "cmn-t20-v1-audio",
-"language": "zhs",
-"title": "凯撒利亚•腓立比"
 }
 }
 },
@@ -2649,7 +2579,7 @@
 "title": "camel"
 },
 "zhs": {
-"content_id": "cmn-t21-v1",
+"content_id": "zhs-t21-v1",
 "language": "zhs",
 "title": "骆驼"
 }
@@ -2664,16 +2594,6 @@
 "content_id": "fra-t21-v1-audio",
 "language": "fra",
 "title": "chameau"
-},
-"por": {
-"content_id": "por-t21-v1-audio",
-"language": "por",
-"title": "camelo"
-},
-"zhs": {
-"content_id": "cmn-t21-v1-audio",
-"language": "zhs",
-"title": "骆驼"
 }
 }
 },
@@ -2733,7 +2653,7 @@
 "title": "capernaum"
 },
 "zhs": {
-"content_id": "cmn-t22-v1",
+"content_id": "zhs-t22-v1",
 "language": "zhs",
 "title": "迦百农"
 }
@@ -2749,11 +2669,6 @@
 "language": "fra",
 "title": "Capernaüm"
 },
-"por": {
-"content_id": "por-t22-v1-audio",
-"language": "por",
-"title": "Cafarnaum"
-},
 "rus": {
 "content_id": "rus-t22-v1-audio",
 "language": "rus",
@@ -2763,11 +2678,6 @@
 "content_id": "spa-t22-v1-audio",
 "language": "spa",
 "title": "Cafarnaúm"
-},
-"zhs": {
-"content_id": "cmn-t22-v1-audio",
-"language": "zhs",
-"title": "迦百农"
 }
 }
 },
@@ -2827,7 +2737,7 @@
 "title": "christ"
 },
 "zhs": {
-"content_id": "cmn-t23-v1",
+"content_id": "zhs-t23-v1",
 "language": "zhs",
 "title": "基督"
 }
@@ -2843,20 +2753,10 @@
 "language": "fra",
 "title": "Christ"
 },
-"por": {
-"content_id": "por-t23-v1-audio",
-"language": "por",
-"title": "Cristo"
-},
 "rus": {
 "content_id": "rus-t23-v1-audio",
 "language": "rus",
 "title": "Христос"
-},
-"zhs": {
-"content_id": "cmn-t23-v1-audio",
-"language": "zhs",
-"title": "基督"
 }
 }
 },
@@ -2916,18 +2816,7 @@
 "content_id": "eng-t24-v1-audio",
 "reference_id": 0,
 "index_reference": "church",
-"localizations": {
-"fra": {
-"content_id": "fra-t24-v1-audio",
-"language": "fra",
-"title": "église"
-},
-"por": {
-"content_id": "por-t24-v1-audio",
-"language": "por",
-"title": "igreja"
-}
-}
+"localizations": {}
 },
 "eng-t25-v1": {
 "content_id": "eng-t25-v1",
@@ -2985,18 +2874,7 @@
 "content_id": "eng-t25-v1-audio",
 "reference_id": 0,
 "index_reference": "circumcision",
-"localizations": {
-"fra": {
-"content_id": "fra-t25-v1-audio",
-"language": "fra",
-"title": "circoncision"
-},
-"por": {
-"content_id": "por-t25-v1-audio",
-"language": "por",
-"title": "circuncisão"
-}
-}
+"localizations": {}
 },
 "eng-t26-v1": {
 "content_id": "eng-t26-v1",
@@ -3054,7 +2932,7 @@
 "title": "clean-unclean"
 },
 "zhs": {
-"content_id": "cmn-t26-v1",
+"content_id": "zhs-t26-v1",
 "language": "zhs",
 "title": "洁净/不洁净"
 }
@@ -3070,20 +2948,10 @@
 "language": "fra",
 "title": "pur/impur"
 },
-"por": {
-"content_id": "por-t26-v1-audio",
-"language": "por",
-"title": "puro/impuro"
-},
 "rus": {
 "content_id": "rus-t26-v1-audio",
 "language": "rus",
 "title": "Чистый и нечистый"
-},
-"zhs": {
-"content_id": "cmn-t26-v1-audio",
-"language": "zhs",
-"title": "洁净/不洁净"
 }
 }
 },
@@ -3138,7 +3006,7 @@
 "title": "cloak"
 },
 "zhs": {
-"content_id": "cmn-t27-v1",
+"content_id": "zhs-t27-v1",
 "language": "zhs",
 "title": "外衣、外袍"
 }
@@ -3153,16 +3021,6 @@
 "content_id": "fra-t27-v1-audio",
 "language": "fra",
 "title": "manteau"
-},
-"por": {
-"content_id": "por-t27-v1-audio",
-"language": "por",
-"title": "capa"
-},
-"zhs": {
-"content_id": "cmn-t27-v1-audio",
-"language": "zhs",
-"title": "外衣、外袍"
 }
 }
 },
@@ -3217,7 +3075,7 @@
 "title": "cornerstone"
 },
 "zhs": {
-"content_id": "cmn-t28-v1",
+"content_id": "zhs-t28-v1",
 "language": "zhs",
 "title": "房角石"
 }
@@ -3232,16 +3090,6 @@
 "content_id": "fra-t28-v1-audio",
 "language": "fra",
 "title": "pierre angulaire"
-},
-"por": {
-"content_id": "por-t28-v1-audio",
-"language": "por",
-"title": "pedra angular"
-},
-"zhs": {
-"content_id": "cmn-t28-v1-audio",
-"language": "zhs",
-"title": "房角石"
 }
 }
 },
@@ -3296,7 +3144,7 @@
 "title": "covenant"
 },
 "zhs": {
-"content_id": "cmn-t29-v1",
+"content_id": "zhs-t29-v1",
 "language": "zhs",
 "title": "约"
 }
@@ -3311,16 +3159,6 @@
 "content_id": "fra-t29-v1-audio",
 "language": "fra",
 "title": "alliance"
-},
-"por": {
-"content_id": "por-t29-v1-audio",
-"language": "por",
-"title": "aliança"
-},
-"zhs": {
-"content_id": "cmn-t29-v1-audio",
-"language": "zhs",
-"title": "约"
 }
 }
 },
@@ -3375,7 +3213,7 @@
 "title": "cross"
 },
 "zhs": {
-"content_id": "cmn-t30-v1",
+"content_id": "zhs-t30-v1",
 "language": "zhs",
 "title": "十字架"
 }
@@ -3390,16 +3228,6 @@
 "content_id": "fra-t30-v1-audio",
 "language": "fra",
 "title": "croix"
-},
-"por": {
-"content_id": "por-t30-v1-audio",
-"language": "por",
-"title": "cruz"
-},
-"zhs": {
-"content_id": "cmn-t30-v1-audio",
-"language": "zhs",
-"title": "十字架"
 }
 }
 },
@@ -3454,7 +3282,7 @@
 "title": "curse"
 },
 "zhs": {
-"content_id": "cmn-t31-v1",
+"content_id": "zhs-t31-v1",
 "language": "zhs",
 "title": "咒诅"
 }
@@ -3469,16 +3297,6 @@
 "content_id": "fra-t31-v1-audio",
 "language": "fra",
 "title": "malédiction"
-},
-"por": {
-"content_id": "por-t31-v1-audio",
-"language": "por",
-"title": "maldição"
-},
-"zhs": {
-"content_id": "cmn-t31-v1-audio",
-"language": "zhs",
-"title": "咒诅"
 }
 }
 },
@@ -3545,7 +3363,7 @@
 "title": "david"
 },
 "zhs": {
-"content_id": "cmn-t33-v1",
+"content_id": "zhs-t33-v1",
 "language": "zhs",
 "title": "大卫"
 }
@@ -3560,16 +3378,6 @@
 "content_id": "fra-t33-v1-audio",
 "language": "fra",
 "title": "David"
-},
-"por": {
-"content_id": "por-t33-v1-audio",
-"language": "por",
-"title": "Davi "
-},
-"zhs": {
-"content_id": "cmn-t33-v1-audio",
-"language": "zhs",
-"title": "大卫"
 }
 }
 },
@@ -3624,7 +3432,7 @@
 "title": "decapolis"
 },
 "zhs": {
-"content_id": "cmn-t35-v1",
+"content_id": "zhs-t35-v1",
 "language": "zhs",
 "title": "低加坡里"
 }
@@ -3639,16 +3447,6 @@
 "content_id": "fra-t35-v1-audio",
 "language": "fra",
 "title": "Décapole"
-},
-"por": {
-"content_id": "por-t35-v1-audio",
-"language": "por",
-"title": "Decápolis"
-},
-"zhs": {
-"content_id": "cmn-t35-v1-audio",
-"language": "zhs",
-"title": "低加坡里"
 }
 }
 },
@@ -3708,7 +3506,7 @@
 "title": "demon"
 },
 "zhs": {
-"content_id": "cmn-t36-v1",
+"content_id": "zhs-t36-v1",
 "language": "zhs",
 "title": "鬼"
 }
@@ -3724,20 +3522,10 @@
 "language": "fra",
 "title": "démon"
 },
-"por": {
-"content_id": "por-t36-v1-audio",
-"language": "por",
-"title": "demônio"
-},
 "rus": {
 "content_id": "rus-t36-v1-audio",
 "language": "rus",
 "title": "Бес"
-},
-"zhs": {
-"content_id": "cmn-t36-v1-audio",
-"language": "zhs",
-"title": "鬼"
 }
 }
 },
@@ -3792,7 +3580,7 @@
 "title": "denarius"
 },
 "zhs": {
-"content_id": "cmn-t37-v1",
+"content_id": "zhs-t37-v1",
 "language": "zhs",
 "title": "得拿利"
 }
@@ -3807,16 +3595,6 @@
 "content_id": "fra-t37-v1-audio",
 "language": "fra",
 "title": "denier"
-},
-"por": {
-"content_id": "por-t37-v1-audio",
-"language": "por",
-"title": "denário"
-},
-"zhs": {
-"content_id": "cmn-t37-v1-audio",
-"language": "zhs",
-"title": "得拿利"
 }
 }
 },
@@ -3876,7 +3654,7 @@
 "title": "desert"
 },
 "zhs": {
-"content_id": "cmn-t38-v1",
+"content_id": "zhs-t38-v1",
 "language": "zhs",
 "title": "沙漠"
 }
@@ -3892,20 +3670,10 @@
 "language": "fra",
 "title": "désert"
 },
-"por": {
-"content_id": "por-t38-v1-audio",
-"language": "por",
-"title": "deserto"
-},
 "rus": {
 "content_id": "rus-t38-v1-audio",
 "language": "rus",
 "title": "Пустыня, пустошь"
-},
-"zhs": {
-"content_id": "cmn-t38-v1-audio",
-"language": "zhs",
-"title": "沙漠"
 }
 }
 },
@@ -3960,7 +3728,7 @@
 "title": "disciple"
 },
 "zhs": {
-"content_id": "cmn-t39-v1",
+"content_id": "zhs-t39-v1",
 "language": "zhs",
 "title": "门徒"
 }
@@ -3976,20 +3744,10 @@
 "language": "fra",
 "title": "disciple"
 },
-"por": {
-"content_id": "por-t39-v1-audio",
-"language": "por",
-"title": "discípulo"
-},
 "spa": {
 "content_id": "spa-t39-v1-audio",
 "language": "spa",
 "title": "discípulo"
-},
-"zhs": {
-"content_id": "cmn-t39-v1-audio",
-"language": "zhs",
-"title": "门徒"
 }
 }
 },
@@ -4044,7 +3802,7 @@
 "title": "divorce"
 },
 "zhs": {
-"content_id": "cmn-t40-v1",
+"content_id": "zhs-t40-v1",
 "language": "zhs",
 "title": "休妻（离婚）"
 }
@@ -4059,16 +3817,6 @@
 "content_id": "fra-t40-v1-audio",
 "language": "fra",
 "title": "divorce"
-},
-"por": {
-"content_id": "por-t40-v1-audio",
-"language": "por",
-"title": "divórcio"
-},
-"zhs": {
-"content_id": "cmn-t40-v1-audio",
-"language": "zhs",
-"title": "休妻（离婚）"
 }
 }
 },
@@ -4123,7 +3871,7 @@
 "title": "donkey"
 },
 "zhs": {
-"content_id": "cmn-t41-v1",
+"content_id": "zhs-t41-v1",
 "language": "zhs",
 "title": "驴"
 }
@@ -4138,16 +3886,6 @@
 "content_id": "fra-t41-v1-audio",
 "language": "fra",
 "title": "âne ou ânesse"
-},
-"por": {
-"content_id": "por-t41-v1-audio",
-"language": "por",
-"title": "burro"
-},
-"zhs": {
-"content_id": "cmn-t41-v1-audio",
-"language": "zhs",
-"title": "驴"
 }
 }
 },
@@ -4202,7 +3940,7 @@
 "title": "dove"
 },
 "zhs": {
-"content_id": "cmn-t42-v1",
+"content_id": "zhs-t42-v1",
 "language": "zhs",
 "title": "鸽子"
 }
@@ -4217,16 +3955,6 @@
 "content_id": "fra-t42-v1-audio",
 "language": "fra",
 "title": "colombe"
-},
-"por": {
-"content_id": "por-t42-v1-audio",
-"language": "por",
-"title": "pomba"
-},
-"zhs": {
-"content_id": "cmn-t42-v1-audio",
-"language": "zhs",
-"title": "鸽子"
 }
 }
 },
@@ -4281,7 +4009,7 @@
 "title": "elder"
 },
 "zhs": {
-"content_id": "cmn-t43-v1",
+"content_id": "zhs-t43-v1",
 "language": "zhs",
 "title": "长老"
 }
@@ -4296,16 +4024,6 @@
 "content_id": "fra-t43-v1-audio",
 "language": "fra",
 "title": "ancien"
-},
-"por": {
-"content_id": "por-t43-v1-audio",
-"language": "por",
-"title": "ancião"
-},
-"zhs": {
-"content_id": "cmn-t43-v1-audio",
-"language": "zhs",
-"title": "长老"
 }
 }
 },
@@ -4360,7 +4078,7 @@
 "title": "elijah"
 },
 "zhs": {
-"content_id": "cmn-t44-v1",
+"content_id": "zhs-t44-v1",
 "language": "zhs",
 "title": "以利亚"
 }
@@ -4375,16 +4093,6 @@
 "content_id": "fra-t44-v1-audio",
 "language": "fra",
 "title": "Élie"
-},
-"por": {
-"content_id": "por-t44-v1-audio",
-"language": "por",
-"title": "Elias"
-},
-"zhs": {
-"content_id": "cmn-t44-v1-audio",
-"language": "zhs",
-"title": "以利亚"
 }
 }
 },
@@ -4444,18 +4152,7 @@
 "content_id": "eng-t45-v1-audio",
 "reference_id": 0,
 "index_reference": "elizabeth",
-"localizations": {
-"fra": {
-"content_id": "fra-t45-v1-audio",
-"language": "fra",
-"title": "Élisabeth"
-},
-"por": {
-"content_id": "por-t45-v1-audio",
-"language": "por",
-"title": "Isabel"
-}
-}
+"localizations": {}
 },
 "eng-t46-v2": {
 "content_id": "eng-t46-v2",
@@ -4508,7 +4205,7 @@
 "title": "eternal-life"
 },
 "zhs": {
-"content_id": "cmn-t46-v1",
+"content_id": "zhs-t46-v1",
 "language": "zhs",
 "title": "永生"
 }
@@ -4523,16 +4220,6 @@
 "content_id": "fra-t46-v1-audio",
 "language": "fra",
 "title": "vie éternelle"
-},
-"por": {
-"content_id": "por-t46-v1-audio",
-"language": "por",
-"title": "vida eterna"
-},
-"zhs": {
-"content_id": "cmn-t46-v1-audio",
-"language": "zhs",
-"title": "永生"
 }
 }
 },
@@ -4587,7 +4274,7 @@
 "title": "evil-spirit"
 },
 "zhs": {
-"content_id": "cmn-t47-v1",
+"content_id": "zhs-t47-v1",
 "language": "zhs",
 "title": "邪灵"
 }
@@ -4602,16 +4289,6 @@
 "content_id": "fra-t47-v1-audio",
 "language": "fra",
 "title": "mauvais esprit"
-},
-"por": {
-"content_id": "por-t47-v1-audio",
-"language": "por",
-"title": "espírito maligno"
-},
-"zhs": {
-"content_id": "cmn-t47-v1-audio",
-"language": "zhs",
-"title": "邪灵"
 }
 }
 },
@@ -4671,7 +4348,7 @@
 "title": "faith"
 },
 "zhs": {
-"content_id": "cmn-t48-v1",
+"content_id": "zhs-t48-v1",
 "language": "zhs",
 "title": "信心"
 }
@@ -4687,11 +4364,6 @@
 "language": "fra",
 "title": "foi"
 },
-"por": {
-"content_id": "por-t48-v1-audio",
-"language": "por",
-"title": "fé"
-},
 "rus": {
 "content_id": "rus-t48-v1-audio",
 "language": "rus",
@@ -4701,11 +4373,6 @@
 "content_id": "spa-t48-v1-audio",
 "language": "spa",
 "title": "fe"
-},
-"zhs": {
-"content_id": "cmn-t48-v1-audio",
-"language": "zhs",
-"title": "信心"
 }
 }
 },
@@ -4760,7 +4427,7 @@
 "title": "fasting"
 },
 "zhs": {
-"content_id": "cmn-t49-v1",
+"content_id": "zhs-t49-v1",
 "language": "zhs",
 "title": "禁食"
 }
@@ -4775,16 +4442,6 @@
 "content_id": "fra-t49-v1.0.1-audio",
 "language": "fra",
 "title": "jeûner"
-},
-"por": {
-"content_id": "por-t49-v1-audio",
-"language": "por",
-"title": "jejum"
-},
-"zhs": {
-"content_id": "cmn-t49-v1-audio",
-"language": "zhs",
-"title": "禁食"
 }
 }
 },
@@ -4851,7 +4508,7 @@
 "title": "fig-tree"
 },
 "zhs": {
-"content_id": "cmn-t51-v1",
+"content_id": "zhs-t51-v1",
 "language": "zhs",
 "title": "无花果树"
 }
@@ -4866,16 +4523,6 @@
 "content_id": "fra-t51-v1-audio",
 "language": "fra",
 "title": "figuier"
-},
-"por": {
-"content_id": "por-t51-v1-audio",
-"language": "por",
-"title": "figueira"
-},
-"zhs": {
-"content_id": "cmn-t51-v1-audio",
-"language": "zhs",
-"title": "无花果树"
 }
 }
 },
@@ -4935,7 +4582,7 @@
 "title": "fishing-net"
 },
 "zhs": {
-"content_id": "cmn-t52-v1",
+"content_id": "zhs-t52-v1",
 "language": "zhs",
 "title": "渔网"
 }
@@ -4951,20 +4598,10 @@
 "language": "fra",
 "title": "filet de pêche"
 },
-"por": {
-"content_id": "por-t52-v1-audio",
-"language": "por",
-"title": "rede de pesca"
-},
 "rus": {
 "content_id": "rus-t52-v1-audio",
 "language": "rus",
 "title": "Рыболовная сеть"
-},
-"zhs": {
-"content_id": "cmn-t52-v1-audio",
-"language": "zhs",
-"title": "渔网"
 }
 }
 },
@@ -5024,7 +4661,7 @@
 "title": "forgiveness"
 },
 "zhs": {
-"content_id": "cmn-t53-v1",
+"content_id": "zhs-t53-v1",
 "language": "zhs",
 "title": "饶恕"
 }
@@ -5040,20 +4677,10 @@
 "language": "fra",
 "title": "pardon"
 },
-"por": {
-"content_id": "por-t53-v1-audio",
-"language": "por",
-"title": "perdão"
-},
 "rus": {
 "content_id": "rus-t53-v1-audio",
 "language": "rus",
 "title": "Простить, прощение"
-},
-"zhs": {
-"content_id": "cmn-t53-v1-audio",
-"language": "zhs",
-"title": "饶恕"
 }
 }
 },
@@ -5113,18 +4740,7 @@
 "content_id": "eng-t54-v1-audio",
 "reference_id": 0,
 "index_reference": "gabriel",
-"localizations": {
-"fra": {
-"content_id": "fra-t54-v1-audio",
-"language": "fra",
-"title": "Gabriel"
-},
-"por": {
-"content_id": "por-t54-v1-audio",
-"language": "por",
-"title": "Gabriel"
-}
-}
+"localizations": {}
 },
 "eng-t55-v1": {
 "content_id": "eng-t55-v1",
@@ -5182,7 +4798,7 @@
 "title": "galilee"
 },
 "zhs": {
-"content_id": "cmn-t55-v1",
+"content_id": "zhs-t55-v1",
 "language": "zhs",
 "title": "加利利"
 }
@@ -5198,20 +4814,10 @@
 "language": "fra",
 "title": "Galilée"
 },
-"por": {
-"content_id": "por-t55-v1-audio",
-"language": "por",
-"title": "Galileia"
-},
 "rus": {
 "content_id": "rus-t55-v1-audio",
 "language": "rus",
 "title": "Галилея"
-},
-"zhs": {
-"content_id": "cmn-t55-v1-audio",
-"language": "zhs",
-"title": "加利利"
 }
 }
 },
@@ -5266,7 +4872,7 @@
 "title": "gentile"
 },
 "zhs": {
-"content_id": "cmn-t56-v1",
+"content_id": "zhs-t56-v1",
 "language": "zhs",
 "title": "外邦人"
 }
@@ -5281,16 +4887,6 @@
 "content_id": "fra-t56-v1-audio",
 "language": "fra",
 "title": "Gentil ou païen"
-},
-"por": {
-"content_id": "por-t56-v1-audio",
-"language": "por",
-"title": "Gentio"
-},
-"zhs": {
-"content_id": "cmn-t56-v1-audio",
-"language": "zhs",
-"title": "外邦人"
 }
 }
 },
@@ -5345,7 +4941,7 @@
 "title": "gerasenes"
 },
 "zhs": {
-"content_id": "cmn-t57-v1",
+"content_id": "zhs-t57-v1",
 "language": "zhs",
 "title": "格拉森人"
 }
@@ -5360,16 +4956,6 @@
 "content_id": "fra-t57-v1-audio",
 "language": "fra",
 "title": "Gérasa"
-},
-"por": {
-"content_id": "por-t57-v1-audio",
-"language": "por",
-"title": "Gerasenos"
-},
-"zhs": {
-"content_id": "cmn-t57-v1-audio",
-"language": "zhs",
-"title": "格拉森人"
 }
 }
 },
@@ -5424,7 +5010,7 @@
 "title": "glory"
 },
 "zhs": {
-"content_id": "cmn-t58-v1",
+"content_id": "zhs-t58-v1",
 "language": "zhs",
 "title": "荣耀"
 }
@@ -5439,16 +5025,6 @@
 "content_id": "fra-t58-v1-audio",
 "language": "fra",
 "title": "gloire"
-},
-"por": {
-"content_id": "por-t58-v1-audio",
-"language": "por",
-"title": "glória"
-},
-"zhs": {
-"content_id": "cmn-t58-v1-audio",
-"language": "zhs",
-"title": "荣耀"
 }
 }
 },
@@ -5508,7 +5084,7 @@
 "title": "gospel"
 },
 "zhs": {
-"content_id": "cmn-t60-v1",
+"content_id": "zhs-t60-v1",
 "language": "zhs",
 "title": "福音"
 }
@@ -5524,20 +5100,10 @@
 "language": "fra",
 "title": "Évangile"
 },
-"por": {
-"content_id": "por-t60-v1-audio",
-"language": "por",
-"title": "evangelho"
-},
 "rus": {
 "content_id": "rus-t60-v1-audio",
 "language": "rus",
 "title": "Евангелие"
-},
-"zhs": {
-"content_id": "cmn-t60-v1-audio",
-"language": "zhs",
-"title": "福音"
 }
 }
 },
@@ -5597,18 +5163,7 @@
 "content_id": "eng-t61-v1-audio",
 "reference_id": 0,
 "index_reference": "grace",
-"localizations": {
-"fra": {
-"content_id": "fra-t61-v1-audio",
-"language": "fra",
-"title": "grâce"
-},
-"por": {
-"content_id": "por-t61-v1-audio",
-"language": "por",
-"title": "graça"
-}
-}
+"localizations": {}
 },
 "eng-t62-v1": {
 "content_id": "eng-t62-v1",
@@ -5666,7 +5221,7 @@
 "title": "heal"
 },
 "zhs": {
-"content_id": "cmn-t62-v1",
+"content_id": "zhs-t62-v1",
 "language": "zhs",
 "title": "医治"
 }
@@ -5682,20 +5237,10 @@
 "language": "fra",
 "title": "guérir"
 },
-"por": {
-"content_id": "por-t62-v1-audio",
-"language": "por",
-"title": "curar"
-},
 "rus": {
 "content_id": "rus-t62-v1-audio",
 "language": "rus",
 "title": "Исцелять"
-},
-"zhs": {
-"content_id": "cmn-t62-v1-audio",
-"language": "zhs",
-"title": "医治"
 }
 }
 },
@@ -5755,7 +5300,7 @@
 "title": "heaven"
 },
 "zhs": {
-"content_id": "cmn-t63-v1",
+"content_id": "zhs-t63-v1",
 "language": "zhs",
 "title": "天堂、天、天上"
 }
@@ -5771,20 +5316,10 @@
 "language": "fra",
 "title": "ciel ou cieux"
 },
-"por": {
-"content_id": "por-t63-v1-audio",
-"language": "por",
-"title": "céu"
-},
 "rus": {
 "content_id": "rus-t63-v1-audio",
 "language": "rus",
 "title": "Небеса"
-},
-"zhs": {
-"content_id": "cmn-t63-v1-audio",
-"language": "zhs",
-"title": "天堂、天、天上"
 }
 }
 },
@@ -5839,7 +5374,7 @@
 "title": "heir"
 },
 "zhs": {
-"content_id": "cmn-t64-v1",
+"content_id": "zhs-t64-v1",
 "language": "zhs",
 "title": "后嗣"
 }
@@ -5854,16 +5389,6 @@
 "content_id": "fra-t64-v1-audio",
 "language": "fra",
 "title": "héritier"
-},
-"por": {
-"content_id": "por-t64-v1-audio",
-"language": "por",
-"title": "herdeiro"
-},
-"zhs": {
-"content_id": "cmn-t64-v1-audio",
-"language": "zhs",
-"title": "后嗣"
 }
 }
 },
@@ -5918,7 +5443,7 @@
 "title": "hell"
 },
 "zhs": {
-"content_id": "cmn-t65-v1",
+"content_id": "zhs-t65-v1",
 "language": "zhs",
 "title": "地狱"
 }
@@ -5933,16 +5458,6 @@
 "content_id": "fra-t65-v1-audio",
 "language": "fra",
 "title": "enfer"
-},
-"por": {
-"content_id": "por-t65-v1-audio",
-"language": "por",
-"title": "inferno"
-},
-"zhs": {
-"content_id": "cmn-t65-v1-audio",
-"language": "zhs",
-"title": "地狱"
 }
 }
 },
@@ -5997,7 +5512,7 @@
 "title": "herodian"
 },
 "zhs": {
-"content_id": "cmn-t66-v1",
+"content_id": "zhs-t66-v1",
 "language": "zhs",
 "title": "希律党人"
 }
@@ -6012,16 +5527,6 @@
 "content_id": "fra-t66-v1-audio",
 "language": "fra",
 "title": "Hérodiens"
-},
-"por": {
-"content_id": "por-t66-v1-audio",
-"language": "por",
-"title": "herodianos"
-},
-"zhs": {
-"content_id": "cmn-t66-v1-audio",
-"language": "zhs",
-"title": "希律党人"
 }
 }
 },
@@ -6081,7 +5586,7 @@
 "title": "holy"
 },
 "zhs": {
-"content_id": "cmn-t67-v1",
+"content_id": "zhs-t67-v1",
 "language": "zhs",
 "title": "圣洁"
 }
@@ -6097,20 +5602,10 @@
 "language": "fra",
 "title": "saint"
 },
-"por": {
-"content_id": "por-t67-v1-audio",
-"language": "por",
-"title": "santo"
-},
 "rus": {
 "content_id": "rus-t67-v1-audio",
 "language": "rus",
 "title": "Святой"
-},
-"zhs": {
-"content_id": "cmn-t67-v1-audio",
-"language": "zhs",
-"title": "圣洁"
 }
 }
 },
@@ -6170,7 +5665,7 @@
 "title": "holy-spirit"
 },
 "zhs": {
-"content_id": "cmn-t68-v1",
+"content_id": "zhs-t68-v1",
 "language": "zhs",
 "title": "圣灵"
 }
@@ -6186,20 +5681,10 @@
 "language": "fra",
 "title": "Saint-Esprit"
 },
-"por": {
-"content_id": "por-t68-v1-audio",
-"language": "por",
-"title": "Espírito Santo"
-},
 "rus": {
 "content_id": "rus-t68-v1-audio",
 "language": "rus",
 "title": "Дух Святой"
-},
-"zhs": {
-"content_id": "cmn-t68-v1-audio",
-"language": "zhs",
-"title": "圣灵"
 }
 }
 },
@@ -6254,7 +5739,7 @@
 "title": "hosanna"
 },
 "zhs": {
-"content_id": "cmn-t69-v1",
+"content_id": "zhs-t69-v1",
 "language": "zhs",
 "title": "和散那"
 }
@@ -6269,16 +5754,6 @@
 "content_id": "fra-t69-v1-audio",
 "language": "fra",
 "title": "Hosanna"
-},
-"por": {
-"content_id": "por-t69-v1-audio",
-"language": "por",
-"title": "Hosana"
-},
-"zhs": {
-"content_id": "cmn-t69-v1-audio",
-"language": "zhs",
-"title": "和散那"
 }
 }
 },
@@ -6333,7 +5808,7 @@
 "title": "household"
 },
 "zhs": {
-"content_id": "cmn-t70-v1",
+"content_id": "zhs-t70-v1",
 "language": "zhs",
 "title": "家中的人"
 }
@@ -6348,16 +5823,6 @@
 "content_id": "fra-t70-v1-audio",
 "language": "fra",
 "title": "maison"
-},
-"por": {
-"content_id": "por-t70-v1-audio",
-"language": "por",
-"title": "família"
-},
-"zhs": {
-"content_id": "cmn-t70-v1-audio",
-"language": "zhs",
-"title": "家中的人"
 }
 }
 },
@@ -6412,7 +5877,7 @@
 "title": "hypocrisy"
 },
 "zhs": {
-"content_id": "cmn-t71-v1",
+"content_id": "zhs-t71-v1",
 "language": "zhs",
 "title": "假冒为善"
 }
@@ -6427,16 +5892,6 @@
 "content_id": "fra-t71-v1-audio",
 "language": "fra",
 "title": "hypocrisie"
-},
-"por": {
-"content_id": "por-t71-v1-audio",
-"language": "por",
-"title": "hipocrisia"
-},
-"zhs": {
-"content_id": "cmn-t71-v1-audio",
-"language": "zhs",
-"title": "假冒为善"
 }
 }
 },
@@ -6496,18 +5951,7 @@
 "content_id": "eng-t72-v1-audio",
 "reference_id": 0,
 "index_reference": "idol",
-"localizations": {
-"fra": {
-"content_id": "fra-t72-v1-audio",
-"language": "fra",
-"title": "idole"
-},
-"por": {
-"content_id": "por-t72-v1-audio",
-"language": "por",
-"title": "ídolo"
-}
-}
+"localizations": {}
 },
 "eng-t73-v1": {
 "content_id": "eng-t73-v1",
@@ -6560,7 +6004,7 @@
 "title": "isaiah"
 },
 "zhs": {
-"content_id": "cmn-t73-v1",
+"content_id": "zhs-t73-v1",
 "language": "zhs",
 "title": "以赛亚"
 }
@@ -6575,16 +6019,6 @@
 "content_id": "fra-t73-v1-audio",
 "language": "fra",
 "title": "Ésaïe"
-},
-"por": {
-"content_id": "por-t73-v1-audio",
-"language": "por",
-"title": "Isaías"
-},
-"zhs": {
-"content_id": "cmn-t73-v1-audio",
-"language": "zhs",
-"title": "以赛亚"
 }
 }
 },
@@ -6644,18 +6078,7 @@
 "content_id": "eng-t74-v2-audio",
 "reference_id": 0,
 "index_reference": "israel",
-"localizations": {
-"fra": {
-"content_id": "fra-t74-v2-audio",
-"language": "fra",
-"title": "Israël"
-},
-"por": {
-"content_id": "por-t74-v2-audio",
-"language": "por",
-"title": "Israel"
-}
-}
+"localizations": {}
 },
 "eng-t75-v1": {
 "content_id": "eng-t75-v1",
@@ -6708,7 +6131,7 @@
 "title": "james"
 },
 "zhs": {
-"content_id": "cmn-t75-v1",
+"content_id": "zhs-t75-v1",
 "language": "zhs",
 "title": "雅各"
 }
@@ -6723,16 +6146,6 @@
 "content_id": "fra-t75-v1-audio",
 "language": "fra",
 "title": "Jacques"
-},
-"por": {
-"content_id": "por-t75-v1-audio",
-"language": "por",
-"title": "Tiago"
-},
-"zhs": {
-"content_id": "cmn-t75-v1-audio",
-"language": "zhs",
-"title": "雅各"
 }
 }
 },
@@ -6792,7 +6205,7 @@
 "title": "jerusalem"
 },
 "zhs": {
-"content_id": "cmn-t76-v1",
+"content_id": "zhs-t76-v1",
 "language": "zhs",
 "title": "耶路撒冷"
 }
@@ -6808,20 +6221,10 @@
 "language": "fra",
 "title": "Jérusalem"
 },
-"por": {
-"content_id": "por-t76-v1-audio",
-"language": "por",
-"title": "Jerusalém"
-},
 "rus": {
 "content_id": "rus-t76-v1-audio",
 "language": "rus",
 "title": "Иерусалим"
-},
-"zhs": {
-"content_id": "cmn-t76-v1-audio",
-"language": "zhs",
-"title": "耶路撒冷"
 }
 }
 },
@@ -6881,18 +6284,7 @@
 "content_id": "eng-t77-v2-audio",
 "reference_id": 0,
 "index_reference": "jew",
-"localizations": {
-"fra": {
-"content_id": "fra-t77-v2-audio",
-"language": "fra",
-"title": "Juifs"
-},
-"por": {
-"content_id": "por-t77-v2-audio",
-"language": "por",
-"title": "Judeu"
-}
-}
+"localizations": {}
 },
 "eng-t78-v1": {
 "content_id": "eng-t78-v1",
@@ -6945,7 +6337,7 @@
 "title": "john"
 },
 "zhs": {
-"content_id": "cmn-t78-v1",
+"content_id": "zhs-t78-v1",
 "language": "zhs",
 "title": "约翰"
 }
@@ -6960,16 +6352,6 @@
 "content_id": "fra-t78-v1-audio",
 "language": "fra",
 "title": "Jean"
-},
-"por": {
-"content_id": "por-t78-v1-audio",
-"language": "por",
-"title": "João "
-},
-"zhs": {
-"content_id": "cmn-t78-v1-audio",
-"language": "zhs",
-"title": "约翰"
 }
 }
 },
@@ -7024,7 +6406,7 @@
 "title": "john-the-baptist"
 },
 "zhs": {
-"content_id": "cmn-t79-v1",
+"content_id": "zhs-t79-v1",
 "language": "zhs",
 "title": "施洗约翰"
 }
@@ -7039,16 +6421,6 @@
 "content_id": "fra-t79-v1-audio",
 "language": "fra",
 "title": "Jean le Baptiste"
-},
-"por": {
-"content_id": "por-t79-v1-audio",
-"language": "por",
-"title": "João Batista"
-},
-"zhs": {
-"content_id": "cmn-t79-v1-audio",
-"language": "zhs",
-"title": "施洗约翰"
 }
 }
 },
@@ -7103,7 +6475,7 @@
 "title": "jordan-river"
 },
 "zhs": {
-"content_id": "cmn-t80-v1",
+"content_id": "zhs-t80-v1",
 "language": "zhs",
 "title": "约旦河"
 }
@@ -7118,16 +6490,6 @@
 "content_id": "fra-t80-v1-audio",
 "language": "fra",
 "title": "Jourdain"
-},
-"por": {
-"content_id": "por-t80-v1-audio",
-"language": "por",
-"title": "Rio Jordão"
-},
-"zhs": {
-"content_id": "cmn-t80-v1-audio",
-"language": "zhs",
-"title": "约旦河"
 }
 }
 },
@@ -7182,7 +6544,7 @@
 "title": "judea"
 },
 "zhs": {
-"content_id": "cmn-t81-v1",
+"content_id": "zhs-t81-v1",
 "language": "zhs",
 "title": "犹大（旧约）犹太（新约）"
 }
@@ -7197,16 +6559,6 @@
 "content_id": "fra-t81-v1-audio",
 "language": "fra",
 "title": "Judée"
-},
-"por": {
-"content_id": "por-t81-v1-audio",
-"language": "por",
-"title": "Judeia"
-},
-"zhs": {
-"content_id": "cmn-t81-v1-audio",
-"language": "zhs",
-"title": "犹大（旧约）犹太（新约）"
 }
 }
 },
@@ -7266,7 +6618,7 @@
 "title": "kingdom-of-god"
 },
 "zhs": {
-"content_id": "cmn-t82-v1",
+"content_id": "zhs-t82-v1",
 "language": "zhs",
 "title": "神的国"
 }
@@ -7282,20 +6634,10 @@
 "language": "fra",
 "title": "royaume de Dieu"
 },
-"por": {
-"content_id": "por-t82-v1-audio",
-"language": "por",
-"title": "Reino de Deus"
-},
 "rus": {
 "content_id": "rus-t82-v1-audio",
 "language": "rus",
 "title": "Царство Божие"
-},
-"zhs": {
-"content_id": "cmn-t82-v1-audio",
-"language": "zhs",
-"title": "神的国"
 }
 }
 },
@@ -7355,7 +6697,7 @@
 "title": "law"
 },
 "zhs": {
-"content_id": "cmn-t83-v1",
+"content_id": "zhs-t83-v1",
 "language": "zhs",
 "title": "律法"
 }
@@ -7371,20 +6713,10 @@
 "language": "fra",
 "title": "loi"
 },
-"por": {
-"content_id": "por-t83-v1-audio",
-"language": "por",
-"title": "lei"
-},
 "rus": {
 "content_id": "rus-t83-v1-audio",
 "language": "rus",
 "title": "Закон"
-},
-"zhs": {
-"content_id": "cmn-t83-v1-audio",
-"language": "zhs",
-"title": "律法"
 }
 }
 },
@@ -7439,7 +6771,7 @@
 "title": "legion"
 },
 "zhs": {
-"content_id": "cmn-t84-v1",
+"content_id": "zhs-t84-v1",
 "language": "zhs",
 "title": "群"
 }
@@ -7454,16 +6786,6 @@
 "content_id": "fra-t84-v1-audio",
 "language": "fra",
 "title": "légion"
-},
-"por": {
-"content_id": "por-t84-v1-audio",
-"language": "por",
-"title": "legião"
-},
-"zhs": {
-"content_id": "cmn-t84-v1-audio",
-"language": "zhs",
-"title": "群"
 }
 }
 },
@@ -7523,7 +6845,7 @@
 "title": "leprosy"
 },
 "zhs": {
-"content_id": "cmn-t85-v1",
+"content_id": "zhs-t85-v1",
 "language": "zhs",
 "title": "痲疯病"
 }
@@ -7539,20 +6861,10 @@
 "language": "fra",
 "title": "lèpre"
 },
-"por": {
-"content_id": "por-t85-v1-audio",
-"language": "por",
-"title": "lepra"
-},
 "rus": {
 "content_id": "rus-t85-v1-audio",
 "language": "rus",
 "title": "Проказа"
-},
-"zhs": {
-"content_id": "cmn-t85-v1-audio",
-"language": "zhs",
-"title": "痲疯病"
 }
 }
 },
@@ -7607,7 +6919,7 @@
 "title": "lord"
 },
 "zhs": {
-"content_id": "cmn-t87-v1",
+"content_id": "zhs-t87-v1",
 "language": "zhs",
 "title": "主"
 }
@@ -7623,20 +6935,10 @@
 "language": "fra",
 "title": "Seigneur"
 },
-"por": {
-"content_id": "por-t87-v1-audio",
-"language": "por",
-"title": "Senhor"
-},
 "spa": {
 "content_id": "spa-t87-v1-audio",
 "language": "spa",
 "title": "Señor"
-},
-"zhs": {
-"content_id": "cmn-t87-v1-audio",
-"language": "zhs",
-"title": "主"
 }
 }
 },
@@ -7691,7 +6993,7 @@
 "title": "lord"
 },
 "zhs": {
-"content_id": "cmn-t88-v1",
+"content_id": "zhs-t88-v1",
 "language": "zhs",
 "title": "主、耶和华"
 }
@@ -7707,20 +7009,10 @@
 "language": "fra",
 "title": "Seigneur"
 },
-"por": {
-"content_id": "por-t88-v1-audio",
-"language": "por",
-"title": "Senhor"
-},
 "spa": {
 "content_id": "spa-t88-v1-audio",
 "language": "spa",
 "title": "Señor"
-},
-"zhs": {
-"content_id": "cmn-t88-v1-audio",
-"language": "zhs",
-"title": "主、耶和华"
 }
 }
 },
@@ -7780,18 +7072,7 @@
 "content_id": "eng-t89-v1-audio",
 "reference_id": 0,
 "index_reference": "mary",
-"localizations": {
-"fra": {
-"content_id": "fra-t89-v1-audio",
-"language": "fra",
-"title": "Marie"
-},
-"por": {
-"content_id": "por-t89-v1-audio",
-"language": "por",
-"title": "Maria"
-}
-}
+"localizations": {}
 },
 "eng-t90-v1": {
 "content_id": "eng-t90-v1",
@@ -7850,16 +7131,6 @@
 "reference_id": 0,
 "index_reference": "master",
 "localizations": {
-"fra": {
-"content_id": "fra-t90-v1-audio",
-"language": "fra",
-"title": "maître"
-},
-"por": {
-"content_id": "por-t90-v1-audio",
-"language": "por",
-"title": "mestre"
-},
 "spa": {
 "content_id": "spa-t90-v1-audio",
 "language": "spa",
@@ -7918,7 +7189,7 @@
 "title": "mercy"
 },
 "zhs": {
-"content_id": "cmn-t91-v1",
+"content_id": "zhs-t91-v1",
 "language": "zhs",
 "title": "怜悯"
 }
@@ -7933,16 +7204,6 @@
 "content_id": "fra-t91-v1-audio",
 "language": "fra",
 "title": "miséricorde"
-},
-"por": {
-"content_id": "por-t91-v1-audio",
-"language": "por",
-"title": "misericórdia"
-},
-"zhs": {
-"content_id": "cmn-t91-v1-audio",
-"language": "zhs",
-"title": "怜悯"
 }
 }
 },
@@ -7997,7 +7258,7 @@
 "title": "messiah"
 },
 "zhs": {
-"content_id": "cmn-t92-v1",
+"content_id": "zhs-t92-v1",
 "language": "zhs",
 "title": "弥赛亚"
 }
@@ -8012,16 +7273,6 @@
 "content_id": "fra-t92-v1-audio",
 "language": "fra",
 "title": "Messie"
-},
-"por": {
-"content_id": "por-t92-v1-audio",
-"language": "por",
-"title": "Messias"
-},
-"zhs": {
-"content_id": "cmn-t92-v1-audio",
-"language": "zhs",
-"title": "弥赛亚"
 }
 }
 },
@@ -8076,7 +7327,7 @@
 "title": "miracles"
 },
 "zhs": {
-"content_id": "cmn-t93-v1",
+"content_id": "zhs-t93-v1",
 "language": "zhs",
 "title": "神迹"
 }
@@ -8091,16 +7342,6 @@
 "content_id": "fra-t93-v1-audio",
 "language": "fra",
 "title": "miracles"
-},
-"por": {
-"content_id": "por-t93-v1-audio",
-"language": "por",
-"title": "milagres"
-},
-"zhs": {
-"content_id": "cmn-t93-v1-audio",
-"language": "zhs",
-"title": "神迹"
 }
 }
 },
@@ -8155,7 +7396,7 @@
 "title": "nation"
 },
 "zhs": {
-"content_id": "cmn-t94-v1",
+"content_id": "zhs-t94-v1",
 "language": "zhs",
 "title": "国"
 }
@@ -8170,16 +7411,6 @@
 "content_id": "fra-t94-v1-audio",
 "language": "fra",
 "title": "nation"
-},
-"por": {
-"content_id": "por-t94-v1-audio",
-"language": "por",
-"title": "nação"
-},
-"zhs": {
-"content_id": "cmn-t94-v1-audio",
-"language": "zhs",
-"title": "国"
 }
 }
 },
@@ -8239,7 +7470,7 @@
 "title": "nazareth"
 },
 "zhs": {
-"content_id": "cmn-t95-v1",
+"content_id": "zhs-t95-v1",
 "language": "zhs",
 "title": "拿撒勒"
 }
@@ -8255,20 +7486,10 @@
 "language": "fra",
 "title": "Nazareth"
 },
-"por": {
-"content_id": "por-t95-v1-audio",
-"language": "por",
-"title": "Nazaré"
-},
 "rus": {
 "content_id": "rus-t95-v1-audio",
 "language": "rus",
 "title": "Назарет"
-},
-"zhs": {
-"content_id": "cmn-t95-v1-audio",
-"language": "zhs",
-"title": "拿撒勒"
 }
 }
 },
@@ -8323,7 +7544,7 @@
 "title": "oath"
 },
 "zhs": {
-"content_id": "cmn-t96-v1",
+"content_id": "zhs-t96-v1",
 "language": "zhs",
 "title": "誓、起誓"
 }
@@ -8338,16 +7559,6 @@
 "content_id": "fra-t96-v1-audio",
 "language": "fra",
 "title": "serment"
-},
-"por": {
-"content_id": "por-t96-v1-audio",
-"language": "por",
-"title": "juramento"
-},
-"zhs": {
-"content_id": "cmn-t96-v1-audio",
-"language": "zhs",
-"title": "誓、起誓"
 }
 }
 },
@@ -8402,7 +7613,7 @@
 "title": "oil-lamp"
 },
 "zhs": {
-"content_id": "cmn-t97-v1",
+"content_id": "zhs-t97-v1",
 "language": "zhs",
 "title": "油灯"
 }
@@ -8417,16 +7628,6 @@
 "content_id": "fra-t97-v1.0.1-audio",
 "language": "fra",
 "title": "lampe ou lampe à huile"
-},
-"por": {
-"content_id": "por-t97-v1-audio",
-"language": "por",
-"title": "lâmpada de óleo"
-},
-"zhs": {
-"content_id": "cmn-t97-v1-audio",
-"language": "zhs",
-"title": "油灯"
 }
 }
 },
@@ -8481,7 +7682,7 @@
 "title": "parable"
 },
 "zhs": {
-"content_id": "cmn-t98-v1",
+"content_id": "zhs-t98-v1",
 "language": "zhs",
 "title": "比喻"
 }
@@ -8496,16 +7697,6 @@
 "content_id": "fra-t98-v1.0.1-audio",
 "language": "fra",
 "title": "parabole"
-},
-"por": {
-"content_id": "por-t98-v1-audio",
-"language": "por",
-"title": "parábola"
-},
-"zhs": {
-"content_id": "cmn-t98-v1-audio",
-"language": "zhs",
-"title": "比喻"
 }
 }
 },
@@ -8565,18 +7756,7 @@
 "content_id": "eng-t99-v1-audio",
 "reference_id": 0,
 "index_reference": "paradise",
-"localizations": {
-"fra": {
-"content_id": "fra-t99-v1-audio",
-"language": "fra",
-"title": "paradis"
-},
-"por": {
-"content_id": "por-t99-v1-audio",
-"language": "por",
-"title": "paraíso"
-}
-}
+"localizations": {}
 },
 "eng-t100-v1": {
 "content_id": "eng-t100-v1",
@@ -8624,7 +7804,7 @@
 "title": "pharisee"
 },
 "zhs": {
-"content_id": "cmn-t100-v1",
+"content_id": "zhs-t100-v1",
 "language": "zhs",
 "title": "法利赛人"
 }
@@ -8639,16 +7819,6 @@
 "content_id": "fra-t100-v1-audio",
 "language": "fra",
 "title": "pharisien"
-},
-"por": {
-"content_id": "por-t100-v1-audio",
-"language": "por",
-"title": "Fariseu"
-},
-"zhs": {
-"content_id": "cmn-t100-v1-audio",
-"language": "zhs",
-"title": "法利赛人"
 }
 }
 },
@@ -8708,7 +7878,7 @@
 "title": "possessed"
 },
 "zhs": {
-"content_id": "cmn-t101-v1",
+"content_id": "zhs-t101-v1",
 "language": "zhs",
 "title": "（被鬼）附"
 }
@@ -8724,20 +7894,10 @@
 "language": "fra",
 "title": "possédé"
 },
-"por": {
-"content_id": "por-t101-v1-audio",
-"language": "por",
-"title": "possuído"
-},
 "rus": {
 "content_id": "rus-t101-v1-audio",
 "language": "rus",
 "title": "Одержимый (одержимый бесом)"
-},
-"zhs": {
-"content_id": "cmn-t101-v1-audio",
-"language": "zhs",
-"title": "（被鬼）附"
 }
 }
 },
@@ -8792,7 +7952,7 @@
 "title": "pray"
 },
 "zhs": {
-"content_id": "cmn-t102-v1",
+"content_id": "zhs-t102-v1",
 "language": "zhs",
 "title": "祷告"
 }
@@ -8808,20 +7968,10 @@
 "language": "fra",
 "title": "prier"
 },
-"por": {
-"content_id": "por-t102-v1-audio",
-"language": "por",
-"title": "orar"
-},
 "rus": {
 "content_id": "rus-t102-v1-audio",
 "language": "rus",
 "title": "Молиться"
-},
-"zhs": {
-"content_id": "cmn-t102-v1-audio",
-"language": "zhs",
-"title": "祷告"
 }
 }
 },
@@ -8876,7 +8026,7 @@
 "title": "priest"
 },
 "zhs": {
-"content_id": "cmn-t103-v1",
+"content_id": "zhs-t103-v1",
 "language": "zhs",
 "title": "祭司"
 }
@@ -8892,20 +8042,10 @@
 "language": "fra",
 "title": "sacrificateur"
 },
-"por": {
-"content_id": "por-t103-v1-audio",
-"language": "por",
-"title": "sacerdote"
-},
 "rus": {
 "content_id": "rus-t103-v1-audio",
 "language": "rus",
 "title": "Cвященник"
-},
-"zhs": {
-"content_id": "cmn-t103-v1-audio",
-"language": "zhs",
-"title": "祭司"
 }
 }
 },
@@ -8960,7 +8100,7 @@
 "title": "prophet"
 },
 "zhs": {
-"content_id": "cmn-t104-v1",
+"content_id": "zhs-t104-v1",
 "language": "zhs",
 "title": "先知"
 }
@@ -8976,20 +8116,10 @@
 "language": "fra",
 "title": "prophète"
 },
-"por": {
-"content_id": "por-t104-v1-audio",
-"language": "por",
-"title": "Profeta"
-},
 "rus": {
 "content_id": "rus-t104-v1-audio",
 "language": "rus",
 "title": "пророк"
-},
-"zhs": {
-"content_id": "cmn-t104-v1-audio",
-"language": "zhs",
-"title": "先知"
 }
 }
 },
@@ -9044,7 +8174,7 @@
 "title": "ransom"
 },
 "zhs": {
-"content_id": "cmn-t105-v1",
+"content_id": "zhs-t105-v1",
 "language": "zhs",
 "title": "赎价"
 }
@@ -9059,16 +8189,6 @@
 "content_id": "fra-t105-v1-audio",
 "language": "fra",
 "title": "rançon"
-},
-"por": {
-"content_id": "por-t105-v1-audio",
-"language": "por",
-"title": "resgate"
-},
-"zhs": {
-"content_id": "cmn-t105-v1-audio",
-"language": "zhs",
-"title": "赎价"
 }
 }
 },
@@ -9118,7 +8238,7 @@
 "title": "rabbi"
 },
 "zhs": {
-"content_id": "cmn-t106-v1",
+"content_id": "zhs-t106-v1",
 "language": "zhs",
 "title": "拉比"
 }
@@ -9133,16 +8253,6 @@
 "content_id": "fra-t106-v1-audio",
 "language": "fra",
 "title": "Rabbi"
-},
-"por": {
-"content_id": "por-t106-v1-audio",
-"language": "por",
-"title": "rabi"
-},
-"zhs": {
-"content_id": "cmn-t106-v1-audio",
-"language": "zhs",
-"title": "拉比"
 }
 }
 },
@@ -9202,18 +8312,7 @@
 "content_id": "eng-t107-v2-audio",
 "reference_id": 0,
 "index_reference": "redeem",
-"localizations": {
-"fra": {
-"content_id": "fra-t107-v1-audio",
-"language": "fra",
-"title": "rachetez"
-},
-"por": {
-"content_id": "por-t107-v1-audio",
-"language": "por",
-"title": "redimir"
-}
-}
+"localizations": {}
 },
 "eng-t109-v1": {
 "content_id": "eng-t109-v1",
@@ -9266,7 +8365,7 @@
 "title": "repentance"
 },
 "zhs": {
-"content_id": "cmn-t109-v1",
+"content_id": "zhs-t109-v1",
 "language": "zhs",
 "title": "悔改"
 }
@@ -9281,16 +8380,6 @@
 "content_id": "fra-t109-v1.0.1-audio",
 "language": "fra",
 "title": "repentance"
-},
-"por": {
-"content_id": "por-t109-v1-audio",
-"language": "por",
-"title": "arrependimento"
-},
-"zhs": {
-"content_id": "cmn-t109-v1-audio",
-"language": "zhs",
-"title": "悔改"
 }
 }
 },
@@ -9345,7 +8434,7 @@
 "title": "resurrection"
 },
 "zhs": {
-"content_id": "cmn-t110-v1",
+"content_id": "zhs-t110-v1",
 "language": "zhs",
 "title": "复活"
 }
@@ -9360,16 +8449,6 @@
 "content_id": "fra-t110-v1-audio",
 "language": "fra",
 "title": "résurrection"
-},
-"por": {
-"content_id": "por-t110-v1-audio",
-"language": "por",
-"title": "ressurreição"
-},
-"zhs": {
-"content_id": "cmn-t110-v1-audio",
-"language": "zhs",
-"title": "复活"
 }
 }
 },
@@ -9424,7 +8503,7 @@
 "title": "righteousness"
 },
 "zhs": {
-"content_id": "cmn-t111-v1",
+"content_id": "zhs-t111-v1",
 "language": "zhs",
 "title": "公义"
 }
@@ -9439,16 +8518,6 @@
 "content_id": "fra-t111-v1-audio",
 "language": "fra",
 "title": "justice ou droiture"
-},
-"por": {
-"content_id": "por-t111-v1-audio",
-"language": "por",
-"title": "retidão"
-},
-"zhs": {
-"content_id": "cmn-t111-v1-audio",
-"language": "zhs",
-"title": "公义"
 }
 }
 },
@@ -9503,7 +8572,7 @@
 "title": "robe"
 },
 "zhs": {
-"content_id": "cmn-t112-v1",
+"content_id": "zhs-t112-v1",
 "language": "zhs",
 "title": "外袍"
 }
@@ -9518,16 +8587,6 @@
 "content_id": "fra-t112-v1-audio",
 "language": "fra",
 "title": "robe"
-},
-"por": {
-"content_id": "por-t112-v1-audio",
-"language": "por",
-"title": "manto"
-},
-"zhs": {
-"content_id": "cmn-t112-v1-audio",
-"language": "zhs",
-"title": "外袍"
 }
 }
 },
@@ -9587,7 +8646,7 @@
 "title": "sabbath"
 },
 "zhs": {
-"content_id": "cmn-t113-v1",
+"content_id": "zhs-t113-v1",
 "language": "zhs",
 "title": "安息日"
 }
@@ -9603,20 +8662,10 @@
 "language": "fra",
 "title": "sabbat"
 },
-"por": {
-"content_id": "por-t113-v1-audio",
-"language": "por",
-"title": "sábado"
-},
 "rus": {
 "content_id": "rus-t113-v1-audio",
 "language": "rus",
 "title": "суббота"
-},
-"zhs": {
-"content_id": "cmn-t113-v1-audio",
-"language": "zhs",
-"title": "安息日"
 }
 }
 },
@@ -9671,7 +8720,7 @@
 "title": "sacrifice"
 },
 "zhs": {
-"content_id": "cmn-t114-v1",
+"content_id": "zhs-t114-v1",
 "language": "zhs",
 "title": "献祭"
 }
@@ -9682,20 +8731,10 @@
 "reference_id": 0,
 "index_reference": "sacrifice",
 "localizations": {
-"por": {
-"content_id": "por-t114-v1-audio",
-"language": "por",
-"title": "sacrifício"
-},
 "rus": {
 "content_id": "rus-t114-v1-audio",
 "language": "rus",
 "title": "Жертва/ жертвоприношение"
-},
-"zhs": {
-"content_id": "cmn-t114-v1-audio",
-"language": "zhs",
-"title": "献祭"
 }
 }
 },
@@ -9750,7 +8789,7 @@
 "title": "sadducee"
 },
 "zhs": {
-"content_id": "cmn-t115-v1",
+"content_id": "zhs-t115-v1",
 "language": "zhs",
 "title": "撒都该人"
 }
@@ -9765,16 +8804,6 @@
 "content_id": "fra-t115-v1-audio",
 "language": "fra",
 "title": "sadducéen"
-},
-"por": {
-"content_id": "por-t115-v1-audio",
-"language": "por",
-"title": "Saduceus"
-},
-"zhs": {
-"content_id": "cmn-t115-v1-audio",
-"language": "zhs",
-"title": "撒都该人"
 }
 }
 },
@@ -9829,7 +8858,7 @@
 "title": "salvation"
 },
 "zhs": {
-"content_id": "cmn-t116-v1",
+"content_id": "zhs-t116-v1",
 "language": "zhs",
 "title": "救恩"
 }
@@ -9844,16 +8873,6 @@
 "content_id": "fra-t116-v1-audio",
 "language": "fra",
 "title": "salut"
-},
-"por": {
-"content_id": "por-t116-v1-audio",
-"language": "por",
-"title": "salvação"
-},
-"zhs": {
-"content_id": "cmn-t116-v1-audio",
-"language": "zhs",
-"title": "救恩"
 }
 }
 },
@@ -9913,18 +8932,7 @@
 "content_id": "eng-t117-v1-audio",
 "reference_id": 0,
 "index_reference": "sanctuary",
-"localizations": {
-"fra": {
-"content_id": "fra-t117-v1-audio",
-"language": "fra",
-"title": "sanctuaire"
-},
-"por": {
-"content_id": "por-t117-v1-audio",
-"language": "por",
-"title": "santuário"
-}
-}
+"localizations": {}
 },
 "eng-t118-v1": {
 "content_id": "eng-t118-v1",
@@ -9982,7 +8990,7 @@
 "title": "satan"
 },
 "zhs": {
-"content_id": "cmn-t118-v1",
+"content_id": "zhs-t118-v1",
 "language": "zhs",
 "title": "撒但"
 }
@@ -9998,20 +9006,10 @@
 "language": "fra",
 "title": "Satan"
 },
-"por": {
-"content_id": "por-t118-v1-audio",
-"language": "por",
-"title": "Satanás"
-},
 "rus": {
 "content_id": "rus-t118-v1-audio",
 "language": "rus",
 "title": "Сатана"
-},
-"zhs": {
-"content_id": "cmn-t118-v1-audio",
-"language": "zhs",
-"title": "撒但"
 }
 }
 },
@@ -10071,18 +9069,7 @@
 "content_id": "eng-t119-v1-audio",
 "reference_id": 0,
 "index_reference": "savior",
-"localizations": {
-"fra": {
-"content_id": "fra-t119-v1-audio",
-"language": "fra",
-"title": "Sauveur"
-},
-"por": {
-"content_id": "por-t119-v1-audio",
-"language": "por",
-"title": "Salvador"
-}
-}
+"localizations": {}
 },
 "eng-t120-v1": {
 "content_id": "eng-t120-v1",
@@ -10135,7 +9122,7 @@
 "title": "scriptures"
 },
 "zhs": {
-"content_id": "cmn-t120-v1",
+"content_id": "zhs-t120-v1",
 "language": "zhs",
 "title": "经文"
 }
@@ -10150,16 +9137,6 @@
 "content_id": "fra-t120-v1-audio",
 "language": "fra",
 "title": "Écritures"
-},
-"por": {
-"content_id": "por-t120-v1-audio",
-"language": "por",
-"title": "escrituras"
-},
-"zhs": {
-"content_id": "cmn-t120-v1-audio",
-"language": "zhs",
-"title": "经文"
 }
 }
 },
@@ -10219,7 +9196,7 @@
 "title": "sea-of-galilee"
 },
 "zhs": {
-"content_id": "cmn-t121-v1",
+"content_id": "zhs-t121-v1",
 "language": "zhs",
 "title": "加利利海"
 }
@@ -10235,11 +9212,6 @@
 "language": "fra",
 "title": "mer de Galilée"
 },
-"por": {
-"content_id": "por-t121-v1-audio",
-"language": "por",
-"title": "Mar da Galileia"
-},
 "rus": {
 "content_id": "rus-t121-v1-audio",
 "language": "rus",
@@ -10249,11 +9221,6 @@
 "content_id": "spa-t121-v1-audio",
 "language": "spa",
 "title": "Mar de Galilea"
-},
-"zhs": {
-"content_id": "cmn-t121-v1-audio",
-"language": "zhs",
-"title": "加利利海"
 }
 }
 },
@@ -10308,7 +9275,7 @@
 "title": "seed"
 },
 "zhs": {
-"content_id": "cmn-t122-v1",
+"content_id": "zhs-t122-v1",
 "language": "zhs",
 "title": "种子"
 }
@@ -10323,16 +9290,6 @@
 "content_id": "fra-t122-v1.0.1-audio",
 "language": "fra",
 "title": "semence"
-},
-"por": {
-"content_id": "por-t122-v1-audio",
-"language": "por",
-"title": "semente"
-},
-"zhs": {
-"content_id": "cmn-t122-v1-audio",
-"language": "zhs",
-"title": "种子"
 }
 }
 },
@@ -10387,7 +9344,7 @@
 "title": "servant"
 },
 "zhs": {
-"content_id": "cmn-t123-v2",
+"content_id": "zhs-t123-v2",
 "language": "zhs",
 "title": "仆人"
 }
@@ -10402,16 +9359,6 @@
 "content_id": "fra-t123-v2-audio",
 "language": "fra",
 "title": "serviteur ou servante"
-},
-"por": {
-"content_id": "por-t123-v2-audio",
-"language": "por",
-"title": "servo"
-},
-"zhs": {
-"content_id": "cmn-t123-v2-audio",
-"language": "zhs",
-"title": "仆人"
 }
 }
 },
@@ -10466,7 +9413,7 @@
 "title": "shelter"
 },
 "zhs": {
-"content_id": "cmn-t124-v1",
+"content_id": "zhs-t124-v1",
 "language": "zhs",
 "title": "住棚、帐篷"
 }
@@ -10481,16 +9428,6 @@
 "content_id": "fra-t124-v1-audio",
 "language": "fra",
 "title": "cabane ou abri"
-},
-"por": {
-"content_id": "por-t124-v1-audio",
-"language": "por",
-"title": "abrigo"
-},
-"zhs": {
-"content_id": "cmn-t124-v1-audio",
-"language": "zhs",
-"title": "住棚、帐篷"
 }
 }
 },
@@ -10550,7 +9487,7 @@
 "title": "sin"
 },
 "zhs": {
-"content_id": "cmn-t125-v1",
+"content_id": "zhs-t125-v1",
 "language": "zhs",
 "title": "罪"
 }
@@ -10566,11 +9503,6 @@
 "language": "fra",
 "title": "péché"
 },
-"por": {
-"content_id": "por-t125-v1-audio",
-"language": "por",
-"title": "pecado"
-},
 "rus": {
 "content_id": "rus-t125-v1-audio",
 "language": "rus",
@@ -10580,11 +9512,6 @@
 "content_id": "spa-t125-v1-audio",
 "language": "spa",
 "title": "pecado"
-},
-"zhs": {
-"content_id": "cmn-t125-v1-audio",
-"language": "zhs",
-"title": "罪"
 }
 }
 },
@@ -10639,7 +9566,7 @@
 "title": "slave"
 },
 "zhs": {
-"content_id": "cmn-t126-v2",
+"content_id": "zhs-t126-v2",
 "language": "zhs",
 "title": "奴隶"
 }
@@ -10654,16 +9581,6 @@
 "content_id": "fra-t126-v2-audio",
 "language": "fra",
 "title": "esclave"
-},
-"por": {
-"content_id": "por-t126-v2-audio",
-"language": "por",
-"title": "escravo"
-},
-"zhs": {
-"content_id": "cmn-t126-v2-audio",
-"language": "zhs",
-"title": "奴隶"
 }
 }
 },
@@ -10718,7 +9635,7 @@
 "title": "son"
 },
 "zhs": {
-"content_id": "cmn-t127-v1",
+"content_id": "zhs-t127-v1",
 "language": "zhs",
 "title": "儿子"
 }
@@ -10733,16 +9650,6 @@
 "content_id": "fra-t127-v1-audio",
 "language": "fra",
 "title": "fils"
-},
-"por": {
-"content_id": "por-t127-v1-audio",
-"language": "por",
-"title": "filho"
-},
-"zhs": {
-"content_id": "cmn-t127-v1-audio",
-"language": "zhs",
-"title": "儿子"
 }
 }
 },
@@ -10797,7 +9704,7 @@
 "title": "son-of-david"
 },
 "zhs": {
-"content_id": "cmn-t128-v1",
+"content_id": "zhs-t128-v1",
 "language": "zhs",
 "title": "大卫的子孙"
 }
@@ -10812,16 +9719,6 @@
 "content_id": "fra-t128-v1-audio",
 "language": "fra",
 "title": "Fils de David"
-},
-"por": {
-"content_id": "por-t128-v1-audio",
-"language": "por",
-"title": "Filho de Davi"
-},
-"zhs": {
-"content_id": "cmn-t128-v1-audio",
-"language": "zhs",
-"title": "大卫的子孙"
 }
 }
 },
@@ -10881,7 +9778,7 @@
 "title": "son-of-god"
 },
 "zhs": {
-"content_id": "cmn-t129-v1",
+"content_id": "zhs-t129-v1",
 "language": "zhs",
 "title": "神的儿子"
 }
@@ -10897,20 +9794,10 @@
 "language": "fra",
 "title": "Fils de Dieu"
 },
-"por": {
-"content_id": "por-t129-v1-audio",
-"language": "por",
-"title": "Filho de Deus"
-},
 "rus": {
 "content_id": "rus-t129-v1-audio",
 "language": "rus",
 "title": "Сын Божий"
-},
-"zhs": {
-"content_id": "cmn-t129-v1-audio",
-"language": "zhs",
-"title": "神的儿子"
 }
 }
 },
@@ -10965,7 +9852,7 @@
 "title": "son-of-man"
 },
 "zhs": {
-"content_id": "cmn-t130-v1",
+"content_id": "zhs-t130-v1",
 "language": "zhs",
 "title": "人子"
 }
@@ -10980,16 +9867,6 @@
 "content_id": "fra-t130-v1-audio",
 "language": "fra",
 "title": "Fils de l'homme"
-},
-"por": {
-"content_id": "por-t130-v1-audio",
-"language": "por",
-"title": "Filho do Homem"
-},
-"zhs": {
-"content_id": "cmn-t130-v1-audio",
-"language": "zhs",
-"title": "人子"
 }
 }
 },
@@ -11044,7 +9921,7 @@
 "title": "soul"
 },
 "zhs": {
-"content_id": "cmn-t131-v1",
+"content_id": "zhs-t131-v1",
 "language": "zhs",
 "title": "灵魂"
 }
@@ -11059,16 +9936,6 @@
 "content_id": "fra-t131-v1-audio",
 "language": "fra",
 "title": "âme"
-},
-"por": {
-"content_id": "por-t131-v1-audio",
-"language": "por",
-"title": "alma"
-},
-"zhs": {
-"content_id": "cmn-t131-v1-audio",
-"language": "zhs",
-"title": "灵魂"
 }
 }
 },
@@ -11123,7 +9990,7 @@
 "title": "spirit"
 },
 "zhs": {
-"content_id": "cmn-t132-v1",
+"content_id": "zhs-t132-v1",
 "language": "zhs",
 "title": "灵"
 }
@@ -11138,16 +10005,6 @@
 "content_id": "fra-t132-v1-audio",
 "language": "fra",
 "title": "esprit"
-},
-"por": {
-"content_id": "por-t132-v1-audio",
-"language": "por",
-"title": "espírito"
-},
-"zhs": {
-"content_id": "cmn-t132-v1-audio",
-"language": "zhs",
-"title": "灵"
 }
 }
 },
@@ -11202,7 +10059,7 @@
 "title": "synagogue"
 },
 "zhs": {
-"content_id": "cmn-t133-v1",
+"content_id": "zhs-t133-v1",
 "language": "zhs",
 "title": "会堂"
 }
@@ -11217,16 +10074,6 @@
 "content_id": "fra-t133-v1.0.1-audio",
 "language": "fra",
 "title": "synagogue"
-},
-"por": {
-"content_id": "por-t133-v1-audio",
-"language": "por",
-"title": "sinagoga"
-},
-"zhs": {
-"content_id": "cmn-t133-v1-audio",
-"language": "zhs",
-"title": "会堂"
 }
 }
 },
@@ -11281,7 +10128,7 @@
 "title": "synagogue-ruler"
 },
 "zhs": {
-"content_id": "cmn-t134-v1",
+"content_id": "zhs-t134-v1",
 "language": "zhs",
 "title": "管理犹太会堂的人"
 }
@@ -11296,16 +10143,6 @@
 "content_id": "fra-t134-v1-audio",
 "language": "fra",
 "title": "chef de la synagogue"
-},
-"por": {
-"content_id": "por-t134-v1-audio",
-"language": "por",
-"title": "chefe da sinagoga"
-},
-"zhs": {
-"content_id": "cmn-t134-v1-audio",
-"language": "zhs",
-"title": "管理犹太会堂的人"
 }
 }
 },
@@ -11360,7 +10197,7 @@
 "title": "syrian-phoenicia"
 },
 "zhs": {
-"content_id": "cmn-t135-v1",
+"content_id": "zhs-t135-v1",
 "language": "zhs",
 "title": "叙利亚腓尼基"
 }
@@ -11375,16 +10212,6 @@
 "content_id": "fra-t135-v1-audio",
 "language": "fra",
 "title": "Syrie-Phénicie"
-},
-"por": {
-"content_id": "por-t135-v1-audio",
-"language": "por",
-"title": "Fenícia da Síria"
-},
-"zhs": {
-"content_id": "cmn-t135-v1-audio",
-"language": "zhs",
-"title": "叙利亚腓尼基"
 }
 }
 },
@@ -11439,7 +10266,7 @@
 "title": "teacher"
 },
 "zhs": {
-"content_id": "cmn-t136-v1",
+"content_id": "zhs-t136-v1",
 "language": "zhs",
 "title": "教师"
 }
@@ -11454,16 +10281,6 @@
 "content_id": "fra-t136-v1-audio",
 "language": "fra",
 "title": "maître"
-},
-"por": {
-"content_id": "por-t136-v1-audio",
-"language": "por",
-"title": "mestre"
-},
-"zhs": {
-"content_id": "cmn-t136-v1-audio",
-"language": "zhs",
-"title": "教师"
 }
 }
 },
@@ -11523,7 +10340,7 @@
 "title": "teachers-of-the-law"
 },
 "zhs": {
-"content_id": "cmn-t137-v1",
+"content_id": "zhs-t137-v1",
 "language": "zhs",
 "title": "律法教师、教法师"
 }
@@ -11539,20 +10356,10 @@
 "language": "fra",
 "title": "docteurs de la loi"
 },
-"por": {
-"content_id": "por-t137-v1-audio",
-"language": "por",
-"title": "mestres da Lei"
-},
 "rus": {
 "content_id": "rus-t137-v1-audio",
 "language": "rus",
 "title": "Учителя Закона"
-},
-"zhs": {
-"content_id": "cmn-t137-v1-audio",
-"language": "zhs",
-"title": "律法教师、教法师"
 }
 }
 },
@@ -11607,7 +10414,7 @@
 "title": "temple"
 },
 "zhs": {
-"content_id": "cmn-t138-v1",
+"content_id": "zhs-t138-v1",
 "language": "zhs",
 "title": "圣殿"
 }
@@ -11622,16 +10429,6 @@
 "content_id": "fra-t138-v1-audio",
 "language": "fra",
 "title": "Temple"
-},
-"por": {
-"content_id": "por-t138-v1-audio",
-"language": "por",
-"title": "templo"
-},
-"zhs": {
-"content_id": "cmn-t138-v1-audio",
-"language": "zhs",
-"title": "圣殿"
 }
 }
 },
@@ -11686,7 +10483,7 @@
 "title": "tenants"
 },
 "zhs": {
-"content_id": "cmn-t139-v1",
+"content_id": "zhs-t139-v1",
 "language": "zhs",
 "title": "园户"
 }
@@ -11701,16 +10498,6 @@
 "content_id": "fra-t139-v1-audio",
 "language": "fra",
 "title": "intendants"
-},
-"por": {
-"content_id": "por-t139-v1-audio",
-"language": "por",
-"title": "arrendatários"
-},
-"zhs": {
-"content_id": "cmn-t139-v1-audio",
-"language": "zhs",
-"title": "园户"
 }
 }
 },
@@ -11765,7 +10552,7 @@
 "title": "tomb"
 },
 "zhs": {
-"content_id": "cmn-t140-v1",
+"content_id": "zhs-t140-v1",
 "language": "zhs",
 "title": "坟墓"
 }
@@ -11780,16 +10567,6 @@
 "content_id": "fra-t140-v1-audio",
 "language": "fra",
 "title": "sépulcre"
-},
-"por": {
-"content_id": "por-t140-v1-audio",
-"language": "por",
-"title": "túmulo"
-},
-"zhs": {
-"content_id": "cmn-t140-v1-audio",
-"language": "zhs",
-"title": "坟墓"
 }
 }
 },
@@ -11844,7 +10621,7 @@
 "title": "tyre"
 },
 "zhs": {
-"content_id": "cmn-t141-v1",
+"content_id": "zhs-t141-v1",
 "language": "zhs",
 "title": "泰尔（有些译本译为：推罗）"
 }
@@ -11859,16 +10636,6 @@
 "content_id": "fra-t141-v1-audio",
 "language": "fra",
 "title": "Tyr"
-},
-"por": {
-"content_id": "por-t141-v1-audio",
-"language": "por",
-"title": "Tiro"
-},
-"zhs": {
-"content_id": "cmn-t141-v1-audio",
-"language": "zhs",
-"title": "泰尔（有些译本译为：推罗）"
 }
 }
 },
@@ -11923,7 +10690,7 @@
 "title": "vineyard"
 },
 "zhs": {
-"content_id": "cmn-t142-v1",
+"content_id": "zhs-t142-v1",
 "language": "zhs",
 "title": "葡萄园"
 }
@@ -11938,16 +10705,6 @@
 "content_id": "fra-t142-v1-audio",
 "language": "fra",
 "title": "vignoble"
-},
-"por": {
-"content_id": "por-t142-v1-audio",
-"language": "por",
-"title": "vinha"
-},
-"zhs": {
-"content_id": "cmn-t142-v1-audio",
-"language": "zhs",
-"title": "葡萄园"
 }
 }
 },
@@ -12007,18 +10764,7 @@
 "content_id": "eng-t143-v1-audio",
 "reference_id": 0,
 "index_reference": "vision",
-"localizations": {
-"fra": {
-"content_id": "fra-t143-v1-audio",
-"language": "fra",
-"title": "vision"
-},
-"por": {
-"content_id": "por-t143-v1-audio",
-"language": "por",
-"title": "visão"
-}
-}
+"localizations": {}
 },
 "eng-t144-v1": {
 "content_id": "eng-t144-v1",
@@ -12071,7 +10817,7 @@
 "title": "watchtower"
 },
 "zhs": {
-"content_id": "cmn-t144-v1",
+"content_id": "zhs-t144-v1",
 "language": "zhs",
 "title": "守望台"
 }
@@ -12086,16 +10832,6 @@
 "content_id": "fra-t144-v1-audio",
 "language": "fra",
 "title": "tour"
-},
-"por": {
-"content_id": "por-t144-v1-audio",
-"language": "por",
-"title": "torre de vigia"
-},
-"zhs": {
-"content_id": "cmn-t144-v1-audio",
-"language": "zhs",
-"title": "守望台"
 }
 }
 },
@@ -12150,7 +10886,7 @@
 "title": "wilderness"
 },
 "zhs": {
-"content_id": "cmn-t145-v1",
+"content_id": "zhs-t145-v1",
 "language": "zhs",
 "title": "旷野"
 }
@@ -12165,16 +10901,6 @@
 "content_id": "fra-t145-v1-audio",
 "language": "fra",
 "title": "désert"
-},
-"por": {
-"content_id": "por-t145-v1-audio",
-"language": "por",
-"title": "região desabitada"
-},
-"zhs": {
-"content_id": "cmn-t145-v1-audio",
-"language": "zhs",
-"title": "旷野"
 }
 }
 },
@@ -12229,7 +10955,7 @@
 "title": "winepress"
 },
 "zhs": {
-"content_id": "cmn-t146-v1",
+"content_id": "zhs-t146-v1",
 "language": "zhs",
 "title": "酒榨"
 }
@@ -12244,16 +10970,6 @@
 "content_id": "fra-t146-v1-audio",
 "language": "fra",
 "title": "pressoir à vin"
-},
-"por": {
-"content_id": "por-t146-v1-audio",
-"language": "por",
-"title": "lagar"
-},
-"zhs": {
-"content_id": "cmn-t146-v1-audio",
-"language": "zhs",
-"title": "酒榨"
 }
 }
 },
@@ -12303,7 +11019,7 @@
 "title": "wisdom"
 },
 "zhs": {
-"content_id": "cmn-t147-v1",
+"content_id": "zhs-t147-v1",
 "language": "zhs",
 "title": "智慧"
 }
@@ -12318,16 +11034,6 @@
 "content_id": "fra-t147-v1-audio",
 "language": "fra",
 "title": "sagesse"
-},
-"por": {
-"content_id": "por-t147-v1-audio",
-"language": "por",
-"title": "sabedoria"
-},
-"zhs": {
-"content_id": "cmn-t147-v1-audio",
-"language": "zhs",
-"title": "智慧"
 }
 }
 },
@@ -12382,7 +11088,7 @@
 "title": "word"
 },
 "zhs": {
-"content_id": "cmn-t148-v1",
+"content_id": "zhs-t148-v1",
 "language": "zhs",
 "title": "道"
 }
@@ -12397,16 +11103,6 @@
 "content_id": "fra-t148-v1.0.1-audio",
 "language": "fra",
 "title": "Parole"
-},
-"por": {
-"content_id": "por-t148-v1-audio",
-"language": "por",
-"title": "Palavra"
-},
-"zhs": {
-"content_id": "cmn-t148-v1-audio",
-"language": "zhs",
-"title": "道"
 }
 }
 },
@@ -12466,18 +11162,7 @@
 "content_id": "eng-t149-v1-audio",
 "reference_id": 0,
 "index_reference": "worship",
-"localizations": {
-"fra": {
-"content_id": "fra-t149-v1-audio",
-"language": "fra",
-"title": "adoration"
-},
-"por": {
-"content_id": "por-t149-v1-audio",
-"language": "por",
-"title": "adorar"
-}
-}
+"localizations": {}
 },
 "eng-t150-v1": {
 "content_id": "eng-t150-v1",
@@ -12530,7 +11215,7 @@
 "title": "heart"
 },
 "zhs": {
-"content_id": "cmn-t150-v1",
+"content_id": "zhs-t150-v1",
 "language": "zhs",
 "title": "心"
 }
@@ -12545,16 +11230,6 @@
 "content_id": "fra-t150-v1.0.1-audio",
 "language": "fra",
 "title": "cœur"
-},
-"por": {
-"content_id": "por-t150-v1-audio",
-"language": "por",
-"title": "coração"
-},
-"zhs": {
-"content_id": "cmn-t150-v1-audio",
-"language": "zhs",
-"title": "心"
 }
 }
 },
@@ -12609,7 +11284,7 @@
 "title": "mind"
 },
 "zhs": {
-"content_id": "cmn-t151-v1",
+"content_id": "zhs-t151-v1",
 "language": "zhs",
 "title": "意、心意、心里、心思、意念、悟性、理智、心地"
 }
@@ -12624,16 +11299,6 @@
 "content_id": "fra-t151-v1-audio",
 "language": "fra",
 "title": "esprit"
-},
-"por": {
-"content_id": "por-t151-v1-audio",
-"language": "por",
-"title": "mente"
-},
-"zhs": {
-"content_id": "cmn-t151-v1-audio",
-"language": "zhs",
-"title": "意、心意、心里、心思、意念、悟性、理智、心地"
 }
 }
 },
@@ -12688,7 +11353,7 @@
 "title": "strength"
 },
 "zhs": {
-"content_id": "cmn-t152-v1",
+"content_id": "zhs-t152-v1",
 "language": "zhs",
 "title": "力量"
 }
@@ -12703,18 +11368,20 @@
 "content_id": "fra-t152-v1-audio",
 "language": "fra",
 "title": "force"
-},
-"por": {
-"content_id": "por-t152-v1-audio",
-"language": "por",
-"title": "força"
-},
-"zhs": {
-"content_id": "cmn-t152-v1-audio",
-"language": "zhs",
-"title": "力量"
 }
 }
+},
+"eng-t153-v1": {
+"content_id": "eng-t153-v1",
+"reference_id": 0,
+"index_reference": "neighbor",
+"localizations": {}
+},
+"eng-t153-v1-audio": {
+"content_id": "eng-t153-v1-audio",
+"reference_id": 0,
+"index_reference": "neighbor",
+"localizations": {}
 },
 "eng-t154-v1": {
 "content_id": "eng-t154-v1",
@@ -12767,7 +11434,7 @@
 "title": "burnt-offering"
 },
 "zhs": {
-"content_id": "cmn-t154-v1",
+"content_id": "zhs-t154-v1",
 "language": "zhs",
 "title": "燔祭"
 }
@@ -12782,16 +11449,6 @@
 "content_id": "fra-t154-v1-audio",
 "language": "fra",
 "title": "holocauste"
-},
-"por": {
-"content_id": "por-t154-v1-audio",
-"language": "por",
-"title": "oferta queimada"
-},
-"zhs": {
-"content_id": "cmn-t154-v1-audio",
-"language": "zhs",
-"title": "燔祭"
 }
 }
 },
@@ -12846,7 +11503,7 @@
 "title": "scribe"
 },
 "zhs": {
-"content_id": "cmn-t155-v1",
+"content_id": "zhs-t155-v1",
 "language": "zhs",
 "title": "文士"
 }
@@ -12861,16 +11518,6 @@
 "content_id": "fra-t155-v1-audio",
 "language": "fra",
 "title": "scribe"
-},
-"por": {
-"content_id": "por-t155-v1-audio",
-"language": "por",
-"title": "escriba"
-},
-"zhs": {
-"content_id": "cmn-t155-v1-audio",
-"language": "zhs",
-"title": "文士"
 }
 }
 },
@@ -12925,7 +11572,7 @@
 "title": "sign"
 },
 "zhs": {
-"content_id": "cmn-t156-v1",
+"content_id": "zhs-t156-v1",
 "language": "zhs",
 "title": "记号"
 }
@@ -12940,16 +11587,6 @@
 "content_id": "fra-t156-v1-audio",
 "language": "fra",
 "title": "signe"
-},
-"por": {
-"content_id": "por-t156-v1-audio",
-"language": "por",
-"title": "sinal"
-},
-"zhs": {
-"content_id": "cmn-t156-v1-audio",
-"language": "zhs",
-"title": "记号"
 }
 }
 },
@@ -13004,7 +11641,7 @@
 "title": "kingdom"
 },
 "zhs": {
-"content_id": "cmn-t157-v1",
+"content_id": "zhs-t157-v1",
 "language": "zhs",
 "title": "国"
 }
@@ -13019,16 +11656,6 @@
 "content_id": "fra-t157-v1-audio",
 "language": "fra",
 "title": "royaume"
-},
-"por": {
-"content_id": "por-t157-v1-audio",
-"language": "por",
-"title": "reino"
-},
-"zhs": {
-"content_id": "cmn-t157-v1-audio",
-"language": "zhs",
-"title": "国"
 }
 }
 },
@@ -13088,18 +11715,7 @@
 "content_id": "eng-t158-v1-audio",
 "reference_id": 0,
 "index_reference": "house of david",
-"localizations": {
-"fra": {
-"content_id": "fra-t158-v1-audio",
-"language": "fra",
-"title": "Maison de David"
-},
-"por": {
-"content_id": "por-t158-v1-audio",
-"language": "por",
-"title": "Casa de Davi"
-}
-}
+"localizations": {}
 },
 "eng-t159-v1": {
 "content_id": "eng-t159-v1",
@@ -13157,18 +11773,7 @@
 "content_id": "eng-t159-v1-audio",
 "reference_id": 0,
 "index_reference": "inn",
-"localizations": {
-"fra": {
-"content_id": "fra-t159-v1-audio",
-"language": "fra",
-"title": "auberge"
-},
-"por": {
-"content_id": "por-t159-v1-audio",
-"language": "por",
-"title": "pousada"
-}
-}
+"localizations": {}
 },
 "eng-t160-v1": {
 "content_id": "eng-t160-v1",
@@ -13221,7 +11826,7 @@
 "title": "good-news"
 },
 "zhs": {
-"content_id": "cmn-t160-v1",
+"content_id": "zhs-t160-v1",
 "language": "zhs",
 "title": "好消息"
 }
@@ -13237,20 +11842,10 @@
 "language": "fra",
 "title": "Bonne Nouvelle"
 },
-"por": {
-"content_id": "por-t160-v1-audio",
-"language": "por",
-"title": "boas novas"
-},
 "spa": {
 "content_id": "spa-t160-v1-audio",
 "language": "spa",
 "title": "buenas nuevas"
-},
-"zhs": {
-"content_id": "cmn-t160-v1-audio",
-"language": "zhs",
-"title": "好消息"
 }
 }
 },
@@ -13310,18 +11905,7 @@
 "content_id": "eng-t161-v1-audio",
 "reference_id": 0,
 "index_reference": "peace",
-"localizations": {
-"fra": {
-"content_id": "fra-t161-v1-audio",
-"language": "fra",
-"title": "paix"
-},
-"por": {
-"content_id": "por-t161-v1-audio",
-"language": "por",
-"title": "paz"
-}
-}
+"localizations": {}
 },
 "eng-t162-v1": {
 "content_id": "eng-t162-v1",
@@ -13374,7 +11958,7 @@
 "title": "passover"
 },
 "zhs": {
-"content_id": "cmn-t162-v1",
+"content_id": "zhs-t162-v1",
 "language": "zhs",
 "title": "逾越节"
 }
@@ -13389,16 +11973,6 @@
 "content_id": "fra-t162-v1-audio",
 "language": "fra",
 "title": "Pâque"
-},
-"por": {
-"content_id": "por-t162-v1-audio",
-"language": "por",
-"title": "Páscoa"
-},
-"zhs": {
-"content_id": "cmn-t162-v1-audio",
-"language": "zhs",
-"title": "逾越节"
 }
 }
 },
@@ -13458,18 +12032,7 @@
 "content_id": "eng-t163-v1-audio",
 "reference_id": 0,
 "index_reference": "purification offering or ceremony",
-"localizations": {
-"fra": {
-"content_id": "fra-t163-v1-audio",
-"language": "fra",
-"title": "Offrande ou cérémonie de purification"
-},
-"por": {
-"content_id": "por-t163-v1-audio",
-"language": "por",
-"title": "Oferta ou cerimônia de purificação"
-}
-}
+"localizations": {}
 },
 "eng-t164-v1": {
 "content_id": "eng-t164-v1",
@@ -13522,7 +12085,7 @@
 "title": "festival-of-unleavened-bread"
 },
 "zhs": {
-"content_id": "cmn-t164-v1",
+"content_id": "zhs-t164-v1",
 "language": "zhs",
 "title": "无酵节"
 }
@@ -13537,16 +12100,6 @@
 "content_id": "fra-t164-v1-audio",
 "language": "fra",
 "title": "fête des Pains sans levain"
-},
-"por": {
-"content_id": "por-t164-v1-audio",
-"language": "por",
-"title": "Festa dos Pães Asmos"
-},
-"zhs": {
-"content_id": "cmn-t164-v1-audio",
-"language": "zhs",
-"title": "无酵节"
 }
 }
 },
@@ -13601,7 +12154,7 @@
 "title": "hymn"
 },
 "zhs": {
-"content_id": "cmn-t165-v1",
+"content_id": "zhs-t165-v1",
 "language": "zhs",
 "title": "赞美诗"
 }
@@ -13616,16 +12169,6 @@
 "content_id": "fra-t165-v1-audio",
 "language": "fra",
 "title": "hymne"
-},
-"por": {
-"content_id": "por-t165-v1-audio",
-"language": "por",
-"title": "hino"
-},
-"zhs": {
-"content_id": "cmn-t165-v1-audio",
-"language": "zhs",
-"title": "赞美诗"
 }
 }
 },
@@ -13680,7 +12223,7 @@
 "title": "shepherd"
 },
 "zhs": {
-"content_id": "cmn-t166-v1",
+"content_id": "zhs-t166-v1",
 "language": "zhs",
 "title": "牧羊人"
 }
@@ -13695,16 +12238,6 @@
 "content_id": "fra-t166-v1-audio",
 "language": "fra",
 "title": "berger"
-},
-"por": {
-"content_id": "por-t166-v1-audio",
-"language": "por",
-"title": "pastor"
-},
-"zhs": {
-"content_id": "cmn-t166-v1-audio",
-"language": "zhs",
-"title": "牧羊人"
 }
 }
 },
@@ -13759,7 +12292,7 @@
 "title": "abba"
 },
 "zhs": {
-"content_id": "cmn-t167-v1",
+"content_id": "zhs-t167-v1",
 "language": "zhs",
 "title": "阿爸"
 }
@@ -13774,16 +12307,6 @@
 "content_id": "fra-t167-v1-audio",
 "language": "fra",
 "title": "abba"
-},
-"por": {
-"content_id": "por-t167-v1-audio",
-"language": "por",
-"title": "abba"
-},
-"zhs": {
-"content_id": "cmn-t167-v1-audio",
-"language": "zhs",
-"title": "阿爸"
 }
 }
 },
@@ -13838,7 +12361,7 @@
 "title": "sanhedrin"
 },
 "zhs": {
-"content_id": "cmn-t168-v1",
+"content_id": "zhs-t168-v1",
 "language": "zhs",
 "title": "公会"
 }
@@ -13853,16 +12376,6 @@
 "content_id": "fra-t168-v1-audio",
 "language": "fra",
 "title": "sanhédrin"
-},
-"por": {
-"content_id": "por-t168-v1-audio",
-"language": "por",
-"title": "sinédrio"
-},
-"zhs": {
-"content_id": "cmn-t168-v1-audio",
-"language": "zhs",
-"title": "公会"
 }
 }
 },
@@ -13917,7 +12430,7 @@
 "title": "crucifixion"
 },
 "zhs": {
-"content_id": "cmn-t169-v1",
+"content_id": "zhs-t169-v1",
 "language": "zhs",
 "title": "钉十字架"
 }
@@ -13932,16 +12445,6 @@
 "content_id": "fra-t169-v1-audio",
 "language": "fra",
 "title": "crucifixion"
-},
-"por": {
-"content_id": "por-t169-v1-audio",
-"language": "por",
-"title": "crucificação"
-},
-"zhs": {
-"content_id": "cmn-t169-v1-audio",
-"language": "zhs",
-"title": "钉十字架"
 }
 }
 },
@@ -13996,7 +12499,7 @@
 "title": "centurion"
 },
 "zhs": {
-"content_id": "cmn-t170-v1",
+"content_id": "zhs-t170-v1",
 "language": "zhs",
 "title": "百夫长"
 }
@@ -14011,16 +12514,6 @@
 "content_id": "fra-t170-v1-audio",
 "language": "fra",
 "title": "centurion"
-},
-"por": {
-"content_id": "por-t170-v1-audio",
-"language": "por",
-"title": "centurião"
-},
-"zhs": {
-"content_id": "cmn-t170-v1-audio",
-"language": "zhs",
-"title": "百夫长"
 }
 }
 },
@@ -14075,7 +12568,7 @@
 "title": "anoint"
 },
 "zhs": {
-"content_id": "cmn-t171-v1",
+"content_id": "zhs-t171-v1",
 "language": "zhs",
 "title": "抹"
 }
@@ -14090,16 +12583,6 @@
 "content_id": "fra-t171-v1-audio",
 "language": "fra",
 "title": "embaumer"
-},
-"por": {
-"content_id": "por-t171-v1-audio",
-"language": "por",
-"title": "ungir"
-},
-"zhs": {
-"content_id": "cmn-t171-v1-audio",
-"language": "zhs",
-"title": "抹"
 }
 }
 },
@@ -14159,18 +12642,7 @@
 "content_id": "eng-t172-v1-audio",
 "reference_id": 0,
 "index_reference": "genealogy",
-"localizations": {
-"fra": {
-"content_id": "fra-t172-v1-audio",
-"language": "fra",
-"title": "généalogie"
-},
-"por": {
-"content_id": "por-t172-v1-audio",
-"language": "por",
-"title": "genealogia"
-}
-}
+"localizations": {}
 },
 "eng-t173-v1": {
 "content_id": "eng-t173-v1",
@@ -14223,7 +12695,7 @@
 "title": "generations"
 },
 "zhs": {
-"content_id": "cmn-t173-v1",
+"content_id": "zhs-t173-v1",
 "language": "zhs",
 "title": "世代、后代"
 }
@@ -14238,16 +12710,6 @@
 "content_id": "fra-t173-v1-audio",
 "language": "fra",
 "title": "générations"
-},
-"por": {
-"content_id": "por-t173-v1-audio",
-"language": "por",
-"title": "gerações"
-},
-"zhs": {
-"content_id": "cmn-t173-v1-audio",
-"language": "zhs",
-"title": "世代、后代"
 }
 }
 },
@@ -14307,13 +12769,7 @@
 "content_id": "eng-t174-v1-audio",
 "reference_id": 0,
 "index_reference": "yahweh",
-"localizations": {
-"fra": {
-"content_id": "fra-t174-v1-audio",
-"language": "fra",
-"title": "Yahweh"
-}
-}
+"localizations": {}
 },
 "eng-t175-v1": {
 "content_id": "eng-t175-v1",
@@ -14371,18 +12827,7 @@
 "content_id": "eng-t175-v1-audio",
 "reference_id": 0,
 "index_reference": "christian",
-"localizations": {
-"fra": {
-"content_id": "fra-t175-v1-audio",
-"language": "fra",
-"title": "Chrétien"
-},
-"por": {
-"content_id": "por-t175-v1-audio",
-"language": "por",
-"title": "Cristão"
-}
-}
+"localizations": {}
 },
 "eng-t176-v1": {
 "content_id": "eng-t176-v1",
@@ -14440,18 +12885,7 @@
 "content_id": "eng-t176-v1-audio",
 "reference_id": 0,
 "index_reference": "evangelist",
-"localizations": {
-"fra": {
-"content_id": "fra-t176-v1-audio",
-"language": "fra",
-"title": "Évangéliste"
-},
-"por": {
-"content_id": "por-t176-v1-audio",
-"language": "por",
-"title": "evangelista"
-}
-}
+"localizations": {}
 },
 "eng-t177-v1": {
 "content_id": "eng-t177-v1",
@@ -14509,18 +12943,7 @@
 "content_id": "eng-t177-v1-audio",
 "reference_id": 0,
 "index_reference": "cubit",
-"localizations": {
-"fra": {
-"content_id": "fra-t177-v1-audio",
-"language": "fra",
-"title": "coudée"
-},
-"por": {
-"content_id": "por-t177-v1-audio",
-"language": "por",
-"title": "côvado"
-}
-}
+"localizations": {}
 },
 "eng-t178-v1": {
 "content_id": "eng-t178-v1",
@@ -14578,18 +13001,7 @@
 "content_id": "eng-t178-v1-audio",
 "reference_id": 0,
 "index_reference": "canaan",
-"localizations": {
-"fra": {
-"content_id": "fra-t178-v1-audio",
-"language": "fra",
-"title": "Canaan"
-},
-"por": {
-"content_id": "por-t178-v1-audio",
-"language": "por",
-"title": "Canaã"
-}
-}
+"localizations": {}
 },
 "eng-t179-v1": {
 "content_id": "eng-t179-v1",
@@ -14647,18 +13059,7 @@
 "content_id": "eng-t179-v1-audio",
 "reference_id": 0,
 "index_reference": "pharaoh",
-"localizations": {
-"fra": {
-"content_id": "fra-t179-v1-audio",
-"language": "fra",
-"title": "pharaon"
-},
-"por": {
-"content_id": "por-t179-v1-audio",
-"language": "por",
-"title": "faraó"
-}
-}
+"localizations": {}
 },
 "eng-t180-v2": {
 "content_id": "eng-t180-v2",
@@ -14711,7 +13112,7 @@
 "title": "tunic"
 },
 "zhs": {
-"content_id": "cmn-t180-v1",
+"content_id": "zhs-t180-v1",
 "language": "zhs",
 "title": "里衣、内衣、内袍"
 }
@@ -14726,16 +13127,6 @@
 "content_id": "fra-t180-v1-audio",
 "language": "fra",
 "title": "tunique"
-},
-"por": {
-"content_id": "por-t180-v1-audio",
-"language": "por",
-"title": "túnica"
-},
-"zhs": {
-"content_id": "cmn-t180-v1-audio",
-"language": "zhs",
-"title": "里衣、内衣、内袍"
 }
 }
 },
@@ -14790,7 +13181,7 @@
 "title": "devil"
 },
 "zhs": {
-"content_id": "cmn-t181-v1",
+"content_id": "zhs-t181-v1",
 "language": "zhs",
 "title": "魔鬼"
 }
@@ -14805,16 +13196,6 @@
 "content_id": "fra-t181-v1-audio",
 "language": "fra",
 "title": "diable"
-},
-"por": {
-"content_id": "por-t181-v1-audio",
-"language": "por",
-"title": "diabo"
-},
-"zhs": {
-"content_id": "cmn-t181-v1-audio",
-"language": "zhs",
-"title": "魔鬼"
 }
 }
 },
@@ -14874,18 +13255,7 @@
 "content_id": "eng-t182-v1-audio",
 "reference_id": 0,
 "index_reference": "proverb",
-"localizations": {
-"fra": {
-"content_id": "fra-t182-v1-audio",
-"language": "fra",
-"title": "proverbe"
-},
-"por": {
-"content_id": "por-t182-v1-audio",
-"language": "por",
-"title": "provérbio"
-}
-}
+"localizations": {}
 },
 "eng-t183-v1": {
 "content_id": "eng-t183-v1",
@@ -14938,7 +13308,7 @@
 "title": "house-of-god"
 },
 "zhs": {
-"content_id": "cmn-t183-v1",
+"content_id": "zhs-t183-v1",
 "language": "zhs",
 "title": "神的家"
 }
@@ -14953,16 +13323,6 @@
 "content_id": "fra-t183-v1.0.1-audio",
 "language": "fra",
 "title": "maison de Dieu"
-},
-"por": {
-"content_id": "por-t183-v1-audio",
-"language": "por",
-"title": "casa de Deus"
-},
-"zhs": {
-"content_id": "cmn-t183-v1-audio",
-"language": "zhs",
-"title": "神的家"
 }
 }
 },
@@ -15017,7 +13377,7 @@
 "title": "tabernacle"
 },
 "zhs": {
-"content_id": "cmn-t184-v1",
+"content_id": "zhs-t184-v1",
 "language": "zhs",
 "title": "会幕"
 }
@@ -15032,16 +13392,6 @@
 "content_id": "fra-t184-v1.0.1-audio",
 "language": "fra",
 "title": "tabernacle"
-},
-"por": {
-"content_id": "por-t184-v1-audio",
-"language": "por",
-"title": "tabernáculo"
-},
-"zhs": {
-"content_id": "cmn-t184-v1-audio",
-"language": "zhs",
-"title": "会幕"
 }
 }
 },
@@ -15101,18 +13451,7 @@
 "content_id": "eng-t185-v1-audio",
 "reference_id": 0,
 "index_reference": "fear of god",
-"localizations": {
-"fra": {
-"content_id": "fra-t185-v1-audio",
-"language": "fra",
-"title": "Crainte de Dieu"
-},
-"por": {
-"content_id": "por-t185-v1-audio",
-"language": "por",
-"title": "temor de Deus"
-}
-}
+"localizations": {}
 },
 "eng-t186-v1": {
 "content_id": "eng-t186-v1",
@@ -15170,18 +13509,7 @@
 "content_id": "eng-t186-v1-audio",
 "reference_id": 0,
 "index_reference": "persecution",
-"localizations": {
-"fra": {
-"content_id": "fra-t186-v1-audio",
-"language": "fra",
-"title": "persécution"
-},
-"por": {
-"content_id": "por-t186-v1-audio",
-"language": "por",
-"title": "perseguição"
-}
-}
+"localizations": {}
 },
 "eng-t187-v1": {
 "content_id": "eng-t187-v1",
@@ -15234,7 +13562,7 @@
 "title": "evil"
 },
 "zhs": {
-"content_id": "cmn-t187-v1",
+"content_id": "zhs-t187-v1",
 "language": "zhs",
 "title": "邪恶"
 }
@@ -15249,16 +13577,6 @@
 "content_id": "fra-t187-v1-audio",
 "language": "fra",
 "title": "mal"
-},
-"por": {
-"content_id": "por-t187-v1-audio",
-"language": "por",
-"title": "mal"
-},
-"zhs": {
-"content_id": "cmn-t187-v1-audio",
-"language": "zhs",
-"title": "邪恶"
 }
 }
 },
@@ -15318,18 +13636,7 @@
 "content_id": "eng-t188-v1-audio",
 "reference_id": 0,
 "index_reference": "saint",
-"localizations": {
-"fra": {
-"content_id": "fra-t188-v1-audio",
-"language": "fra",
-"title": "saint"
-},
-"por": {
-"content_id": "por-t188-v1-audio",
-"language": "por",
-"title": "santo"
-}
-}
+"localizations": {}
 },
 "eng-t189-v1": {
 "content_id": "eng-t189-v1",
@@ -15382,7 +13689,7 @@
 "title": "god"
 },
 "zhs": {
-"content_id": "cmn-t189-v1",
+"content_id": "zhs-t189-v1",
 "language": "zhs",
 "title": "神、上帝"
 }
@@ -15397,16 +13704,6 @@
 "content_id": "fra-t189-v1-audio",
 "language": "fra",
 "title": "Dieu"
-},
-"por": {
-"content_id": "por-t189-v1-audio",
-"language": "por",
-"title": "Deus"
-},
-"zhs": {
-"content_id": "cmn-t189-v1-audio",
-"language": "zhs",
-"title": "神、上帝"
 }
 }
 },
@@ -15466,18 +13763,7 @@
 "content_id": "eng-t191-v1-audio",
 "reference_id": 0,
 "index_reference": "hebron",
-"localizations": {
-"fra": {
-"content_id": "fra-t191-v1-audio",
-"language": "fra",
-"title": "Hébron"
-},
-"por": {
-"content_id": "por-t191-v1-audio",
-"language": "por",
-"title": "Hebrom"
-}
-}
+"localizations": {}
 },
 "eng-t192-v2": {
 "content_id": "eng-t192-v2",
@@ -15535,18 +13821,7 @@
 "content_id": "eng-t192-v2-audio",
 "reference_id": 0,
 "index_reference": "foreigner",
-"localizations": {
-"fra": {
-"content_id": "fra-t192-v1-audio",
-"language": "fra",
-"title": "Étranger"
-},
-"por": {
-"content_id": "por-t192-v1-audio",
-"language": "por",
-"title": "estrangeiro"
-}
-}
+"localizations": {}
 },
 "eng-t193-v2": {
 "content_id": "eng-t193-v2",
@@ -15604,18 +13879,7 @@
 "content_id": "eng-t193-v2-audio",
 "reference_id": 0,
 "index_reference": "sojourner",
-"localizations": {
-"fra": {
-"content_id": "fra-t193-v1-audio",
-"language": "fra",
-"title": "voyager"
-},
-"por": {
-"content_id": "por-t193-v1-audio",
-"language": "por",
-"title": "peregrino"
-}
-}
+"localizations": {}
 },
 "eng-t194-v1": {
 "content_id": "eng-t194-v1",
@@ -15673,7 +13937,7 @@
 "title": "offering"
 },
 "zhs": {
-"content_id": "cmn-t194-v1",
+"content_id": "zhs-t194-v1",
 "language": "zhs",
 "title": "祭物"
 }
@@ -15689,20 +13953,10 @@
 "language": "fra",
 "title": "offrande"
 },
-"por": {
-"content_id": "por-t194-v1-audio",
-"language": "por",
-"title": "oferta"
-},
 "rus": {
 "content_id": "rus-t194-v1-audio",
 "language": "rus",
 "title": "Приношение или жертва"
-},
-"zhs": {
-"content_id": "cmn-t194-v1-audio",
-"language": "zhs",
-"title": "祭物"
 }
 }
 },
@@ -15762,18 +14016,7 @@
 "content_id": "eng-t195-v1-audio",
 "reference_id": 0,
 "index_reference": "commander",
-"localizations": {
-"fra": {
-"content_id": "fra-t195-v1-audio",
-"language": "fra",
-"title": "commandant"
-},
-"por": {
-"content_id": "por-t195-v1-audio",
-"language": "por",
-"title": "comandante"
-}
-}
+"localizations": {}
 },
 "eng-t196-v1": {
 "content_id": "eng-t196-v1",
@@ -15831,18 +14074,7 @@
 "content_id": "eng-t196-v1-audio",
 "reference_id": 0,
 "index_reference": "hades",
-"localizations": {
-"fra": {
-"content_id": "fra-t196-v1-audio",
-"language": "fra",
-"title": "hadès"
-},
-"por": {
-"content_id": "por-t196-v1-audio",
-"language": "por",
-"title": "hades"
-}
-}
+"localizations": {}
 },
 "eng-t197-v1": {
 "content_id": "eng-t197-v1",
@@ -15900,18 +14132,7 @@
 "content_id": "eng-t197-v1-audio",
 "reference_id": 0,
 "index_reference": "angel of the lord",
-"localizations": {
-"fra": {
-"content_id": "fra-t197-v1-audio",
-"language": "fra",
-"title": "l'ange du Seigneur"
-},
-"por": {
-"content_id": "por-t197-v1-audio",
-"language": "por",
-"title": "anjo do Senhor"
-}
-}
+"localizations": {}
 },
 "eng-t198-v1": {
 "content_id": "eng-t198-v1",
@@ -15969,18 +14190,7 @@
 "content_id": "eng-t198-v1-audio",
 "reference_id": 0,
 "index_reference": "yoke",
-"localizations": {
-"fra": {
-"content_id": "fra-t198-v1-audio",
-"language": "fra",
-"title": "fardeau"
-},
-"por": {
-"content_id": "por-t198-v1-audio",
-"language": "por",
-"title": "jugo"
-}
-}
+"localizations": {}
 },
 "eng-t199-v1": {
 "content_id": "eng-t199-v1",
@@ -16033,7 +14243,7 @@
 "title": "glorify"
 },
 "zhs": {
-"content_id": "cmn-t199-v1",
+"content_id": "zhs-t199-v1",
 "language": "zhs",
 "title": "荣耀"
 }
@@ -16048,16 +14258,6 @@
 "content_id": "fra-t199-v1-audio",
 "language": "fra",
 "title": "glorifier"
-},
-"por": {
-"content_id": "por-t199-v1-audio",
-"language": "por",
-"title": "glorificar"
-},
-"zhs": {
-"content_id": "cmn-t199-v1-audio",
-"language": "zhs",
-"title": "荣耀"
 }
 }
 },
@@ -16112,7 +14312,7 @@
 "title": "prophecy"
 },
 "zhs": {
-"content_id": "cmn-t200-v1",
+"content_id": "zhs-t200-v1",
 "language": "zhs",
 "title": "预言"
 }
@@ -16127,16 +14327,6 @@
 "content_id": "fra-t200-v1-audio",
 "language": "fra",
 "title": "prophétie"
-},
-"por": {
-"content_id": "por-t200-v1-audio",
-"language": "por",
-"title": "profecia"
-},
-"zhs": {
-"content_id": "cmn-t200-v1-audio",
-"language": "zhs",
-"title": "预言"
 }
 }
 },
@@ -16196,18 +14386,7 @@
 "content_id": "eng-t201-v1-audio",
 "reference_id": 0,
 "index_reference": "vow",
-"localizations": {
-"fra": {
-"content_id": "fra-t201-v1-audio",
-"language": "fra",
-"title": "vœu"
-},
-"por": {
-"content_id": "por-t201-v1-audio",
-"language": "por",
-"title": "voto"
-}
-}
+"localizations": {}
 },
 "eng-t202-v1": {
 "content_id": "eng-t202-v1",
@@ -16265,18 +14444,7 @@
 "content_id": "eng-t202-v1-audio",
 "reference_id": 0,
 "index_reference": "dream",
-"localizations": {
-"fra": {
-"content_id": "fra-t202-v1-audio",
-"language": "fra",
-"title": "Rêve"
-},
-"por": {
-"content_id": "por-t202-v1-audio",
-"language": "por",
-"title": "sonho"
-}
-}
+"localizations": {}
 },
 "eng-t203-v1": {
 "content_id": "eng-t203-v1",
@@ -16334,18 +14502,7 @@
 "content_id": "eng-t203-v1-audio",
 "reference_id": 0,
 "index_reference": "divination",
-"localizations": {
-"fra": {
-"content_id": "fra-t203-v1-audio",
-"language": "fra",
-"title": "Divination"
-},
-"por": {
-"content_id": "por-t203-v1-audio",
-"language": "por",
-"title": "adivinhação"
-}
-}
+"localizations": {}
 },
 "eng-t204-v1": {
 "content_id": "eng-t204-v1",
@@ -16403,18 +14560,7 @@
 "content_id": "eng-t204-v1-audio",
 "reference_id": 0,
 "index_reference": "zion",
-"localizations": {
-"fra": {
-"content_id": "fra-t204-v1-audio",
-"language": "fra",
-"title": "Sion"
-},
-"por": {
-"content_id": "por-t204-v1-audio",
-"language": "por",
-"title": "Sião"
-}
-}
+"localizations": {}
 },
 "eng-t205-v1": {
 "content_id": "eng-t205-v1",
@@ -16472,7 +14618,7 @@
 "title": "compassion"
 },
 "zhs": {
-"content_id": "cmn-t205-v1",
+"content_id": "zhs-t205-v1",
 "language": "zhs",
 "title": "怜悯、怜恤"
 }
@@ -16488,20 +14634,10 @@
 "language": "fra",
 "title": "compassion"
 },
-"por": {
-"content_id": "por-t205-v1-audio",
-"language": "por",
-"title": "compaixão"
-},
 "rus": {
 "content_id": "rus-t205-v1-audio",
 "language": "rus",
 "title": "Сострадание"
-},
-"zhs": {
-"content_id": "cmn-t205-v1-audio",
-"language": "zhs",
-"title": "怜悯、怜恤"
 }
 }
 },
@@ -16561,18 +14697,7 @@
 "content_id": "eng-t207-v1-audio",
 "reference_id": 0,
 "index_reference": "elshaddai",
-"localizations": {
-"fra": {
-"content_id": "fra-t207-v1-audio",
-"language": "fra",
-"title": "El-Shaddaï"
-},
-"por": {
-"content_id": "por-t207-v1-audio",
-"language": "por",
-"title": "el-shaddai"
-}
-}
+"localizations": {}
 },
 "eng-t208-v1": {
 "content_id": "eng-t208-v1",
@@ -16630,18 +14755,7 @@
 "content_id": "eng-t208-v1-audio",
 "reference_id": 0,
 "index_reference": "purify",
-"localizations": {
-"fra": {
-"content_id": "fra-t208-v1-audio",
-"language": "fra",
-"title": "purifier"
-},
-"por": {
-"content_id": "por-t208-v1-audio",
-"language": "por",
-"title": "purificar"
-}
-}
+"localizations": {}
 },
 "eng-t209-v1": {
 "content_id": "eng-t209-v1",
@@ -16699,18 +14813,7 @@
 "content_id": "eng-t209-v1-audio",
 "reference_id": 0,
 "index_reference": "elelyon",
-"localizations": {
-"fra": {
-"content_id": "fra-t209-v1-audio",
-"language": "fra",
-"title": "El-Elyon"
-},
-"por": {
-"content_id": "por-t209-v1-audio",
-"language": "por",
-"title": "elohim"
-}
-}
+"localizations": {}
 },
 "eng-t210-v1": {
 "content_id": "eng-t210-v1",
@@ -16768,18 +14871,7 @@
 "content_id": "eng-t210-v1-audio",
 "reference_id": 0,
 "index_reference": "elroi",
-"localizations": {
-"fra": {
-"content_id": "fra-t210-v1-audio",
-"language": "fra",
-"title": "El-roï"
-},
-"por": {
-"content_id": "por-t210-v1-audio",
-"language": "por",
-"title": "el-roi"
-}
-}
+"localizations": {}
 },
 "eng-t211-v1": {
 "content_id": "eng-t211-v1",
@@ -16832,7 +14924,7 @@
 "title": "greeks"
 },
 "zhs": {
-"content_id": "cmn-t211-v1",
+"content_id": "zhs-t211-v1",
 "language": "zhs",
 "title": "希腊人"
 }
@@ -16847,16 +14939,6 @@
 "content_id": "fra-t211-v1-audio",
 "language": "fra",
 "title": "Grecs"
-},
-"por": {
-"content_id": "por-t211-v1-audio",
-"language": "por",
-"title": "gregos"
-},
-"zhs": {
-"content_id": "cmn-t211-v1-audio",
-"language": "zhs",
-"title": "希腊人"
 }
 }
 },
@@ -16916,18 +14998,7 @@
 "content_id": "eng-t212-v1-audio",
 "reference_id": 0,
 "index_reference": "anoint",
-"localizations": {
-"fra": {
-"content_id": "fra-t212-v1-audio",
-"language": "fra",
-"title": "oindre"
-},
-"por": {
-"content_id": "por-t212-v1-audio",
-"language": "por",
-"title": "ungir"
-}
-}
+"localizations": {}
 },
 "eng-t213-v1": {
 "content_id": "eng-t213-v1",
@@ -16980,7 +15051,7 @@
 "title": "tongues"
 },
 "zhs": {
-"content_id": "cmn-t213-v1",
+"content_id": "zhs-t213-v1",
 "language": "zhs",
 "title": "方言"
 }
@@ -16995,16 +15066,6 @@
 "content_id": "fra-t213-v1-audio",
 "language": "fra",
 "title": "langue(s)"
-},
-"por": {
-"content_id": "por-t213-v1-audio",
-"language": "por",
-"title": "línguas"
-},
-"zhs": {
-"content_id": "cmn-t213-v1-audio",
-"language": "zhs",
-"title": "方言"
 }
 }
 },
@@ -17064,18 +15125,7 @@
 "content_id": "eng-t214-v1-audio",
 "reference_id": 0,
 "index_reference": "lawlessness",
-"localizations": {
-"fra": {
-"content_id": "fra-t214-v1-audio",
-"language": "fra",
-"title": "iniquité "
-},
-"por": {
-"content_id": "por-t214-v1-audio",
-"language": "por",
-"title": "iniquidade"
-}
-}
+"localizations": {}
 },
 "eng-t215-v1": {
 "content_id": "eng-t215-v1",
@@ -17128,7 +15178,7 @@
 "title": "wickedness"
 },
 "zhs": {
-"content_id": "cmn-t215-v1",
+"content_id": "zhs-t215-v1",
 "language": "zhs",
 "title": "邪恶"
 }
@@ -17143,16 +15193,6 @@
 "content_id": "fra-t215-v1-audio",
 "language": "fra",
 "title": "méchanceté ou impiété"
-},
-"por": {
-"content_id": "por-t215-v1-audio",
-"language": "por",
-"title": "perversão"
-},
-"zhs": {
-"content_id": "cmn-t215-v1-audio",
-"language": "zhs",
-"title": "邪恶"
 }
 }
 },
@@ -17212,18 +15252,7 @@
 "content_id": "eng-t216-v1-audio",
 "reference_id": 0,
 "index_reference": "sheol",
-"localizations": {
-"fra": {
-"content_id": "fra-t216-v1-audio",
-"language": "fra",
-"title": "Enfer"
-},
-"por": {
-"content_id": "por-t216-v1-audio",
-"language": "por",
-"title": "Sheol"
-}
-}
+"localizations": {}
 },
 "eng-t217-v1": {
 "content_id": "eng-t217-v1",
@@ -17281,18 +15310,7 @@
 "content_id": "eng-t217-v1-audio",
 "reference_id": 0,
 "index_reference": "magician",
-"localizations": {
-"fra": {
-"content_id": "fra-t217-v1-audio",
-"language": "fra",
-"title": "magicien"
-},
-"por": {
-"content_id": "por-t217-v1-audio",
-"language": "por",
-"title": "mágico"
-}
-}
+"localizations": {}
 },
 "eng-t218-v1": {
 "content_id": "eng-t218-v1",
@@ -17350,18 +15368,7 @@
 "content_id": "eng-t218-v1-audio",
 "reference_id": 0,
 "index_reference": "blood",
-"localizations": {
-"fra": {
-"content_id": "fra-t218-v1-audio",
-"language": "fra",
-"title": "sang"
-},
-"por": {
-"content_id": "por-t218-v1-audio",
-"language": "por",
-"title": "sangue"
-}
-}
+"localizations": {}
 },
 "eng-t219-v1": {
 "content_id": "eng-t219-v1",
@@ -17419,18 +15426,7 @@
 "content_id": "eng-t219-v1-audio",
 "reference_id": 0,
 "index_reference": "praise",
-"localizations": {
-"fra": {
-"content_id": "fra-t219-v1-audio",
-"language": "fra",
-"title": "louange"
-},
-"por": {
-"content_id": "por-t219-v1-audio",
-"language": "por",
-"title": "louvor"
-}
-}
+"localizations": {}
 },
 "eng-t220-v1": {
 "content_id": "eng-t220-v1",
@@ -17488,18 +15484,7 @@
 "content_id": "eng-t220-v1-audio",
 "reference_id": 0,
 "index_reference": "drachma",
-"localizations": {
-"fra": {
-"content_id": "fra-t220-v1-audio",
-"language": "fra",
-"title": "Drachme"
-},
-"por": {
-"content_id": "por-t220-v1-audio",
-"language": "por",
-"title": "dracma"
-}
-}
+"localizations": {}
 },
 "eng-t221-v1": {
 "content_id": "eng-t221-v1",
@@ -17557,18 +15542,7 @@
 "content_id": "eng-t221-v1-audio",
 "reference_id": 0,
 "index_reference": "samaria",
-"localizations": {
-"fra": {
-"content_id": "fra-t221-v1-audio",
-"language": "fra",
-"title": "Samarie"
-},
-"por": {
-"content_id": "por-t221-v1-audio",
-"language": "por",
-"title": "Samaria"
-}
-}
+"localizations": {}
 },
 "eng-t222-v1": {
 "content_id": "eng-t222-v1",
@@ -17626,18 +15600,7 @@
 "content_id": "eng-t222-v1-audio",
 "reference_id": 0,
 "index_reference": "image of god",
-"localizations": {
-"fra": {
-"content_id": "fra-t222-v1-audio",
-"language": "fra",
-"title": "image de Dieu"
-},
-"por": {
-"content_id": "por-t222-v1-audio",
-"language": "por",
-"title": "imagem de Deus"
-}
-}
+"localizations": {}
 },
 "eng-t223-v1": {
 "content_id": "eng-t223-v1",
@@ -17695,18 +15658,7 @@
 "content_id": "eng-t223-v1-audio",
 "reference_id": 0,
 "index_reference": "tithe",
-"localizations": {
-"fra": {
-"content_id": "fra-t223-v1-audio",
-"language": "fra",
-"title": "la dîme"
-},
-"por": {
-"content_id": "por-t223-v1-audio",
-"language": "por",
-"title": "dízimo"
-}
-}
+"localizations": {}
 },
 "eng-t224-v1": {
 "content_id": "eng-t224-v1",
@@ -17764,18 +15716,7 @@
 "content_id": "eng-t224-v1-audio",
 "reference_id": 0,
 "index_reference": "justice",
-"localizations": {
-"fra": {
-"content_id": "fra-t224-v1-audio",
-"language": "fra",
-"title": "justice"
-},
-"por": {
-"content_id": "por-t224-v1-audio",
-"language": "por",
-"title": "justiça"
-}
-}
+"localizations": {}
 },
 "eng-t225-v1": {
 "content_id": "eng-t225-v1",
@@ -17833,18 +15774,7 @@
 "content_id": "eng-t225-v1-audio",
 "reference_id": 0,
 "index_reference": "pentecost",
-"localizations": {
-"fra": {
-"content_id": "fra-t225-v1-audio",
-"language": "fra",
-"title": "pentecôte"
-},
-"por": {
-"content_id": "por-t225-v1-audio",
-"language": "por",
-"title": "pentecostes"
-}
-}
+"localizations": {}
 },
 "eng-t226-v2": {
 "content_id": "eng-t226-v2",
@@ -17897,7 +15827,7 @@
 "title": "king"
 },
 "zhs": {
-"content_id": "cmn-t226-v1",
+"content_id": "zhs-t226-v1",
 "language": "zhs",
 "title": "王"
 }
@@ -17912,16 +15842,6 @@
 "content_id": "fra-t226-v1-audio",
 "language": "fra",
 "title": "roi"
-},
-"por": {
-"content_id": "por-t226-v1-audio",
-"language": "por",
-"title": "rei"
-},
-"zhs": {
-"content_id": "cmn-t226-v1-audio",
-"language": "zhs",
-"title": "王"
 }
 }
 },
@@ -17981,18 +15901,7 @@
 "content_id": "eng-t227-v1-audio",
 "reference_id": 0,
 "index_reference": "hebrew",
-"localizations": {
-"fra": {
-"content_id": "fra-t227-v1-audio",
-"language": "fra",
-"title": "Hébreu"
-},
-"por": {
-"content_id": "por-t227-v1-audio",
-"language": "por",
-"title": "Hebreu"
-}
-}
+"localizations": {}
 },
 "eng-t228-v1": {
 "content_id": "eng-t228-v1",
@@ -18050,18 +15959,7 @@
 "content_id": "eng-t228-v1-audio",
 "reference_id": 0,
 "index_reference": "adonai",
-"localizations": {
-"fra": {
-"content_id": "fra-t228-v1-audio",
-"language": "fra",
-"title": "Adonaï"
-},
-"por": {
-"content_id": "por-t228-v1-audio",
-"language": "por",
-"title": "adonai"
-}
-}
+"localizations": {}
 },
 "eng-t230-v1": {
 "content_id": "eng-t230-v1",
@@ -18119,18 +16017,7 @@
 "content_id": "eng-t230-v1-audio",
 "reference_id": 0,
 "index_reference": "cherubim",
-"localizations": {
-"fra": {
-"content_id": "fra-t230-v1-audio",
-"language": "fra",
-"title": "chérubins"
-},
-"por": {
-"content_id": "por-t230-v1-audio",
-"language": "por",
-"title": "querubim"
-}
-}
+"localizations": {}
 },
 "eng-t231-v1": {
 "content_id": "eng-t231-v1",
@@ -18188,18 +16075,7 @@
 "content_id": "eng-t231-v1-audio",
 "reference_id": 0,
 "index_reference": "i am",
-"localizations": {
-"fra": {
-"content_id": "fra-t231-v1-audio",
-"language": "fra",
-"title": "Je suis"
-},
-"por": {
-"content_id": "por-t231-v1-audio",
-"language": "por",
-"title": "Eu sou"
-}
-}
+"localizations": {}
 },
 "eng-t232-v1": {
 "content_id": "eng-t232-v1",
@@ -18257,18 +16133,7 @@
 "content_id": "eng-t232-v1-audio",
 "reference_id": 0,
 "index_reference": "sanctification",
-"localizations": {
-"fra": {
-"content_id": "fra-t232-v1-audio",
-"language": "fra",
-"title": "sanctification"
-},
-"por": {
-"content_id": "por-t232-v1-audio",
-"language": "por",
-"title": "santificação"
-}
-}
+"localizations": {}
 },
 "eng-t233-v1": {
 "content_id": "eng-t233-v1",
@@ -18326,18 +16191,7 @@
 "content_id": "eng-t233-v1-audio",
 "reference_id": 0,
 "index_reference": "festival of tabernacles",
-"localizations": {
-"fra": {
-"content_id": "fra-t233-v1-audio",
-"language": "fra",
-"title": "Fête des tabernacles"
-},
-"por": {
-"content_id": "por-t233-v1-audio",
-"language": "por",
-"title": "Festa dos Tabernáculos"
-}
-}
+"localizations": {}
 },
 "eng-t234-v2": {
 "content_id": "eng-t234-v2",
@@ -18395,18 +16249,7 @@
 "content_id": "eng-t234-v2-audio",
 "reference_id": 0,
 "index_reference": "descendant",
-"localizations": {
-"fra": {
-"content_id": "fra-t234-v1-audio",
-"language": "fra",
-"title": "descendant"
-},
-"por": {
-"content_id": "por-t234-v1-audio",
-"language": "por",
-"title": "descendente"
-}
-}
+"localizations": {}
 },
 "eng-t235-v2": {
 "content_id": "eng-t235-v2",
@@ -18464,18 +16307,7 @@
 "content_id": "eng-t235-v2-audio",
 "reference_id": 0,
 "index_reference": "gods",
-"localizations": {
-"fra": {
-"content_id": "fra-t235-v1-audio",
-"language": "fra",
-"title": "dieux"
-},
-"por": {
-"content_id": "por-t235-v1-audio",
-"language": "por",
-"title": "deuses"
-}
-}
+"localizations": {}
 },
 "eng-t236-v1": {
 "content_id": "eng-t236-v1",
@@ -18528,7 +16360,7 @@
 "title": "amen"
 },
 "zhs": {
-"content_id": "cmn-t236-v1",
+"content_id": "zhs-t236-v1",
 "language": "zhs",
 "title": "阿们"
 }
@@ -18543,16 +16375,6 @@
 "content_id": "fra-t236-v1-audio",
 "language": "fra",
 "title": "amen"
-},
-"por": {
-"content_id": "por-t236-v1-audio",
-"language": "por",
-"title": "amém"
-},
-"zhs": {
-"content_id": "cmn-t236-v1-audio",
-"language": "zhs",
-"title": "阿们"
 }
 }
 },
@@ -18612,18 +16434,7 @@
 "content_id": "eng-t237-v1-audio",
 "reference_id": 0,
 "index_reference": "testimony",
-"localizations": {
-"fra": {
-"content_id": "fra-t237-v1-audio",
-"language": "fra",
-"title": "témoignage"
-},
-"por": {
-"content_id": "por-t237-v1-audio",
-"language": "por",
-"title": "testemunho"
-}
-}
+"localizations": {}
 },
 "eng-t238-v1": {
 "content_id": "eng-t238-v1",
@@ -18681,18 +16492,7 @@
 "content_id": "eng-t238-v1-audio",
 "reference_id": 0,
 "index_reference": "convict",
-"localizations": {
-"fra": {
-"content_id": "fra-t238-v1-audio",
-"language": "fra",
-"title": "Condamner "
-},
-"por": {
-"content_id": "por-t238-v1-audio",
-"language": "por",
-"title": "condenar"
-}
-}
+"localizations": {}
 },
 "eng-t239-v1": {
 "content_id": "eng-t239-v1",
@@ -18750,18 +16550,43 @@
 "content_id": "eng-t239-v1-audio",
 "reference_id": 0,
 "index_reference": "festival of dedication",
-"localizations": {
-"fra": {
-"content_id": "fra-t239-v1-audio",
-"language": "fra",
-"title": "Fête de la Dédicace"
+"localizations": {}
 },
-"por": {
-"content_id": "por-t239-v1-audio",
-"language": "por",
-"title": "Festa da Dedicação"
-}
-}
+"eng-t240-v1": {
+"content_id": "eng-t240-v1",
+"reference_id": 0,
+"index_reference": "promised land",
+"localizations": {}
+},
+"eng-t240-v1-audio": {
+"content_id": "eng-t240-v1-audio",
+"reference_id": 0,
+"index_reference": "promised land",
+"localizations": {}
+},
+"eng-t241-v1": {
+"content_id": "eng-t241-v1",
+"reference_id": 0,
+"index_reference": "statute",
+"localizations": {}
+},
+"eng-t241-v1-audio": {
+"content_id": "eng-t241-v1-audio",
+"reference_id": 0,
+"index_reference": "statute",
+"localizations": {}
+},
+"eng-t242-v1": {
+"content_id": "eng-t242-v1",
+"reference_id": 0,
+"index_reference": "grave",
+"localizations": {}
+},
+"eng-t242-v1-audio": {
+"content_id": "eng-t242-v1-audio",
+"reference_id": 0,
+"index_reference": "grave",
+"localizations": {}
 },
 "eng-t243-v1": {
 "content_id": "eng-t243-v1",
@@ -18819,18 +16644,7 @@
 "content_id": "eng-t243-v1-audio",
 "reference_id": 0,
 "index_reference": "wine",
-"localizations": {
-"fra": {
-"content_id": "fra-t243-v1-audio",
-"language": "fra",
-"title": "vin"
-},
-"por": {
-"content_id": "por-t243-v1-audio",
-"language": "por",
-"title": "vinho"
-}
-}
+"localizations": {}
 },
 "eng-t244-v1": {
 "content_id": "eng-t244-v1",
@@ -18888,18 +16702,7 @@
 "content_id": "eng-t244-v1-audio",
 "reference_id": 0,
 "index_reference": "levite",
-"localizations": {
-"fra": {
-"content_id": "fra-t244-v1-audio",
-"language": "fra",
-"title": "Lévite"
-},
-"por": {
-"content_id": "por-t244-v1-audio",
-"language": "por",
-"title": "Levita"
-}
-}
+"localizations": {}
 },
 "eng-t245-v1": {
 "content_id": "eng-t245-v1",
@@ -18957,18 +16760,7 @@
 "content_id": "eng-t245-v1-audio",
 "reference_id": 0,
 "index_reference": "commandment",
-"localizations": {
-"fra": {
-"content_id": "fra-t245-v1-audio",
-"language": "fra",
-"title": "commandement"
-},
-"por": {
-"content_id": "por-t245-v1-audio",
-"language": "por",
-"title": "mandamento"
-}
-}
+"localizations": {}
 },
 "eng-t246-v1": {
 "content_id": "eng-t246-v1",
@@ -19026,18 +16818,55 @@
 "content_id": "eng-t246-v1-audio",
 "reference_id": 0,
 "index_reference": "high priest",
-"localizations": {
-"fra": {
-"content_id": "fra-t246-v1-audio",
-"language": "fra",
-"title": "souverain sacrificateur"
+"localizations": {}
 },
-"por": {
-"content_id": "por-t246-v1-audio",
-"language": "por",
-"title": "sumo sacerdote"
-}
-}
+"eng-t247-v1": {
+"content_id": "eng-t247-v1",
+"reference_id": 0,
+"index_reference": "prophesy",
+"localizations": {}
+},
+"eng-t247-v1-audio": {
+"content_id": "eng-t247-v1-audio",
+"reference_id": 0,
+"index_reference": "prophesy",
+"localizations": {}
+},
+"eng-t250-v1": {
+"content_id": "eng-t250-v1",
+"reference_id": 0,
+"index_reference": "offeringsin or purification",
+"localizations": {}
+},
+"eng-t250-v1-audio": {
+"content_id": "eng-t250-v1-audio",
+"reference_id": 0,
+"index_reference": "offeringsin or purification",
+"localizations": {}
+},
+"eng-t251-v1": {
+"content_id": "eng-t251-v1",
+"reference_id": 0,
+"index_reference": "ephod",
+"localizations": {}
+},
+"eng-t251-v1-audio": {
+"content_id": "eng-t251-v1-audio",
+"reference_id": 0,
+"index_reference": "ephod",
+"localizations": {}
+},
+"eng-t252-v1": {
+"content_id": "eng-t252-v1",
+"reference_id": 0,
+"index_reference": "bronze",
+"localizations": {}
+},
+"eng-t252-v1-audio": {
+"content_id": "eng-t252-v1-audio",
+"reference_id": 0,
+"index_reference": "bronze",
+"localizations": {}
 },
 "eng-t253-v1": {
 "content_id": "eng-t253-v1",
@@ -19107,18 +16936,43 @@
 "content_id": "eng-t254-v1-audio",
 "reference_id": 0,
 "index_reference": "consecrate",
-"localizations": {
-"fra": {
-"content_id": "fra-t254-v1-audio",
-"language": "fra",
-"title": "Consacrer "
+"localizations": {}
 },
-"por": {
-"content_id": "por-t254-v1-audio",
-"language": "por",
-"title": "consagrar"
-}
-}
+"eng-t255-v1": {
+"content_id": "eng-t255-v1",
+"reference_id": 0,
+"index_reference": "offeringpeace or fellowship",
+"localizations": {}
+},
+"eng-t255-v1-audio": {
+"content_id": "eng-t255-v1-audio",
+"reference_id": 0,
+"index_reference": "offeringpeace or fellowship",
+"localizations": {}
+},
+"eng-t256-v1": {
+"content_id": "eng-t256-v1",
+"reference_id": 0,
+"index_reference": "holy place",
+"localizations": {}
+},
+"eng-t256-v1-audio": {
+"content_id": "eng-t256-v1-audio",
+"reference_id": 0,
+"index_reference": "holy place",
+"localizations": {}
+},
+"eng-t257-v1": {
+"content_id": "eng-t257-v1",
+"reference_id": 0,
+"index_reference": "most holy place",
+"localizations": {}
+},
+"eng-t257-v1-audio": {
+"content_id": "eng-t257-v1-audio",
+"reference_id": 0,
+"index_reference": "most holy place",
+"localizations": {}
 },
 "eng-t258-v1": {
 "content_id": "eng-t258-v1",
@@ -19188,18 +17042,7 @@
 "content_id": "eng-t259-v2-audio",
 "reference_id": 0,
 "index_reference": "israelite",
-"localizations": {
-"fra": {
-"content_id": "fra-t259-v2-audio",
-"language": "fra",
-"title": "Israélite"
-},
-"por": {
-"content_id": "por-t259-v2-audio",
-"language": "por",
-"title": "Israelita"
-}
-}
+"localizations": {}
 },
 "eng-t260-v1": {
 "content_id": "eng-t260-v1",
@@ -19211,6 +17054,30 @@
 "content_id": "eng-t260-v1-audio",
 "reference_id": 0,
 "index_reference": "offeringgrain",
+"localizations": {}
+},
+"eng-t261-v1": {
+"content_id": "eng-t261-v1",
+"reference_id": 0,
+"index_reference": "offeringdrink",
+"localizations": {}
+},
+"eng-t261-v1-audio": {
+"content_id": "eng-t261-v1-audio",
+"reference_id": 0,
+"index_reference": "offeringdrink",
+"localizations": {}
+},
+"eng-t262-v1": {
+"content_id": "eng-t262-v1",
+"reference_id": 0,
+"index_reference": "shekel",
+"localizations": {}
+},
+"eng-t262-v1-audio": {
+"content_id": "eng-t262-v1-audio",
+"reference_id": 0,
+"index_reference": "shekel",
 "localizations": {}
 },
 "eng-t264-v1": {
@@ -19269,18 +17136,31 @@
 "content_id": "eng-t264-v1-audio",
 "reference_id": 0,
 "index_reference": "advocate",
-"localizations": {
-"fra": {
-"content_id": "fra-t264-v1-audio",
-"language": "fra",
-"title": "défenseur "
+"localizations": {}
 },
-"por": {
-"content_id": "por-t264-v1-audio",
-"language": "por",
-"title": "advogado"
-}
-}
+"eng-t265-v1": {
+"content_id": "eng-t265-v1",
+"reference_id": 0,
+"index_reference": "hin",
+"localizations": {}
+},
+"eng-t265-v1-audio": {
+"content_id": "eng-t265-v1-audio",
+"reference_id": 0,
+"index_reference": "hin",
+"localizations": {}
+},
+"eng-t266-v1": {
+"content_id": "eng-t266-v1",
+"reference_id": 0,
+"index_reference": "ephah",
+"localizations": {}
+},
+"eng-t266-v1-audio": {
+"content_id": "eng-t266-v1-audio",
+"reference_id": 0,
+"index_reference": "ephah",
+"localizations": {}
 },
 "eng-t268-v1": {
 "content_id": "eng-t268-v1",
@@ -19294,6 +17174,90 @@
 "index_reference": "festival of trumpets",
 "localizations": {}
 },
+"eng-t269-v1": {
+"content_id": "eng-t269-v1",
+"reference_id": 0,
+"index_reference": "pastor",
+"localizations": {}
+},
+"eng-t269-v1-audio": {
+"content_id": "eng-t269-v1-audio",
+"reference_id": 0,
+"index_reference": "pastor",
+"localizations": {}
+},
+"eng-t270-v1": {
+"content_id": "eng-t270-v1",
+"reference_id": 0,
+"index_reference": "ordinance",
+"localizations": {}
+},
+"eng-t270-v1-audio": {
+"content_id": "eng-t270-v1-audio",
+"reference_id": 0,
+"index_reference": "ordinance",
+"localizations": {}
+},
+"eng-t271-v1": {
+"content_id": "eng-t271-v1",
+"reference_id": 0,
+"index_reference": "overseer",
+"localizations": {}
+},
+"eng-t271-v1-audio": {
+"content_id": "eng-t271-v1-audio",
+"reference_id": 0,
+"index_reference": "overseer",
+"localizations": {}
+},
+"eng-t272-v1": {
+"content_id": "eng-t272-v1",
+"reference_id": 0,
+"index_reference": "spirit",
+"localizations": {}
+},
+"eng-t272-v1-audio": {
+"content_id": "eng-t272-v1-audio",
+"reference_id": 0,
+"index_reference": "spirit",
+"localizations": {}
+},
+"eng-t273-v1": {
+"content_id": "eng-t273-v1",
+"reference_id": 0,
+"index_reference": "wrath",
+"localizations": {}
+},
+"eng-t273-v1-audio": {
+"content_id": "eng-t273-v1-audio",
+"reference_id": 0,
+"index_reference": "wrath",
+"localizations": {}
+},
+"eng-t274-v1": {
+"content_id": "eng-t274-v1",
+"reference_id": 0,
+"index_reference": "offeringfreewill",
+"localizations": {}
+},
+"eng-t274-v1-audio": {
+"content_id": "eng-t274-v1-audio",
+"reference_id": 0,
+"index_reference": "offeringfreewill",
+"localizations": {}
+},
+"eng-t275-v1": {
+"content_id": "eng-t275-v1",
+"reference_id": 0,
+"index_reference": "offeringwave",
+"localizations": {}
+},
+"eng-t275-v1-audio": {
+"content_id": "eng-t275-v1-audio",
+"reference_id": 0,
+"index_reference": "offeringwave",
+"localizations": {}
+},
 "eng-t276-v1": {
 "content_id": "eng-t276-v1",
 "reference_id": 0,
@@ -19304,6 +17268,18 @@
 "content_id": "eng-t276-v1-audio",
 "reference_id": 0,
 "index_reference": "year of jubilee",
+"localizations": {}
+},
+"eng-t277-v1": {
+"content_id": "eng-t277-v1",
+"reference_id": 0,
+"index_reference": "hope",
+"localizations": {}
+},
+"eng-t277-v1-audio": {
+"content_id": "eng-t277-v1-audio",
+"reference_id": 0,
+"index_reference": "hope",
 "localizations": {}
 },
 "eng-t278-v1": {
@@ -19328,6 +17304,18 @@
 "content_id": "eng-t279-v1-audio",
 "reference_id": 0,
 "index_reference": "doctrine",
+"localizations": {}
+},
+"eng-t280-v1": {
+"content_id": "eng-t280-v1",
+"reference_id": 0,
+"index_reference": "pure",
+"localizations": {}
+},
+"eng-t280-v1-audio": {
+"content_id": "eng-t280-v1-audio",
+"reference_id": 0,
+"index_reference": "pure",
 "localizations": {}
 },
 "eng-t281-v1": {
@@ -19386,18 +17374,19 @@
 "content_id": "eng-t281-v1-audio",
 "reference_id": 0,
 "index_reference": "justify",
-"localizations": {
-"fra": {
-"content_id": "fra-t281-v1-audio",
-"language": "fra",
-"title": "justifier"
+"localizations": {}
 },
-"por": {
-"content_id": "por-t281-v1-audio",
-"language": "por",
-"title": "justificar"
-}
-}
+"eng-t282-v1": {
+"content_id": "eng-t282-v1",
+"reference_id": 0,
+"index_reference": "offering",
+"localizations": {}
+},
+"eng-t282-v1-audio": {
+"content_id": "eng-t282-v1-audio",
+"reference_id": 0,
+"index_reference": "offering",
+"localizations": {}
 },
 "eng-t284-v1": {
 "content_id": "eng-t284-v1",
@@ -19423,6 +17412,18 @@
 "index_reference": "baal",
 "localizations": {}
 },
+"eng-t286-v1": {
+"content_id": "eng-t286-v1",
+"reference_id": 0,
+"index_reference": "zeal",
+"localizations": {}
+},
+"eng-t286-v1-audio": {
+"content_id": "eng-t286-v1-audio",
+"reference_id": 0,
+"index_reference": "zeal",
+"localizations": {}
+},
 "eng-t287-v1": {
 "content_id": "eng-t287-v1",
 "reference_id": 0,
@@ -19433,6 +17434,18 @@
 "content_id": "eng-t287-v1-audio",
 "reference_id": 0,
 "index_reference": "festival of weeks",
+"localizations": {}
+},
+"eng-t288-v1": {
+"content_id": "eng-t288-v1",
+"reference_id": 0,
+"index_reference": "steadfast love",
+"localizations": {}
+},
+"eng-t288-v1-audio": {
+"content_id": "eng-t288-v1-audio",
+"reference_id": 0,
+"index_reference": "steadfast love",
 "localizations": {}
 },
 "eng-t289-v2": {
@@ -19491,18 +17504,19 @@
 "content_id": "eng-t289-v2-audio",
 "reference_id": 0,
 "index_reference": "judge",
-"localizations": {
-"fra": {
-"content_id": "fra-t289-v1-audio",
-"language": "fra",
-"title": "juge"
+"localizations": {}
 },
-"por": {
-"content_id": "por-t289-v1-audio",
-"language": "por",
-"title": "juiz"
-}
-}
+"eng-t290-v1": {
+"content_id": "eng-t290-v1",
+"reference_id": 0,
+"index_reference": "stronghold",
+"localizations": {}
+},
+"eng-t290-v1-audio": {
+"content_id": "eng-t290-v1-audio",
+"reference_id": 0,
+"index_reference": "stronghold",
+"localizations": {}
 },
 "eng-t291-v1": {
 "content_id": "eng-t291-v1",
@@ -19514,6 +17528,18 @@
 "content_id": "eng-t291-v1-audio",
 "reference_id": 0,
 "index_reference": "revelation",
+"localizations": {}
+},
+"eng-t292-v1": {
+"content_id": "eng-t292-v1",
+"reference_id": 0,
+"index_reference": "steward",
+"localizations": {}
+},
+"eng-t292-v1-audio": {
+"content_id": "eng-t292-v1-audio",
+"reference_id": 0,
+"index_reference": "steward",
 "localizations": {}
 },
 "eng-t293-v1": {
@@ -19572,18 +17598,79 @@
 "content_id": "eng-t293-v1-audio",
 "reference_id": 0,
 "index_reference": "immorality",
-"localizations": {
-"fra": {
-"content_id": "fra-t293-v1-audio",
-"language": "fra",
-"title": "immoralité"
+"localizations": {}
 },
-"por": {
-"content_id": "por-t293-v1-audio",
-"language": "por",
-"title": "imoralidade"
-}
-}
+"eng-t294-v1": {
+"content_id": "eng-t294-v1",
+"reference_id": 0,
+"index_reference": "reconcile",
+"localizations": {}
+},
+"eng-t294-v1-audio": {
+"content_id": "eng-t294-v1-audio",
+"reference_id": 0,
+"index_reference": "reconcile",
+"localizations": {}
+},
+"eng-t295-v1": {
+"content_id": "eng-t295-v1",
+"reference_id": 0,
+"index_reference": "gift",
+"localizations": {}
+},
+"eng-t295-v1-audio": {
+"content_id": "eng-t295-v1-audio",
+"reference_id": 0,
+"index_reference": "gift",
+"localizations": {}
+},
+"eng-t296-v1": {
+"content_id": "eng-t296-v1",
+"reference_id": 0,
+"index_reference": "godlyungodly",
+"localizations": {}
+},
+"eng-t296-v1-audio": {
+"content_id": "eng-t296-v1-audio",
+"reference_id": 0,
+"index_reference": "godlyungodly",
+"localizations": {}
+},
+"eng-t297-v1": {
+"content_id": "eng-t297-v1",
+"reference_id": 0,
+"index_reference": "lament",
+"localizations": {}
+},
+"eng-t297-v1-audio": {
+"content_id": "eng-t297-v1-audio",
+"reference_id": 0,
+"index_reference": "lament",
+"localizations": {}
+},
+"eng-t298-v1": {
+"content_id": "eng-t298-v1",
+"reference_id": 0,
+"index_reference": "medium",
+"localizations": {}
+},
+"eng-t298-v1-audio": {
+"content_id": "eng-t298-v1-audio",
+"reference_id": 0,
+"index_reference": "medium",
+"localizations": {}
+},
+"eng-t299-v1": {
+"content_id": "eng-t299-v1",
+"reference_id": 0,
+"index_reference": "siege",
+"localizations": {}
+},
+"eng-t299-v1-audio": {
+"content_id": "eng-t299-v1-audio",
+"reference_id": 0,
+"index_reference": "siege",
+"localizations": {}
 },
 "eng-t300-v1": {
 "content_id": "eng-t300-v1",
@@ -19595,6 +17682,30 @@
 "content_id": "eng-t300-v1-audio",
 "reference_id": 0,
 "index_reference": "day of atonement",
+"localizations": {}
+},
+"eng-t301-v1": {
+"content_id": "eng-t301-v1",
+"reference_id": 0,
+"index_reference": "fool",
+"localizations": {}
+},
+"eng-t301-v1-audio": {
+"content_id": "eng-t301-v1-audio",
+"reference_id": 0,
+"index_reference": "fool",
+"localizations": {}
+},
+"eng-t302-v1": {
+"content_id": "eng-t302-v1",
+"reference_id": 0,
+"index_reference": "deacon",
+"localizations": {}
+},
+"eng-t302-v1-audio": {
+"content_id": "eng-t302-v1-audio",
+"reference_id": 0,
+"index_reference": "deacon",
 "localizations": {}
 },
 "eng-t304-v1": {
@@ -19609,6 +17720,42 @@
 "index_reference": "festival of the new moon",
 "localizations": {}
 },
+"eng-t305-v1": {
+"content_id": "eng-t305-v1",
+"reference_id": 0,
+"index_reference": "offeringfirstfruits",
+"localizations": {}
+},
+"eng-t305-v1-audio": {
+"content_id": "eng-t305-v1-audio",
+"reference_id": 0,
+"index_reference": "offeringfirstfruits",
+"localizations": {}
+},
+"eng-t306-v1": {
+"content_id": "eng-t306-v1",
+"reference_id": 0,
+"index_reference": "talent",
+"localizations": {}
+},
+"eng-t306-v1-audio": {
+"content_id": "eng-t306-v1-audio",
+"reference_id": 0,
+"index_reference": "talent",
+"localizations": {}
+},
+"eng-t307-v1": {
+"content_id": "eng-t307-v1",
+"reference_id": 0,
+"index_reference": "yahweh of hosts",
+"localizations": {}
+},
+"eng-t307-v1-audio": {
+"content_id": "eng-t307-v1-audio",
+"reference_id": 0,
+"index_reference": "yahweh of hosts",
+"localizations": {}
+},
 "eng-t308-v1": {
 "content_id": "eng-t308-v1",
 "reference_id": 0,
@@ -19621,6 +17768,18 @@
 "index_reference": "span",
 "localizations": {}
 },
+"eng-t311-v1": {
+"content_id": "eng-t311-v1",
+"reference_id": 0,
+"index_reference": "queen",
+"localizations": {}
+},
+"eng-t311-v1-audio": {
+"content_id": "eng-t311-v1-audio",
+"reference_id": 0,
+"index_reference": "queen",
+"localizations": {}
+},
 "eng-t312-v1": {
 "content_id": "eng-t312-v1",
 "reference_id": 0,
@@ -19631,6 +17790,54 @@
 "content_id": "eng-t312-v1-audio",
 "reference_id": 0,
 "index_reference": "flesh",
+"localizations": {}
+},
+"eng-t313-v1": {
+"content_id": "eng-t313-v1",
+"reference_id": 0,
+"index_reference": "offeringfire",
+"localizations": {}
+},
+"eng-t313-v1-audio": {
+"content_id": "eng-t313-v1-audio",
+"reference_id": 0,
+"index_reference": "offeringfire",
+"localizations": {}
+},
+"eng-t314-v1": {
+"content_id": "eng-t314-v1",
+"reference_id": 0,
+"index_reference": "bread of the presence",
+"localizations": {}
+},
+"eng-t314-v1-audio": {
+"content_id": "eng-t314-v1-audio",
+"reference_id": 0,
+"index_reference": "bread of the presence",
+"localizations": {}
+},
+"eng-t315-v1": {
+"content_id": "eng-t315-v1",
+"reference_id": 0,
+"index_reference": "scroll",
+"localizations": {}
+},
+"eng-t315-v1-audio": {
+"content_id": "eng-t315-v1-audio",
+"reference_id": 0,
+"index_reference": "scroll",
+"localizations": {}
+},
+"eng-t316-v1": {
+"content_id": "eng-t316-v1",
+"reference_id": 0,
+"index_reference": "perfect",
+"localizations": {}
+},
+"eng-t316-v1-audio": {
+"content_id": "eng-t316-v1-audio",
+"reference_id": 0,
+"index_reference": "perfect",
 "localizations": {}
 },
 "eng-t317-v1": {

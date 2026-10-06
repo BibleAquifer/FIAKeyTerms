@@ -271,6 +271,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "Santiago",
 "language": "spa"
+},
+{
+"reference_id": 0,
+"content_id": "spa-t17-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "barco",
+"language": "spa"
 }
 ],
 "acai": [
@@ -300,7 +307,7 @@
 "index_reference": "barco",
 "language": "spa",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/spa/t17/v1/vbr4.mp3'>mp3 file</a> (1257692 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/spa/t17/v1/vbr4.mp3'>mp3 file</a> (1.2 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -412,7 +419,15 @@
 "end_ref_usfm": "JHN 21:14"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "spa-t17-v1",
+"resource_code": "FIAKeyTerms",
+"label": "barco",
+"language": "spa"
+}
+]
 }
 },
 {
@@ -1047,6 +1062,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "iglesia",
 "language": "spa"
+},
+{
+"reference_id": 0,
+"content_id": "spa-t160-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "buenas nuevas",
+"language": "spa"
 }
 ],
 "acai": [
@@ -1069,7 +1091,7 @@
 "index_reference": "buenas nuevas",
 "language": "spa",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/spa/t160/v1/vbr4.mp3'>mp3 file</a> (953444 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/spa/t160/v1/vbr4.mp3'>mp3 file</a> (931 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -1199,7 +1221,15 @@
 "end_ref_usfm": "1TI 1:11"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "spa-t160-v1",
+"resource_code": "FIAKeyTerms",
+"label": "buenas nuevas",
+"language": "spa"
+}
+]
 }
 },
 {

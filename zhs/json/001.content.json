@@ -1,6 +1,6 @@
 [
 {
-"content_id": "cmn-t167-v1",
+"content_id": "zhs-t167-v1",
 "reference_id": 0,
 "version": "1.0.4",
 "title": "阿爸",
@@ -8,7 +8,7 @@
 "index_reference": "阿爸",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><b>阿爸</b>是亚兰文\"父亲\"的意思。 <data class=\"resource-ref\" data-content-id=\"cmn-t74-v1\" data-resource-code=\"FIAKeyTerms\">亚兰文</data>是耶稣时代以色列人所使用的语言。 在被捕并被<data class=\"resource-ref\" data-content-id=\"cmn-t169-v1\" data-resource-code=\"FIAKeyTerms\">钉十字架</data>之前，耶稣向神<data class=\"resource-ref\" data-content-id=\"cmn-t102-v1\" data-resource-code=\"FIAKeyTerms\">祷告</data>时称神为\"阿爸\"。 保罗后来在他的信中写道，<data class=\"resource-ref\" data-content-id=\"cmn-t68-v1\" data-resource-code=\"FIAKeyTerms\">圣灵</data>使我们向神呼求：\"阿爸，父啊！\"这意味著借由圣灵，我们可以与神建立亲密的关系，就像孩子与父亲一样——正如同耶稣与神的关系一般。</p>",
+"content": "<p><b>阿爸</b>是亚兰文\"父亲\"的意思。 <data class=\"resource-ref\" data-content-id=\"zhs-t74-v1\" data-resource-code=\"FIAKeyTerms\">亚兰文</data>是耶稣时代以色列人所使用的语言。 在被捕并被<data class=\"resource-ref\" data-content-id=\"zhs-t169-v1\" data-resource-code=\"FIAKeyTerms\">钉十字架</data>之前，耶稣向神<data class=\"resource-ref\" data-content-id=\"zhs-t102-v1\" data-resource-code=\"FIAKeyTerms\">祷告</data>时称神为\"阿爸\"。 保罗后来在他的信中写道，<data class=\"resource-ref\" data-content-id=\"zhs-t68-v1\" data-resource-code=\"FIAKeyTerms\">圣灵</data>使我们向神呼求：\"阿爸，父啊！\"这意味著借由圣灵，我们可以与神建立亲密的关系，就像孩子与父亲一样——正如同耶稣与神的关系一般。</p>",
 "associations": {
 "passage": [
 {
@@ -27,28 +27,28 @@
 "resource": [
 {
 "reference_id": 0,
-"content_id": "cmn-t74-v1",
+"content_id": "zhs-t74-v1",
 "resource_code": "FIAKeyTerms",
 "label": "亚兰文",
 "language": "zhs"
 },
 {
 "reference_id": 0,
-"content_id": "cmn-t169-v1",
+"content_id": "zhs-t169-v1",
 "resource_code": "FIAKeyTerms",
 "label": "钉十字架",
 "language": "zhs"
 },
 {
 "reference_id": 0,
-"content_id": "cmn-t102-v1",
+"content_id": "zhs-t102-v1",
 "resource_code": "FIAKeyTerms",
 "label": "祷告",
 "language": "zhs"
 },
 {
 "reference_id": 0,
-"content_id": "cmn-t68-v1",
+"content_id": "zhs-t68-v1",
 "resource_code": "FIAKeyTerms",
 "label": "圣灵",
 "language": "zhs"
@@ -58,35 +58,7 @@
 }
 },
 {
-"content_id": "cmn-t167-v1-audio",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "阿爸",
-"media_type": "Audio",
-"index_reference": "阿爸",
-"language": "zhs",
-"review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='None'>mp3 file</a> (None KB)</p>",
-"associations": {
-"passage": [
-{
-"start_ref": "41014032",
-"start_ref_usfm": "MRK 14:32",
-"end_ref": "41014042",
-"end_ref_usfm": "MRK 14:42"
-},
-{
-"start_ref": "48003026",
-"start_ref_usfm": "GAL 3:26",
-"end_ref": "48004007",
-"end_ref_usfm": "GAL 4:7"
-}
-],
-"resource": []
-}
-},
-{
-"content_id": "cmn-t236-v1",
+"content_id": "zhs-t236-v1",
 "reference_id": 0,
 "version": "1.0.4",
 "title": "阿们",
@@ -94,7 +66,7 @@
 "index_reference": "阿们",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><b>阿们</b>是希伯来文。 根据这个字何时被使用，它可以指类似于\"我接受这一点\"、\"但愿这是真的\"、\"的确\"或\"真的\"之类的意思。</p><p>当有人告诉你将会有好事发生时，你可以回应说：\"阿们！\" 这表示你希望并<data class=\"resource-ref\" data-content-id=\"cmn-t11-v1\" data-resource-code=\"FIAKeyTerms\">相信</data>这将会成真。</p><p>当有人向神<data class=\"resource-ref\" data-content-id=\"cmn-t102-v1\" data-resource-code=\"FIAKeyTerms\">祷告</data>时，你可以说\"阿们\"。 这表示你希望并相信那个祷告会得到神的回应。</p><p>耶稣用不同的方式使用阿们这个词。 耶稣经常在教导的开始说\"阿们\"，甚至\"阿们，阿们\"。 当耶稣说\"阿们\"时，祂的意思是：\"仔细聆听我接下来要说的话，因为这是真实且非常重要的事。\"</p>",
+"content": "<p><b>阿们</b>是希伯来文。 根据这个字何时被使用，它可以指类似于\"我接受这一点\"、\"但愿这是真的\"、\"的确\"或\"真的\"之类的意思。</p><p>当有人告诉你将会有好事发生时，你可以回应说：\"阿们！\" 这表示你希望并<data class=\"resource-ref\" data-content-id=\"zhs-t11-v1\" data-resource-code=\"FIAKeyTerms\">相信</data>这将会成真。</p><p>当有人向神<data class=\"resource-ref\" data-content-id=\"zhs-t102-v1\" data-resource-code=\"FIAKeyTerms\">祷告</data>时，你可以说\"阿们\"。 这表示你希望并相信那个祷告会得到神的回应。</p><p>耶稣用不同的方式使用阿们这个词。 耶稣经常在教导的开始说\"阿们\"，甚至\"阿们，阿们\"。 当耶稣说\"阿们\"时，祂的意思是：\"仔细聆听我接下来要说的话，因为这是真实且非常重要的事。\"</p>",
 "associations": {
 "passage": [
 {
@@ -191,126 +163,20 @@
 "resource": [
 {
 "reference_id": 0,
-"content_id": "cmn-t11-v1",
+"content_id": "zhs-t11-v1",
 "resource_code": "FIAKeyTerms",
 "label": "相信",
 "language": "zhs"
 },
 {
 "reference_id": 0,
-"content_id": "cmn-t102-v1",
+"content_id": "zhs-t102-v1",
 "resource_code": "FIAKeyTerms",
 "label": "祷告",
 "language": "zhs"
 }
 ],
 "acai": []
-}
-},
-{
-"content_id": "cmn-t236-v1-audio",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "阿们",
-"media_type": "Audio",
-"index_reference": "阿们",
-"language": "zhs",
-"review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='None'>mp3 file</a> (None KB)</p>",
-"associations": {
-"passage": [
-{
-"start_ref": "04005011",
-"start_ref_usfm": "NUM 5:11",
-"end_ref": "04005031",
-"end_ref_usfm": "NUM 5:31"
-},
-{
-"start_ref": "11001028",
-"start_ref_usfm": "1KI 1:28",
-"end_ref": "11001037",
-"end_ref_usfm": "1KI 1:37"
-},
-{
-"start_ref": "13016034",
-"start_ref_usfm": "1CH 16:34",
-"end_ref": "13016036",
-"end_ref_usfm": "1CH 16:36"
-},
-{
-"start_ref": "16005001",
-"start_ref_usfm": "NEH 5:1",
-"end_ref": "16005013",
-"end_ref_usfm": "NEH 5:13"
-},
-{
-"start_ref": "16008001",
-"start_ref_usfm": "NEH 8:1",
-"end_ref": "16008008",
-"end_ref_usfm": "NEH 8:8"
-},
-{
-"start_ref": "41016009",
-"start_ref_usfm": "MRK 16:9",
-"end_ref": "41016020",
-"end_ref_usfm": "MRK 16:20"
-},
-{
-"start_ref": "46014006",
-"start_ref_usfm": "1CO 14:6",
-"end_ref": "46014019",
-"end_ref_usfm": "1CO 14:19"
-},
-{
-"start_ref": "47001012",
-"start_ref_usfm": "2CO 1:12",
-"end_ref": "47001022",
-"end_ref_usfm": "2CO 1:22"
-},
-{
-"start_ref": "48001001",
-"start_ref_usfm": "GAL 1:1",
-"end_ref": "48001005",
-"end_ref_usfm": "GAL 1:5"
-},
-{
-"start_ref": "48006011",
-"start_ref_usfm": "GAL 6:11",
-"end_ref": "48006018",
-"end_ref_usfm": "GAL 6:18"
-},
-{
-"start_ref": "49003014",
-"start_ref_usfm": "EPH 3:14",
-"end_ref": "49003021",
-"end_ref_usfm": "EPH 3:21"
-},
-{
-"start_ref": "50004010",
-"start_ref_usfm": "PHP 4:10",
-"end_ref": "50004023",
-"end_ref_usfm": "PHP 4:23"
-},
-{
-"start_ref": "54006011",
-"start_ref_usfm": "1TI 6:11",
-"end_ref": "54006016",
-"end_ref_usfm": "1TI 6:16"
-},
-{
-"start_ref": "55004009",
-"start_ref_usfm": "2TI 4:9",
-"end_ref": "55004022",
-"end_ref_usfm": "2TI 4:22"
-},
-{
-"start_ref": "65001024",
-"start_ref_usfm": "JUD 1:24",
-"end_ref": "65001025",
-"end_ref_usfm": "JUD 1:25"
-}
-],
-"resource": []
 }
 }
 ]

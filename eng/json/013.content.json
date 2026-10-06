@@ -95,6 +95,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "believers",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t217-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "magician",
+"language": "eng"
 }
 ],
 "acai": []
@@ -109,7 +116,7 @@
 "index_reference": "magician",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t217/v1/vbr4.mp3'>mp3 file</a> (786500 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t217/v1/vbr4.mp3'>mp3 file</a> (768 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -161,7 +168,15 @@
 "end_ref_usfm": "ACT 13:12"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t217-v1",
+"resource_code": "FIAKeyTerms",
+"label": "magician",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -301,6 +316,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "resurrection",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t89-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "Mary",
+"language": "eng"
 }
 ],
 "acai": [
@@ -323,7 +345,7 @@
 "index_reference": "mary",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t89/v1/vbr4.mp3'>mp3 file</a> (2017460 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t89/v1/vbr4.mp3'>mp3 file</a> (1.9 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -339,7 +361,15 @@
 "end_ref_usfm": "LUK 1:56"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t89-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Mary",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -567,6 +597,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "household",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t90-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "master",
+"language": "eng"
 }
 ],
 "acai": []
@@ -581,7 +618,7 @@
 "index_reference": "master",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t90/v1/vbr4.mp3'>mp3 file</a> (436508 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t90/v1/vbr4.mp3'>mp3 file</a> (426 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -783,7 +820,124 @@
 "end_ref_usfm": "JUD 1:7"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t90-v1",
+"resource_code": "FIAKeyTerms",
+"label": "master",
+"language": "eng"
+}
+]
+}
+},
+{
+"content_id": "eng-t298-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "medium",
+"media_type": "Text",
+"index_reference": "medium",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A <b>medium</b> is a person who, people believed, could call up the spirit of a dead person from the place where the spirits of dead people live. A medium does a kind of \"divination,\" which is when people try to communicate with spirits or gods. People thought that the spirit of the dead person would take control of the medium's body and speak through the medium. People thought that the dead spirits could do things like give information, influence the future, cure diseases, or help send away evil spirits. However, people should not rely on dead spirits to help them. Instead, people should rely on the Creator God, who created everything, including people's spirits! God commanded his people, through the law that God gave through Moses, to not have anything to do with mediums.</p><p>Authors in the Bible use several different words for people who practice divination, including \"witches,\" \"necromancers,\" \"wizards,\" or \"spiritists.\" We are not sure what each of these words means or how each of these people was different from the others. Some passages in the Bible list several of these people. If you have several words for people who practice magic and divination, you may use them. But if you only have one or two words, you may say something like \"mediums and others like them who practice divination.\"</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03019031",
+"start_ref_usfm": "LEV 19:31",
+"end_ref": "03019037",
+"end_ref_usfm": "LEV 19:37"
+},
+{
+"start_ref": "03020001",
+"start_ref_usfm": "LEV 20:1",
+"end_ref": "03020009",
+"end_ref_usfm": "LEV 20:9"
+},
+{
+"start_ref": "03020022",
+"start_ref_usfm": "LEV 20:22",
+"end_ref": "03020027",
+"end_ref_usfm": "LEV 20:27"
+},
+{
+"start_ref": "09028003",
+"start_ref_usfm": "1SA 28:3",
+"end_ref": "09028014",
+"end_ref_usfm": "1SA 28:14"
+},
+{
+"start_ref": "14033001",
+"start_ref_usfm": "2CH 33:1",
+"end_ref": "14033009",
+"end_ref_usfm": "2CH 33:9"
+}
+],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t298-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "medium",
+"language": "eng"
+}
+],
+"acai": []
+}
+},
+{
+"content_id": "eng-t298-v1-audio",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "medium",
+"media_type": "Audio",
+"index_reference": "medium",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t298/v1/vbr4.mp3'>mp3 file</a> (841 KB)</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03019031",
+"start_ref_usfm": "LEV 19:31",
+"end_ref": "03019037",
+"end_ref_usfm": "LEV 19:37"
+},
+{
+"start_ref": "03020001",
+"start_ref_usfm": "LEV 20:1",
+"end_ref": "03020009",
+"end_ref_usfm": "LEV 20:9"
+},
+{
+"start_ref": "03020022",
+"start_ref_usfm": "LEV 20:22",
+"end_ref": "03020027",
+"end_ref_usfm": "LEV 20:27"
+},
+{
+"start_ref": "09028003",
+"start_ref_usfm": "1SA 28:3",
+"end_ref": "09028014",
+"end_ref_usfm": "1SA 28:14"
+},
+{
+"start_ref": "14033001",
+"start_ref_usfm": "2CH 33:1",
+"end_ref": "14033009",
+"end_ref_usfm": "2CH 33:9"
+}
+],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t298-v1",
+"resource_code": "FIAKeyTerms",
+"label": "medium",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -1145,6 +1299,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "sins",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t91-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "mercy",
+"language": "eng"
 }
 ],
 "acai": [
@@ -1167,7 +1328,7 @@
 "index_reference": "mercy",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t91/v1/vbr4.mp3'>mp3 file</a> (1251836 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t91/v1/vbr4.mp3'>mp3 file</a> (1.2 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -1489,7 +1650,15 @@
 "end_ref_usfm": "JUD 1:23"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t91-v1",
+"resource_code": "FIAKeyTerms",
+"label": "mercy",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -1956,6 +2125,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "sin",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t92-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "Messiah",
+"language": "eng"
 }
 ],
 "acai": [
@@ -1978,7 +2154,7 @@
 "index_reference": "messiah",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t92/v1/vbr4.mp3'>mp3 file</a> (2451548 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t92/v1/vbr4.mp3'>mp3 file</a> (2.3 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -2300,7 +2476,15 @@
 "end_ref_usfm": "EPH 5:21"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t92-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Messiah",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -2442,6 +2626,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "Spirit",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t151-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "mind",
+"language": "eng"
 }
 ],
 "acai": [
@@ -2471,7 +2662,7 @@
 "index_reference": "mind",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t151/v1/vbr4.mp3'>mp3 file</a> (1127900 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t151/v1/vbr4.mp3'>mp3 file</a> (1.1 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -2559,7 +2750,15 @@
 "end_ref_usfm": "1TI 6:10"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t151-v1",
+"resource_code": "FIAKeyTerms",
+"label": "mind",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -2886,6 +3085,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "believe",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t93-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "miracles",
+"language": "eng"
 }
 ],
 "acai": []
@@ -2900,7 +3106,7 @@
 "index_reference": "miracles",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t93/v1/vbr4.mp3'>mp3 file</a> (1365141 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t93/v1/vbr4.mp3'>mp3 file</a> (1.3 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -3180,7 +3386,303 @@
 "end_ref_usfm": "2TH 2:12"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t93-v1",
+"resource_code": "FIAKeyTerms",
+"label": "miracles",
+"language": "eng"
+}
+]
+}
+},
+{
+"content_id": "eng-t257-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "most holy place",
+"media_type": "Text",
+"index_reference": "most holy place",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The <b>Most Holy Place</b> was a smaller room behind the <data class=\"resource-ref\" data-content-id=\"eng-t256-v1\" data-resource-code=\"FIAKeyTerms\">Holy Place</data> of the <data class=\"resource-ref\" data-content-id=\"eng-t184-v1\" data-resource-code=\"FIAKeyTerms\">tabernacle</data>, and later, inside the <data class=\"resource-ref\" data-content-id=\"eng-t138-v1\" data-resource-code=\"FIAKeyTerms\">temple</data> of <data class=\"resource-ref\" data-content-id=\"eng-t174-v1\" data-resource-code=\"FIAKeyTerms\">Yahweh</data>. A curtain or veil separated the Most Holy Place from the Holy Place. Yahweh told the <data class=\"resource-ref\" data-content-id=\"eng-t259-v2\" data-resource-code=\"FIAKeyTerms\">Israelites</data> to put the <data class=\"resource-ref\" data-content-id=\"eng-t7-v1\" data-resource-code=\"FIAKeyTerms\">ark of the covenant</data> inside the Most Holy Place. The Most Holy Place was most holy because only one person, the high priest, could go in. And the high priest could only go in once a year, on the <data class=\"resource-ref\" data-content-id=\"eng-t300-v1\" data-resource-code=\"FIAKeyTerms\">Day of Atonement</data>. The high priest had to go through a long purification ritual before he could go into the Most Holy Place. The Most Holy Place symbolized God's presence as God lived with the people of Israel. Because God is perfect, unique, and completely <data class=\"resource-ref\" data-content-id=\"eng-t280-v1\" data-resource-code=\"FIAKeyTerms\">pure</data>, human beings must be very careful when they come into God's presence.</p><p>Throughout the Bible, storytellers sometimes use creative names for the Most Holy Place. People might call it the Holy of Holies, the Inner Sanctuary, the Inner Room, the Place Behind the Veil, the Place of the Ark, the Place Where Yahweh Lives, or simply, the Most Holy.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02026031",
+"start_ref_usfm": "EXO 26:31",
+"end_ref": "02026037",
+"end_ref_usfm": "EXO 26:37"
+},
+{
+"start_ref": "02030001",
+"start_ref_usfm": "EXO 30:1",
+"end_ref": "02030010",
+"end_ref_usfm": "EXO 30:10"
+},
+{
+"start_ref": "02040016",
+"start_ref_usfm": "EXO 40:16",
+"end_ref": "02040033",
+"end_ref_usfm": "EXO 40:33"
+},
+{
+"start_ref": "03016001",
+"start_ref_usfm": "LEV 16:1",
+"end_ref": "03016005",
+"end_ref_usfm": "LEV 16:5"
+},
+{
+"start_ref": "03016015",
+"start_ref_usfm": "LEV 16:15",
+"end_ref": "03016022",
+"end_ref_usfm": "LEV 16:22"
+},
+{
+"start_ref": "03016023",
+"start_ref_usfm": "LEV 16:23",
+"end_ref": "03016028",
+"end_ref_usfm": "LEV 16:28"
+},
+{
+"start_ref": "03016029",
+"start_ref_usfm": "LEV 16:29",
+"end_ref": "03016034",
+"end_ref_usfm": "LEV 16:34"
+},
+{
+"start_ref": "11006014",
+"start_ref_usfm": "1KI 6:14",
+"end_ref": "11006038",
+"end_ref_usfm": "1KI 6:38"
+},
+{
+"start_ref": "11007040",
+"start_ref_usfm": "1KI 7:40",
+"end_ref": "11007051",
+"end_ref_usfm": "1KI 7:51"
+},
+{
+"start_ref": "11008001",
+"start_ref_usfm": "1KI 8:1",
+"end_ref": "11008011",
+"end_ref_usfm": "1KI 8:11"
+},
+{
+"start_ref": "13006049",
+"start_ref_usfm": "1CH 6:49",
+"end_ref": "13006053",
+"end_ref_usfm": "1CH 6:53"
+},
+{
+"start_ref": "14003001",
+"start_ref_usfm": "2CH 3:1",
+"end_ref": "14003014",
+"end_ref_usfm": "2CH 3:14"
+},
+{
+"start_ref": "14004011",
+"start_ref_usfm": "2CH 4:11",
+"end_ref": "14005001",
+"end_ref_usfm": "2CH 5:1"
+},
+{
+"start_ref": "14005002",
+"start_ref_usfm": "2CH 5:2",
+"end_ref": "14005014",
+"end_ref_usfm": "2CH 5:14"
+}
+],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t256-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Holy Place",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t184-v1",
+"resource_code": "FIAKeyTerms",
+"label": "tabernacle",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t138-v1",
+"resource_code": "FIAKeyTerms",
+"label": "temple",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t174-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Yahweh",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t259-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israelites",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t7-v1",
+"resource_code": "FIAKeyTerms",
+"label": "ark of the covenant",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t300-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Day of Atonement",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t280-v1",
+"resource_code": "FIAKeyTerms",
+"label": "pure",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t257-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "most holy place",
+"language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:MostHolyPlace",
+"type": "place",
+"confidence": 0.6209,
+"match_method": "scored",
+"preferred_label": "Most Holy Place"
+},
+{
+"id": "place:MostHolyPlace.1",
+"type": "place",
+"confidence": 0.6,
+"match_method": "scored",
+"preferred_label": "Most Holy Place"
+}
+]
+}
+},
+{
+"content_id": "eng-t257-v1-audio",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "most holy place",
+"media_type": "Audio",
+"index_reference": "most holy place",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t257/v1/vbr4.mp3'>mp3 file</a> (932 KB)</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02026031",
+"start_ref_usfm": "EXO 26:31",
+"end_ref": "02026037",
+"end_ref_usfm": "EXO 26:37"
+},
+{
+"start_ref": "02030001",
+"start_ref_usfm": "EXO 30:1",
+"end_ref": "02030010",
+"end_ref_usfm": "EXO 30:10"
+},
+{
+"start_ref": "02040016",
+"start_ref_usfm": "EXO 40:16",
+"end_ref": "02040033",
+"end_ref_usfm": "EXO 40:33"
+},
+{
+"start_ref": "03016001",
+"start_ref_usfm": "LEV 16:1",
+"end_ref": "03016005",
+"end_ref_usfm": "LEV 16:5"
+},
+{
+"start_ref": "03016015",
+"start_ref_usfm": "LEV 16:15",
+"end_ref": "03016022",
+"end_ref_usfm": "LEV 16:22"
+},
+{
+"start_ref": "03016023",
+"start_ref_usfm": "LEV 16:23",
+"end_ref": "03016028",
+"end_ref_usfm": "LEV 16:28"
+},
+{
+"start_ref": "03016029",
+"start_ref_usfm": "LEV 16:29",
+"end_ref": "03016034",
+"end_ref_usfm": "LEV 16:34"
+},
+{
+"start_ref": "11006014",
+"start_ref_usfm": "1KI 6:14",
+"end_ref": "11006038",
+"end_ref_usfm": "1KI 6:38"
+},
+{
+"start_ref": "11007040",
+"start_ref_usfm": "1KI 7:40",
+"end_ref": "11007051",
+"end_ref_usfm": "1KI 7:51"
+},
+{
+"start_ref": "11008001",
+"start_ref_usfm": "1KI 8:1",
+"end_ref": "11008011",
+"end_ref_usfm": "1KI 8:11"
+},
+{
+"start_ref": "13006049",
+"start_ref_usfm": "1CH 6:49",
+"end_ref": "13006053",
+"end_ref_usfm": "1CH 6:53"
+},
+{
+"start_ref": "14003001",
+"start_ref_usfm": "2CH 3:1",
+"end_ref": "14003014",
+"end_ref_usfm": "2CH 3:14"
+},
+{
+"start_ref": "14004011",
+"start_ref_usfm": "2CH 4:11",
+"end_ref": "14005001",
+"end_ref_usfm": "2CH 5:1"
+},
+{
+"start_ref": "14005002",
+"start_ref_usfm": "2CH 5:2",
+"end_ref": "14005014",
+"end_ref_usfm": "2CH 5:14"
+}
+],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t257-v1",
+"resource_code": "FIAKeyTerms",
+"label": "most holy place",
+"language": "eng"
+}
+]
 }
 }
 ]

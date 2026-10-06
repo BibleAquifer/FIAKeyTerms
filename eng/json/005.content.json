@@ -621,6 +621,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "apostles",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t43-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "elder",
+"language": "eng"
 }
 ],
 "acai": []
@@ -635,7 +642,7 @@
 "index_reference": "elder",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t43/v1/vbr4.mp3'>mp3 file</a> (657501 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t43/v1/vbr4.mp3'>mp3 file</a> (642 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -1227,7 +1234,15 @@
 "end_ref_usfm": "3JN 1:8"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t43-v1",
+"resource_code": "FIAKeyTerms",
+"label": "elder",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -1275,6 +1290,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "authority",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t209-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "el-elyon",
+"language": "eng"
 }
 ],
 "acai": []
@@ -1289,7 +1311,7 @@
 "index_reference": "elelyon",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t209/v1/vbr4.mp3'>mp3 file</a> (560276 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t209/v1/vbr4.mp3'>mp3 file</a> (547 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -1311,7 +1333,15 @@
 "end_ref_usfm": "2SA 22:20"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t209-v1",
+"resource_code": "FIAKeyTerms",
+"label": "el-elyon",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -1495,6 +1525,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "John the baptizer",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t44-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "Elijah",
+"language": "eng"
 }
 ],
 "acai": [
@@ -1517,7 +1554,7 @@
 "index_reference": "elijah",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t44/v1/vbr4.mp3'>mp3 file</a> (2142141 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t44/v1/vbr4.mp3'>mp3 file</a> (2.0 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -1605,7 +1642,15 @@
 "end_ref_usfm": "MRK 15:39"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t44-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Elijah",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -1737,6 +1782,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "Savior",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t45-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "Elizabeth",
+"language": "eng"
 }
 ],
 "acai": [
@@ -1759,7 +1811,7 @@
 "index_reference": "elizabeth",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t45/v1/vbr4.mp3'>mp3 file</a> (1048437 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t45/v1/vbr4.mp3'>mp3 file</a> (1024 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -1781,7 +1833,15 @@
 "end_ref_usfm": "LUK 1:80"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t45-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Elizabeth",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -1810,6 +1870,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "desert",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t210-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "el-roi",
+"language": "eng"
 }
 ],
 "acai": []
@@ -1824,7 +1891,7 @@
 "index_reference": "elroi",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t210/v1/vbr4.mp3'>mp3 file</a> (398564 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t210/v1/vbr4.mp3'>mp3 file</a> (389 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -1834,7 +1901,15 @@
 "end_ref_usfm": "GEN 16:16"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t210-v1",
+"resource_code": "FIAKeyTerms",
+"label": "el-roi",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -1911,6 +1986,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "God",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t207-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "el-shaddai",
+"language": "eng"
 }
 ],
 "acai": []
@@ -1925,7 +2007,7 @@
 "index_reference": "elshaddai",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t207/v1/vbr4.mp3'>mp3 file</a> (489068 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t207/v1/vbr4.mp3'>mp3 file</a> (478 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -1983,7 +2065,748 @@
 "end_ref_usfm": "NUM 24:19"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t207-v1",
+"resource_code": "FIAKeyTerms",
+"label": "el-shaddai",
+"language": "eng"
+}
+]
+}
+},
+{
+"content_id": "eng-t266-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "ephah",
+"media_type": "Text",
+"index_reference": "ephah",
+"language": "eng",
+"review_level": "None",
+"content": "<p>An <b>ephah</b> measures dry grain, such as wheat or barley, or flour that people make from those grains. An ephah can also be a container that holds that amount of grain or flour. Because an ephah measures volume, an ephah's weight varies depending on the contents. People think one ephah could have weighed anywhere from 13 to 30 kilograms. One ephah equals ten omers. An omer is another unit of dry measurement for grain or flour. One omer provides approximately enough flour to make one regular loaf of bread. So one ephah would have provided enough flour to make approximately 10 loaves of bread.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02029038",
+"start_ref_usfm": "EXO 29:38",
+"end_ref": "02029046",
+"end_ref_usfm": "EXO 29:46"
+},
+{
+"start_ref": "03005001",
+"start_ref_usfm": "LEV 5:1",
+"end_ref": "03005013",
+"end_ref_usfm": "LEV 5:13"
+},
+{
+"start_ref": "03006019",
+"start_ref_usfm": "LEV 6:19",
+"end_ref": "03006023",
+"end_ref_usfm": "LEV 6:23"
+},
+{
+"start_ref": "03014010",
+"start_ref_usfm": "LEV 14:10",
+"end_ref": "03014020",
+"end_ref_usfm": "LEV 14:20"
+},
+{
+"start_ref": "03014021",
+"start_ref_usfm": "LEV 14:21",
+"end_ref": "03014032",
+"end_ref_usfm": "LEV 14:32"
+},
+{
+"start_ref": "03019031",
+"start_ref_usfm": "LEV 19:31",
+"end_ref": "03019037",
+"end_ref_usfm": "LEV 19:37"
+},
+{
+"start_ref": "03023009",
+"start_ref_usfm": "LEV 23:9",
+"end_ref": "03023014",
+"end_ref_usfm": "LEV 23:14"
+},
+{
+"start_ref": "03023015",
+"start_ref_usfm": "LEV 23:15",
+"end_ref": "03023022",
+"end_ref_usfm": "LEV 23:22"
+},
+{
+"start_ref": "03024001",
+"start_ref_usfm": "LEV 24:1",
+"end_ref": "03024009",
+"end_ref_usfm": "LEV 24:9"
+},
+{
+"start_ref": "04005011",
+"start_ref_usfm": "NUM 5:11",
+"end_ref": "04005031",
+"end_ref_usfm": "NUM 5:31"
+},
+{
+"start_ref": "04015001",
+"start_ref_usfm": "NUM 15:1",
+"end_ref": "04015016",
+"end_ref_usfm": "NUM 15:16"
+},
+{
+"start_ref": "04028001",
+"start_ref_usfm": "NUM 28:1",
+"end_ref": "04028010",
+"end_ref_usfm": "NUM 28:10"
+},
+{
+"start_ref": "04028011",
+"start_ref_usfm": "NUM 28:11",
+"end_ref": "04028015",
+"end_ref_usfm": "NUM 28:15"
+},
+{
+"start_ref": "04028016",
+"start_ref_usfm": "NUM 28:16",
+"end_ref": "04028025",
+"end_ref_usfm": "NUM 28:25"
+},
+{
+"start_ref": "04028026",
+"start_ref_usfm": "NUM 28:26",
+"end_ref": "04028031",
+"end_ref_usfm": "NUM 28:31"
+},
+{
+"start_ref": "04029001",
+"start_ref_usfm": "NUM 29:1",
+"end_ref": "04029006",
+"end_ref_usfm": "NUM 29:6"
+},
+{
+"start_ref": "04029007",
+"start_ref_usfm": "NUM 29:7",
+"end_ref": "04029011",
+"end_ref_usfm": "NUM 29:11"
+},
+{
+"start_ref": "07006011",
+"start_ref_usfm": "JDG 6:11",
+"end_ref": "07006027",
+"end_ref_usfm": "JDG 6:27"
+},
+{
+"start_ref": "09001019",
+"start_ref_usfm": "1SA 1:19",
+"end_ref": "09001028",
+"end_ref_usfm": "1SA 1:28"
+},
+{
+"start_ref": "09017012",
+"start_ref_usfm": "1SA 17:12",
+"end_ref": "09017019",
+"end_ref_usfm": "1SA 17:19"
+},
+{
+"start_ref": "14023001",
+"start_ref_usfm": "2CH 23:1",
+"end_ref": "14023015",
+"end_ref_usfm": "2CH 23:15"
+}
+],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t266-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "ephah",
+"language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Ephah",
+"type": "person",
+"confidence": 0.8952,
+"match_method": "embedding",
+"preferred_label": "Ephah"
+},
+{
+"id": "person:Ephah.2",
+"type": "person",
+"confidence": 0.8952,
+"match_method": "embedding",
+"preferred_label": "Ephah"
+},
+{
+"id": "person:Ephah.3",
+"type": "person",
+"confidence": 0.8952,
+"match_method": "embedding",
+"preferred_label": "Ephah"
+},
+{
+"id": "place:Ephah",
+"type": "place",
+"confidence": 0.8952,
+"match_method": "embedding",
+"preferred_label": "Ephah"
+},
+{
+"id": "realia:Ephah",
+"type": "realia",
+"confidence": 0.8952,
+"match_method": "embedding",
+"preferred_label": "Ephah"
+}
+]
+}
+},
+{
+"content_id": "eng-t266-v1-audio",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "ephah",
+"media_type": "Audio",
+"index_reference": "ephah",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t266/v1/vbr4.mp3'>mp3 file</a> (487 KB)</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02029038",
+"start_ref_usfm": "EXO 29:38",
+"end_ref": "02029046",
+"end_ref_usfm": "EXO 29:46"
+},
+{
+"start_ref": "03005001",
+"start_ref_usfm": "LEV 5:1",
+"end_ref": "03005013",
+"end_ref_usfm": "LEV 5:13"
+},
+{
+"start_ref": "03006019",
+"start_ref_usfm": "LEV 6:19",
+"end_ref": "03006023",
+"end_ref_usfm": "LEV 6:23"
+},
+{
+"start_ref": "03014010",
+"start_ref_usfm": "LEV 14:10",
+"end_ref": "03014020",
+"end_ref_usfm": "LEV 14:20"
+},
+{
+"start_ref": "03014021",
+"start_ref_usfm": "LEV 14:21",
+"end_ref": "03014032",
+"end_ref_usfm": "LEV 14:32"
+},
+{
+"start_ref": "03019031",
+"start_ref_usfm": "LEV 19:31",
+"end_ref": "03019037",
+"end_ref_usfm": "LEV 19:37"
+},
+{
+"start_ref": "03023009",
+"start_ref_usfm": "LEV 23:9",
+"end_ref": "03023014",
+"end_ref_usfm": "LEV 23:14"
+},
+{
+"start_ref": "03023015",
+"start_ref_usfm": "LEV 23:15",
+"end_ref": "03023022",
+"end_ref_usfm": "LEV 23:22"
+},
+{
+"start_ref": "03024001",
+"start_ref_usfm": "LEV 24:1",
+"end_ref": "03024009",
+"end_ref_usfm": "LEV 24:9"
+},
+{
+"start_ref": "04005011",
+"start_ref_usfm": "NUM 5:11",
+"end_ref": "04005031",
+"end_ref_usfm": "NUM 5:31"
+},
+{
+"start_ref": "04015001",
+"start_ref_usfm": "NUM 15:1",
+"end_ref": "04015016",
+"end_ref_usfm": "NUM 15:16"
+},
+{
+"start_ref": "04028001",
+"start_ref_usfm": "NUM 28:1",
+"end_ref": "04028010",
+"end_ref_usfm": "NUM 28:10"
+},
+{
+"start_ref": "04028011",
+"start_ref_usfm": "NUM 28:11",
+"end_ref": "04028015",
+"end_ref_usfm": "NUM 28:15"
+},
+{
+"start_ref": "04028016",
+"start_ref_usfm": "NUM 28:16",
+"end_ref": "04028025",
+"end_ref_usfm": "NUM 28:25"
+},
+{
+"start_ref": "04028026",
+"start_ref_usfm": "NUM 28:26",
+"end_ref": "04028031",
+"end_ref_usfm": "NUM 28:31"
+},
+{
+"start_ref": "04029001",
+"start_ref_usfm": "NUM 29:1",
+"end_ref": "04029006",
+"end_ref_usfm": "NUM 29:6"
+},
+{
+"start_ref": "04029007",
+"start_ref_usfm": "NUM 29:7",
+"end_ref": "04029011",
+"end_ref_usfm": "NUM 29:11"
+},
+{
+"start_ref": "07006011",
+"start_ref_usfm": "JDG 6:11",
+"end_ref": "07006027",
+"end_ref_usfm": "JDG 6:27"
+},
+{
+"start_ref": "09001019",
+"start_ref_usfm": "1SA 1:19",
+"end_ref": "09001028",
+"end_ref_usfm": "1SA 1:28"
+},
+{
+"start_ref": "09017012",
+"start_ref_usfm": "1SA 17:12",
+"end_ref": "09017019",
+"end_ref_usfm": "1SA 17:19"
+},
+{
+"start_ref": "14023001",
+"start_ref_usfm": "2CH 23:1",
+"end_ref": "14023015",
+"end_ref_usfm": "2CH 23:15"
+}
+],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t266-v1",
+"resource_code": "FIAKeyTerms",
+"label": "ephah",
+"language": "eng"
+}
+]
+}
+},
+{
+"content_id": "eng-t251-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "ephod",
+"media_type": "Text",
+"index_reference": "ephod",
+"language": "eng",
+"review_level": "None",
+"content": "<p>An <b>ephod</b> was a garment that <data class=\"resource-ref\" data-content-id=\"eng-t103-v1\" data-resource-code=\"FIAKeyTerms\">priests</data> wore, though other people sometimes wore an ephod too. People wore the ephod over a <data class=\"resource-ref\" data-content-id=\"eng-t180-v2\" data-resource-code=\"FIAKeyTerms\">tunic</data> or <data class=\"resource-ref\" data-content-id=\"eng-t112-v1\" data-resource-code=\"FIAKeyTerms\">robe</data>. An ephod had two main pieces: one piece in front and one piece in back. Shoulder straps connected the two pieces together. A person used a belt to secure the ephod at the waist, so we know the ephod hung down at least to the person's hips, but it might have been even longer.</p><p>An ephod could be plain or very fancy. Ordinary people probably wore a simple ephod. But the Creator God, whose name is <data class=\"resource-ref\" data-content-id=\"eng-t174-v1\" data-resource-code=\"FIAKeyTerms\">Yahweh</data>, told Moses to make a very special ephod for the <data class=\"resource-ref\" data-content-id=\"eng-t246-v1\" data-resource-code=\"FIAKeyTerms\">High Priest</data>. The High Priest wore a fancy ephod of linen, wool, and gold thread. The skilled craftsmen dyed the wool for the High Priest's ephod blue, purple, and red. The High Priest's ephod had two black onyx stones on the shoulders. A skilled worker carved the names of the 12 tribes of Israel on the stones.</p><p>The High Priest also wore a special breastplate on his chest, over the ephod. To make the breastplate, the skilled craftsmen took a piece of fine linen and folded it double to form a 22-centimeter square. On the side facing out, the craftsmen placed four rows of precious stones set in gold, so that there were 12 stones total. Each stone had the name of one of the 12 tribes of Israel. The High Priest attached the breastplate to his ephod using two gold cords at the top and two blue cords at the bottom.</p><p>Yahweh told Moses to put some special objects inside the breastplate. Yahweh called these objects the Urim and Thummim. Nobody knows exactly what the Urim and Thummim were. These might have been stones, carved pieces of wood, or something else. The High Priest could ask Yahweh a question, and Yahweh answered through the Urim and Thummim. We do not know exactly how the High Priest used the Urim and Thummim to hear from Yahweh. But we do know that Yahweh told Moses that Yahweh wanted the High Priest to use the Urim and Thummim in this way.</p><p>Over time, when someone said that a person wore an ephod, it meant that the person served as a priest. Yet on a few occasions, someone who was not a priest wore an ephod. Samuel wore an ephod when he was still a little boy. <data class=\"resource-ref\" data-content-id=\"eng-t33-v1\" data-resource-code=\"FIAKeyTerms\">King David</data> wore an ephod and danced for joy when the <data class=\"resource-ref\" data-content-id=\"eng-t7-v1\" data-resource-code=\"FIAKeyTerms\">ark of the covenant</data> arrived in <data class=\"resource-ref\" data-content-id=\"eng-t76-v1\" data-resource-code=\"FIAKeyTerms\">Jerusalem</data>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02025001",
+"start_ref_usfm": "EXO 25:1",
+"end_ref": "02025009",
+"end_ref_usfm": "EXO 25:9"
+},
+{
+"start_ref": "02028001",
+"start_ref_usfm": "EXO 28:1",
+"end_ref": "02028014",
+"end_ref_usfm": "EXO 28:14"
+},
+{
+"start_ref": "02028015",
+"start_ref_usfm": "EXO 28:15",
+"end_ref": "02028030",
+"end_ref_usfm": "EXO 28:30"
+},
+{
+"start_ref": "02028031",
+"start_ref_usfm": "EXO 28:31",
+"end_ref": "02028043",
+"end_ref_usfm": "EXO 28:43"
+},
+{
+"start_ref": "02029001",
+"start_ref_usfm": "EXO 29:1",
+"end_ref": "02029009",
+"end_ref_usfm": "EXO 29:9"
+},
+{
+"start_ref": "02035001",
+"start_ref_usfm": "EXO 35:1",
+"end_ref": "02035019",
+"end_ref_usfm": "EXO 35:19"
+},
+{
+"start_ref": "02035020",
+"start_ref_usfm": "EXO 35:20",
+"end_ref": "02035029",
+"end_ref_usfm": "EXO 35:29"
+},
+{
+"start_ref": "02039001",
+"start_ref_usfm": "EXO 39:1",
+"end_ref": "02039007",
+"end_ref_usfm": "EXO 39:7"
+},
+{
+"start_ref": "02039008",
+"start_ref_usfm": "EXO 39:8",
+"end_ref": "02039021",
+"end_ref_usfm": "EXO 39:21"
+},
+{
+"start_ref": "02039022",
+"start_ref_usfm": "EXO 39:22",
+"end_ref": "02039031",
+"end_ref_usfm": "EXO 39:31"
+},
+{
+"start_ref": "03008001",
+"start_ref_usfm": "LEV 8:1",
+"end_ref": "03008013",
+"end_ref_usfm": "LEV 8:13"
+},
+{
+"start_ref": "07008022",
+"start_ref_usfm": "JDG 8:22",
+"end_ref": "07008035",
+"end_ref_usfm": "JDG 8:35"
+},
+{
+"start_ref": "07017001",
+"start_ref_usfm": "JDG 17:1",
+"end_ref": "07017013",
+"end_ref_usfm": "JDG 17:13"
+},
+{
+"start_ref": "07018011",
+"start_ref_usfm": "JDG 18:11",
+"end_ref": "07018021",
+"end_ref_usfm": "JDG 18:21"
+},
+{
+"start_ref": "09002012",
+"start_ref_usfm": "1SA 2:12",
+"end_ref": "09002026",
+"end_ref_usfm": "1SA 2:26"
+},
+{
+"start_ref": "09002027",
+"start_ref_usfm": "1SA 2:27",
+"end_ref": "09002036",
+"end_ref_usfm": "1SA 2:36"
+},
+{
+"start_ref": "09014001",
+"start_ref_usfm": "1SA 14:1",
+"end_ref": "09014015",
+"end_ref_usfm": "1SA 14:15"
+},
+{
+"start_ref": "09021001",
+"start_ref_usfm": "1SA 21:1",
+"end_ref": "09021009",
+"end_ref_usfm": "1SA 21:9"
+},
+{
+"start_ref": "09022011",
+"start_ref_usfm": "1SA 22:11",
+"end_ref": "09022023",
+"end_ref_usfm": "1SA 22:23"
+},
+{
+"start_ref": "09023001",
+"start_ref_usfm": "1SA 23:1",
+"end_ref": "09023014",
+"end_ref_usfm": "1SA 23:14"
+},
+{
+"start_ref": "09030001",
+"start_ref_usfm": "1SA 30:1",
+"end_ref": "09030015",
+"end_ref_usfm": "1SA 30:15"
+},
+{
+"start_ref": "10006001",
+"start_ref_usfm": "2SA 6:1",
+"end_ref": "10006015",
+"end_ref_usfm": "2SA 6:15"
+},
+{
+"start_ref": "13015025",
+"start_ref_usfm": "1CH 15:25",
+"end_ref": "13016007",
+"end_ref_usfm": "1CH 16:7"
+}
+],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t103-v1",
+"resource_code": "FIAKeyTerms",
+"label": "priests",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t180-v2",
+"resource_code": "FIAKeyTerms",
+"label": "tunic",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t112-v1",
+"resource_code": "FIAKeyTerms",
+"label": "robe",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t174-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Yahweh",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t246-v1",
+"resource_code": "FIAKeyTerms",
+"label": "High Priest",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t33-v1",
+"resource_code": "FIAKeyTerms",
+"label": "King David",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t7-v1",
+"resource_code": "FIAKeyTerms",
+"label": "ark of the covenant",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t76-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Jerusalem",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t251-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "ephod",
+"language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Ephod",
+"type": "person",
+"confidence": 0.8816,
+"match_method": "embedding",
+"preferred_label": "Ephod"
+},
+{
+"id": "realia:Ephod",
+"type": "realia",
+"confidence": 0.8816,
+"match_method": "embedding",
+"preferred_label": "Ephod"
+}
+]
+}
+},
+{
+"content_id": "eng-t251-v1-audio",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "ephod",
+"media_type": "Audio",
+"index_reference": "ephod",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t251/v1/vbr4.mp3'>mp3 file</a> (1.7 MB)</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02025001",
+"start_ref_usfm": "EXO 25:1",
+"end_ref": "02025009",
+"end_ref_usfm": "EXO 25:9"
+},
+{
+"start_ref": "02028001",
+"start_ref_usfm": "EXO 28:1",
+"end_ref": "02028014",
+"end_ref_usfm": "EXO 28:14"
+},
+{
+"start_ref": "02028015",
+"start_ref_usfm": "EXO 28:15",
+"end_ref": "02028030",
+"end_ref_usfm": "EXO 28:30"
+},
+{
+"start_ref": "02028031",
+"start_ref_usfm": "EXO 28:31",
+"end_ref": "02028043",
+"end_ref_usfm": "EXO 28:43"
+},
+{
+"start_ref": "02029001",
+"start_ref_usfm": "EXO 29:1",
+"end_ref": "02029009",
+"end_ref_usfm": "EXO 29:9"
+},
+{
+"start_ref": "02035001",
+"start_ref_usfm": "EXO 35:1",
+"end_ref": "02035019",
+"end_ref_usfm": "EXO 35:19"
+},
+{
+"start_ref": "02035020",
+"start_ref_usfm": "EXO 35:20",
+"end_ref": "02035029",
+"end_ref_usfm": "EXO 35:29"
+},
+{
+"start_ref": "02039001",
+"start_ref_usfm": "EXO 39:1",
+"end_ref": "02039007",
+"end_ref_usfm": "EXO 39:7"
+},
+{
+"start_ref": "02039008",
+"start_ref_usfm": "EXO 39:8",
+"end_ref": "02039021",
+"end_ref_usfm": "EXO 39:21"
+},
+{
+"start_ref": "02039022",
+"start_ref_usfm": "EXO 39:22",
+"end_ref": "02039031",
+"end_ref_usfm": "EXO 39:31"
+},
+{
+"start_ref": "03008001",
+"start_ref_usfm": "LEV 8:1",
+"end_ref": "03008013",
+"end_ref_usfm": "LEV 8:13"
+},
+{
+"start_ref": "07008022",
+"start_ref_usfm": "JDG 8:22",
+"end_ref": "07008035",
+"end_ref_usfm": "JDG 8:35"
+},
+{
+"start_ref": "07017001",
+"start_ref_usfm": "JDG 17:1",
+"end_ref": "07017013",
+"end_ref_usfm": "JDG 17:13"
+},
+{
+"start_ref": "07018011",
+"start_ref_usfm": "JDG 18:11",
+"end_ref": "07018021",
+"end_ref_usfm": "JDG 18:21"
+},
+{
+"start_ref": "09002012",
+"start_ref_usfm": "1SA 2:12",
+"end_ref": "09002026",
+"end_ref_usfm": "1SA 2:26"
+},
+{
+"start_ref": "09002027",
+"start_ref_usfm": "1SA 2:27",
+"end_ref": "09002036",
+"end_ref_usfm": "1SA 2:36"
+},
+{
+"start_ref": "09014001",
+"start_ref_usfm": "1SA 14:1",
+"end_ref": "09014015",
+"end_ref_usfm": "1SA 14:15"
+},
+{
+"start_ref": "09021001",
+"start_ref_usfm": "1SA 21:1",
+"end_ref": "09021009",
+"end_ref_usfm": "1SA 21:9"
+},
+{
+"start_ref": "09022011",
+"start_ref_usfm": "1SA 22:11",
+"end_ref": "09022023",
+"end_ref_usfm": "1SA 22:23"
+},
+{
+"start_ref": "09023001",
+"start_ref_usfm": "1SA 23:1",
+"end_ref": "09023014",
+"end_ref_usfm": "1SA 23:14"
+},
+{
+"start_ref": "09030001",
+"start_ref_usfm": "1SA 30:1",
+"end_ref": "09030015",
+"end_ref_usfm": "1SA 30:15"
+},
+{
+"start_ref": "10006001",
+"start_ref_usfm": "2SA 6:1",
+"end_ref": "10006015",
+"end_ref_usfm": "2SA 6:15"
+},
+{
+"start_ref": "13015025",
+"start_ref_usfm": "1CH 15:25",
+"end_ref": "13016007",
+"end_ref_usfm": "1CH 16:7"
+}
+],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t251-v1",
+"resource_code": "FIAKeyTerms",
+"label": "ephod",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -2219,6 +3042,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "kingdom",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t46-v2-audio",
+"resource_code": "FIAKeyTerms",
+"label": "eternal life",
+"language": "eng"
 }
 ],
 "acai": []
@@ -2233,7 +3063,7 @@
 "index_reference": "eternal life",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t46/v2/vbr4.mp3'>mp3 file</a> (714909 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t46/v2/vbr4.mp3'>mp3 file</a> (698 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -2429,7 +3259,15 @@
 "end_ref_usfm": "1JN 5:21"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t46-v2",
+"resource_code": "FIAKeyTerms",
+"label": "eternal life",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -2484,6 +3322,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "God's Spirit",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t176-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "evangelist",
+"language": "eng"
 }
 ],
 "acai": []
@@ -2498,7 +3343,7 @@
 "index_reference": "evangelist",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t176/v1/vbr4.mp3'>mp3 file</a> (511484 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t176/v1/vbr4.mp3'>mp3 file</a> (499 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -2520,7 +3365,15 @@
 "end_ref_usfm": "2TI 4:8"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t176-v1",
+"resource_code": "FIAKeyTerms",
+"label": "evangelist",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -2878,6 +3731,12 @@
 "end_ref_usfm": "1KI 21:29"
 },
 {
+"start_ref": "12003001",
+"start_ref_usfm": "2KI 3:1",
+"end_ref": "12003009",
+"end_ref_usfm": "2KI 3:9"
+},
+{
 "start_ref": "12008016",
 "start_ref_usfm": "2KI 8:16",
 "end_ref": "12008024",
@@ -2900,6 +3759,36 @@
 "start_ref_usfm": "2KI 14:23",
 "end_ref": "12014029",
 "end_ref_usfm": "2KI 14:29"
+},
+{
+"start_ref": "12015008",
+"start_ref_usfm": "2KI 15:8",
+"end_ref": "12015016",
+"end_ref_usfm": "2KI 15:16"
+},
+{
+"start_ref": "12015017",
+"start_ref_usfm": "2KI 15:17",
+"end_ref": "12015022",
+"end_ref_usfm": "2KI 15:22"
+},
+{
+"start_ref": "12015023",
+"start_ref_usfm": "2KI 15:23",
+"end_ref": "12015031",
+"end_ref_usfm": "2KI 15:31"
+},
+{
+"start_ref": "12017001",
+"start_ref_usfm": "2KI 17:1",
+"end_ref": "12017006",
+"end_ref_usfm": "2KI 17:6"
+},
+{
+"start_ref": "12017007",
+"start_ref_usfm": "2KI 17:7",
+"end_ref": "12017023",
+"end_ref_usfm": "2KI 17:23"
 },
 {
 "start_ref": "13002001",
@@ -3098,42 +3987,6 @@
 "start_ref_usfm": "PHP 2:12",
 "end_ref": "50002018",
 "end_ref_usfm": "PHP 2:18"
-},
-{
-"start_ref": "50003002",
-"start_ref_usfm": "PHP 3:2",
-"end_ref": "50003011",
-"end_ref_usfm": "PHP 3:11"
-},
-{
-"start_ref": "52005001",
-"start_ref_usfm": "1TH 5:1",
-"end_ref": "52005011",
-"end_ref_usfm": "1TH 5:11"
-},
-{
-"start_ref": "52005012",
-"start_ref_usfm": "1TH 5:12",
-"end_ref": "52005022",
-"end_ref_usfm": "1TH 5:22"
-},
-{
-"start_ref": "53002001",
-"start_ref_usfm": "2TH 2:1",
-"end_ref": "53002012",
-"end_ref_usfm": "2TH 2:12"
-},
-{
-"start_ref": "53003001",
-"start_ref_usfm": "2TH 3:1",
-"end_ref": "53003005",
-"end_ref_usfm": "2TH 3:5"
-},
-{
-"start_ref": "54006002",
-"start_ref_usfm": "1TI 6:2",
-"end_ref": "54006010",
-"end_ref_usfm": "1TI 6:10"
 }
 ],
 "resource": [
@@ -3142,6 +3995,13 @@
 "content_id": "eng-t157-v1",
 "resource_code": "FIAKeyTerms",
 "label": "kingdom",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t187-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "evil",
 "language": "eng"
 }
 ],
@@ -3157,7 +4017,7 @@
 "index_reference": "evil",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t187/v1/vbr4.mp3'>mp3 file</a> (743732 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t187/v1/vbr4.mp3'>mp3 file</a> (726 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -3503,6 +4363,12 @@
 "end_ref_usfm": "1KI 21:29"
 },
 {
+"start_ref": "12003001",
+"start_ref_usfm": "2KI 3:1",
+"end_ref": "12003009",
+"end_ref_usfm": "2KI 3:9"
+},
+{
 "start_ref": "12008016",
 "start_ref_usfm": "2KI 8:16",
 "end_ref": "12008024",
@@ -3525,6 +4391,36 @@
 "start_ref_usfm": "2KI 14:23",
 "end_ref": "12014029",
 "end_ref_usfm": "2KI 14:29"
+},
+{
+"start_ref": "12015008",
+"start_ref_usfm": "2KI 15:8",
+"end_ref": "12015016",
+"end_ref_usfm": "2KI 15:16"
+},
+{
+"start_ref": "12015017",
+"start_ref_usfm": "2KI 15:17",
+"end_ref": "12015022",
+"end_ref_usfm": "2KI 15:22"
+},
+{
+"start_ref": "12015023",
+"start_ref_usfm": "2KI 15:23",
+"end_ref": "12015031",
+"end_ref_usfm": "2KI 15:31"
+},
+{
+"start_ref": "12017001",
+"start_ref_usfm": "2KI 17:1",
+"end_ref": "12017006",
+"end_ref_usfm": "2KI 17:6"
+},
+{
+"start_ref": "12017007",
+"start_ref_usfm": "2KI 17:7",
+"end_ref": "12017023",
+"end_ref_usfm": "2KI 17:23"
 },
 {
 "start_ref": "13002001",
@@ -3723,45 +4619,17 @@
 "start_ref_usfm": "PHP 2:12",
 "end_ref": "50002018",
 "end_ref_usfm": "PHP 2:18"
-},
-{
-"start_ref": "50003002",
-"start_ref_usfm": "PHP 3:2",
-"end_ref": "50003011",
-"end_ref_usfm": "PHP 3:11"
-},
-{
-"start_ref": "52005001",
-"start_ref_usfm": "1TH 5:1",
-"end_ref": "52005011",
-"end_ref_usfm": "1TH 5:11"
-},
-{
-"start_ref": "52005012",
-"start_ref_usfm": "1TH 5:12",
-"end_ref": "52005022",
-"end_ref_usfm": "1TH 5:22"
-},
-{
-"start_ref": "53002001",
-"start_ref_usfm": "2TH 2:1",
-"end_ref": "53002012",
-"end_ref_usfm": "2TH 2:12"
-},
-{
-"start_ref": "53003001",
-"start_ref_usfm": "2TH 3:1",
-"end_ref": "53003005",
-"end_ref_usfm": "2TH 3:5"
-},
-{
-"start_ref": "54006002",
-"start_ref_usfm": "1TI 6:2",
-"end_ref": "54006010",
-"end_ref_usfm": "1TI 6:10"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t187-v1",
+"resource_code": "FIAKeyTerms",
+"label": "evil",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -4019,6 +4887,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "unclean",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t47-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "evil spirit",
+"language": "eng"
 }
 ],
 "acai": []
@@ -4033,7 +4908,7 @@
 "index_reference": "evil spirit",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t47/v1/vbr4.mp3'>mp3 file</a> (1508589 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t47/v1/vbr4.mp3'>mp3 file</a> (1.4 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -4223,7 +5098,15 @@
 "end_ref_usfm": "GAL 4:7"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t47-v1",
+"resource_code": "FIAKeyTerms",
+"label": "evil spirit",
+"language": "eng"
+}
+]
 }
 }
 ]

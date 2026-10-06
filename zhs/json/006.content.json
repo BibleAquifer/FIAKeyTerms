@@ -1,6 +1,6 @@
 [
 {
-"content_id": "cmn-t14-v1",
+"content_id": "zhs-t14-v1",
 "reference_id": 0,
 "version": "1.0.4",
 "title": "伯赛大",
@@ -8,7 +8,7 @@
 "index_reference": "伯赛大",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><b>伯赛大</b>是位于<data class=\"resource-ref\" data-content-id=\"cmn-t55-v1\" data-resource-code=\"FIAKeyTerms\">加利利</data>省的一个村庄。它可能靠近<data class=\"resource-ref\" data-content-id=\"cmn-t22-v1\" data-resource-code=\"FIAKeyTerms\">迦百农</data>这座城市，因为<data class=\"resource-ref\" data-content-id=\"cmn-t78-v1\" data-resource-code=\"FIAKeyTerms\">约翰</data>告诉我们，耶稣的<data class=\"resource-ref\" data-content-id=\"cmn-t39-v1\" data-resource-code=\"FIAKeyTerms\">门徒</data>安得烈和彼得来自伯赛大，但马可告诉我们，他们住在迦百农。 这个村庄靠近<data class=\"resource-ref\" data-content-id=\"cmn-t121-v1\" data-resource-code=\"FIAKeyTerms\">加利利海</data>，村子里的许多人以捕鱼为生。伯赛大这个名字甚至意味着\"捕鱼的房子\"。</p>",
+"content": "<p><b>伯赛大</b>是位于<data class=\"resource-ref\" data-content-id=\"zhs-t55-v1\" data-resource-code=\"FIAKeyTerms\">加利利</data>省的一个村庄。它可能靠近<data class=\"resource-ref\" data-content-id=\"zhs-t22-v1\" data-resource-code=\"FIAKeyTerms\">迦百农</data>这座城市，因为<data class=\"resource-ref\" data-content-id=\"zhs-t78-v1\" data-resource-code=\"FIAKeyTerms\">约翰</data>告诉我们，耶稣的<data class=\"resource-ref\" data-content-id=\"zhs-t39-v1\" data-resource-code=\"FIAKeyTerms\">门徒</data>安得烈和彼得来自伯赛大，但马可告诉我们，他们住在迦百农。 这个村庄靠近<data class=\"resource-ref\" data-content-id=\"zhs-t121-v1\" data-resource-code=\"FIAKeyTerms\">加利利海</data>，村子里的许多人以捕鱼为生。伯赛大这个名字甚至意味着\"捕鱼的房子\"。</p>",
 "associations": {
 "passage": [
 {
@@ -21,35 +21,35 @@
 "resource": [
 {
 "reference_id": 0,
-"content_id": "cmn-t55-v1",
+"content_id": "zhs-t55-v1",
 "resource_code": "FIAKeyTerms",
 "label": "加利利",
 "language": "zhs"
 },
 {
 "reference_id": 0,
-"content_id": "cmn-t22-v1",
+"content_id": "zhs-t22-v1",
 "resource_code": "FIAKeyTerms",
 "label": "迦百农",
 "language": "zhs"
 },
 {
 "reference_id": 0,
-"content_id": "cmn-t78-v1",
+"content_id": "zhs-t78-v1",
 "resource_code": "FIAKeyTerms",
 "label": "约翰",
 "language": "zhs"
 },
 {
 "reference_id": 0,
-"content_id": "cmn-t39-v1",
+"content_id": "zhs-t39-v1",
 "resource_code": "FIAKeyTerms",
 "label": "门徒",
 "language": "zhs"
 },
 {
 "reference_id": 0,
-"content_id": "cmn-t121-v1",
+"content_id": "zhs-t121-v1",
 "resource_code": "FIAKeyTerms",
 "label": "加利利海",
 "language": "zhs"
@@ -64,28 +64,6 @@
 "preferred_label": "Bethsaida"
 }
 ]
-}
-},
-{
-"content_id": "cmn-t14-v1-audio",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "伯赛大",
-"media_type": "Audio",
-"index_reference": "伯赛大",
-"language": "zhs",
-"review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='None'>mp3 file</a> (None KB)</p>",
-"associations": {
-"passage": [
-{
-"start_ref": "41008022",
-"start_ref_usfm": "MRK 8:22",
-"end_ref": "41008026",
-"end_ref_usfm": "MRK 8:26"
-}
-],
-"resource": []
 }
 }
 ]

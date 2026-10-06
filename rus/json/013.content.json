@@ -8,7 +8,7 @@
 "index_reference": "назарет",
 "language": "rus",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/rus/t95/v1/vbr4.mp3'>mp3 file</a> (422326 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/rus/t95/v1/vbr4.mp3'>mp3 file</a> (412 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -114,7 +114,15 @@
 "end_ref_usfm": "ACT 26:23"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "rus-t95-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Назарет",
+"language": "rus"
+}
+]
 }
 },
 {
@@ -126,7 +134,7 @@
 "index_reference": "небеса",
 "language": "rus",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/rus/t63/v1/vbr4.mp3'>mp3 file</a> (1059190 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/rus/t63/v1/vbr4.mp3'>mp3 file</a> (1.0 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -730,7 +738,15 @@
 "end_ref_usfm": "MRK 16:20"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "rus-t63-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Небеса",
+"language": "rus"
+}
+]
 }
 }
 ]

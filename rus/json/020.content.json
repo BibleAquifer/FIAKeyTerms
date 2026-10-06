@@ -8,7 +8,7 @@
 "index_reference": "царство божие",
 "language": "rus",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/rus/t82/v1/vbr4.mp3'>mp3 file</a> (2949670 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/rus/t82/v1/vbr4.mp3'>mp3 file</a> (2.8 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -504,7 +504,15 @@
 "end_ref_usfm": "JAS 2:7"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "rus-t82-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Царство Божие",
+"language": "rus"
+}
+]
 }
 }
 ]

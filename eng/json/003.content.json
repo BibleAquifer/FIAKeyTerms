@@ -105,6 +105,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "worshiped",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t19-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "Caesar",
+"language": "eng"
 }
 ],
 "acai": [
@@ -141,7 +148,7 @@
 "index_reference": "caesar",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t19/v1/vbr4.mp3'>mp3 file</a> (585956 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t19/v1/vbr4.mp3'>mp3 file</a> (572 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -217,7 +224,15 @@
 "end_ref_usfm": "PHP 4:23"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t19-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Caesar",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -267,6 +282,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "Caesar",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t20-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "Caeserea Philippi",
+"language": "eng"
 }
 ],
 "acai": [
@@ -289,7 +311,7 @@
 "index_reference": "caeserea philippi",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t20/v1/vbr4.mp3'>mp3 file</a> (241388 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t20/v1/vbr4.mp3'>mp3 file</a> (236 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -299,7 +321,15 @@
 "end_ref_usfm": "MRK 8:30"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t20-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Caeserea Philippi",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -401,6 +431,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "John the baptizer",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t21-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "camel",
+"language": "eng"
 }
 ],
 "acai": [
@@ -423,7 +460,7 @@
 "index_reference": "camel",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t21/v1/vbr4.mp3'>mp3 file</a> (666020 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t21/v1/vbr4.mp3'>mp3 file</a> (650 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -499,7 +536,15 @@
 "end_ref_usfm": "MRK 10:31"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t21-v1",
+"resource_code": "FIAKeyTerms",
+"label": "camel",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -812,6 +857,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "sinned",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t178-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "Canaan",
+"language": "eng"
 }
 ],
 "acai": [
@@ -841,7 +893,7 @@
 "index_reference": "canaan",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t178/v1/vbr4.mp3'>mp3 file</a> (1114028 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t178/v1/vbr4.mp3'>mp3 file</a> (1.1 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -1079,7 +1131,15 @@
 "end_ref_usfm": "2CH 8:18"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t178-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Canaan",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -1224,6 +1284,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "disciples",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t22-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "Capernaum",
+"language": "eng"
 }
 ],
 "acai": [
@@ -1246,7 +1313,7 @@
 "index_reference": "capernaum",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t22/v1/vbr4.mp3'>mp3 file</a> (442604 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t22/v1/vbr4.mp3'>mp3 file</a> (432 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -1358,7 +1425,15 @@
 "end_ref_usfm": "JHN 6:59"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t22-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Capernaum",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -1476,7 +1551,15 @@
 "end_ref_usfm": "ACT 27:44"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t170-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "centurion",
+"language": "eng"
+}
+],
 "acai": []
 }
 },
@@ -1489,7 +1572,7 @@
 "index_reference": "centurion",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t170/v1/vbr4.mp3'>mp3 file</a> (122924 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t170/v1/vbr4.mp3'>mp3 file</a> (120 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -1595,7 +1678,15 @@
 "end_ref_usfm": "ACT 27:44"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t170-v1",
+"resource_code": "FIAKeyTerms",
+"label": "centurion",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -1747,6 +1838,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "vision",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t230-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "cherubim",
+"language": "eng"
 }
 ],
 "acai": [
@@ -1769,7 +1867,7 @@
 "index_reference": "cherubim",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t230/v1/vbr4.mp3'>mp3 file</a> (656828 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t230/v1/vbr4.mp3'>mp3 file</a> (641 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -1881,7 +1979,15 @@
 "end_ref_usfm": "2CH 5:14"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t230-v1",
+"resource_code": "FIAKeyTerms",
+"label": "cherubim",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -2609,6 +2715,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "sin",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t23-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "Christ",
+"language": "eng"
 }
 ],
 "acai": [
@@ -2631,7 +2744,7 @@
 "index_reference": "christ",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t23/v1/vbr4.mp3'>mp3 file</a> (2340980 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t23/v1/vbr4.mp3'>mp3 file</a> (2.2 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -3235,7 +3348,15 @@
 "end_ref_usfm": "GAL 2:21"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t23-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Christ",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -3305,6 +3426,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "God's Kingdom",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t175-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "Christian",
+"language": "eng"
 }
 ],
 "acai": [
@@ -3327,7 +3455,7 @@
 "index_reference": "christian",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t175/v1/vbr4.mp3'>mp3 file</a> (635660 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t175/v1/vbr4.mp3'>mp3 file</a> (621 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -3343,7 +3471,15 @@
 "end_ref_usfm": "ACT 26:32"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t175-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Christian",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -3698,6 +3834,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "Jerusalem",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t24-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "church",
+"language": "eng"
 }
 ],
 "acai": [
@@ -3720,7 +3863,7 @@
 "index_reference": "church",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t24/v1/vbr4.mp3'>mp3 file</a> (872108 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t24/v1/vbr4.mp3'>mp3 file</a> (852 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -4042,7 +4185,15 @@
 "end_ref_usfm": "3JN 1:10"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t24-v1",
+"resource_code": "FIAKeyTerms",
+"label": "church",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -4374,6 +4525,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "faith",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t25-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "circumcision",
+"language": "eng"
 }
 ],
 "acai": [
@@ -4396,7 +4554,7 @@
 "index_reference": "circumcision",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t25/v1/vbr4.mp3'>mp3 file</a> (1490156 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t25/v1/vbr4.mp3'>mp3 file</a> (1.4 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -4646,7 +4804,15 @@
 "end_ref_usfm": "TIT 1:16"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t25-v1",
+"resource_code": "FIAKeyTerms",
+"label": "circumcision",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -5305,6 +5471,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "sin",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t26-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "clean/unclean",
+"language": "eng"
 }
 ],
 "acai": []
@@ -5319,7 +5492,7 @@
 "index_reference": "cleanunclean",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t26/v1/vbr4.mp3'>mp3 file</a> (3049772 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t26/v1/vbr4.mp3'>mp3 file</a> (2.9 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -5875,7 +6048,15 @@
 "end_ref_usfm": "JUD 1:11"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t26-v1",
+"resource_code": "FIAKeyTerms",
+"label": "clean/unclean",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -6060,6 +6241,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "robe",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t27-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "cloak",
+"language": "eng"
 }
 ],
 "acai": [
@@ -6082,7 +6270,7 @@
 "index_reference": "cloak",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t27/v1/vbr4.mp3'>mp3 file</a> (399236 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t27/v1/vbr4.mp3'>mp3 file</a> (390 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -6248,7 +6436,15 @@
 "end_ref_usfm": "2TI 4:22"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t27-v1",
+"resource_code": "FIAKeyTerms",
+"label": "cloak",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -6319,6 +6515,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "centurion",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t195-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "commander",
+"language": "eng"
 }
 ],
 "acai": []
@@ -6333,7 +6536,7 @@
 "index_reference": "commander",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t195/v1/vbr4.mp3'>mp3 file</a> (355148 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t195/v1/vbr4.mp3'>mp3 file</a> (347 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -6385,7 +6588,15 @@
 "end_ref_usfm": "ACT 25:27"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t195-v1",
+"resource_code": "FIAKeyTerms",
+"label": "commander",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -6695,6 +6906,24 @@
 "end_ref_usfm": "1KI 18:29"
 },
 {
+"start_ref": "12017007",
+"start_ref_usfm": "2KI 17:7",
+"end_ref": "12017023",
+"end_ref_usfm": "2KI 17:23"
+},
+{
+"start_ref": "12017024",
+"start_ref_usfm": "2KI 17:24",
+"end_ref": "12017041",
+"end_ref_usfm": "2KI 17:41"
+},
+{
+"start_ref": "12018001",
+"start_ref_usfm": "2KI 18:1",
+"end_ref": "12018012",
+"end_ref_usfm": "2KI 18:12"
+},
+{
 "start_ref": "13028001",
 "start_ref_usfm": "1CH 28:1",
 "end_ref": "13028008",
@@ -6857,12 +7086,20 @@
 "end_ref_usfm": "2JN 1:6"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t245-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "commandment",
+"language": "eng"
+}
+],
 "acai": [
 {
 "id": "keyterm:Commandment",
 "type": "keyterm",
-"confidence": 0.5711,
+"confidence": 0.5704,
 "match_method": "scored",
 "preferred_label": "Commandment"
 }
@@ -6878,7 +7115,7 @@
 "index_reference": "commandment",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t245/v1/vbr4.mp3'>mp3 file</a> (480044 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t245/v1/vbr4.mp3'>mp3 file</a> (469 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -7176,6 +7413,24 @@
 "end_ref_usfm": "1KI 18:29"
 },
 {
+"start_ref": "12017007",
+"start_ref_usfm": "2KI 17:7",
+"end_ref": "12017023",
+"end_ref_usfm": "2KI 17:23"
+},
+{
+"start_ref": "12017024",
+"start_ref_usfm": "2KI 17:24",
+"end_ref": "12017041",
+"end_ref_usfm": "2KI 17:41"
+},
+{
+"start_ref": "12018001",
+"start_ref_usfm": "2KI 18:1",
+"end_ref": "12018012",
+"end_ref_usfm": "2KI 18:12"
+},
+{
 "start_ref": "13028001",
 "start_ref_usfm": "1CH 28:1",
 "end_ref": "13028008",
@@ -7338,7 +7593,15 @@
 "end_ref_usfm": "2JN 1:6"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t245-v1",
+"resource_code": "FIAKeyTerms",
+"label": "commandment",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -7450,7 +7713,15 @@
 "end_ref_usfm": "JAS 5:12"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t205-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "compassion",
+"language": "eng"
+}
+],
 "acai": []
 }
 },
@@ -7463,7 +7734,7 @@
 "index_reference": "compassion",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t205/v1/vbr4.mp3'>mp3 file</a> (112796 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t205/v1/vbr4.mp3'>mp3 file</a> (110 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -7563,7 +7834,15 @@
 "end_ref_usfm": "JAS 5:12"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t205-v1",
+"resource_code": "FIAKeyTerms",
+"label": "compassion",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -7657,7 +7936,15 @@
 "end_ref_usfm": "TIT 1:16"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t278-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "conscience",
+"language": "eng"
+}
+],
 "acai": [
 {
 "id": "keyterm:Conscience",
@@ -7678,7 +7965,7 @@
 "index_reference": "conscience",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t278/v1/vbr4.mp3'>mp3 file</a> (880797 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t278/v1/vbr4.mp3'>mp3 file</a> (860 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -7760,7 +8047,15 @@
 "end_ref_usfm": "TIT 1:16"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t278-v1",
+"resource_code": "FIAKeyTerms",
+"label": "conscience",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -8184,6 +8479,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "clean",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t254-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "consecrate",
+"language": "eng"
 }
 ],
 "acai": []
@@ -8198,7 +8500,7 @@
 "index_reference": "consecrate",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t254/v1/vbr4.mp3'>mp3 file</a> (1321700 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t254/v1/vbr4.mp3'>mp3 file</a> (1.3 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -8568,7 +8870,15 @@
 "end_ref_usfm": "1TI 4:5"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t254-v1",
+"resource_code": "FIAKeyTerms",
+"label": "consecrate",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -8602,7 +8912,15 @@
 "end_ref_usfm": "JUD 1:16"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t238-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "convict",
+"language": "eng"
+}
+],
 "acai": []
 }
 },
@@ -8615,7 +8933,7 @@
 "index_reference": "convict",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t238/v1/vbr4.mp3'>mp3 file</a> (542180 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t238/v1/vbr4.mp3'>mp3 file</a> (529 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -8637,7 +8955,15 @@
 "end_ref_usfm": "JUD 1:16"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t238-v1",
+"resource_code": "FIAKeyTerms",
+"label": "convict",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -8677,7 +9003,15 @@
 "end_ref_usfm": "EPH 2:22"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t28-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "cornerstone",
+"language": "eng"
+}
+],
 "acai": [
 {
 "id": "realia:Cornerstone",
@@ -8705,7 +9039,7 @@
 "index_reference": "cornerstone",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t28/v1/vbr4.mp3'>mp3 file</a> (848468 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t28/v1/vbr4.mp3'>mp3 file</a> (829 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -8733,7 +9067,15 @@
 "end_ref_usfm": "EPH 2:22"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t28-v1",
+"resource_code": "FIAKeyTerms",
+"label": "cornerstone",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -9145,6 +9487,24 @@
 "end_ref_usfm": "2KI 13:25"
 },
 {
+"start_ref": "12017007",
+"start_ref_usfm": "2KI 17:7",
+"end_ref": "12017023",
+"end_ref_usfm": "2KI 17:23"
+},
+{
+"start_ref": "12017024",
+"start_ref_usfm": "2KI 17:24",
+"end_ref": "12017041",
+"end_ref_usfm": "2KI 17:41"
+},
+{
+"start_ref": "12018001",
+"start_ref_usfm": "2KI 18:1",
+"end_ref": "12018012",
+"end_ref_usfm": "2KI 18:12"
+},
+{
 "start_ref": "13011001",
 "start_ref_usfm": "1CH 11:1",
 "end_ref": "13011009",
@@ -9411,13 +9771,20 @@
 "resource_code": "FIAKeyTerms",
 "label": "sinful",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t29-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "covenant",
+"language": "eng"
 }
 ],
 "acai": [
 {
 "id": "keyterm:Covenant",
 "type": "keyterm",
-"confidence": 0.5896,
+"confidence": 0.5892,
 "match_method": "scored",
 "preferred_label": "Covenant"
 }
@@ -9433,7 +9800,7 @@
 "index_reference": "covenant",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t29/v1/vbr4.mp3'>mp3 file</a> (4991876 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t29/v1/vbr4.mp3'>mp3 file</a> (4.8 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -9833,6 +10200,24 @@
 "end_ref_usfm": "2KI 13:25"
 },
 {
+"start_ref": "12017007",
+"start_ref_usfm": "2KI 17:7",
+"end_ref": "12017023",
+"end_ref_usfm": "2KI 17:23"
+},
+{
+"start_ref": "12017024",
+"start_ref_usfm": "2KI 17:24",
+"end_ref": "12017041",
+"end_ref_usfm": "2KI 17:41"
+},
+{
+"start_ref": "12018001",
+"start_ref_usfm": "2KI 18:1",
+"end_ref": "12018012",
+"end_ref_usfm": "2KI 18:12"
+},
+{
 "start_ref": "13011001",
 "start_ref_usfm": "1CH 11:1",
 "end_ref": "13011009",
@@ -10001,7 +10386,15 @@
 "end_ref_usfm": "EPH 2:18"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t29-v1",
+"resource_code": "FIAKeyTerms",
+"label": "covenant",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -10144,6 +10537,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "crucifixion",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t30-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "cross",
+"language": "eng"
 }
 ],
 "acai": [
@@ -10166,7 +10566,7 @@
 "index_reference": "cross",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t30/v1/vbr4.mp3'>mp3 file</a> (839732 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t30/v1/vbr4.mp3'>mp3 file</a> (820 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -10290,7 +10690,15 @@
 "end_ref_usfm": "PHP 4:1"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t30-v1",
+"resource_code": "FIAKeyTerms",
+"label": "cross",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -10482,6 +10890,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "cross",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t169-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "crucifixion",
+"language": "eng"
 }
 ],
 "acai": []
@@ -10496,7 +10911,7 @@
 "index_reference": "crucifixion",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t169/v1/vbr4.mp3'>mp3 file</a> (1050524 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t169/v1/vbr4.mp3'>mp3 file</a> (1.0 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -10662,7 +11077,15 @@
 "end_ref_usfm": "GAL 6:18"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t169-v1",
+"resource_code": "FIAKeyTerms",
+"label": "crucifixion",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -10876,7 +11299,15 @@
 "end_ref_usfm": "LUK 12:34"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t177-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "cubit",
+"language": "eng"
+}
+],
 "acai": []
 }
 },
@@ -10889,7 +11320,7 @@
 "index_reference": "cubit",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t177/v1/vbr4.mp3'>mp3 file</a> (195788 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t177/v1/vbr4.mp3'>mp3 file</a> (191 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -11091,7 +11522,15 @@
 "end_ref_usfm": "LUK 12:34"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t177-v1",
+"resource_code": "FIAKeyTerms",
+"label": "cubit",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -11464,6 +11903,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "Israelites",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t31-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "curse",
+"language": "eng"
 }
 ],
 "acai": []
@@ -11478,7 +11924,7 @@
 "index_reference": "curse",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t31/v1/vbr4.mp3'>mp3 file</a> (473421 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t31/v1/vbr4.mp3'>mp3 file</a> (462 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -11818,7 +12264,15 @@
 "end_ref_usfm": "JAS 3:12"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t31-v1",
+"resource_code": "FIAKeyTerms",
+"label": "curse",
+"language": "eng"
+}
+]
 }
 }
 ]

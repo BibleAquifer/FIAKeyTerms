@@ -165,6 +165,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "prophets",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t98-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "parable",
+"language": "eng"
 }
 ],
 "acai": [
@@ -187,7 +194,7 @@
 "index_reference": "parable",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t98/v1/vbr4.mp3'>mp3 file</a> (765741 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t98/v1/vbr4.mp3'>mp3 file</a> (748 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -323,7 +330,15 @@
 "end_ref_usfm": "LUK 21:38"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t98-v1",
+"resource_code": "FIAKeyTerms",
+"label": "parable",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -351,7 +366,15 @@
 "end_ref_usfm": "2CO 12:10"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t99-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "paradise",
+"language": "eng"
+}
+],
 "acai": [
 {
 "id": "keyterm:Paradise",
@@ -372,7 +395,7 @@
 "index_reference": "paradise",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t99/v1/vbr4.mp3'>mp3 file</a> (931196 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t99/v1/vbr4.mp3'>mp3 file</a> (909 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -388,7 +411,15 @@
 "end_ref_usfm": "2CO 12:10"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t99-v1",
+"resource_code": "FIAKeyTerms",
+"label": "paradise",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -685,6 +716,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "sin",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t162-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "Passover",
+"language": "eng"
 }
 ],
 "acai": [
@@ -707,7 +745,7 @@
 "index_reference": "passover",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t162/v1/vbr4.mp3'>mp3 file</a> (3806324 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t162/v1/vbr4.mp3'>mp3 file</a> (3.6 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -915,7 +953,97 @@
 "end_ref_usfm": "1CO 5:13"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t162-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Passover",
+"language": "eng"
+}
+]
+}
+},
+{
+"content_id": "eng-t269-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "pastor",
+"media_type": "Text",
+"index_reference": "pastor",
+"language": "eng",
+"review_level": "None",
+"content": "<p>This special word for a church leader compares a church leader to a <data class=\"resource-ref\" data-content-id=\"eng-t166-v1\" data-resource-code=\"FIAKeyTerms\">shepherd</data>. A shepherd helped sheep find food and water. A shepherd protected sheep from wild animals. Similarly, a pastor leads and cares for people. The purpose of a pastor is to equip people to do ministry, unify the church, and help people live like Jesus. A pastor teaches people spiritual truths.</p><p>\"Pastor\" may be another name for an <data class=\"resource-ref\" data-content-id=\"eng-t43-v1\" data-resource-code=\"FIAKeyTerms\">elder</data> or an <data class=\"resource-ref\" data-content-id=\"eng-t271-v1\" data-resource-code=\"FIAKeyTerms\">overseer</data>.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "49004007",
+"start_ref_usfm": "EPH 4:7",
+"end_ref": "49004016",
+"end_ref_usfm": "EPH 4:16"
+}
+],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t166-v1",
+"resource_code": "FIAKeyTerms",
+"label": "shepherd",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t43-v1",
+"resource_code": "FIAKeyTerms",
+"label": "elder",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t271-v1",
+"resource_code": "FIAKeyTerms",
+"label": "overseer",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t269-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "pastor",
+"language": "eng"
+}
+],
+"acai": []
+}
+},
+{
+"content_id": "eng-t269-v1-audio",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "pastor",
+"media_type": "Audio",
+"index_reference": "pastor",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t269/v1/vbr4.mp3'>mp3 file</a> (341 KB)</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "49004007",
+"start_ref_usfm": "EPH 4:7",
+"end_ref": "49004016",
+"end_ref_usfm": "EPH 4:16"
+}
+],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t269-v1",
+"resource_code": "FIAKeyTerms",
+"label": "pastor",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -1538,6 +1666,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "kingdom",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t161-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "peace",
+"language": "eng"
 }
 ],
 "acai": [
@@ -1560,7 +1695,7 @@
 "index_reference": "peace",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t161/v1/vbr4.mp3'>mp3 file</a> (984212 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t161/v1/vbr4.mp3'>mp3 file</a> (961 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -2164,7 +2299,15 @@
 "end_ref_usfm": "TIT 3:11"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t161-v1",
+"resource_code": "FIAKeyTerms",
+"label": "peace",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -2246,6 +2389,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "temple",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t225-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "pentecost",
+"language": "eng"
 }
 ],
 "acai": []
@@ -2260,7 +2410,7 @@
 "index_reference": "pentecost",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t225/v1/vbr4.mp3'>mp3 file</a> (1171676 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t225/v1/vbr4.mp3'>mp3 file</a> (1.1 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -2288,7 +2438,256 @@
 "end_ref_usfm": "1CO 16:12"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t225-v1",
+"resource_code": "FIAKeyTerms",
+"label": "pentecost",
+"language": "eng"
+}
+]
+}
+},
+{
+"content_id": "eng-t316-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "perfect",
+"media_type": "Text",
+"index_reference": "perfect",
+"language": "eng",
+"review_level": "None",
+"content": "<p><b>Perfect</b> can mean complete, whole, or without any problems, which is often a way to describe something that is good. When someone makes something perfect, the person finishes the process to make something complete and whole. Authors in the Bible use the word \"perfect\" in a few different ways.</p><p>When authors talk about the Creator God as \"perfect,\" the authors mean that God is completely good. There is nothing bad or evil about God or the way God acts. That is one of the reasons that people should try to act in God's good ways, because God's way of life is perfect! And anything that comes from God is also perfect, without any flaws, like the perfect gifts God gives to believers.</p><p>When authors talk about an animal that is \"perfect,\" the authors mean an animal that is whole and healthy, without problems, injuries, or bad spots.</p><p>When authors talk about people as \"perfect,\" the authors can mean three things.</p><p>First, the authors use \"perfect\" to talk about the way that God makes people not guilty when the people trust in Jesus. The believers are no longer broken and separate from God because of their sin, but instead are whole and completely right with God. Jesus perfected the work, or finished the work, to make the believers no longer guilty.</p><p>Authors also use the word \"perfect\" to mean mature and complete. The believers are supposed to become more and more perfect, or more mature. Just like a piece of fruit is mature when it is fully developed and ready for people to use, a person is perfect or mature when they consistently act like someone who is wise and ready to act in the way God wants.</p><p>Sometimes authors also use the word \"perfect\" to describe someone who lives in the right way. This person is not perfect like God is perfect, because this person sometimes sins and sometimes does not do things in the best way. Instead, it means that this person consistently tries to live in a way that pleases God.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03001001",
+"start_ref_usfm": "LEV 1:1",
+"end_ref": "03001017",
+"end_ref_usfm": "LEV 1:17"
+},
+{
+"start_ref": "03003001",
+"start_ref_usfm": "LEV 3:1",
+"end_ref": "03003017",
+"end_ref_usfm": "LEV 3:17"
+},
+{
+"start_ref": "03004013",
+"start_ref_usfm": "LEV 4:13",
+"end_ref": "03004026",
+"end_ref_usfm": "LEV 4:26"
+},
+{
+"start_ref": "03005014",
+"start_ref_usfm": "LEV 5:14",
+"end_ref": "03006007",
+"end_ref_usfm": "LEV 6:7"
+},
+{
+"start_ref": "03009001",
+"start_ref_usfm": "LEV 9:1",
+"end_ref": "03009007",
+"end_ref_usfm": "LEV 9:7"
+},
+{
+"start_ref": "03014010",
+"start_ref_usfm": "LEV 14:10",
+"end_ref": "03014020",
+"end_ref_usfm": "LEV 14:20"
+},
+{
+"start_ref": "03022017",
+"start_ref_usfm": "LEV 22:17",
+"end_ref": "03022025",
+"end_ref_usfm": "LEV 22:25"
+},
+{
+"start_ref": "05031030",
+"start_ref_usfm": "DEU 31:30",
+"end_ref": "05032006",
+"end_ref_usfm": "DEU 32:6"
+},
+{
+"start_ref": "47013005",
+"start_ref_usfm": "2CO 13:5",
+"end_ref": "47013010",
+"end_ref_usfm": "2CO 13:10"
+},
+{
+"start_ref": "47013011",
+"start_ref_usfm": "2CO 13:11",
+"end_ref": "47013014",
+"end_ref_usfm": "2CO 13:14"
+},
+{
+"start_ref": "50003012",
+"start_ref_usfm": "PHP 3:12",
+"end_ref": "50003016",
+"end_ref_usfm": "PHP 3:16"
+},
+{
+"start_ref": "59001001",
+"start_ref_usfm": "JAS 1:1",
+"end_ref": "59001011",
+"end_ref_usfm": "JAS 1:11"
+},
+{
+"start_ref": "59001012",
+"start_ref_usfm": "JAS 1:12",
+"end_ref": "59001018",
+"end_ref_usfm": "JAS 1:18"
+},
+{
+"start_ref": "59001019",
+"start_ref_usfm": "JAS 1:19",
+"end_ref": "59001027",
+"end_ref_usfm": "JAS 1:27"
+},
+{
+"start_ref": "59003001",
+"start_ref_usfm": "JAS 3:1",
+"end_ref": "59003012",
+"end_ref_usfm": "JAS 3:12"
+},
+{
+"start_ref": "62002003",
+"start_ref_usfm": "1JN 2:3",
+"end_ref": "62002011",
+"end_ref_usfm": "1JN 2:11"
+}
+],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t316-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "perfect",
+"language": "eng"
+}
+],
+"acai": []
+}
+},
+{
+"content_id": "eng-t316-v1-audio",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "perfect",
+"media_type": "Audio",
+"index_reference": "perfect",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t316/v1/vbr4.mp3'>mp3 file</a> (1.9 MB)</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03001001",
+"start_ref_usfm": "LEV 1:1",
+"end_ref": "03001017",
+"end_ref_usfm": "LEV 1:17"
+},
+{
+"start_ref": "03003001",
+"start_ref_usfm": "LEV 3:1",
+"end_ref": "03003017",
+"end_ref_usfm": "LEV 3:17"
+},
+{
+"start_ref": "03004013",
+"start_ref_usfm": "LEV 4:13",
+"end_ref": "03004026",
+"end_ref_usfm": "LEV 4:26"
+},
+{
+"start_ref": "03005014",
+"start_ref_usfm": "LEV 5:14",
+"end_ref": "03006007",
+"end_ref_usfm": "LEV 6:7"
+},
+{
+"start_ref": "03009001",
+"start_ref_usfm": "LEV 9:1",
+"end_ref": "03009007",
+"end_ref_usfm": "LEV 9:7"
+},
+{
+"start_ref": "03014010",
+"start_ref_usfm": "LEV 14:10",
+"end_ref": "03014020",
+"end_ref_usfm": "LEV 14:20"
+},
+{
+"start_ref": "03022017",
+"start_ref_usfm": "LEV 22:17",
+"end_ref": "03022025",
+"end_ref_usfm": "LEV 22:25"
+},
+{
+"start_ref": "05031030",
+"start_ref_usfm": "DEU 31:30",
+"end_ref": "05032006",
+"end_ref_usfm": "DEU 32:6"
+},
+{
+"start_ref": "47013005",
+"start_ref_usfm": "2CO 13:5",
+"end_ref": "47013010",
+"end_ref_usfm": "2CO 13:10"
+},
+{
+"start_ref": "47013011",
+"start_ref_usfm": "2CO 13:11",
+"end_ref": "47013014",
+"end_ref_usfm": "2CO 13:14"
+},
+{
+"start_ref": "50003012",
+"start_ref_usfm": "PHP 3:12",
+"end_ref": "50003016",
+"end_ref_usfm": "PHP 3:16"
+},
+{
+"start_ref": "59001001",
+"start_ref_usfm": "JAS 1:1",
+"end_ref": "59001011",
+"end_ref_usfm": "JAS 1:11"
+},
+{
+"start_ref": "59001012",
+"start_ref_usfm": "JAS 1:12",
+"end_ref": "59001018",
+"end_ref_usfm": "JAS 1:18"
+},
+{
+"start_ref": "59001019",
+"start_ref_usfm": "JAS 1:19",
+"end_ref": "59001027",
+"end_ref_usfm": "JAS 1:27"
+},
+{
+"start_ref": "59003001",
+"start_ref_usfm": "JAS 3:1",
+"end_ref": "59003012",
+"end_ref_usfm": "JAS 3:12"
+},
+{
+"start_ref": "62002003",
+"start_ref_usfm": "1JN 2:3",
+"end_ref": "62002011",
+"end_ref_usfm": "1JN 2:11"
+}
+],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t316-v1",
+"resource_code": "FIAKeyTerms",
+"label": "perfect",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -2500,6 +2899,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "good news",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t186-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "persecution",
+"language": "eng"
 }
 ],
 "acai": []
@@ -2514,7 +2920,7 @@
 "index_reference": "persecution",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t186/v1/vbr4.mp3'>mp3 file</a> (688532 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t186/v1/vbr4.mp3'>mp3 file</a> (672 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -2686,7 +3092,15 @@
 "end_ref_usfm": "2TI 3:17"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t186-v1",
+"resource_code": "FIAKeyTerms",
+"label": "persecution",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -2996,6 +3410,12 @@
 "end_ref_usfm": "1KI 11:43"
 },
 {
+"start_ref": "12017007",
+"start_ref_usfm": "2KI 17:7",
+"end_ref": "12017023",
+"end_ref_usfm": "2KI 17:23"
+},
+{
 "start_ref": "13004011",
 "start_ref_usfm": "1CH 4:11",
 "end_ref": "13004020",
@@ -3027,20 +3447,27 @@
 "resource_code": "FIAKeyTerms",
 "label": "king",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t179-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "pharaoh",
+"language": "eng"
 }
 ],
 "acai": [
 {
 "id": "person:Pharaoh.6",
 "type": "person",
-"confidence": 0.5907,
+"confidence": 0.59,
 "match_method": "scored",
 "preferred_label": "Pharaoh"
 },
 {
 "id": "person:Pharaoh.4",
 "type": "person",
-"confidence": 0.569,
+"confidence": 0.5683,
 "match_method": "scored",
 "preferred_label": "Pharaoh"
 }
@@ -3056,7 +3483,7 @@
 "index_reference": "pharaoh",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t179/v1/vbr4.mp3'>mp3 file</a> (490652 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t179/v1/vbr4.mp3'>mp3 file</a> (479 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -3354,6 +3781,12 @@
 "end_ref_usfm": "1KI 11:43"
 },
 {
+"start_ref": "12017007",
+"start_ref_usfm": "2KI 17:7",
+"end_ref": "12017023",
+"end_ref_usfm": "2KI 17:23"
+},
+{
 "start_ref": "13004011",
 "start_ref_usfm": "1CH 4:11",
 "end_ref": "13004020",
@@ -3378,7 +3811,15 @@
 "end_ref_usfm": "ACT 7:34"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t179-v1",
+"resource_code": "FIAKeyTerms",
+"label": "pharaoh",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -3809,6 +4250,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "Jewish",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t100-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "Pharisee",
+"language": "eng"
 }
 ],
 "acai": [
@@ -3831,7 +4279,7 @@
 "index_reference": "pharisee",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t100/v1/vbr4.mp3'>mp3 file</a> (895220 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t100/v1/vbr4.mp3'>mp3 file</a> (874 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -4201,7 +4649,15 @@
 "end_ref_usfm": "PHP 3:11"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t100-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Pharisee",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -4223,7 +4679,15 @@
 "end_ref_usfm": "NUM 21:30"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t284-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "poet",
+"language": "eng"
+}
+],
 "acai": []
 }
 },
@@ -4236,7 +4700,7 @@
 "index_reference": "poet",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t284/v1/vbr4.mp3'>mp3 file</a> (1123893 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t284/v1/vbr4.mp3'>mp3 file</a> (1.1 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -4246,7 +4710,15 @@
 "end_ref_usfm": "NUM 21:30"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t284-v1",
+"resource_code": "FIAKeyTerms",
+"label": "poet",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -4332,6 +4804,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "Israelites",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t101-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "possessed",
+"language": "eng"
 }
 ],
 "acai": []
@@ -4346,7 +4825,7 @@
 "index_reference": "possessed",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t101/v1/vbr4.mp3'>mp3 file</a> (466700 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t101/v1/vbr4.mp3'>mp3 file</a> (456 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -4392,7 +4871,15 @@
 "end_ref_usfm": "ACT 19:20"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t101-v1",
+"resource_code": "FIAKeyTerms",
+"label": "possessed",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -4679,6 +5166,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "blessings",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t219-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "praise",
+"language": "eng"
 }
 ],
 "acai": [
@@ -4701,7 +5195,7 @@
 "index_reference": "praise",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t219/v1/vbr4.mp3'>mp3 file</a> (244940 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t219/v1/vbr4.mp3'>mp3 file</a> (239 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -4969,7 +5463,15 @@
 "end_ref_usfm": "JAS 5:20"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t219-v1",
+"resource_code": "FIAKeyTerms",
+"label": "praise",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -5583,6 +6085,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "temple",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t102-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "pray",
+"language": "eng"
 }
 ],
 "acai": [
@@ -5605,7 +6114,7 @@
 "index_reference": "pray",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t102/v1/vbr4.mp3'>mp3 file</a> (1234844 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t102/v1/vbr4.mp3'>mp3 file</a> (1.2 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -6179,7 +6688,15 @@
 "end_ref_usfm": "JUD 1:23"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t102-v1",
+"resource_code": "FIAKeyTerms",
+"label": "pray",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -6949,6 +7466,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "churches",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t103-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "priest",
+"language": "eng"
 }
 ],
 "acai": []
@@ -6963,7 +7487,7 @@
 "index_reference": "priest",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t103/v1/vbr4.mp3'>mp3 file</a> (3234452 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t103/v1/vbr4.mp3'>mp3 file</a> (3.1 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -7567,7 +8091,166 @@
 "end_ref_usfm": "JOS 14:15"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t103-v1",
+"resource_code": "FIAKeyTerms",
+"label": "priest",
+"language": "eng"
+}
+]
+}
+},
+{
+"content_id": "eng-t240-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Promised Land",
+"media_type": "Text",
+"index_reference": "promised land",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The word for \"promised land\" does not actually appear in the Old Testament. But translators often use the phrase \"promised land\" to give context about the land that God promised to God's people.</p><p>A very long time ago, God, whose name is <data class=\"resource-ref\" data-content-id=\"eng-t174-v1\" data-resource-code=\"FIAKeyTerms\">Yahweh</data>, chose <data class=\"resource-ref\" data-content-id=\"eng-t1-v1\" data-resource-code=\"FIAKeyTerms\">Abraham</data> and Abraham's descendants to be Yahweh's special people. Yahweh told Abraham to go to a new land. And Yahweh promised to give the whole land of <data class=\"resource-ref\" data-content-id=\"eng-t178-v1\" data-resource-code=\"FIAKeyTerms\">Canaan</data> to Abraham and Abraham's descendants forever. Because of this, sometimes people call Canaan the \"promised land.\"</p><p>In the Old Testament, Canaan is a strip of land roughly between the <data class=\"resource-ref\" data-content-id=\"eng-t80-v1\" data-resource-code=\"FIAKeyTerms\">Jordan River</data> in the east and the Mediterranean Sea in the west. Today, this area includes parts of the countries of Israel and Palestine, Lebanon, and Syria. Canaan was a land that was very good for people to grow plants and raise animals for food.</p><p>Yahweh did not fulfill Yahweh's promise to Abraham immediately. Instead, Yahweh continued to promise to give Canaan to Abraham's descendants. Yahweh repeated this promise to Abraham's descendants: Isaac, Jacob, Moses, and Joshua.</p><p>Many years after Abraham died, Moses freed the descendants of Abraham's grandson Jacob, or the \"<data class=\"resource-ref\" data-content-id=\"eng-t259-v2\" data-resource-code=\"FIAKeyTerms\">Israelites</data>,\" from slavery in Egypt. And the Israelite Moses led the Israelites through an empty, dry land to the border of the promised land. At this place, Yahweh told the Israelites that Yahweh would bless the Israelites in the promised land if the Israelites obeyed Yahweh's commandments. But if the Israelites disobeyed Yahweh, Yahweh would remove the Israelites from the land. Yahweh also commanded the Israelites to conquer all the peoples who lived in Canaan. If the Canaanites remained in the promised land, the Canaanites would teach the Israelites to do evil things and follow Canaanite gods. Yahweh wanted to build a nation out of the Israelites through whom Yahweh would bless all the peoples of the earth.</p><p>After this, Joshua led the Israelites into the promised land. Joshua led the Israelites to conquer many of the peoples who lived in Canaan. And during <data class=\"resource-ref\" data-content-id=\"eng-t33-v1\" data-resource-code=\"FIAKeyTerms\">King David</data>'s reign, Israel possessed all of the land. Yahweh had fulfilled Yahweh's promise to Abraham and specifically to Jacob's descendants.</p><p>However, the Israelites often sinned and followed the customs and the gods of the Canaanites. You may remember that Yahweh promised this land to the Israelites only if they obeyed Yahweh. Because the Israelites did not obey Yahweh, many years after David died, Yahweh sent enemy nations to conquer the Israelites and remove the Israelites from the promised land. While many Israelites eventually returned to the promised land, the Israelites never again possessed all of the promised land.</p><p>In Hebrews 11:9, the author speaks about the promised land. Just as Yahweh promised Abraham's descendants a good life in the land of Canaan, now Yahweh promises a better land to all the people who follow Yahweh. This better land is a special city that God prepared. In this city, Yahweh's people will have full life with Yahweh forever. Yahweh will give Yahweh's people rest. People will not experience sadness, pain, or death. But as Abraham had to wait to receive the promised land in Canaan, we too must wait for this final Promised Land.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02013017",
+"start_ref_usfm": "EXO 13:17",
+"end_ref": "02013022",
+"end_ref_usfm": "EXO 13:22"
+},
+{
+"start_ref": "02015019",
+"start_ref_usfm": "EXO 15:19",
+"end_ref": "02015027",
+"end_ref_usfm": "EXO 15:27"
+},
+{
+"start_ref": "02023020",
+"start_ref_usfm": "EXO 23:20",
+"end_ref": "02023033",
+"end_ref_usfm": "EXO 23:33"
+},
+{
+"start_ref": "02033012",
+"start_ref_usfm": "EXO 33:12",
+"end_ref": "02033023",
+"end_ref_usfm": "EXO 33:23"
+},
+{
+"start_ref": "02034018",
+"start_ref_usfm": "EXO 34:18",
+"end_ref": "02034028",
+"end_ref_usfm": "EXO 34:28"
+}
+],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t174-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Yahweh",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t1-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Abraham",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t178-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Canaan",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t80-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Jordan River",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t259-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israelites",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t33-v1",
+"resource_code": "FIAKeyTerms",
+"label": "King David",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t240-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "Promised Land",
+"language": "eng"
+}
+],
+"acai": []
+}
+},
+{
+"content_id": "eng-t240-v1-audio",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "Promised Land",
+"media_type": "Audio",
+"index_reference": "promised land",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t240/v1/vbr4.mp3'>mp3 file</a> (2.4 MB)</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02013017",
+"start_ref_usfm": "EXO 13:17",
+"end_ref": "02013022",
+"end_ref_usfm": "EXO 13:22"
+},
+{
+"start_ref": "02015019",
+"start_ref_usfm": "EXO 15:19",
+"end_ref": "02015027",
+"end_ref_usfm": "EXO 15:27"
+},
+{
+"start_ref": "02023020",
+"start_ref_usfm": "EXO 23:20",
+"end_ref": "02023033",
+"end_ref_usfm": "EXO 23:33"
+},
+{
+"start_ref": "02033012",
+"start_ref_usfm": "EXO 33:12",
+"end_ref": "02033023",
+"end_ref_usfm": "EXO 33:23"
+},
+{
+"start_ref": "02034018",
+"start_ref_usfm": "EXO 34:18",
+"end_ref": "02034028",
+"end_ref_usfm": "EXO 34:28"
+}
+],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t240-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Promised Land",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -7819,6 +8502,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "church",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t200-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "prophecy",
+"language": "eng"
 }
 ],
 "acai": []
@@ -7833,7 +8523,7 @@
 "index_reference": "prophecy",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t200/v1/vbr4.mp3'>mp3 file</a> (1264532 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t200/v1/vbr4.mp3'>mp3 file</a> (1.2 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -8017,7 +8707,260 @@
 "end_ref_usfm": "1TI 4:16"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t200-v1",
+"resource_code": "FIAKeyTerms",
+"label": "prophecy",
+"language": "eng"
+}
+]
+}
+},
+{
+"content_id": "eng-t247-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "prophesy",
+"media_type": "Text",
+"index_reference": "prophesy",
+"language": "eng",
+"review_level": "None",
+"content": "<p>When someone <b>prophesies</b>, that person is speaking what God's Spirit, who is the <data class=\"resource-ref\" data-content-id=\"eng-t68-v1\" data-resource-code=\"FIAKeyTerms\">Holy Spirit</data>, has told the person to say. Often, the Holy Spirit tells that person to give a \"<data class=\"resource-ref\" data-content-id=\"eng-t200-v1\" data-resource-code=\"FIAKeyTerms\">prophecy</data>,\" a message that God gives to people through a person. The message can be an instruction about something that God wants the people to do. The message can also be about something that is going to happen in the future. This can be about something good that is going to happen, but it can also be a warning that God is going to punish people if they do not stop sinning.</p><p>Sometimes, when people say that someone \"prophesied,\" people mean that the person announced God's message through music. A person often plays or listens to someone play a musical instrument, then begins to <data class=\"resource-ref\" data-content-id=\"eng-t219-v1\" data-resource-code=\"FIAKeyTerms\">praise</data> and <data class=\"resource-ref\" data-content-id=\"eng-t149-v1\" data-resource-code=\"FIAKeyTerms\">worship</data> God and speak words that the Holy Spirit gives.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04011016",
+"start_ref_usfm": "NUM 11:16",
+"end_ref": "04011030",
+"end_ref_usfm": "NUM 11:30"
+},
+{
+"start_ref": "09010001",
+"start_ref_usfm": "1SA 10:1",
+"end_ref": "09010016",
+"end_ref_usfm": "1SA 10:16"
+},
+{
+"start_ref": "09019011",
+"start_ref_usfm": "1SA 19:11",
+"end_ref": "09019024",
+"end_ref_usfm": "1SA 19:24"
+},
+{
+"start_ref": "11018016",
+"start_ref_usfm": "1KI 18:16",
+"end_ref": "11018029",
+"end_ref_usfm": "1KI 18:29"
+},
+{
+"start_ref": "11022001",
+"start_ref_usfm": "1KI 22:1",
+"end_ref": "11022012",
+"end_ref_usfm": "1KI 22:12"
+},
+{
+"start_ref": "11022013",
+"start_ref_usfm": "1KI 22:13",
+"end_ref": "11022028",
+"end_ref_usfm": "1KI 22:28"
+},
+{
+"start_ref": "13025001",
+"start_ref_usfm": "1CH 25:1",
+"end_ref": "13025007",
+"end_ref_usfm": "1CH 25:7"
+},
+{
+"start_ref": "14018001",
+"start_ref_usfm": "2CH 18:1",
+"end_ref": "14018008",
+"end_ref_usfm": "2CH 18:8"
+},
+{
+"start_ref": "14018009",
+"start_ref_usfm": "2CH 18:9",
+"end_ref": "14018027",
+"end_ref_usfm": "2CH 18:27"
+},
+{
+"start_ref": "14020031",
+"start_ref_usfm": "2CH 20:31",
+"end_ref": "14020037",
+"end_ref_usfm": "2CH 20:37"
+},
+{
+"start_ref": "15005001",
+"start_ref_usfm": "EZR 5:1",
+"end_ref": "15005005",
+"end_ref_usfm": "EZR 5:5"
+},
+{
+"start_ref": "15006013",
+"start_ref_usfm": "EZR 6:13",
+"end_ref": "15006018",
+"end_ref_usfm": "EZR 6:18"
+},
+{
+"start_ref": "46014034",
+"start_ref_usfm": "1CO 14:34",
+"end_ref": "46014040",
+"end_ref_usfm": "1CO 14:40"
+},
+{
+"start_ref": "65001012",
+"start_ref_usfm": "JUD 1:12",
+"end_ref": "65001016",
+"end_ref_usfm": "JUD 1:16"
+}
+],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t68-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Holy Spirit",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t200-v1",
+"resource_code": "FIAKeyTerms",
+"label": "prophecy",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t219-v1",
+"resource_code": "FIAKeyTerms",
+"label": "praise",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t149-v1",
+"resource_code": "FIAKeyTerms",
+"label": "worship",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t247-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "prophesy",
+"language": "eng"
+}
+],
+"acai": []
+}
+},
+{
+"content_id": "eng-t247-v1-audio",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "prophesy",
+"media_type": "Audio",
+"index_reference": "prophesy",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t247/v1/vbr4.mp3'>mp3 file</a> (555 KB)</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04011016",
+"start_ref_usfm": "NUM 11:16",
+"end_ref": "04011030",
+"end_ref_usfm": "NUM 11:30"
+},
+{
+"start_ref": "09010001",
+"start_ref_usfm": "1SA 10:1",
+"end_ref": "09010016",
+"end_ref_usfm": "1SA 10:16"
+},
+{
+"start_ref": "09019011",
+"start_ref_usfm": "1SA 19:11",
+"end_ref": "09019024",
+"end_ref_usfm": "1SA 19:24"
+},
+{
+"start_ref": "11018016",
+"start_ref_usfm": "1KI 18:16",
+"end_ref": "11018029",
+"end_ref_usfm": "1KI 18:29"
+},
+{
+"start_ref": "11022001",
+"start_ref_usfm": "1KI 22:1",
+"end_ref": "11022012",
+"end_ref_usfm": "1KI 22:12"
+},
+{
+"start_ref": "11022013",
+"start_ref_usfm": "1KI 22:13",
+"end_ref": "11022028",
+"end_ref_usfm": "1KI 22:28"
+},
+{
+"start_ref": "13025001",
+"start_ref_usfm": "1CH 25:1",
+"end_ref": "13025007",
+"end_ref_usfm": "1CH 25:7"
+},
+{
+"start_ref": "14018001",
+"start_ref_usfm": "2CH 18:1",
+"end_ref": "14018008",
+"end_ref_usfm": "2CH 18:8"
+},
+{
+"start_ref": "14018009",
+"start_ref_usfm": "2CH 18:9",
+"end_ref": "14018027",
+"end_ref_usfm": "2CH 18:27"
+},
+{
+"start_ref": "14020031",
+"start_ref_usfm": "2CH 20:31",
+"end_ref": "14020037",
+"end_ref_usfm": "2CH 20:37"
+},
+{
+"start_ref": "15005001",
+"start_ref_usfm": "EZR 5:1",
+"end_ref": "15005005",
+"end_ref_usfm": "EZR 5:5"
+},
+{
+"start_ref": "15006013",
+"start_ref_usfm": "EZR 6:13",
+"end_ref": "15006018",
+"end_ref_usfm": "EZR 6:18"
+},
+{
+"start_ref": "46014034",
+"start_ref_usfm": "1CO 14:34",
+"end_ref": "46014040",
+"end_ref_usfm": "1CO 14:40"
+},
+{
+"start_ref": "65001012",
+"start_ref_usfm": "JUD 1:12",
+"end_ref": "65001016",
+"end_ref_usfm": "JUD 1:16"
+}
+],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t247-v1",
+"resource_code": "FIAKeyTerms",
+"label": "prophesy",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -8405,6 +9348,12 @@
 "end_ref_usfm": "2KI 9:13"
 },
 {
+"start_ref": "12010018",
+"start_ref_usfm": "2KI 10:18",
+"end_ref": "12010027",
+"end_ref_usfm": "2KI 10:27"
+},
+{
 "start_ref": "12013014",
 "start_ref_usfm": "2KI 13:14",
 "end_ref": "12013025",
@@ -8415,6 +9364,12 @@
 "start_ref_usfm": "2KI 14:23",
 "end_ref": "12014029",
 "end_ref_usfm": "2KI 14:29"
+},
+{
+"start_ref": "12017007",
+"start_ref_usfm": "2KI 17:7",
+"end_ref": "12017023",
+"end_ref_usfm": "2KI 17:23"
 },
 {
 "start_ref": "13009017",
@@ -8619,18 +9574,6 @@
 "start_ref_usfm": "MAT 1:18",
 "end_ref": "40001025",
 "end_ref_usfm": "MAT 1:25"
-},
-{
-"start_ref": "40002001",
-"start_ref_usfm": "MAT 2:1",
-"end_ref": "40002012",
-"end_ref_usfm": "MAT 2:12"
-},
-{
-"start_ref": "40002013",
-"start_ref_usfm": "MAT 2:13",
-"end_ref": "40002023",
-"end_ref_usfm": "MAT 2:23"
 }
 ],
 "resource": [
@@ -8752,6 +9695,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "angel",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t104-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "prophet",
+"language": "eng"
 }
 ],
 "acai": []
@@ -8766,7 +9716,7 @@
 "index_reference": "prophet",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t104/v1/vbr4.mp3'>mp3 file</a> (4676180 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t104/v1/vbr4.mp3'>mp3 file</a> (4.5 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -9142,6 +10092,12 @@
 "end_ref_usfm": "2KI 9:13"
 },
 {
+"start_ref": "12010018",
+"start_ref_usfm": "2KI 10:18",
+"end_ref": "12010027",
+"end_ref_usfm": "2KI 10:27"
+},
+{
 "start_ref": "12013014",
 "start_ref_usfm": "2KI 13:14",
 "end_ref": "12013025",
@@ -9152,6 +10108,12 @@
 "start_ref_usfm": "2KI 14:23",
 "end_ref": "12014029",
 "end_ref_usfm": "2KI 14:29"
+},
+{
+"start_ref": "12017007",
+"start_ref_usfm": "2KI 17:7",
+"end_ref": "12017023",
+"end_ref_usfm": "2KI 17:23"
 },
 {
 "start_ref": "13009017",
@@ -9356,21 +10318,17 @@
 "start_ref_usfm": "MAT 1:18",
 "end_ref": "40001025",
 "end_ref_usfm": "MAT 1:25"
-},
-{
-"start_ref": "40002001",
-"start_ref_usfm": "MAT 2:1",
-"end_ref": "40002012",
-"end_ref_usfm": "MAT 2:12"
-},
-{
-"start_ref": "40002013",
-"start_ref_usfm": "MAT 2:13",
-"end_ref": "40002023",
-"end_ref_usfm": "MAT 2:23"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t104-v1",
+"resource_code": "FIAKeyTerms",
+"label": "prophet",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -9417,6 +10375,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "wisdom",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t182-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "proverb",
+"language": "eng"
 }
 ],
 "acai": [
@@ -9439,7 +10404,7 @@
 "index_reference": "proverb",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t182/v1/vbr4.mp3'>mp3 file</a> (1142588 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t182/v1/vbr4.mp3'>mp3 file</a> (1.1 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -9467,7 +10432,307 @@
 "end_ref_usfm": "LUK 4:30"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t182-v1",
+"resource_code": "FIAKeyTerms",
+"label": "proverb",
+"language": "eng"
+}
+]
+}
+},
+{
+"content_id": "eng-t280-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "pure",
+"media_type": "Text",
+"index_reference": "pure",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Something that is <b>pure</b> is something that is completely one thing, and no one has added anything else to that thing. For example, pure water is only water. There is no dirt, bits of leaves, or bugs in the water. People value pure things, like pure gold or pure incense, which people would often use to honor the Creator God, Yahweh.</p><p>Think again about pure water. When you think of pure water, you may also think about clean water. When people in the Bible talk about something that is pure, sometimes those people also mean something that is clean. The words \"clean\" and \"unclean\" in the Bible do not talk about whether something is clean or dirty from the outside. In the Bible, a clean person means a person who is fit for service to the Creator God, someone who is acceptable to participate in worship to God. A person who is unclean, or is not pure, is not fit to serve God. Things and places can also be impure. If people want to worship God in those places or with those things, then people need to purify those things and places. Sometimes, people also need to purify unclean things and places so that those things and places do not make people unclean, too! In the Old Testament, God gave people careful instructions about how to make people, places, and things pure. These instructions often included taking a special bath. The process to become clean was a symbol that showed that people were removing anything that was dirty or impure and that separated the people from God.</p><p>Ways of life can also be impure. When people live in impure ways, those people disobey the instructions God has given and make themselves impure. Often in the Bible, people will talk about a pure heart. A pure heart is a heart that is only good, with nothing bad mixed with it. People use the <data class=\"resource-ref\" data-content-id=\"eng-t150-v1\" data-resource-code=\"FIAKeyTerms\">heart</data> to represent the place where a person thinks, feels, and makes decisions. Someone with a pure heart is someone who has completely devoted themselves to God, which is something that is wholly good! That person does not mix in some love for false gods or some evil thoughts. A person can only have a pure heart if that person trusts in Jesus. So a pure heart often refers to someone whom God saves and makes good through Jesus.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03012001",
+"start_ref_usfm": "LEV 12:1",
+"end_ref": "03012008",
+"end_ref_usfm": "LEV 12:8"
+},
+{
+"start_ref": "04005011",
+"start_ref_usfm": "NUM 5:11",
+"end_ref": "04005031",
+"end_ref_usfm": "NUM 5:31"
+},
+{
+"start_ref": "04019001",
+"start_ref_usfm": "NUM 19:1",
+"end_ref": "04019010",
+"end_ref_usfm": "NUM 19:10"
+},
+{
+"start_ref": "47006003",
+"start_ref_usfm": "2CO 6:3",
+"end_ref": "47006013",
+"end_ref_usfm": "2CO 6:13"
+},
+{
+"start_ref": "47012019",
+"start_ref_usfm": "2CO 12:19",
+"end_ref": "47012021",
+"end_ref_usfm": "2CO 12:21"
+},
+{
+"start_ref": "50001001",
+"start_ref_usfm": "PHP 1:1",
+"end_ref": "50001011",
+"end_ref_usfm": "PHP 1:11"
+},
+{
+"start_ref": "50002012",
+"start_ref_usfm": "PHP 2:12",
+"end_ref": "50002018",
+"end_ref_usfm": "PHP 2:18"
+},
+{
+"start_ref": "50004002",
+"start_ref_usfm": "PHP 4:2",
+"end_ref": "50004009",
+"end_ref_usfm": "PHP 4:9"
+},
+{
+"start_ref": "52004001",
+"start_ref_usfm": "1TH 4:1",
+"end_ref": "52004008",
+"end_ref_usfm": "1TH 4:8"
+},
+{
+"start_ref": "54001003",
+"start_ref_usfm": "1TI 1:3",
+"end_ref": "54001007",
+"end_ref_usfm": "1TI 1:7"
+},
+{
+"start_ref": "54004011",
+"start_ref_usfm": "1TI 4:11",
+"end_ref": "54004016",
+"end_ref_usfm": "1TI 4:16"
+},
+{
+"start_ref": "54005001",
+"start_ref_usfm": "1TI 5:1",
+"end_ref": "54005008",
+"end_ref_usfm": "1TI 5:8"
+},
+{
+"start_ref": "54005017",
+"start_ref_usfm": "1TI 5:17",
+"end_ref": "54005025",
+"end_ref_usfm": "1TI 5:25"
+},
+{
+"start_ref": "55002020",
+"start_ref_usfm": "2TI 2:20",
+"end_ref": "55002026",
+"end_ref_usfm": "2TI 2:26"
+},
+{
+"start_ref": "56001010",
+"start_ref_usfm": "TIT 1:10",
+"end_ref": "56001016",
+"end_ref_usfm": "TIT 1:16"
+},
+{
+"start_ref": "56002001",
+"start_ref_usfm": "TIT 2:1",
+"end_ref": "56002010",
+"end_ref_usfm": "TIT 2:10"
+},
+{
+"start_ref": "59001019",
+"start_ref_usfm": "JAS 1:19",
+"end_ref": "59001027",
+"end_ref_usfm": "JAS 1:27"
+},
+{
+"start_ref": "59003013",
+"start_ref_usfm": "JAS 3:13",
+"end_ref": "59003018",
+"end_ref_usfm": "JAS 3:18"
+},
+{
+"start_ref": "62002029",
+"start_ref_usfm": "1JN 2:29",
+"end_ref": "62003010",
+"end_ref_usfm": "1JN 3:10"
+}
+],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t150-v1",
+"resource_code": "FIAKeyTerms",
+"label": "heart",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t280-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "pure",
+"language": "eng"
+}
+],
+"acai": [
+{
+"id": "keyterm:Pure",
+"type": "keyterm",
+"confidence": 0.8703,
+"match_method": "embedding",
+"preferred_label": "Pure"
+}
+]
+}
+},
+{
+"content_id": "eng-t280-v1-audio",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "pure",
+"media_type": "Audio",
+"index_reference": "pure",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t280/v1/vbr4.mp3'>mp3 file</a> (1.6 MB)</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03012001",
+"start_ref_usfm": "LEV 12:1",
+"end_ref": "03012008",
+"end_ref_usfm": "LEV 12:8"
+},
+{
+"start_ref": "04005011",
+"start_ref_usfm": "NUM 5:11",
+"end_ref": "04005031",
+"end_ref_usfm": "NUM 5:31"
+},
+{
+"start_ref": "04019001",
+"start_ref_usfm": "NUM 19:1",
+"end_ref": "04019010",
+"end_ref_usfm": "NUM 19:10"
+},
+{
+"start_ref": "47006003",
+"start_ref_usfm": "2CO 6:3",
+"end_ref": "47006013",
+"end_ref_usfm": "2CO 6:13"
+},
+{
+"start_ref": "47012019",
+"start_ref_usfm": "2CO 12:19",
+"end_ref": "47012021",
+"end_ref_usfm": "2CO 12:21"
+},
+{
+"start_ref": "50001001",
+"start_ref_usfm": "PHP 1:1",
+"end_ref": "50001011",
+"end_ref_usfm": "PHP 1:11"
+},
+{
+"start_ref": "50002012",
+"start_ref_usfm": "PHP 2:12",
+"end_ref": "50002018",
+"end_ref_usfm": "PHP 2:18"
+},
+{
+"start_ref": "50004002",
+"start_ref_usfm": "PHP 4:2",
+"end_ref": "50004009",
+"end_ref_usfm": "PHP 4:9"
+},
+{
+"start_ref": "52004001",
+"start_ref_usfm": "1TH 4:1",
+"end_ref": "52004008",
+"end_ref_usfm": "1TH 4:8"
+},
+{
+"start_ref": "54001003",
+"start_ref_usfm": "1TI 1:3",
+"end_ref": "54001007",
+"end_ref_usfm": "1TI 1:7"
+},
+{
+"start_ref": "54004011",
+"start_ref_usfm": "1TI 4:11",
+"end_ref": "54004016",
+"end_ref_usfm": "1TI 4:16"
+},
+{
+"start_ref": "54005001",
+"start_ref_usfm": "1TI 5:1",
+"end_ref": "54005008",
+"end_ref_usfm": "1TI 5:8"
+},
+{
+"start_ref": "54005017",
+"start_ref_usfm": "1TI 5:17",
+"end_ref": "54005025",
+"end_ref_usfm": "1TI 5:25"
+},
+{
+"start_ref": "55002020",
+"start_ref_usfm": "2TI 2:20",
+"end_ref": "55002026",
+"end_ref_usfm": "2TI 2:26"
+},
+{
+"start_ref": "56001010",
+"start_ref_usfm": "TIT 1:10",
+"end_ref": "56001016",
+"end_ref_usfm": "TIT 1:16"
+},
+{
+"start_ref": "56002001",
+"start_ref_usfm": "TIT 2:1",
+"end_ref": "56002010",
+"end_ref_usfm": "TIT 2:10"
+},
+{
+"start_ref": "59001019",
+"start_ref_usfm": "JAS 1:19",
+"end_ref": "59001027",
+"end_ref_usfm": "JAS 1:27"
+},
+{
+"start_ref": "59003013",
+"start_ref_usfm": "JAS 3:13",
+"end_ref": "59003018",
+"end_ref_usfm": "JAS 3:18"
+},
+{
+"start_ref": "62002029",
+"start_ref_usfm": "1JN 2:29",
+"end_ref": "62003010",
+"end_ref_usfm": "1JN 3:10"
+}
+],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t280-v1",
+"resource_code": "FIAKeyTerms",
+"label": "pure",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -9570,6 +10835,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "sacrifice",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t163-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "purification offering or ceremony",
+"language": "eng"
 }
 ],
 "acai": []
@@ -9584,7 +10856,7 @@
 "index_reference": "purification offering or ceremony",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t163/v1/vbr4.mp3'>mp3 file</a> (917852 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t163/v1/vbr4.mp3'>mp3 file</a> (896 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -9654,7 +10926,15 @@
 "end_ref_usfm": "ACT 24:23"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t163-v1",
+"resource_code": "FIAKeyTerms",
+"label": "purification offering or ceremony",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -9861,6 +11141,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "priest",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t208-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "purify",
+"language": "eng"
 }
 ],
 "acai": []
@@ -9875,7 +11162,7 @@
 "index_reference": "purify",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t208/v1/vbr4.mp3'>mp3 file</a> (1051940 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t208/v1/vbr4.mp3'>mp3 file</a> (1.0 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -10035,7 +11322,15 @@
 "end_ref_usfm": "1JN 3:10"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t208-v1",
+"resource_code": "FIAKeyTerms",
+"label": "purify",
+"language": "eng"
+}
+]
 }
 }
 ]

@@ -612,7 +612,15 @@
 "end_ref_usfm": "2SA 10:19"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t226-v2-audio",
+"resource_code": "FIAKeyTerms",
+"label": "king",
+"language": "eng"
+}
+],
 "acai": []
 }
 },
@@ -625,7 +633,7 @@
 "index_reference": "king",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t226/v2/vbr4.mp3'>mp3 file</a> (257276 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t226/v2/vbr4.mp3'>mp3 file</a> (251 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -1229,7 +1237,15 @@
 "end_ref_usfm": "2SA 10:19"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t226-v2",
+"resource_code": "FIAKeyTerms",
+"label": "king",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -1417,6 +1433,12 @@
 "start_ref_usfm": "2KI 14:1",
 "end_ref": "12014007",
 "end_ref_usfm": "2KI 14:7"
+},
+{
+"start_ref": "12015017",
+"start_ref_usfm": "2KI 15:17",
+"end_ref": "12015022",
+"end_ref_usfm": "2KI 15:22"
 },
 {
 "start_ref": "13011010",
@@ -1738,6 +1760,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "king",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t157-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "kingdom",
+"language": "eng"
 }
 ],
 "acai": [
@@ -1760,7 +1789,7 @@
 "index_reference": "kingdom",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t157/v1/vbr4.mp3'>mp3 file</a> (94316 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t157/v1/vbr4.mp3'>mp3 file</a> (92 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -1936,6 +1965,12 @@
 "start_ref_usfm": "2KI 14:1",
 "end_ref": "12014007",
 "end_ref_usfm": "2KI 14:7"
+},
+{
+"start_ref": "12015017",
+"start_ref_usfm": "2KI 15:17",
+"end_ref": "12015022",
+"end_ref_usfm": "2KI 15:22"
 },
 {
 "start_ref": "13011010",
@@ -2250,7 +2285,15 @@
 "end_ref_usfm": "ACT 1:11"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t157-v1",
+"resource_code": "FIAKeyTerms",
+"label": "kingdom",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -2877,6 +2920,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "apostle",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t82-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "kingdom of God",
+"language": "eng"
 }
 ],
 "acai": []
@@ -2891,7 +2941,7 @@
 "index_reference": "kingdom of god",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t82/v1/vbr4.mp3'>mp3 file</a> (4030580 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t82/v1/vbr4.mp3'>mp3 file</a> (3.8 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -3387,7 +3437,15 @@
 "end_ref_usfm": "JAS 2:7"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t82-v1",
+"resource_code": "FIAKeyTerms",
+"label": "kingdom of God",
+"language": "eng"
+}
+]
 }
 }
 ]

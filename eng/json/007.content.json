@@ -66,6 +66,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "son of God",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t54-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "Gabriel",
+"language": "eng"
 }
 ],
 "acai": [
@@ -88,7 +95,7 @@
 "index_reference": "gabriel",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t54/v1/vbr4.mp3'>mp3 file</a> (558909 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t54/v1/vbr4.mp3'>mp3 file</a> (546 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -104,7 +111,15 @@
 "end_ref_usfm": "LUK 1:56"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t54-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Gabriel",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -382,6 +397,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "Jews",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t55-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "Galilee",
+"language": "eng"
 }
 ],
 "acai": [
@@ -418,7 +440,7 @@
 "index_reference": "galilee",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t55/v1/vbr4.mp3'>mp3 file</a> (1442564 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t55/v1/vbr4.mp3'>mp3 file</a> (1.4 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -614,7 +636,15 @@
 "end_ref_usfm": "ACT 3:10"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t55-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Galilee",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -763,6 +793,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "generations",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t172-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "genealogy",
+"language": "eng"
 }
 ],
 "acai": []
@@ -777,7 +814,7 @@
 "index_reference": "genealogy",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t172/v1/vbr4.mp3'>mp3 file</a> (621092 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t172/v1/vbr4.mp3'>mp3 file</a> (607 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -907,7 +944,15 @@
 "end_ref_usfm": "TIT 3:11"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t172-v1",
+"resource_code": "FIAKeyTerms",
+"label": "genealogy",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -1355,7 +1400,15 @@
 "end_ref_usfm": "PHP 2:18"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t173-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "generations",
+"language": "eng"
+}
+],
 "acai": []
 }
 },
@@ -1368,7 +1421,7 @@
 "index_reference": "generations",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t173/v1/vbr4.mp3'>mp3 file</a> (554372 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t173/v1/vbr4.mp3'>mp3 file</a> (541 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -1804,7 +1857,15 @@
 "end_ref_usfm": "PHP 2:18"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t173-v1",
+"resource_code": "FIAKeyTerms",
+"label": "generations",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -2240,6 +2301,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "Greek",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t56-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "Gentile",
+"language": "eng"
 }
 ],
 "acai": [
@@ -2269,7 +2337,7 @@
 "index_reference": "gentile",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t56/v1/vbr4.mp3'>mp3 file</a> (1590285 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t56/v1/vbr4.mp3'>mp3 file</a> (1.5 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -2609,7 +2677,15 @@
 "end_ref_usfm": "2TI 4:22"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t56-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Gentile",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -2631,7 +2707,15 @@
 "end_ref_usfm": "MRK 5:20"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t57-v2.1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "Gerasenes",
+"language": "eng"
+}
+],
 "acai": [
 {
 "id": "place:Gerasa",
@@ -2652,7 +2736,7 @@
 "index_reference": "gerasenes",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t57/v2.1/vbr4.mp3'>mp3 file</a> (275685 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t57/v2.1/vbr4.mp3'>mp3 file</a> (269 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -2662,7 +2746,179 @@
 "end_ref_usfm": "MRK 5:20"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t57-v2.1",
+"resource_code": "FIAKeyTerms",
+"label": "Gerasenes",
+"language": "eng"
+}
+]
+}
+},
+{
+"content_id": "eng-t295-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "gift",
+"media_type": "Text",
+"index_reference": "gift",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Paul often talks about spiritual gifts or special abilities that God gives to believers through <data class=\"resource-ref\" data-content-id=\"eng-t68-v1\" data-resource-code=\"FIAKeyTerms\">God's Spirit</data>. The word in the original language means \"spiritual things,\" but most translations choose to say \"spiritual gifts.\" Sometimes Paul uses a different word to refer to these special abilities that means \"grace gifts,\" or gifts that people do not deserve. Paul uses the word \"grace\" to remind us that God gives these gifts not because believers do anything to earn the gifts, but because God is kind.</p><p>God gives these gifts or abilities so that believers can use them to encourage and strengthen one another. When believers have certain gifts, they use words to teach, guide, or encourage others, while believers with other gifts serve people through actions. God's Spirit does not give every believer the same gift, but all believers benefit from each gift.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "46001001",
+"start_ref_usfm": "1CO 1:1",
+"end_ref": "46001009",
+"end_ref_usfm": "1CO 1:9"
+},
+{
+"start_ref": "46007001",
+"start_ref_usfm": "1CO 7:1",
+"end_ref": "46007009",
+"end_ref_usfm": "1CO 7:9"
+},
+{
+"start_ref": "46012001",
+"start_ref_usfm": "1CO 12:1",
+"end_ref": "46012011",
+"end_ref_usfm": "1CO 12:11"
+},
+{
+"start_ref": "46012027",
+"start_ref_usfm": "1CO 12:27",
+"end_ref": "46012031",
+"end_ref_usfm": "1CO 12:31"
+},
+{
+"start_ref": "46014001",
+"start_ref_usfm": "1CO 14:1",
+"end_ref": "46014005",
+"end_ref_usfm": "1CO 14:5"
+},
+{
+"start_ref": "46014006",
+"start_ref_usfm": "1CO 14:6",
+"end_ref": "46014019",
+"end_ref_usfm": "1CO 14:19"
+},
+{
+"start_ref": "46014034",
+"start_ref_usfm": "1CO 14:34",
+"end_ref": "46014040",
+"end_ref_usfm": "1CO 14:40"
+},
+{
+"start_ref": "54004011",
+"start_ref_usfm": "1TI 4:11",
+"end_ref": "54004016",
+"end_ref_usfm": "1TI 4:16"
+},
+{
+"start_ref": "55001008",
+"start_ref_usfm": "2TI 1:8",
+"end_ref": "55001014",
+"end_ref_usfm": "2TI 1:14"
+}
+],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t68-v1",
+"resource_code": "FIAKeyTerms",
+"label": "God's Spirit",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t295-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "gift",
+"language": "eng"
+}
+],
+"acai": []
+}
+},
+{
+"content_id": "eng-t295-v1-audio",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "gift",
+"media_type": "Audio",
+"index_reference": "gift",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t295/v1/vbr4.mp3'>mp3 file</a> (619 KB)</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "46001001",
+"start_ref_usfm": "1CO 1:1",
+"end_ref": "46001009",
+"end_ref_usfm": "1CO 1:9"
+},
+{
+"start_ref": "46007001",
+"start_ref_usfm": "1CO 7:1",
+"end_ref": "46007009",
+"end_ref_usfm": "1CO 7:9"
+},
+{
+"start_ref": "46012001",
+"start_ref_usfm": "1CO 12:1",
+"end_ref": "46012011",
+"end_ref_usfm": "1CO 12:11"
+},
+{
+"start_ref": "46012027",
+"start_ref_usfm": "1CO 12:27",
+"end_ref": "46012031",
+"end_ref_usfm": "1CO 12:31"
+},
+{
+"start_ref": "46014001",
+"start_ref_usfm": "1CO 14:1",
+"end_ref": "46014005",
+"end_ref_usfm": "1CO 14:5"
+},
+{
+"start_ref": "46014006",
+"start_ref_usfm": "1CO 14:6",
+"end_ref": "46014019",
+"end_ref_usfm": "1CO 14:19"
+},
+{
+"start_ref": "46014034",
+"start_ref_usfm": "1CO 14:34",
+"end_ref": "46014040",
+"end_ref_usfm": "1CO 14:40"
+},
+{
+"start_ref": "54004011",
+"start_ref_usfm": "1TI 4:11",
+"end_ref": "54004016",
+"end_ref_usfm": "1TI 4:16"
+},
+{
+"start_ref": "55001008",
+"start_ref_usfm": "2TI 1:8",
+"end_ref": "55001014",
+"end_ref_usfm": "2TI 1:14"
+}
+],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t295-v1",
+"resource_code": "FIAKeyTerms",
+"label": "gift",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -2806,6 +3062,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "praise",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t199-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "glorify",
+"language": "eng"
 }
 ],
 "acai": []
@@ -2820,7 +3083,7 @@
 "index_reference": "glorify",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t199/v1/vbr4.mp3'>mp3 file</a> (686324 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t199/v1/vbr4.mp3'>mp3 file</a> (670 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -2938,7 +3201,15 @@
 "end_ref_usfm": "GAL 1:24"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t199-v1",
+"resource_code": "FIAKeyTerms",
+"label": "glorify",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -3488,7 +3759,15 @@
 "end_ref_usfm": "JUD 1:25"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t58-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "glory",
+"language": "eng"
+}
+],
 "acai": [
 {
 "id": "keyterm:Glory",
@@ -3509,7 +3788,7 @@
 "index_reference": "glory",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t58/v1/vbr4.mp3'>mp3 file</a> (686324 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t58/v1/vbr4.mp3'>mp3 file</a> (670 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -4047,7 +4326,15 @@
 "end_ref_usfm": "JUD 1:25"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t58-v1",
+"resource_code": "FIAKeyTerms",
+"label": "glory",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -4698,6 +4985,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "worship",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t189-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "God",
+"language": "eng"
 }
 ],
 "acai": [
@@ -4720,7 +5014,7 @@
 "index_reference": "god",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t189/v1/vbr4.mp3'>mp3 file</a> (724148 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t189/v1/vbr4.mp3'>mp3 file</a> (707 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -5324,7 +5618,256 @@
 "end_ref_usfm": "EXO 36:38"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t189-v1",
+"resource_code": "FIAKeyTerms",
+"label": "God",
+"language": "eng"
+}
+]
+}
+},
+{
+"content_id": "eng-t296-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "godly/ungodly",
+"media_type": "Text",
+"index_reference": "godlyungodly",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A <b>godly</b> person is someone who has deep respect for the Creator God and so wants to please God. This person learns about God, who God is, and what God wants. Then this person tries to act in a way that pleases God. A godly person wants to be patient like God is. A godly person wants to be kind like God is kind. A godly person wants to act in the good ways God acts, like a child wants to act as their parents act! When a person acts in a way that pleases God, people call this \"godly behavior,\" or just \"godliness.\" God helps cause godly attitudes and actions in believers.</p><p>An ungodly person is someone who does not respect the Creator God. Someone who is ungodly does not care about what God says and does not live according to God's good rules. People sometimes call this way of living \"ungodliness.\"</p><p>Sometimes, people in the Bible may call a person ungodly, but this does not mean that the ungodly person does not worship any god. An ungodly person may worship a false god, who is not the Creator God, and obey that other god's rules.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "14006040",
+"start_ref_usfm": "2CH 6:40",
+"end_ref": "14007003",
+"end_ref_usfm": "2CH 7:3"
+},
+{
+"start_ref": "47001012",
+"start_ref_usfm": "2CO 1:12",
+"end_ref": "47001022",
+"end_ref_usfm": "2CO 1:22"
+},
+{
+"start_ref": "54001008",
+"start_ref_usfm": "1TI 1:8",
+"end_ref": "54001011",
+"end_ref_usfm": "1TI 1:11"
+},
+{
+"start_ref": "54002001",
+"start_ref_usfm": "1TI 2:1",
+"end_ref": "54002007",
+"end_ref_usfm": "1TI 2:7"
+},
+{
+"start_ref": "54002008",
+"start_ref_usfm": "1TI 2:8",
+"end_ref": "54002015",
+"end_ref_usfm": "1TI 2:15"
+},
+{
+"start_ref": "54003014",
+"start_ref_usfm": "1TI 3:14",
+"end_ref": "54003016",
+"end_ref_usfm": "1TI 3:16"
+},
+{
+"start_ref": "54004006",
+"start_ref_usfm": "1TI 4:6",
+"end_ref": "54004010",
+"end_ref_usfm": "1TI 4:10"
+},
+{
+"start_ref": "54005001",
+"start_ref_usfm": "1TI 5:1",
+"end_ref": "54005008",
+"end_ref_usfm": "1TI 5:8"
+},
+{
+"start_ref": "54006002",
+"start_ref_usfm": "1TI 6:2",
+"end_ref": "54006010",
+"end_ref_usfm": "1TI 6:10"
+},
+{
+"start_ref": "54006011",
+"start_ref_usfm": "1TI 6:11",
+"end_ref": "54006016",
+"end_ref_usfm": "1TI 6:16"
+},
+{
+"start_ref": "55002014",
+"start_ref_usfm": "2TI 2:14",
+"end_ref": "55002019",
+"end_ref_usfm": "2TI 2:19"
+},
+{
+"start_ref": "55003001",
+"start_ref_usfm": "2TI 3:1",
+"end_ref": "55003009",
+"end_ref_usfm": "2TI 3:9"
+},
+{
+"start_ref": "55003010",
+"start_ref_usfm": "2TI 3:10",
+"end_ref": "55003017",
+"end_ref_usfm": "2TI 3:17"
+},
+{
+"start_ref": "65001003",
+"start_ref_usfm": "JUD 1:3",
+"end_ref": "65001007",
+"end_ref_usfm": "JUD 1:7"
+},
+{
+"start_ref": "65001008",
+"start_ref_usfm": "JUD 1:8",
+"end_ref": "65001011",
+"end_ref_usfm": "JUD 1:11"
+},
+{
+"start_ref": "65001012",
+"start_ref_usfm": "JUD 1:12",
+"end_ref": "65001016",
+"end_ref_usfm": "JUD 1:16"
+}
+],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t296-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "godly/ungodly",
+"language": "eng"
+}
+],
+"acai": []
+}
+},
+{
+"content_id": "eng-t296-v1-audio",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "godly/ungodly",
+"media_type": "Audio",
+"index_reference": "godlyungodly",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t296/v1/vbr4.mp3'>mp3 file</a> (910 KB)</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "14006040",
+"start_ref_usfm": "2CH 6:40",
+"end_ref": "14007003",
+"end_ref_usfm": "2CH 7:3"
+},
+{
+"start_ref": "47001012",
+"start_ref_usfm": "2CO 1:12",
+"end_ref": "47001022",
+"end_ref_usfm": "2CO 1:22"
+},
+{
+"start_ref": "54001008",
+"start_ref_usfm": "1TI 1:8",
+"end_ref": "54001011",
+"end_ref_usfm": "1TI 1:11"
+},
+{
+"start_ref": "54002001",
+"start_ref_usfm": "1TI 2:1",
+"end_ref": "54002007",
+"end_ref_usfm": "1TI 2:7"
+},
+{
+"start_ref": "54002008",
+"start_ref_usfm": "1TI 2:8",
+"end_ref": "54002015",
+"end_ref_usfm": "1TI 2:15"
+},
+{
+"start_ref": "54003014",
+"start_ref_usfm": "1TI 3:14",
+"end_ref": "54003016",
+"end_ref_usfm": "1TI 3:16"
+},
+{
+"start_ref": "54004006",
+"start_ref_usfm": "1TI 4:6",
+"end_ref": "54004010",
+"end_ref_usfm": "1TI 4:10"
+},
+{
+"start_ref": "54005001",
+"start_ref_usfm": "1TI 5:1",
+"end_ref": "54005008",
+"end_ref_usfm": "1TI 5:8"
+},
+{
+"start_ref": "54006002",
+"start_ref_usfm": "1TI 6:2",
+"end_ref": "54006010",
+"end_ref_usfm": "1TI 6:10"
+},
+{
+"start_ref": "54006011",
+"start_ref_usfm": "1TI 6:11",
+"end_ref": "54006016",
+"end_ref_usfm": "1TI 6:16"
+},
+{
+"start_ref": "55002014",
+"start_ref_usfm": "2TI 2:14",
+"end_ref": "55002019",
+"end_ref_usfm": "2TI 2:19"
+},
+{
+"start_ref": "55003001",
+"start_ref_usfm": "2TI 3:1",
+"end_ref": "55003009",
+"end_ref_usfm": "2TI 3:9"
+},
+{
+"start_ref": "55003010",
+"start_ref_usfm": "2TI 3:10",
+"end_ref": "55003017",
+"end_ref_usfm": "2TI 3:17"
+},
+{
+"start_ref": "65001003",
+"start_ref_usfm": "JUD 1:3",
+"end_ref": "65001007",
+"end_ref_usfm": "JUD 1:7"
+},
+{
+"start_ref": "65001008",
+"start_ref_usfm": "JUD 1:8",
+"end_ref": "65001011",
+"end_ref_usfm": "JUD 1:11"
+},
+{
+"start_ref": "65001012",
+"start_ref_usfm": "JUD 1:12",
+"end_ref": "65001016",
+"end_ref_usfm": "JUD 1:16"
+}
+],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t296-v1",
+"resource_code": "FIAKeyTerms",
+"label": "godly/ungodly",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -5700,6 +6243,12 @@
 "end_ref_usfm": "1KI 20:34"
 },
 {
+"start_ref": "12017024",
+"start_ref_usfm": "2KI 17:24",
+"end_ref": "12017041",
+"end_ref_usfm": "2KI 17:41"
+},
+{
 "start_ref": "13005018",
 "start_ref_usfm": "1CH 5:18",
 "end_ref": "13005026",
@@ -5916,6 +6465,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "evil spirits",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t235-v2-audio",
+"resource_code": "FIAKeyTerms",
+"label": "gods",
+"language": "eng"
 }
 ],
 "acai": []
@@ -5930,7 +6486,7 @@
 "index_reference": "gods",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t235/v2/vbr4.mp3'>mp3 file</a> (990549 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t235/v2/vbr4.mp3'>mp3 file</a> (967 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -6294,6 +6850,12 @@
 "end_ref_usfm": "1KI 20:34"
 },
 {
+"start_ref": "12017024",
+"start_ref_usfm": "2KI 17:24",
+"end_ref": "12017041",
+"end_ref_usfm": "2KI 17:41"
+},
+{
 "start_ref": "13005018",
 "start_ref_usfm": "1CH 5:18",
 "end_ref": "13005026",
@@ -6426,7 +6988,15 @@
 "end_ref_usfm": "2TH 2:12"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t235-v2",
+"resource_code": "FIAKeyTerms",
+"label": "gods",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -6596,6 +7166,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "church",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t160-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "good news",
+"language": "eng"
 }
 ],
 "acai": [
@@ -6618,7 +7195,7 @@
 "index_reference": "good news",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t160/v1/vbr4.mp3'>mp3 file</a> (1289780 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t160/v1/vbr4.mp3'>mp3 file</a> (1.2 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -6748,7 +7325,15 @@
 "end_ref_usfm": "1TI 1:11"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t160-v1",
+"resource_code": "FIAKeyTerms",
+"label": "good news",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -7111,6 +7696,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "church",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t60-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "gospel",
+"language": "eng"
 }
 ],
 "acai": []
@@ -7125,7 +7717,7 @@
 "index_reference": "gospel",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t60/v1/vbr4.mp3'>mp3 file</a> (1326381 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t60/v1/vbr4.mp3'>mp3 file</a> (1.3 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -7441,7 +8033,15 @@
 "end_ref_usfm": "2TI 2:13"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t60-v1",
+"resource_code": "FIAKeyTerms",
+"label": "gospel",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -7892,6 +8492,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "apostle",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t61-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "grace",
+"language": "eng"
 }
 ],
 "acai": []
@@ -7906,7 +8513,7 @@
 "index_reference": "grace",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t61/v1/vbr4.mp3'>mp3 file</a> (642140 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t61/v1/vbr4.mp3'>mp3 file</a> (627 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -8324,7 +8931,203 @@
 "end_ref_usfm": "JUD 1:7"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t61-v1",
+"resource_code": "FIAKeyTerms",
+"label": "grace",
+"language": "eng"
+}
+]
+}
+},
+{
+"content_id": "eng-t242-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "grave",
+"media_type": "Text",
+"index_reference": "grave",
+"language": "eng",
+"review_level": "None",
+"content": "<p>People buried the body or bones of a dead person in a <b>grave</b>. Translate grave with a general word that can refer to different types of burial places.</p><p>The most common graves for poorer people were holes in the ground and caves. But some people built structures from stone or earth. Other people cut holes into stone. For example, Joseph of Arimathea buried Jesus in a grave that Joseph had cut into stone.</p><p>People did not mark most graves. However, sometimes people marked graves with trees, stones, or pillars. When Jesus was on Earth, the <data class=\"resource-ref\" data-content-id=\"eng-t77-v2\" data-resource-code=\"FIAKeyTerms\">Jews</data> painted graves white. This helped the Jews not have to touch graves, so that the graves would not make the Jews <data class=\"resource-ref\" data-content-id=\"eng-t26-v1\" data-resource-code=\"FIAKeyTerms\">unclean</data>, or unfit for service to God.</p><p>Sometimes people only buried one body in a grave. Other times, people buried many bodies in a grave. <data class=\"resource-ref\" data-content-id=\"eng-t259-v2\" data-resource-code=\"FIAKeyTerms\">Israelites</data> often valued family graves. For example, Jacob requested that Joseph bury Jacob with Jacob's ancestors when Jacob died.</p><p>Usually, people put graves outside of cities. In <data class=\"resource-ref\" data-content-id=\"eng-t76-v1\" data-resource-code=\"FIAKeyTerms\">Jerusalem</data>, people buried the dead in the Kidron Valley. People buried foreigners in the \"potter's field,\" or Akeldama.</p><p>For information about the more specific type of grave that was a cave, a structure, or a hole that people cut into stone, see <data class=\"resource-ref\" data-content-id=\"eng-t140-v1\" data-resource-code=\"FIAKeyTerms\">tomb</data> in the Master Glossary.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02014001",
+"start_ref_usfm": "EXO 14:1",
+"end_ref": "02014014",
+"end_ref_usfm": "EXO 14:14"
+},
+{
+"start_ref": "04019011",
+"start_ref_usfm": "NUM 19:11",
+"end_ref": "04019022",
+"end_ref_usfm": "NUM 19:22"
+},
+{
+"start_ref": "09010001",
+"start_ref_usfm": "1SA 10:1",
+"end_ref": "09010016",
+"end_ref_usfm": "1SA 10:16"
+},
+{
+"start_ref": "10003031",
+"start_ref_usfm": "2SA 3:31",
+"end_ref": "10003039",
+"end_ref_usfm": "2SA 3:39"
+},
+{
+"start_ref": "10004001",
+"start_ref_usfm": "2SA 4:1",
+"end_ref": "10004012",
+"end_ref_usfm": "2SA 4:12"
+},
+{
+"start_ref": "12013014",
+"start_ref_usfm": "2KI 13:14",
+"end_ref": "12013025",
+"end_ref_usfm": "2KI 13:25"
+},
+{
+"start_ref": "14034001",
+"start_ref_usfm": "2CH 34:1",
+"end_ref": "14034007",
+"end_ref_usfm": "2CH 34:7"
+},
+{
+"start_ref": "16002001",
+"start_ref_usfm": "NEH 2:1",
+"end_ref": "16002010",
+"end_ref_usfm": "NEH 2:10"
+}
+],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t77-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Jews",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t26-v1",
+"resource_code": "FIAKeyTerms",
+"label": "unclean",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t259-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Israelites",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t76-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Jerusalem",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t140-v1",
+"resource_code": "FIAKeyTerms",
+"label": "tomb",
+"language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t242-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "grave",
+"language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Grave",
+"type": "realia",
+"confidence": 0.8632,
+"match_method": "embedding",
+"preferred_label": "Grave"
+}
+]
+}
+},
+{
+"content_id": "eng-t242-v1-audio",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "grave",
+"media_type": "Audio",
+"index_reference": "grave",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t242/v1/vbr4.mp3'>mp3 file</a> (875 KB)</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02014001",
+"start_ref_usfm": "EXO 14:1",
+"end_ref": "02014014",
+"end_ref_usfm": "EXO 14:14"
+},
+{
+"start_ref": "04019011",
+"start_ref_usfm": "NUM 19:11",
+"end_ref": "04019022",
+"end_ref_usfm": "NUM 19:22"
+},
+{
+"start_ref": "09010001",
+"start_ref_usfm": "1SA 10:1",
+"end_ref": "09010016",
+"end_ref_usfm": "1SA 10:16"
+},
+{
+"start_ref": "10003031",
+"start_ref_usfm": "2SA 3:31",
+"end_ref": "10003039",
+"end_ref_usfm": "2SA 3:39"
+},
+{
+"start_ref": "10004001",
+"start_ref_usfm": "2SA 4:1",
+"end_ref": "10004012",
+"end_ref_usfm": "2SA 4:12"
+},
+{
+"start_ref": "12013014",
+"start_ref_usfm": "2KI 13:14",
+"end_ref": "12013025",
+"end_ref_usfm": "2KI 13:25"
+},
+{
+"start_ref": "14034001",
+"start_ref_usfm": "2CH 34:1",
+"end_ref": "14034007",
+"end_ref_usfm": "2CH 34:7"
+},
+{
+"start_ref": "16002001",
+"start_ref_usfm": "NEH 2:1",
+"end_ref": "16002010",
+"end_ref_usfm": "NEH 2:10"
+}
+],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t242-v1",
+"resource_code": "FIAKeyTerms",
+"label": "grave",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -8472,6 +9275,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "Gentile",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t211-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "greeks",
+"language": "eng"
 }
 ],
 "acai": [
@@ -8494,7 +9304,7 @@
 "index_reference": "greeks",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t211/v1/vbr4.mp3'>mp3 file</a> (1428980 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t211/v1/vbr4.mp3'>mp3 file</a> (1.4 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -8588,7 +9398,15 @@
 "end_ref_usfm": "GAL 2:10"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t211-v1",
+"resource_code": "FIAKeyTerms",
+"label": "greeks",
+"language": "eng"
+}
+]
 }
 }
 ]

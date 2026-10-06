@@ -1,6 +1,6 @@
 [
 {
-"content_id": "cmn-t144-v1",
+"content_id": "zhs-t144-v1",
 "reference_id": 0,
 "version": "1.0.4",
 "title": "守望台",
@@ -8,7 +8,7 @@
 "index_reference": "守望台",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><b>守望台</b>是<data class=\"resource-ref\" data-content-id=\"cmn-t142-v1\" data-resource-code=\"FIAKeyTerms\">葡萄园</data>内的一个地方，守望者可以从那里眺望葡萄园。 葡萄园是一个人们种植葡萄的园子。 葡萄是一种软的，多汁的水果，生长在被称为葡萄树的树上。 人们通常在葡萄园周围建一堵墙，这样野生动物或小偷就不能进入园中。 人们用岩石或带刺的灌木丛建造了这堵墙。 在葡萄园内，工人用草做的小屋，工人和守望的人可以在树荫中休息。 他们在一堆石头上建造了这个小屋，所以它比园中其余的石头高一点。 通过这种方式，守望者可以俯瞰园子，看到所发生的一切。 这间小屋被称为守望台。</p>",
+"content": "<p><b>守望台</b>是<data class=\"resource-ref\" data-content-id=\"zhs-t142-v1\" data-resource-code=\"FIAKeyTerms\">葡萄园</data>内的一个地方，守望者可以从那里眺望葡萄园。 葡萄园是一个人们种植葡萄的园子。 葡萄是一种软的，多汁的水果，生长在被称为葡萄树的树上。 人们通常在葡萄园周围建一堵墙，这样野生动物或小偷就不能进入园中。 人们用岩石或带刺的灌木丛建造了这堵墙。 在葡萄园内，工人用草做的小屋，工人和守望的人可以在树荫中休息。 他们在一堆石头上建造了这个小屋，所以它比园中其余的石头高一点。 通过这种方式，守望者可以俯瞰园子，看到所发生的一切。 这间小屋被称为守望台。</p>",
 "associations": {
 "passage": [
 {
@@ -33,7 +33,7 @@
 "resource": [
 {
 "reference_id": 0,
-"content_id": "cmn-t142-v1",
+"content_id": "zhs-t142-v1",
 "resource_code": "FIAKeyTerms",
 "label": "葡萄园",
 "language": "zhs"
@@ -48,40 +48,6 @@
 "preferred_label": "Tower"
 }
 ]
-}
-},
-{
-"content_id": "cmn-t144-v1-audio",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "守望台",
-"media_type": "Audio",
-"index_reference": "守望台",
-"language": "zhs",
-"review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='None'>mp3 file</a> (None KB)</p>",
-"associations": {
-"passage": [
-{
-"start_ref": "12009014",
-"start_ref_usfm": "2KI 9:14",
-"end_ref": "12009029",
-"end_ref_usfm": "2KI 9:29"
-},
-{
-"start_ref": "40021033",
-"start_ref_usfm": "MAT 21:33",
-"end_ref": "40021046",
-"end_ref_usfm": "MAT 21:46"
-},
-{
-"start_ref": "41012001",
-"start_ref_usfm": "MRK 12:1",
-"end_ref": "41012012",
-"end_ref_usfm": "MRK 12:12"
-}
-],
-"resource": []
 }
 }
 ]

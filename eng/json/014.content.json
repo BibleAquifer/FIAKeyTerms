@@ -342,6 +342,12 @@
 "end_ref_usfm": "1KI 18:15"
 },
 {
+"start_ref": "12017024",
+"start_ref_usfm": "2KI 17:24",
+"end_ref": "12017041",
+"end_ref_usfm": "2KI 17:41"
+},
+{
 "start_ref": "13014008",
 "start_ref_usfm": "1CH 14:8",
 "end_ref": "13014017",
@@ -639,6 +645,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "good news",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t94-v2-audio",
+"resource_code": "FIAKeyTerms",
+"label": "nation",
+"language": "eng"
 }
 ],
 "acai": [
@@ -661,7 +674,7 @@
 "index_reference": "nation",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t94/v2/vbr4.mp3'>mp3 file</a> (825573 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t94/v2/vbr4.mp3'>mp3 file</a> (806 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -995,6 +1008,12 @@
 "end_ref_usfm": "1KI 18:15"
 },
 {
+"start_ref": "12017024",
+"start_ref_usfm": "2KI 17:24",
+"end_ref": "12017041",
+"end_ref_usfm": "2KI 17:41"
+},
+{
 "start_ref": "13014008",
 "start_ref_usfm": "1CH 14:8",
 "end_ref": "13014017",
@@ -1229,7 +1248,15 @@
 "end_ref_usfm": "1TI 3:16"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t94-v2",
+"resource_code": "FIAKeyTerms",
+"label": "nation",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -1389,6 +1416,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "Jews",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t95-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "Nazareth",
+"language": "eng"
 }
 ],
 "acai": [
@@ -1411,7 +1445,7 @@
 "index_reference": "nazareth",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t95/v1/vbr4.mp3'>mp3 file</a> (546357 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t95/v1/vbr4.mp3'>mp3 file</a> (534 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -1517,7 +1551,316 @@
 "end_ref_usfm": "ACT 26:23"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t95-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Nazareth",
+"language": "eng"
+}
+]
+}
+},
+{
+"content_id": "eng-t153-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "neighbor",
+"media_type": "Text",
+"index_reference": "neighbor",
+"language": "eng",
+"review_level": "None",
+"content": "<p>In the Bible, the word \"neighbor\" often means the people in your community. People also used the word \"neighbors\" to refer to people groups who lived in the same land area or region. In God's law, God gave a lot of instructions about how to love your neighbor as you love yourself. Sometimes people thought that this meant that you only had to love people in your community who were from the same people group as you. In the New Testament, Jesus explained that a neighbor can mean anyone with whom you come into contact, no matter who the other person is! In some cases in the New Testament, authors used the word \"neighbor\" to refer to fellow believers.</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02020008",
+"start_ref_usfm": "EXO 20:8",
+"end_ref": "02020017",
+"end_ref_usfm": "EXO 20:17"
+},
+{
+"start_ref": "02022001",
+"start_ref_usfm": "EXO 22:1",
+"end_ref": "02022006",
+"end_ref_usfm": "EXO 22:6"
+},
+{
+"start_ref": "02022007",
+"start_ref_usfm": "EXO 22:7",
+"end_ref": "02022015",
+"end_ref_usfm": "EXO 22:15"
+},
+{
+"start_ref": "02022025",
+"start_ref_usfm": "EXO 22:25",
+"end_ref": "02022031",
+"end_ref_usfm": "EXO 22:31"
+},
+{
+"start_ref": "02032025",
+"start_ref_usfm": "EXO 32:25",
+"end_ref": "02032035",
+"end_ref_usfm": "EXO 32:35"
+},
+{
+"start_ref": "03005014",
+"start_ref_usfm": "LEV 5:14",
+"end_ref": "03006007",
+"end_ref_usfm": "LEV 6:7"
+},
+{
+"start_ref": "03019009",
+"start_ref_usfm": "LEV 19:9",
+"end_ref": "03019014",
+"end_ref_usfm": "LEV 19:14"
+},
+{
+"start_ref": "03019015",
+"start_ref_usfm": "LEV 19:15",
+"end_ref": "03019018",
+"end_ref_usfm": "LEV 19:18"
+},
+{
+"start_ref": "03020010",
+"start_ref_usfm": "LEV 20:10",
+"end_ref": "03020016",
+"end_ref_usfm": "LEV 20:16"
+},
+{
+"start_ref": "03024010",
+"start_ref_usfm": "LEV 24:10",
+"end_ref": "03024023",
+"end_ref_usfm": "LEV 24:23"
+},
+{
+"start_ref": "05005012",
+"start_ref_usfm": "DEU 5:12",
+"end_ref": "05005021",
+"end_ref_usfm": "DEU 5:21"
+},
+{
+"start_ref": "06009016",
+"start_ref_usfm": "JOS 9:16",
+"end_ref": "06009027",
+"end_ref_usfm": "JOS 9:27"
+},
+{
+"start_ref": "09015024",
+"start_ref_usfm": "1SA 15:24",
+"end_ref": "09015035",
+"end_ref_usfm": "1SA 15:35"
+},
+{
+"start_ref": "09028015",
+"start_ref_usfm": "1SA 28:15",
+"end_ref": "09028025",
+"end_ref_usfm": "1SA 28:25"
+},
+{
+"start_ref": "11008031",
+"start_ref_usfm": "1KI 8:31",
+"end_ref": "11008053",
+"end_ref_usfm": "1KI 8:53"
+},
+{
+"start_ref": "14006022",
+"start_ref_usfm": "2CH 6:22",
+"end_ref": "14006039",
+"end_ref_usfm": "2CH 6:39"
+},
+{
+"start_ref": "41012028",
+"start_ref_usfm": "MRK 12:28",
+"end_ref": "41012034",
+"end_ref_usfm": "MRK 12:34"
+},
+{
+"start_ref": "48005013",
+"start_ref_usfm": "GAL 5:13",
+"end_ref": "48005018",
+"end_ref_usfm": "GAL 5:18"
+},
+{
+"start_ref": "49004025",
+"start_ref_usfm": "EPH 4:25",
+"end_ref": "49004032",
+"end_ref_usfm": "EPH 4:32"
+},
+{
+"start_ref": "59002008",
+"start_ref_usfm": "JAS 2:8",
+"end_ref": "59002013",
+"end_ref_usfm": "JAS 2:13"
+},
+{
+"start_ref": "59004011",
+"start_ref_usfm": "JAS 4:11",
+"end_ref": "59004017",
+"end_ref_usfm": "JAS 4:17"
+}
+],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t153-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "neighbor",
+"language": "eng"
+}
+],
+"acai": []
+}
+},
+{
+"content_id": "eng-t153-v1-audio",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "neighbor",
+"media_type": "Audio",
+"index_reference": "neighbor",
+"language": "eng",
+"review_level": "None",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t153/v1/vbr4.mp3'>mp3 file</a> (425 KB)</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02020008",
+"start_ref_usfm": "EXO 20:8",
+"end_ref": "02020017",
+"end_ref_usfm": "EXO 20:17"
+},
+{
+"start_ref": "02022001",
+"start_ref_usfm": "EXO 22:1",
+"end_ref": "02022006",
+"end_ref_usfm": "EXO 22:6"
+},
+{
+"start_ref": "02022007",
+"start_ref_usfm": "EXO 22:7",
+"end_ref": "02022015",
+"end_ref_usfm": "EXO 22:15"
+},
+{
+"start_ref": "02022025",
+"start_ref_usfm": "EXO 22:25",
+"end_ref": "02022031",
+"end_ref_usfm": "EXO 22:31"
+},
+{
+"start_ref": "02032025",
+"start_ref_usfm": "EXO 32:25",
+"end_ref": "02032035",
+"end_ref_usfm": "EXO 32:35"
+},
+{
+"start_ref": "03005014",
+"start_ref_usfm": "LEV 5:14",
+"end_ref": "03006007",
+"end_ref_usfm": "LEV 6:7"
+},
+{
+"start_ref": "03019009",
+"start_ref_usfm": "LEV 19:9",
+"end_ref": "03019014",
+"end_ref_usfm": "LEV 19:14"
+},
+{
+"start_ref": "03019015",
+"start_ref_usfm": "LEV 19:15",
+"end_ref": "03019018",
+"end_ref_usfm": "LEV 19:18"
+},
+{
+"start_ref": "03020010",
+"start_ref_usfm": "LEV 20:10",
+"end_ref": "03020016",
+"end_ref_usfm": "LEV 20:16"
+},
+{
+"start_ref": "03024010",
+"start_ref_usfm": "LEV 24:10",
+"end_ref": "03024023",
+"end_ref_usfm": "LEV 24:23"
+},
+{
+"start_ref": "05005012",
+"start_ref_usfm": "DEU 5:12",
+"end_ref": "05005021",
+"end_ref_usfm": "DEU 5:21"
+},
+{
+"start_ref": "06009016",
+"start_ref_usfm": "JOS 9:16",
+"end_ref": "06009027",
+"end_ref_usfm": "JOS 9:27"
+},
+{
+"start_ref": "09015024",
+"start_ref_usfm": "1SA 15:24",
+"end_ref": "09015035",
+"end_ref_usfm": "1SA 15:35"
+},
+{
+"start_ref": "09028015",
+"start_ref_usfm": "1SA 28:15",
+"end_ref": "09028025",
+"end_ref_usfm": "1SA 28:25"
+},
+{
+"start_ref": "11008031",
+"start_ref_usfm": "1KI 8:31",
+"end_ref": "11008053",
+"end_ref_usfm": "1KI 8:53"
+},
+{
+"start_ref": "14006022",
+"start_ref_usfm": "2CH 6:22",
+"end_ref": "14006039",
+"end_ref_usfm": "2CH 6:39"
+},
+{
+"start_ref": "41012028",
+"start_ref_usfm": "MRK 12:28",
+"end_ref": "41012034",
+"end_ref_usfm": "MRK 12:34"
+},
+{
+"start_ref": "48005013",
+"start_ref_usfm": "GAL 5:13",
+"end_ref": "48005018",
+"end_ref_usfm": "GAL 5:18"
+},
+{
+"start_ref": "49004025",
+"start_ref_usfm": "EPH 4:25",
+"end_ref": "49004032",
+"end_ref_usfm": "EPH 4:32"
+},
+{
+"start_ref": "59002008",
+"start_ref_usfm": "JAS 2:8",
+"end_ref": "59002013",
+"end_ref_usfm": "JAS 2:13"
+},
+{
+"start_ref": "59004011",
+"start_ref_usfm": "JAS 4:11",
+"end_ref": "59004017",
+"end_ref_usfm": "JAS 4:17"
+}
+],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t153-v1",
+"resource_code": "FIAKeyTerms",
+"label": "neighbor",
+"language": "eng"
+}
+]
 }
 }
 ]

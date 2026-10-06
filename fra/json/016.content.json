@@ -134,6 +134,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "enseignant",
 "language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t106-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "Rabbi",
+"language": "fra"
 }
 ],
 "acai": []
@@ -148,7 +155,7 @@
 "index_reference": "rabbi",
 "language": "fra",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t106/v1/vbr4.mp3'>mp3 file</a> (422708 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t106/v1/vbr4.mp3'>mp3 file</a> (413 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -260,7 +267,15 @@
 "end_ref_usfm": "JHN 20:18"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t106-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Rabbi",
+"language": "fra"
+}
+]
 }
 },
 {
@@ -449,190 +464,6 @@
 }
 },
 {
-"content_id": "fra-t107-v1-audio",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "rachetez",
-"media_type": "Audio",
-"index_reference": "rachetez",
-"language": "fra",
-"review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='None'>mp3 file</a> (None KB)</p>",
-"associations": {
-"passage": [
-{
-"start_ref": "02013001",
-"start_ref_usfm": "EXO 13:1",
-"end_ref": "02013016",
-"end_ref_usfm": "EXO 13:16"
-},
-{
-"start_ref": "02015011",
-"start_ref_usfm": "EXO 15:11",
-"end_ref": "02015018",
-"end_ref_usfm": "EXO 15:18"
-},
-{
-"start_ref": "02021001",
-"start_ref_usfm": "EXO 21:1",
-"end_ref": "02021011",
-"end_ref_usfm": "EXO 21:11"
-},
-{
-"start_ref": "02034018",
-"start_ref_usfm": "EXO 34:18",
-"end_ref": "02034028",
-"end_ref_usfm": "EXO 34:28"
-},
-{
-"start_ref": "03025023",
-"start_ref_usfm": "LEV 25:23",
-"end_ref": "03025034",
-"end_ref_usfm": "LEV 25:34"
-},
-{
-"start_ref": "03025047",
-"start_ref_usfm": "LEV 25:47",
-"end_ref": "03025055",
-"end_ref_usfm": "LEV 25:55"
-},
-{
-"start_ref": "03027009",
-"start_ref_usfm": "LEV 27:9",
-"end_ref": "03027015",
-"end_ref_usfm": "LEV 27:15"
-},
-{
-"start_ref": "03027016",
-"start_ref_usfm": "LEV 27:16",
-"end_ref": "03027025",
-"end_ref_usfm": "LEV 27:25"
-},
-{
-"start_ref": "03027026",
-"start_ref_usfm": "LEV 27:26",
-"end_ref": "03027034",
-"end_ref_usfm": "LEV 27:34"
-},
-{
-"start_ref": "04003040",
-"start_ref_usfm": "NUM 3:40",
-"end_ref": "04003051",
-"end_ref_usfm": "NUM 3:51"
-},
-{
-"start_ref": "04018008",
-"start_ref_usfm": "NUM 18:8",
-"end_ref": "04018020",
-"end_ref_usfm": "NUM 18:20"
-},
-{
-"start_ref": "05007001",
-"start_ref_usfm": "DEU 7:1",
-"end_ref": "05007011",
-"end_ref_usfm": "DEU 7:11"
-},
-{
-"start_ref": "05009018",
-"start_ref_usfm": "DEU 9:18",
-"end_ref": "05009029",
-"end_ref_usfm": "DEU 9:29"
-},
-{
-"start_ref": "05012029",
-"start_ref_usfm": "DEU 12:29",
-"end_ref": "05013005",
-"end_ref_usfm": "DEU 13:5"
-},
-{
-"start_ref": "05021001",
-"start_ref_usfm": "DEU 21:1",
-"end_ref": "05021009",
-"end_ref_usfm": "DEU 21:9"
-},
-{
-"start_ref": "11016008",
-"start_ref_usfm": "1KI 16:8",
-"end_ref": "11016014",
-"end_ref_usfm": "1KI 16:14"
-},
-{
-"start_ref": "13017016",
-"start_ref_usfm": "1CH 17:16",
-"end_ref": "13017027",
-"end_ref_usfm": "1CH 17:27"
-},
-{
-"start_ref": "16001001",
-"start_ref_usfm": "NEH 1:1",
-"end_ref": "16001011",
-"end_ref_usfm": "NEH 1:11"
-},
-{
-"start_ref": "42001057",
-"start_ref_usfm": "LUK 1:57",
-"end_ref": "42001080",
-"end_ref_usfm": "LUK 1:80"
-},
-{
-"start_ref": "42021020",
-"start_ref_usfm": "LUK 21:20",
-"end_ref": "42021028",
-"end_ref_usfm": "LUK 21:28"
-},
-{
-"start_ref": "42024013",
-"start_ref_usfm": "LUK 24:13",
-"end_ref": "42024035",
-"end_ref_usfm": "LUK 24:35"
-},
-{
-"start_ref": "46001026",
-"start_ref_usfm": "1CO 1:26",
-"end_ref": "46001031",
-"end_ref_usfm": "1CO 1:31"
-},
-{
-"start_ref": "48003010",
-"start_ref_usfm": "GAL 3:10",
-"end_ref": "48003014",
-"end_ref_usfm": "GAL 3:14"
-},
-{
-"start_ref": "48003026",
-"start_ref_usfm": "GAL 3:26",
-"end_ref": "48004007",
-"end_ref_usfm": "GAL 4:7"
-},
-{
-"start_ref": "49001007",
-"start_ref_usfm": "EPH 1:7",
-"end_ref": "49001010",
-"end_ref_usfm": "EPH 1:10"
-},
-{
-"start_ref": "49001011",
-"start_ref_usfm": "EPH 1:11",
-"end_ref": "49001014",
-"end_ref_usfm": "EPH 1:14"
-},
-{
-"start_ref": "49004025",
-"start_ref_usfm": "EPH 4:25",
-"end_ref": "49004032",
-"end_ref_usfm": "EPH 4:32"
-},
-{
-"start_ref": "56002011",
-"start_ref_usfm": "TIT 2:11",
-"end_ref": "56002015",
-"end_ref_usfm": "TIT 2:15"
-}
-],
-"resource": []
-}
-},
-{
 "content_id": "fra-t105-v1",
 "reference_id": 0,
 "version": "1.0.4",
@@ -713,6 +544,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "péché",
 "language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t105-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "rançon",
+"language": "fra"
 }
 ],
 "acai": []
@@ -727,7 +565,7 @@
 "index_reference": "rançon",
 "language": "fra",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t105/v1/vbr4.mp3'>mp3 file</a> (458900 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t105/v1/vbr4.mp3'>mp3 file</a> (448 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -785,7 +623,15 @@
 "end_ref_usfm": "1TI 2:7"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t105-v1",
+"resource_code": "FIAKeyTerms",
+"label": "rançon",
+"language": "fra"
+}
+]
 }
 },
 {
@@ -995,6 +841,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "pardonne",
 "language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t109-v1.0.1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "repentance",
+"language": "fra"
 }
 ],
 "acai": []
@@ -1009,7 +862,7 @@
 "index_reference": "repentance",
 "language": "fra",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t109/v1.0.1/vbr4.mp3'>mp3 file</a> (1337588 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t109/v1.0.1/vbr4.mp3'>mp3 file</a> (1.3 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -1193,7 +1046,15 @@
 "end_ref_usfm": "2TI 2:26"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t109-v1.0.1",
+"resource_code": "FIAKeyTerms",
+"label": "repentance",
+"language": "fra"
+}
+]
 }
 },
 {
@@ -1369,6 +1230,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "croyants",
 "language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t110-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "résurrection",
+"language": "fra"
 }
 ],
 "acai": [
@@ -1391,7 +1259,7 @@
 "index_reference": "résurrection",
 "language": "fra",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t110/v1/vbr4.mp3'>mp3 file</a> (532676 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t110/v1/vbr4.mp3'>mp3 file</a> (520 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -1527,7 +1395,15 @@
 "end_ref_usfm": "2TI 2:19"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t110-v1",
+"resource_code": "FIAKeyTerms",
+"label": "résurrection",
+"language": "fra"
+}
+]
 }
 },
 {
@@ -1650,112 +1526,6 @@
 }
 ],
 "acai": []
-}
-},
-{
-"content_id": "fra-t202-v1-audio",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "Rêve",
-"media_type": "Audio",
-"index_reference": "rêve",
-"language": "fra",
-"review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='None'>mp3 file</a> (None KB)</p>",
-"associations": {
-"passage": [
-{
-"start_ref": "01020001",
-"start_ref_usfm": "GEN 20:1",
-"end_ref": "01020018",
-"end_ref_usfm": "GEN 20:18"
-},
-{
-"start_ref": "01028010",
-"start_ref_usfm": "GEN 28:10",
-"end_ref": "01028022",
-"end_ref_usfm": "GEN 28:22"
-},
-{
-"start_ref": "01031001",
-"start_ref_usfm": "GEN 31:1",
-"end_ref": "01031021",
-"end_ref_usfm": "GEN 31:21"
-},
-{
-"start_ref": "01031022",
-"start_ref_usfm": "GEN 31:22",
-"end_ref": "01031035",
-"end_ref_usfm": "GEN 31:35"
-},
-{
-"start_ref": "01037001",
-"start_ref_usfm": "GEN 37:1",
-"end_ref": "01037011",
-"end_ref_usfm": "GEN 37:11"
-},
-{
-"start_ref": "01040001",
-"start_ref_usfm": "GEN 40:1",
-"end_ref": "01040023",
-"end_ref_usfm": "GEN 40:23"
-},
-{
-"start_ref": "01041001",
-"start_ref_usfm": "GEN 41:1",
-"end_ref": "01041036",
-"end_ref_usfm": "GEN 41:36"
-},
-{
-"start_ref": "01042001",
-"start_ref_usfm": "GEN 42:1",
-"end_ref": "01042026",
-"end_ref_usfm": "GEN 42:26"
-},
-{
-"start_ref": "04012001",
-"start_ref_usfm": "NUM 12:1",
-"end_ref": "04012016",
-"end_ref_usfm": "NUM 12:16"
-},
-{
-"start_ref": "09028015",
-"start_ref_usfm": "1SA 28:15",
-"end_ref": "09028025",
-"end_ref_usfm": "1SA 28:25"
-},
-{
-"start_ref": "11003001",
-"start_ref_usfm": "1KI 3:1",
-"end_ref": "11003015",
-"end_ref_usfm": "1KI 3:15"
-},
-{
-"start_ref": "40027011",
-"start_ref_usfm": "MAT 27:11",
-"end_ref": "40027026",
-"end_ref_usfm": "MAT 27:26"
-},
-{
-"start_ref": "44001006",
-"start_ref_usfm": "ACT 1:6",
-"end_ref": "44001011",
-"end_ref_usfm": "ACT 1:11"
-},
-{
-"start_ref": "44002014",
-"start_ref_usfm": "ACT 2:14",
-"end_ref": "44002036",
-"end_ref_usfm": "ACT 2:36"
-},
-{
-"start_ref": "65001008",
-"start_ref_usfm": "JUD 1:8",
-"end_ref": "65001011",
-"end_ref_usfm": "JUD 1:11"
-}
-],
-"resource": []
 }
 },
 {
@@ -1988,6 +1758,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "vêtement",
 "language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t112-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "robe",
+"language": "fra"
 }
 ],
 "acai": [
@@ -2010,7 +1787,7 @@
 "index_reference": "robe",
 "language": "fra",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t112/v1/vbr4.mp3'>mp3 file</a> (400508 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t112/v1/vbr4.mp3'>mp3 file</a> (391 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -2224,7 +2001,15 @@
 "end_ref_usfm": "ACT 8:3"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t112-v1",
+"resource_code": "FIAKeyTerms",
+"label": "robe",
+"language": "fra"
+}
+]
 }
 },
 {
@@ -2840,7 +2625,15 @@
 "end_ref_usfm": "2SA 10:19"
 }
 ],
-"resource": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t226-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "roi",
+"language": "fra"
+}
+],
 "acai": []
 }
 },
@@ -2853,7 +2646,7 @@
 "index_reference": "roi",
 "language": "fra",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t226/v1/vbr4.mp3'>mp3 file</a> (199364 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t226/v1/vbr4.mp3'>mp3 file</a> (195 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -3457,7 +3250,15 @@
 "end_ref_usfm": "2SA 10:19"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t226-v1",
+"resource_code": "FIAKeyTerms",
+"label": "roi",
+"language": "fra"
+}
+]
 }
 },
 {
@@ -3645,6 +3446,12 @@
 "start_ref_usfm": "2KI 14:1",
 "end_ref": "12014007",
 "end_ref_usfm": "2KI 14:7"
+},
+{
+"start_ref": "12015017",
+"start_ref_usfm": "2KI 15:17",
+"end_ref": "12015022",
+"end_ref_usfm": "2KI 15:22"
 },
 {
 "start_ref": "13011010",
@@ -3966,6 +3773,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "roi",
 "language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t157-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "royaume",
+"language": "fra"
 }
 ],
 "acai": [
@@ -3988,7 +3802,7 @@
 "index_reference": "royaume",
 "language": "fra",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t157/v1/vbr4.mp3'>mp3 file</a> (90668 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t157/v1/vbr4.mp3'>mp3 file</a> (89 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -4164,6 +3978,12 @@
 "start_ref_usfm": "2KI 14:1",
 "end_ref": "12014007",
 "end_ref_usfm": "2KI 14:7"
+},
+{
+"start_ref": "12015017",
+"start_ref_usfm": "2KI 15:17",
+"end_ref": "12015022",
+"end_ref_usfm": "2KI 15:22"
 },
 {
 "start_ref": "13011010",
@@ -4478,7 +4298,15 @@
 "end_ref_usfm": "ACT 1:11"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t157-v1",
+"resource_code": "FIAKeyTerms",
+"label": "royaume",
+"language": "fra"
+}
+]
 }
 },
 {
@@ -5105,6 +4933,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "apôtre",
 "language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t82-v1.0.1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "royaume de Dieu",
+"language": "fra"
 }
 ],
 "acai": []
@@ -5119,7 +4954,7 @@
 "index_reference": "royaume de dieu",
 "language": "fra",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t82/v1.0.1/vbr4.mp3'>mp3 file</a> (5228573 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t82/v1.0.1/vbr4.mp3'>mp3 file</a> (5.0 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -5615,7 +5450,15 @@
 "end_ref_usfm": "JAS 2:7"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t82-v1.0.1",
+"resource_code": "FIAKeyTerms",
+"label": "royaume de Dieu",
+"language": "fra"
+}
+]
 }
 }
 ]

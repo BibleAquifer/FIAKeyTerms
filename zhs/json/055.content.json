@@ -1,6 +1,6 @@
 [
 {
-"content_id": "cmn-t84-v1",
+"content_id": "zhs-t84-v1",
 "reference_id": 0,
 "version": "1.0.4",
 "title": "群",
@@ -8,7 +8,7 @@
 "index_reference": "群",
 "language": "zhs",
 "review_level": "None",
-"content": "<p>一<b>群</b>是很多罗马士兵，共有六千多名士兵。 在这段经文中，一个<data class=\"resource-ref\" data-content-id=\"cmn-t36-v1\" data-resource-code=\"FIAKeyTerms\">鬼</data>告诉耶稣他的名字是\"群\"，他的意思是说牠不仅是一个鬼，而是非常多的一群鬼。</p>",
+"content": "<p>一<b>群</b>是很多罗马士兵，共有六千多名士兵。 在这段经文中，一个<data class=\"resource-ref\" data-content-id=\"zhs-t36-v1\" data-resource-code=\"FIAKeyTerms\">鬼</data>告诉耶稣他的名字是\"群\"，他的意思是说牠不仅是一个鬼，而是非常多的一群鬼。</p>",
 "associations": {
 "passage": [
 {
@@ -39,7 +39,7 @@
 "resource": [
 {
 "reference_id": 0,
-"content_id": "cmn-t36-v1",
+"content_id": "zhs-t36-v1",
 "resource_code": "FIAKeyTerms",
 "label": "鬼",
 "language": "zhs"
@@ -54,46 +54,6 @@
 "preferred_label": "Legion"
 }
 ]
-}
-},
-{
-"content_id": "cmn-t84-v1-audio",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "群",
-"media_type": "Audio",
-"index_reference": "群",
-"language": "zhs",
-"review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='None'>mp3 file</a> (None KB)</p>",
-"associations": {
-"passage": [
-{
-"start_ref": "40026047",
-"start_ref_usfm": "MAT 26:47",
-"end_ref": "40026056",
-"end_ref_usfm": "MAT 26:56"
-},
-{
-"start_ref": "41005001",
-"start_ref_usfm": "MRK 5:1",
-"end_ref": "41005020",
-"end_ref_usfm": "MRK 5:20"
-},
-{
-"start_ref": "42008026",
-"start_ref_usfm": "LUK 8:26",
-"end_ref": "42008039",
-"end_ref_usfm": "LUK 8:39"
-},
-{
-"start_ref": "44010009",
-"start_ref_usfm": "ACT 10:9",
-"end_ref": "44010023",
-"end_ref_usfm": "ACT 10:23"
-}
-],
-"resource": []
 }
 }
 ]

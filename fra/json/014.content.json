@@ -534,6 +534,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "péché",
 "language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t194-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "offrande",
+"language": "fra"
 }
 ],
 "acai": [
@@ -556,7 +563,7 @@
 "index_reference": "offrande",
 "language": "fra",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t194/v1/vbr4.mp3'>mp3 file</a> (256748 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t194/v1/vbr4.mp3'>mp3 file</a> (251 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -1040,7 +1047,15 @@
 "end_ref_usfm": "EPH 5:6"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t194-v1",
+"resource_code": "FIAKeyTerms",
+"label": "offrande",
+"language": "fra"
+}
+]
 }
 },
 {
@@ -1146,88 +1161,6 @@
 }
 ],
 "acai": []
-}
-},
-{
-"content_id": "fra-t163-v1-audio",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "Offrande ou cérémonie de purification",
-"media_type": "Audio",
-"index_reference": "offrande ou cérémonie de purification",
-"language": "fra",
-"review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='None'>mp3 file</a> (None KB)</p>",
-"associations": {
-"passage": [
-{
-"start_ref": "02029029",
-"start_ref_usfm": "EXO 29:29",
-"end_ref": "02029037",
-"end_ref_usfm": "EXO 29:37"
-},
-{
-"start_ref": "03014001",
-"start_ref_usfm": "LEV 14:1",
-"end_ref": "03014009",
-"end_ref_usfm": "LEV 14:9"
-},
-{
-"start_ref": "03014021",
-"start_ref_usfm": "LEV 14:21",
-"end_ref": "03014032",
-"end_ref_usfm": "LEV 14:32"
-},
-{
-"start_ref": "03015013",
-"start_ref_usfm": "LEV 15:13",
-"end_ref": "03015018",
-"end_ref_usfm": "LEV 15:18"
-},
-{
-"start_ref": "04006001",
-"start_ref_usfm": "NUM 6:1",
-"end_ref": "04006012",
-"end_ref_usfm": "NUM 6:12"
-},
-{
-"start_ref": "04015022",
-"start_ref_usfm": "NUM 15:22",
-"end_ref": "04015031",
-"end_ref_usfm": "NUM 15:31"
-},
-{
-"start_ref": "04028011",
-"start_ref_usfm": "NUM 28:11",
-"end_ref": "04028015",
-"end_ref_usfm": "NUM 28:15"
-},
-{
-"start_ref": "04028016",
-"start_ref_usfm": "NUM 28:16",
-"end_ref": "04028025",
-"end_ref_usfm": "NUM 28:25"
-},
-{
-"start_ref": "42002022",
-"start_ref_usfm": "LUK 2:22",
-"end_ref": "42002040",
-"end_ref_usfm": "LUK 2:40"
-},
-{
-"start_ref": "44021015",
-"start_ref_usfm": "ACT 21:15",
-"end_ref": "44021026",
-"end_ref_usfm": "ACT 21:26"
-},
-{
-"start_ref": "44024010",
-"start_ref_usfm": "ACT 24:10",
-"end_ref": "44024023",
-"end_ref_usfm": "ACT 24:23"
-}
-],
-"resource": []
 }
 },
 {
@@ -1820,6 +1753,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "croyants",
 "language": "fra"
+},
+{
+"reference_id": 0,
+"content_id": "fra-t5-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "oindre",
+"language": "fra"
 }
 ],
 "acai": []
@@ -1834,7 +1774,7 @@
 "index_reference": "oindre",
 "language": "fra",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t5/v1/vbr4.mp3'>mp3 file</a> (1363892 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t5/v1/vbr4.mp3'>mp3 file</a> (1.3 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -2282,7 +2222,15 @@
 "end_ref_usfm": "1JN 2:28"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "fra-t5-v1",
+"resource_code": "FIAKeyTerms",
+"label": "oindre",
+"language": "fra"
+}
+]
 }
 },
 {
@@ -2392,64 +2340,6 @@
 }
 ],
 "acai": []
-}
-},
-{
-"content_id": "fra-t212-v1-audio",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "oindre",
-"media_type": "Audio",
-"index_reference": "oindre",
-"language": "fra",
-"review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='None'>mp3 file</a> (None KB)</p>",
-"associations": {
-"passage": [
-{
-"start_ref": "01035001",
-"start_ref_usfm": "GEN 35:1",
-"end_ref": "01035015",
-"end_ref_usfm": "GEN 35:15"
-},
-{
-"start_ref": "02025001",
-"start_ref_usfm": "EXO 25:1",
-"end_ref": "02025009",
-"end_ref_usfm": "EXO 25:9"
-},
-{
-"start_ref": "02029001",
-"start_ref_usfm": "EXO 29:1",
-"end_ref": "02029009",
-"end_ref_usfm": "EXO 29:9"
-},
-{
-"start_ref": "03002001",
-"start_ref_usfm": "LEV 2:1",
-"end_ref": "03002016",
-"end_ref_usfm": "LEV 2:16"
-},
-{
-"start_ref": "04007001",
-"start_ref_usfm": "NUM 7:1",
-"end_ref": "04007009",
-"end_ref_usfm": "NUM 7:9"
-},
-{
-"start_ref": "04007010",
-"start_ref_usfm": "NUM 7:10",
-"end_ref": "04007083",
-"end_ref_usfm": "NUM 7:83"
-},
-{
-"start_ref": "42023050",
-"start_ref_usfm": "LUK 23:50",
-"end_ref": "42023056",
-"end_ref_usfm": "LUK 23:56"
-}
-],
-"resource": []
 }
 }
 ]

@@ -224,6 +224,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "hogar",
 "language": "spa"
+},
+{
+"reference_id": 0,
+"content_id": "spa-t90-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "maestro",
+"language": "spa"
 }
 ],
 "acai": []
@@ -238,7 +245,7 @@
 "index_reference": "maestro",
 "language": "spa",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/spa/t90/v1/vbr4.mp3'>mp3 file</a> (343700 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/spa/t90/v1/vbr4.mp3'>mp3 file</a> (336 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -440,7 +447,15 @@
 "end_ref_usfm": "JUD 1:7"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "spa-t90-v1",
+"resource_code": "FIAKeyTerms",
+"label": "maestro",
+"language": "spa"
+}
+]
 }
 },
 {
@@ -703,6 +718,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "barcos",
 "language": "spa"
+},
+{
+"reference_id": 0,
+"content_id": "spa-t121-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "Mar de Galilea",
+"language": "spa"
 }
 ],
 "acai": [
@@ -739,7 +761,7 @@
 "index_reference": "mar de galilea",
 "language": "spa",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/spa/t121/v1/vbr4.mp3'>mp3 file</a> (701804 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/spa/t121/v1/vbr4.mp3'>mp3 file</a> (685 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -917,7 +939,15 @@
 "end_ref_usfm": "JHN 21:14"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "spa-t121-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Mar de Galilea",
+"language": "spa"
+}
+]
 }
 },
 {

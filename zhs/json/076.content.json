@@ -1,6 +1,6 @@
 [
 {
-"content_id": "cmn-t40-v1",
+"content_id": "zhs-t40-v1",
 "reference_id": 0,
 "version": "1.0.4",
 "title": "休妻（离婚）",
@@ -8,7 +8,7 @@
 "index_reference": "休妻离婚",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><b>休妻</b>是丈夫和妻子之间永久且合法的分居。在旧约中，如果一个男人认为他的妻子与另一个男人有关系，神的<data class=\"resource-ref\" data-content-id=\"cmn-t83-v1\" data-resource-code=\"FIAKeyTerms\">律法</data>允许他休妻。然而，神表明祂恨恶休妻。神希望丈夫和妻子和谐地生活在一起，并彼此相爱。</p><p>在新约中，耶稣也教导人们休妻是错的。神的本意是丈夫和妻子要连合，成为一体。</p>",
+"content": "<p><b>休妻</b>是丈夫和妻子之间永久且合法的分居。在旧约中，如果一个男人认为他的妻子与另一个男人有关系，神的<data class=\"resource-ref\" data-content-id=\"zhs-t83-v1\" data-resource-code=\"FIAKeyTerms\">律法</data>允许他休妻。然而，神表明祂恨恶休妻。神希望丈夫和妻子和谐地生活在一起，并彼此相爱。</p><p>在新约中，耶稣也教导人们休妻是错的。神的本意是丈夫和妻子要连合，成为一体。</p>",
 "associations": {
 "passage": [
 {
@@ -69,83 +69,13 @@
 "resource": [
 {
 "reference_id": 0,
-"content_id": "cmn-t83-v1",
+"content_id": "zhs-t83-v1",
 "resource_code": "FIAKeyTerms",
 "label": "律法",
 "language": "zhs"
 }
 ],
 "acai": []
-}
-},
-{
-"content_id": "cmn-t40-v1-audio",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "休妻（离婚）",
-"media_type": "Audio",
-"index_reference": "休妻离婚",
-"language": "zhs",
-"review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='None'>mp3 file</a> (None KB)</p>",
-"associations": {
-"passage": [
-{
-"start_ref": "03021001",
-"start_ref_usfm": "LEV 21:1",
-"end_ref": "03021009",
-"end_ref_usfm": "LEV 21:9"
-},
-{
-"start_ref": "03022010",
-"start_ref_usfm": "LEV 22:10",
-"end_ref": "03022016",
-"end_ref_usfm": "LEV 22:16"
-},
-{
-"start_ref": "04030001",
-"start_ref_usfm": "NUM 30:1",
-"end_ref": "04030016",
-"end_ref_usfm": "NUM 30:16"
-},
-{
-"start_ref": "05021010",
-"start_ref_usfm": "DEU 21:10",
-"end_ref": "05021021",
-"end_ref_usfm": "DEU 21:21"
-},
-{
-"start_ref": "05022013",
-"start_ref_usfm": "DEU 22:13",
-"end_ref": "05022021",
-"end_ref_usfm": "DEU 22:21"
-},
-{
-"start_ref": "05022022",
-"start_ref_usfm": "DEU 22:22",
-"end_ref": "05022030",
-"end_ref_usfm": "DEU 22:30"
-},
-{
-"start_ref": "40019001",
-"start_ref_usfm": "MAT 19:1",
-"end_ref": "40019012",
-"end_ref_usfm": "MAT 19:12"
-},
-{
-"start_ref": "41010001",
-"start_ref_usfm": "MRK 10:1",
-"end_ref": "41010012",
-"end_ref_usfm": "MRK 10:12"
-},
-{
-"start_ref": "46007010",
-"start_ref_usfm": "1CO 7:10",
-"end_ref": "46007016",
-"end_ref_usfm": "1CO 7:16"
-}
-],
-"resource": []
 }
 }
 ]

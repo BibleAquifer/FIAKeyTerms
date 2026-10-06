@@ -8,7 +8,7 @@
 "index_reference": "иерусалим",
 "language": "rus",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/rus/t76/v1/vbr4.mp3'>mp3 file</a> (480550 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/rus/t76/v1/vbr4.mp3'>mp3 file</a> (469 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -100,6 +100,18 @@
 "start_ref_usfm": "2KI 15:1",
 "end_ref": "12015007",
 "end_ref_usfm": "2KI 15:7"
+},
+{
+"start_ref": "12015032",
+"start_ref_usfm": "2KI 15:32",
+"end_ref": "12015038",
+"end_ref_usfm": "2KI 15:38"
+},
+{
+"start_ref": "12016001",
+"start_ref_usfm": "2KI 16:1",
+"end_ref": "12016009",
+"end_ref_usfm": "2KI 16:9"
 },
 {
 "start_ref": "13003001",
@@ -598,21 +610,17 @@
 "start_ref_usfm": "LUK 22:7",
 "end_ref": "42022023",
 "end_ref_usfm": "LUK 22:23"
-},
-{
-"start_ref": "42022039",
-"start_ref_usfm": "LUK 22:39",
-"end_ref": "42022046",
-"end_ref_usfm": "LUK 22:46"
-},
-{
-"start_ref": "42023026",
-"start_ref_usfm": "LUK 23:26",
-"end_ref": "42023043",
-"end_ref_usfm": "LUK 23:43"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "rus-t76-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Иерусалим",
+"language": "rus"
+}
+]
 }
 },
 {
@@ -624,7 +632,7 @@
 "index_reference": "исцелять",
 "language": "rus",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/rus/t62/v1/vbr4.mp3'>mp3 file</a> (177406 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/rus/t62/v1/vbr4.mp3'>mp3 file</a> (173 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -694,7 +702,15 @@
 "end_ref_usfm": "ACT 28:10"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "rus-t62-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Исцелять",
+"language": "rus"
+}
+]
 }
 }
 ]

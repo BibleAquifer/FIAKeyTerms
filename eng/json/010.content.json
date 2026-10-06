@@ -53,6 +53,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "church",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t75-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "James",
+"language": "eng"
 }
 ],
 "acai": [
@@ -75,7 +82,7 @@
 "index_reference": "james",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t75/v1/vbr4.mp3'>mp3 file</a> (1142804 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t75/v1/vbr4.mp3'>mp3 file</a> (1.1 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -85,7 +92,15 @@
 "end_ref_usfm": "MRK 10:45"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t75-v1",
+"resource_code": "FIAKeyTerms",
+"label": "James",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -191,6 +206,18 @@
 "end_ref_usfm": "2KI 15:7"
 },
 {
+"start_ref": "12015032",
+"start_ref_usfm": "2KI 15:32",
+"end_ref": "12015038",
+"end_ref_usfm": "2KI 15:38"
+},
+{
+"start_ref": "12016001",
+"start_ref_usfm": "2KI 16:1",
+"end_ref": "12016009",
+"end_ref_usfm": "2KI 16:9"
+},
+{
 "start_ref": "13003001",
 "start_ref_usfm": "1CH 3:1",
 "end_ref": "13003009",
@@ -687,18 +714,6 @@
 "start_ref_usfm": "LUK 22:7",
 "end_ref": "42022023",
 "end_ref_usfm": "LUK 22:23"
-},
-{
-"start_ref": "42022039",
-"start_ref_usfm": "LUK 22:39",
-"end_ref": "42022046",
-"end_ref_usfm": "LUK 22:46"
-},
-{
-"start_ref": "42023026",
-"start_ref_usfm": "LUK 23:26",
-"end_ref": "42023043",
-"end_ref_usfm": "LUK 23:43"
 }
 ],
 "resource": [
@@ -757,13 +772,20 @@
 "resource_code": "FIAKeyTerms",
 "label": "Judea",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t76-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "Jerusalem",
+"language": "eng"
 }
 ],
 "acai": [
 {
 "id": "place:Jerusalem",
 "type": "place",
-"confidence": 0.658,
+"confidence": 0.6593,
 "match_method": "scored",
 "preferred_label": "Jerusalem"
 },
@@ -786,7 +808,7 @@
 "index_reference": "jerusalem",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t76/v1/vbr4.mp3'>mp3 file</a> (703149 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t76/v1/vbr4.mp3'>mp3 file</a> (687 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -880,6 +902,18 @@
 "end_ref_usfm": "2KI 15:7"
 },
 {
+"start_ref": "12015032",
+"start_ref_usfm": "2KI 15:32",
+"end_ref": "12015038",
+"end_ref_usfm": "2KI 15:38"
+},
+{
+"start_ref": "12016001",
+"start_ref_usfm": "2KI 16:1",
+"end_ref": "12016009",
+"end_ref_usfm": "2KI 16:9"
+},
+{
 "start_ref": "13003001",
 "start_ref_usfm": "1CH 3:1",
 "end_ref": "13003009",
@@ -1376,21 +1410,17 @@
 "start_ref_usfm": "LUK 22:7",
 "end_ref": "42022023",
 "end_ref_usfm": "LUK 22:23"
-},
-{
-"start_ref": "42022039",
-"start_ref_usfm": "LUK 22:39",
-"end_ref": "42022046",
-"end_ref_usfm": "LUK 22:46"
-},
-{
-"start_ref": "42023026",
-"start_ref_usfm": "LUK 23:26",
-"end_ref": "42023043",
-"end_ref_usfm": "LUK 23:43"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t76-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Jerusalem",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -2125,6 +2155,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "disciples",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t77-v2-audio",
+"resource_code": "FIAKeyTerms",
+"label": "Jew",
+"language": "eng"
 }
 ],
 "acai": [
@@ -2147,7 +2184,7 @@
 "index_reference": "jew",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t77/v2/vbr4.mp3'>mp3 file</a> (3845277 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t77/v2/vbr4.mp3'>mp3 file</a> (3.7 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -2751,7 +2788,15 @@
 "end_ref_usfm": "GAL 4:7"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t77-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Jew",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -2801,6 +2846,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "visions",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t78-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "John",
+"language": "eng"
 }
 ],
 "acai": [
@@ -2844,7 +2896,7 @@
 "index_reference": "john",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t78/v1/vbr4.mp3'>mp3 file</a> (723261 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t78/v1/vbr4.mp3'>mp3 file</a> (706 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -2854,7 +2906,15 @@
 "end_ref_usfm": "MRK 10:45"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t78-v1",
+"resource_code": "FIAKeyTerms",
+"label": "John",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -3075,6 +3135,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "Mary",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t79-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "John the Baptist",
+"language": "eng"
 }
 ],
 "acai": []
@@ -3089,7 +3156,7 @@
 "index_reference": "john the baptist",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t79/v1/vbr4.mp3'>mp3 file</a> (2422389 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t79/v1/vbr4.mp3'>mp3 file</a> (2.3 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -3165,7 +3232,15 @@
 "end_ref_usfm": "ACT 18:28"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t79-v1",
+"resource_code": "FIAKeyTerms",
+"label": "John the Baptist",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -3552,6 +3627,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "miracle",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t80-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "Jordan River",
+"language": "eng"
 }
 ],
 "acai": [
@@ -3574,7 +3656,7 @@
 "index_reference": "jordan river",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t80/v1/vbr4.mp3'>mp3 file</a> (874364 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t80/v1/vbr4.mp3'>mp3 file</a> (854 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -3914,7 +3996,15 @@
 "end_ref_usfm": "JHN 10:42"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t80-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Jordan River",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -4104,6 +4194,12 @@
 "end_ref_usfm": "1KI 22:53"
 },
 {
+"start_ref": "12003001",
+"start_ref_usfm": "2KI 3:1",
+"end_ref": "12003009",
+"end_ref_usfm": "2KI 3:9"
+},
+{
 "start_ref": "12008016",
 "start_ref_usfm": "2KI 8:16",
 "end_ref": "12008024",
@@ -4150,6 +4246,42 @@
 "start_ref_usfm": "2KI 15:1",
 "end_ref": "12015007",
 "end_ref_usfm": "2KI 15:7"
+},
+{
+"start_ref": "12015023",
+"start_ref_usfm": "2KI 15:23",
+"end_ref": "12015031",
+"end_ref_usfm": "2KI 15:31"
+},
+{
+"start_ref": "12015032",
+"start_ref_usfm": "2KI 15:32",
+"end_ref": "12015038",
+"end_ref_usfm": "2KI 15:38"
+},
+{
+"start_ref": "12016001",
+"start_ref_usfm": "2KI 16:1",
+"end_ref": "12016009",
+"end_ref_usfm": "2KI 16:9"
+},
+{
+"start_ref": "12017001",
+"start_ref_usfm": "2KI 17:1",
+"end_ref": "12017006",
+"end_ref_usfm": "2KI 17:6"
+},
+{
+"start_ref": "12017007",
+"start_ref_usfm": "2KI 17:7",
+"end_ref": "12017023",
+"end_ref_usfm": "2KI 17:23"
+},
+{
+"start_ref": "12018001",
+"start_ref_usfm": "2KI 18:1",
+"end_ref": "12018012",
+"end_ref_usfm": "2KI 18:12"
 },
 {
 "start_ref": "13002009",
@@ -4486,48 +4618,6 @@
 "start_ref_usfm": "EZR 5:6",
 "end_ref": "15005017",
 "end_ref_usfm": "EZR 5:17"
-},
-{
-"start_ref": "15009005",
-"start_ref_usfm": "EZR 9:5",
-"end_ref": "15009015",
-"end_ref_usfm": "EZR 9:15"
-},
-{
-"start_ref": "15010009",
-"start_ref_usfm": "EZR 10:9",
-"end_ref": "15010017",
-"end_ref_usfm": "EZR 10:17"
-},
-{
-"start_ref": "16001001",
-"start_ref_usfm": "NEH 1:1",
-"end_ref": "16001011",
-"end_ref_usfm": "NEH 1:11"
-},
-{
-"start_ref": "16002001",
-"start_ref_usfm": "NEH 2:1",
-"end_ref": "16002010",
-"end_ref_usfm": "NEH 2:10"
-},
-{
-"start_ref": "16004015",
-"start_ref_usfm": "NEH 4:15",
-"end_ref": "16004023",
-"end_ref_usfm": "NEH 4:23"
-},
-{
-"start_ref": "16005014",
-"start_ref_usfm": "NEH 5:14",
-"end_ref": "16005019",
-"end_ref_usfm": "NEH 5:19"
-},
-{
-"start_ref": "16006001",
-"start_ref_usfm": "NEH 6:1",
-"end_ref": "16006014",
-"end_ref_usfm": "NEH 6:14"
 }
 ],
 "resource": [
@@ -4593,15 +4683,29 @@
 "resource_code": "FIAKeyTerms",
 "label": "the temple of God",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t81-v2-audio",
+"resource_code": "FIAKeyTerms",
+"label": "Judea",
+"language": "eng"
 }
 ],
 "acai": [
 {
 "id": "place:Judea",
 "type": "place",
-"confidence": 0.6004,
+"confidence": 0.6,
 "match_method": "scored",
 "preferred_label": "Judea"
+},
+{
+"id": "group:Jews",
+"type": "group",
+"confidence": 0.5603,
+"match_method": "scored",
+"preferred_label": "Jews"
 }
 ]
 }
@@ -4615,7 +4719,7 @@
 "index_reference": "judea",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t81/v2/vbr4.mp3'>mp3 file</a> (1703877 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t81/v2/vbr4.mp3'>mp3 file</a> (1.6 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -4793,6 +4897,12 @@
 "end_ref_usfm": "1KI 22:53"
 },
 {
+"start_ref": "12003001",
+"start_ref_usfm": "2KI 3:1",
+"end_ref": "12003009",
+"end_ref_usfm": "2KI 3:9"
+},
+{
 "start_ref": "12008016",
 "start_ref_usfm": "2KI 8:16",
 "end_ref": "12008024",
@@ -4839,6 +4949,42 @@
 "start_ref_usfm": "2KI 15:1",
 "end_ref": "12015007",
 "end_ref_usfm": "2KI 15:7"
+},
+{
+"start_ref": "12015023",
+"start_ref_usfm": "2KI 15:23",
+"end_ref": "12015031",
+"end_ref_usfm": "2KI 15:31"
+},
+{
+"start_ref": "12015032",
+"start_ref_usfm": "2KI 15:32",
+"end_ref": "12015038",
+"end_ref_usfm": "2KI 15:38"
+},
+{
+"start_ref": "12016001",
+"start_ref_usfm": "2KI 16:1",
+"end_ref": "12016009",
+"end_ref_usfm": "2KI 16:9"
+},
+{
+"start_ref": "12017001",
+"start_ref_usfm": "2KI 17:1",
+"end_ref": "12017006",
+"end_ref_usfm": "2KI 17:6"
+},
+{
+"start_ref": "12017007",
+"start_ref_usfm": "2KI 17:7",
+"end_ref": "12017023",
+"end_ref_usfm": "2KI 17:23"
+},
+{
+"start_ref": "12018001",
+"start_ref_usfm": "2KI 18:1",
+"end_ref": "12018012",
+"end_ref_usfm": "2KI 18:12"
 },
 {
 "start_ref": "13002009",
@@ -5175,51 +5321,17 @@
 "start_ref_usfm": "EZR 5:6",
 "end_ref": "15005017",
 "end_ref_usfm": "EZR 5:17"
-},
-{
-"start_ref": "15009005",
-"start_ref_usfm": "EZR 9:5",
-"end_ref": "15009015",
-"end_ref_usfm": "EZR 9:15"
-},
-{
-"start_ref": "15010009",
-"start_ref_usfm": "EZR 10:9",
-"end_ref": "15010017",
-"end_ref_usfm": "EZR 10:17"
-},
-{
-"start_ref": "16001001",
-"start_ref_usfm": "NEH 1:1",
-"end_ref": "16001011",
-"end_ref_usfm": "NEH 1:11"
-},
-{
-"start_ref": "16002001",
-"start_ref_usfm": "NEH 2:1",
-"end_ref": "16002010",
-"end_ref_usfm": "NEH 2:10"
-},
-{
-"start_ref": "16004015",
-"start_ref_usfm": "NEH 4:15",
-"end_ref": "16004023",
-"end_ref_usfm": "NEH 4:23"
-},
-{
-"start_ref": "16005014",
-"start_ref_usfm": "NEH 5:14",
-"end_ref": "16005019",
-"end_ref_usfm": "NEH 5:19"
-},
-{
-"start_ref": "16006001",
-"start_ref_usfm": "NEH 6:1",
-"end_ref": "16006014",
-"end_ref_usfm": "NEH 6:14"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t81-v2",
+"resource_code": "FIAKeyTerms",
+"label": "Judea",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -5550,6 +5662,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "God",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t289-v2-audio",
+"resource_code": "FIAKeyTerms",
+"label": "judge",
+"language": "eng"
 }
 ],
 "acai": [
@@ -5572,7 +5691,7 @@
 "index_reference": "judge",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t289/v2/vbr4.mp3'>mp3 file</a> (737541 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t289/v2/vbr4.mp3'>mp3 file</a> (720 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -5870,7 +5989,15 @@
 "end_ref_usfm": "1JN 4:21"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t289-v2",
+"resource_code": "FIAKeyTerms",
+"label": "judge",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -6007,6 +6134,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "authority",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t224-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "justice",
+"language": "eng"
 }
 ],
 "acai": []
@@ -6021,7 +6155,7 @@
 "index_reference": "justice",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t224/v1/vbr4.mp3'>mp3 file</a> (288044 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t224/v1/vbr4.mp3'>mp3 file</a> (281 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -6139,7 +6273,15 @@
 "end_ref_usfm": "2TH 1:12"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t224-v1",
+"resource_code": "FIAKeyTerms",
+"label": "justice",
+"language": "eng"
+}
+]
 }
 },
 {
@@ -6231,6 +6373,13 @@
 "resource_code": "FIAKeyTerms",
 "label": "sins",
 "language": "eng"
+},
+{
+"reference_id": 0,
+"content_id": "eng-t281-v1-audio",
+"resource_code": "FIAKeyTerms",
+"label": "justify",
+"language": "eng"
 }
 ],
 "acai": []
@@ -6245,7 +6394,7 @@
 "index_reference": "justify",
 "language": "eng",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t281/v1/vbr4.mp3'>mp3 file</a> (416348 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t281/v1/vbr4.mp3'>mp3 file</a> (407 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -6297,7 +6446,15 @@
 "end_ref_usfm": "TIT 3:11"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "eng-t281-v1",
+"resource_code": "FIAKeyTerms",
+"label": "justify",
+"language": "eng"
+}
+]
 }
 }
 ]

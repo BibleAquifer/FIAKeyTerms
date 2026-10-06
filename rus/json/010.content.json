@@ -8,7 +8,7 @@
 "index_reference": "капернаум",
 "language": "rus",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/rus/t22/v1/vbr4.mp3'>mp3 file</a> (358582 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/rus/t22/v1/vbr4.mp3'>mp3 file</a> (350 KB)</p>",
 "associations": {
 "passage": [
 {
@@ -120,7 +120,15 @@
 "end_ref_usfm": "JHN 6:59"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "rus-t22-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Капернаум",
+"language": "rus"
+}
+]
 }
 },
 {
@@ -132,7 +140,7 @@
 "index_reference": "крещение",
 "language": "rus",
 "review_level": "None",
-"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/rus/t9/v1/vbr4.mp3'>mp3 file</a> (1997187 KB)</p>",
+"content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/rus/t9/v1/vbr4.mp3'>mp3 file</a> (1.9 MB)</p>",
 "associations": {
 "passage": [
 {
@@ -352,7 +360,15 @@
 "end_ref_usfm": "EPH 4:6"
 }
 ],
-"resource": []
+"resource": [
+{
+"reference_id": 0,
+"content_id": "rus-t9-v1",
+"resource_code": "FIAKeyTerms",
+"label": "Крещение",
+"language": "rus"
+}
+]
 }
 }
 ]
