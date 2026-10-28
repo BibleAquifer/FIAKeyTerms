@@ -8,7 +8,7 @@
 "index_reference": "família",
 "language": "por",
 "review_level": "None",
-"content": "<p>Na Bíblia, uma <b>família</b> significa todas as pessoas que estão vivendo juntas em uma <b>casa</b>. O pai era geralmente o chefe da família. A família incluía sua esposa, filhos, filhas solteiras, e qualquer filho casado e suas esposas e filhos. Podia haver outros parentes vivendo com eles também. Se a família tinha <data class=\"resource-ref\" data-content-id=\"por-t123-v2\" data-resource-code=\"FIAKeyTerms\">servos</data> ou <data class=\"resource-ref\" data-content-id=\"por-t126-v2\" data-resource-code=\"FIAKeyTerms\">escravos</data>, então eles eram incluídos na casa (ou na família) também.</p><p>As pessoas também usavam a palavra “casa” em vez de “família”. Se alguém dizia “eu e minha casa”, ele quis dizer “eu e todas as pessoas em minha família”.</p><p>As pessoas também podiam usar a palavra família, ou casa, para significar um grande grupo de pessoas que não viviam na mesma casa, mas que tinham algo em comum. Por exemplo, os <data class=\"resource-ref\" data-content-id=\"por-t259-v2\" data-resource-code=\"FIAKeyTerms\">israelitas</data> são às vezes chamados de “casa de Israel”.</p>",
+"content": "<p id=\"QIITEe4hNJXfBEmIO0qs\">Na Bíblia, uma <b id=\"nrjDpDI2HD7hPUyeSwFO\">família</b> significa todas as pessoas que estão vivendo juntas em uma <b id=\"WhPH7qPKf1D0YSuIg6bt\">casa</b>. O pai era geralmente o chefe da família. A família incluía sua esposa, filhos, filhas solteiras, e qualquer filho casado e suas esposas e filhos. Podia haver outros parentes vivendo com eles também. Se a família tinha <a id=\"5Pvqq8KfyuRLLTbMDF8b\" href=\"#t123\">servos</a> ou <a id=\"Z0yu2lBTNuT1OFUPePPg\" href=\"#t126\">escravos</a>, então eles eram incluídos na casa (ou na família) também.</p><p id=\"wG3qvQ0RyaMfIylUI4Tk\">As pessoas também usavam a palavra “casa” em vez de “família”. Se alguém dizia “eu e minha casa”, ele quis dizer “eu e todas as pessoas em minha família”.</p><p id=\"CH5pPaXLwDyawwCCIEsV\">As pessoas também podiam usar a palavra família, ou casa, para significar um grande grupo de pessoas que não viviam na mesma casa, mas que tinham algo em comum. Por exemplo, os <a id=\"SmerVPCZTYE1myGwdjZa\" href=\"#t259\">israelitas</a> são às vezes chamados de “casa de Israel”.</p>",
 "associations": {
 "passage": [
 {
@@ -558,6 +558,12 @@
 "end_ref_usfm": "NEH 7:73"
 },
 {
+"start_ref": "16010028",
+"start_ref_usfm": "NEH 10:28",
+"end_ref": "16010039",
+"end_ref_usfm": "NEH 10:39"
+},
+{
 "start_ref": "16011010",
 "start_ref_usfm": "NEH 11:10",
 "end_ref": "16011024",
@@ -568,6 +574,12 @@
 "start_ref_usfm": "NEH 12:12",
 "end_ref": "16012021",
 "end_ref_usfm": "NEH 12:21"
+},
+{
+"start_ref": "16012022",
+"start_ref_usfm": "NEH 12:22",
+"end_ref": "16012026",
+"end_ref_usfm": "NEH 12:26"
 },
 {
 "start_ref": "17001010",
@@ -598,43 +610,9 @@
 "start_ref_usfm": "MAT 24:45",
 "end_ref": "40024051",
 "end_ref_usfm": "MAT 24:51"
-},
-{
-"start_ref": "41005001",
-"start_ref_usfm": "MRK 5:1",
-"end_ref": "41005020",
-"end_ref_usfm": "MRK 5:20"
-},
-{
-"start_ref": "43004043",
-"start_ref_usfm": "JHN 4:43",
-"end_ref": "43004054",
-"end_ref_usfm": "JHN 4:54"
 }
 ],
-"resource": [
-{
-"reference_id": 0,
-"content_id": "por-t123-v2",
-"resource_code": "FIAKeyTerms",
-"label": "servos",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t126-v2",
-"resource_code": "FIAKeyTerms",
-"label": "escravos",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t259-v2",
-"resource_code": "FIAKeyTerms",
-"label": "israelitas",
-"language": "por"
-}
-],
+"resource": [],
 "acai": []
 }
 },
@@ -951,6 +929,12 @@
 "end_ref_usfm": "2KI 17:23"
 },
 {
+"start_ref": "12018019",
+"start_ref_usfm": "2KI 18:19",
+"end_ref": "12018025",
+"end_ref_usfm": "2KI 18:25"
+},
+{
 "start_ref": "13004011",
 "start_ref_usfm": "1CH 4:11",
 "end_ref": "13004020",
@@ -961,6 +945,12 @@
 "start_ref_usfm": "2CH 8:1",
 "end_ref": "14008018",
 "end_ref_usfm": "2CH 8:18"
+},
+{
+"start_ref": "16009006",
+"start_ref_usfm": "NEH 9:6",
+"end_ref": "16009015",
+"end_ref_usfm": "NEH 9:15"
 },
 {
 "start_ref": "44007009",
@@ -988,14 +978,14 @@
 {
 "id": "person:Pharaoh.6",
 "type": "person",
-"confidence": 0.59,
+"confidence": 0.5893,
 "match_method": "scored",
 "preferred_label": "Faraó"
 },
 {
 "id": "person:Pharaoh.4",
 "type": "person",
-"confidence": 0.5683,
+"confidence": 0.5676,
 "match_method": "scored",
 "preferred_label": "Faraó"
 }
@@ -1011,7 +1001,7 @@
 "index_reference": "fariseu",
 "language": "por",
 "review_level": "None",
-"content": "<p>Os <b>fariseus</b> eram um grupo de mestres religiosos da época de Jesus que estavam muito preocupados em obedecer à lei de Deus completamente. Por centenas de anos, as pessoas pertencentes a esse grupo haviam discutido as <data class=\"resource-ref\" data-content-id=\"por-t83-v1\" data-resource-code=\"FIAKeyTerms\">leis</data> de Deus que Deus havia dado aos <data class=\"resource-ref\" data-content-id=\"por-t259-v2\" data-resource-code=\"FIAKeyTerms\">israelitas</data> por meio de Moisés. Porque eles tinham medo de que eles pudessem de alguma forma desobedecer a Deus, eles mesmos haviam adicionado mais e mais regras. Essas regras se tornaram parte de sua tradição, e eram tão importantes para eles quanto as regras que o próprio Deus havia dado. Agora, havia tantas regras, que era muito, muito difícil para as pessoas seguirem todas elas. Os fariseus eram muito orgulhosos porque eles pensavam que apenas eles eram capazes de obedecer a todas as regras de Deus. Eles desprezavam as pessoas que não eram capazes de seguir essas regras. O nome fariseu significa literalmente “ser separado”. Os fariseus queriam se manter separados das outras pessoas.</p><p>Na época de Jesus, os fariseus eram o grupo mais influente de mestres religiosos em <data class=\"resource-ref\" data-content-id=\"por-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israel</data>. Muitos dos mestres religiosos em <data class=\"resource-ref\" data-content-id=\"por-t76-v1\" data-resource-code=\"FIAKeyTerms\">Jerusalém</data> pertenciam ao grupo dos fariseus. Outro grupo importante de mestres religiosos é chamado de <data class=\"resource-ref\" data-content-id=\"por-t115-v1\" data-resource-code=\"FIAKeyTerms\">saduceus</data>. Fariseus e saduceus também eram parte do <data class=\"resource-ref\" data-content-id=\"por-t168-v1\" data-resource-code=\"FIAKeyTerms\">Sinédrio</data>, o tribunal religioso <data class=\"resource-ref\" data-content-id=\"por-t77-v2\" data-resource-code=\"FIAKeyTerms\">judeu</data>.</p>",
+"content": "<p id=\"0LuOnFYYalHk01oJi3Ra\">Os <b id=\"s61V2Yn0NUK8Islr2Epd\">fariseus</b> eram um grupo de mestres religiosos da época de Jesus que estavam muito preocupados em obedecer à lei de Deus completamente. Por centenas de anos, as pessoas pertencentes a esse grupo haviam discutido as <a id=\"lsFO7ZaQBU13xdq1LCCE\" href=\"#t83\">leis</a> de Deus que Deus havia dado aos <a id=\"A0joVJWBNoIeBLNzAAfq\" href=\"#t259\">israelitas</a> por meio de Moisés. Porque eles tinham medo de que eles pudessem de alguma forma desobedecer a Deus, eles mesmos haviam adicionado mais e mais regras. Essas regras se tornaram parte de sua tradição, e eram tão importantes para eles quanto as regras que o próprio Deus havia dado. Agora, havia tantas regras, que era muito, muito difícil para as pessoas seguirem todas elas. Os fariseus eram muito orgulhosos porque eles pensavam que apenas eles eram capazes de obedecer a todas as regras de Deus. Eles desprezavam as pessoas que não eram capazes de seguir essas regras. O nome fariseu significa literalmente “ser separado”. Os fariseus queriam se manter separados das outras pessoas.</p><p id=\"4FoGCtm9ldImQJvHQmrG\">Na época de Jesus, os fariseus eram o grupo mais influente de mestres religiosos em <a id=\"QLjX4SYk2gr8EKqwv7JB\" href=\"#t74\">Israel</a>. Muitos dos mestres religiosos em <a id=\"IV6QFvMmZ3paENpHB1LF\" href=\"#t76\">Jerusalém</a> pertenciam ao grupo dos fariseus. Outro grupo importante de mestres religiosos é chamado de <a id=\"IfCxESRdBfz6uitnjSpP\" href=\"#t115\">saduceus</a>. Fariseus e saduceus também eram parte do <a id=\"kGcLXFaTZsUIzP7TPGn9\" href=\"#t168\">Sinédrio</a>, o tribunal religioso <a id=\"k1uNzEZAtGkr1QTSArBs\" href=\"#t77\">judeu</a>.</p>",
 "associations": {
 "passage": [
 {
@@ -1381,57 +1371,7 @@
 "end_ref_usfm": "PHP 3:11"
 }
 ],
-"resource": [
-{
-"reference_id": 0,
-"content_id": "por-t83-v1",
-"resource_code": "FIAKeyTerms",
-"label": "leis",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t259-v2",
-"resource_code": "FIAKeyTerms",
-"label": "israelitas",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t74-v2",
-"resource_code": "FIAKeyTerms",
-"label": "Israel",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t76-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Jerusalém",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t115-v1",
-"resource_code": "FIAKeyTerms",
-"label": "saduceus",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t168-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Sinédrio",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t77-v2",
-"resource_code": "FIAKeyTerms",
-"label": "judeu",
-"language": "por"
-}
-],
+"resource": [],
 "acai": [
 {
 "id": "group:Pharisee",
@@ -1452,7 +1392,7 @@
 "index_reference": "fé",
 "language": "por",
 "review_level": "None",
-"content": "<p><data class=\"resource-ref\" data-content-id=\"por-t11-v1\" data-resource-code=\"FIAKeyTerms\">Acreditar</data> e ter <b>fé</b> significam a mesma coisa.</p><p>Se você acredita em alguém, você acredita que o que essa pessoa diz sobre si mesma é verdadeiro. Você então confia nessa pessoa e está comprometido a fazer o que essa pessoa diz a você para fazer.</p><p><data class=\"resource-ref\" data-content-id=\"por-t1-v1\" data-resource-code=\"FIAKeyTerms\">Abraão</data> acreditava que Deus falou a verdade quando ele prometeu que Abraão teria muitos <data class=\"resource-ref\" data-content-id=\"por-t234-v1\" data-resource-code=\"FIAKeyTerms\">descendentes</data>, mesmo que Abraão já fosse velho e não tivesse sequer um filho. Abraão confiava que Deus cumpriria sua promessa, mesmo que parecesse impossível.</p><p>Se você acredita em Deus, você aceita que Deus existe e que o que Deus diz na Bíblia é verdadeiro. Você confia que Deus cumprirá todas as suas promessas, mesmo quando parecer impossível. Como resultado, você está comprometido a obedecer a tudo o que Deus quer que você faça.</p><p>Quando você acredita em Jesus, você acredita que Jesus é de fato o <data class=\"resource-ref\" data-content-id=\"por-t129-v1\" data-resource-code=\"FIAKeyTerms\">filho de Deus</data>. Você confia que Jesus de fato morreu por seus <data class=\"resource-ref\" data-content-id=\"por-t125-v1\" data-resource-code=\"FIAKeyTerms\">pecados</data>, e que Deus o <data class=\"resource-ref\" data-content-id=\"por-t53-v1\" data-resource-code=\"FIAKeyTerms\">perdoou</data> e o aceitou. Como resultado, você está comprometido a fazer tudo o que Jesus ordenou.</p><p>A Bíblia às vezes diz que as pessoas deveriam acreditar no <em>nome</em> de Jesus”. Isso significa a mesma coisa que acreditar em Jesus.</p><p>Alguém que tem grande fé ou crença, confia muito em Deus — ou Jesus.</p><p><strong>Quando você estiver traduzindo “acreditar”, tenha cuidado com as seguintes coisas:</strong></p><p>Em alguns idiomas, a palavra “acreditar” pode soar como se alguém apenas <em>esperasse</em> que algo seja verdadeiro, mas essa pessoa não tem certeza. Esse não é o significado certo. Portanto, às vezes pode ser melhor usar uma palavra que significa “confiança”.</p><div data-type=\"callout\" data-callout-style=\"action\"><div data-callout-section=\"header\">Pause here and do the following activity as a group:\nPare aqui e faça a seguinte atividade como um grupo:</div><div data-callout-section=\"container\"><p>Peça a uma pessoa para se oferecer para ser a pessoa que tem que confiar, ou ter fé. Essa pessoa deve ficar de costas para um grupo de pelo menos 5 pessoas, se você tiver tantas pessoas assim. Essas cinco pessoas devem ficar bem atrás do voluntário. Eles devem ser capazes e dispostos a pegar o voluntário. Peça ao voluntário para cair para trás, nos braços do grupo de pessoas. Você hesita em fazer isso? Como você se sente quando decide se deve ou não cair nos braços do grupo?</p><p>Talvez o voluntário escolha não se afastar, mesmo que você saiba que seus amigos o pegarão. Como o grupo se sente quando o voluntário escolhe não cair em seus braços?</p><p>Talvez o voluntário escolha cair nos braços do grupo. Como o voluntário se sente depois que o grupo o pega? Como o grupo se sente, sabendo que a pessoa confiou neles? Esse é um exemplo de ter fé, ou confiar. Você não confia, a menos que você realmente caia nos braços do grupo. Você pode dizer que você confia neles, mas a verdadeira confiança não acontece até que você caia. Confiar significa agir de acordo com o que você diz.</p></div></div>",
+"content": "<p id=\"XXVjxOtj2CetAAtIsxzO\"><a id=\"e7lLXZDo92VGT6VjaBMu\" href=\"#t11\">Acreditar</a> e ter <b id=\"MM2ha7PxCwVIJmQ6B6Wl\">fé</b> significam a mesma coisa.</p><p id=\"UgWFfXFdEyrXRWa9tk1V\">Se você acredita em alguém, você acredita que o que essa pessoa diz sobre si mesma é verdadeiro. Você então confia nessa pessoa e está comprometido a fazer o que essa pessoa diz a você para fazer.</p><p id=\"79f0pYoZnBw1uDGIB5uH\"><a id=\"m8LuG6ZaMU7ro6tocOvK\" href=\"#t1\">Abraão</a> acreditava que Deus falou a verdade quando ele prometeu que Abraão teria muitos <a id=\"IPha5JC2huOl5eTU9O22\" href=\"#t234\">descendentes</a>, mesmo que Abraão já fosse velho e não tivesse sequer um filho. Abraão confiava que Deus cumpriria sua promessa, mesmo que parecesse impossível.</p><p id=\"CWzqRo2LCMcUYy4XR99B\">Se você acredita em Deus, você aceita que Deus existe e que o que Deus diz na Bíblia é verdadeiro. Você confia que Deus cumprirá todas as suas promessas, mesmo quando parecer impossível. Como resultado, você está comprometido a obedecer a tudo o que Deus quer que você faça.</p><p id=\"AHNXfkjuy5OeKuSUzSv1\">Quando você acredita em Jesus, você acredita que Jesus é de fato o <a id=\"YyDk7lxj4WsX4k6m0Jwd\" href=\"#t129\">filho de Deus</a>. Você confia que Jesus de fato morreu por seus <a id=\"1i5qAqtVk9kcLeUk662A\" href=\"#t125\">pecados</a>, e que Deus o <a id=\"0ZpLssKm8HMMFmD2yY5R\" href=\"#t53\">perdoou</a> e o aceitou. Como resultado, você está comprometido a fazer tudo o que Jesus ordenou.</p><p id=\"FgivAoNIq1nLg6gW9wgl\">A Bíblia às vezes diz que as pessoas deveriam acreditar no <em id=\"QWrUfsz0iKygbpt3GKv0\">nome</em> de Jesus”. Isso significa a mesma coisa que acreditar em Jesus.</p><p id=\"XDWrnkhFi3SjBkGrI8rO\">Alguém que tem grande fé ou crença, confia muito em Deus — ou Jesus.</p><p id=\"Cv64uEOzsik7cCnKReCE\"><strong id=\"YjCGbGPCF2oDzgdU7U9L\">Quando você estiver traduzindo “acreditar”, tenha cuidado com as seguintes coisas:</strong></p><p id=\"EeaHXEb9bHaBmw9hLkHZ\">Em alguns idiomas, a palavra “acreditar” pode soar como se alguém apenas <em id=\"fhMC5VvYVfT8SOWeSDJP\">esperasse</em> que algo seja verdadeiro, mas essa pessoa não tem certeza. Esse não é o significado certo. Portanto, às vezes pode ser melhor usar uma palavra que significa “confiança”.</p><div id=\"EQpqyPq5o8IBUgrmfOQ1\" data-type=\"callout\" data-callout-style=\"action\"><div data-callout-section=\"header\">Pause here and do the following activity as a group:\nPare aqui e faça a seguinte atividade como um grupo:</div><div data-callout-section=\"container\"><p id=\"EI1jKl3NtLx8wOb10t83\">Peça a uma pessoa para se oferecer para ser a pessoa que tem que confiar, ou ter fé. Essa pessoa deve ficar de costas para um grupo de pelo menos 5 pessoas, se você tiver tantas pessoas assim. Essas cinco pessoas devem ficar bem atrás do voluntário. Eles devem ser capazes e dispostos a pegar o voluntário. Peça ao voluntário para cair para trás, nos braços do grupo de pessoas. Você hesita em fazer isso? Como você se sente quando decide se deve ou não cair nos braços do grupo?</p><p id=\"W2sP4KNy3TJjy9Dd2RLD\">Talvez o voluntário escolha não se afastar, mesmo que você saiba que seus amigos o pegarão. Como o grupo se sente quando o voluntário escolhe não cair em seus braços?</p><p id=\"mapBL82f9sEfQu7rcz2M\">Talvez o voluntário escolha cair nos braços do grupo. Como o voluntário se sente depois que o grupo o pega? Como o grupo se sente, sabendo que a pessoa confiou neles? Esse é um exemplo de ter fé, ou confiar. Você não confia, a menos que você realmente caia nos braços do grupo. Você pode dizer que você confia neles, mas a verdadeira confiança não acontece até que você caia. Confiar significa agir de acordo com o que você diz.</p></div><div data-callout-section=\"footer\">Pause the recording here.\nPare a gravação aqui.</div></div>",
 "associations": {
 "passage": [
 {
@@ -2056,50 +1996,7 @@
 "end_ref_usfm": "2TI 2:19"
 }
 ],
-"resource": [
-{
-"reference_id": 0,
-"content_id": "por-t11-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Acreditar",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t1-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Abraão",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t234-v1",
-"resource_code": "FIAKeyTerms",
-"label": "descendentes",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t129-v1",
-"resource_code": "FIAKeyTerms",
-"label": "filho de Deus",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t125-v1",
-"resource_code": "FIAKeyTerms",
-"label": "pecados",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t53-v1",
-"resource_code": "FIAKeyTerms",
-"label": "perdoou",
-"language": "por"
-}
-],
+"resource": [],
 "acai": []
 }
 },
@@ -2112,7 +2009,7 @@
 "index_reference": "fenícia da síria",
 "language": "por",
 "review_level": "None",
-"content": "<p><b>Fenícia</b> é o nome de uma área ao norte de <data class=\"resource-ref\" data-content-id=\"por-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israel</data>. A Fenícia era uma faixa estreita que consistia em cinco cidades na costa do Mar Mediterrâneo.</p><p>Na época do Novo Testamento essa área pertencia ao país chamado Síria. Por essa razão, alguém que veio dessa área poderia ser chamado de “siro-fenício”. Muitas outras pessoas que viviam nessa área haviam vindo de outros países, especialmente a Grécia. Muitas pessoas nessa área estavam envolvidas no comércio — a compra e venda de bens, especialmente por meio de navios.</p><p>Hoje, essa área é parte do país que agora conhecemos como Líbano.</p>",
+"content": "<p id=\"jHNWUTI7CGuxRseWyYE1\"><b id=\"10nRKfx9NZkQyPl8mwB0\">Fenícia</b> é o nome de uma área ao norte de <a id=\"hSRqGazeMWuv98IReMXe\" href=\"#t74\">Israel</a>. A Fenícia era uma faixa estreita que consistia em cinco cidades na costa do Mar Mediterrâneo.</p><p id=\"WgArfhZ1qHzFyfc99Euo\">Na época do Novo Testamento essa área pertencia ao país chamado Síria. Por essa razão, alguém que veio dessa área poderia ser chamado de “siro-fenício”. Muitas outras pessoas que viviam nessa área haviam vindo de outros países, especialmente a Grécia. Muitas pessoas nessa área estavam envolvidas no comércio — a compra e venda de bens, especialmente por meio de navios.</p><p id=\"9W4DZIhXO9vt3NH2R1C5\">Hoje, essa área é parte do país que agora conhecemos como Líbano.</p>",
 "associations": {
 "passage": [
 {
@@ -2122,15 +2019,7 @@
 "end_ref_usfm": "MRK 7:30"
 }
 ],
-"resource": [
-{
-"reference_id": 0,
-"content_id": "por-t74-v2",
-"resource_code": "FIAKeyTerms",
-"label": "Israel",
-"language": "por"
-}
-],
+"resource": [],
 "acai": [
 {
 "id": "place:Phoenicia",
@@ -2217,7 +2106,7 @@
 "index_reference": "festa dos pães asmos",
 "language": "por",
 "review_level": "None",
-"content": "<p>A <data class=\"resource-ref\" data-content-id=\"por-t162-v1\" data-resource-code=\"FIAKeyTerms\">Páscoa</data> é uma importante festa <data class=\"resource-ref\" data-content-id=\"por-t77-v2\" data-resource-code=\"FIAKeyTerms\">judaica</data> que também é chamada de Festival, ou Festa, dos Pães Asmos.</p><p>Essa festa lembrava o povo sobre um momento muito importante na história de <data class=\"resource-ref\" data-content-id=\"por-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israel</data>.</p><p>Há muito tempo, os <data class=\"resource-ref\" data-content-id=\"por-t234-v1\" data-resource-code=\"FIAKeyTerms\">descendentes</data> de <data class=\"resource-ref\" data-content-id=\"por-t1-v1\" data-resource-code=\"FIAKeyTerms\">Abraão</data>, os <data class=\"resource-ref\" data-content-id=\"por-t259-v2\" data-resource-code=\"FIAKeyTerms\">israelitas</data>, haviam se tornado <data class=\"resource-ref\" data-content-id=\"por-t126-v2\" data-resource-code=\"FIAKeyTerms\">escravos</data> no Egito. Os israelitas haviam vivido no Egito por quatrocentos anos! Deus então chamou um dos israelitas, Moisés, para levar os israelitas para fora do Egito e de volta para <data class=\"resource-ref\" data-content-id=\"por-t178-v1\" data-resource-code=\"FIAKeyTerms\">Canaã</data>, a terra que Deus havia prometido dar aos descendentes de Abraão. O <data class=\"resource-ref\" data-content-id=\"por-t226-v1\" data-resource-code=\"FIAKeyTerms\">rei</data> do Egito simplesmente não permitiu que esse grande grupo de escravos fosse para fora de seu país. O rei tornou as coisas muito difíceis para os israelitas, mas Deus enviou nove pragas aos egípcios para forçar o rei a deixar o povo ir. Durante cada praga, o rei prometia que os israelitas poderiam ir, mas assim que Deus parava a praga, o rei mudava sua decisão novamente. E assim, Deus causou a décima e mais terrível praga de todas: Deus enviou um <data class=\"resource-ref\" data-content-id=\"por-t4-v1\" data-resource-code=\"FIAKeyTerms\">anjo</data> para matar o filho mais velho em cada casa dos egípcios. Mas Deus havia dito aos israelitas para matar um cordeiro, que é um animal, uma ovelha jovem, e para manchar com o <data class=\"resource-ref\" data-content-id=\"por-t218-v1\" data-resource-code=\"FIAKeyTerms\">sangue</data> desse cordeiro os batentes das portas de suas casas. Quando o anjo enviado por Deus visse o sangue do cordeiro na porta de uma casa, ele pularia essa casa e não mataria o filho mais velho naquela família.</p><p>Naquela mesma noite, os israelitas tiveram que comer a carne desse cordeiro de uma maneira especial. Eles tinham que comer a carne com ervas amargas e com pão que eles haviam preparado rapidamente — diferente da maneira normal que eles preparavam o pão, que levava um longo tempo. Eles tinham que comer essa refeição enquanto estavam de pé, todos vestidos prontos para começar a viajar! Porque durante aquela noite, eles deixariam o Egito.</p><p>Naquela noite, o anjo de Deus matou todos os filhos mais velhos no Egito, exceto os filhos dos israelitas, porque eles tinham sangue sobre suas portas. Naquela noite, o rei do Egito finalmente deixou os israelitas irem. Os israelitas começaram sua longa viagem para a terra que Deus havia prometido lhes dar! Eles não eram mais escravos. Daquele momento em diante, os israelitas se lembrariam de como Deus lhes deu libertação do Egito celebrando a festa da Páscoa a cada ano. O nome Páscoa significa “pular” ou “dar um passo por cima”. Esse nome lembrava os israelitas de como o anjo havia pulado sobre as casas dos israelitas, e não havia matado seus filhos mais velhos.</p><p>Toda vez que os israelitas celebravam a Páscoa, eles novamente matavam um cordeiro e comiam essa carne com ervas amargas e com pão que era preparado muito rapidamente. O cordeiro os lembrava de como Deus salvou seus filhos mais velhos. As ervas amargas os lembravam da amargura, da dificuldade, que eles haviam enfrentado enquanto eram escravos. E o pão que era preparado rapidamente os lembrava de que Deus os libertou do Egito e que eles de repente tinham que sair rapidamente.</p><p>Deus havia dito aos israelitas que a festa da Páscoa anual deveria ser combinada com sete dias da Festa dos Pães Asmos. Durante esses sete dias eles deveriam comer o pão especial que era preparado rapidamente. Normalmente, os israelitas faziam pão deixando a massa, uma mistura de farinha e água, descansar por várias horas, ou durante a noite, antes de assarem o pão. A longa espera fazia com que algumas bolhas de ar crescessem dentro da massa, e isso tornava o pão maior e mais macio. Toda vez que eles assavam pão, eles manteriam um pouco da massa até a próxima vez. Esse pedaço de massa deixada sem assar era chamado de fermento, ou levedura. Da próxima vez que eles assassem pão, eles pegariam o fermento que eles haviam mantido da vez anterior e o adicionariam à nova massa. Isso ajudava a nova massa a também se tornar maior e mais macia.</p><p>Quando os israelitas estavam deixando o Egito na primeira noite da Páscoa, eles não tinham tempo para assar pão dessa maneira. E Deus lhes disse para fazer pão sem fermento. O pão feito sem fermento é plano e fino; é apenas farinha e água que é amassada e enrolada plana, e então cozida sobre um fogo. Esse pão era chamado de pão asmo, que quer dizer \"sem fermento\". Portanto, essa festa é chamada de festa dos pães asmos. Durante os sete dias dessa festa, os israelitas não poderiam manter nem a menor parte de fermento em sua casa. Antes que a festa começasse, eles tinham que jogar fora qualquer fermento que eles ainda tinham.</p><p>Porque a Páscoa e a Festa dos Pães Asmos eram celebradas juntas, os nomes para as festas são muitas vezes usados de forma intercambiável.</p><p>No Novo Testamento, o fermento é às vezes usado como um símbolo para o <data class=\"resource-ref\" data-content-id=\"por-t125-v1\" data-resource-code=\"FIAKeyTerms\">pecado</data> de que devemos nos livrar em nossas vidas.</p>",
+"content": "<p id=\"cHAo3Fct64zR5MjxRBdG\">A <a id=\"pIiixkX0wFmDXzFJmJp9\" href=\"#t162\">Páscoa</a> é uma importante festa <a id=\"q4lrYlKZ3IMtZiDN9oA5\" href=\"#t77\">judaica</a> que também é chamada de Festival, ou Festa, dos Pães Asmos.</p><p id=\"VqhTLT9K0zk1Xgs3SkHq\">Essa festa lembrava o povo sobre um momento muito importante na história de <a id=\"l3NhsYDYUs05U1DCSJZQ\" href=\"#t74\">Israel</a>.</p><p id=\"kE4GpJZMuSPS5Lf0i2kl\">Há muito tempo, os <a id=\"8nZrDGiyxWkQQorVqCJJ\" href=\"#t234\">descendentes</a> de <a id=\"WvIZTJuYrw3suMsj2OWw\" href=\"#t1\">Abraão</a>, os <a id=\"3kZ4w0asRQcj1b2t4z2l\" href=\"#t259\">israelitas</a>, haviam se tornado <a id=\"jkWbWv3yFsCLXaSY3NMB\" href=\"#t126\">escravos</a> no Egito. Os israelitas haviam vivido no Egito por quatrocentos anos! Deus então chamou um dos israelitas, Moisés, para levar os israelitas para fora do Egito e de volta para <a id=\"DD7enT1qRIYQIT9ev32B\" href=\"#t178\">Canaã</a>, a terra que Deus havia prometido dar aos descendentes de Abraão. O <a id=\"KuvjASqULUWg9gUjLnYI\" href=\"#t226\">rei</a> do Egito simplesmente não permitiu que esse grande grupo de escravos fosse para fora de seu país. O rei tornou as coisas muito difíceis para os israelitas, mas Deus enviou nove pragas aos egípcios para forçar o rei a deixar o povo ir. Durante cada praga, o rei prometia que os israelitas poderiam ir, mas assim que Deus parava a praga, o rei mudava sua decisão novamente. E assim, Deus causou a décima e mais terrível praga de todas: Deus enviou um <a id=\"dmChl0W5SDXJ5dEVwFbc\" href=\"#t4\">anjo</a> para matar o filho mais velho em cada casa dos egípcios. Mas Deus havia dito aos israelitas para matar um cordeiro, que é um animal, uma ovelha jovem, e para manchar com o <a id=\"1T1WM9uUMFZCd2OBId4n\" href=\"#t218\">sangue</a> desse cordeiro os batentes das portas de suas casas. Quando o anjo enviado por Deus visse o sangue do cordeiro na porta de uma casa, ele pularia essa casa e não mataria o filho mais velho naquela família.</p><p id=\"zGFgSQhW8czXhYILQRTr\">Naquela mesma noite, os israelitas tiveram que comer a carne desse cordeiro de uma maneira especial. Eles tinham que comer a carne com ervas amargas e com pão que eles haviam preparado rapidamente — diferente da maneira normal que eles preparavam o pão, que levava um longo tempo. Eles tinham que comer essa refeição enquanto estavam de pé, todos vestidos prontos para começar a viajar! Porque durante aquela noite, eles deixariam o Egito.</p><p id=\"rFI6gbcNFqB4TrGbWymt\">Naquela noite, o anjo de Deus matou todos os filhos mais velhos no Egito, exceto os filhos dos israelitas, porque eles tinham sangue sobre suas portas. Naquela noite, o rei do Egito finalmente deixou os israelitas irem. Os israelitas começaram sua longa viagem para a terra que Deus havia prometido lhes dar! Eles não eram mais escravos. Daquele momento em diante, os israelitas se lembrariam de como Deus lhes deu libertação do Egito celebrando a festa da Páscoa a cada ano. O nome Páscoa significa “pular” ou “dar um passo por cima”. Esse nome lembrava os israelitas de como o anjo havia pulado sobre as casas dos israelitas, e não havia matado seus filhos mais velhos.</p><p id=\"TmOsnrPFRxbNuVyDOG8C\">Toda vez que os israelitas celebravam a Páscoa, eles novamente matavam um cordeiro e comiam essa carne com ervas amargas e com pão que era preparado muito rapidamente. O cordeiro os lembrava de como Deus salvou seus filhos mais velhos. As ervas amargas os lembravam da amargura, da dificuldade, que eles haviam enfrentado enquanto eram escravos. E o pão que era preparado rapidamente os lembrava de que Deus os libertou do Egito e que eles de repente tinham que sair rapidamente.</p><p id=\"IXalczYF0HMZkNxsVDCV\">Deus havia dito aos israelitas que a festa da Páscoa anual deveria ser combinada com sete dias da Festa dos Pães Asmos. Durante esses sete dias eles deveriam comer o pão especial que era preparado rapidamente. Normalmente, os israelitas faziam pão deixando a massa, uma mistura de farinha e água, descansar por várias horas, ou durante a noite, antes de assarem o pão. A longa espera fazia com que algumas bolhas de ar crescessem dentro da massa, e isso tornava o pão maior e mais macio. Toda vez que eles assavam pão, eles manteriam um pouco da massa até a próxima vez. Esse pedaço de massa deixada sem assar era chamado de fermento, ou levedura. Da próxima vez que eles assassem pão, eles pegariam o fermento que eles haviam mantido da vez anterior e o adicionariam à nova massa. Isso ajudava a nova massa a também se tornar maior e mais macia.</p><p id=\"0YpKWEfRc8Ik1izZBevR\">Quando os israelitas estavam deixando o Egito na primeira noite da Páscoa, eles não tinham tempo para assar pão dessa maneira. E Deus lhes disse para fazer pão sem fermento. O pão feito sem fermento é plano e fino; é apenas farinha e água que é amassada e enrolada plana, e então cozida sobre um fogo. Esse pão era chamado de pão asmo, que quer dizer \"sem fermento\". Portanto, essa festa é chamada de festa dos pães asmos. Durante os sete dias dessa festa, os israelitas não poderiam manter nem a menor parte de fermento em sua casa. Antes que a festa começasse, eles tinham que jogar fora qualquer fermento que eles ainda tinham.</p><p id=\"OEtPqJCoTxe7TLwb6vh0\">Porque a Páscoa e a Festa dos Pães Asmos eram celebradas juntas, os nomes para as festas são muitas vezes usados de forma intercambiável.</p><p id=\"rVLHRW2zwPu2CTgl1YQn\">No Novo Testamento, o fermento é às vezes usado como um símbolo para o <a id=\"IJN2n7QK6BCt0nSGxor3\" href=\"#t125\">pecado</a> de que devemos nos livrar em nossas vidas.</p>",
 "associations": {
 "passage": [
 {
@@ -2323,92 +2212,7 @@
 "end_ref_usfm": "ACT 20:6"
 }
 ],
-"resource": [
-{
-"reference_id": 0,
-"content_id": "por-t162-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Páscoa",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t77-v2",
-"resource_code": "FIAKeyTerms",
-"label": "judaica",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t74-v2",
-"resource_code": "FIAKeyTerms",
-"label": "Israel",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t234-v1",
-"resource_code": "FIAKeyTerms",
-"label": "descendentes",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t1-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Abraão",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t259-v2",
-"resource_code": "FIAKeyTerms",
-"label": "israelitas",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t126-v2",
-"resource_code": "FIAKeyTerms",
-"label": "escravos",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t178-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Canaã",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t226-v1",
-"resource_code": "FIAKeyTerms",
-"label": "rei",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t4-v1",
-"resource_code": "FIAKeyTerms",
-"label": "anjo",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t218-v1",
-"resource_code": "FIAKeyTerms",
-"label": "sangue",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t125-v1",
-"resource_code": "FIAKeyTerms",
-"label": "pecado",
-"language": "por"
-}
-],
+"resource": [],
 "acai": []
 }
 },
@@ -2491,6 +2295,12 @@
 "end_ref_usfm": "EZR 3:7"
 },
 {
+"start_ref": "16008013",
+"start_ref_usfm": "NEH 8:13",
+"end_ref": "16008018",
+"end_ref_usfm": "NEH 8:18"
+},
+{
 "start_ref": "43007001",
 "start_ref_usfm": "JHN 7:1",
 "end_ref": "43007010",
@@ -2557,14 +2367,14 @@
 {
 "id": "realia:FestivalOfTheTabernacles",
 "type": "realia",
-"confidence": 0.5665,
+"confidence": 0.5664,
 "match_method": "scored",
 "preferred_label": "Festival of the Tabernacles"
 },
 {
 "id": "keyterm:FeastOfTabernacles",
 "type": "keyterm",
-"confidence": 0.5587,
+"confidence": 0.5582,
 "match_method": "scored",
 "preferred_label": "feast of tabernacles"
 }
@@ -2580,9 +2390,15 @@
 "index_reference": "figueira",
 "language": "por",
 "review_level": "None",
-"content": "<p>Uma <b>figueira</b> é um tipo de árvore frutífera que cresce em <data class=\"resource-ref\" data-content-id=\"por-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israel</data>. Pode crescer até cerca de 10 metros de altura. Quando uma figueira tem cerca de 3 a 5 anos de idade, ela começa a dar frutos. O fruto da figueira é amarelo ou roxo, e tem gosto doce. Uma figueira pode dar frutos duas vezes por ano, e às vezes até três vezes por ano.</p><div data-type=\"callout\" data-callout-style=\"action\"><p>Você pode procurar uma imagem de uma figueira no dicionário bíblico visual.</p></div>",
+"content": "<p id=\"kvXgdoiwJyFGpQhl5n1w\">Uma <b id=\"VxRP478UMv2K255BRt0Q\">figueira</b> é um tipo de árvore frutífera que cresce em <a id=\"htR4Pq3UUlRlIjLory43\" href=\"#t74\">Israel</a>. Pode crescer até cerca de 10 metros de altura. Quando uma figueira tem cerca de 3 a 5 anos de idade, ela começa a dar frutos. O fruto da figueira é amarelo ou roxo, e tem gosto doce. Uma figueira pode dar frutos duas vezes por ano, e às vezes até três vezes por ano.</p><div id=\"1Gc8glTAk7zNdvq1kxJg\" data-type=\"callout\" data-callout-style=\"action\"><p id=\"3U5KSQeiEcrV6gKPnXB0\">Você pode procurar uma imagem de uma figueira no dicionário bíblico visual.</p></div>",
 "associations": {
 "passage": [
+{
+"start_ref": "12018026",
+"start_ref_usfm": "2KI 18:26",
+"end_ref": "12018037",
+"end_ref_usfm": "2KI 18:37"
+},
 {
 "start_ref": "40007013",
 "start_ref_usfm": "MAT 7:13",
@@ -2626,20 +2442,12 @@
 "end_ref_usfm": "LUK 13:9"
 }
 ],
-"resource": [
-{
-"reference_id": 0,
-"content_id": "por-t74-v2",
-"resource_code": "FIAKeyTerms",
-"label": "Israel",
-"language": "por"
-}
-],
+"resource": [],
 "acai": [
 {
 "id": "flora:Fig",
 "type": "flora",
-"confidence": 0.664,
+"confidence": 0.6598,
 "match_method": "scored",
 "preferred_label": "Fig"
 }
@@ -2655,7 +2463,7 @@
 "index_reference": "filho",
 "language": "por",
 "review_level": "None",
-"content": "<p>Um <b>filho</b> é o filho masculino de seus pais. Mas as pessoas podem chamar alguém de “filho”, mesmo que elas não sejam familiares. Se você chama alguém de “filho”, isso significa que você está falando com ele de uma maneira muito amigável. É geralmente uma pessoa mais velha que chama uma pessoa mais jovem de “filho”.</p>",
+"content": "<p id=\"GhYe0mLDXsrDgY6JihSI\">Um <b id=\"Qu3Pa6ZrwcNetSFJK6NL\">filho</b> é o filho masculino de seus pais. Mas as pessoas podem chamar alguém de “filho”, mesmo que elas não sejam familiares. Se você chama alguém de “filho”, isso significa que você está falando com ele de uma maneira muito amigável. É geralmente uma pessoa mais velha que chama uma pessoa mais jovem de “filho”.</p>",
 "associations": {
 "passage": [
 {
@@ -3235,22 +3043,28 @@
 "end_ref_usfm": "EZR 8:14"
 },
 {
-"start_ref": "41002001",
-"start_ref_usfm": "MRK 2:1",
-"end_ref": "41002012",
-"end_ref_usfm": "MRK 2:12"
+"start_ref": "16001001",
+"start_ref_usfm": "NEH 1:1",
+"end_ref": "16001011",
+"end_ref_usfm": "NEH 1:11"
 },
 {
-"start_ref": "41012001",
-"start_ref_usfm": "MRK 12:1",
-"end_ref": "41012012",
-"end_ref_usfm": "MRK 12:12"
+"start_ref": "16003001",
+"start_ref_usfm": "NEH 3:1",
+"end_ref": "16003005",
+"end_ref_usfm": "NEH 3:5"
 },
 {
-"start_ref": "42020041",
-"start_ref_usfm": "LUK 20:41",
-"end_ref": "42020044",
-"end_ref_usfm": "LUK 20:44"
+"start_ref": "16003006",
+"start_ref_usfm": "NEH 3:6",
+"end_ref": "16003015",
+"end_ref_usfm": "NEH 3:15"
+},
+{
+"start_ref": "16003016",
+"start_ref_usfm": "NEH 3:16",
+"end_ref": "16003027",
+"end_ref_usfm": "NEH 3:27"
 }
 ],
 "resource": [],
@@ -3266,7 +3080,7 @@
 "index_reference": "filho de davi",
 "language": "por",
 "review_level": "None",
-"content": "<p><b>Filho de Davi</b> significa um <data class=\"resource-ref\" data-content-id=\"por-t234-v1\" data-resource-code=\"FIAKeyTerms\">descendente</data> de <data class=\"resource-ref\" data-content-id=\"por-t33-v1\" data-resource-code=\"FIAKeyTerms\">Davi</data>, mesmo que esse descendente tenha nascido muitas gerações depois de Davi.</p><p>Davi era o rei mais amado dos <data class=\"resource-ref\" data-content-id=\"por-t259-v2\" data-resource-code=\"FIAKeyTerms\">israelitas</data>, e ele viveu cerca de mil anos antes de Jesus nascer. Deus prometeu a Davi que um de seus descendentes sempre governaria sobre <data class=\"resource-ref\" data-content-id=\"por-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israel</data>. Mas porque os israelitas eram muito desobedientes a Deus, Deus permitiu que seus inimigos os conquistassem. O <data class=\"resource-ref\" data-content-id=\"por-t157-v1\" data-resource-code=\"FIAKeyTerms\">Reino</data> de Israel parou de existir. Mas mesmo nesse tempo difícil, Deus deu ao povo mensagens de esperança. Por meio de seus porta-vozes, os <data class=\"resource-ref\" data-content-id=\"por-t200-v1\" data-resource-code=\"FIAKeyTerms\">profetas</data>, Deus disse ao povo que um tempo viria novamente quando um descendente de Davi governaria sobre Israel. Esse <data class=\"resource-ref\" data-content-id=\"por-t226-v1\" data-resource-code=\"FIAKeyTerms\">rei</data> salvaria o povo de seus problemas e tornaria tudo certo novamente.</p><p>E então os israelitas estavam esperando que um dia Deus enviasse ao povo esse rei e <data class=\"resource-ref\" data-content-id=\"por-t119-v1\" data-resource-code=\"FIAKeyTerms\">Salvador</data>. Eles chamavam esse rei prometido de <data class=\"resource-ref\" data-content-id=\"por-t92-v1\" data-resource-code=\"FIAKeyTerms\">Messias</data>, ou o <data class=\"resource-ref\" data-content-id=\"por-t23-v1\" data-resource-code=\"FIAKeyTerms\">Cristo</data>. Um Messias é alguém nomeado para uma tarefa especial. O Messias seria um descendente de Davi. Quando as pessoas no Novo Testamento chamam Jesus de “filho de Davi”, elas querem dizer que elas <data class=\"resource-ref\" data-content-id=\"por-t11-v1\" data-resource-code=\"FIAKeyTerms\">acreditam</data> que Jesus é o rei e Salvador especial que Deus havia prometido enviar.</p>",
+"content": "<p id=\"Cpqkgq9TPbh3EIVJKUlH\"><b id=\"tlU9E1sCaEyihhZfze5I\">Filho de Davi</b> significa um <a id=\"Uw7UpUnJioep6lOQ3j52\" href=\"#t234\">descendente</a> de <a id=\"J0q3fQTNJaVhxL04U97H\" href=\"#t33\">Davi</a>, mesmo que esse descendente tenha nascido muitas gerações depois de Davi.</p><p id=\"CueNf3JvWFEb9o8Bbi8V\">Davi era o rei mais amado dos <a id=\"IBDKkfqOQriO46JWzwWg\" href=\"#t259\">israelitas</a>, e ele viveu cerca de mil anos antes de Jesus nascer. Deus prometeu a Davi que um de seus descendentes sempre governaria sobre <a id=\"htrWxqGD1fNc2zUPZz62\" href=\"#t74\">Israel</a>. Mas porque os israelitas eram muito desobedientes a Deus, Deus permitiu que seus inimigos os conquistassem. O <a id=\"By0fW8C4dvnUF9Ij2Yn0\" href=\"#t157\">Reino</a> de Israel parou de existir. Mas mesmo nesse tempo difícil, Deus deu ao povo mensagens de esperança. Por meio de seus porta-vozes, os <a id=\"Te2iboOVv2rsAPtJSQO5\" href=\"#t200\">profetas</a>, Deus disse ao povo que um tempo viria novamente quando um descendente de Davi governaria sobre Israel. Esse <a id=\"7lIryaDaBZY60I8ft2st\" href=\"#t226\">rei</a> salvaria o povo de seus problemas e tornaria tudo certo novamente.</p><p id=\"4k3BuZG59sdTzufHH4Ac\">E então os israelitas estavam esperando que um dia Deus enviasse ao povo esse rei e <a id=\"lAAlLFqFh59k1BckxUld\" href=\"#t119\">Salvador</a>. Eles chamavam esse rei prometido de <a id=\"EChDtTL99xGyG0mYjuzV\" href=\"#t92\">Messias</a>, ou o <a id=\"822fJi4winwe3jTRQ5RV\" href=\"#t23\">Cristo</a>. Um Messias é alguém nomeado para uma tarefa especial. O Messias seria um descendente de Davi. Quando as pessoas no Novo Testamento chamam Jesus de “filho de Davi”, elas querem dizer que elas <a id=\"MeB9oKmjBVBcQ9le2k5e\" href=\"#t11\">acreditam</a> que Jesus é o rei e Salvador especial que Deus havia prometido enviar.</p>",
 "associations": {
 "passage": [
 {
@@ -3342,85 +3156,7 @@
 "end_ref_usfm": "LUK 20:44"
 }
 ],
-"resource": [
-{
-"reference_id": 0,
-"content_id": "por-t234-v1",
-"resource_code": "FIAKeyTerms",
-"label": "descendente",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t33-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Davi",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t259-v2",
-"resource_code": "FIAKeyTerms",
-"label": "israelitas",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t74-v2",
-"resource_code": "FIAKeyTerms",
-"label": "Israel",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t157-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Reino",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t200-v1",
-"resource_code": "FIAKeyTerms",
-"label": "profetas",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t226-v1",
-"resource_code": "FIAKeyTerms",
-"label": "rei",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t119-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Salvador",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t92-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Messias",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t23-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Cristo",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t11-v1",
-"resource_code": "FIAKeyTerms",
-"label": "acreditam",
-"language": "por"
-}
-],
+"resource": [],
 "acai": []
 }
 },
@@ -3433,7 +3169,7 @@
 "index_reference": "filho de deus",
 "language": "por",
 "review_level": "None",
-"content": "<p>O <b>Filho de Deus</b> é um título de Jesus. Jesus é chamado de <data class=\"resource-ref\" data-content-id=\"por-t127-v1\" data-resource-code=\"FIAKeyTerms\">filho</data> de Deus porque ele tem um relacionamento especial com Deus, o Pai. Deus e Jesus se amam da maneira que um pai e um filho se amam. Às vezes Jesus é chamado de “o <em>único</em> filho de Deus”. Isso significa que o relacionamento que Jesus tem com Deus é único. Ninguém mais tem esse mesmo relacionamento com Deus como Jesus tem.</p><p>Que Jesus é o filho de Deus significa que ele mesmo também é Deus. Jesus é uma pessoa da Trindade — uma palavra que a igreja está usando para descrever que Deus é <em>um</em>, mas, ao mesmo tempo, <em>três</em> pessoas: Deus, o Pai, Deus, o Filho, e Deus, o <data class=\"resource-ref\" data-content-id=\"por-t68-v1\" data-resource-code=\"FIAKeyTerms\">Espírito Santo</data>. Jesus sempre foi o Filho de Deus, mesmo antes do início de nosso tempo, antes da criação do mundo. Quando Jesus veio à terra, e nasceu, ele também se tornou um humano.</p><p>Quando as pessoas no Novo Testamento chamam Jesus de Filho de Deus, essa às vezes é outra maneira de dizer que Jesus é o <data class=\"resource-ref\" data-content-id=\"por-t92-v1\" data-resource-code=\"FIAKeyTerms\">Messias</data>, o <data class=\"resource-ref\" data-content-id=\"por-t23-v1\" data-resource-code=\"FIAKeyTerms\">Cristo</data> — o rei e <data class=\"resource-ref\" data-content-id=\"por-t119-v1\" data-resource-code=\"FIAKeyTerms\">Salvador</data> prometido.</p><p>Quando as pessoas começam a confiar em Jesus, Deus as adota como filhos. Portanto, a Bíblia às vezes usa a frase “<em>filhos</em> de Deus” para descrever as pessoas que confiam e seguem Jesus.</p>",
+"content": "<p id=\"6hLdld16Jdn5P2XvrHKV\">O <b id=\"jDRkoms2ByhLgwZsDmYt\">Filho de Deus</b> é um título de Jesus. Jesus é chamado de <a id=\"WwGTiDLg0vcP4UBzAyno\" href=\"#t127\">filho</a> de Deus porque ele tem um relacionamento especial com Deus, o Pai. Deus e Jesus se amam da maneira que um pai e um filho se amam. Às vezes Jesus é chamado de “o <em id=\"Yr3fGCSweevNCWHD2zpS\">único</em> filho de Deus”. Isso significa que o relacionamento que Jesus tem com Deus é único. Ninguém mais tem esse mesmo relacionamento com Deus como Jesus tem.</p><p id=\"t2xf82S7E1vbnqaTWWNR\">Que Jesus é o filho de Deus significa que ele mesmo também é Deus. Jesus é uma pessoa da Trindade — uma palavra que a igreja está usando para descrever que Deus é <em id=\"UXPLGd2Dpfe60GUFvYyB\">um</em>, mas, ao mesmo tempo, <em id=\"FT7FmPApbVBvh4hPKOKv\">três</em> pessoas: Deus, o Pai, Deus, o Filho, e Deus, o <a id=\"PUs3cvnVfHL7CaxSrcsr\" href=\"#t68\">Espírito Santo</a>. Jesus sempre foi o Filho de Deus, mesmo antes do início de nosso tempo, antes da criação do mundo. Quando Jesus veio à terra, e nasceu, ele também se tornou um humano.</p><p id=\"8yGUjFVGYCNIM4LLORTo\">Quando as pessoas no Novo Testamento chamam Jesus de Filho de Deus, essa às vezes é outra maneira de dizer que Jesus é o <a id=\"o4D8Bkjh7AmgXtbH6BlT\" href=\"#t92\">Messias</a>, o <a id=\"i9lZ7z3O1VesABXxiZgZ\" href=\"#t23\">Cristo</a> — o rei e <a id=\"FThJnBnrB7X4ZVMElvcC\" href=\"#t119\">Salvador</a> prometido.</p><p id=\"ZOFPL5rZ8NbN6oDgKwxU\">Quando as pessoas começam a confiar em Jesus, Deus as adota como filhos. Portanto, a Bíblia às vezes usa a frase “<em id=\"BbkQ0MwGRHq9zvp0clzB\">filhos</em> de Deus” para descrever as pessoas que confiam e seguem Jesus.</p>",
 "associations": {
 "passage": [
 {
@@ -3701,43 +3437,7 @@
 "end_ref_usfm": "2JN 1:3"
 }
 ],
-"resource": [
-{
-"reference_id": 0,
-"content_id": "por-t127-v1",
-"resource_code": "FIAKeyTerms",
-"label": "filho",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t68-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Espírito Santo",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t92-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Messias",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t23-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Cristo",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t119-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Salvador",
-"language": "por"
-}
-],
+"resource": [],
 "acai": []
 }
 },
@@ -3750,9 +3450,15 @@
 "index_reference": "filho do homem",
 "language": "por",
 "review_level": "None",
-"content": "<p>O <b>Filho do Homem</b> é um título que Jesus dá a si mesmo. Sempre que Jesus diz algo sobre o “Filho do Homem”, ele está dizendo sobre si mesmo. Em <data class=\"resource-ref\" data-content-id=\"por-t227-v1\" data-resource-code=\"FIAKeyTerms\">hebraico</data>, o idioma do Antigo Testamento, essa frase significa apenas “um ser humano”, mas Jesus está dando à palavra um significado especial.</p><p>A frase “Filho do Homem” ocorre de uma maneira especial no Antigo Testamento, no livro de Daniel. Daniel era um <data class=\"resource-ref\" data-content-id=\"por-t259-v2\" data-resource-code=\"FIAKeyTerms\">israelita</data> que viveu cerca de 600 anos antes de Jesus. Uma vez ele teve uma <data class=\"resource-ref\" data-content-id=\"por-t143-v1\" data-resource-code=\"FIAKeyTerms\">visão</data> na qual ele viu alguém que parecia como um “Filho do Homem”. Na visão de Daniel, Deus deu toda <data class=\"resource-ref\" data-content-id=\"por-t8-v1\" data-resource-code=\"FIAKeyTerms\">autoridade</data> a essa pessoa, e essa pessoa se tornou um rei, e todas as pessoas no mundo o serviam. Seu <data class=\"resource-ref\" data-content-id=\"por-t157-v1\" data-resource-code=\"FIAKeyTerms\">reino</data> nunca terminou.</p><p>Quando Jesus chama a si mesmo de “Filho do Homem”, ele está, portanto, dizendo ao povo: “Eu Sou a pessoa da visão de Daniel. Eu sou o rei, e Deus me deu toda autoridade”. É outra maneira de dizer que Jesus é o <data class=\"resource-ref\" data-content-id=\"por-t92-v1\" data-resource-code=\"FIAKeyTerms\">Messias</data> — o rei e <data class=\"resource-ref\" data-content-id=\"por-t119-v1\" data-resource-code=\"FIAKeyTerms\">Salvador</data> especial que Deus prometeu enviar —, mas de uma maneira menos direta. Na época de Jesus, o povo não usava o termo “Filho do Homem” como outro título para o Messias. Então, quando Jesus chamou a si mesmo de “Filho do Homem”, o povo não pensou imediatamente sobre o Messias. No entanto, o povo veio a perceber que Jesus estava alegando ter toda autoridade de Deus. O povo tinha que descobrir lentamente o que Jesus quis dizer quando ele chamou a si mesmo de “Filho do Homem”.</p><p>O público original entendeu que Jesus estava falando sobre si mesmo quando ele falou sobre o Filho do Homem. Se seu público não entenderá que Jesus estava falando sobre si mesmo, você pode precisar deixar isso claro. Se você gostaria de deixar mais claro o que “Filho do Homem” significa, você pode dizer algo como “Eu, que vim de Deus com a autoridade de Deus”.</p><p>Ou, se você gostaria de manter o significado pouco claro, como está na Bíblia, você pode precisar deixar claro que “Filho do Homem” é um título. Você pode dizer algo como “Eu, aquele que é chamado de ‘Filho do Homem’, ou o ‘Filho da Humanidade’”.</p>",
+"content": "<p id=\"GZliGatqIstCl9sbSaHh\">O <b id=\"GXjq6BRhdoRPUMwQjH4c\">Filho do Homem</b> é um título que Jesus dá a si mesmo. Sempre que Jesus diz algo sobre o “Filho do Homem”, ele está dizendo sobre si mesmo. Em <a id=\"9qPuBZSghVsy81nxwgNy\" href=\"#t227\">hebraico</a>, o idioma do Antigo Testamento, essa frase significa apenas “um ser humano”, mas Jesus está dando à palavra um significado especial.</p><p id=\"WsN63HppFAyeqpAQAblc\">A frase “Filho do Homem” ocorre de uma maneira especial no Antigo Testamento, no livro de Daniel. Daniel era um <a id=\"P9YOwHWKONTfw41CrDUo\" href=\"#t259\">israelita</a> que viveu cerca de 600 anos antes de Jesus. Uma vez ele teve uma <a id=\"K8eynMsYS5HWtrNkD8WY\" href=\"#t143\">visão</a> na qual ele viu alguém que parecia como um “Filho do Homem”. Na visão de Daniel, Deus deu toda <a id=\"RKOxnxicxioCOb4Kucdg\" href=\"#t8\">autoridade</a> a essa pessoa, e essa pessoa se tornou um rei, e todas as pessoas no mundo o serviam. Seu <a id=\"cljcObmdZjSHEkCuXU0Q\" href=\"#t157\">reino</a> nunca terminou.</p><p id=\"WyL215P2JmS0v3nSdrbb\">Quando Jesus chama a si mesmo de “Filho do Homem”, ele está, portanto, dizendo ao povo: “Eu Sou a pessoa da visão de Daniel. Eu sou o rei, e Deus me deu toda autoridade”. É outra maneira de dizer que Jesus é o <a id=\"0ejtCYSmo2zyXAsZD3y5\" href=\"#t92\">Messias</a> — o rei e <a id=\"lauVagewT1PE5FGxCdfs\" href=\"#t119\">Salvador</a> especial que Deus prometeu enviar —, mas de uma maneira menos direta. Na época de Jesus, o povo não usava o termo “Filho do Homem” como outro título para o Messias. Então, quando Jesus chamou a si mesmo de “Filho do Homem”, o povo não pensou imediatamente sobre o Messias. No entanto, o povo veio a perceber que Jesus estava alegando ter toda autoridade de Deus. O povo tinha que descobrir lentamente o que Jesus quis dizer quando ele chamou a si mesmo de “Filho do Homem”.</p><p id=\"2TxSFXepVC94N18ucBmR\">O público original entendeu que Jesus estava falando sobre si mesmo quando ele falou sobre o Filho do Homem. Se seu público não entenderá que Jesus estava falando sobre si mesmo, você pode precisar deixar isso claro. Se você gostaria de deixar mais claro o que “Filho do Homem” significa, você pode dizer algo como “Eu, que vim de Deus com a autoridade de Deus”.</p><p id=\"5ZC9M1RVKmrZ41N2zoSy\">Ou, se você gostaria de manter o significado pouco claro, como está na Bíblia, você pode precisar deixar claro que “Filho do Homem” é um título. Você pode dizer algo como “Eu, aquele que é chamado de ‘Filho do Homem’, ou o ‘Filho da Humanidade’”.</p>",
 "associations": {
 "passage": [
+{
+"start_ref": "27007009",
+"start_ref_usfm": "DAN 7:9",
+"end_ref": "27007014",
+"end_ref_usfm": "DAN 7:14"
+},
 {
 "start_ref": "40008018",
 "start_ref_usfm": "MAT 8:18",
@@ -4120,57 +3826,7 @@
 "end_ref_usfm": "ACT 8:3"
 }
 ],
-"resource": [
-{
-"reference_id": 0,
-"content_id": "por-t227-v1",
-"resource_code": "FIAKeyTerms",
-"label": "hebraico",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t259-v2",
-"resource_code": "FIAKeyTerms",
-"label": "israelita",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t143-v1",
-"resource_code": "FIAKeyTerms",
-"label": "visão",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t8-v1",
-"resource_code": "FIAKeyTerms",
-"label": "autoridade",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t157-v1",
-"resource_code": "FIAKeyTerms",
-"label": "reino",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t92-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Messias",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t119-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Salvador",
-"language": "por"
-}
-],
+"resource": [],
 "acai": []
 }
 },
@@ -4183,7 +3839,7 @@
 "index_reference": "força",
 "language": "por",
 "review_level": "None",
-"content": "<p><b>Força</b> se refere à capacidade de alguém de realizar algo, ou sua força física. As palavras “<data class=\"resource-ref\" data-content-id=\"por-t150-v1\" data-resource-code=\"FIAKeyTerms\">coração</data>, <data class=\"resource-ref\" data-content-id=\"por-t131-v1\" data-resource-code=\"FIAKeyTerms\">alma</data>, <data class=\"resource-ref\" data-content-id=\"por-t151-v1\" data-resource-code=\"FIAKeyTerms\">mente</data> e <data class=\"resource-ref\" data-content-id=\"por-t152-v1\" data-resource-code=\"FIAKeyTerms\">força</data>” todas funcionam juntas para descrever toda a personalidade e habilidades de uma pessoa.</p>",
+"content": "<p id=\"t5eutIA12s8uZbwhEE4u\"><b id=\"11b2oNcrm5HhOfbWecCH\">Força</b> se refere à capacidade de alguém de realizar algo, ou sua força física. As palavras “<a id=\"I83GgMhiZiXSFDP7SA7d\" href=\"#t150\">coração</a>, <a id=\"O4n0Ee2woIjzAhksWuf2\" href=\"#t131\">alma</a>, <a id=\"keon5Ojxvlk4BhnswOfO\" href=\"#t151\">mente</a> e <a id=\"Ia5X5uX5pJIbhj1J9CP3\" href=\"#t152\">força</a>” todas funcionam juntas para descrever toda a personalidade e habilidades de uma pessoa.</p>",
 "associations": {
 "passage": [
 {
@@ -4199,36 +3855,7 @@
 "end_ref_usfm": "MRK 12:34"
 }
 ],
-"resource": [
-{
-"reference_id": 0,
-"content_id": "por-t150-v1",
-"resource_code": "FIAKeyTerms",
-"label": "coração",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t131-v1",
-"resource_code": "FIAKeyTerms",
-"label": "alma",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t151-v1",
-"resource_code": "FIAKeyTerms",
-"label": "mente",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t152-v1",
-"resource_code": "FIAKeyTerms",
-"label": "força",
-"language": "por"
-}
-],
+"resource": [],
 "acai": [
 {
 "id": "keyterm:Strength",

@@ -8,7 +8,7 @@
 "index_reference": "queen",
 "language": "eng",
 "review_level": "None",
-"content": "<p>A <b>queen</b> is usually the wife of a <data class=\"resource-ref\" data-content-id=\"eng-t226-v2\" data-resource-code=\"FIAKeyTerms\">king</data>. A queen is usually of lower status than the king, but higher status than everyone else. Sometimes, a queen might be the daughter of a king, and that daughter might rule her country after her father dies if her father had no son to become king after him. In biblical times, some queens had a lot of power, while other queens did not have much power.</p>",
+"content": "<p id=\"EfZX6gd7k9z7iOSjnCMX\">A <b id=\"YNlJ3GQKjgadaE3QsJ0q\">queen</b> is usually the wife of a <a id=\"FD3PWEoEsTKiUS1pM3yV\" href=\"#t226\">king</a>. A queen is usually of lower status than the king, but higher status than everyone else. Sometimes, a queen might be the daughter of a king, and that daughter might rule her country after her father dies if her father had no son to become king after him. In biblical times, some queens had a lot of power, while other queens did not have much power.</p>",
 "associations": {
 "passage": [
 {
@@ -34,6 +34,12 @@
 "start_ref_usfm": "2CH 15:1",
 "end_ref": "14015019",
 "end_ref_usfm": "2CH 15:19"
+},
+{
+"start_ref": "16002001",
+"start_ref_usfm": "NEH 2:1",
+"end_ref": "16002010",
+"end_ref_usfm": "NEH 2:10"
 },
 {
 "start_ref": "17001001",
@@ -100,16 +106,15 @@
 "start_ref_usfm": "EST 9:20",
 "end_ref": "17009032",
 "end_ref_usfm": "EST 9:32"
+},
+{
+"start_ref": "27005001",
+"start_ref_usfm": "DAN 5:1",
+"end_ref": "27005012",
+"end_ref_usfm": "DAN 5:12"
 }
 ],
 "resource": [
-{
-"reference_id": 0,
-"content_id": "eng-t226-v2",
-"resource_code": "FIAKeyTerms",
-"label": "king",
-"language": "eng"
-},
 {
 "reference_id": 0,
 "content_id": "eng-t311-v1-audio",
@@ -158,6 +163,12 @@
 "end_ref_usfm": "2CH 15:19"
 },
 {
+"start_ref": "16002001",
+"start_ref_usfm": "NEH 2:1",
+"end_ref": "16002010",
+"end_ref_usfm": "NEH 2:10"
+},
+{
 "start_ref": "17001001",
 "start_ref_usfm": "EST 1:1",
 "end_ref": "17001009",
@@ -222,6 +233,12 @@
 "start_ref_usfm": "EST 9:20",
 "end_ref": "17009032",
 "end_ref_usfm": "EST 9:32"
+},
+{
+"start_ref": "27005001",
+"start_ref_usfm": "DAN 5:1",
+"end_ref": "27005012",
+"end_ref_usfm": "DAN 5:12"
 }
 ],
 "resource": [

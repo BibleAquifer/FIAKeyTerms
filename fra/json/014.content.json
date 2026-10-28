@@ -8,7 +8,7 @@
 "index_reference": "offrande",
 "language": "fra",
 "review_level": "None",
-"content": "<p>Une <b>offrande</b> est un don ou un <data class=\"resource-ref\" data-content-id=\"fra-t114-v1.0.1\" data-resource-code=\"FIAKeyTerms\">sacrifice</data> offert à Dieu au cours d'un rite, généralement au <data class=\"resource-ref\" data-content-id=\"fra-t138-v1\" data-resource-code=\"FIAKeyTerms\">Temple</data> ou sur un <data class=\"resource-ref\" data-content-id=\"fra-t3-v1\" data-resource-code=\"FIAKeyTerms\">autel</data> spécial. Les gens peuvent faire des offrandes pour de nombreuses raisons. Ils peuvent en faire pour rendre grâce à Dieu ou le remercier. Ils peuvent aussi faire des offrandes pour <data class=\"resource-ref\" data-content-id=\"fra-t208-v1\" data-resource-code=\"FIAKeyTerms\">se purifier</data> ou pour demander <data class=\"resource-ref\" data-content-id=\"fra-t53-v1\" data-resource-code=\"FIAKeyTerms\">pardon</data> pour un <data class=\"resource-ref\" data-content-id=\"fra-t125-v1\" data-resource-code=\"FIAKeyTerms\">péché</data>.</p>",
+"content": "<p id=\"St83FpePBrgk2poJ9QO2\">Une <b id=\"QIFFdKS8jAAx1xw1cpi3\">offrande</b> est un don ou un <a id=\"TVbHdsmmFLT1Q3Wu1IXu\" href=\"#t114\">sacrifice</a> offert à Dieu au cours d'un rite, généralement au <a id=\"6ouxfctZnqN7cYG54XMr\" href=\"#t138\">Temple</a> ou sur un <a id=\"TeWPb5vxBY04tQNfjC6C\" href=\"#t3\">autel</a> spécial. Les gens peuvent faire des offrandes pour de nombreuses raisons. Ils peuvent en faire pour rendre grâce à Dieu ou le remercier. Ils peuvent aussi faire des offrandes pour <a id=\"1jTtyKzJOpJtmnNe49jW\" href=\"#t208\">se purifier</a> ou pour demander <a id=\"QUkbU1QqxyegWV3bvHhI\" href=\"#t53\">pardon</a> pour un <a id=\"oADLDqwGi0nfz9o7GmRg\" href=\"#t125\">péché</a>.</p>",
 "associations": {
 "passage": [
 {
@@ -450,6 +450,18 @@
 "end_ref_usfm": "EZR 9:15"
 },
 {
+"start_ref": "16013023",
+"start_ref_usfm": "NEH 13:23",
+"end_ref": "16013031",
+"end_ref_usfm": "NEH 13:31"
+},
+{
+"start_ref": "27002046",
+"start_ref_usfm": "DAN 2:46",
+"end_ref": "27002049",
+"end_ref_usfm": "DAN 2:49"
+},
+{
 "start_ref": "40002001",
 "start_ref_usfm": "MAT 2:1",
 "end_ref": "40002012",
@@ -495,48 +507,6 @@
 "resource": [
 {
 "reference_id": 0,
-"content_id": "fra-t114-v1.0.1",
-"resource_code": "FIAKeyTerms",
-"label": "sacrifice",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t138-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Temple",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t3-v1",
-"resource_code": "FIAKeyTerms",
-"label": "autel",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t208-v1",
-"resource_code": "FIAKeyTerms",
-"label": "se purifier",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t53-v1",
-"resource_code": "FIAKeyTerms",
-"label": "pardon",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t125-v1",
-"resource_code": "FIAKeyTerms",
-"label": "péché",
-"language": "fra"
-},
-{
-"reference_id": 0,
 "content_id": "fra-t194-v1-audio",
 "resource_code": "FIAKeyTerms",
 "label": "offrande",
@@ -547,7 +517,7 @@
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.6531,
+"confidence": 0.6516,
 "match_method": "scored",
 "preferred_label": "offrande"
 }
@@ -1005,6 +975,18 @@
 "end_ref_usfm": "EZR 9:15"
 },
 {
+"start_ref": "16013023",
+"start_ref_usfm": "NEH 13:23",
+"end_ref": "16013031",
+"end_ref_usfm": "NEH 13:31"
+},
+{
+"start_ref": "27002046",
+"start_ref_usfm": "DAN 2:46",
+"end_ref": "27002049",
+"end_ref_usfm": "DAN 2:49"
+},
+{
 "start_ref": "40002001",
 "start_ref_usfm": "MAT 2:1",
 "end_ref": "40002012",
@@ -1172,7 +1154,7 @@
 "index_reference": "oindre",
 "language": "fra",
 "review_level": "None",
-"content": "<p><b>Oindre</b> quelqu'un veut dire verser de l'huile aromatique sur cette personne. On peut également oindre un objet.</p><p>Dans l'Ancien Testament, avant que Dieu confie une tâche spéciale à un individu, il ordonnait à quelqu'un d'autre de verser de l'huile sur sa tête. Cette huile était symbolique du <data class=\"resource-ref\" data-content-id=\"fra-t68-v1\" data-resource-code=\"FIAKeyTerms\">Saint-Esprit de Dieu</data>. Ce geste montrait clairement que Dieu avait mis cette personne à part pour une mission spéciale. Cela indiquait également clairement que Dieu donnait à cette personne une <data class=\"resource-ref\" data-content-id=\"fra-t8-v1.0.1\" data-resource-code=\"FIAKeyTerms\">autorité</data> spéciale. La personne était alors appelée un « oint ». Par exemple, Dieu commande à Samuel d'oindre <data class=\"resource-ref\" data-content-id=\"fra-t33-v1\" data-resource-code=\"FIAKeyTerms\">David</data> comme <data class=\"resource-ref\" data-content-id=\"fra-t226-v1\" data-resource-code=\"FIAKeyTerms\">roi</data> d'<data class=\"resource-ref\" data-content-id=\"fra-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israël</data>. Dieu ordonne à Moïse d'oindre Aaron comme <data class=\"resource-ref\" data-content-id=\"fra-t246-v1\" data-resource-code=\"FIAKeyTerms\">souverain sacrificateur</data>. Dieu ordonne également au prophète <data class=\"resource-ref\" data-content-id=\"fra-t44-v1\" data-resource-code=\"FIAKeyTerms\">Élie</data> d'oindre Élisée comme <data class=\"resource-ref\" data-content-id=\"fra-t104-v1\" data-resource-code=\"FIAKeyTerms\">prophète</data> pour lui succéder.</p><p>Plus tard, le mot « oint » est aussi utilisé pour les personnes désignées par Dieu pour accomplir une tâche spéciale, même si le rite spécial avec le versement d'huile n'a pas eu lieu. Jésus est appelé « l'Oint », parce que Dieu l'a choisi pour une tâche très spéciale.</p><p>Il était aussi possible d'oindre des objets. Les <data class=\"resource-ref\" data-content-id=\"fra-t103-v1\" data-resource-code=\"FIAKeyTerms\">sacrificateurs</data> oignaient d'huile les objets utilisés dans le <data class=\"resource-ref\" data-content-id=\"fra-t138-v1\" data-resource-code=\"FIAKeyTerms\">Temple</data> pour montrer qu'ils avaient désormais une fonction spéciale. Ces objets appartenaient désormais à Dieu ; ils étaient sacrés.</p><p>Les <data class=\"resource-ref\" data-content-id=\"fra-t77-v2\" data-resource-code=\"FIAKeyTerms\">Juifs</data> utilisaient également l'onction comme une activité quotidienne qui n'avait pas de signification particulière. Ils utilisaient de l'huile aromatique pour prendre soin de leur peau et de leurs cheveux. Jésus enseigne que lorsqu'on <data class=\"resource-ref\" data-content-id=\"fra-t49-v1.0.1\" data-resource-code=\"FIAKeyTerms\">jeûne</data>, on doit s'oindre comme on le fait tous les jours, plutôt que de se donner l'air négligé pour que les autres puissent penser : « Cette personne jeûne, que c'est impressionnant ! »</p><p>Les gens mettaient aussi de l'huile sur leurs invités pour leur montrer qu'ils étaient les bienvenus et qu'ils étaient honorés. Il y a deux histoires dans les <data class=\"resource-ref\" data-content-id=\"fra-t60-v1.0.1\" data-resource-code=\"FIAKeyTerms\">Évangiles</data> de femmes qui mettent de l'huile sur les pieds de Jésus pour l'honorer.</p><p>Les Juifs embaumaient également le corps d'une personne après sa mort. Après la mort de Jésus, les femmes apportent de l'huile aromatique au <data class=\"resource-ref\" data-content-id=\"fra-t140-v1\" data-resource-code=\"FIAKeyTerms\">tombeau</data> pour embaumer son corps.</p><p>Dans le Nouveau Testament, les premiers <data class=\"resource-ref\" data-content-id=\"fra-t175-v1\" data-resource-code=\"FIAKeyTerms\">chrétiens</data> utilisaient parfois de l'huile pour accompagner la <data class=\"resource-ref\" data-content-id=\"fra-t102-v1.0.1\" data-resource-code=\"FIAKeyTerms\">prière</data> si une personne était malade. Dans sa lettre, l'<data class=\"resource-ref\" data-content-id=\"fra-t6-v1\" data-resource-code=\"FIAKeyTerms\">apôtre</data> <data class=\"resource-ref\" data-content-id=\"fra-t75-v1\" data-resource-code=\"FIAKeyTerms\">Jacques</data>, dit que si une personne est malade, les autres <data class=\"resource-ref\" data-content-id=\"fra-t12-v1\" data-resource-code=\"FIAKeyTerms\">croyants</data> doivent prier pour elle et l'oindre d'huile. Ce n'est pas parce que l'huile avait un pouvoir spécial, mais parce que c'était le symbole de la présence de Dieu.</p>",
+"content": "<p id=\"enP9wgHSCmal5bYujtLD\"><b id=\"1GMuBgupev9lzcr8offf\">Oindre</b> quelqu'un veut dire verser de l'huile aromatique sur cette personne. On peut également oindre un objet.</p><p id=\"AReWMByPRd9J5DBPP3Rj\">Dans l'Ancien Testament, avant que Dieu confie une tâche spéciale à un individu, il ordonnait à quelqu'un d'autre de verser de l'huile sur sa tête. Cette huile était symbolique du <a id=\"EODzSybFjiOUlDVXHfda\" href=\"#t68\">Saint-Esprit de Dieu</a>. Ce geste montrait clairement que Dieu avait mis cette personne à part pour une mission spéciale. Cela indiquait également clairement que Dieu donnait à cette personne une <a id=\"8oQaUU99TrsETFu6tO0y\" href=\"#t8\">autorité</a> spéciale. La personne était alors appelée un « oint ». Par exemple, Dieu commande à Samuel d'oindre <a id=\"fcfReW1IiivK6h0GGoiM\" href=\"#t33\">David</a> comme <a id=\"27AxB78q46ckgwrbziXW\" href=\"#t226\">roi</a> d'<a id=\"zOFXuRkQZ6rP9uOiSTWI\" href=\"#t74\">Israël</a>. Dieu ordonne à Moïse d'oindre Aaron comme <a id=\"Tx9jtbBeV7fzRLdlCmT8\" href=\"#t246\">souverain sacrificateur</a>. Dieu ordonne également au prophète <a id=\"b3hrwzJzZl3hkOYYdyzA\" href=\"#t44\">Élie</a> d'oindre Élisée comme <a id=\"MVFDNgjhbmBP0fO9kKgG\" href=\"#t104\">prophète</a> pour lui succéder.</p><p id=\"4ZbWI5u0q1hyXuWySVHe\">Plus tard, le mot « oint » est aussi utilisé pour les personnes désignées par Dieu pour accomplir une tâche spéciale, même si le rite spécial avec le versement d'huile n'a pas eu lieu. Jésus est appelé « l'Oint », parce que Dieu l'a choisi pour une tâche très spéciale.</p><p id=\"mk7KcwFC6knWlEEJ0tNU\">Il était aussi possible d'oindre des objets. Les <a id=\"ayc8EQ24T7jeNV2TJFRb\" href=\"#t103\">sacrificateurs</a> oignaient d'huile les objets utilisés dans le <a id=\"TgYxEdzXDaWLOwOAp37f\" href=\"#t138\">Temple</a> pour montrer qu'ils avaient désormais une fonction spéciale. Ces objets appartenaient désormais à Dieu ; ils étaient sacrés.</p><p id=\"40T0gX8yJZkA8gdSMIyq\">Les <a id=\"IOQJUO3FPesKj6QItWkr\" href=\"#t77\">Juifs</a> utilisaient également l'onction comme une activité quotidienne qui n'avait pas de signification particulière. Ils utilisaient de l'huile aromatique pour prendre soin de leur peau et de leurs cheveux. Jésus enseigne que lorsqu'on <a id=\"AsSHSjP6HtFhVPlIUdTw\" href=\"#t49\">jeûne</a>, on doit s'oindre comme on le fait tous les jours, plutôt que de se donner l'air négligé pour que les autres puissent penser : « Cette personne jeûne, que c'est impressionnant ! »</p><p id=\"iuo4BhfG2NKIYNqRdRRv\">Les gens mettaient aussi de l'huile sur leurs invités pour leur montrer qu'ils étaient les bienvenus et qu'ils étaient honorés. Il y a deux histoires dans les <a id=\"q4ul468fX8O77eK0qOxS\" href=\"#t60\">Évangiles</a> de femmes qui mettent de l'huile sur les pieds de Jésus pour l'honorer.</p><p id=\"CZLZOnHlzaD7flD5YJSr\">Les Juifs embaumaient également le corps d'une personne après sa mort. Après la mort de Jésus, les femmes apportent de l'huile aromatique au <a id=\"LXL1sP5TZs1EUTqqF2d1\" href=\"#t140\">tombeau</a> pour embaumer son corps.</p><p id=\"zFr7IPQevd5YErPb4lPd\">Dans le Nouveau Testament, les premiers <a id=\"emf2l47T54QbdlUpfFBp\" href=\"#t175\">chrétiens</a> utilisaient parfois de l'huile pour accompagner la <a id=\"JYFGbvPXkEfJFvy88Qdn\" href=\"#t102\">prière</a> si une personne était malade. Dans sa lettre, l'<a id=\"weYnjMXt9ATh6LsaArBT\" href=\"#t6\">apôtre</a> <a id=\"wpjsdkuztz1Urdk7vtAh\" href=\"#t75\">Jacques</a>, dit que si une personne est malade, les autres <a id=\"Mxd8bxNkVNDsQksnj6m4\" href=\"#t12\">croyants</a> doivent prier pour elle et l'oindre d'huile. Ce n'est pas parce que l'huile avait un pouvoir spécial, mais parce que c'était le symbole de la présence de Dieu.</p>",
 "associations": {
 "passage": [
 {
@@ -1621,139 +1603,6 @@
 }
 ],
 "resource": [
-{
-"reference_id": 0,
-"content_id": "fra-t68-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Saint-Esprit de Dieu",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t8-v1.0.1",
-"resource_code": "FIAKeyTerms",
-"label": "autorité",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t33-v1",
-"resource_code": "FIAKeyTerms",
-"label": "David",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t226-v1",
-"resource_code": "FIAKeyTerms",
-"label": "roi",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t74-v2",
-"resource_code": "FIAKeyTerms",
-"label": "Israël",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t246-v1",
-"resource_code": "FIAKeyTerms",
-"label": "souverain sacrificateur",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t44-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Élie",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t104-v1",
-"resource_code": "FIAKeyTerms",
-"label": "prophète",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t103-v1",
-"resource_code": "FIAKeyTerms",
-"label": "sacrificateurs",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t138-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Temple",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t77-v2",
-"resource_code": "FIAKeyTerms",
-"label": "Juifs",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t49-v1.0.1",
-"resource_code": "FIAKeyTerms",
-"label": "jeûne",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t60-v1.0.1",
-"resource_code": "FIAKeyTerms",
-"label": "Évangiles",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t140-v1",
-"resource_code": "FIAKeyTerms",
-"label": "tombeau",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t175-v1",
-"resource_code": "FIAKeyTerms",
-"label": "chrétiens",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t102-v1.0.1",
-"resource_code": "FIAKeyTerms",
-"label": "prière",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t6-v1",
-"resource_code": "FIAKeyTerms",
-"label": "apôtre",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t75-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Jacques",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t12-v1",
-"resource_code": "FIAKeyTerms",
-"label": "croyants",
-"language": "fra"
-},
 {
 "reference_id": 0,
 "content_id": "fra-t5-v1-audio",

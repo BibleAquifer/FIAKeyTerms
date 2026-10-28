@@ -8,7 +8,7 @@
 "index_reference": "nação",
 "language": "por",
 "review_level": "None",
-"content": "<p>Uma <b>nação</b> é um grupo de pessoas que convivem juntas e que vivem no mesmo país, e que têm o mesmo governante.</p><p>Sempre que a Bíblia fala sobre “todas as nações da terra”, essa é outra maneira de dizer “todas as pessoas que vivem na terra”.</p>",
+"content": "<p id=\"bm0Nwh2n1RdjeqqPTIdk\">Uma <b id=\"7LM1JsqTFz4JDljF4ABo\">nação</b> é um grupo de pessoas que convivem juntas e que vivem no mesmo país, e que têm o mesmo governante.</p><p id=\"9PWIOPUXSQJy5wesAl2k\">Sempre que a Bíblia fala sobre “todas as nações da terra”, essa é outra maneira de dizer “todas as pessoas que vivem na terra”.</p>",
 "associations": {
 "passage": [
 {
@@ -348,6 +348,12 @@
 "end_ref_usfm": "2KI 17:41"
 },
 {
+"start_ref": "12018026",
+"start_ref_usfm": "2KI 18:26",
+"end_ref": "12018037",
+"end_ref_usfm": "2KI 18:37"
+},
+{
 "start_ref": "13014008",
 "start_ref_usfm": "1CH 14:8",
 "end_ref": "13014017",
@@ -450,6 +456,18 @@
 "end_ref_usfm": "NEH 7:4"
 },
 {
+"start_ref": "16009016",
+"start_ref_usfm": "NEH 9:16",
+"end_ref": "16009025",
+"end_ref_usfm": "NEH 9:25"
+},
+{
+"start_ref": "16013023",
+"start_ref_usfm": "NEH 13:23",
+"end_ref": "16013031",
+"end_ref_usfm": "NEH 13:31"
+},
+{
 "start_ref": "19117001",
 "start_ref_usfm": "PSA 117:1",
 "end_ref": "19117002",
@@ -460,6 +478,42 @@
 "start_ref_usfm": "ISA 5:26",
 "end_ref": "23005030",
 "end_ref_usfm": "ISA 5:30"
+},
+{
+"start_ref": "27003001",
+"start_ref_usfm": "DAN 3:1",
+"end_ref": "27003007",
+"end_ref_usfm": "DAN 3:7"
+},
+{
+"start_ref": "27003019",
+"start_ref_usfm": "DAN 3:19",
+"end_ref": "27003030",
+"end_ref_usfm": "DAN 3:30"
+},
+{
+"start_ref": "27004001",
+"start_ref_usfm": "DAN 4:1",
+"end_ref": "27004008",
+"end_ref_usfm": "DAN 4:8"
+},
+{
+"start_ref": "27005013",
+"start_ref_usfm": "DAN 5:13",
+"end_ref": "27005031",
+"end_ref_usfm": "DAN 5:31"
+},
+{
+"start_ref": "27006019",
+"start_ref_usfm": "DAN 6:19",
+"end_ref": "27006028",
+"end_ref_usfm": "DAN 6:28"
+},
+{
+"start_ref": "27007009",
+"start_ref_usfm": "DAN 7:9",
+"end_ref": "27007014",
+"end_ref_usfm": "DAN 7:14"
 },
 {
 "start_ref": "40021033",
@@ -556,30 +610,6 @@
 "start_ref_usfm": "ACT 17:22",
 "end_ref": "44017034",
 "end_ref_usfm": "ACT 17:34"
-},
-{
-"start_ref": "44024001",
-"start_ref_usfm": "ACT 24:1",
-"end_ref": "44024009",
-"end_ref_usfm": "ACT 24:9"
-},
-{
-"start_ref": "44026001",
-"start_ref_usfm": "ACT 26:1",
-"end_ref": "44026023",
-"end_ref_usfm": "ACT 26:23"
-},
-{
-"start_ref": "44028017",
-"start_ref_usfm": "ACT 28:17",
-"end_ref": "44028031",
-"end_ref_usfm": "ACT 28:31"
-},
-{
-"start_ref": "54003014",
-"start_ref_usfm": "1TI 3:14",
-"end_ref": "54003016",
-"end_ref_usfm": "1TI 3:16"
 }
 ],
 "resource": [],
@@ -587,7 +617,7 @@
 {
 "id": "group:Gentile",
 "type": "group",
-"confidence": 0.5683,
+"confidence": 0.5667,
 "match_method": "scored",
 "preferred_label": "Gentiles"
 }
@@ -603,7 +633,7 @@
 "index_reference": "nazaré",
 "language": "por",
 "review_level": "None",
-"content": "<p><b>Nazaré</b> é uma pequena cidade na região da <data class=\"resource-ref\" data-content-id=\"por-t55-v1\" data-resource-code=\"FIAKeyTerms\">Galileia</data>, no norte de <data class=\"resource-ref\" data-content-id=\"por-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israel</data>. Nazaré não aparece no Antigo Testamento, e a primeira vez que ouvimos sobre essa cidade é quando ouvimos que <data class=\"resource-ref\" data-content-id=\"por-t89-v1\" data-resource-code=\"FIAKeyTerms\">Maria</data> e José, os pais de Jesus, eram de Nazaré. Jesus nasceu em uma aldeia chamada <data class=\"resource-ref\" data-content-id=\"por-t13-v1\" data-resource-code=\"FIAKeyTerms\">Belém</data>, na <data class=\"resource-ref\" data-content-id=\"por-t81-v1\" data-resource-code=\"FIAKeyTerms\">Judeia</data>, mas quando ele ainda era pequeno, Maria e José foram viver em Nazaré. Portanto, Jesus foi mais tarde chamado de nazareno, que significa alguém de Nazaré. Isso não era um elogio. Os <data class=\"resource-ref\" data-content-id=\"por-t77-v2\" data-resource-code=\"FIAKeyTerms\">judeus</data> da Judeia desprezavam as pessoas na Galileia, e mesmo as pessoas dentro da Galileia desprezavam as pessoas de Nazaré, porque era uma cidade pequena e sem importância.</p>",
+"content": "<p id=\"o2hOVtWwuVmsVal141w5\"><b id=\"MJuNK54culerZ92Ow74Z\">Nazaré</b> é uma pequena cidade na região da <a id=\"pAaAYeuEYKczzwhZ07iq\" href=\"#t55\">Galileia</a>, no norte de <a id=\"RfpOaE1bfCeiUbe1HWf6\" href=\"#t74\">Israel</a>. Nazaré não aparece no Antigo Testamento, e a primeira vez que ouvimos sobre essa cidade é quando ouvimos que <a id=\"GaYIWXfFepnyprqYZ1YZ\" href=\"#t89\">Maria</a> e José, os pais de Jesus, eram de Nazaré. Jesus nasceu em uma aldeia chamada <a id=\"lQJAnXvjkHEjLilU96vX\" href=\"#t13\">Belém</a>, na <a id=\"VOvthtK8Zb6lXWe85kBR\" href=\"#t81\">Judeia</a>, mas quando ele ainda era pequeno, Maria e José foram viver em Nazaré. Portanto, Jesus foi mais tarde chamado de nazareno, que significa alguém de Nazaré. Isso não era um elogio. Os <a id=\"vcHLh3scWeW2JfoaU6Ks\" href=\"#t77\">judeus</a> da Judeia desprezavam as pessoas na Galileia, e mesmo as pessoas dentro da Galileia desprezavam as pessoas de Nazaré, porque era uma cidade pequena e sem importância.</p>",
 "associations": {
 "passage": [
 {
@@ -709,50 +739,7 @@
 "end_ref_usfm": "ACT 26:23"
 }
 ],
-"resource": [
-{
-"reference_id": 0,
-"content_id": "por-t55-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Galileia",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t74-v2",
-"resource_code": "FIAKeyTerms",
-"label": "Israel",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t89-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Maria",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t13-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Belém",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t81-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Judeia",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t77-v2",
-"resource_code": "FIAKeyTerms",
-"label": "judeus",
-"language": "por"
-}
-],
+"resource": [],
 "acai": [
 {
 "id": "place:Nazareth",

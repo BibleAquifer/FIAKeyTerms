@@ -8,7 +8,7 @@
 "index_reference": "abba",
 "language": "fra",
 "review_level": "None",
-"content": "<p><b>Abba</b> est un mot araméen qui signifie « père ». L'araméen était la langue parlée par les habitants d'<data class=\"resource-ref\" data-content-id=\"fra-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israël</data> à l'époque de Jésus. Jésus appelle Dieu « Abba » lorsqu’il <data class=\"resource-ref\" data-content-id=\"fra-t102-v1.0.1\" data-resource-code=\"FIAKeyTerms\">prie</data> juste avant d’être arrêté et <data class=\"resource-ref\" data-content-id=\"fra-t169-v1\" data-resource-code=\"FIAKeyTerms\">crucifié</data>. Paul écrit plus tard dans ses lettres que le <data class=\"resource-ref\" data-content-id=\"fra-t68-v1\" data-resource-code=\"FIAKeyTerms\">Saint-Esprit</data> nous pousse à dire : « Abba ! Père ! » à Dieu. Cela veut dire que grâce au Saint-Esprit, nous pouvons être proches de Dieu comme un enfant avec son père (comme c'était le cas pour Jésus).</p>",
+"content": "<p id=\"XpB1CFDl6B1hCP1sBIaA\"><b id=\"bekjmT4ypTrzJ0gMRMpN\">Abba</b> est un mot araméen qui signifie « père ». L'araméen était la langue parlée par les habitants d'<a id=\"ph8KIUkdGZGQZ78zzd6V\" href=\"#t74\">Israël</a> à l'époque de Jésus. Jésus appelle Dieu « Abba » lorsqu’il <a id=\"WV3TLKI3tWcz4d22gRS0\" href=\"#t102\">prie</a> juste avant d’être arrêté et <a id=\"xRFwgg4yTAu2zkTiz6Hk\" href=\"#t169\">crucifié</a>. Paul écrit plus tard dans ses lettres que le <a id=\"IHkUC4j3bNEN3XvrKOTY\" href=\"#t68\">Saint-Esprit</a> nous pousse à dire : « Abba ! Père ! » à Dieu. Cela veut dire que grâce au Saint-Esprit, nous pouvons être proches de Dieu comme un enfant avec son père (comme c'était le cas pour Jésus).</p>",
 "associations": {
 "passage": [
 {
@@ -25,34 +25,6 @@
 }
 ],
 "resource": [
-{
-"reference_id": 0,
-"content_id": "fra-t74-v2",
-"resource_code": "FIAKeyTerms",
-"label": "Israël",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t102-v1.0.1",
-"resource_code": "FIAKeyTerms",
-"label": "prie",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t169-v1",
-"resource_code": "FIAKeyTerms",
-"label": "crucifié",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t68-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Saint-Esprit",
-"language": "fra"
-},
 {
 "reference_id": 0,
 "content_id": "fra-t167-v1-audio",
@@ -900,6 +872,12 @@
 "end_ref_usfm": "2KI 17:41"
 },
 {
+"start_ref": "12018019",
+"start_ref_usfm": "2KI 18:19",
+"end_ref": "12018025",
+"end_ref_usfm": "2KI 18:25"
+},
+{
 "start_ref": "13016023",
 "start_ref_usfm": "1CH 16:23",
 "end_ref": "13016033",
@@ -972,10 +950,40 @@
 "end_ref_usfm": "NEH 8:8"
 },
 {
+"start_ref": "16009001",
+"start_ref_usfm": "NEH 9:1",
+"end_ref": "16009005",
+"end_ref_usfm": "NEH 9:5"
+},
+{
 "start_ref": "18001013",
 "start_ref_usfm": "JOB 1:13",
 "end_ref": "18001022",
 "end_ref_usfm": "JOB 1:22"
+},
+{
+"start_ref": "27002046",
+"start_ref_usfm": "DAN 2:46",
+"end_ref": "27002049",
+"end_ref_usfm": "DAN 2:49"
+},
+{
+"start_ref": "27003001",
+"start_ref_usfm": "DAN 3:1",
+"end_ref": "27003007",
+"end_ref_usfm": "DAN 3:7"
+},
+{
+"start_ref": "27003008",
+"start_ref_usfm": "DAN 3:8",
+"end_ref": "27003018",
+"end_ref_usfm": "DAN 3:18"
+},
+{
+"start_ref": "27003019",
+"start_ref_usfm": "DAN 3:19",
+"end_ref": "27003030",
+"end_ref_usfm": "DAN 3:30"
 },
 {
 "start_ref": "32001001",
@@ -1030,42 +1038,6 @@
 "start_ref_usfm": "LUK 24:36",
 "end_ref": "42024053",
 "end_ref_usfm": "LUK 24:53"
-},
-{
-"start_ref": "43004016",
-"start_ref_usfm": "JHN 4:16",
-"end_ref": "43004026",
-"end_ref_usfm": "JHN 4:26"
-},
-{
-"start_ref": "43009024",
-"start_ref_usfm": "JHN 9:24",
-"end_ref": "43009034",
-"end_ref_usfm": "JHN 9:34"
-},
-{
-"start_ref": "43009035",
-"start_ref_usfm": "JHN 9:35",
-"end_ref": "43009041",
-"end_ref_usfm": "JHN 9:41"
-},
-{
-"start_ref": "43012020",
-"start_ref_usfm": "JHN 12:20",
-"end_ref": "43012036",
-"end_ref_usfm": "JHN 12:36"
-},
-{
-"start_ref": "44001012",
-"start_ref_usfm": "ACT 1:12",
-"end_ref": "44001014",
-"end_ref_usfm": "ACT 1:14"
-},
-{
-"start_ref": "44010023",
-"start_ref_usfm": "ACT 10:23",
-"end_ref": "44010033",
-"end_ref_usfm": "ACT 10:33"
 }
 ],
 "resource": [
@@ -1146,7 +1118,7 @@
 "index_reference": "adultère",
 "language": "fra",
 "review_level": "None",
-"content": "<p>L'<b>adultère</b> est une forme de <data class=\"resource-ref\" data-content-id=\"fra-t125-v1\" data-resource-code=\"FIAKeyTerms\">péché</data> sexuel. Dieu considère comme un péché toute relation sexuelle avec quelqu’un en dehors du mariage. Cependant, dans l’Ancien Testament, le mot « adultère » décrit un cas spécifique de péché sexuel. Si un homme a des relations sexuelles avec une femme mariée à un autre, l'homme et la femme sont tous les deux coupables d'adultère. Le châtiment pour l'adultère est la mort. Cependant, si la femme a été violée, seul l'homme doit mourir.</p><p>Lorsqu’un homme avait des relations sexuelles avec une femme non mariée ou une <data class=\"resource-ref\" data-content-id=\"fra-t126-v2\" data-resource-code=\"FIAKeyTerms\">esclave</data>, il avait quand même désobéi à Dieu, ou péché contre lui. Pourtant, selon la loi de l’Ancien Testament, ce péché n’était pas dans la catégorie de l’adultère.</p><p>Dieu déteste l'adultère et toute forme de péché sexuel. Dieu compare souvent la désobéissance des gens envers lui à un adultère : quand les gens sont infidèles à Dieu et commencent à <data class=\"resource-ref\" data-content-id=\"fra-t149-v1\" data-resource-code=\"FIAKeyTerms\">adorer</data> des <data class=\"resource-ref\" data-content-id=\"fra-t72-v1\" data-resource-code=\"FIAKeyTerms\">idoles</data> et de faux dieux, ils se comportent exactement comme un homme et une femme qui sont infidèles à leur propre mari ou à leur propre femme. C'est pourquoi Dieu qualifie l'idolâtrie, c'est-à-dire l'adoration d'idoles ou de tout autre dieu que lui, d'adultère.</p><p>Dans le Nouveau Testament, Jésus donne des règles plus strictes concernant l’adultère. Jésus enseigne que si quelqu'un <em>pensait</em> même à avoir une relation sexuelle avec quelqu'un avec qui il n'était pas marié, c'était déjà un péché.</p>",
+"content": "<p id=\"GwaYbqDFHDQ31NxIuVaK\">L'<b id=\"St6BbojxIcNBNI3cA41y\">adultère</b> est une forme de <a id=\"eZkPBUBmi8w0x7ygmX7P\" href=\"#t125\">péché</a> sexuel. Dieu considère comme un péché toute relation sexuelle avec quelqu’un en dehors du mariage. Cependant, dans l’Ancien Testament, le mot « adultère » décrit un cas spécifique de péché sexuel. Si un homme a des relations sexuelles avec une femme mariée à un autre, l'homme et la femme sont tous les deux coupables d'adultère. Le châtiment pour l'adultère est la mort. Cependant, si la femme a été violée, seul l'homme doit mourir.</p><p id=\"ZofaN71d2SEStFKxHgP0\">Lorsqu’un homme avait des relations sexuelles avec une femme non mariée ou une <a id=\"3EzFDM9UEQwVhkitMBsu\" href=\"#t126\">esclave</a>, il avait quand même désobéi à Dieu, ou péché contre lui. Pourtant, selon la loi de l’Ancien Testament, ce péché n’était pas dans la catégorie de l’adultère.</p><p id=\"ItcWdYwqKE3Id0L8hFxP\">Dieu déteste l'adultère et toute forme de péché sexuel. Dieu compare souvent la désobéissance des gens envers lui à un adultère : quand les gens sont infidèles à Dieu et commencent à <a id=\"nJQg4JjT7Zo8voXx0tSR\" href=\"#t149\">adorer</a> des <a id=\"gpNkxSGGXfRQSc1sbGtW\" href=\"#t72\">idoles</a> et de faux dieux, ils se comportent exactement comme un homme et une femme qui sont infidèles à leur propre mari ou à leur propre femme. C'est pourquoi Dieu qualifie l'idolâtrie, c'est-à-dire l'adoration d'idoles ou de tout autre dieu que lui, d'adultère.</p><p id=\"imZaI0Sc4xTZgjIoLb4H\">Dans le Nouveau Testament, Jésus donne des règles plus strictes concernant l’adultère. Jésus enseigne que si quelqu'un <em id=\"ohlpGq2N7G5iUNR1PcQN\">pensait</em> même à avoir une relation sexuelle avec quelqu'un avec qui il n'était pas marié, c'était déjà un péché.</p>",
 "associations": {
 "passage": [
 {
@@ -1259,34 +1231,6 @@
 }
 ],
 "resource": [
-{
-"reference_id": 0,
-"content_id": "fra-t125-v1",
-"resource_code": "FIAKeyTerms",
-"label": "péché",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t126-v2",
-"resource_code": "FIAKeyTerms",
-"label": "esclave",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t149-v1",
-"resource_code": "FIAKeyTerms",
-"label": "adorer",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t72-v1",
-"resource_code": "FIAKeyTerms",
-"label": "idoles",
-"language": "fra"
-},
 {
 "reference_id": 0,
 "content_id": "fra-t2-v1-audio",
@@ -1439,7 +1383,7 @@
 "index_reference": "alliance",
 "language": "fra",
 "review_level": "None",
-"content": "<p>Lorsqu'on conclut une <b>alliance</b>, on se fait une promesse solennelle ou officielle qu'on ne peut pas briser. Quand on conclut une alliance, cela veut dire qu'on veut avoir de bonnes relations. Par conséquent, les gens qui font l'alliance s'appellent parfois frère, père ou fils. Une alliance est pour toujours.</p><p>Lorsque les gens font une alliance, ils prêtent <data class=\"resource-ref\" data-content-id=\"fra-t96-v1\" data-resource-code=\"FIAKeyTerms\">serment</data>. Dans le serment, ils disent quelque chose qui signifie : « Je tiendrai ma promesse. Sinon, Dieu peut me punir. » Ils peuvent accomplir un rite qui symbolise la punition que Dieu leur infligera s'ils ne respectent pas leur serment. Par exemple, lorsque les gens faisaient alliance les uns avec les autres, ils pouvaient chacun tuer un animal. Cela leur rappelait que si l'un d'entre eux ne respectait pas l'alliance, Dieu le punirait. Souvent, prendre un repas ensemble faisait également partie des actions rituelles de l'alliance.</p><p>Des personnes ou des familles entières pouvaient faire alliance. Des pays ou des groupes pouvaient également conclure une alliance. Par exemple, ils pouvaient promettre de ne pas se battre les uns contre les autres et de s'aider en cas de problème. En faisant alliance, ils affirmaient vouloir avoir de bonnes relations. Dans ce genre d'alliance, il y a égalité entre les deux parties. Elles pouvaient choisir de faire l'alliance ou non, et elles pouvaient se mettre d'accord ensemble sur les conditions de l'alliance. Dans l'Ancien Testament, le peuple d'<data class=\"resource-ref\" data-content-id=\"fra-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israël</data> faisait parfois alliance avec d'autres <data class=\"resource-ref\" data-content-id=\"fra-t94-v1\" data-resource-code=\"FIAKeyTerms\">nations</data>.</p><p>Un <data class=\"resource-ref\" data-content-id=\"fra-t226-v1\" data-resource-code=\"FIAKeyTerms\">roi</data> ou souverain pouvait également faire alliance avec un autre souverain ou un <data class=\"resource-ref\" data-content-id=\"fra-t157-v1\" data-resource-code=\"FIAKeyTerms\">royaume</data> plus faible. Le roi pouvait dire à ces autres personnes : « Je vous protégerai, mais vous devrez me payer » ou « Vous devez travailler pour moi. » Ces autres gens devaient promettre de faire ce que le roi voulait. S'ils ne tenaient pas leur promesse, le roi les punissait. S'ils la tenaient, le roi faisait de bonnes choses pour eux. Dans ce type d'alliance, le roi ne prêtait pas serment. Seuls les gens qui devaient faire ce que le roi voulait devaient prêter serment.</p><p>Mais parfois, c'était l'inverse et seul le roi prêtait serment. Cela pouvait arriver si des personnes faisaient quelque chose de très bon pour le roi et qu'il voulait les récompenser. Cela signifiait habituellement qu'il leur donnait des terres. Le roi prêtait ensuite serment, disant que ces personnes pouvaient avoir ces terres pour toujours.</p><p>Dieu a conclu plusieurs alliances. Elles ont été conlues avec plusieurs individus, et aussi avec son peuple. Ces alliances ressemblent un peu aux deux types d'alliances qu'un roi peut conclure avec son peuple.</p><p>Dieu a fait alliance avec <data class=\"resource-ref\" data-content-id=\"fra-t1-v1\" data-resource-code=\"FIAKeyTerms\">Abraham</data>. Il lui a promis de lui donner une terre et de nombreux descendants. Dieu a été le seul à prêter serment. Il l'a confirmé par un rite comprenant la mort d'animaux. Cela symbolisait la sincérité de son serment. De leur côté, Abraham et ses <data class=\"resource-ref\" data-content-id=\"fra-t234-v1\" data-resource-code=\"FIAKeyTerms\">descendants</data> devaient être <data class=\"resource-ref\" data-content-id=\"fra-t25-v1\" data-resource-code=\"FIAKeyTerms\">circoncis</data>. La circoncision est la coutume de couper le bout de peau qui dépasse à l'extrémité du pénis d'un garçon. En <data class=\"resource-ref\" data-content-id=\"fra-t227-v1\" data-resource-code=\"FIAKeyTerms\">hébreu</data>, la langue de l'Ancien Testament, lorsque les gens concluent une alliance, ils disent qu'ils « <em>coupent</em> une alliance ». En faisant cette coupure dans leurs propres corps, les descendants d'Abraham se rappelaient l'alliance que Dieu avait « coupée » avec eux. S'ils cessaient de circoncire leurs fils, ils ne respectaient pas leur alliance.</p><p>Plus tard, Dieu a confirmé cette alliance à plusieurs reprises avec les descendants d'Abraham, les <data class=\"resource-ref\" data-content-id=\"fra-t259-v2\" data-resource-code=\"FIAKeyTerms\">Israélites</data>. Par exemple, cela s'est produit au mont Sinaï après que Moïse les a fait sortir d'Égypte, où ils étaient esclaves. Les descendants d'Abraham étaient devenus un peuple très nombreux, comme Dieu l'avait promis. Mais ils n'avaient pas encore leur propre terre. Au mont Sinaï, Dieu a donné aux Israélites ses commandements, c'est-à-dire ses lois. Ils devaient y obéir. Cela faisait partie de l'alliance. Dieu leur a promis que s'ils lui obéissaient et qu'ils remplissaient leur part de l'alliance, ils deviendraient son peuple spécial. Il les <data class=\"resource-ref\" data-content-id=\"fra-t16-v1\" data-resource-code=\"FIAKeyTerms\">bénirait</data> et leur donnerait une terre à eux et beaucoup d'autres bonnes choses. Mais en cas de désobéissance, c'est-à-dire s'ils ne respectaient pas l'alliance, Dieu les punirait et leur prendrait leurs terres.</p><p>Les Israélites ont promis de respecter l'alliance de Dieu et de lui obéir complètement. Pour confirmer cette promesse, ils ont accompli un rite. Moïse a tué plusieurs animaux et a aspergé une partie de leur sang sur l'<data class=\"resource-ref\" data-content-id=\"fra-t3-v1\" data-resource-code=\"FIAKeyTerms\">autel</data>, l'endroit où ils offraient des <data class=\"resource-ref\" data-content-id=\"fra-t114-v1.0.1\" data-resource-code=\"FIAKeyTerms\">sacrifices</data> à Dieu. Et il a aspergé une partie du sang des animaux sacrifiés sur le peuple. Il a appelé cela le « sang de l'alliance. » Le sang sur l'autel symbolisait le serment de Dieu, et le sang sur le peuple symbolisait le serment du peuple. Le sang a fait de l'alliance un accord formel qui ne pouvait pas être brisé.</p><p>Pourtant, les Israélites n'ont pas tenu leur promesse. Ils ont continuellement désobéi aux commandements de Dieu, et il a dû les punir.</p><p>Dans le Nouveau Testament, cette alliance de l'Ancien Testament avec les Israélites s'appelle « la première alliance ». Jésus a dit qu'il concluait une <em>nouvelle</em> alliance avec le peuple. Une nouvelle alliance était nécessaire parce que le peuple <data class=\"resource-ref\" data-content-id=\"fra-t125-v1\" data-resource-code=\"FIAKeyTerms\">péchait</data> tellement qu'il ne pouvait jamais complètement obéir à Dieu et qu'il ne pouvait pas respecter l'alliance. Juste avant de mourir, Jésus a parlé de sa propre mort. Il a dit que son sang était le sang de la nouvelle alliance. Tout comme le sang sur l'autel et sur le peuple à l'époque de Moïse a finalisé la première alliance, la mort de Jésus finalise la nouvelle alliance entre Dieu et le peuple. La nouvelle alliance est une promesse solennelle de Dieu aux gens qu'ils seront sauvés s'ils croient en Jésus.</p><p><strong>Pour traduire le mot « alliance », il faut faire attention aux choses suivantes :</strong></p><p>Votre culture peut avoir un mot ou une expression qui signifie « alliance » de façon comparable à une alliance dans la Bible. Certaines langues utilisent une image pour décrire les personnes qui concluent une alliance. Les gens font-ils quelque chose de spécial quand ils se font une promesse officielle ? Si c'est le cas, cela pourrait vous aider à décider comment traduire le mot « alliance ».</p><p>Certaines options pour traduire le mot « alliance » pourraient être :</p><ul><li>une promesse solennelle ou officielle</li><li>une promesse perpétuelle</li><li>un accord fixe</li></ul><div data-type=\"callout\" data-callout-style=\"action\"><p>Vous pouvez mettre en scène les différents types d'alliances qui sont mentionnés plus tôt :</p><ul><li>Vous pourriez jouer le rôle de deux personnes qui sont égales.</li><li>Vous pourriez jouer le rôle d'un roi qui conclut une alliance avec des gens qui doivent lui obéir.</li><li>Vous pourriez jouer le rôle d'un roi qui conclut une alliance avec une personne à qui il veut donner quelque chose.</li></ul><p>Ces mises en scènes vous aident-elles à trouver les bons mots dans votre langue ?</p></div>",
+"content": "<p id=\"agNA5wosA89hWWpg9iZz\">Lorsqu'on conclut une <b id=\"SO5MsmDY4OMdLH41CwbR\">alliance</b>, on se fait une promesse solennelle ou officielle qu'on ne peut pas briser. Quand on conclut une alliance, cela veut dire qu'on veut avoir de bonnes relations. Par conséquent, les gens qui font l'alliance s'appellent parfois frère, père ou fils. Une alliance est pour toujours.</p><p id=\"UiM0OL0wq8aorTwDF1oD\">Lorsque les gens font une alliance, ils prêtent <a id=\"2t83uVdb5SUvg7tZeNWg\" href=\"#t96\">serment</a>. Dans le serment, ils disent quelque chose qui signifie : « Je tiendrai ma promesse. Sinon, Dieu peut me punir. » Ils peuvent accomplir un rite qui symbolise la punition que Dieu leur infligera s'ils ne respectent pas leur serment. Par exemple, lorsque les gens faisaient alliance les uns avec les autres, ils pouvaient chacun tuer un animal. Cela leur rappelait que si l'un d'entre eux ne respectait pas l'alliance, Dieu le punirait. Souvent, prendre un repas ensemble faisait également partie des actions rituelles de l'alliance.</p><p id=\"JrnfGoi2jmRoByE0ZV94\">Des personnes ou des familles entières pouvaient faire alliance. Des pays ou des groupes pouvaient également conclure une alliance. Par exemple, ils pouvaient promettre de ne pas se battre les uns contre les autres et de s'aider en cas de problème. En faisant alliance, ils affirmaient vouloir avoir de bonnes <a id=\"OTZNfHMbdwfA62KeHW7x\" href=\"#t108\">relations</a>. Dans ce genre d'alliance, il y a égalité entre les deux parties. Elles pouvaient choisir de faire l'alliance ou non, et elles pouvaient se mettre d'accord ensemble sur les conditions de l'alliance. Dans l'Ancien Testament, le peuple d'<a id=\"AqB7hBzL76taLU7a84qv\" href=\"#t74\">Israël</a> faisait parfois alliance avec d'autres <a id=\"x2kNJKPCLLKzc9I3QzjB\" href=\"#t94\">nations</a>.</p><p id=\"pEKaUfcSGXIj0H8r0WGj\">Un <a id=\"lDRjUJYLhKWQSuh4jGLo\" href=\"#t226\">roi</a> ou souverain pouvait également faire alliance avec un autre souverain ou un <a id=\"W3TNq1xN2ccl8E1UcOIY\" href=\"#t157\">royaume</a> plus faible. Le roi pouvait dire à ces autres personnes : « Je vous protégerai, mais vous devrez me payer » ou « Vous devez travailler pour moi. » Ces autres gens devaient promettre de faire ce que le roi voulait. S'ils ne tenaient pas leur promesse, le roi les punissait. S'ils la tenaient, le roi faisait de bonnes choses pour eux. Dans ce type d'alliance, le roi ne prêtait pas serment. Seuls les gens qui devaient faire ce que le roi voulait devaient prêter serment.</p><p id=\"sfu5aMG7uPvXYz6NHJo5\">Mais parfois, c'était l'inverse et seul le roi prêtait serment. Cela pouvait arriver si des personnes faisaient quelque chose de très bon pour le roi et qu'il voulait les récompenser. Cela signifiait habituellement qu'il leur donnait des terres. Le roi prêtait ensuite serment, disant que ces personnes pouvaient avoir ces terres pour toujours.</p><p id=\"JV6dWCvlgfNDJcOIvbCZ\">Dieu a conclu plusieurs alliances. Elles ont été conlues avec plusieurs individus, et aussi avec son peuple. Ces alliances ressemblent un peu aux deux types d'alliances qu'un roi peut conclure avec son peuple.</p><p id=\"WjUlxdcKIbk81WB6hGVo\">Dieu a fait alliance avec <a id=\"5YdzlCPFp1dSQcgQ5G65\" href=\"#t1\">Abraham</a>. Il lui a promis de lui donner une terre et de nombreux descendants. Dieu a été le seul à prêter serment. Il l'a confirmé par un rite comprenant la mort d'animaux. Cela symbolisait la sincérité de son serment. De leur côté, Abraham et ses <a id=\"8a2u5U0oeal2vzGkVtos\" href=\"#t234\">descendants</a> devaient être <a id=\"JLVaqPlnJwWeCHhCW98e\" href=\"#t25\">circoncis</a>. La circoncision est la coutume de couper le bout de peau qui dépasse à l'extrémité du pénis d'un garçon. En <a id=\"yhVbJ9W8ayLXouVrMBIS\" href=\"#t227\">hébreu</a>, la langue de l'Ancien Testament, lorsque les gens concluent une alliance, ils disent qu'ils « <em id=\"J2IfFfRRAF0ubnUZsrqw\">coupent</em> une alliance ». En faisant cette coupure dans leurs propres corps, les descendants d'Abraham se rappelaient l'alliance que Dieu avait « coupée » avec eux. S'ils cessaient de circoncire leurs fils, ils ne respectaient pas leur alliance.</p><p id=\"rheV7cj6k7aIjydJqaEq\">Plus tard, Dieu a confirmé cette alliance à plusieurs reprises avec les descendants d'Abraham, les <a id=\"glnMog7KF7DIM7oYuZiz\" href=\"#t259\">Israélites</a>. Par exemple, cela s'est produit au mont Sinaï après que Moïse les a fait sortir d'Égypte, où ils étaient esclaves. Les descendants d'Abraham étaient devenus un peuple très nombreux, comme Dieu l'avait promis. Mais ils n'avaient pas encore leur propre terre. Au mont Sinaï, Dieu a donné aux Israélites ses commandements, c'est-à-dire ses lois. Ils devaient y obéir. Cela faisait partie de l'alliance. Dieu leur a promis que s'ils lui obéissaient et qu'ils remplissaient leur part de l'alliance, ils deviendraient son peuple spécial. Il les <a id=\"1lunEdAia8yh5xPH5ach\" href=\"#t16\">bénirait</a> et leur donnerait une terre à eux et beaucoup d'autres bonnes choses. Mais en cas de désobéissance, c'est-à-dire s'ils ne respectaient pas l'alliance, Dieu les punirait et leur prendrait leurs terres.</p><p id=\"zSJMZNfBk4sjzXdnTZ60\">Les Israélites ont promis de respecter l'alliance de Dieu et de lui obéir complètement. Pour confirmer cette promesse, ils ont accompli un rite. Moïse a tué plusieurs animaux et a aspergé une partie de leur sang sur l'<a id=\"W9oT0iuMySOiOtJP79GH\" href=\"#t3\">autel</a>, l'endroit où ils offraient des <a id=\"NRc02neoi7UcWgQspacS\" href=\"#t114\">sacrifices</a> à Dieu. Et il a aspergé une partie du sang des animaux sacrifiés sur le peuple. Il a appelé cela le « sang de l'alliance. » Le sang sur l'autel symbolisait le serment de Dieu, et le sang sur le peuple symbolisait le serment du peuple. Le sang a fait de l'alliance un accord formel qui ne pouvait pas être brisé.</p><p id=\"5a2oDFYjBDpkOcsUkWXD\">Pourtant, les Israélites n'ont pas tenu leur promesse. Ils ont continuellement désobéi aux commandements de Dieu, et il a dû les punir.</p><p id=\"cSysJILJztGYWg7U2ET9\">Dans le Nouveau Testament, cette alliance de l'Ancien Testament avec les Israélites s'appelle « la première alliance ». Jésus a dit qu'il concluait une <em id=\"dTgXk8iGaEyAwImqQ532\">nouvelle</em> alliance avec le peuple. Une nouvelle alliance était nécessaire parce que le peuple <a id=\"hPVajhiqucuMSPsy71Qz\" href=\"#t125\">péchait</a> tellement qu'il ne pouvait jamais complètement obéir à Dieu et qu'il ne pouvait pas respecter l'alliance. Juste avant de mourir, Jésus a parlé de sa propre mort. Il a dit que son sang était le sang de la nouvelle alliance. Tout comme le sang sur l'autel et sur le peuple à l'époque de Moïse a finalisé la première alliance, la mort de Jésus finalise la nouvelle alliance entre Dieu et le peuple. La nouvelle alliance est une promesse solennelle de Dieu aux gens qu'ils seront sauvés s'ils croient en Jésus.</p><p id=\"uZy9AjSgvRUZCweYjGAv\"><strong id=\"hAMoXCFkYV29yAXjxDCT\">Pour traduire le mot « alliance », il faut faire attention aux choses suivantes :</strong></p><p id=\"cfqEyYIt6XFE7f8BtGdc\">Votre culture peut avoir un mot ou une expression qui signifie « alliance » de façon comparable à une alliance dans la Bible. Certaines langues utilisent une image pour décrire les personnes qui concluent une alliance. Les gens font-ils quelque chose de spécial quand ils se font une promesse officielle ? Si c'est le cas, cela pourrait vous aider à décider comment traduire le mot « alliance ».</p><p id=\"dpoFYai1haKq9KwLfiiv\">Certaines options pour traduire le mot « alliance » pourraient être :</p><ul id=\"PskhAPIfHoFLttoeXKpz\"><li id=\"nW5BMHZUzTrqi9X3GyKh\">une promesse solennelle ou officielle</li><li id=\"NRIlpslw4zNM2IwGPbEK\">une promesse perpétuelle</li><li id=\"g3g5jmYlUHPNtKxT2tDB\">un accord fixe</li></ul><div id=\"VAv948xPjNB1Ze20u0Av\" data-type=\"callout\" data-callout-style=\"action\"><p id=\"c0lKlO81jBBJjvsl7BXT\">Vous pouvez mettre en scène les différents types d'alliances qui sont mentionnés plus tôt :</p><ul id=\"d0sK7gTOIJYKfZXnEGvH\"><li id=\"1mtrjDcO9H64PtLY8yPp\">Vous pourriez jouer le rôle de deux personnes qui sont égales.</li><li id=\"gL0OvQc7obeXSHIeZeiN\">Vous pourriez jouer le rôle d'un roi qui conclut une alliance avec des gens qui doivent lui obéir.</li><li id=\"1q7UxwZ37mVE4ZdZR37u\">Vous pourriez jouer le rôle d'un roi qui conclut une alliance avec une personne à qui il veut donner quelque chose.</li></ul><p id=\"IVUtoGOUPWQkNAEy7lcR\">Ces mises en scènes vous aident-elles à trouver les bons mots dans votre langue ?</p></div>",
 "associations": {
 "passage": [
 {
@@ -1959,6 +1903,24 @@
 "end_ref_usfm": "NEH 1:11"
 },
 {
+"start_ref": "16009006",
+"start_ref_usfm": "NEH 9:6",
+"end_ref": "16009015",
+"end_ref_usfm": "NEH 9:15"
+},
+{
+"start_ref": "16009032",
+"start_ref_usfm": "NEH 9:32",
+"end_ref": "16009037",
+"end_ref_usfm": "NEH 9:37"
+},
+{
+"start_ref": "16013023",
+"start_ref_usfm": "NEH 13:23",
+"end_ref": "16013031",
+"end_ref_usfm": "NEH 13:31"
+},
+{
 "start_ref": "40026026",
 "start_ref_usfm": "MAT 26:26",
 "end_ref": "40026035",
@@ -2017,113 +1979,9 @@
 "start_ref_usfm": "GAL 4:21",
 "end_ref": "48004027",
 "end_ref_usfm": "GAL 4:27"
-},
-{
-"start_ref": "49002011",
-"start_ref_usfm": "EPH 2:11",
-"end_ref": "49002018",
-"end_ref_usfm": "EPH 2:18"
 }
 ],
 "resource": [
-{
-"reference_id": 0,
-"content_id": "fra-t96-v1",
-"resource_code": "FIAKeyTerms",
-"label": "serment",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t74-v2",
-"resource_code": "FIAKeyTerms",
-"label": "Israël",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t94-v1",
-"resource_code": "FIAKeyTerms",
-"label": "nations",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t226-v1",
-"resource_code": "FIAKeyTerms",
-"label": "roi",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t157-v1",
-"resource_code": "FIAKeyTerms",
-"label": "royaume",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t1-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Abraham",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t234-v1",
-"resource_code": "FIAKeyTerms",
-"label": "descendants",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t25-v1",
-"resource_code": "FIAKeyTerms",
-"label": "circoncis",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t227-v1",
-"resource_code": "FIAKeyTerms",
-"label": "hébreu",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t259-v2",
-"resource_code": "FIAKeyTerms",
-"label": "Israélites",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t16-v1",
-"resource_code": "FIAKeyTerms",
-"label": "bénirait",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t3-v1",
-"resource_code": "FIAKeyTerms",
-"label": "autel",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t114-v1.0.1",
-"resource_code": "FIAKeyTerms",
-"label": "sacrifices",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t125-v1",
-"resource_code": "FIAKeyTerms",
-"label": "péchait",
-"language": "fra"
-},
 {
 "reference_id": 0,
 "content_id": "fra-t29-v1-audio",
@@ -2672,6 +2530,24 @@
 "end_ref_usfm": "NEH 1:11"
 },
 {
+"start_ref": "16009006",
+"start_ref_usfm": "NEH 9:6",
+"end_ref": "16009015",
+"end_ref_usfm": "NEH 9:15"
+},
+{
+"start_ref": "16009032",
+"start_ref_usfm": "NEH 9:32",
+"end_ref": "16009037",
+"end_ref_usfm": "NEH 9:37"
+},
+{
+"start_ref": "16013023",
+"start_ref_usfm": "NEH 13:23",
+"end_ref": "16013031",
+"end_ref_usfm": "NEH 13:31"
+},
+{
 "start_ref": "40026026",
 "start_ref_usfm": "MAT 26:26",
 "end_ref": "40026035",
@@ -2730,12 +2606,6 @@
 "start_ref_usfm": "GAL 4:21",
 "end_ref": "48004027",
 "end_ref_usfm": "GAL 4:27"
-},
-{
-"start_ref": "49002011",
-"start_ref_usfm": "EPH 2:11",
-"end_ref": "49002018",
-"end_ref_usfm": "EPH 2:18"
 }
 ],
 "resource": [
@@ -2758,7 +2628,7 @@
 "index_reference": "âme",
 "language": "fra",
 "review_level": "None",
-"content": "<p>Dieu a créé les êtres humains avec un corps. Nous pouvons voir et toucher nos propres corps et celui d'autres personnes. Cependant, Dieu a aussi créé les êtres humains avec des pensées, des sentiments et des désirs. Nous ne pouvons pas voir cette partie d'une autre personne, mais nous savons qu'elle existe. Cette partie invisible d'une personne est généralement appelée « <b>âme</b> » dans la Bible. L'âme continue de vivre même lorsque le corps meurt.</p><p>Une personne n'est pas complète sans âme. C'est pourquoi la Bible utilise souvent le mot « âme » comme une autre façon de désigner une personne. Par exemple, dans un passage, la Bible parle de « quatorze âmes en tout » pour décrire une famille. Cela veut dire que cette famille comptait quatorze personnes.</p><p>Ailleurs, le mot « âme » désigne la <em>vie</em> d'une personne. Jésus a dit qu'il était venu donner son <em>âme</em> pour les autres. Cela veut dire qu'il est venu donner sa <em>vie</em> pour eux.</p><p>La Bible utilise aussi le mot « <data class=\"resource-ref\" data-content-id=\"fra-t132-v1\" data-resource-code=\"FIAKeyTerms\">esprit</data> » pour désigner la partie intérieure et invisible d'une personne. Quand la Bible utilise le mot « esprit », elle met l'accent sur la relation d'une personne avec Dieu. Quand on <data class=\"resource-ref\" data-content-id=\"fra-t102-v1.0.1\" data-resource-code=\"FIAKeyTerms\">prie</data>, notre esprit parle à Dieu. Quand quelqu'un qui <data class=\"resource-ref\" data-content-id=\"fra-t11-v1\" data-resource-code=\"FIAKeyTerms\">croit</data> en Jésus meurt, son esprit continue de vivre avec Dieu.</p><p>Certains pensent que l'esprit et l'âme d'une personne sont la même chose, et que ces deux mots ont seulement une signification légèrement différente. D'autres pensent que ces mots désignent quelque chose de différent et que chaque personne a un corps, une âme et un esprit.</p><p><strong>Pour traduire le mot « âme », il faut faire attention aux choses suivantes :</strong></p><p>Gardez à l'esprit qu'il vous faudra aussi des mots pour traduire « esprit », « cœur » et « pensée ». Les mots « cœur », « pensée », « esprit » et « âme » désignent tous la partie intérieure et invisible d'une personne, mais ces mots ont chacun une signification légèrement différente. Il sera peut-être préférable d'écouter l'explication de chacun de ces quatre termes, puis d'en discuter en même temps. Vous pourrez alors décider de la façon dont vous allez traduire chacun de ces termes. Mais rappelez-vous que, dans chaque contexte particulier, vous devrez vous assurer de choisir le bon mot. Parfois, un de ces mots conviendra mieux qu'un autre.</p><p>Voici un bref résumé de ces quatre termes :</p><ul><li><b>Âme</b> : partie intérieure et totale d'une personne. Cette partie d'une personne peut continuer de vivre même après la mort de son corps.</li><li><data class=\"resource-ref\" data-content-id=\"fra-t132-v1\" data-resource-code=\"FIAKeyTerms\">Esprit</data> : l'esprit est très similaire à l'âme, mais l'accent est davantage sur la relation avec Dieu.</li><li><data class=\"resource-ref\" data-content-id=\"fra-t150-v1.0.1\" data-resource-code=\"FIAKeyTerms\">Cœur</data> : parler du cœur d'une personne est comme une image qui décrit l'endroit où une personne pense, éprouve des sentiments et prend des décisions.</li><li><data class=\"resource-ref\" data-content-id=\"fra-t151-v1\" data-resource-code=\"FIAKeyTerms\">Pensée</data> : la pensée ou l'entendement d'une personne est sa faculté de penser. C'est très similaire à son cœur, mais l'accent est plus sur la raison, l'esprit, l'intelligence, la volonté ou le désir de faire quelque chose. En français, ce mot est traduit de plusieurs façons différentes, y compris : « pensée », « entendement », « raison », « intelligence » et même « esprit ».</li></ul>",
+"content": "<p id=\"WFzIXVZ8AaIqFXvfc9Ct\">Dieu a créé les êtres humains avec un corps. Nous pouvons voir et toucher nos propres corps et celui d'autres personnes. Cependant, Dieu a aussi créé les êtres humains avec des pensées, des sentiments et des désirs. Nous ne pouvons pas voir cette partie d'une autre personne, mais nous savons qu'elle existe. Cette partie invisible d'une personne est généralement appelée « <b id=\"R25MLdNzNwJN6xmOr6vo\">âme</b> » dans la Bible. L'âme continue de vivre même lorsque le corps meurt.</p><p id=\"R9d4cPvjoPdOsmT70Lgw\">Une personne n'est pas complète sans âme. C'est pourquoi la Bible utilise souvent le mot « âme » comme une autre façon de désigner une personne. Par exemple, dans un passage, la Bible parle de « quatorze âmes en tout » pour décrire une famille. Cela veut dire que cette famille comptait quatorze personnes.</p><p id=\"RPpgWh2p3BqQi4PYteFi\">Ailleurs, le mot « âme » désigne la <em id=\"SrJK40hnVTVUqdokt6Pp\">vie</em> d'une personne. Jésus a dit qu'il était venu donner son <em id=\"2nQww4BL6tBqTRSXz0qi\">âme</em> pour les autres. Cela veut dire qu'il est venu donner sa <em id=\"NhXZepANvcmuw0Wpyv3A\">vie</em> pour eux.</p><p id=\"0JYSMjdukl7G3UbJjwvE\">La Bible utilise aussi le mot « <a id=\"IGCzagJrugZiviqqKt4o\" href=\"#t132\">esprit</a> » pour désigner la partie intérieure et invisible d'une personne. Quand la Bible utilise le mot « esprit », elle met l'accent sur la <a id=\"ucJcuDA3x7aOXRxQeK0C\" href=\"#t108\">relation</a> d'une personne avec Dieu. Quand on <a id=\"AfSfUZH60gBDkFGnAFBn\" href=\"#t102\">prie</a>, notre esprit parle à Dieu. Quand quelqu'un qui <a id=\"hMYYxRLqVoL3qL5VZWHM\" href=\"#t11\">croit</a> en Jésus meurt, son esprit continue de vivre avec Dieu.</p><p id=\"iquQXTCS8xdNJDDPZXA2\">Certains pensent que l'esprit et l'âme d'une personne sont la même chose, et que ces deux mots ont seulement une signification légèrement différente. D'autres pensent que ces mots désignent quelque chose de différent et que chaque personne a un corps, une âme et un esprit.</p><p id=\"nmmjRQkNDnIagD5urKvG\"><strong id=\"GgU0LMLc62eADAMQU8Cc\">Pour traduire le mot « âme », il faut faire attention aux choses suivantes :</strong></p><p id=\"Cs6obMTplqyBf39YrRXZ\">Gardez à l'esprit qu'il vous faudra aussi des mots pour traduire « esprit », « cœur » et « pensée ». Les mots « cœur », « pensée », « esprit » et « âme » désignent tous la partie intérieure et invisible d'une personne, mais ces mots ont chacun une signification légèrement différente. Il sera peut-être préférable d'écouter l'explication de chacun de ces quatre termes, puis d'en discuter en même temps. Vous pourrez alors décider de la façon dont vous allez traduire chacun de ces termes. Mais rappelez-vous que, dans chaque contexte particulier, vous devrez vous assurer de choisir le bon mot. Parfois, un de ces mots conviendra mieux qu'un autre.</p><p id=\"z8FAa7HwJdUCQgJASSVi\">Voici un bref résumé de ces quatre termes :</p><ul id=\"A3JGNgo35upqesFv09Fa\"><li id=\"OA37XfVMooajGTACJOHG\"><b id=\"1VOPfz5HFeqEvqcuemjs\">Âme</b> : partie intérieure et totale d'une personne. Cette partie d'une personne peut continuer de vivre même après la mort de son corps.</li><li id=\"0LUvXQh0yynLnitEw6Cz\"><a id=\"Bctf29yTjMlrZdKZtYXM\" href=\"#t132\">Esprit</a> : l'esprit est très similaire à l'âme, mais l'accent est davantage sur la relation avec Dieu.</li><li id=\"QZuuWDjzr5kcvdgLJ6XQ\"><a id=\"tVGBaBx0tqCrR320rBA4\" href=\"#t150\">Cœur</a> : parler du cœur d'une personne est comme une image qui décrit l'endroit où une personne pense, éprouve des sentiments et prend des décisions.</li><li id=\"EHSfvsmBFV9vjoMnmS38\"><a id=\"8xaQhSNs8uHqUTvVrNvs\" href=\"#t151\">Pensée</a> : la pensée ou l'entendement d'une personne est sa faculté de penser. C'est très similaire à son cœur, mais l'accent est plus sur la raison, l'esprit, l'intelligence, la volonté ou le désir de faire quelque chose. En français, ce mot est traduit de plusieurs façons différentes, y compris : « pensée », « entendement », « raison », « intelligence » et même « esprit ».</li></ul>",
 "associations": {
 "passage": [
 {
@@ -2973,48 +2843,6 @@
 }
 ],
 "resource": [
-{
-"reference_id": 0,
-"content_id": "fra-t132-v1",
-"resource_code": "FIAKeyTerms",
-"label": "esprit",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t102-v1.0.1",
-"resource_code": "FIAKeyTerms",
-"label": "prie",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t11-v1",
-"resource_code": "FIAKeyTerms",
-"label": "croit",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t132-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Esprit",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t150-v1.0.1",
-"resource_code": "FIAKeyTerms",
-"label": "Cœur",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t151-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Pensée",
-"language": "fra"
-},
 {
 "reference_id": 0,
 "content_id": "fra-t131-v1-audio",
@@ -3269,7 +3097,7 @@
 "index_reference": "amen",
 "language": "fra",
 "review_level": "None",
-"content": "<p><b>Amen</b> est un mot <data class=\"resource-ref\" data-content-id=\"fra-t227-v1\" data-resource-code=\"FIAKeyTerms\">hébreu</data>. Selon le contexte, ce mot peut vouloir dire quelque chose comme : « j'accepte cela », « puisse cela être vrai », « en effet » ou « vraiment ».</p><p>Quand quelqu'un dit que quelque chose de bien va arriver, on peut répondre en disant : « Amen ! » Cela veut dire qu'on <data class=\"resource-ref\" data-content-id=\"fra-t11-v1\" data-resource-code=\"FIAKeyTerms\">espère</data> que cela arrivera vraiment.</p><p>Quand quelqu'un d'autre adresse une <data class=\"resource-ref\" data-content-id=\"fra-t102-v1.0.1\" data-resource-code=\"FIAKeyTerms\">prière</data> à Dieu, on peut aussi dire « Amen ». Cela veut dire qu'on espère que Dieu répondra favorablement à la prière.</p><p>Jésus utilise le mot « amen » d'une manière différente. Il dit souvent « Amen » ou même « Amen, amen » quand il commence à enseigner. Quand Jésus dit « Amen », il veut dire : « Écoutez attentivement ce que je vais dire, car c’est vrai et très important. »</p>",
+"content": "<p id=\"4NHBS2JHaWPyw2E7iSZ4\"><b id=\"oTI0xQML6C8bizMoyUND\">Amen</b> est un mot <a id=\"pQCHBi3JJwsWLlp5qIjM\" href=\"#t227\">hébreu</a>. Selon le contexte, ce mot peut vouloir dire quelque chose comme : « j'accepte cela », « puisse cela être vrai », « en effet » ou « vraiment ».</p><p id=\"cea5ViOCBx40fIBHD17m\">Quand quelqu'un dit que quelque chose de bien va arriver, on peut répondre en disant : « Amen ! » Cela veut dire qu'on <a id=\"7uOXctYlSFIhchUXhG76\" href=\"#t11\">espère</a> que cela arrivera vraiment.</p><p id=\"BXBgwVnQcCJAbYmvE7MC\">Quand quelqu'un d'autre adresse une <a id=\"BCQgusArXkuD5MZLDy2R\" href=\"#t102\">prière</a> à Dieu, on peut aussi dire « Amen ». Cela veut dire qu'on espère que Dieu répondra favorablement à la prière.</p><p id=\"QlOuio87tpk08EMTqX1B\">Jésus utilise le mot « amen » d'une manière différente. Il dit souvent « Amen » ou même « Amen, amen » quand il commence à enseigner. Quand Jésus dit « Amen », il veut dire : « Écoutez attentivement ce que je vais dire, car c’est vrai et très important. »</p>",
 "associations": {
 "passage": [
 {
@@ -3364,27 +3192,6 @@
 }
 ],
 "resource": [
-{
-"reference_id": 0,
-"content_id": "fra-t227-v1",
-"resource_code": "FIAKeyTerms",
-"label": "hébreu",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t11-v1",
-"resource_code": "FIAKeyTerms",
-"label": "espère",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t102-v1.0.1",
-"resource_code": "FIAKeyTerms",
-"label": "prière",
-"language": "fra"
-},
 {
 "reference_id": 0,
 "content_id": "fra-t236-v1-audio",
@@ -3519,7 +3326,7 @@
 "index_reference": "ancien",
 "language": "fra",
 "review_level": "None",
-"content": "<p>Un <b>ancien</b> est une personne qui possède de l'<data class=\"resource-ref\" data-content-id=\"fra-t8-v1.0.1\" data-resource-code=\"FIAKeyTerms\">autorité</data> dans une communauté. Dans l'Ancien Testament, un ancien était généralement le chef d'une famille ou d'un groupe de familles. Un groupe d'anciens se réunissait pour prendre des décisions concernant les affaires affectant leur communauté.</p><p>Dans le Nouveau Testament, les anciens sont des personnes qui ont de l'autorité dans une <data class=\"resource-ref\" data-content-id=\"fra-t24-v1\" data-resource-code=\"FIAKeyTerms\">Église</data>. Les <data class=\"resource-ref\" data-content-id=\"fra-t6-v1\" data-resource-code=\"FIAKeyTerms\">apôtres</data>, comme Paul, nommaient les anciens. Les apôtres choisissent des personnes qui étaient respectées par les autres dans la communauté de l'Église et les nommaient anciens. Un ancien devait être prêt à servir les autres et devait être sans reproche.</p><p><strong>Pour traduire le mot « ancien », il faut faire attention aux choses suivantes :</strong></p><p>Pour traduire ce mot, faites attention à ne pas utiliser un mot qui signifie juste « personne âgée ». Un ancien n'était pas nécessairement une personne âgée, bien qu'il ne pouvait pas être une très jeune personne non plus.</p>",
+"content": "<p id=\"khOWxBAolQNzVquxuuMi\">Un <b id=\"hGtQlTUoselSwU2Fduqe\">ancien</b> est une personne qui possède de l'<a id=\"HSiDuEbAAjTbkOyzFMjg\" href=\"#t8\">autorité</a> dans une communauté. Dans l'Ancien Testament, un ancien était généralement le chef d'une famille ou d'un groupe de familles. Un groupe d'anciens se réunissait pour prendre des décisions concernant les affaires affectant leur communauté.</p><p id=\"GZOoBSssGAF5sT6kAGrV\">Dans le Nouveau Testament, les anciens sont des personnes qui ont de l'autorité dans une <a id=\"eyyaJ5rqMOCz6mIsfdqu\" href=\"#t24\">Église</a>. Les <a id=\"bC4pJLblNWBgBIQD95Zn\" href=\"#t6\">apôtres</a>, comme Paul, nommaient les anciens. Les apôtres choisissent des personnes qui étaient respectées par les autres dans la communauté de l'Église et les nommaient anciens. Un ancien devait être prêt à servir les autres et devait être sans reproche.</p><p id=\"NaQBIMdJZWBMa6xAQ9ek\"><strong id=\"TKSdsKnl989rMMJk6OXk\">Pour traduire le mot « ancien », il faut faire attention aux choses suivantes :</strong></p><p id=\"GkHxRnIHj1ANgKr3uvo1\">Pour traduire ce mot, faites attention à ne pas utiliser un mot qui signifie juste « personne âgée ». Un ancien n'était pas nécessairement une personne âgée, bien qu'il ne pouvait pas être une très jeune personne non plus.</p>",
 "associations": {
 "passage": [
 {
@@ -4112,27 +3919,6 @@
 }
 ],
 "resource": [
-{
-"reference_id": 0,
-"content_id": "fra-t8-v1.0.1",
-"resource_code": "FIAKeyTerms",
-"label": "autorité",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t24-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Église",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t6-v1",
-"resource_code": "FIAKeyTerms",
-"label": "apôtres",
-"language": "fra"
-},
 {
 "reference_id": 0,
 "content_id": "fra-t43-v1-audio",
@@ -4765,7 +4551,7 @@
 "index_reference": "âne ou ânesse",
 "language": "fra",
 "review_level": "None",
-"content": "<p>Un <b>âne</b> est un animal assez grand pour transporter de lourdes charges ou une personne. La femelle de l'âne s'appelle une ânesse. Les gens avaient des ânes pour les aider au travail des champs, pour porter des fardeaux, ou pour transporter des personnes. Un âne était vu comme un animal de paix, contrairement au cheval. En effet, le cheval est un plus grand animal que l'âne et pouvait être monté par un cavalier dans une bataille.</p>",
+"content": "<p id=\"yiduwdGaQFtAfl6yK48s\">Un <b id=\"kk9bd391gMiEqJMZPLDr\">âne</b> est un animal assez grand pour transporter de lourdes charges ou une personne. La femelle de l'âne s'appelle une ânesse. Les gens avaient des ânes pour les aider au travail des champs, pour porter des fardeaux, ou pour transporter des personnes. Un âne était vu comme un animal de paix, contrairement au cheval. En effet, le cheval est un plus grand animal que l'âne et pouvait être monté par un cavalier dans une bataille.</p>",
 "associations": {
 "passage": [
 {
@@ -4989,6 +4775,12 @@
 "start_ref_usfm": "NEH 7:66",
 "end_ref": "16007073",
 "end_ref_usfm": "NEH 7:73"
+},
+{
+"start_ref": "16013015",
+"start_ref_usfm": "NEH 13:15",
+"end_ref": "16013022",
+"end_ref_usfm": "NEH 13:22"
 },
 {
 "start_ref": "41011001",
@@ -5258,6 +5050,12 @@
 "end_ref_usfm": "NEH 7:73"
 },
 {
+"start_ref": "16013015",
+"start_ref_usfm": "NEH 13:15",
+"end_ref": "16013022",
+"end_ref_usfm": "NEH 13:22"
+},
+{
 "start_ref": "41011001",
 "start_ref_usfm": "MRK 11:1",
 "end_ref": "41011011",
@@ -5290,7 +5088,7 @@
 "index_reference": "ange",
 "language": "fra",
 "review_level": "None",
-"content": "<p>Un <b>ange</b> est un être spirituel et surnaturel créé par Dieu. Les anges annoncent des messages de Dieu aux gens ; par exemple, un ange a dit à <data class=\"resource-ref\" data-content-id=\"fra-t89-v1\" data-resource-code=\"FIAKeyTerms\">Marie</data> qu'elle serait enceinte grâce à la puissance de Dieu. Parfois, un ange donne un message à quelqu'un dans un rêve ; par exemple, un ange a dit à Joseph dans un rêve de fuir en Égypte avec Marie et Jésus.</p><p>Parfois, un ange ressemble à une personne normale. Cependant, parfois, les anges peuvent avoir une apparence très brillante et avoir l'air effrayant. Souvent, la première chose qu'ils devaient dire aux gens était de ne pas craindre, c'est-à-dire de ne pas avoir peur.</p><p>Un ange peut aussi accomplir un travail spécifique pour Dieu. Les anges peuvent aider les gens ou les protéger ; par exemple, toute une armée d’anges entoure le <data class=\"resource-ref\" data-content-id=\"fra-t104-v1\" data-resource-code=\"FIAKeyTerms\">prophète</data> Elisée lorsque le roi araméen essaie de le capturer.</p><p>Dieu utilise aussi les anges pour punir les gens. Par exemple, après le refus de pharaon de laisser les <data class=\"resource-ref\" data-content-id=\"fra-t259-v2\" data-resource-code=\"FIAKeyTerms\">Israélites</data> partir, un ange tue les fils premiers-nés des Égyptiens. Le Nouveau Testament nous apprend que Dieu utilisera des anges au jugement dernier.</p><p>Une autre tâche très importante des anges est d'<data class=\"resource-ref\" data-content-id=\"fra-t149-v1\" data-resource-code=\"FIAKeyTerms\">adorer</data> Dieu. C'est particulièrement évident dans le livre de l'Apocalypse.</p><p>Les archanges sont un type important d'anges. Un archange a une <data class=\"resource-ref\" data-content-id=\"fra-t8-v1.0.1\" data-resource-code=\"FIAKeyTerms\">autorité</data> spéciale. La Bible mentionne deux archanges spécifiquement par leur nom : <data class=\"resource-ref\" data-content-id=\"fra-t54-v1\" data-resource-code=\"FIAKeyTerms\">Gabriel</data> et Michel.</p><p>Tous les anges ne sont pas restés obéissants à Dieu. Certains se sont rebellés. Ils sont devenus des <data class=\"resource-ref\" data-content-id=\"fra-t47-v1\" data-resource-code=\"FIAKeyTerms\">esprits maléfiques</data>. Le nom de leur chef est <data class=\"resource-ref\" data-content-id=\"fra-t118-v1.0.1\" data-resource-code=\"FIAKeyTerms\">Satan</data>.</p><p><strong>Pour traduire le mot « ange », faites attention aux choses suivantes :</strong></p><p>Il est important que les gens ne confondent pas le mot « ange » avec le mot que vous avez choisi pour traduire « <data class=\"resource-ref\" data-content-id=\"fra-t104-v1\" data-resource-code=\"FIAKeyTerms\">prophète</data> ». Un prophète annonce aussi des messages de Dieu aux gens, mais un prophète est un être humain, un être terrestre, tandis qu'un ange est un être surnaturel céleste (c'est-à-dire qui appartient au <data class=\"resource-ref\" data-content-id=\"fra-t63-v1\" data-resource-code=\"FIAKeyTerms\">ciel</data>).</p>",
+"content": "<p id=\"Q8dBXmj7ZOWnpMX78vQl\">Un <b id=\"KGk6oVFzVM8MbQkCphV2\">ange</b> est un être spirituel et surnaturel créé par Dieu. Les anges annoncent des messages de Dieu aux gens ; par exemple, un ange a dit à <a id=\"XQf8kBc6XZeQNPJ5RQ7C\" href=\"#t89\">Marie</a> qu'elle serait enceinte grâce à la puissance de Dieu. Parfois, un ange donne un message à quelqu'un dans un rêve ; par exemple, un ange a dit à Joseph dans un rêve de fuir en Égypte avec Marie et Jésus.</p><p id=\"UxR0e2Dk0Pd1dTtC8rZp\">Parfois, un ange ressemble à une personne normale. Cependant, parfois, les anges peuvent avoir une apparence très brillante et avoir l'air effrayant. Souvent, la première chose qu'ils devaient dire aux gens était de ne pas craindre, c'est-à-dire de ne pas avoir peur.</p><p id=\"VkCFW77LlUZpaf55gnut\">Un ange peut aussi accomplir un travail spécifique pour Dieu. Les anges peuvent aider les gens ou les protéger ; par exemple, toute une armée d’anges entoure le <a id=\"uKwV1C8dr5xoVodKMR2f\" href=\"#t104\">prophète</a> Elisée lorsque le roi araméen essaie de le capturer.</p><p id=\"CSxMo0DENNdwCvn0KAWw\">Dieu utilise aussi les anges pour punir les gens. Par exemple, après le refus de pharaon de laisser les <a id=\"TYkcqDCItTZrs3ChDGR6\" href=\"#t259\">Israélites</a> partir, un ange tue les fils premiers-nés des Égyptiens. Le Nouveau Testament nous apprend que Dieu utilisera des anges au jugement dernier.</p><p id=\"qiGY1ZJdRNN6tQtqQKYO\">Une autre tâche très importante des anges est d'<a id=\"ISrwE7s8zblULO7LfaP8\" href=\"#t149\">adorer</a> Dieu. C'est particulièrement évident dans le livre de l'Apocalypse.</p><p id=\"kwTxetC1gMlRTmlusSXA\">Les archanges sont un type important d'anges. Un archange a une <a id=\"SZDUBWYBPsYpOh8aPAaq\" href=\"#t8\">autorité</a> spéciale. La Bible mentionne deux archanges spécifiquement par leur nom : <a id=\"Ar1jVAkSDOtcuodiGGaG\" href=\"#t54\">Gabriel</a> et Michel.</p><p id=\"PUVEQWg8iS3j5Qwt7MsO\">Tous les anges ne sont pas restés obéissants à Dieu. Certains se sont rebellés. Ils sont devenus des <a id=\"mDHH9RynLqgqVKvOjPiJ\" href=\"#t47\">esprits maléfiques</a>. Le nom de leur chef est <a id=\"WYqYKSnckmhZaE1iLkKJ\" href=\"#t118\">Satan</a>.</p><p id=\"Vhj9zpmARSkrAdxCJTQd\"><strong id=\"gC80NXTkhyu97VbAZnoZ\">Pour traduire le mot « ange », faites attention aux choses suivantes :</strong></p><p id=\"mx0MwEF2Nq6leNXfjKt5\">Il est important que les gens ne confondent pas le mot « ange » avec le mot que vous avez choisi pour traduire « <a id=\"gpfBWYsiPPZtEZsfZexy\" href=\"#t104\">prophète</a> ». Un prophète annonce aussi des messages de Dieu aux gens, mais un prophète est un être humain, un être terrestre, tandis qu'un ange est un être surnaturel céleste (c'est-à-dire qui appartient au <a id=\"c8Hv4JzMrw1KODvqAnYx\" href=\"#t63\">ciel</a>).</p>",
 "associations": {
 "passage": [
 {
@@ -5436,6 +5234,30 @@
 "start_ref_usfm": "PSA 8:1",
 "end_ref": "19008009",
 "end_ref_usfm": "PSA 8:9"
+},
+{
+"start_ref": "27003019",
+"start_ref_usfm": "DAN 3:19",
+"end_ref": "27003030",
+"end_ref_usfm": "DAN 3:30"
+},
+{
+"start_ref": "27004009",
+"start_ref_usfm": "DAN 4:9",
+"end_ref": "27004018",
+"end_ref_usfm": "DAN 4:18"
+},
+{
+"start_ref": "27004019",
+"start_ref_usfm": "DAN 4:19",
+"end_ref": "27004027",
+"end_ref_usfm": "DAN 4:27"
+},
+{
+"start_ref": "27006019",
+"start_ref_usfm": "DAN 6:19",
+"end_ref": "27006028",
+"end_ref_usfm": "DAN 6:28"
 },
 {
 "start_ref": "40001018",
@@ -5807,76 +5629,6 @@
 "resource": [
 {
 "reference_id": 0,
-"content_id": "fra-t89-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Marie",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t104-v1",
-"resource_code": "FIAKeyTerms",
-"label": "prophète",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t259-v2",
-"resource_code": "FIAKeyTerms",
-"label": "Israélites",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t149-v1",
-"resource_code": "FIAKeyTerms",
-"label": "adorer",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t8-v1.0.1",
-"resource_code": "FIAKeyTerms",
-"label": "autorité",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t54-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Gabriel",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t47-v1",
-"resource_code": "FIAKeyTerms",
-"label": "esprits maléfiques",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t118-v1.0.1",
-"resource_code": "FIAKeyTerms",
-"label": "Satan",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t104-v1",
-"resource_code": "FIAKeyTerms",
-"label": "prophète",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t63-v1",
-"resource_code": "FIAKeyTerms",
-"label": "ciel",
-"language": "fra"
-},
-{
-"reference_id": 0,
 "content_id": "fra-t4-v1.0.1-audio",
 "resource_code": "FIAKeyTerms",
 "label": "ange",
@@ -6041,6 +5793,30 @@
 "start_ref_usfm": "PSA 8:1",
 "end_ref": "19008009",
 "end_ref_usfm": "PSA 8:9"
+},
+{
+"start_ref": "27003019",
+"start_ref_usfm": "DAN 3:19",
+"end_ref": "27003030",
+"end_ref_usfm": "DAN 3:30"
+},
+{
+"start_ref": "27004009",
+"start_ref_usfm": "DAN 4:9",
+"end_ref": "27004018",
+"end_ref_usfm": "DAN 4:18"
+},
+{
+"start_ref": "27004019",
+"start_ref_usfm": "DAN 4:19",
+"end_ref": "27004027",
+"end_ref_usfm": "DAN 4:27"
+},
+{
+"start_ref": "27006019",
+"start_ref_usfm": "DAN 6:19",
+"end_ref": "27006028",
+"end_ref_usfm": "DAN 6:28"
 },
 {
 "start_ref": "40001018",
@@ -6429,7 +6205,7 @@
 "index_reference": "apôtre",
 "language": "fra",
 "review_level": "None",
-"content": "<p>Dans les <data class=\"resource-ref\" data-content-id=\"fra-t60-v1.0.1\" data-resource-code=\"FIAKeyTerms\">Évangiles</data>, Jésus choisit 12 <data class=\"resource-ref\" data-content-id=\"fra-t39-v1\" data-resource-code=\"FIAKeyTerms\">disciples</data>. Dans les Évangiles, ces disciples sont déjà parfois appelés <b>apôtres</b>. Dans le livre des Actes, ces mêmes personnes, ainsi que d'autres, sont désormais appelées apôtres. Quelle est la différence ?</p><p>Un <em>disciple</em> est une personne qui s'est engagée à suivre Jésus. Cela ne veut pas dire que seuls les 12 disciples étaient des disciples de Jésus. Les disciples de Jésus sont toutes les personnes qui le suivent et qui apprennent de lui.</p><p>Un <em>apôtre</em> est une personne à qui Jésus a donné une <data class=\"resource-ref\" data-content-id=\"fra-t8-v1.0.1\" data-resource-code=\"FIAKeyTerms\">autorité</data> spéciale. C'est quelqu'un qui est nommé ou désigné. Il parle au nom de Jésus.</p><p>Dans les Évangiles, les 12 disciples sont parfois appelés apôtres, surtout lorsque Jésus les envoie faire quelque chose. Cependant, dans le livre des Actes, les 12 disciples sont toujours appelés des « apôtres ». Cela montre qu'ils ont désormais de l'autorité. Jésus leur a donné la mission de poursuivre le travail qu'il a commencé. Ils ne font pas leur propre travail ; ils font celui de Jésus.</p><p>C'est le travail qu'un apôtre est censé faire :</p><ol><li>Un apôtre témoigne auprès d'autres personnes que Jésus est vraiment ressuscité des morts. Les apôtres avaient été avec Jésus, ils savaient qu'il était vraiment mort, et ils l'avaient vu après sa résurrection. Ils peuvent donc dire aux autres que sa résurrection est réelle.</li><li>Un apôtre prêche l'Évangile à tous les peuples et établit des Églises.</li><li>Un apôtre a de l'autorité dans l'<data class=\"resource-ref\" data-content-id=\"fra-t24-v1\" data-resource-code=\"FIAKeyTerms\">Église</data>. Dieu avait donné aux apôtres l'autorité de prendre des décisions concernant des questions spirituelles. C\"étaient les représentants de Jésus dans l'Église. Dieu leur avait également donné le pouvoir de faire des <data class=\"resource-ref\" data-content-id=\"fra-t93-v1\" data-resource-code=\"FIAKeyTerms\">miracles</data>. C'était la preuve pour les autres que leur autorité venait vraiment de Dieu.</li></ol>",
+"content": "<p id=\"0j79xWMMomI7S5NJs0sB\">Dans les <a id=\"n66yOJKDyDi6dn7c5kof\" href=\"#t60\">Évangiles</a>, Jésus choisit 12 <a id=\"i85P9mQuiye82qVdB5bb\" href=\"#t39\">disciples</a>. Dans les Évangiles, ces disciples sont déjà parfois appelés <b id=\"uOSEZhxwtJYlh4247Nk9\">apôtres</b>. Dans le livre des Actes, ces mêmes personnes, ainsi que d'autres, sont désormais appelées apôtres. Quelle est la différence ?</p><p id=\"VIKuUfvFUtVdsOjp7Dmh\">Un <em id=\"SjjXKYVt7Pp0RKRS4vdk\">disciple</em> est une personne qui s'est engagée à suivre Jésus. Cela ne veut pas dire que seuls les 12 disciples étaient des disciples de Jésus. Les disciples de Jésus sont toutes les personnes qui le suivent et qui apprennent de lui.</p><p id=\"5hOrLjVcItlSxh2PfnaX\">Un <em id=\"Jwjau5Elv1tYPJc3xYBA\">apôtre</em> est une personne à qui Jésus a donné une <a id=\"0MXTXKJNGeh2zyLaCDhr\" href=\"#t8\">autorité</a> spéciale. C'est quelqu'un qui est nommé ou désigné. Il parle au nom de Jésus.</p><p id=\"rLK7whXv9OuQak6ptLD2\">Dans les Évangiles, les 12 disciples sont parfois appelés apôtres, surtout lorsque Jésus les envoie faire quelque chose. Cependant, dans le livre des Actes, les 12 disciples sont toujours appelés des « apôtres ». Cela montre qu'ils ont désormais de l'autorité. Jésus leur a donné la mission de poursuivre le travail qu'il a commencé. Ils ne font pas leur propre travail ; ils font celui de Jésus.</p><p id=\"FhAJ4Mw1FPMf9cONu0un\">C'est le travail qu'un apôtre est censé faire :</p><ol id=\"NjVW5Dt5DbwscYPC3Efy\"><li id=\"80C0IZ3aEsc0rnd8vWKD\">Un apôtre témoigne auprès d'autres personnes que Jésus est vraiment ressuscité des morts. Les apôtres avaient été avec Jésus, ils savaient qu'il était vraiment mort, et ils l'avaient vu après sa résurrection. Ils peuvent donc dire aux autres que sa résurrection est réelle.</li><li id=\"kdg2yJF9fsc6QG5XVwju\">Un apôtre prêche l'Évangile à tous les peuples et établit des Églises.</li><li id=\"6ozaOfRTj8YWyB2ragHi\">Un apôtre a de l'autorité dans l'<a id=\"X6T1khqWvxUUiwh9mlmZ\" href=\"#t24\">Église</a>. Dieu avait donné aux apôtres l'autorité de prendre des décisions concernant des questions spirituelles. C\"étaient les représentants de Jésus dans l'Église. Dieu leur avait également donné le pouvoir de faire des <a id=\"QTQZuQoSAnbxBpzEB8Jc\" href=\"#t93\">miracles</a>. C'était la preuve pour les autres que leur autorité venait vraiment de Dieu.</li></ol>",
 "associations": {
 "passage": [
 {
@@ -6758,41 +6534,6 @@
 }
 ],
 "resource": [
-{
-"reference_id": 0,
-"content_id": "fra-t60-v1.0.1",
-"resource_code": "FIAKeyTerms",
-"label": "Évangiles",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t39-v1",
-"resource_code": "FIAKeyTerms",
-"label": "disciples",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t8-v1.0.1",
-"resource_code": "FIAKeyTerms",
-"label": "autorité",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t24-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Église",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t93-v1",
-"resource_code": "FIAKeyTerms",
-"label": "miracles",
-"language": "fra"
-},
 {
 "reference_id": 0,
 "content_id": "fra-t6-v1-audio",
@@ -7851,7 +7592,7 @@
 "index_reference": "autorité",
 "language": "fra",
 "review_level": "None",
-"content": "<p>Une personne qui a de l'<b>autorité</b> a le droit et le pouvoir de prendre des décisions et de rendre des jugements. L'autorité la plus élevée appartient à Dieu. Dieu peut donner de l'autorité à d'autres personnes de prendre des décisions ou de juger en son nom. Il montre souvent qu'il a donné de l'autorité aux gens en leur donnant également le pouvoir de faire des <data class=\"resource-ref\" data-content-id=\"fra-t93-v1\" data-resource-code=\"FIAKeyTerms\">miracles</data>.</p><p>Jésus a autorité parce qu'il est le <data class=\"resource-ref\" data-content-id=\"fra-t226-v1\" data-resource-code=\"FIAKeyTerms\">roi</data> et parce que c'est Dieu qui l'a envoyé.</p><p>Les <data class=\"resource-ref\" data-content-id=\"fra-t6-v1\" data-resource-code=\"FIAKeyTerms\">apôtres</data> avaient de l'autorité dans l'<data class=\"resource-ref\" data-content-id=\"fra-t24-v1\" data-resource-code=\"FIAKeyTerms\">Église</data>, parce que Jésus la leur avait donnée. Les autres devaient accepter leurs décisions.</p><p>La Bible est une autorité parce que Dieu parle au peuple par son intermédiaire. Cela veut dire que les gens doivent écouter ce que Dieu leur dit par la Bible.</p>",
+"content": "<p id=\"vcP6mDh0Tjbj2qhq6Gqb\">Une personne qui a de l'<b id=\"nzvY8iZiLOJrtnivYVV6\">autorité</b> a le droit et le pouvoir de prendre des décisions et de rendre des jugements. L'autorité la plus élevée appartient à Dieu. Dieu peut donner de l'autorité à d'autres personnes de prendre des décisions ou de juger en son nom. Il montre souvent qu'il a donné de l'autorité aux gens en leur donnant également le pouvoir de faire des <a id=\"3atoPA3mpQLdYURblv9r\" href=\"#t93\">miracles</a>.</p><p id=\"HW6t0nkfdIZnlX4xgcBi\">Jésus a autorité parce qu'il est le <a id=\"DwHXvWmdGBOcd152ZXd6\" href=\"#t226\">roi</a> et parce que c'est Dieu qui l'a envoyé.</p><p id=\"ROprlLi12UF7JqTS6hnw\">Les <a id=\"yi7dzo2l91v5hEGoQsQT\" href=\"#t6\">apôtres</a> avaient de l'autorité dans l'<a id=\"3JJANH6Ty9kmRQiyh9GI\" href=\"#t24\">Église</a>, parce que Jésus la leur avait donnée. Les autres devaient accepter leurs décisions.</p><p id=\"p7l9jWbuzqZisX9MDJ6Q\">La Bible est une autorité parce que Dieu parle au peuple par son intermédiaire. Cela veut dire que les gens doivent écouter ce que Dieu leur dit par la Bible.</p>",
 "associations": {
 "passage": [
 {
@@ -7883,6 +7624,24 @@
 "start_ref_usfm": "EXO 22:25",
 "end_ref": "02022031",
 "end_ref_usfm": "EXO 22:31"
+},
+{
+"start_ref": "27004028",
+"start_ref_usfm": "DAN 4:28",
+"end_ref": "27004037",
+"end_ref_usfm": "DAN 4:37"
+},
+{
+"start_ref": "27007001",
+"start_ref_usfm": "DAN 7:1",
+"end_ref": "27007008",
+"end_ref_usfm": "DAN 7:8"
+},
+{
+"start_ref": "27007009",
+"start_ref_usfm": "DAN 7:9",
+"end_ref": "27007014",
+"end_ref_usfm": "DAN 7:14"
 },
 {
 "start_ref": "40010001",
@@ -8038,34 +7797,6 @@
 "resource": [
 {
 "reference_id": 0,
-"content_id": "fra-t93-v1",
-"resource_code": "FIAKeyTerms",
-"label": "miracles",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t226-v1",
-"resource_code": "FIAKeyTerms",
-"label": "roi",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t6-v1",
-"resource_code": "FIAKeyTerms",
-"label": "apôtres",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t24-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Église",
-"language": "fra"
-},
-{
-"reference_id": 0,
 "content_id": "fra-t8-v1.0.1-audio",
 "resource_code": "FIAKeyTerms",
 "label": "autorité",
@@ -8076,7 +7807,7 @@
 {
 "id": "keyterm:Authority.2",
 "type": "keyterm",
-"confidence": 0.5885,
+"confidence": 0.5858,
 "match_method": "scored",
 "preferred_label": "autorité"
 }
@@ -8124,6 +7855,24 @@
 "start_ref_usfm": "EXO 22:25",
 "end_ref": "02022031",
 "end_ref_usfm": "EXO 22:31"
+},
+{
+"start_ref": "27004028",
+"start_ref_usfm": "DAN 4:28",
+"end_ref": "27004037",
+"end_ref_usfm": "DAN 4:37"
+},
+{
+"start_ref": "27007001",
+"start_ref_usfm": "DAN 7:1",
+"end_ref": "27007008",
+"end_ref_usfm": "DAN 7:8"
+},
+{
+"start_ref": "27007009",
+"start_ref_usfm": "DAN 7:9",
+"end_ref": "27007014",
+"end_ref_usfm": "DAN 7:14"
 },
 {
 "start_ref": "40010001",

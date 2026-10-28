@@ -8,7 +8,7 @@
 "index_reference": "筐子箱子篮子",
 "language": "zhs",
 "review_level": "None",
-"content": "<p>人们使用<b>筐子</b>来搬运或存放东西。人们通过将细木棒，植物的茎或芦苇编织在一起来制作筐子。 芦苇是一种生长在水中的植物。</p><p>有些筐子很小，人们把它们背在身上。人们用这些筐子来装食物。另外有些筐子比较大，当筐子装满时，可能需要两个人来搬运。例如，渔夫用这些筐来收集他们捕获的鱼，并将其带到市场。</p>",
+"content": "<p id=\"mbFtF3JzwGHqKfShZHhU\">人们使用<b id=\"9TJ7i8vKsmyJ09F0qAzC\">筐子</b>来搬运或存放东西。人们通过将细木棒，植物的茎或芦苇编织在一起来制作筐子。 芦苇是一种生长在水中的植物。</p><p id=\"9q8LCcI2cqoAvySnTTz5\">有些筐子很小，人们把它们背在身上。人们用这些筐子来装食物。另外有些筐子比较大，当筐子装满时，可能需要两个人来搬运。例如，渔夫用这些筐来收集他们捕获的鱼，并将其带到市场。</p>",
 "associations": {
 "passage": [
 {
@@ -99,7 +99,7 @@
 "index_reference": "旷野",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><data class=\"resource-ref\" data-content-id=\"zhs-t38-v1\" data-resource-code=\"FIAKeyTerms\">沙漠</data>或<b>旷野</b>是孤独、贫瘠的无水之地。 沙漠中几乎没有树木或灌木丛生长。 地面干燥，多石头，野生动物四处游走。 人们不住在沙漠中。</p>",
+"content": "<p id=\"UhVfR0kZxE0Q6BqS3mwa\"><a id=\"iPFnkSqjHZmTQ09bJj3G\" href=\"#t38\">沙漠</a>或<b id=\"M6uBuM8wATM1Wizwrg9R\">旷野</b>是孤独、贫瘠的无水之地。 沙漠中几乎没有树木或灌木丛生长。 地面干燥，多石头，野生动物四处游走。 人们不住在沙漠中。</p>",
 "associations": {
 "passage": [
 {
@@ -673,6 +673,12 @@
 "end_ref_usfm": "2CH 28:27"
 },
 {
+"start_ref": "16009016",
+"start_ref_usfm": "NEH 9:16",
+"end_ref": "16009025",
+"end_ref_usfm": "NEH 9:25"
+},
+{
 "start_ref": "40003001",
 "start_ref_usfm": "MAT 3:1",
 "end_ref": "40003017",
@@ -695,23 +701,9 @@
 "start_ref_usfm": "MRK 8:1",
 "end_ref": "41008010",
 "end_ref_usfm": "MRK 8:10"
-},
-{
-"start_ref": "42001057",
-"start_ref_usfm": "LUK 1:57",
-"end_ref": "42001080",
-"end_ref_usfm": "LUK 1:80"
 }
 ],
-"resource": [
-{
-"reference_id": 0,
-"content_id": "zhs-t38-v1",
-"resource_code": "FIAKeyTerms",
-"label": "沙漠",
-"language": "zhs"
-}
-],
+"resource": [],
 "acai": [
 {
 "id": "place:Arabah",

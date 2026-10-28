@@ -8,7 +8,7 @@
 "index_reference": "nation",
 "language": "fra",
 "review_level": "None",
-"content": "<p>Une <b>nation</b> est un groupe de personnes qui sont unies, qui vivent dans un même pays et qui ont un même dirigeant.</p><p>Quand il est question de « toutes les nations de la terre » dans la Bible, c'est une autre façon de dire « tous les gens qui vivent sur la terre » ou « tous les gens de tous les pays du monde ».</p>",
+"content": "<p id=\"bm0Nwh2n1RdjeqqPTIdk\">Une <b id=\"7LM1JsqTFz4JDljF4ABo\">nation</b> est un groupe de personnes qui sont unies, qui vivent dans un même pays et qui ont un même dirigeant.</p><p id=\"9PWIOPUXSQJy5wesAl2k\">Quand il est question de « toutes les nations de la terre » dans la Bible, c'est une autre façon de dire « tous les gens qui vivent sur la terre » ou « tous les gens de tous les pays du monde ».</p>",
 "associations": {
 "passage": [
 {
@@ -348,6 +348,12 @@
 "end_ref_usfm": "2KI 17:41"
 },
 {
+"start_ref": "12018026",
+"start_ref_usfm": "2KI 18:26",
+"end_ref": "12018037",
+"end_ref_usfm": "2KI 18:37"
+},
+{
 "start_ref": "13014008",
 "start_ref_usfm": "1CH 14:8",
 "end_ref": "13014017",
@@ -450,6 +456,18 @@
 "end_ref_usfm": "NEH 7:4"
 },
 {
+"start_ref": "16009016",
+"start_ref_usfm": "NEH 9:16",
+"end_ref": "16009025",
+"end_ref_usfm": "NEH 9:25"
+},
+{
+"start_ref": "16013023",
+"start_ref_usfm": "NEH 13:23",
+"end_ref": "16013031",
+"end_ref_usfm": "NEH 13:31"
+},
+{
 "start_ref": "19117001",
 "start_ref_usfm": "PSA 117:1",
 "end_ref": "19117002",
@@ -460,6 +478,42 @@
 "start_ref_usfm": "ISA 5:26",
 "end_ref": "23005030",
 "end_ref_usfm": "ISA 5:30"
+},
+{
+"start_ref": "27003001",
+"start_ref_usfm": "DAN 3:1",
+"end_ref": "27003007",
+"end_ref_usfm": "DAN 3:7"
+},
+{
+"start_ref": "27003019",
+"start_ref_usfm": "DAN 3:19",
+"end_ref": "27003030",
+"end_ref_usfm": "DAN 3:30"
+},
+{
+"start_ref": "27004001",
+"start_ref_usfm": "DAN 4:1",
+"end_ref": "27004008",
+"end_ref_usfm": "DAN 4:8"
+},
+{
+"start_ref": "27005013",
+"start_ref_usfm": "DAN 5:13",
+"end_ref": "27005031",
+"end_ref_usfm": "DAN 5:31"
+},
+{
+"start_ref": "27006019",
+"start_ref_usfm": "DAN 6:19",
+"end_ref": "27006028",
+"end_ref_usfm": "DAN 6:28"
+},
+{
+"start_ref": "27007009",
+"start_ref_usfm": "DAN 7:9",
+"end_ref": "27007014",
+"end_ref_usfm": "DAN 7:14"
 },
 {
 "start_ref": "40021033",
@@ -556,30 +610,6 @@
 "start_ref_usfm": "ACT 17:22",
 "end_ref": "44017034",
 "end_ref_usfm": "ACT 17:34"
-},
-{
-"start_ref": "44024001",
-"start_ref_usfm": "ACT 24:1",
-"end_ref": "44024009",
-"end_ref_usfm": "ACT 24:9"
-},
-{
-"start_ref": "44026001",
-"start_ref_usfm": "ACT 26:1",
-"end_ref": "44026023",
-"end_ref_usfm": "ACT 26:23"
-},
-{
-"start_ref": "44028017",
-"start_ref_usfm": "ACT 28:17",
-"end_ref": "44028031",
-"end_ref_usfm": "ACT 28:31"
-},
-{
-"start_ref": "54003014",
-"start_ref_usfm": "1TI 3:14",
-"end_ref": "54003016",
-"end_ref_usfm": "1TI 3:16"
 }
 ],
 "resource": [
@@ -595,7 +625,7 @@
 {
 "id": "group:Gentile",
 "type": "group",
-"confidence": 0.5683,
+"confidence": 0.5667,
 "match_method": "scored",
 "preferred_label": "nation; peuple"
 }
@@ -951,6 +981,12 @@
 "end_ref_usfm": "2KI 17:41"
 },
 {
+"start_ref": "12018026",
+"start_ref_usfm": "2KI 18:26",
+"end_ref": "12018037",
+"end_ref_usfm": "2KI 18:37"
+},
+{
 "start_ref": "13014008",
 "start_ref_usfm": "1CH 14:8",
 "end_ref": "13014017",
@@ -1053,6 +1089,18 @@
 "end_ref_usfm": "NEH 7:4"
 },
 {
+"start_ref": "16009016",
+"start_ref_usfm": "NEH 9:16",
+"end_ref": "16009025",
+"end_ref_usfm": "NEH 9:25"
+},
+{
+"start_ref": "16013023",
+"start_ref_usfm": "NEH 13:23",
+"end_ref": "16013031",
+"end_ref_usfm": "NEH 13:31"
+},
+{
 "start_ref": "19117001",
 "start_ref_usfm": "PSA 117:1",
 "end_ref": "19117002",
@@ -1063,6 +1111,42 @@
 "start_ref_usfm": "ISA 5:26",
 "end_ref": "23005030",
 "end_ref_usfm": "ISA 5:30"
+},
+{
+"start_ref": "27003001",
+"start_ref_usfm": "DAN 3:1",
+"end_ref": "27003007",
+"end_ref_usfm": "DAN 3:7"
+},
+{
+"start_ref": "27003019",
+"start_ref_usfm": "DAN 3:19",
+"end_ref": "27003030",
+"end_ref_usfm": "DAN 3:30"
+},
+{
+"start_ref": "27004001",
+"start_ref_usfm": "DAN 4:1",
+"end_ref": "27004008",
+"end_ref_usfm": "DAN 4:8"
+},
+{
+"start_ref": "27005013",
+"start_ref_usfm": "DAN 5:13",
+"end_ref": "27005031",
+"end_ref_usfm": "DAN 5:31"
+},
+{
+"start_ref": "27006019",
+"start_ref_usfm": "DAN 6:19",
+"end_ref": "27006028",
+"end_ref_usfm": "DAN 6:28"
+},
+{
+"start_ref": "27007009",
+"start_ref_usfm": "DAN 7:9",
+"end_ref": "27007014",
+"end_ref_usfm": "DAN 7:14"
 },
 {
 "start_ref": "40021033",
@@ -1159,30 +1243,6 @@
 "start_ref_usfm": "ACT 17:22",
 "end_ref": "44017034",
 "end_ref_usfm": "ACT 17:34"
-},
-{
-"start_ref": "44024001",
-"start_ref_usfm": "ACT 24:1",
-"end_ref": "44024009",
-"end_ref_usfm": "ACT 24:9"
-},
-{
-"start_ref": "44026001",
-"start_ref_usfm": "ACT 26:1",
-"end_ref": "44026023",
-"end_ref_usfm": "ACT 26:23"
-},
-{
-"start_ref": "44028017",
-"start_ref_usfm": "ACT 28:17",
-"end_ref": "44028031",
-"end_ref_usfm": "ACT 28:31"
-},
-{
-"start_ref": "54003014",
-"start_ref_usfm": "1TI 3:14",
-"end_ref": "54003016",
-"end_ref_usfm": "1TI 3:16"
 }
 ],
 "resource": [
@@ -1205,7 +1265,7 @@
 "index_reference": "nazareth",
 "language": "fra",
 "review_level": "None",
-"content": "<p>À l'époque de Jésus, <b>Nazareth</b> était une petite ville située dans la région de <data class=\"resource-ref\" data-content-id=\"fra-t55-v1.0.1\" data-resource-code=\"FIAKeyTerms\">Galilée</data>, au nord d'<data class=\"resource-ref\" data-content-id=\"fra-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israël</data>. La ville de Nazareth n'est pas mentionnée dans l'Ancien Testament. La première fois que l'on en entend parler est lorsqu'il est dit que <data class=\"resource-ref\" data-content-id=\"fra-t89-v1\" data-resource-code=\"FIAKeyTerms\">Marie</data> et Joseph, les parents de Jésus, venaient de Nazareth. Jésus est né dans un village appelé <data class=\"resource-ref\" data-content-id=\"fra-t13-v1\" data-resource-code=\"FIAKeyTerms\">Bethléhem</data>, en <data class=\"resource-ref\" data-content-id=\"fra-t81-v1\" data-resource-code=\"FIAKeyTerms\">Judée</data>. Mais quand il était encore enfant, Marie et Joseph sont allés vivre à Nazareth. C'est pourquoi Jésus a été appelé plus tard « Nazaréen », ce qui signifie habitant de Nazareth. Le mot « Nazaréen » n'était pas un compliment. <data class=\"resource-ref\" data-content-id=\"fra-t77-v2\" data-resource-code=\"FIAKeyTerms\">Nazareth</data> se trouvait en Galilée et les Juifs de Judée méprisaient les Galiléens. Même les Galiléens méprisaient les Nazaréens en particulier, parce que c'était une petite ville sans importance.</p>",
+"content": "<p id=\"o2hOVtWwuVmsVal141w5\">À l'époque de Jésus, <b id=\"MJuNK54culerZ92Ow74Z\">Nazareth</b> était une petite ville située dans la région de <a id=\"pAaAYeuEYKczzwhZ07iq\" href=\"#t55\">Galilée</a>, au nord d'<a id=\"RfpOaE1bfCeiUbe1HWf6\" href=\"#t74\">Israël</a>. La ville de Nazareth n'est pas mentionnée dans l'Ancien Testament. La première fois que l'on en entend parler est lorsqu'il est dit que <a id=\"GaYIWXfFepnyprqYZ1YZ\" href=\"#t89\">Marie</a> et Joseph, les parents de Jésus, venaient de Nazareth. Jésus est né dans un village appelé <a id=\"lQJAnXvjkHEjLilU96vX\" href=\"#t13\">Bethléhem</a>, en <a id=\"VOvthtK8Zb6lXWe85kBR\" href=\"#t81\">Judée</a>. Mais quand il était encore enfant, Marie et Joseph sont allés vivre à Nazareth. C'est pourquoi Jésus a été appelé plus tard « Nazaréen », ce qui signifie habitant de Nazareth. Le mot « Nazaréen » n'était pas un compliment. <a id=\"vcHLh3scWeW2JfoaU6Ks\" href=\"#t77\">Nazareth</a> se trouvait en Galilée et les Juifs de Judée méprisaient les Galiléens. Même les Galiléens méprisaient les Nazaréens en particulier, parce que c'était une petite ville sans importance.</p>",
 "associations": {
 "passage": [
 {
@@ -1312,48 +1372,6 @@
 }
 ],
 "resource": [
-{
-"reference_id": 0,
-"content_id": "fra-t55-v1.0.1",
-"resource_code": "FIAKeyTerms",
-"label": "Galilée",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t74-v2",
-"resource_code": "FIAKeyTerms",
-"label": "Israël",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t89-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Marie",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t13-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Bethléhem",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t81-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Judée",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t77-v2",
-"resource_code": "FIAKeyTerms",
-"label": "Nazareth",
-"language": "fra"
-},
 {
 "reference_id": 0,
 "content_id": "fra-t95-v1-audio",

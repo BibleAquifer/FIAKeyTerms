@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Familiarization, Internalization, Articulation (FIA) Key Terms</b> © 2025 Word Collective Released under CC BY-SA 4.0 license. <cite>Familiarization, Internalization, Articulation (FIA) Key Terms</cite> has been adapted in the following languages Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Familiarization, Internalization, Articulation (FIA)</cite> © 2025 Word Collective. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "FIAKeyTerms",
-"date_created": "2026-10-05",
+"date_created": "2026-10-28",
 "language": "spa",
 "localizations": [
 "arb",
@@ -54,7 +54,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-10-05T18:57:44.454722"
+"dateCreated": "2026-10-28T06:07:48.027028"
 },
 "idAuthorities": {
 "aquifer": {
@@ -68,7 +68,7 @@
 "primary": {
 "aquifer": {
 "FIAKeyTerms": {
-"timestamp": "2026-10-05T18:57:44.454722"
+"timestamp": "2026-10-28T06:07:48.027028"
 }
 }
 },
@@ -343,7 +343,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 42651,
+"size": 43759,
 "scope": {
 "m": [
 "maestro",
@@ -424,7 +424,7 @@
 },
 "json/018.content.json": {
 "mimeType": "text/json",
-"size": 122901,
+"size": 122885,
 "scope": {
 "s": [
 "sabbath",
@@ -564,7 +564,7 @@
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 19861
+"size": 20193
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
@@ -608,7 +608,7 @@
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 18905
+"size": 19073
 },
 "md/022.content.md": {
 "mimeType": "text/markdown",
@@ -620,7 +620,7 @@
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
-"size": 60663
+"size": 60667
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",

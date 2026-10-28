@@ -233,14 +233,14 @@
 {
 "id": "place:Canaan",
 "type": "place",
-"confidence": 0.6508,
+"confidence": 0.6506,
 "match_method": "scored",
 "preferred_label": "Wakanaani"
 },
 {
 "id": "group:Canaan",
 "type": "group",
-"confidence": 0.6268,
+"confidence": 0.6271,
 "match_method": "scored",
 "preferred_label": "Canaanites"
 }
@@ -432,7 +432,7 @@
 {
 "id": "group:Hebrews",
 "type": "group",
-"confidence": 0.6283,
+"confidence": 0.6275,
 "match_method": "scored",
 "preferred_label": "Hebrews"
 }
@@ -1405,7 +1405,7 @@
 {
 "id": "keyterm:UnjustDeed",
 "type": "keyterm",
-"confidence": 0.5702,
+"confidence": 0.5701,
 "match_method": "scored",
 "preferred_label": "Unjust Deed"
 }

@@ -8,7 +8,7 @@
 "index_reference": "国",
 "language": "zhs",
 "review_level": "None",
-"content": "<p>一个<b>国</b>是一群属于同一个国家、住在同一个国家、拥有同一个统治者的人。</p><p>每当圣经谈到\"地上所有的国\"时，这是另一种说\"住在地上的所有的人\"的方式。</p>",
+"content": "<p id=\"bm0Nwh2n1RdjeqqPTIdk\">一个<b id=\"7LM1JsqTFz4JDljF4ABo\">国</b>是一群属于同一个国家、住在同一个国家、拥有同一个统治者的人。</p><p id=\"9PWIOPUXSQJy5wesAl2k\">每当圣经谈到\"地上所有的国\"时，这是另一种说\"住在地上的所有的人\"的方式。</p>",
 "associations": {
 "passage": [
 {
@@ -348,6 +348,12 @@
 "end_ref_usfm": "2KI 17:41"
 },
 {
+"start_ref": "12018026",
+"start_ref_usfm": "2KI 18:26",
+"end_ref": "12018037",
+"end_ref_usfm": "2KI 18:37"
+},
+{
 "start_ref": "13014008",
 "start_ref_usfm": "1CH 14:8",
 "end_ref": "13014017",
@@ -450,6 +456,18 @@
 "end_ref_usfm": "NEH 7:4"
 },
 {
+"start_ref": "16009016",
+"start_ref_usfm": "NEH 9:16",
+"end_ref": "16009025",
+"end_ref_usfm": "NEH 9:25"
+},
+{
+"start_ref": "16013023",
+"start_ref_usfm": "NEH 13:23",
+"end_ref": "16013031",
+"end_ref_usfm": "NEH 13:31"
+},
+{
 "start_ref": "19117001",
 "start_ref_usfm": "PSA 117:1",
 "end_ref": "19117002",
@@ -460,6 +478,42 @@
 "start_ref_usfm": "ISA 5:26",
 "end_ref": "23005030",
 "end_ref_usfm": "ISA 5:30"
+},
+{
+"start_ref": "27003001",
+"start_ref_usfm": "DAN 3:1",
+"end_ref": "27003007",
+"end_ref_usfm": "DAN 3:7"
+},
+{
+"start_ref": "27003019",
+"start_ref_usfm": "DAN 3:19",
+"end_ref": "27003030",
+"end_ref_usfm": "DAN 3:30"
+},
+{
+"start_ref": "27004001",
+"start_ref_usfm": "DAN 4:1",
+"end_ref": "27004008",
+"end_ref_usfm": "DAN 4:8"
+},
+{
+"start_ref": "27005013",
+"start_ref_usfm": "DAN 5:13",
+"end_ref": "27005031",
+"end_ref_usfm": "DAN 5:31"
+},
+{
+"start_ref": "27006019",
+"start_ref_usfm": "DAN 6:19",
+"end_ref": "27006028",
+"end_ref_usfm": "DAN 6:28"
+},
+{
+"start_ref": "27007009",
+"start_ref_usfm": "DAN 7:9",
+"end_ref": "27007014",
+"end_ref_usfm": "DAN 7:14"
 },
 {
 "start_ref": "40021033",
@@ -556,30 +610,6 @@
 "start_ref_usfm": "ACT 17:22",
 "end_ref": "44017034",
 "end_ref_usfm": "ACT 17:34"
-},
-{
-"start_ref": "44024001",
-"start_ref_usfm": "ACT 24:1",
-"end_ref": "44024009",
-"end_ref_usfm": "ACT 24:9"
-},
-{
-"start_ref": "44026001",
-"start_ref_usfm": "ACT 26:1",
-"end_ref": "44026023",
-"end_ref_usfm": "ACT 26:23"
-},
-{
-"start_ref": "44028017",
-"start_ref_usfm": "ACT 28:17",
-"end_ref": "44028031",
-"end_ref_usfm": "ACT 28:31"
-},
-{
-"start_ref": "54003014",
-"start_ref_usfm": "1TI 3:14",
-"end_ref": "54003016",
-"end_ref_usfm": "1TI 3:16"
 }
 ],
 "resource": [],
@@ -587,7 +617,7 @@
 {
 "id": "group:Gentile",
 "type": "group",
-"confidence": 0.5683,
+"confidence": 0.5667,
 "match_method": "scored",
 "preferred_label": "Gentiles"
 }
@@ -603,7 +633,7 @@
 "index_reference": "国",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><b>国</b>是一个<data class=\"resource-ref\" data-content-id=\"zhs-t226-v1\" data-resource-code=\"FIAKeyTerms\">王</data>所统治的领土或人民。</p>",
+"content": "<p id=\"Wb6mhlDFH3UqRZeaNFBF\"><b id=\"vlNcgeu3fNLQ3s3hwsgW\">国</b>是一个<a id=\"WFzUpuhUO6um0ZS4qBq2\" href=\"#t226\">王</a>所统治的领土或人民。</p>",
 "associations": {
 "passage": [
 {
@@ -979,6 +1009,18 @@
 "end_ref_usfm": "EZR 7:28"
 },
 {
+"start_ref": "16009016",
+"start_ref_usfm": "NEH 9:16",
+"end_ref": "16009025",
+"end_ref_usfm": "NEH 9:25"
+},
+{
+"start_ref": "16009032",
+"start_ref_usfm": "NEH 9:32",
+"end_ref": "16009037",
+"end_ref_usfm": "NEH 9:37"
+},
+{
 "start_ref": "17001001",
 "start_ref_usfm": "EST 1:1",
 "end_ref": "17001009",
@@ -1019,6 +1061,78 @@
 "start_ref_usfm": "EST 10:1",
 "end_ref": "17010003",
 "end_ref_usfm": "EST 10:3"
+},
+{
+"start_ref": "27001008",
+"start_ref_usfm": "DAN 1:8",
+"end_ref": "27001021",
+"end_ref_usfm": "DAN 1:21"
+},
+{
+"start_ref": "27002031",
+"start_ref_usfm": "DAN 2:31",
+"end_ref": "27002045",
+"end_ref_usfm": "DAN 2:45"
+},
+{
+"start_ref": "27004001",
+"start_ref_usfm": "DAN 4:1",
+"end_ref": "27004008",
+"end_ref_usfm": "DAN 4:8"
+},
+{
+"start_ref": "27004009",
+"start_ref_usfm": "DAN 4:9",
+"end_ref": "27004018",
+"end_ref_usfm": "DAN 4:18"
+},
+{
+"start_ref": "27004019",
+"start_ref_usfm": "DAN 4:19",
+"end_ref": "27004027",
+"end_ref_usfm": "DAN 4:27"
+},
+{
+"start_ref": "27004028",
+"start_ref_usfm": "DAN 4:28",
+"end_ref": "27004037",
+"end_ref_usfm": "DAN 4:37"
+},
+{
+"start_ref": "27005001",
+"start_ref_usfm": "DAN 5:1",
+"end_ref": "27005012",
+"end_ref_usfm": "DAN 5:12"
+},
+{
+"start_ref": "27005013",
+"start_ref_usfm": "DAN 5:13",
+"end_ref": "27005031",
+"end_ref_usfm": "DAN 5:31"
+},
+{
+"start_ref": "27006001",
+"start_ref_usfm": "DAN 6:1",
+"end_ref": "27006009",
+"end_ref_usfm": "DAN 6:9"
+},
+{
+"start_ref": "27006019",
+"start_ref_usfm": "DAN 6:19",
+"end_ref": "27006028",
+"end_ref_usfm": "DAN 6:28"
+},
+{
+"start_ref": "27007009",
+"start_ref_usfm": "DAN 7:9",
+"end_ref": "27007014",
+"end_ref_usfm": "DAN 7:14"
+},
+{
+"start_ref": "27007015",
+"start_ref_usfm": "DAN 7:15",
+"end_ref": "27007028",
+"end_ref_usfm": "DAN 7:28"
 },
 {
 "start_ref": "27010010",
@@ -1099,15 +1213,7 @@
 "end_ref_usfm": "ACT 1:11"
 }
 ],
-"resource": [
-{
-"reference_id": 0,
-"content_id": "zhs-t226-v1",
-"resource_code": "FIAKeyTerms",
-"label": "王",
-"language": "zhs"
-}
-],
+"resource": [],
 "acai": [
 {
 "id": "keyterm:Kingdom",

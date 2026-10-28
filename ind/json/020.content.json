@@ -136,7 +136,7 @@
 {
 "id": "place:Jerusalem",
 "type": "place",
-"confidence": 0.5604,
+"confidence": 0.5621,
 "match_method": "scored",
 "preferred_label": "Yerusalem"
 }
@@ -329,7 +329,7 @@
 {
 "id": "place:Jerusalem",
 "type": "place",
-"confidence": 0.6593,
+"confidence": 0.6638,
 "match_method": "scored",
 "preferred_label": "Yerusalem"
 },
@@ -665,16 +665,93 @@
 {
 "id": "place:Judea",
 "type": "place",
-"confidence": 0.6,
-"match_method": "scored",
+"confidence": 1.0,
+"match_method": "embedding",
 "preferred_label": "Yehuda"
 },
 {
-"id": "group:Jews",
-"type": "group",
-"confidence": 0.5603,
-"match_method": "scored",
-"preferred_label": "Jews"
+"id": "person:Judah.3",
+"type": "person",
+"confidence": 0.9535,
+"match_method": "embedding",
+"preferred_label": "Yehuda"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.9535,
+"match_method": "embedding",
+"preferred_label": "Yehuda"
+},
+{
+"id": "person:Judah.5",
+"type": "person",
+"confidence": 0.9535,
+"match_method": "embedding",
+"preferred_label": "Yehuda"
+},
+{
+"id": "person:Judah.6",
+"type": "person",
+"confidence": 0.9535,
+"match_method": "embedding",
+"preferred_label": "Yehuda"
+},
+{
+"id": "person:Judah.7",
+"type": "person",
+"confidence": 0.9535,
+"match_method": "embedding",
+"preferred_label": "Yehuda"
+},
+{
+"id": "person:Judah.8",
+"type": "person",
+"confidence": 0.9535,
+"match_method": "embedding",
+"preferred_label": "Yehuda"
+},
+{
+"id": "place:Judea.2",
+"type": "place",
+"confidence": 0.9535,
+"match_method": "embedding",
+"preferred_label": "Judah"
+},
+{
+"id": "person:Judas",
+"type": "person",
+"confidence": 0.8645,
+"match_method": "embedding",
+"preferred_label": "Yudas"
+},
+{
+"id": "person:Judas.2",
+"type": "person",
+"confidence": 0.8645,
+"match_method": "embedding",
+"preferred_label": "Yudas"
+},
+{
+"id": "person:Judas.3",
+"type": "person",
+"confidence": 0.8645,
+"match_method": "embedding",
+"preferred_label": "Yudas"
+},
+{
+"id": "person:Judas.4",
+"type": "person",
+"confidence": 0.8645,
+"match_method": "embedding",
+"preferred_label": "Yudas"
+},
+{
+"id": "person:Judas.5",
+"type": "person",
+"confidence": 0.8645,
+"match_method": "embedding",
+"preferred_label": "Yudas"
 }
 ]
 }
