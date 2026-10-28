@@ -631,7 +631,7 @@
 "index_reference": "intendants",
 "language": "fra",
 "review_level": "None",
-"content": "<p>Les <b>intendants</b> sont des gens qui s'occupent d'une propriété ou de terres pour un propriétaire qui n'y vit pas. Les intendants doivent lui donner une partie de la récolte comme paiement pour leur utilisation de la propriété.</p>",
+"content": "<p id=\"4URD5QciQHyMmVBcHuFU\">Les <b id=\"0pY3uuGe0YWs2pnhqE9F\">intendants</b> sont des gens qui s'occupent d'une propriété ou de terres pour un propriétaire qui n'y vit pas. Les intendants doivent lui donner une partie de la récolte comme paiement pour leur utilisation de la propriété.</p>",
 "associations": {
 "passage": [
 {
@@ -692,7 +692,7 @@
 "index_reference": "israël",
 "language": "fra",
 "review_level": "None",
-"content": "<p><b>Israël</b> est le nom du territoire où vivaient les <data class=\"resource-ref\" data-content-id=\"fra-t259-v2\" data-resource-code=\"FIAKeyTerms\">Israélites</data>. Ce nom vient du petit-fils d'<data class=\"resource-ref\" data-content-id=\"fra-t1-v1\" data-resource-code=\"FIAKeyTerms\">Abraham</data>, Israël. Abraham était l'ancêtre des Israélites. Le nom de son petit-fils était Jacob. Plus tard, Dieu a donné à Jacob le nom d'Israël. Depuis cette époque-là, ses <data class=\"resource-ref\" data-content-id=\"fra-t234-v1\" data-resource-code=\"FIAKeyTerms\">descendants</data> sont appelés Israélites.</p><p>Longtemps plus tard, les Israélites se sont battus entre eux. À cause de cela, la nation d'Israël s'est séparée en deux. La nation qui se trouvait le plus au sud du territoire d'Israël est connue sous le nom de <data class=\"resource-ref\" data-content-id=\"fra-t81-v1\" data-resource-code=\"FIAKeyTerms\">Juda</data>. La nation qui se trouvait le plus au nord du territoire d'Israël a continué à être connue sous le nom d'Israël.</p><p>C'est pour cela que le nom « Israël » désigne parfois un homme, c'est-à-dire Jacob, le petit-fils d'Abraham. C'est le nom que Dieu lui a donné alors que c'était déjà un adulte.</p><p>Mais parfois, le nom « Israël » fait référence à tous les descendants de Jacob dans leur ensemble. Dans ce cas, le nom « Israël » désigne tous les Israélites ou le peuple d'Israël dans son ensemble.</p><p>Parfois, le nom « Israël » fait référence à la terre, c'est-à-dire au territoire où les Israélites vivaient.</p><p>Et parfois, le mot Israël désigne seulement la partie nord de ce territoire.</p><p>Aujourd'hui, Israël est le nom du pays qui s'est formé pour servir de patrie au peuple <data class=\"resource-ref\" data-content-id=\"fra-t77-v2\" data-resource-code=\"FIAKeyTerms\">juif</data> après 1948. Ce pays ne correspond pas exactement au territoire où vivaient les Israélites à l'époque biblique.</p>",
+"content": "<p id=\"8aoyRFJfXI6X8T0cwlt0\"><b id=\"xSkbVf02Se5oVtkuT4pD\">Israël</b> est le nom du territoire où vivaient les <a id=\"C06deqxA7KBfQm1pioqa\" href=\"#t259\">Israélites</a>. Ce nom vient du petit-fils d'<a id=\"oi79IBSlJyngvEdeHI3l\" href=\"#t1\">Abraham</a>, Israël. Abraham était l'ancêtre des Israélites. Le nom de son petit-fils était Jacob. Plus tard, Dieu a donné à Jacob le nom d'Israël. Depuis cette époque-là, ses <a id=\"SfWv5ffqQJuVDrGXX9dO\" href=\"#t234\">descendants</a> sont appelés Israélites.</p><p id=\"oqa1oGpByfwWRvU2Ii7r\">Longtemps plus tard, les Israélites se sont battus entre eux. À cause de cela, la nation d'Israël s'est séparée en deux. La nation qui se trouvait le plus au sud du territoire d'Israël est connue sous le nom de <a id=\"8e1c87PcqGAFCwmizYq7\" href=\"#t81\">Juda</a>. La nation qui se trouvait le plus au nord du territoire d'Israël a continué à être connue sous le nom d'Israël.</p><p id=\"dOp8HWIAx8aq2WcHQBn5\">C'est pour cela que le nom « Israël » désigne parfois un homme, c'est-à-dire Jacob, le petit-fils d'Abraham. C'est le nom que Dieu lui a donné alors que c'était déjà un adulte.</p><p id=\"J0qYO5PMLvplzKjPg09A\">Mais parfois, le nom « Israël » fait référence à tous les descendants de Jacob dans leur ensemble. Dans ce cas, le nom « Israël » désigne tous les Israélites ou le peuple d'Israël dans son ensemble.</p><p id=\"oJPGPpIe1GvnPAsppCUR\">Parfois, le nom « Israël » fait référence à la terre, c'est-à-dire au territoire où les Israélites vivaient.</p><p id=\"OPB25PZTOQhHefEmQDq1\">Et parfois, le mot Israël désigne seulement la partie nord de ce territoire.</p><p id=\"WsoCotUxhe1mhjPzh4s6\">Aujourd'hui, Israël est le nom du pays qui s'est formé pour servir de patrie au peuple <a id=\"oANqC4UdOQvFsB2vets7\" href=\"#t77\">juif</a> après 1948. Ce pays ne correspond pas exactement au territoire où vivaient les Israélites à l'époque biblique.</p>",
 "associations": {
 "passage": [
 {
@@ -1296,43 +1296,7 @@
 "end_ref_usfm": "JDG 9:57"
 }
 ],
-"resource": [
-{
-"reference_id": 0,
-"content_id": "fra-t259-v2",
-"resource_code": "FIAKeyTerms",
-"label": "Israélites",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t1-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Abraham",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t234-v1",
-"resource_code": "FIAKeyTerms",
-"label": "descendants",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t81-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Juda",
-"language": "fra"
-},
-{
-"reference_id": 0,
-"content_id": "fra-t77-v2",
-"resource_code": "FIAKeyTerms",
-"label": "juif",
-"language": "fra"
-}
-],
+"resource": [],
 "acai": [
 {
 "id": "person:Israel",

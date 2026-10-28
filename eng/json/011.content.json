@@ -8,7 +8,7 @@
 "index_reference": "king",
 "language": "eng",
 "review_level": "None",
-"content": "<p>t226 king</p><p>A king is someone who rules over a city or territory, like a region or a country. In the time of the Bible, a king normally ruled for life—in other words, he ruled until he died. After his death, one of his sons would become king in his place.</p>",
+"content": "<p id=\"2xLQ8XSNSrpnFK83HyX3\">t226 king</p><p id=\"hMEtkSBZL4uBSDm4bERl\">A king is someone who rules over a city or territory, like a region or a country. In the time of the Bible, a king normally ruled for life—in other words, he ruled until he died. After his death, one of his sons would become king in his place.</p>",
 "associations": {
 "passage": [
 {
@@ -1257,7 +1257,7 @@
 "index_reference": "kingdom",
 "language": "eng",
 "review_level": "None",
-"content": "<p>A <b>kingdom</b> is the territory or the people that a <data class=\"resource-ref\" data-content-id=\"eng-t226-v2\" data-resource-code=\"FIAKeyTerms\">king</data> rules.</p>",
+"content": "<p id=\"Wb6mhlDFH3UqRZeaNFBF\">A <b id=\"vlNcgeu3fNLQ3s3hwsgW\">kingdom</b> is the territory or the people that a <a id=\"WFzUpuhUO6um0ZS4qBq2\" href=\"#t226\">king</a> rules.</p>",
 "associations": {
 "passage": [
 {
@@ -1633,6 +1633,18 @@
 "end_ref_usfm": "EZR 7:28"
 },
 {
+"start_ref": "16009016",
+"start_ref_usfm": "NEH 9:16",
+"end_ref": "16009025",
+"end_ref_usfm": "NEH 9:25"
+},
+{
+"start_ref": "16009032",
+"start_ref_usfm": "NEH 9:32",
+"end_ref": "16009037",
+"end_ref_usfm": "NEH 9:37"
+},
+{
 "start_ref": "17001001",
 "start_ref_usfm": "EST 1:1",
 "end_ref": "17001009",
@@ -1673,6 +1685,78 @@
 "start_ref_usfm": "EST 10:1",
 "end_ref": "17010003",
 "end_ref_usfm": "EST 10:3"
+},
+{
+"start_ref": "27001008",
+"start_ref_usfm": "DAN 1:8",
+"end_ref": "27001021",
+"end_ref_usfm": "DAN 1:21"
+},
+{
+"start_ref": "27002031",
+"start_ref_usfm": "DAN 2:31",
+"end_ref": "27002045",
+"end_ref_usfm": "DAN 2:45"
+},
+{
+"start_ref": "27004001",
+"start_ref_usfm": "DAN 4:1",
+"end_ref": "27004008",
+"end_ref_usfm": "DAN 4:8"
+},
+{
+"start_ref": "27004009",
+"start_ref_usfm": "DAN 4:9",
+"end_ref": "27004018",
+"end_ref_usfm": "DAN 4:18"
+},
+{
+"start_ref": "27004019",
+"start_ref_usfm": "DAN 4:19",
+"end_ref": "27004027",
+"end_ref_usfm": "DAN 4:27"
+},
+{
+"start_ref": "27004028",
+"start_ref_usfm": "DAN 4:28",
+"end_ref": "27004037",
+"end_ref_usfm": "DAN 4:37"
+},
+{
+"start_ref": "27005001",
+"start_ref_usfm": "DAN 5:1",
+"end_ref": "27005012",
+"end_ref_usfm": "DAN 5:12"
+},
+{
+"start_ref": "27005013",
+"start_ref_usfm": "DAN 5:13",
+"end_ref": "27005031",
+"end_ref_usfm": "DAN 5:31"
+},
+{
+"start_ref": "27006001",
+"start_ref_usfm": "DAN 6:1",
+"end_ref": "27006009",
+"end_ref_usfm": "DAN 6:9"
+},
+{
+"start_ref": "27006019",
+"start_ref_usfm": "DAN 6:19",
+"end_ref": "27006028",
+"end_ref_usfm": "DAN 6:28"
+},
+{
+"start_ref": "27007009",
+"start_ref_usfm": "DAN 7:9",
+"end_ref": "27007014",
+"end_ref_usfm": "DAN 7:14"
+},
+{
+"start_ref": "27007015",
+"start_ref_usfm": "DAN 7:15",
+"end_ref": "27007028",
+"end_ref_usfm": "DAN 7:28"
 },
 {
 "start_ref": "27010010",
@@ -1754,13 +1838,6 @@
 }
 ],
 "resource": [
-{
-"reference_id": 0,
-"content_id": "eng-t226-v2",
-"resource_code": "FIAKeyTerms",
-"label": "king",
-"language": "eng"
-},
 {
 "reference_id": 0,
 "content_id": "eng-t157-v1-audio",
@@ -2165,6 +2242,18 @@
 "end_ref_usfm": "EZR 7:28"
 },
 {
+"start_ref": "16009016",
+"start_ref_usfm": "NEH 9:16",
+"end_ref": "16009025",
+"end_ref_usfm": "NEH 9:25"
+},
+{
+"start_ref": "16009032",
+"start_ref_usfm": "NEH 9:32",
+"end_ref": "16009037",
+"end_ref_usfm": "NEH 9:37"
+},
+{
 "start_ref": "17001001",
 "start_ref_usfm": "EST 1:1",
 "end_ref": "17001009",
@@ -2205,6 +2294,78 @@
 "start_ref_usfm": "EST 10:1",
 "end_ref": "17010003",
 "end_ref_usfm": "EST 10:3"
+},
+{
+"start_ref": "27001008",
+"start_ref_usfm": "DAN 1:8",
+"end_ref": "27001021",
+"end_ref_usfm": "DAN 1:21"
+},
+{
+"start_ref": "27002031",
+"start_ref_usfm": "DAN 2:31",
+"end_ref": "27002045",
+"end_ref_usfm": "DAN 2:45"
+},
+{
+"start_ref": "27004001",
+"start_ref_usfm": "DAN 4:1",
+"end_ref": "27004008",
+"end_ref_usfm": "DAN 4:8"
+},
+{
+"start_ref": "27004009",
+"start_ref_usfm": "DAN 4:9",
+"end_ref": "27004018",
+"end_ref_usfm": "DAN 4:18"
+},
+{
+"start_ref": "27004019",
+"start_ref_usfm": "DAN 4:19",
+"end_ref": "27004027",
+"end_ref_usfm": "DAN 4:27"
+},
+{
+"start_ref": "27004028",
+"start_ref_usfm": "DAN 4:28",
+"end_ref": "27004037",
+"end_ref_usfm": "DAN 4:37"
+},
+{
+"start_ref": "27005001",
+"start_ref_usfm": "DAN 5:1",
+"end_ref": "27005012",
+"end_ref_usfm": "DAN 5:12"
+},
+{
+"start_ref": "27005013",
+"start_ref_usfm": "DAN 5:13",
+"end_ref": "27005031",
+"end_ref_usfm": "DAN 5:31"
+},
+{
+"start_ref": "27006001",
+"start_ref_usfm": "DAN 6:1",
+"end_ref": "27006009",
+"end_ref_usfm": "DAN 6:9"
+},
+{
+"start_ref": "27006019",
+"start_ref_usfm": "DAN 6:19",
+"end_ref": "27006028",
+"end_ref_usfm": "DAN 6:28"
+},
+{
+"start_ref": "27007009",
+"start_ref_usfm": "DAN 7:9",
+"end_ref": "27007014",
+"end_ref_usfm": "DAN 7:14"
+},
+{
+"start_ref": "27007015",
+"start_ref_usfm": "DAN 7:15",
+"end_ref": "27007028",
+"end_ref_usfm": "DAN 7:28"
 },
 {
 "start_ref": "27010010",
@@ -2305,7 +2466,7 @@
 "index_reference": "kingdom of god",
 "language": "eng",
 "review_level": "None",
-"content": "<p>The <b>kingdom of God</b> and the <b>kingdom of heaven</b> mean the same thing. Because in later times the <data class=\"resource-ref\" data-content-id=\"eng-t77-v2\" data-resource-code=\"FIAKeyTerms\">Jews</data> thought it was disrespectful to say God's name, they sometimes said \"<data class=\"resource-ref\" data-content-id=\"eng-t63-v1\" data-resource-code=\"FIAKeyTerms\">heaven</data>\" when they meant God.</p><p>A <data class=\"resource-ref\" data-content-id=\"eng-t226-v2\" data-resource-code=\"FIAKeyTerms\">king</data> is a ruler who is in charge of a group of people. The land that comes under a king's <data class=\"resource-ref\" data-content-id=\"eng-t8-v1\" data-resource-code=\"FIAKeyTerms\">authority</data> is called his <data class=\"resource-ref\" data-content-id=\"eng-t157-v1\" data-resource-code=\"FIAKeyTerms\">kingdom</data>. But the word kingdom can also mean the people who are under the king's authority. When you say that a kingdom is very large, this can mean that there are very many people in the kingdom, or it can mean that the king's land is very large. But the word kingdom also refers to the rule of the king. When you say that a king's kingdom will never end, you mean to say that this king will never stop ruling. When the Bible talks about the kingdom of God, this means especially the rule of God.</p><p>God is the king over the whole world. The whole of creation is his kingdom. In the Old Testament, the people of <data class=\"resource-ref\" data-content-id=\"eng-t74-v2\" data-resource-code=\"FIAKeyTerms\">Israel</data> are especially called God's kingdom. There were human kings ruling over Israel, but they were accountable to God. God was the highest king, the king of kings!</p><p>But the people in God's kingdom were not obedient to God-not even the <data class=\"resource-ref\" data-content-id=\"eng-t259-v2\" data-resource-code=\"FIAKeyTerms\">Israelites</data>. The <data class=\"resource-ref\" data-content-id=\"eng-t104-v1\" data-resource-code=\"FIAKeyTerms\">prophets</data>, who gave messages from God to the people, told the Israelites that one day God would come and establish his kingdom forever. When that would happen, all people would submit to God and obey him. All people everywhere, and all of creation, would live in a right relationship with God. There would be no more suffering or <data class=\"resource-ref\" data-content-id=\"eng-t187-v1\" data-resource-code=\"FIAKeyTerms\">evil</data>. The people of Israel hoped and <data class=\"resource-ref\" data-content-id=\"eng-t102-v1\" data-resource-code=\"FIAKeyTerms\">prayed</data> for this perfect kingdom to come.</p><p>Jesus told the people that this kingdom of God was near; this means that God's perfect rule would start very soon. Jesus even said a few times that the kingdom of God had <em>already come</em>! The wonderful <data class=\"resource-ref\" data-content-id=\"eng-t93-v1\" data-resource-code=\"FIAKeyTerms\">miracles</data> that Jesus was doing were proof that God was already ruling as king. As soon as someone began to trust Jesus, they \"entered the kingdom of God\"! They became God's people, accepting God as their king.</p><p>But we cannot see fully yet that God is ruling. People are still getting sick, are doing <data class=\"resource-ref\" data-content-id=\"eng-t125-v1\" data-resource-code=\"FIAKeyTerms\">sin</data>, and are having wars. <data class=\"resource-ref\" data-content-id=\"eng-t118-v1\" data-resource-code=\"FIAKeyTerms\">Satan</data>, God's enemy, is still trying to destroy God's work. And there are still natural disasters that kill people.</p><p>Jesus therefore also promised that more is coming. One day, Satan will be defeated forever, Jesus will come back to earth, and everybody will submit to his rule. God will restore everything. God's perfect kingdom will truly begin.</p><p>The people in the time of Jesus thought that when God's kingdom would come, Israel would be restored as a political <data class=\"resource-ref\" data-content-id=\"eng-t94-v2\" data-resource-code=\"FIAKeyTerms\">nation</data>. Jesus explained how God's kingdom is different from what they expected. Jesus explained that God's kingdom has to do with people following God as their king and obeying God. Jesus knew that this was hard to understand-he even told his <data class=\"resource-ref\" data-content-id=\"eng-t39-v1\" data-resource-code=\"FIAKeyTerms\">disciples</data> that God's kingdom was like a mystery.</p><p>Jesus taught people about God's kingdom by telling them stories or <data class=\"resource-ref\" data-content-id=\"eng-t98-v1\" data-resource-code=\"FIAKeyTerms\">parables</data>. He often told stories that began with \"the kingdom of God is like...\" Each of these stories told the people a little bit more about how things work in the kingdom of God. Often this showed the people that in God's kingdom, things may be completely opposite to what they expected! Things that are important for people on earth, like being rich, having a high position in society, or being powerful, were not important at all in God's kingdom. Instead, those people who were the poorest or the least powerful on earth, would be the most important people in God's kingdom.</p><p>Many of Jesus's parables described God's kingdom as a feast or a meal. When people eat together, they have a good relationship with each other, and Jesus wanted to show that God's kingdom is about having a good relationship with God. If we have a good relationship with God by allowing Jesus to be king in our lives right now, we will also live with God forever in his perfect kingdom that will come one day.</p><p>Some passages in the New Testament talk about God being the king, and some passages talk about Jesus being the king. Because Jesus is God as well, both are true at the same time. The <data class=\"resource-ref\" data-content-id=\"eng-t6-v1\" data-resource-code=\"FIAKeyTerms\">apostle</data> Paul in his letter to the people in Corinth says that Jesus is king, and that when Jesus has completely defeated all enemies, Jesus will hand over the kingdom to God.</p><p>So, in summary, the kingdom of God does not refer to a physical place, like a country somewhere on this earth. The kingdom of God especially refers to the rule of God. The kingdom of God is everywhere where God rules, and where people are obeying him and live in a right relationship with him. At the same time, the kingdom of God has not yet come completely. Not everybody has submitted to the will of God. One day, Jesus will come back and reign over the entire world and creation in God's perfect kingdom. In God's perfect kingdom there will be no more suffering or evil, and all people and all creation will obey him.</p>",
+"content": "<p id=\"pLCi9h9PoLNL65iYJKRk\">The <b id=\"QlWS6DBpc2SG8CdzjkmJ\">kingdom of God</b> and the <b id=\"h0qCf16q0TJKVf5byKpQ\">kingdom of heaven</b> mean the same thing. Because in later times the <a id=\"EFdAnR5LioBNcGfgO7dM\" href=\"#t77\">Jews</a> thought it was disrespectful to say God's name, they sometimes said \"<a id=\"vfaQNmngx5e608H3ToU8\" href=\"#t63\">heaven</a>\" when they meant God.</p><p id=\"fQA7h0niH1ZTiVgBNx7p\">A <a id=\"sAj6t4geB0Qj2b7AM26C\" href=\"#t226\">king</a> is a ruler who is in charge of a group of people. The land that comes under a king's <a id=\"EP9XcOBkGD3r5pETdZ2h\" href=\"#t8\">authority</a> is called his <a id=\"yrbdgchgQruDXgRJ5I1o\" href=\"#t157\">kingdom</a>. But the word kingdom can also mean the people who are under the king's authority. When you say that a kingdom is very large, this can mean that there are very many people in the kingdom, or it can mean that the king's land is very large. But the word kingdom also refers to the rule of the king. When you say that a king's kingdom will never end, you mean to say that this king will never stop ruling. When the Bible talks about the kingdom of God, this means especially the rule of God.</p><p id=\"8qb1DQxZmvUDwznTsr6D\">God is the king over the whole world. The whole of creation is his kingdom. In the Old Testament, the people of <a id=\"JPmGYnMJbUa6adp0LhkP\" href=\"#t74\">Israel</a> are especially called God's kingdom. There were human kings ruling over Israel, but they were accountable to God. God was the highest king, the king of kings!</p><p id=\"CLmO2bJmkwWV9P17uSDz\">But the people in God's kingdom were not obedient to God-not even the <a id=\"6npmtq1cS676Q1YocTv6\" href=\"#t259\">Israelites</a>. The <a id=\"8Ebn6Qaml3f7nXSI0mWO\" href=\"#t104\">prophets</a>, who gave messages from God to the people, told the Israelites that one day God would come and establish his kingdom forever. When that would happen, all people would submit to God and obey him. All people everywhere, and all of creation, would live in a right <a id=\"ToDRQBtBR2MyBiUEZWf6\" href=\"#t108\">relationship</a> with God. There would be no more suffering or <a id=\"3MxZuUBZwvy6SAuQ8R8H\" href=\"#t187\">evil</a>. The people of Israel hoped and <a id=\"s00cM4OogwK9TAYBWmMl\" href=\"#t102\">prayed</a> for this perfect kingdom to come.</p><p id=\"8of3r0BeIQ3OzA4Ek8ei\">Jesus told the people that this kingdom of God was near; this means that God's perfect rule would start very soon. Jesus even said a few times that the kingdom of God had <em id=\"5xlAaZ64o1e3Ul2AdhVD\">already come</em>! The wonderful <a id=\"kKV0pWiWjAcdhFGufjRz\" href=\"#t93\">miracles</a> that Jesus was doing were proof that God was already ruling as king. As soon as someone began to trust Jesus, they \"entered the kingdom of God\"! They became God's people, accepting God as their king.</p><p id=\"7y0SjvmeQ3vkSgwWepCU\">But we cannot see fully yet that God is ruling. People are still getting sick, are doing <a id=\"pRM6pt6FjuSQQrdeWvLi\" href=\"#125\">sin</a>, and are having wars. <a id=\"1YdeRMYqHrkkS8yTWeIf\" href=\"#t118\">Satan</a>, God's enemy, is still trying to destroy God's work. And there are still natural disasters that kill people.</p><p id=\"F9MDNvmJd7Ms4yOcPwLP\">Jesus therefore also promised that more is coming. One day, Satan will be defeated forever, Jesus will come back to earth, and everybody will submit to his rule. God will restore everything. God's perfect kingdom will truly begin.</p><p id=\"L63m76AloeKRVBRGC4tK\">The people in the time of Jesus thought that when God's kingdom would come, Israel would be restored as a political <a id=\"toDI9suhwSiWgYkThz3n\" href=\"#t94\">nation</a>. Jesus explained how God's kingdom is different from what they expected. Jesus explained that God's kingdom has to do with people following God as their king and obeying God. Jesus knew that this was hard to understand-he even told his <a id=\"l2WTwATDrgM9cICTCs3H\" href=\"#t39\">disciples</a> that God's kingdom was like a mystery.</p><p id=\"n5XB2kwZKATC6D2BlVkQ\">Jesus taught people about God's kingdom by telling them stories or <a id=\"GRGsqYj7NhXm6trJsxPL\" href=\"#t98\">parables</a>. He often told stories that began with \"the kingdom of God is like...\" Each of these stories told the people a little bit more about how things work in the kingdom of God. Often this showed the people that in God's kingdom, things may be completely opposite to what they expected! Things that are important for people on earth, like being rich, having a high position in society, or being powerful, were not important at all in God's kingdom. Instead, those people who were the poorest or the least powerful on earth, would be the most important people in God's kingdom.</p><p id=\"UlYIED5kYH6NFMETixyD\">Many of Jesus's parables described God's kingdom as a feast or a meal. When people eat together, they have a good relationship with each other, and Jesus wanted to show that God's kingdom is about having a good <a id=\"eksPUF2qKLfhNmBDP07Q\" href=\"#t108\">relationship</a> with God. If we have a good relationship with God by allowing Jesus to be king in our lives right now, we will also live with God forever in his perfect kingdom that will come one day.</p><p id=\"Et3HldmqE9myFcUiL5D6\">Some passages in the New Testament talk about God being the king, and some passages talk about Jesus being the king. Because Jesus is God as well, both are true at the same time. The <a id=\"HUhifiWX7TpD3UgrppaJ\" href=\"#t6\">apostle</a> Paul in his letter to the people in Corinth says that Jesus is king, and that when Jesus has completely defeated all enemies, Jesus will hand over the kingdom to God.</p><p id=\"48bDLxVBRw7Y7j2yn3Ia\">So, in summary, the kingdom of God does not refer to a physical place, like a country somewhere on this earth. The kingdom of God especially refers to the rule of God. The kingdom of God is everywhere where God rules, and where people are obeying him and live in a right relationship with him. At the same time, the kingdom of God has not yet come completely. Not everybody has submitted to the will of God. One day, Jesus will come back and reign over the entire world and creation in God's perfect kingdom. In God's perfect kingdom there will be no more suffering or evil, and all people and all creation will obey him.</p>",
 "associations": {
 "passage": [
 {
@@ -2802,125 +2963,6 @@
 }
 ],
 "resource": [
-{
-"reference_id": 0,
-"content_id": "eng-t77-v2",
-"resource_code": "FIAKeyTerms",
-"label": "Jews",
-"language": "eng"
-},
-{
-"reference_id": 0,
-"content_id": "eng-t63-v1",
-"resource_code": "FIAKeyTerms",
-"label": "heaven",
-"language": "eng"
-},
-{
-"reference_id": 0,
-"content_id": "eng-t226-v2",
-"resource_code": "FIAKeyTerms",
-"label": "king",
-"language": "eng"
-},
-{
-"reference_id": 0,
-"content_id": "eng-t8-v1",
-"resource_code": "FIAKeyTerms",
-"label": "authority",
-"language": "eng"
-},
-{
-"reference_id": 0,
-"content_id": "eng-t157-v1",
-"resource_code": "FIAKeyTerms",
-"label": "kingdom",
-"language": "eng"
-},
-{
-"reference_id": 0,
-"content_id": "eng-t74-v2",
-"resource_code": "FIAKeyTerms",
-"label": "Israel",
-"language": "eng"
-},
-{
-"reference_id": 0,
-"content_id": "eng-t259-v2",
-"resource_code": "FIAKeyTerms",
-"label": "Israelites",
-"language": "eng"
-},
-{
-"reference_id": 0,
-"content_id": "eng-t104-v1",
-"resource_code": "FIAKeyTerms",
-"label": "prophets",
-"language": "eng"
-},
-{
-"reference_id": 0,
-"content_id": "eng-t187-v1",
-"resource_code": "FIAKeyTerms",
-"label": "evil",
-"language": "eng"
-},
-{
-"reference_id": 0,
-"content_id": "eng-t102-v1",
-"resource_code": "FIAKeyTerms",
-"label": "prayed",
-"language": "eng"
-},
-{
-"reference_id": 0,
-"content_id": "eng-t93-v1",
-"resource_code": "FIAKeyTerms",
-"label": "miracles",
-"language": "eng"
-},
-{
-"reference_id": 0,
-"content_id": "eng-t125-v1",
-"resource_code": "FIAKeyTerms",
-"label": "sin",
-"language": "eng"
-},
-{
-"reference_id": 0,
-"content_id": "eng-t118-v1",
-"resource_code": "FIAKeyTerms",
-"label": "Satan",
-"language": "eng"
-},
-{
-"reference_id": 0,
-"content_id": "eng-t94-v2",
-"resource_code": "FIAKeyTerms",
-"label": "nation",
-"language": "eng"
-},
-{
-"reference_id": 0,
-"content_id": "eng-t39-v1",
-"resource_code": "FIAKeyTerms",
-"label": "disciples",
-"language": "eng"
-},
-{
-"reference_id": 0,
-"content_id": "eng-t98-v1",
-"resource_code": "FIAKeyTerms",
-"label": "parables",
-"language": "eng"
-},
-{
-"reference_id": 0,
-"content_id": "eng-t6-v1",
-"resource_code": "FIAKeyTerms",
-"label": "apostle",
-"language": "eng"
-},
 {
 "reference_id": 0,
 "content_id": "eng-t82-v1-audio",

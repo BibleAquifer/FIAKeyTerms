@@ -8,7 +8,7 @@
 "index_reference": "犹大旧约犹太新约",
 "language": "zhs",
 "review_level": "None",
-"content": "<p>在新约时代，<b>犹太</b>是<data class=\"resource-ref\" data-content-id=\"zhs-t74-v1\" data-resource-code=\"FIAKeyTerms\">以色列</data>一个地区的名称。</p><p>在耶稣时代，以色列不是一个独立的<data class=\"resource-ref\" data-content-id=\"zhs-t94-v1\" data-resource-code=\"FIAKeyTerms\">国</data>。 以色列人被罗马人统治。 罗马人将以色列分成几个区域或省份。这些省份是南部的犹太，北部的<data class=\"resource-ref\" data-content-id=\"zhs-t55-v1\" data-resource-code=\"FIAKeyTerms\">加利利</data>，中间的撒马利亚。</p><p>犹太是最重要的城市<data class=\"resource-ref\" data-content-id=\"zhs-t76-v1\" data-resource-code=\"FIAKeyTerms\">耶路撒冷</data>和神的<data class=\"resource-ref\" data-content-id=\"zhs-t138-v1\" data-resource-code=\"FIAKeyTerms\">圣殿</data>的所在地。 犹太的人经常认为他们是比加利利的人更好的<data class=\"resource-ref\" data-content-id=\"zhs-t77-v1\" data-resource-code=\"FIAKeyTerms\">犹太人</data>。 他们看不起加利利人，认为他们没有受过教育，粗鲁无礼。 犹太<em>和</em>加利利的人看不起撒马利亚人，他们认为撒马利亚人根本不是犹太人。</p><p>新约中的犹太地区在旧约中被称为犹大。</p>",
+"content": "<p id=\"G9bl4tWaRissinNAyXYo\">在新约时代，<b id=\"I3Vi5UuUSLkzLEZGe0n1\">犹太</b>是<a id=\"rVRbNabaZp6xpsnUssw8\" href=\"#t74\">以色列</a>一个地区的名称。</p><p id=\"15QGvk7k6W2f5hbZvK32\">在耶稣时代，以色列不是一个独立的<a id=\"STor32CS1xOtKYLlfmgX\" href=\"#t94\">国</a>。 <a id=\"PbP9Qmozi6SwcQXsW3k0\" href=\"#t259\">以色列人</a>被罗马人统治。 罗马人将以色列分成几个区域或省份。这些省份是南部的犹太，北部的<a id=\"UuSgakNONf0nDjOYYDul\" href=\"#t55\">加利利</a>，中间的<a id=\"LFJgaN2rmttjFSvYa2bs\" href=\"#t221\">撒马利亚</a>。</p><p id=\"OgYTifs4wa7nLFiGFJri\">犹太是最重要的城市<a id=\"2rto8iK0ZZ8n6qUiyTrX\" href=\"#t76\">耶路撒冷</a>和神的<a id=\"eThco7nRx7cF8iMrbSXQ\" href=\"#t138\">圣殿</a>的所在地。 犹太的人经常认为他们是比加利利的人更好的<a id=\"KLp7Ed0LNqMMDg29gEtS\" href=\"#t77\">犹太人</a>。 他们看不起加利利人，认为他们没有受过教育，粗鲁无礼。 犹太<em id=\"J8JG0UZbBrSvf1C8DVhK\">和</em>加利利的人看不起撒马利亚人，他们认为撒马利亚人根本不是犹太人。</p><p id=\"Z18GrrEb5WLTdu4j92Ok\">新约中的犹太地区在旧约中被称为犹大。</p>",
 "associations": {
 "passage": [
 {
@@ -274,6 +274,18 @@
 "start_ref_usfm": "2KI 18:1",
 "end_ref": "12018012",
 "end_ref_usfm": "2KI 18:12"
+},
+{
+"start_ref": "12018019",
+"start_ref_usfm": "2KI 18:19",
+"end_ref": "12018025",
+"end_ref_usfm": "2KI 18:25"
+},
+{
+"start_ref": "12018026",
+"start_ref_usfm": "2KI 18:26",
+"end_ref": "12018037",
+"end_ref_usfm": "2KI 18:37"
 },
 {
 "start_ref": "13002009",
@@ -598,78 +610,100 @@
 "start_ref_usfm": "EZR 4:1",
 "end_ref": "15004006",
 "end_ref_usfm": "EZR 4:6"
-},
-{
-"start_ref": "15005001",
-"start_ref_usfm": "EZR 5:1",
-"end_ref": "15005005",
-"end_ref_usfm": "EZR 5:5"
-},
-{
-"start_ref": "15005006",
-"start_ref_usfm": "EZR 5:6",
-"end_ref": "15005017",
-"end_ref_usfm": "EZR 5:17"
 }
 ],
-"resource": [
-{
-"reference_id": 0,
-"content_id": "zhs-t74-v1",
-"resource_code": "FIAKeyTerms",
-"label": "以色列",
-"language": "zhs"
-},
-{
-"reference_id": 0,
-"content_id": "zhs-t94-v1",
-"resource_code": "FIAKeyTerms",
-"label": "国",
-"language": "zhs"
-},
-{
-"reference_id": 0,
-"content_id": "zhs-t55-v1",
-"resource_code": "FIAKeyTerms",
-"label": "加利利",
-"language": "zhs"
-},
-{
-"reference_id": 0,
-"content_id": "zhs-t76-v1",
-"resource_code": "FIAKeyTerms",
-"label": "耶路撒冷",
-"language": "zhs"
-},
-{
-"reference_id": 0,
-"content_id": "zhs-t138-v1",
-"resource_code": "FIAKeyTerms",
-"label": "圣殿",
-"language": "zhs"
-},
-{
-"reference_id": 0,
-"content_id": "zhs-t77-v1",
-"resource_code": "FIAKeyTerms",
-"label": "犹太人",
-"language": "zhs"
-}
-],
+"resource": [],
 "acai": [
 {
 "id": "place:Judea",
 "type": "place",
-"confidence": 0.6,
-"match_method": "scored",
+"confidence": 1.0,
+"match_method": "embedding",
 "preferred_label": "Judea"
 },
 {
-"id": "group:Jews",
-"type": "group",
-"confidence": 0.5603,
-"match_method": "scored",
-"preferred_label": "Jews"
+"id": "person:Judah.3",
+"type": "person",
+"confidence": 0.9535,
+"match_method": "embedding",
+"preferred_label": "Judah"
+},
+{
+"id": "person:Judah.4",
+"type": "person",
+"confidence": 0.9535,
+"match_method": "embedding",
+"preferred_label": "Judah"
+},
+{
+"id": "person:Judah.5",
+"type": "person",
+"confidence": 0.9535,
+"match_method": "embedding",
+"preferred_label": "Judah"
+},
+{
+"id": "person:Judah.6",
+"type": "person",
+"confidence": 0.9535,
+"match_method": "embedding",
+"preferred_label": "Judah"
+},
+{
+"id": "person:Judah.7",
+"type": "person",
+"confidence": 0.9535,
+"match_method": "embedding",
+"preferred_label": "Judah"
+},
+{
+"id": "person:Judah.8",
+"type": "person",
+"confidence": 0.9535,
+"match_method": "embedding",
+"preferred_label": "Judah"
+},
+{
+"id": "place:Judea.2",
+"type": "place",
+"confidence": 0.9535,
+"match_method": "embedding",
+"preferred_label": "Judah"
+},
+{
+"id": "person:Judas",
+"type": "person",
+"confidence": 0.8645,
+"match_method": "embedding",
+"preferred_label": "Judas"
+},
+{
+"id": "person:Judas.2",
+"type": "person",
+"confidence": 0.8645,
+"match_method": "embedding",
+"preferred_label": "Judas"
+},
+{
+"id": "person:Judas.3",
+"type": "person",
+"confidence": 0.8645,
+"match_method": "embedding",
+"preferred_label": "Judas"
+},
+{
+"id": "person:Judas.4",
+"type": "person",
+"confidence": 0.8645,
+"match_method": "embedding",
+"preferred_label": "Judas"
+},
+{
+"id": "person:Judas.5",
+"type": "person",
+"confidence": 0.8645,
+"match_method": "embedding",
+"preferred_label": "Judas"
 }
 ]
 }
@@ -683,7 +717,7 @@
 "index_reference": "油灯",
 "language": "zhs",
 "review_level": "None",
-"content": "<p><data class=\"resource-ref\" data-content-id=\"zhs-t74-v1\" data-resource-code=\"FIAKeyTerms\">以色列人</data>使用<b>油灯</b>来帮助他们在黑暗中看见东西。 人们用粘土制成灯，然后在烤箱中烧粘土，使其变得坚硬。 人们也可以用石头切出灯。 许多油灯看起来就像有人把碗的边缘捏在一起，但其它油灯则更加精巧。 人们把油放进碗中。 通常这是橄榄油，是来自橄榄树的果实。 然后人们把一块布放进碗中：一端位于油里面，另一端位于灯的边缘。 这个布条被称为灯芯。 灯芯会吸收油。 然后人们会点燃灯芯。 只要有油，灯就会一直燃烧，或者直到灯芯被完全烧毁。</p><p>在房子里面，人们会把油灯放在灯架上，这样灯就会更高，发出更多的光线。</p><div data-type=\"callout\" data-callout-style=\"action\"><p>你可能会想要看一些油灯的图片。</p></div>",
+"content": "<p id=\"ItJRtFX01qufT0D0iqaW\"><a id=\"oGbG6Zn4AY1MxwRLTQNp\" href=\"#t74\">以色列人</a>使用<b id=\"LUyXQernYDFav9TQIzFG\">油灯</b>来帮助他们在黑暗中看见东西。 人们用粘土制成灯，然后在烤箱中烧粘土，使其变得坚硬。 人们也可以用石头切出灯。 许多油灯看起来就像有人把碗的边缘捏在一起，但其它油灯则更加精巧。 人们把油放进碗中。 通常这是橄榄油，是来自橄榄树的果实。 然后人们把一块布放进碗中：一端位于油里面，另一端位于灯的边缘。 这个布条被称为灯芯。 灯芯会吸收油。 然后人们会点燃灯芯。 只要有油，灯就会一直燃烧，或者直到灯芯被完全烧毁。</p><p id=\"cvOODwzYhordoZZtMMtA\">在房子里面，人们会把油灯放在灯架上，这样灯就会更高，发出更多的光线。</p><div id=\"8sQNzlqxwXZ6Qw7OuITE\" data-type=\"callout\" data-callout-style=\"action\"><p id=\"CyfJmsEg1RPKPKw8QHBr\">你可能会想要看一些油灯的图片。</p></div>",
 "associations": {
 "passage": [
 {
@@ -777,15 +811,7 @@
 "end_ref_usfm": "LUK 11:54"
 }
 ],
-"resource": [
-{
-"reference_id": 0,
-"content_id": "zhs-t74-v1",
-"resource_code": "FIAKeyTerms",
-"label": "以色列人",
-"language": "zhs"
-}
-],
+"resource": [],
 "acai": []
 }
 }

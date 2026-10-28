@@ -8,7 +8,7 @@
 "index_reference": "oferta",
 "language": "por",
 "review_level": "None",
-"content": "<p>Uma <b>oferta</b> é um presente ou <data class=\"resource-ref\" data-content-id=\"por-t114-v1\" data-resource-code=\"FIAKeyTerms\">sacrifício</data> oferecido em um ritual para Deus, geralmente no <data class=\"resource-ref\" data-content-id=\"por-t138-v1\" data-resource-code=\"FIAKeyTerms\">templo</data> ou em um <data class=\"resource-ref\" data-content-id=\"por-t3-v1\" data-resource-code=\"FIAKeyTerms\">altar</data> especial. As pessoas podem fazer ofertas por muitas razões, incluindo para dar graças, para serem <data class=\"resource-ref\" data-content-id=\"por-t208-v1\" data-resource-code=\"FIAKeyTerms\">purificadas</data> ou para pedir <data class=\"resource-ref\" data-content-id=\"por-t53-v1\" data-resource-code=\"FIAKeyTerms\">perdão</data> pelo <data class=\"resource-ref\" data-content-id=\"por-t125-v1\" data-resource-code=\"FIAKeyTerms\">pecado</data>.</p>",
+"content": "<p id=\"St83FpePBrgk2poJ9QO2\">Uma <b id=\"QIFFdKS8jAAx1xw1cpi3\">oferta</b> é um presente ou <a id=\"TVbHdsmmFLT1Q3Wu1IXu\" href=\"#t114\">sacrifício</a> oferecido em um ritual para Deus, geralmente no <a id=\"6ouxfctZnqN7cYG54XMr\" href=\"#t138\">templo</a> ou em um <a id=\"TeWPb5vxBY04tQNfjC6C\" href=\"#t3\">altar</a> especial. As pessoas podem fazer ofertas por muitas razões, incluindo para dar graças, para serem <a id=\"1jTtyKzJOpJtmnNe49jW\" href=\"#t208\">purificadas</a> ou para pedir <a id=\"QUkbU1QqxyegWV3bvHhI\" href=\"#t53\">perdão</a> pelo <a id=\"oADLDqwGi0nfz9o7GmRg\" href=\"#t125\">pecado</a>.</p>",
 "associations": {
 "passage": [
 {
@@ -450,6 +450,18 @@
 "end_ref_usfm": "EZR 9:15"
 },
 {
+"start_ref": "16013023",
+"start_ref_usfm": "NEH 13:23",
+"end_ref": "16013031",
+"end_ref_usfm": "NEH 13:31"
+},
+{
+"start_ref": "27002046",
+"start_ref_usfm": "DAN 2:46",
+"end_ref": "27002049",
+"end_ref_usfm": "DAN 2:49"
+},
+{
 "start_ref": "40002001",
 "start_ref_usfm": "MAT 2:1",
 "end_ref": "40002012",
@@ -492,55 +504,12 @@
 "end_ref_usfm": "EPH 5:6"
 }
 ],
-"resource": [
-{
-"reference_id": 0,
-"content_id": "por-t114-v1",
-"resource_code": "FIAKeyTerms",
-"label": "sacrifício",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t138-v1",
-"resource_code": "FIAKeyTerms",
-"label": "templo",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t3-v1",
-"resource_code": "FIAKeyTerms",
-"label": "altar",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t208-v1",
-"resource_code": "FIAKeyTerms",
-"label": "purificadas",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t53-v1",
-"resource_code": "FIAKeyTerms",
-"label": "perdão",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t125-v1",
-"resource_code": "FIAKeyTerms",
-"label": "pecado",
-"language": "por"
-}
-],
+"resource": [],
 "acai": [
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.6531,
+"confidence": 0.6516,
 "match_method": "scored",
 "preferred_label": "offering"
 }
@@ -661,7 +630,7 @@
 "index_reference": "oferta queimada",
 "language": "por",
 "review_level": "None",
-"content": "<p>No Antigo Testamento, uma <b>oferta queimada</b> é uma forma de <data class=\"resource-ref\" data-content-id=\"por-t114-v1\" data-resource-code=\"FIAKeyTerms\">sacrifício</data> que as pessoas trazem para Deus. Quando uma pessoa traz a Deus uma oferta queimada, ele mata um animal e queima esse animal completamente em um <data class=\"resource-ref\" data-content-id=\"por-t3-v1\" data-resource-code=\"FIAKeyTerms\">altar</data>, que é um lugar especial destinado a trazer presentes para Deus. Quando uma pessoa traz a Deus uma oferta queimada, ela está dizendo a Deus: “Assim como eu estou completamente queimando esse animal, estou completamente devotado a você”.</p>",
+"content": "<p id=\"05jSVdPDlk0mRq3HYHuf\">No Antigo Testamento, uma <b id=\"ejl3O9iBQ06MYOEV8OhL\">oferta queimada</b> é uma forma de <a id=\"Ih6HXGxRVESrN9Rwt8Tu\" href=\"#t114\">sacrifício</a> que as pessoas trazem para Deus. Quando uma pessoa traz a Deus uma oferta queimada, ele mata um animal e queima esse animal completamente em um <a id=\"ktQV4mpOwO6ijXbnYJa9\" href=\"#t3\">altar</a>, que é um lugar especial destinado a trazer presentes para Deus. Quando uma pessoa traz a Deus uma oferta queimada, ela está dizendo a Deus: “Assim como eu estou completamente queimando esse animal, estou completamente devotado a você”.</p>",
 "associations": {
 "passage": [
 {
@@ -1265,22 +1234,7 @@
 "end_ref_usfm": "2CH 29:36"
 }
 ],
-"resource": [
-{
-"reference_id": 0,
-"content_id": "por-t114-v1",
-"resource_code": "FIAKeyTerms",
-"label": "sacrifício",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t3-v1",
-"resource_code": "FIAKeyTerms",
-"label": "altar",
-"language": "por"
-}
-],
+"resource": [],
 "acai": []
 }
 },
@@ -1293,7 +1247,7 @@
 "index_reference": "orar",
 "language": "por",
 "review_level": "None",
-"content": "<p>Quando você <b>ora</b>, ou faz uma <b>oração</b>, você está se comunicando com Deus. Você pode estar <data class=\"resource-ref\" data-content-id=\"por-t219-v1\" data-resource-code=\"FIAKeyTerms\">louvando</data>-o, agradecendo-o, pedindo-lhe ajuda, dizendo-lhe sobre as coisas erradas que você fez, pedindo a ele para ajudar as outras pessoas, ou você pode apenas estar chorando diante dele porque você se sente muito triste. Na Bíblia, todas essas coisas são parte da oração.</p><p>Às vezes as pessoas falam em voz alta quando elas oram, e às vezes elas só oram com seus pensamentos. Poderíamos chamar isso de “orar em seu coração”. Às vezes as pessoas se ajoelham para orar, e às vezes elas se levantam, com os braços estendidos para Deus. Não há regras na Bíblia sobre como você deve orar, apenas que você tem que orar sincera e humildemente.</p><p>Às vezes as pessoas podem orar todas juntas ao mesmo tempo. Muitos dos Salmos na Bíblia são orações, e os <data class=\"resource-ref\" data-content-id=\"por-t259-v2\" data-resource-code=\"FIAKeyTerms\">israelitas</data> recitariam ou cantariam essas orações quando eles se reunissem para <data class=\"resource-ref\" data-content-id=\"por-t149-v1\" data-resource-code=\"FIAKeyTerms\">adorar</data> a Deus no <data class=\"resource-ref\" data-content-id=\"por-t138-v1\" data-resource-code=\"FIAKeyTerms\">templo</data>.</p><p>Quando Deus ouve a oração de alguém e responde de alguma maneira, dizemos que Deus respondeu à oração dessa pessoa.</p><p><strong>Quando você estiver traduzindo “oração”, tenha cuidado com as seguintes coisas:</strong></p><p>Alguns idiomas usam uma palavra para oração que significa o falar de certas palavras fixas. Essa não seria uma boa palavra para usar para a oração na Bíblia.</p><p>Alguns idiomas têm mais do que uma palavra para orar, dependendo de que tipo de conversa as pessoas estão tendo com Deus. Por exemplo, alguns idiomas têm uma palavra para as orações de ação de graças e outra palavra para a oração que está pedindo ajuda a Deus. Certifique-se de que você está usando a palavra certa em cada contexto. Talvez você precise usar mais do que uma palavra para a oração em uma passagem.</p>",
+"content": "<p id=\"g1XNcYHstWTZU6qnC0dP\">Quando você <b id=\"1WujuqY669kJOwVZEYU4\">ora</b>, ou faz uma <b id=\"G0mbfHqIkR40ssesdVn1\">oração</b>, você está se comunicando com Deus. Você pode estar <a id=\"Ob1FKtCowi3HEhms0dCk\" href=\"#t219\">louvando</a>-o, agradecendo-o, pedindo-lhe ajuda, dizendo-lhe sobre as coisas erradas que você fez, pedindo a ele para ajudar as outras pessoas, ou você pode apenas estar chorando diante dele porque você se sente muito triste. Na Bíblia, todas essas coisas são parte da oração.</p><p id=\"PMqz6F7KgIdNhX8nveNm\">Às vezes as pessoas falam em voz alta quando elas oram, e às vezes elas só oram com seus pensamentos. Poderíamos chamar isso de “orar em seu coração”. Às vezes as pessoas se ajoelham para orar, e às vezes elas se levantam, com os braços estendidos para Deus. Não há regras na Bíblia sobre como você deve orar, apenas que você tem que orar sincera e humildemente.</p><p id=\"bptcYLd523LJLMwTUHNE\">Às vezes as pessoas podem orar todas juntas ao mesmo tempo. Muitos dos Salmos na Bíblia são orações, e os <a id=\"UEEzRF118qgvKmRHG8Jo\" href=\"#t259\">israelitas</a> recitariam ou cantariam essas orações quando eles se reunissem para <a id=\"JuXBprdZ3897sYsbyD5f\" href=\"#t149\">adorar</a> a Deus no <a id=\"6daUiMqPp17H721ycPkQ\" href=\"#t138\">templo</a>.</p><p id=\"lto42OJoaDJh1CEWbgwk\">Quando Deus ouve a oração de alguém e responde de alguma maneira, dizemos que Deus respondeu à oração dessa pessoa.</p><p id=\"Bd5KSDl6AdpCsDCCsQ2g\"><strong id=\"ZbuE5rnYxE4O5BEHGEaV\">Quando você estiver traduzindo “oração”, tenha cuidado com as seguintes coisas:</strong></p><p id=\"e5QTrYm7QRR9Y9O8Gvd6\">Alguns idiomas usam uma palavra para oração que significa o falar de certas palavras fixas. Essa não seria uma boa palavra para usar para a oração na Bíblia.</p><p id=\"a8Z7d168JnKR8W0uuzKH\">Alguns idiomas têm mais do que uma palavra para orar, dependendo de que tipo de conversa as pessoas estão tendo com Deus. Por exemplo, alguns idiomas têm uma palavra para as orações de ação de graças e outra palavra para a oração que está pedindo ajuda a Deus. Certifique-se de que você está usando a palavra certa em cada contexto. Talvez você precise usar mais do que uma palavra para a oração em uma passagem.</p>",
 "associations": {
 "passage": [
 {
@@ -1523,6 +1477,12 @@
 "start_ref_usfm": "NEH 11:10",
 "end_ref": "16011024",
 "end_ref_usfm": "NEH 11:24"
+},
+{
+"start_ref": "27006010",
+"start_ref_usfm": "DAN 6:10",
+"end_ref": "27006018",
+"end_ref_usfm": "DAN 6:18"
 },
 {
 "start_ref": "32001017",
@@ -1867,36 +1827,7 @@
 "end_ref_usfm": "JUD 1:23"
 }
 ],
-"resource": [
-{
-"reference_id": 0,
-"content_id": "por-t219-v1",
-"resource_code": "FIAKeyTerms",
-"label": "louvando",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t259-v2",
-"resource_code": "FIAKeyTerms",
-"label": "israelitas",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t149-v1",
-"resource_code": "FIAKeyTerms",
-"label": "adorar",
-"language": "por"
-},
-{
-"reference_id": 0,
-"content_id": "por-t138-v1",
-"resource_code": "FIAKeyTerms",
-"label": "templo",
-"language": "por"
-}
-],
+"resource": [],
 "acai": [
 {
 "id": "keyterm:Pray",

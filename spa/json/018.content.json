@@ -16,7 +16,7 @@
 {
 "id": "keyterm:Sabbath",
 "type": "keyterm",
-"confidence": 0.5986,
+"confidence": 0.6017,
 "match_method": "scored",
 "preferred_label": "sábado"
 }
@@ -711,7 +711,7 @@
 {
 "id": "keyterm:Savior",
 "type": "keyterm",
-"confidence": 0.6364,
+"confidence": 0.6353,
 "match_method": "scored",
 "preferred_label": "salvador"
 }
@@ -1365,10 +1365,34 @@
 "end_ref_usfm": "NEH 4:14"
 },
 {
+"start_ref": "16008009",
+"start_ref_usfm": "NEH 8:9",
+"end_ref": "16008012",
+"end_ref_usfm": "NEH 8:12"
+},
+{
+"start_ref": "16010028",
+"start_ref_usfm": "NEH 10:28",
+"end_ref": "16010039",
+"end_ref_usfm": "NEH 10:39"
+},
+{
 "start_ref": "19008001",
 "start_ref_usfm": "PSA 8:1",
 "end_ref": "19008009",
 "end_ref_usfm": "PSA 8:9"
+},
+{
+"start_ref": "27001001",
+"start_ref_usfm": "DAN 1:1",
+"end_ref": "27001007",
+"end_ref_usfm": "DAN 1:7"
+},
+{
+"start_ref": "27001008",
+"start_ref_usfm": "DAN 1:8",
+"end_ref": "27001021",
+"end_ref_usfm": "DAN 1:21"
 },
 {
 "start_ref": "27010010",
@@ -1447,30 +1471,6 @@
 "start_ref_usfm": "MAT 20:29",
 "end_ref": "40020034",
 "end_ref_usfm": "MAT 20:34"
-},
-{
-"start_ref": "40021001",
-"start_ref_usfm": "MAT 21:1",
-"end_ref": "40021011",
-"end_ref_usfm": "MAT 21:11"
-},
-{
-"start_ref": "40022034",
-"start_ref_usfm": "MAT 22:34",
-"end_ref": "40022046",
-"end_ref_usfm": "MAT 22:46"
-},
-{
-"start_ref": "40023037",
-"start_ref_usfm": "MAT 23:37",
-"end_ref": "40024002",
-"end_ref_usfm": "MAT 24:2"
-},
-{
-"start_ref": "40024037",
-"start_ref_usfm": "MAT 24:37",
-"end_ref": "40024044",
-"end_ref_usfm": "MAT 24:44"
 }
 ],
 "resource": [
@@ -2040,10 +2040,34 @@
 "end_ref_usfm": "NEH 4:14"
 },
 {
+"start_ref": "16008009",
+"start_ref_usfm": "NEH 8:9",
+"end_ref": "16008012",
+"end_ref_usfm": "NEH 8:12"
+},
+{
+"start_ref": "16010028",
+"start_ref_usfm": "NEH 10:28",
+"end_ref": "16010039",
+"end_ref_usfm": "NEH 10:39"
+},
+{
 "start_ref": "19008001",
 "start_ref_usfm": "PSA 8:1",
 "end_ref": "19008009",
 "end_ref_usfm": "PSA 8:9"
+},
+{
+"start_ref": "27001001",
+"start_ref_usfm": "DAN 1:1",
+"end_ref": "27001007",
+"end_ref_usfm": "DAN 1:7"
+},
+{
+"start_ref": "27001008",
+"start_ref_usfm": "DAN 1:8",
+"end_ref": "27001021",
+"end_ref_usfm": "DAN 1:21"
 },
 {
 "start_ref": "27010010",
@@ -2122,30 +2146,6 @@
 "start_ref_usfm": "MAT 20:29",
 "end_ref": "40020034",
 "end_ref_usfm": "MAT 20:34"
-},
-{
-"start_ref": "40021001",
-"start_ref_usfm": "MAT 21:1",
-"end_ref": "40021011",
-"end_ref_usfm": "MAT 21:11"
-},
-{
-"start_ref": "40022034",
-"start_ref_usfm": "MAT 22:34",
-"end_ref": "40022046",
-"end_ref_usfm": "MAT 22:46"
-},
-{
-"start_ref": "40023037",
-"start_ref_usfm": "MAT 23:37",
-"end_ref": "40024002",
-"end_ref_usfm": "MAT 24:2"
-},
-{
-"start_ref": "40024037",
-"start_ref_usfm": "MAT 24:37",
-"end_ref": "40024044",
-"end_ref_usfm": "MAT 24:44"
 }
 ],
 "resource": [
