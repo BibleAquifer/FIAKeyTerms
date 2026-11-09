@@ -228,7 +228,7 @@
 "type": "realia",
 "confidence": 0.8648,
 "match_method": "embedding",
-"preferred_label": "Cross"
+"preferred_label": "十字架"
 }
 ]
 }
@@ -1522,6 +1522,18 @@
 "end_ref_usfm": "NEH 13:31"
 },
 {
+"start_ref": "27009001",
+"start_ref_usfm": "DAN 9:1",
+"end_ref": "27009014",
+"end_ref_usfm": "DAN 9:14"
+},
+{
+"start_ref": "27012004",
+"start_ref_usfm": "DAN 12:4",
+"end_ref": "27012013",
+"end_ref_usfm": "DAN 12:13"
+},
+{
 "start_ref": "40005033",
 "start_ref_usfm": "MAT 5:33",
 "end_ref": "40005042",
@@ -1577,7 +1589,7 @@
 "type": "keyterm",
 "confidence": 0.8326,
 "match_method": "embedding",
-"preferred_label": "Oath"
+"preferred_label": "誓言"
 }
 ]
 }

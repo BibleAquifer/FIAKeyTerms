@@ -60,6 +60,12 @@
 "end_ref_usfm": "DAN 7:14"
 },
 {
+"start_ref": "27011002",
+"start_ref_usfm": "DAN 11:2",
+"end_ref": "27011013",
+"end_ref_usfm": "DAN 11:13"
+},
+{
 "start_ref": "40010001",
 "start_ref_usfm": "MAT 10:1",
 "end_ref": "40010015",
@@ -215,9 +221,9 @@
 {
 "id": "keyterm:Authority.2",
 "type": "keyterm",
-"confidence": 0.5858,
+"confidence": 0.5846,
 "match_method": "scored",
-"preferred_label": "Authority"
+"preferred_label": "权柄（统管）"
 }
 ]
 }

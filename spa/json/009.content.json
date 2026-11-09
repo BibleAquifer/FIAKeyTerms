@@ -55,9 +55,9 @@
 {
 "id": "deity:Teraphim",
 "type": "deity",
-"confidence": 0.6063,
+"confidence": 0.6062,
 "match_method": "scored",
-"preferred_label": "teraphim"
+"preferred_label": "terafines"
 }
 ]
 }
@@ -193,16 +193,9 @@
 {
 "id": "person:Isaiah",
 "type": "person",
-"confidence": 1.0,
-"match_method": "embedding",
+"confidence": 0.5567,
+"match_method": "scored",
 "preferred_label": "Isaías"
-},
-{
-"id": "person:Izziah",
-"type": "person",
-"confidence": 0.8057,
-"match_method": "embedding",
-"preferred_label": "Izzías"
 }
 ]
 }
@@ -269,7 +262,7 @@
 "type": "group",
 "confidence": 0.6,
 "match_method": "scored",
-"preferred_label": "Israel"
+"preferred_label": "israelitas"
 }
 ]
 }
@@ -427,7 +420,7 @@
 "type": "group",
 "confidence": 0.5786,
 "match_method": "scored",
-"preferred_label": "Israel"
+"preferred_label": "israelitas"
 }
 ]
 }

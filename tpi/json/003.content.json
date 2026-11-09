@@ -181,7 +181,7 @@
 "type": "place",
 "confidence": 0.673,
 "match_method": "scored",
-"preferred_label": "Filipai"
+"preferred_label": "Sisaria Filipai"
 }
 ]
 }
@@ -281,7 +281,7 @@
 "type": "fauna",
 "confidence": 0.8729,
 "match_method": "embedding",
-"preferred_label": "Camel"
+"preferred_label": "kamel"
 }
 ]
 }
@@ -605,7 +605,7 @@
 "type": "group",
 "confidence": 0.6271,
 "match_method": "scored",
-"preferred_label": "Canaanites"
+"preferred_label": "ol Kenan"
 }
 ]
 }
@@ -1035,7 +1035,7 @@
 "type": "realia",
 "confidence": 0.6115,
 "match_method": "scored",
-"preferred_label": "Winged Creature"
+"preferred_label": "Ensel i gat wing"
 }
 ]
 }
@@ -1853,7 +1853,7 @@
 "type": "group",
 "confidence": 0.6246,
 "match_method": "scored",
-"preferred_label": "Christians"
+"preferred_label": "Ol Kristen"
 }
 ]
 }
@@ -2188,7 +2188,7 @@
 "type": "keyterm",
 "confidence": 0.9331,
 "match_method": "embedding",
-"preferred_label": "Church"
+"preferred_label": "Sios"
 }
 ]
 }
@@ -2524,7 +2524,7 @@
 "type": "keyterm",
 "confidence": 0.5988,
 "match_method": "scored",
-"preferred_label": "Circumcision"
+"preferred_label": "Pasin bilong katim skin"
 }
 ]
 }
@@ -3332,7 +3332,7 @@
 "type": "realia",
 "confidence": 0.8356,
 "match_method": "embedding",
-"preferred_label": "Cloak"
+"preferred_label": "longpela klos"
 }
 ]
 }
@@ -3842,9 +3842,9 @@
 {
 "id": "keyterm:Commandment",
 "type": "keyterm",
-"confidence": 0.5698,
+"confidence": 0.5696,
 "match_method": "scored",
-"preferred_label": "Commandment"
+"preferred_label": "Lo"
 }
 ]
 }
@@ -4413,14 +4413,14 @@
 "type": "realia",
 "confidence": 0.5985,
 "match_method": "scored",
-"preferred_label": "Cornerstone"
+"preferred_label": "nambawan ston bilong strongim banis bilong haus"
 },
 {
 "id": "realia:Foundation",
 "type": "realia",
 "confidence": 0.5693,
 "match_method": "scored",
-"preferred_label": "Foundation"
+"preferred_label": "as bilong haus"
 }
 ]
 }
@@ -5042,7 +5042,7 @@
 "type": "keyterm",
 "confidence": 0.5892,
 "match_method": "scored",
-"preferred_label": "Covenant"
+"preferred_label": "kontrak"
 }
 ]
 }
@@ -5183,7 +5183,7 @@
 "type": "realia",
 "confidence": 0.8648,
 "match_method": "embedding",
-"preferred_label": "Cross"
+"preferred_label": "diwai kros"
 }
 ]
 }

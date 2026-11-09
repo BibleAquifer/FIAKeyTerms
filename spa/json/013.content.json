@@ -132,6 +132,12 @@
 "end_ref_usfm": "2KI 18:37"
 },
 {
+"start_ref": "12019001",
+"start_ref_usfm": "2KI 19:1",
+"end_ref": "12019007",
+"end_ref_usfm": "2KI 19:7"
+},
+{
 "start_ref": "27002046",
 "start_ref_usfm": "DAN 2:46",
 "end_ref": "27002049",
@@ -397,6 +403,12 @@
 "start_ref_usfm": "2KI 18:26",
 "end_ref": "12018037",
 "end_ref_usfm": "2KI 18:37"
+},
+{
+"start_ref": "12019001",
+"start_ref_usfm": "2KI 19:1",
+"end_ref": "12019007",
+"end_ref_usfm": "2KI 19:7"
 },
 {
 "start_ref": "27002046",
@@ -800,14 +812,14 @@
 "type": "place",
 "confidence": 0.607,
 "match_method": "scored",
-"preferred_label": "Sea of Galilee"
+"preferred_label": "mar de Galilea"
 },
 {
 "id": "place:Gennesaret",
 "type": "place",
 "confidence": 0.6042,
 "match_method": "scored",
-"preferred_label": "Genezaret"
+"preferred_label": "Genesaret"
 }
 ]
 }

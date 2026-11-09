@@ -144,6 +144,12 @@
 "end_ref_usfm": "2KI 5:14"
 },
 {
+"start_ref": "12019001",
+"start_ref_usfm": "2KI 19:1",
+"end_ref": "12019007",
+"end_ref_usfm": "2KI 19:7"
+},
+{
 "start_ref": "13005018",
 "start_ref_usfm": "1CH 5:18",
 "end_ref": "13005026",
@@ -240,10 +246,34 @@
 "end_ref_usfm": "NEH 11:24"
 },
 {
+"start_ref": "23001010",
+"start_ref_usfm": "ISA 1:10",
+"end_ref": "23001020",
+"end_ref_usfm": "ISA 1:20"
+},
+{
 "start_ref": "27006010",
 "start_ref_usfm": "DAN 6:10",
 "end_ref": "27006018",
 "end_ref_usfm": "DAN 6:18"
+},
+{
+"start_ref": "27009001",
+"start_ref_usfm": "DAN 9:1",
+"end_ref": "27009014",
+"end_ref_usfm": "DAN 9:14"
+},
+{
+"start_ref": "27009015",
+"start_ref_usfm": "DAN 9:15",
+"end_ref": "27009019",
+"end_ref_usfm": "DAN 9:19"
+},
+{
+"start_ref": "27009020",
+"start_ref_usfm": "DAN 9:20",
+"end_ref": "27009027",
+"end_ref_usfm": "DAN 9:27"
 },
 {
 "start_ref": "32001017",
@@ -580,12 +610,6 @@
 "start_ref_usfm": "JAS 5:13",
 "end_ref": "59005020",
 "end_ref_usfm": "JAS 5:20"
-},
-{
-"start_ref": "65001017",
-"start_ref_usfm": "JUD 1:17",
-"end_ref": "65001023",
-"end_ref_usfm": "JUD 1:23"
 }
 ],
 "resource": [],
@@ -595,7 +619,7 @@
 "type": "keyterm",
 "confidence": 0.8937,
 "match_method": "embedding",
-"preferred_label": "Pray"
+"preferred_label": "祷告"
 }
 ]
 }
@@ -985,6 +1009,18 @@
 "end_ref_usfm": "EZR 1:11"
 },
 {
+"start_ref": "23001010",
+"start_ref_usfm": "ISA 1:10",
+"end_ref": "23001020",
+"end_ref_usfm": "ISA 1:20"
+},
+{
+"start_ref": "27010001",
+"start_ref_usfm": "DAN 10:1",
+"end_ref": "27010009",
+"end_ref_usfm": "DAN 10:9"
+},
+{
 "start_ref": "32001001",
 "start_ref_usfm": "JON 1:1",
 "end_ref": "32001016",
@@ -1199,18 +1235,6 @@
 "start_ref_usfm": "JAS 1:12",
 "end_ref": "59001018",
 "end_ref_usfm": "JAS 1:18"
-},
-{
-"start_ref": "59001019",
-"start_ref_usfm": "JAS 1:19",
-"end_ref": "59001027",
-"end_ref_usfm": "JAS 1:27"
-},
-{
-"start_ref": "62001001",
-"start_ref_usfm": "1JN 1:1",
-"end_ref": "62001004",
-"end_ref_usfm": "1JN 1:4"
 }
 ],
 "resource": [],
@@ -1220,7 +1244,7 @@
 "type": "keyterm",
 "confidence": 1.0,
 "match_method": "embedding",
-"preferred_label": "Word"
+"preferred_label": "话语"
 }
 ]
 }

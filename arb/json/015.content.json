@@ -106,7 +106,7 @@
 "type": "keyterm",
 "confidence": 1.0,
 "match_method": "embedding",
-"preferred_label": "Word"
+"preferred_label": "كَلِمَة"
 }
 ]
 }
@@ -152,7 +152,7 @@
 "type": "keyterm",
 "confidence": 0.9331,
 "match_method": "embedding",
-"preferred_label": "Church"
+"preferred_label": "كنيسة"
 }
 ]
 }
@@ -442,9 +442,9 @@
 {
 "id": "flora:Vine",
 "type": "flora",
-"confidence": 0.6113,
+"confidence": 0.6174,
 "match_method": "scored",
-"preferred_label": "Vine"
+"preferred_label": "كَرْمَة"
 }
 ]
 }
@@ -497,7 +497,7 @@
 "type": "realia",
 "confidence": 0.6115,
 "match_method": "scored",
-"preferred_label": "Winged Creature"
+"preferred_label": "كائِنٌ مُجَنَّح"
 }
 ]
 }
@@ -543,7 +543,7 @@
 "type": "place",
 "confidence": 0.6221,
 "match_method": "scored",
-"preferred_label": "كَفْرَنَاحومَ"
+"preferred_label": "كَفْرَنَاحُوم"
 }
 ]
 }
@@ -638,7 +638,7 @@
 "type": "group",
 "confidence": 0.6271,
 "match_method": "scored",
-"preferred_label": "Canaanites"
+"preferred_label": "الكنعانيون"
 }
 ]
 }
@@ -662,7 +662,7 @@
 "type": "place",
 "confidence": 0.62,
 "match_method": "scored",
-"preferred_label": "Gerasa"
+"preferred_label": "جَرَاسَا"
 }
 ]
 }

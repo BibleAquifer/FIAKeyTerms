@@ -408,6 +408,12 @@
 "end_ref_usfm": "2KI 17:23"
 },
 {
+"start_ref": "12019001",
+"start_ref_usfm": "2KI 19:1",
+"end_ref": "12019007",
+"end_ref_usfm": "2KI 19:7"
+},
+{
 "start_ref": "13009017",
 "start_ref_usfm": "1CH 9:17",
 "end_ref": "13009027",
@@ -604,12 +610,6 @@
 "start_ref_usfm": "NEH 6:1",
 "end_ref": "16006014",
 "end_ref_usfm": "NEH 6:14"
-},
-{
-"start_ref": "16009026",
-"start_ref_usfm": "NEH 9:26",
-"end_ref": "16009031",
-"end_ref_usfm": "NEH 9:31"
 }
 ],
 "resource": [],
@@ -1236,7 +1236,7 @@
 "type": "keyterm",
 "confidence": 0.5747,
 "match_method": "scored",
-"preferred_label": "Slaughtering"
+"preferred_label": "宰杀祭牲"
 }
 ]
 }

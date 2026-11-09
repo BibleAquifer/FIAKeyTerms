@@ -313,7 +313,7 @@
 "type": "group",
 "confidence": 0.607,
 "match_method": "scored",
-"preferred_label": "Galiléen"
+"preferred_label": "Galiléens"
 }
 ]
 }
@@ -1986,7 +1986,7 @@
 "type": "group",
 "confidence": 0.6066,
 "match_method": "scored",
-"preferred_label": "Yavanite"
+"preferred_label": "Grecs"
 },
 {
 "id": "place:Canaan",
@@ -2392,7 +2392,7 @@
 "type": "place",
 "confidence": 0.62,
 "match_method": "scored",
-"preferred_label": "Gerasa"
+"preferred_label": "Gérasa"
 }
 ]
 }
@@ -2618,6 +2618,12 @@
 "start_ref_usfm": "PSA 8:1",
 "end_ref": "19008009",
 "end_ref_usfm": "PSA 8:9"
+},
+{
+"start_ref": "23004002",
+"start_ref_usfm": "ISA 4:2",
+"end_ref": "23004006",
+"end_ref_usfm": "ISA 4:6"
 },
 {
 "start_ref": "27002001",
@@ -3221,6 +3227,12 @@
 "start_ref_usfm": "PSA 8:1",
 "end_ref": "19008009",
 "end_ref_usfm": "PSA 8:9"
+},
+{
+"start_ref": "23004002",
+"start_ref_usfm": "ISA 4:2",
+"end_ref": "23004006",
+"end_ref_usfm": "ISA 4:6"
 },
 {
 "start_ref": "27002001",
@@ -4397,6 +4409,12 @@
 "end_ref_usfm": "DAN 11:1"
 },
 {
+"start_ref": "27011002",
+"start_ref_usfm": "DAN 11:2",
+"end_ref": "27011013",
+"end_ref_usfm": "DAN 11:13"
+},
+{
 "start_ref": "41007024",
 "start_ref_usfm": "MRK 7:24",
 "end_ref": "41007030",
@@ -4496,7 +4514,7 @@
 "type": "group",
 "confidence": 0.9458,
 "match_method": "embedding",
-"preferred_label": "Yavanite"
+"preferred_label": "Grecs"
 }
 ]
 }
@@ -4518,6 +4536,12 @@
 "start_ref_usfm": "DAN 10:10",
 "end_ref": "27011001",
 "end_ref_usfm": "DAN 11:1"
+},
+{
+"start_ref": "27011002",
+"start_ref_usfm": "DAN 11:2",
+"end_ref": "27011013",
+"end_ref_usfm": "DAN 11:13"
 },
 {
 "start_ref": "41007024",

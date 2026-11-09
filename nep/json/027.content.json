@@ -96,7 +96,7 @@
 "type": "keyterm",
 "confidence": 0.8767,
 "match_method": "embedding",
-"preferred_label": "Blood"
+"preferred_label": "रगत"
 }
 ]
 }
@@ -175,7 +175,7 @@
 "type": "keyterm",
 "confidence": 0.9235,
 "match_method": "embedding",
-"preferred_label": "Kingdom"
+"preferred_label": "राज्य"
 }
 ]
 }
@@ -193,15 +193,7 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": [
-{
-"id": "group:Gentile",
-"type": "group",
-"confidence": 0.5667,
-"match_method": "scored",
-"preferred_label": "Gentiles"
-}
-]
+"acai": []
 }
 }
 ]

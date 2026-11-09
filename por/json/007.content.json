@@ -305,7 +305,7 @@
 "type": "group",
 "confidence": 0.607,
 "match_method": "scored",
-"preferred_label": "Galileans"
+"preferred_label": "galileus"
 }
 ]
 }
@@ -817,7 +817,7 @@
 "type": "group",
 "confidence": 0.6066,
 "match_method": "scored",
-"preferred_label": "Greeks"
+"preferred_label": "gregos"
 },
 {
 "id": "place:Canaan",
@@ -1514,6 +1514,12 @@
 "end_ref_usfm": "PSA 8:9"
 },
 {
+"start_ref": "23004002",
+"start_ref_usfm": "ISA 4:2",
+"end_ref": "23004006",
+"end_ref_usfm": "ISA 4:6"
+},
+{
 "start_ref": "27002001",
 "start_ref_usfm": "DAN 2:1",
 "end_ref": "27002013",
@@ -1911,7 +1917,7 @@
 "type": "keyterm",
 "confidence": 0.8844,
 "match_method": "embedding",
-"preferred_label": "Glory"
+"preferred_label": "glória"
 }
 ]
 }
@@ -2537,6 +2543,12 @@
 "end_ref_usfm": "DAN 11:1"
 },
 {
+"start_ref": "27011002",
+"start_ref_usfm": "DAN 11:2",
+"end_ref": "27011013",
+"end_ref_usfm": "DAN 11:13"
+},
+{
 "start_ref": "41007024",
 "start_ref_usfm": "MRK 7:24",
 "end_ref": "41007030",
@@ -2628,7 +2640,7 @@
 "type": "group",
 "confidence": 0.9458,
 "match_method": "embedding",
-"preferred_label": "Greeks"
+"preferred_label": "gregos"
 }
 ]
 }

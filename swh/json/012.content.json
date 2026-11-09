@@ -106,7 +106,7 @@
 "type": "realia",
 "confidence": 0.8735,
 "match_method": "embedding",
-"preferred_label": "Altar"
+"preferred_label": "Madhabahu"
 }
 ]
 }
@@ -429,7 +429,7 @@
 "type": "realia",
 "confidence": 0.6115,
 "match_method": "scored",
-"preferred_label": "Winged Creature"
+"preferred_label": "Kiumbe mwenye mabawa"
 }
 ]
 }
@@ -591,9 +591,9 @@
 {
 "id": "keyterm:Authority.2",
 "type": "keyterm",
-"confidence": 0.5858,
+"confidence": 0.5846,
 "match_method": "scored",
-"preferred_label": "Authority"
+"preferred_label": "Mamlaka"
 }
 ]
 }
@@ -625,7 +625,7 @@
 "type": "keyterm",
 "confidence": 0.8883,
 "match_method": "embedding",
-"preferred_label": "Vision"
+"preferred_label": "Maono"
 }
 ]
 }
@@ -864,7 +864,7 @@
 "type": "group",
 "confidence": 0.6168,
 "match_method": "scored",
-"preferred_label": "Sadducees"
+"preferred_label": "Masadukayo"
 }
 ]
 }
@@ -910,14 +910,14 @@
 "type": "realia",
 "confidence": 0.8956,
 "match_method": "embedding",
-"preferred_label": "Boat"
+"preferred_label": "Chombo cha majini"
 },
 {
 "id": "realia:Ship",
 "type": "realia",
 "confidence": 0.8044,
 "match_method": "embedding",
-"preferred_label": "Ship"
+"preferred_label": "Meli"
 }
 ]
 }
@@ -1303,7 +1303,7 @@
 "type": "keyterm",
 "confidence": 0.8132,
 "match_method": "embedding",
-"preferred_label": "Proverb"
+"preferred_label": "Methali"
 }
 ]
 }
@@ -1365,7 +1365,7 @@
 "type": "keyterm",
 "confidence": 0.5911,
 "match_method": "scored",
-"preferred_label": "Parable"
+"preferred_label": "Mfano"
 }
 ]
 }
@@ -1645,7 +1645,7 @@
 "type": "group",
 "confidence": 0.6246,
 "match_method": "scored",
-"preferred_label": "Christians"
+"preferred_label": "Wakristo"
 }
 ]
 }
@@ -1733,14 +1733,14 @@
 "type": "person",
 "confidence": 0.6761,
 "match_method": "scored",
-"preferred_label": "Walawi"
+"preferred_label": "Lawi"
 },
 {
 "id": "group:Levi",
 "type": "group",
 "confidence": 0.6397,
 "match_method": "scored",
-"preferred_label": "Walawi"
+"preferred_label": "Kabila la Lawi"
 }
 ]
 }
@@ -1770,9 +1770,9 @@
 {
 "id": "realia:Tower",
 "type": "realia",
-"confidence": 0.5836,
+"confidence": 0.5877,
 "match_method": "scored",
-"preferred_label": "Tower"
+"preferred_label": "Mnara"
 }
 ]
 }
@@ -1825,7 +1825,7 @@
 "type": "keyterm",
 "confidence": 0.8856,
 "match_method": "embedding",
-"preferred_label": "Heart"
+"preferred_label": "Moyo"
 }
 ]
 }
@@ -1873,7 +1873,7 @@
 "type": "realia",
 "confidence": 0.8648,
 "match_method": "embedding",
-"preferred_label": "Cross"
+"preferred_label": "msalaba"
 }
 ]
 }
@@ -2012,7 +2012,7 @@
 "type": "flora",
 "confidence": 0.6598,
 "match_method": "scored",
-"preferred_label": "Fig"
+"preferred_label": "Tini"
 }
 ]
 }
@@ -2072,7 +2072,7 @@
 "type": "place",
 "confidence": 0.659,
 "match_method": "scored",
-"preferred_label": "Yordani"
+"preferred_label": "Mto Yordani"
 }
 ]
 }
@@ -2181,14 +2181,14 @@
 "type": "group",
 "confidence": 0.6066,
 "match_method": "scored",
-"preferred_label": "Greeks"
+"preferred_label": "Wayunani"
 },
 {
 "id": "place:Canaan",
 "type": "place",
 "confidence": 0.6007,
 "match_method": "scored",
-"preferred_label": "Wakanaani"
+"preferred_label": "Kanaani"
 }
 ]
 }
@@ -2373,7 +2373,7 @@
 "type": "realia",
 "confidence": 0.9235,
 "match_method": "embedding",
-"preferred_label": "Wine"
+"preferred_label": "Divai"
 }
 ]
 }
@@ -2894,7 +2894,7 @@
 "type": "group",
 "confidence": 0.5786,
 "match_method": "scored",
-"preferred_label": "Israelites"
+"preferred_label": "Waisraeli"
 }
 ]
 }
@@ -2918,7 +2918,7 @@
 "type": "keyterm",
 "confidence": 0.6353,
 "match_method": "scored",
-"preferred_label": "Savior"
+"preferred_label": "Mwokozi"
 }
 ]
 }

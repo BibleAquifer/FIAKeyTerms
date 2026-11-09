@@ -40,14 +40,14 @@
 "type": "realia",
 "confidence": 0.8956,
 "match_method": "embedding",
-"preferred_label": "Boat"
+"preferred_label": "जहाज"
 },
 {
 "id": "realia:Ship",
 "type": "realia",
 "confidence": 0.8044,
 "match_method": "embedding",
-"preferred_label": "Ship"
+"preferred_label": "जहाज"
 }
 ]
 }
@@ -93,7 +93,7 @@
 "type": "place",
 "confidence": 0.6296,
 "match_method": "scored",
-"preferred_label": "Decapolis"
+"preferred_label": "डेकापोलिस"
 }
 ]
 }
@@ -125,7 +125,7 @@
 "type": "realia",
 "confidence": 0.617,
 "match_method": "scored",
-"preferred_label": "Drachma"
+"preferred_label": "द्राख्‍मा"
 }
 ]
 }

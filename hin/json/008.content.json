@@ -1,61 +1,263 @@
 [
 {
-"content_id": "hin-t30-v1",
+"content_id": "hin-t41-v1",
 "reference_id": 0,
 "version": "1.0.4",
-"title": "क्रूस",
+"title": "गधा",
 "media_type": "Text",
-"index_reference": "क्रूस",
+"index_reference": "गधा",
 "language": "hin",
 "review_level": "None",
-"content": "<p>एक <b>क्रूस</b> एक खड़ी लकड़ी का लट्ठा होता है, जिसके ऊपरी हिस्से में एक और लकड़ी का लट्ठा आड़ा जुड़ा होता है, जिसे क्रूस की &quot;आड़ी लकड़ी&quot; कहा जाता है। रोमी लोग इसका इस्तेमाल उन लोगों को कष्ट पहुँचाने और मौत की सजा देने के लिए करते थे जिन्हें वे सबसे बड़ा अपराधी मानते थे। लोग इसे &quot;<data class=\"resource-ref\" data-content-id=\"hin-t169-v1\" data-resource-code=\"FIAKeyTerms\">क्रूस पर चढ़ाना</data>&quot; कहते थे। क्रूस पर चढ़ाना मरने का सबसे दर्दनाक और अपमानजनक तरीका था। जिस व्यक्ति को क्रूस पर चढ़ाया जाना होता था, उसे पहले बड़ी बेरहमी से कोड़े मारे जाते थे, और फिर उसे क्रूस की आड़ी लकड़ी उठाकर सजा के स्थान तक ले जाना पड़ता था। फिर सैनिक पीड़ित को लकड़ी के क्रूस पर लिटाकर, उसकी बाँहों को खींचकर दोनों ओर फैलाते थे। इसके बाद सैनिक उस व्यक्ति की कलाई या हाथों में और उसके पैरों में भी लोहे की बड़ी कीलें ठोंकते थे, ताकि उसे क्रूस पर स्थिर किया जा सके। तब वे क्रूस को खड़ा कर देते थे और उस नग्न पीड़ित को लोगों के सामने तब तक लटकाए रखते थे जब तक उसकी मृत्यु न हो जाए। क्रूस एक गहरी लज्जा और अपमान का प्रतीक था।</p>",
+"content": "<p><b>गधा</b> एक ऐसा जानवर है जो इतना बड़ा होता है कि वह भारी बोझ या लोगों को उठा सकता है। लोग गधों को खेतों में काम कराने या बोझ ढोने में मदद के लिए पालते थे। गधे को एक शांतिपूर्ण जानवर माना जाता था, जबकि घोड़ा एक बड़ा जानवर था जिस पर सैनिक युद्ध के समय सवारी किया करते थे।</p>",
 "associations": {
 "passage": [],
-"resource": [
-{
-"reference_id": 0,
-"content_id": "hin-t169-v1",
-"resource_code": "FIAKeyTerms",
-"label": "क्रूस पर चढ़ाना",
-"language": "hin"
-}
-],
+"resource": [],
 "acai": [
 {
-"id": "realia:Cross",
-"type": "realia",
-"confidence": 0.8648,
+"id": "fauna:Donkey",
+"type": "fauna",
+"confidence": 0.8198,
 "match_method": "embedding",
-"preferred_label": "Cross"
+"preferred_label": "गधा"
 }
 ]
 }
 },
 {
-"content_id": "hin-t169-v1",
+"content_id": "hin-t55-v1",
 "reference_id": 0,
 "version": "1.0.4",
-"title": "क्रूस पर चढ़ाना",
+"title": "गलील",
 "media_type": "Text",
-"index_reference": "क्रूस पर चढ़ाना",
+"index_reference": "गलील",
 "language": "hin",
 "review_level": "None",
-"content": "<p><b>क्रूस पर चढ़ाना</b> लोगों को सजा देने का रोमी तरीका था। इसका इस्तेमाल केवल <data class=\"resource-ref\" data-content-id=\"hin-t126-v2\" data-resource-code=\"FIAKeyTerms\">दासों</data> और सबसे बुरे अपराधियों के लिए किया जाता था। क्रूस पर चढ़ाना मरने का सबसे दर्दनाक और अपमानजनक तरीका था। क्रूस पर चढ़ाने का अर्थ है कि किसी को <data class=\"resource-ref\" data-content-id=\"hin-t30-v1\" data-resource-code=\"FIAKeyTerms\">क्रूस</data> पर कीलों से ठोंककर लटका देना और मरने के लिए छोड़ देना।</p><p>एक क्रूस एक खड़ी लकड़ी का लट्ठा होता है, जिसके ऊपरी हिस्से में एक और लकड़ी का लट्ठा आड़ा जुड़ा होता है, जिसे क्रूस की &quot;आड़ी लकड़ी&quot; कहा जाता है। जिस व्यक्ति को क्रूस पर चढ़ाया जाना होता था, उसे पहले बड़ी बेरहमी से कोड़े मारे जाते थे, और फिर उसे क्रूस की आड़ी लकड़ी उठाकर सजा के स्थान तक ले जाना पड़ता था। फिर सैनिक पीड़ित को लकड़ी के क्रूस पर लिटाकर, उसकी बाँहों को खींचकर दोनों ओर फैलाते थे। इसके बाद सैनिक उस व्यक्ति की कलाई या हाथों में और उसके पैरों में भी लोहे की बड़ी कीलें ठोंकते थे, ताकि उसे क्रूस पर स्थिर किया जा सके। कभी-कभी सैनिक किसी व्यक्ति को केवल रस्सी से बाँधते थे और कीलों का इस्तेमाल नहीं करते थे। तब वे क्रूस को खड़ा कर देते थे और उस नग्न पीड़ित को लोगों के सामने तब तक लटकाए रखते थे जब तक उसकी मृत्यु न हो जाए। पीड़ित हिल नहीं सकता था और लगातार दर्द में रहता था। अंत में वह दर्द, भूख और प्यास के कारण या ठीक से साँस न ले पाने के कारण मर जाता था। इसमें कई घंटे या कभी-कभी कई दिन भी लग सकते थे। कभी-कभी सैनिक पीड़ित की टाँगें तोड़ देते थे ताकि वह साँस लेने के लिए खुद को ऊपर न उठा सके और जल्दी मर जाए।</p>",
+"content": "<p><b>गलील</b> उत्तरी <data class=\"resource-ref\" data-content-id=\"hin-t74-v2\" data-resource-code=\"FIAKeyTerms\">इस्राएल</data> के एक क्षेत्र का नाम है। यीशु गलील में पला-बढ़ा और अपने प्रचार का अधिकतर काम गलील में ही किया। यीशु के ज़्यादातर <data class=\"resource-ref\" data-content-id=\"hin-t39-v1\" data-resource-code=\"FIAKeyTerms\">चेले</data> गलील से थे। गलील के ज़्यादातर भाग पहाड़ी हैं, जहाँ छोटी-छोटी पहाड़ियाँ हैं। गलील के पूर्व या दाईं ओर, एक बड़ी झील है जिसे <data class=\"resource-ref\" data-content-id=\"hin-t121-v1\" data-resource-code=\"FIAKeyTerms\">गलील की झील</data> कहा जाता है। गलील में बहुत से लोग मछली पकड़ने या बेचकर अपना जीवनयापन करते थे। यीशु के कुछ चेले मछुआरे थे, जो गलील की झील के आसपास के गाँवों में रहते थे। गलील की झील के अन्य नाम हैं <b>गन्नेसरत की झील</b> या <b>तिबिरियास की झील</b>।</p><p>यीशु के समय में, इस्राएल एक स्वतंत्र <data class=\"resource-ref\" data-content-id=\"hin-t94-v1\" data-resource-code=\"FIAKeyTerms\">राष्ट्र</data> नहीं था। <b>इस्राएलियों</b> पर रोमी लोगों का शासन था। रोमी लोगों ने इस्राएल को कई क्षेत्रों या इलाकों में बाँट दिया था। यीशु के जीवन के दौरान, गलील पर अन्तिपास नाम के एक शासक का शासन था, जिसे रोमी सरकार द्वारा नियुक्त किया गया था। अन्तिपास राजा हेरोदेस का पुत्र था, जिसने यीशु को बचपन में मारने की कोशिश की थी। अन्तिपास उस हेरोदेस का भाई था जिसने यीशु को क्रूस पर चढ़ाने का आदेश दिया था।</p><p>इस्राएल के दूसरे इलाके <data class=\"resource-ref\" data-content-id=\"hin-t81-v1\" data-resource-code=\"FIAKeyTerms\">यहूदिया</data> और <b>सामरिया</b> थे। गलील उत्तर में था, यहूदिया दक्षिण में था, और सामरिया बीच में था। यहूदिया वह जगह थी जहाँ सबसे महत्वपूर्ण शहर, <data class=\"resource-ref\" data-content-id=\"hin-t76-v1\" data-resource-code=\"FIAKeyTerms\">यरूशलेम</data> था, और इसलिए वहीं परमेश्वर का <data class=\"resource-ref\" data-content-id=\"hin-t138-v1\" data-resource-code=\"FIAKeyTerms\">मन्दिर</data> था। यहूदिया के लोग अक्सर सोचते थे कि वे गलील के लोगों से बेहतर <data class=\"resource-ref\" data-content-id=\"hin-t77-v2\" data-resource-code=\"FIAKeyTerms\">यहूदी</data> हैं। वे गलील के लोगों को नीचा समझते थे, और सोचते थे कि गलील के लोग अनपढ़ और असभ्य हैं। यहूदिया के लोगों की तरह गलील के लोग भी सामरिया के लोगों को नीचा समझते थे, क्योंकि वे उन्हें यहूदी नहीं मानते थे।</p>",
 "associations": {
 "passage": [],
 "resource": [
 {
 "reference_id": 0,
-"content_id": "hin-t126-v2",
+"content_id": "hin-t74-v2",
 "resource_code": "FIAKeyTerms",
-"label": "दासों",
+"label": "इस्राएल",
 "language": "hin"
 },
 {
 "reference_id": 0,
-"content_id": "hin-t30-v1",
+"content_id": "hin-t39-v1",
 "resource_code": "FIAKeyTerms",
-"label": "क्रूस",
+"label": "चेले",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t121-v1",
+"resource_code": "FIAKeyTerms",
+"label": "गलील की झील",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t94-v1",
+"resource_code": "FIAKeyTerms",
+"label": "राष्ट्र",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t81-v1",
+"resource_code": "FIAKeyTerms",
+"label": "यहूदिया",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t76-v1",
+"resource_code": "FIAKeyTerms",
+"label": "यरूशलेम",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t138-v1",
+"resource_code": "FIAKeyTerms",
+"label": "मन्दिर",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t77-v2",
+"resource_code": "FIAKeyTerms",
+"label": "यहूदी",
+"language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.6384,
+"match_method": "scored",
+"preferred_label": "गलील"
+},
+{
+"id": "place:Judea",
+"type": "place",
+"confidence": 0.6093,
+"match_method": "scored",
+"preferred_label": "यहूदिया"
+},
+{
+"id": "group:Galilee",
+"type": "group",
+"confidence": 0.607,
+"match_method": "scored",
+"preferred_label": "गलीली"
+}
+]
+}
+},
+{
+"content_id": "hin-t121-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "गलील की झील",
+"media_type": "Text",
+"index_reference": "गलील की झील",
+"language": "hin",
+"review_level": "None",
+"content": "<p><b>गलील की झील</b> इस्राएल के उत्तर में स्थित एक समुद्र, या <data class=\"resource-ref\" data-content-id=\"hin-t74-v2\" data-resource-code=\"FIAKeyTerms\">झील</data> है। नए नियम में, गलील की झील के पास वाले देश के हिस्से को <data class=\"resource-ref\" data-content-id=\"hin-t55-v1\" data-resource-code=\"FIAKeyTerms\">गलील</data> कहा जाता है।</p><p>समुद्र या झील वह जगह है जहाँ केवल पानी होता है। समुद्र आमतौर पर झील से बड़ा होता है, लेकिन बाइबल में गलील की झील को कभी समुद्र और कभी झील कहा गया है।</p><p>गलील की झील लगभग 20 किलोमीटर लंबी और 10 किलोमीटर चौड़ी थी। यदि आप झील के चारों ओर घूमना चाहते हैं, तो आपको एक या दो दिन पैदल चलना पड़ेगा। लोग अक्सर झील की एक तरफ से दूसरी तरफ जाने के लिए <data class=\"resource-ref\" data-content-id=\"hin-t17-v1\" data-resource-code=\"FIAKeyTerms\">नावों</data> का इस्तेमाल करते थे। झील का बीच का हिस्सा बहुत गहरा था। झील में बहुत सी मछलियाँ थीं, और झील के आसपास के गाँवों में रहने वाले ज़्यादातर लोग मछलियाँ पकड़कर और बेचकर अपना जीवन यापन करते थे। समुद्र का पानी मीठा था, जिसका अर्थ है कि यह खारा नहीं था, जैसा कि कई दूसरे समुद्रों का पानी होता है।</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "hin-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "झील",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t55-v1",
+"resource_code": "FIAKeyTerms",
+"label": "गलील",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t17-v1",
+"resource_code": "FIAKeyTerms",
+"label": "नावों",
+"language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 0.6153,
+"match_method": "scored",
+"preferred_label": "गलील"
+},
+{
+"id": "place:GalileeSea",
+"type": "place",
+"confidence": 0.607,
+"match_method": "scored",
+"preferred_label": "गलील की झील"
+},
+{
+"id": "place:Gennesaret",
+"type": "place",
+"confidence": 0.6042,
+"match_method": "scored",
+"preferred_label": "गन्नेसरत"
+}
+]
+}
+},
+{
+"content_id": "hin-t57-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "गिरासेनियों",
+"media_type": "Text",
+"index_reference": "गिरासेनियों",
+"language": "hin",
+"review_level": "None",
+"content": "<p>ये नाम उस क्षेत्र और उसके शहरों के लिए हैं, जो <b>गलील की झील</b> के दक्षिण-पूर्वी किनारे पर स्थित है। यहाँ रहने वाले ज़्यादातर लोग <b>यहूदी</b> नहीं थे। यह क्षेत्र <b>दिकापुलिस</b> का हिस्सा था।</p>",
+"associations": {
+"passage": [],
+"resource": [],
+"acai": [
+{
+"id": "place:Gerasa",
+"type": "place",
+"confidence": 0.62,
+"match_method": "scored",
+"preferred_label": "गिरासा"
+}
+]
+}
+},
+{
+"content_id": "hin-t136-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "गुरु",
+"media_type": "Text",
+"index_reference": "गुरु",
+"language": "hin",
+"review_level": "None",
+"content": "<p>बाइबल में <b>गुरु</b> हमेशा <b>धार्मिक गुरु</b> होता है: वह व्यक्ति जो लोगों को <data class=\"resource-ref\" data-content-id=\"hin-t120-v1\" data-resource-code=\"FIAKeyTerms\">शास्त्रों</data> की व्याख्या करता है। लोग ऐसे गुरु के लिए अपनी भाषा में जो शब्द इस्तेमाल करते थे वह &quot;<b>रब्बी</b>&quot; था, और इसलिए कुछ अनुवादों में इसे &quot;गुरु&quot; और कुछ में &quot;रब्बी&quot; कहा गया है।</p><p><b>जब आप &quot;गुरु&quot; शब्द का अनुवाद कर रहे हों, तो इन बातों का ध्यान रखें:</b></p><p>आप अपनी भाषा में ऐसा शब्द या वाक्यांश इस्तेमाल कर सकते हैं जिसका अर्थ &quot;गुरु&quot; होता है। लेकिन वह शब्द ऐसा नहीं होना चाहिए जो केवल स्कूल में बच्चों के शिक्षक के लिए ही इस्तेमाल किया जाता हो।</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "hin-t120-v1",
+"resource_code": "FIAKeyTerms",
+"label": "शास्त्रों",
+"language": "hin"
+}
+],
+"acai": []
+}
+},
+{
+"content_id": "hin-t101-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "ग्रस्त",
+"media_type": "Text",
+"index_reference": "ग्रस्त",
+"language": "hin",
+"review_level": "None",
+"content": "<p>कोई व्यक्ति जो किसी <data class=\"resource-ref\" data-content-id=\"hin-t36-v1\" data-resource-code=\"FIAKeyTerms\">बुरी-आत्मा</data>से <b>ग्रस्त</b> है, जो एक <data class=\"resource-ref\" data-content-id=\"hin-t47-v1\" data-resource-code=\"FIAKeyTerms\">दुष्ट आत्मा</data> है वह उस बुरी-आत्मा के नियंत्रण में होता है। दुष्टात्मा किसी व्यक्ति से अजीब या हिंसक व्यवहार करवा सकती है या उसे बीमार करके दुख पहुँचा सकती है।</p><p>एक दुष्टात्मा किसी व्यक्ति को विशेष शक्तियाँ भी दे सकती है, जिससे वह छुपी हुई बातें जान सके, जो और लोग नहीं जानते। <data class=\"resource-ref\" data-content-id=\"hin-t74-v2\" data-resource-code=\"FIAKeyTerms\">इस्राएल</data> के आस-पास की संस्कृतियों में कुछ लोग जान-बूझकर दुष्टात्मा से ग्रस्त होने की कोशिश करते थे, ताकि वे भविष्य की बातें जान सकें या कोई गुप्त ज्ञान प्राप्त कर सकें। परमेश्वर ने <b>इस्राएलियों</b> को ऐसा करने से मना किया था।</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "hin-t36-v1",
+"resource_code": "FIAKeyTerms",
+"label": "बुरी-आत्मा",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t47-v1",
+"resource_code": "FIAKeyTerms",
+"label": "दुष्ट आत्मा",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "इस्राएल",
 "language": "hin"
 }
 ],

@@ -192,6 +192,12 @@
 "end_ref_usfm": "PSA 8:9"
 },
 {
+"start_ref": "23004002",
+"start_ref_usfm": "ISA 4:2",
+"end_ref": "23004006",
+"end_ref_usfm": "ISA 4:6"
+},
+{
 "start_ref": "27002001",
 "start_ref_usfm": "DAN 2:1",
 "end_ref": "27002013",
@@ -589,7 +595,7 @@
 "type": "keyterm",
 "confidence": 0.8844,
 "match_method": "embedding",
-"preferred_label": "Glory"
+"preferred_label": "荣耀"
 }
 ]
 }

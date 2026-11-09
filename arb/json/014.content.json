@@ -47,7 +47,7 @@
 "type": "keyterm",
 "confidence": 0.8856,
 "match_method": "embedding",
-"preferred_label": "Heart"
+"preferred_label": "قَلْب"
 }
 ]
 }
@@ -111,7 +111,7 @@
 "type": "person",
 "confidence": 0.5603,
 "match_method": "scored",
-"preferred_label": "ٱلدِّينِيِّينَ"
+"preferred_label": "ٱلدِّينِيُّون"
 }
 ]
 }
@@ -223,9 +223,9 @@
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.6516,
+"confidence": 0.6512,
 "match_method": "scored",
-"preferred_label": "Offering"
+"preferred_label": "تَقْدِمَة"
 }
 ]
 }
@@ -249,7 +249,7 @@
 "type": "keyterm",
 "confidence": 0.8326,
 "match_method": "embedding",
-"preferred_label": "Oath"
+"preferred_label": "قَسَم"
 }
 ]
 }
@@ -273,14 +273,14 @@
 "type": "realia",
 "confidence": 0.8794,
 "match_method": "embedding",
-"preferred_label": "Tunic"
+"preferred_label": "قَمِيص"
 },
 {
 "id": "realia:Tunic.2",
 "type": "realia",
 "confidence": 0.8794,
 "match_method": "embedding",
-"preferred_label": "Tunic"
+"preferred_label": "قَمِيص مُلَوَّن"
 }
 ]
 }
@@ -304,7 +304,7 @@
 "type": "keyterm",
 "confidence": 0.8756,
 "match_method": "embedding",
-"preferred_label": "Strength"
+"preferred_label": "قوة"
 }
 ]
 }
@@ -357,7 +357,7 @@
 "type": "keyterm",
 "confidence": 0.6276,
 "match_method": "scored",
-"preferred_label": "Resurrection"
+"preferred_label": "قيامة"
 }
 ]
 }
@@ -403,21 +403,21 @@
 "type": "person",
 "confidence": 0.6314,
 "match_method": "scored",
-"preferred_label": "طِيبَارِيوسَ"
+"preferred_label": "طِيبَارِيُوس"
 },
 {
 "id": "person:Augustus",
 "type": "person",
 "confidence": 0.6057,
 "match_method": "scored",
-"preferred_label": "أوغسْطسَ"
+"preferred_label": "أُوغُسْطُس"
 },
 {
 "id": "person:Nero",
 "type": "person",
 "confidence": 0.6029,
 "match_method": "scored",
-"preferred_label": "Nero"
+"preferred_label": "نِيرُون"
 }
 ]
 }
@@ -470,7 +470,7 @@
 "type": "place",
 "confidence": 0.673,
 "match_method": "scored",
-"preferred_label": "قَيْصَرِيَّةِ"
+"preferred_label": "قَيْصَرِيَّةِ فِيلُبُّسَ"
 }
 ]
 }

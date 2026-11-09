@@ -619,7 +619,7 @@
 "type": "person",
 "confidence": 0.7008,
 "match_method": "scored",
-"preferred_label": "Jesus"
+"preferred_label": "耶稣"
 }
 ]
 }
@@ -2075,10 +2075,22 @@
 "end_ref_usfm": "NEH 13:31"
 },
 {
+"start_ref": "23001010",
+"start_ref_usfm": "ISA 1:10",
+"end_ref": "23001020",
+"end_ref_usfm": "ISA 1:20"
+},
+{
 "start_ref": "27002046",
 "start_ref_usfm": "DAN 2:46",
 "end_ref": "27002049",
 "end_ref_usfm": "DAN 2:49"
+},
+{
+"start_ref": "27009020",
+"start_ref_usfm": "DAN 9:20",
+"end_ref": "27009027",
+"end_ref_usfm": "DAN 9:27"
 },
 {
 "start_ref": "40002001",
@@ -2128,9 +2140,9 @@
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.6516,
+"confidence": 0.6512,
 "match_method": "scored",
-"preferred_label": "Offering"
+"preferred_label": "奉献"
 }
 ]
 }

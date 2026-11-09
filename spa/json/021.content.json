@@ -24,9 +24,9 @@
 {
 "id": "realia:Tower",
 "type": "realia",
-"confidence": 0.5836,
+"confidence": 0.5877,
 "match_method": "scored",
-"preferred_label": "Tower"
+"preferred_label": "torre"
 }
 ]
 }
@@ -58,7 +58,7 @@
 "type": "keyterm",
 "confidence": 0.832,
 "match_method": "embedding",
-"preferred_label": "malo"
+"preferred_label": "maldad"
 }
 ]
 }
@@ -90,7 +90,7 @@
 "type": "place",
 "confidence": 0.6019,
 "match_method": "scored",
-"preferred_label": "campiña"
+"preferred_label": "Arabá"
 }
 ]
 }
@@ -114,7 +114,7 @@
 "type": "realia",
 "confidence": 0.9235,
 "match_method": "embedding",
-"preferred_label": "Wine"
+"preferred_label": "vino"
 }
 ]
 }
@@ -144,9 +144,9 @@
 {
 "id": "realia:Winepress",
 "type": "realia",
-"confidence": 0.5881,
+"confidence": 0.5896,
 "match_method": "scored",
-"preferred_label": "Winepress"
+"preferred_label": "lagar"
 }
 ]
 }
@@ -170,7 +170,7 @@
 "type": "person",
 "confidence": 0.8899,
 "match_method": "embedding",
-"preferred_label": "Wisdom"
+"preferred_label": "Sabiduría"
 }
 ]
 }

@@ -224,7 +224,7 @@
 "type": "fauna",
 "confidence": 0.8729,
 "match_method": "embedding",
-"preferred_label": "Camel"
+"preferred_label": "camelo"
 }
 ]
 }
@@ -560,7 +560,7 @@
 "type": "group",
 "confidence": 0.6271,
 "match_method": "scored",
-"preferred_label": "cananeu"
+"preferred_label": "cananeus"
 }
 ]
 }
@@ -747,7 +747,7 @@
 "type": "realia",
 "confidence": 0.8356,
 "match_method": "embedding",
-"preferred_label": "Cloak"
+"preferred_label": "capa"
 }
 ]
 }
@@ -987,6 +987,12 @@
 "start_ref_usfm": "1KI 3:1",
 "end_ref": "11003015",
 "end_ref_usfm": "1KI 3:15"
+},
+{
+"start_ref": "12019001",
+"start_ref_usfm": "2KI 19:1",
+"end_ref": "12019007",
+"end_ref_usfm": "2KI 19:7"
 },
 {
 "start_ref": "13006031",
@@ -1531,7 +1537,7 @@
 "type": "place",
 "confidence": 0.673,
 "match_method": "scored",
-"preferred_label": "Cesareia de Filipos"
+"preferred_label": "Cesareia de Filipe"
 }
 ]
 }
@@ -1622,7 +1628,7 @@
 "type": "realia",
 "confidence": 0.8727,
 "match_method": "embedding",
-"preferred_label": "Basket"
+"preferred_label": "cesto"
 }
 ]
 }
@@ -2108,6 +2114,30 @@
 "end_ref_usfm": "DAN 7:28"
 },
 {
+"start_ref": "27008001",
+"start_ref_usfm": "DAN 8:1",
+"end_ref": "27008014",
+"end_ref_usfm": "DAN 8:14"
+},
+{
+"start_ref": "27011002",
+"start_ref_usfm": "DAN 11:2",
+"end_ref": "27011013",
+"end_ref_usfm": "DAN 11:13"
+},
+{
+"start_ref": "27011036",
+"start_ref_usfm": "DAN 11:36",
+"end_ref": "27012003",
+"end_ref_usfm": "DAN 12:3"
+},
+{
+"start_ref": "27012004",
+"start_ref_usfm": "DAN 12:4",
+"end_ref": "27012013",
+"end_ref_usfm": "DAN 12:13"
+},
+{
 "start_ref": "32001001",
 "start_ref_usfm": "JON 1:1",
 "end_ref": "32001016",
@@ -2214,30 +2244,6 @@
 "start_ref_usfm": "MAT 18:10",
 "end_ref": "40018014",
 "end_ref_usfm": "MAT 18:14"
-},
-{
-"start_ref": "40021023",
-"start_ref_usfm": "MAT 21:23",
-"end_ref": "40021032",
-"end_ref_usfm": "MAT 21:32"
-},
-{
-"start_ref": "40022023",
-"start_ref_usfm": "MAT 22:23",
-"end_ref": "40022033",
-"end_ref_usfm": "MAT 22:33"
-},
-{
-"start_ref": "40023013",
-"start_ref_usfm": "MAT 23:13",
-"end_ref": "40023022",
-"end_ref_usfm": "MAT 23:22"
-},
-{
-"start_ref": "40024029",
-"start_ref_usfm": "MAT 24:29",
-"end_ref": "40024036",
-"end_ref_usfm": "MAT 24:36"
 }
 ],
 "resource": [],
@@ -2610,7 +2616,7 @@
 "type": "keyterm",
 "confidence": 0.5988,
 "match_method": "scored",
-"preferred_label": "Circumcision"
+"preferred_label": "circuncisão"
 }
 ]
 }
@@ -4730,7 +4736,7 @@
 "type": "group",
 "confidence": 0.6246,
 "match_method": "scored",
-"preferred_label": "Christians"
+"preferred_label": "cristãos"
 }
 ]
 }
@@ -5679,7 +5685,7 @@
 "type": "realia",
 "confidence": 0.8648,
 "match_method": "embedding",
-"preferred_label": "Cross"
+"preferred_label": "cruz"
 }
 ]
 }
@@ -6006,6 +6012,12 @@
 "start_ref_usfm": "DAN 3:1",
 "end_ref": "27003007",
 "end_ref_usfm": "DAN 3:7"
+},
+{
+"start_ref": "27010010",
+"start_ref_usfm": "DAN 10:10",
+"end_ref": "27011001",
+"end_ref_usfm": "DAN 11:1"
 },
 {
 "start_ref": "41005001",

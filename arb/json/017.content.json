@@ -89,7 +89,7 @@
 "type": "realia",
 "confidence": 0.5927,
 "match_method": "scored",
-"preferred_label": "Synagogue"
+"preferred_label": "مَجْمَع"
 }
 ]
 }
@@ -135,7 +135,7 @@
 "type": "place",
 "confidence": 0.6296,
 "match_method": "scored",
-"preferred_label": "ٱلْمدنِ"
+"preferred_label": "ٱلْمُدُن ٱلْعَشْر"
 }
 ]
 }
@@ -209,7 +209,7 @@
 "type": "realia",
 "confidence": 0.5505,
 "match_method": "scored",
-"preferred_label": "Tabernacle"
+"preferred_label": "خيمة الاجتماع / المسكن"
 }
 ]
 }
@@ -633,7 +633,7 @@
 "type": "keyterm",
 "confidence": 0.5911,
 "match_method": "scored",
-"preferred_label": "Parable"
+"preferred_label": "مَثَل"
 }
 ]
 }
@@ -657,7 +657,7 @@
 "type": "keyterm",
 "confidence": 0.8844,
 "match_method": "embedding",
-"preferred_label": "Glory"
+"preferred_label": "مجد"
 }
 ]
 }
@@ -738,7 +738,7 @@
 "type": "group",
 "confidence": 0.5505,
 "match_method": "scored",
-"preferred_label": "Sanhedrin"
+"preferred_label": "سنهدريم"
 }
 ]
 }
@@ -784,7 +784,7 @@
 "type": "keyterm",
 "confidence": 0.8544,
 "match_method": "embedding",
-"preferred_label": "God-Fearing"
+"preferred_label": "خائف الله"
 }
 ]
 }
@@ -808,7 +808,7 @@
 "type": "keyterm",
 "confidence": 0.6353,
 "match_method": "scored",
-"preferred_label": "Savior"
+"preferred_label": "مُخَلِّص"
 }
 ]
 }
@@ -832,7 +832,7 @@
 "type": "deity",
 "confidence": 0.594,
 "match_method": "scored",
-"preferred_label": "ٱلرّوحِ"
+"preferred_label": "الروح القدس"
 }
 ]
 }
@@ -892,7 +892,7 @@
 "type": "realia",
 "confidence": 0.8735,
 "match_method": "embedding",
-"preferred_label": "Altar"
+"preferred_label": "مَذْبَح"
 }
 ]
 }
@@ -1141,7 +1141,7 @@
 "type": "group",
 "confidence": 0.6246,
 "match_method": "scored",
-"preferred_label": "Christians"
+"preferred_label": "مسيحيون"
 }
 ]
 }
@@ -1209,9 +1209,9 @@
 {
 "id": "realia:Winepress",
 "type": "realia",
-"confidence": 0.5881,
+"confidence": 0.5896,
 "match_method": "scored",
-"preferred_label": "Winepress"
+"preferred_label": "مِعْصَرَة"
 }
 ]
 }
@@ -1431,7 +1431,7 @@
 "type": "keyterm",
 "confidence": 0.5952,
 "match_method": "scored",
-"preferred_label": "Baptism"
+"preferred_label": "مَعْمُودِيَّة"
 }
 ]
 }
@@ -1533,7 +1533,7 @@
 "type": "keyterm",
 "confidence": 0.9117,
 "match_method": "embedding",
-"preferred_label": "Holy"
+"preferred_label": "مقدس"
 }
 ]
 }
@@ -1828,7 +1828,7 @@
 "type": "keyterm",
 "confidence": 0.9235,
 "match_method": "embedding",
-"preferred_label": "Kingdom"
+"preferred_label": "مَلَكوت"
 }
 ]
 }

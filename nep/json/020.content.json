@@ -103,7 +103,7 @@
 "type": "place",
 "confidence": 0.8722,
 "match_method": "embedding",
-"preferred_label": "Hell"
+"preferred_label": "नरक"
 }
 ]
 }
@@ -170,7 +170,7 @@
 "type": "place",
 "confidence": 0.6276,
 "match_method": "scored",
-"preferred_label": "Nazareth"
+"preferred_label": "नासरत"
 }
 ]
 }
@@ -225,7 +225,7 @@
 "type": "keyterm",
 "confidence": 0.8119,
 "match_method": "embedding",
-"preferred_label": "Blaspheme"
+"preferred_label": "निन्दा गर्नु"
 }
 ]
 }
@@ -327,7 +327,7 @@
 "type": "keyterm",
 "confidence": 0.6637,
 "match_method": "scored",
-"preferred_label": "Passover"
+"preferred_label": "निस्तार-चाडको बलिदान"
 }
 ]
 }
@@ -359,7 +359,7 @@
 "type": "flora",
 "confidence": 0.6598,
 "match_method": "scored",
-"preferred_label": "Fig"
+"preferred_label": "अञ्जीर"
 }
 ]
 }
@@ -423,7 +423,7 @@
 "type": "person",
 "confidence": 0.5603,
 "match_method": "scored",
-"preferred_label": "Dinaite"
+"preferred_label": "दीनी"
 }
 ]
 }

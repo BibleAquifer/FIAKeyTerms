@@ -1,36 +1,29 @@
 [
 {
-"content_id": "hin-t101-v1",
+"content_id": "hin-t105-v1",
 "reference_id": 0,
 "version": "1.0.4",
-"title": "ग्रस्त",
+"title": "छुड़ौती",
 "media_type": "Text",
-"index_reference": "ग्रस्त",
+"index_reference": "छुड़ौती",
 "language": "hin",
 "review_level": "None",
-"content": "<p>कोई व्यक्ति जो किसी <data class=\"resource-ref\" data-content-id=\"hin-t36-v1\" data-resource-code=\"FIAKeyTerms\">बुरी-आत्मा</data>से <b>ग्रस्त</b> है, जो एक <data class=\"resource-ref\" data-content-id=\"hin-t47-v1\" data-resource-code=\"FIAKeyTerms\">दुष्ट आत्मा</data> है वह उस बुरी-आत्मा के नियंत्रण में होता है। दुष्टात्मा किसी व्यक्ति से अजीब या हिंसक व्यवहार करवा सकती है या उसे बीमार करके दुख पहुँचा सकती है।</p><p>एक दुष्टात्मा किसी व्यक्ति को विशेष शक्तियाँ भी दे सकती है, जिससे वह छुपी हुई बातें जान सके, जो और लोग नहीं जानते। <data class=\"resource-ref\" data-content-id=\"hin-t74-v2\" data-resource-code=\"FIAKeyTerms\">इस्राएल</data> के आस-पास की संस्कृतियों में कुछ लोग जान-बूझकर दुष्टात्मा से ग्रस्त होने की कोशिश करते थे, ताकि वे भविष्य की बातें जान सकें या कोई गुप्त ज्ञान प्राप्त कर सकें। परमेश्वर ने <b>इस्राएलियों</b> को ऐसा करने से मना किया था।</p>",
+"content": "<p>जब कोई कैदी या <data class=\"resource-ref\" data-content-id=\"hin-t126-v2\" data-resource-code=\"FIAKeyTerms\">दास</data> होता है, तो कोई दूसरा व्यक्ति उसे छुड़ाने के लिए उसकी कीमत चुका सकता है। जिस पैसे से कोई व्यक्ति किसी कैदी या दास को छुड़ाता है, उसे <b>छुड़ौती</b> कहा जाता है।</p><p>बाइबल कहती है कि यीशु ने लोगों के लिए छुड़ौती के रूप में अपना जीवन दिया। इसका मतलब है कि लोग कैदियों या दासों की तरह हैं, और यीशु ने उन्हें छुड़ाने के लिए कीमत चुकाई। यीशु ने लोगों को पैसे देकर नहीं, बल्कि अपने जीवन का बलिदान देकर छुड़ाया, जो सबसे अनमोल है। यीशु की मृत्यु वह कीमत थी जो उस ने लोगों को <data class=\"resource-ref\" data-content-id=\"hin-t125-v1\" data-resource-code=\"FIAKeyTerms\">पाप</data>, शर्म और मृत्यु से छुड़ाने के लिए चुकाई।</p>",
 "associations": {
 "passage": [],
 "resource": [
 {
 "reference_id": 0,
-"content_id": "hin-t36-v1",
+"content_id": "hin-t126-v2",
 "resource_code": "FIAKeyTerms",
-"label": "बुरी-आत्मा",
+"label": "दास",
 "language": "hin"
 },
 {
 "reference_id": 0,
-"content_id": "hin-t47-v1",
+"content_id": "hin-t125-v1",
 "resource_code": "FIAKeyTerms",
-"label": "दुष्ट आत्मा",
-"language": "hin"
-},
-{
-"reference_id": 0,
-"content_id": "hin-t74-v2",
-"resource_code": "FIAKeyTerms",
-"label": "इस्राएल",
+"label": "पाप",
 "language": "hin"
 }
 ],

@@ -163,7 +163,7 @@
 "type": "place",
 "confidence": 0.6093,
 "match_method": "scored",
-"preferred_label": "Judíos"
+"preferred_label": "Judea"
 },
 {
 "id": "group:Galilee",
@@ -319,14 +319,14 @@
 "type": "group",
 "confidence": 0.6066,
 "match_method": "scored",
-"preferred_label": "javanita"
+"preferred_label": "griegos"
 },
 {
 "id": "place:Canaan",
 "type": "place",
 "confidence": 0.6007,
 "match_method": "scored",
-"preferred_label": "Cananeo"
+"preferred_label": "Canaán"
 }
 ]
 }
@@ -405,7 +405,7 @@
 "type": "keyterm",
 "confidence": 0.8844,
 "match_method": "embedding",
-"preferred_label": "gloria del señor"
+"preferred_label": "gloria"
 }
 ]
 }
@@ -638,7 +638,7 @@
 "type": "group",
 "confidence": 0.9458,
 "match_method": "embedding",
-"preferred_label": "javanita"
+"preferred_label": "griegos"
 }
 ]
 }

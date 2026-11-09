@@ -1,32 +1,522 @@
 [
 {
-"content_id": "hin-t145-v1",
+"content_id": "hin-t91-v1",
 "reference_id": 0,
 "version": "1.0.4",
-"title": "जंगल",
+"title": "दया",
 "media_type": "Text",
-"index_reference": "जंगल",
+"index_reference": "दया",
 "language": "hin",
 "review_level": "None",
-"content": "<p><data class=\"resource-ref\" data-content-id=\"hin-t38-v1\" data-resource-code=\"FIAKeyTerms\">रेगिस्तान</data> या <b>जंगल</b> एक सुनसान, और बंजर स्थान है, जहाँ पानी नहीं होता। रेगिस्तान में लगभग कोई पेड़ या झाड़ियाँ नहीं उगती। ज़मीन सूखी और पथरीली होती है, और वहाँ जंगली जानवर घूमते रहते हैं। लोग रेगिस्तान में नहीं रहते।</p>",
+"content": "<p><b>दया</b> शब्द का मतलब है अच्छाई, दयालु, या <data class=\"resource-ref\" data-content-id=\"hin-t205-v1\" data-resource-code=\"FIAKeyTerms\">करुणा</data>।</p><p>अगर आप किसी ज़रूरतमंद को देखते हैं, और उस व्यक्ति पर तरस खाकर उसकी मदद करते हैं, तो आप उस पर दया <b>दिखा</b> रहे होते हैं।</p><p>यदि किसी ने आपसे कर्ज़ लिया है, लेकिन आप उस व्यक्ति पर तरस खाकर उसका कर्ज़ माफ कर देते हैं, तो आप उस व्यक्ति पर भी दया <b>दिखा रहे होते हैं</b>।</p><p>लोग परमेश्वर से कह सकते हैं कि वह उन पर दया करे। इसका अर्थ है कि वे परमेश्वर से कहते हैं कि वह उन पर तरस खाए और उनकी मदद करे या उन्हें <data class=\"resource-ref\" data-content-id=\"hin-t53-v1\" data-resource-code=\"FIAKeyTerms\">माफ</data> करे।</p><p>बाइबल हमें दिखाती है कि परमेश्वर <b>दयालु</b> है। इसका अर्थ है कि वह दया से भरा है, वह लोगों पर दया दिखाना चाहता है। परमेश्वर लोगों पर दया दिखाना चाहता है क्योंकि वह उनसे बहुत प्रेम करता है।</p><p>दया का अर्थ <b>अनुग्रह</b> शब्द के अर्थ के समान हो सकता है। अनुग्रह का अर्थ है कि हमें कुछ ऐसा मिलता है जिसके हम हकदार नहीं हैं। अनुग्रह और दया साथ-साथ चलते हैं। यह परमेश्वर की <b>दया</b> है कि वह हमें सजा नहीं देता, और उसके <b>अनुग्रह</b> से ही वह हमें अच्छी चीज़ें भी देता है: हम उसके बच्चे बन सकते हैं और हमेशा उसके साथ रह सकते हैं।</p><p>परमेश्वर लोगों को अनुग्रह देता है जब वह उनके <data class=\"resource-ref\" data-content-id=\"hin-t125-v1\" data-resource-code=\"FIAKeyTerms\">पापों</data> को माफ करता है। लोग परमेश्वर के प्रति अपनी अवज्ञा के कारण उससे अलग होने के योग्य हैं, लेकिन क्योंकि परमेश्वर लोगों पर दया करता है, यदि वे यीशु पर विश्वास करते हैं तो वह उन्हें बचाता है। परमेश्वर हमें अनुग्रह देता है क्योंकि वह बहुत दयालु है।</p><p><b>जब आप दया शब्द का अनुवाद कर रहे हों, तो इन बातों का ध्यान रखें:</b></p><p>कभी-कभी अनुवादकों को संदर्भ के अनुसार हर बार अलग शब्द का इस्तेमाल करना पड़ता है। कभी-कभी &quot;दयालु&quot; बेहतर होता है, और कभी-कभी &quot;तरस&quot; बेहतर होता है।</p>",
 "associations": {
 "passage": [],
 "resource": [
 {
 "reference_id": 0,
-"content_id": "hin-t38-v1",
+"content_id": "hin-t205-v1",
 "resource_code": "FIAKeyTerms",
-"label": "रेगिस्तान",
+"label": "करुणा",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t53-v1",
+"resource_code": "FIAKeyTerms",
+"label": "माफ",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t125-v1",
+"resource_code": "FIAKeyTerms",
+"label": "पापों",
 "language": "hin"
 }
 ],
 "acai": [
 {
-"id": "place:Arabah",
-"type": "place",
-"confidence": 0.6019,
+"id": "keyterm:Mercy",
+"type": "keyterm",
+"confidence": 0.8587,
+"match_method": "embedding",
+"preferred_label": "दया"
+}
+]
+}
+},
+{
+"content_id": "hin-t33-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "दाऊद",
+"media_type": "Text",
+"index_reference": "दाऊद",
+"language": "hin",
+"review_level": "None",
+"content": "<p><b>दाऊद</b> <data class=\"resource-ref\" data-content-id=\"hin-t74-v2\" data-resource-code=\"FIAKeyTerms\">इस्राएल</data> का दूसरा <data class=\"resource-ref\" data-content-id=\"hin-t226-v1\" data-resource-code=\"FIAKeyTerms\">राजा</data> था। वह यीशु के जन्म से लगभग 1000 साल पहले रहता था।</p><p>दाऊद यिशै नामक व्यक्ति का सबसे छोटा पुत्र था। दाऊद अपने पिता की भेड़ों की देखभाल करता था। यिशै और उसका परिवार <b>बैतलहम</b> नाम के गाँव में रहता था। दाऊद के बड़े भाई इस्राएल के पहले राजा शाऊल की सेना में सैनिक थे। राजा शाऊल ने परमेश्वर की आज्ञा नहीं मानी थी, इसलिए परमेश्वर ने उसे अस्वीकार कर दिया था। इसीलिए परमेश्वर ने <b>भविष्यद्वक्ता</b> शमूएल को निर्देश दिया कि वह दाऊद का <data class=\"resource-ref\" data-content-id=\"hin-t5-v1\" data-resource-code=\"FIAKeyTerms\">अभिषेक</data> करे - जिसका अर्थ है उसे अगला राजा नियुक्त करना। लेकिन पहले यह बात एक राज़ थी, और शाऊल कई सालों तक राजा बना रहा। दाऊद राजा की सेना में एक सेनापति बन गया, और परमेश्वर ने उसकी मदद की, ताकि दाऊद के द्वारा इस्राएल कई लड़ाइयाँ जीत सके। दाऊद लोगों के बीच बहुत लोकप्रिय था, और उसका सबसे अच्छा दोस्त राजा शाऊल का पुत्र योनातान था। राजा शाऊल दाऊद से जलने लगा और उसने कई बार उसे मारने की कोशिश की, इसलिए दाऊद को भागना पड़ा। दाऊद ने लोगों का एक समूह अपने चारों ओर इकट्ठा किया और लोगों से दूर पहाड़ों में रहने लगा। राजा कभी-कभी दाऊद का पीछा करता था, और दाऊद को एक से ज़्यादा बार राजा को मारने का मौका मिला, लेकिन उसने कभी ऐसा नहीं किया।</p><p>एक बार, जब राजा शाऊल और उसकी सेना कुछ दुश्मनों से लड़ रहे थे, तो <b>इस्राएली</b> एक लड़ाई हार गए और राजा शाऊल और उसके पुत्र मारे गए। इसके बाद, इस्राएल के लोगों ने दाऊद को अपना राजा बना लिया। दाऊद <data class=\"resource-ref\" data-content-id=\"hin-t76-v1\" data-resource-code=\"FIAKeyTerms\">यरूशलेम</data> में रहने लगा, जो इस्राएल का सबसे महत्वपूर्ण शहर बन गया।</p><p>दाऊद इस्राएल का सबसे प्रिय राजा बन गया। वह परमेश्वर से प्रेम करता था और उस पर भरोसा करता था। इसलिए परमेश्वर ने उसे &quot;मेरे मन के अनुसार एक व्यक्ति&quot; कहा। दाऊद परमेश्वर के लिए एक <data class=\"resource-ref\" data-content-id=\"hin-t138-v1\" data-resource-code=\"FIAKeyTerms\">मन्दिर</data> बनवाना चाहता था, लेकिन परमेश्वर ने दाऊद से कहा कि यह मन्दिर वह नहीं, बल्कि उसका पुत्र बनाएगा। और परमेश्वर ने दाऊद से एक बहुत महत्वपूर्ण वादा किया। परमेश्वर ने दाऊद से वादा किया कि उसके <b>वंशजों</b> में से एक हमेशा इस्राएल पर शासन करेगा।</p><p>इसका यह अर्थ नहीं है कि दाऊद ने कभी कुछ गलत नहीं किया। सच तो यह है कि उसने कुछ बुरे काम किए: उसने <data class=\"resource-ref\" data-content-id=\"hin-t2-v1\" data-resource-code=\"FIAKeyTerms\">व्यभिचार</data> किया और हत्या की। लेकिन उसने अपने <data class=\"resource-ref\" data-content-id=\"hin-t125-v1\" data-resource-code=\"FIAKeyTerms\">पापों</data> से <data class=\"resource-ref\" data-content-id=\"hin-t109-v1\" data-resource-code=\"FIAKeyTerms\">पश्चाताप</data> किया, और परमेश्वर ने उसे क्षमा कर दिया। लेकिन भले ही परमेश्वर ने उसे <data class=\"resource-ref\" data-content-id=\"hin-t53-v1\" data-resource-code=\"FIAKeyTerms\">क्षमा</data> किया, फिर भी दाऊद के पापों का परिणाम यह हुआ कि उसके परिवार में उस समय से लेकर हमेशा झगड़े और हिंसा होती रही, और उसके कई पुत्र मर गए। दाऊद के कुछ पुत्रों ने जबरदस्ती अपने पिता के स्थान पर राजा बनने की कोशिश की, और एक बार तो दाऊद को अपने ही पुत्र से भागना पड़ा!</p><p>जब दाऊद बहुत बूढ़ा हो गया, तो उसने अपने पुत्र सुलैमान को अपने स्थान पर राजा बना दिया।</p><p>दाऊद की मृत्यु के सैकड़ों साल बाद, इस्राएल <data class=\"resource-ref\" data-content-id=\"hin-t94-v1\" data-resource-code=\"FIAKeyTerms\">राष्ट्र</data> खत्म हो गया। इस्राएली लोग परमेश्वर की आज्ञा नहीं मान रहे थे और उन्हें सजा देने के लिए परमेश्वर ने दूसरे देश के लोगों को भेजा कि वे आकर उन्हें जीत लें। इस्राएली लोग हार गए और उस समय से वे दूसरे राष्ट्रों के शासन में आ गए। अब इस्राएल पर दाऊद का कोई भी वंशज शासन नहीं कर रहा था। लेकिन परमेश्वर कभी भी अपना वादा नहीं भूलता, इसलिए लोग इंतजार कर रहे थे कि परमेश्वर फिर से उन्हें दाऊद के वंशज में से एक राजा दे। परमेश्वर ने यह वादा यीशु के द्वारा पूरा किया।</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "hin-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "इस्राएल",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t226-v1",
+"resource_code": "FIAKeyTerms",
+"label": "राजा",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t5-v1",
+"resource_code": "FIAKeyTerms",
+"label": "अभिषेक",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t76-v1",
+"resource_code": "FIAKeyTerms",
+"label": "यरूशलेम",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t138-v1",
+"resource_code": "FIAKeyTerms",
+"label": "मन्दिर",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t2-v1",
+"resource_code": "FIAKeyTerms",
+"label": "व्यभिचार",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t125-v1",
+"resource_code": "FIAKeyTerms",
+"label": "पापों",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t109-v1",
+"resource_code": "FIAKeyTerms",
+"label": "पश्चाताप",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t53-v1",
+"resource_code": "FIAKeyTerms",
+"label": "क्षमा",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t94-v1",
+"resource_code": "FIAKeyTerms",
+"label": "राष्ट्र",
+"language": "hin"
+}
+],
+"acai": [
+{
+"id": "person:David",
+"type": "person",
+"confidence": 0.5665,
 "match_method": "scored",
-"preferred_label": "अराबा"
+"preferred_label": "दाऊद"
+}
+]
+}
+},
+{
+"content_id": "hin-t128-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "दाऊद का पुत्र",
+"media_type": "Text",
+"index_reference": "दाऊद का पुत्र",
+"language": "hin",
+"review_level": "None",
+"content": "<p><b>दाऊद का पुत्र</b> का अर्थ है <data class=\"resource-ref\" data-content-id=\"hin-t33-v1\" data-resource-code=\"FIAKeyTerms\">दाऊद</data> का <b>वंशज</b>, भले ही वह दाऊद के कई पीढ़ियों बाद जन्मा हो।</p><p>दाऊद <b>इस्राएलियों</b> का सबसे प्रिय राजा था, और वह यीशु के जन्म से लगभग एक हजार साल पहले रहता था। परमेश्वर ने दाऊद से वादा किया था कि उसके वंशजों में से कोई न कोई हमेशा <data class=\"resource-ref\" data-content-id=\"hin-t74-v2\" data-resource-code=\"FIAKeyTerms\">इस्राएल</data> पर शासन करेगा। लेकिन क्योंकि इस्राएली परमेश्वर की आज्ञा का उल्लंघन करते थे, इसलिए परमेश्वर ने उनके दुश्मनों को उन्हें जीतने दिया। इस्राएल का <data class=\"resource-ref\" data-content-id=\"hin-t157-v1\" data-resource-code=\"FIAKeyTerms\">राज्य</data> खत्म हो गया। लेकिन इस कठिन समय में भी, परमेश्वर ने लोगों को आशा के संदेश दिए। अपने संदेशवाहकों, <data class=\"resource-ref\" data-content-id=\"hin-t200-v1\" data-resource-code=\"FIAKeyTerms\">भविष्यद्वक्ताओं</data> के द्वारा, परमेश्वर ने लोगों से कहा था कि एक समय फिर आएगा जब दाऊद का वंशज इस्राएल पर शासन करेगा। यह <data class=\"resource-ref\" data-content-id=\"hin-t226-v1\" data-resource-code=\"FIAKeyTerms\">राजा</data> लोगों को उनके संकट से छुड़ाएगा और सब कुछ फिर से ठीक कर देगा।</p><p>और इसलिए इस्राएली यह उम्मीद कर रहे थे कि एक दिन परमेश्वर लोगों के पास इस राजा और <b>उद्धारकर्ता</b> को भेजेगा। वे इस वादा किए गए राजा को <data class=\"resource-ref\" data-content-id=\"hin-t92-v1\" data-resource-code=\"FIAKeyTerms\">मसीहा</data> या <data class=\"resource-ref\" data-content-id=\"hin-t23-v1\" data-resource-code=\"FIAKeyTerms\">मसीह</data> कहते थे। मसीहा वह होता है जिसे किसी विशेष काम के लिए नियुक्त किया जाता है। मसीहा दाऊद का वंशज होगा। जब नए नियम में लोग यीशु को &quot;दाऊद का पुत्र&quot; कहते हैं, तो उनका अर्थ होता है कि वे <data class=\"resource-ref\" data-content-id=\"hin-t11-v1\" data-resource-code=\"FIAKeyTerms\">विश्वास</data> करते हैं कि यीशु वही विशेष राजा और उद्धारकर्ता है जिसे परमेश्वर ने भेजने का वादा किया था।</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "hin-t33-v1",
+"resource_code": "FIAKeyTerms",
+"label": "दाऊद",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "इस्राएल",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t157-v1",
+"resource_code": "FIAKeyTerms",
+"label": "राज्य",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t200-v1",
+"resource_code": "FIAKeyTerms",
+"label": "भविष्यद्वक्ताओं",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t226-v1",
+"resource_code": "FIAKeyTerms",
+"label": "राजा",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t92-v1",
+"resource_code": "FIAKeyTerms",
+"label": "मसीहा",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t23-v1",
+"resource_code": "FIAKeyTerms",
+"label": "मसीह",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t11-v1",
+"resource_code": "FIAKeyTerms",
+"label": "विश्वास",
+"language": "hin"
+}
+],
+"acai": []
+}
+},
+{
+"content_id": "hin-t146-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "दाखरस का कुण्ड",
+"media_type": "Text",
+"index_reference": "दाखरस का कुण्ड",
+"language": "hin",
+"review_level": "None",
+"content": "<p>दाखरस का <b>कुण्ड</b> एक सपाट पत्थर का टुकड़ा होता है, जिसके चारों ओर ऊँचा किनारा बना होता है। <data class=\"resource-ref\" data-content-id=\"hin-t74-v2\" data-resource-code=\"FIAKeyTerms\">इस्राएल</data> के लोग इसका इस्तेमाल अंगूरों का रस निचोड़ने के लिए करते हैं। अंगूर एक मुलायम, रसीले फल होते हैं। लोग अंगूरों को इस पत्थर पर डालते थे और फिर उन्हें अपने पैरों से कुचलते थे। इससे अंगूरों का रस निकल जाता था। रस एक बर्तन में बह जाता था, जिसे दाखरस का घड़ा कहा जाता था। रस निकालने का एक और तरीका यह था कि अंगूरों के ऊपर एक भारी पत्थर लुढ़काया जाए।</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "hin-t74-v2",
+"resource_code": "FIAKeyTerms",
+"label": "इस्राएल",
+"language": "hin"
+}
+],
+"acai": [
+{
+"id": "realia:Winepress",
+"type": "realia",
+"confidence": 0.5896,
+"match_method": "scored",
+"preferred_label": "रसकुण्ड"
+}
+]
+}
+},
+{
+"content_id": "hin-t126-v2",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "दास",
+"media_type": "Text",
+"index_reference": "दास",
+"language": "hin",
+"review_level": "None",
+"content": "<p>सेवक वह व्यक्ति होता है जो किसी और के लिए काम करता है। सेवक अपने स्वामी के घर में या खेतों में काम कर सकते हैं। आमतौर पर समाज में सेवकों का दर्जा नीचे होता है।</p><p>अगर किसी सेवक को उसके काम की मज़दूरी न मिले और उसे जब चाहे अपने स्वामी को छोड़ने की आज़ादी न हो, तो उसे <b>दास</b> कहा जाता है। दास स्वामी की संपत्ति होता है। स्वामी दास को किसी और को बेच सकता है, जैसे वह अपनी दूसरी संपत्ति बेच सकता है।</p><p>कुछ स्वामी दासों के साथ कठोर व्यवहार करते थे, लेकिन कुछ स्वामी दयालु होते थे और अपने दासों के साथ ऐसा व्यवहार करते थे मानो वे परिवार का हिस्सा हों।</p><p>बाइबल में सेवक और दास के लिए अक्सर एक ही शब्द होता है। कभी-कभी &quot;सेवक&quot; के लिए एक अलग शब्द का इस्तेमाल यह दिखाने के लिए किया जाता है कि यह व्यक्ति दूसरों की सेवा करता है, लेकिन वह दास नहीं है।</p>",
+"associations": {
+"passage": [],
+"resource": [],
+"acai": []
+}
+},
+{
+"content_id": "hin-t35-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "दिकापुलिस",
+"media_type": "Text",
+"index_reference": "दिकापुलिस",
+"language": "hin",
+"review_level": "None",
+"content": "<p><b>दिकापुलिस</b> का सटीक अर्थ है &quot;10 शहर।&quot; यह शब्द <data class=\"resource-ref\" data-content-id=\"hin-t121-v1\" data-resource-code=\"FIAKeyTerms\">गलील की झील</data> और <data class=\"resource-ref\" data-content-id=\"hin-t80-v1\" data-resource-code=\"FIAKeyTerms\">यरदन नदी</data> के पूर्व में स्थित क्षेत्र को दर्शाता है। वहाँ रहने वाले ज़्यादातर लोग <data class=\"resource-ref\" data-content-id=\"hin-t77-v2\" data-resource-code=\"FIAKeyTerms\">यहूदी</data> नहीं थे।</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "hin-t121-v1",
+"resource_code": "FIAKeyTerms",
+"label": "गलील की झील",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t80-v1",
+"resource_code": "FIAKeyTerms",
+"label": "यरदन नदी",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t77-v2",
+"resource_code": "FIAKeyTerms",
+"label": "यहूदी",
+"language": "hin"
+}
+],
+"acai": [
+{
+"id": "place:Decapolis",
+"type": "place",
+"confidence": 0.6296,
+"match_method": "scored",
+"preferred_label": "दिकापुलिस"
+}
+]
+}
+},
+{
+"content_id": "hin-t150-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "दिल",
+"media_type": "Text",
+"index_reference": "दिल",
+"language": "hin",
+"review_level": "None",
+"content": "<p><b>दिल</b> हमारे शरीर के अंदर की एक मांसपेशी होती है जो हमारे खून को बहने में मदद करती है, लेकिन बाइबल में दिल का इस्तेमाल उस स्थान के लिए किया गया है जहाँ किसी व्यक्ति के विचार, भावनाएँ और निर्णय होते हैं। जिस व्यक्ति का &quot;दिल दुष्ट&quot; होता है वह <data class=\"resource-ref\" data-content-id=\"hin-t187-v1\" data-resource-code=\"FIAKeyTerms\">बुरी</data> बातें सोचता और बुरे निर्णय लेता है। जिस व्यक्ति का &quot;अच्छा दिल&quot; होता है वह सही काम करना चाहता है, और जब वह <data class=\"resource-ref\" data-content-id=\"hin-t125-v1\" data-resource-code=\"FIAKeyTerms\">पाप करता है</data> तब उसे दुख होता है। जिस व्यक्ति का &quot;कठोर दिल&quot; होता है वह नहीं सुनना चाहता जो परमेश्वर उनसे करने को कहता है। जिस व्यक्ति का दिल खुशी से भरा होता है, वह बहुत खुश होता है।</p><p><b>जब आप दिल शब्द का अनुवाद कर रहे हों, तो इन बातों का ध्यान रखें:</b></p><p>आपको &quot;दिल&quot; शब्द का अनुवाद अपनी भाषा के उस शब्द से नहीं करना चाहिए जो केवल शरीर के उस भाग के लिए प्रयोग होता है जो खून संचारित करता है, <b>यदि</b> वह शब्द आपकी भाषा में विचारों और भावनाओं से नहीं जुड़ा है। ऐसे शब्द का इस्तेमाल करें जिसे आपकी भाषा में लोग किसी व्यक्ति के विचारों, भावनाओं और इच्छा से जोड़ते हों।</p><p>पुराने नियम की भाषा, <b>इब्रानी</b> में, &quot;दिल&quot; और &quot;मन&quot; दोनों के लिए एक ही शब्द का इस्तेमाल होता है। नए नियम की भाषा, <data class=\"resource-ref\" data-content-id=\"hin-t211-v1\" data-resource-code=\"FIAKeyTerms\">यूनानी</data> में, ये दो अलग-अलग शब्द हैं। यूनानी में, &quot;दिल&quot; शब्द में भावनाओं पर ज़्यादा जोर दिया गया है, जबकि &quot;मन&quot; शब्द में किसी व्यक्ति के विचारों, बुद्धि और इच्छा पर ज़्यादा जोर दिया गया है।</p><p>यदि आपकी भाषा में इसके लिए केवल एक ही शब्द है, जैसे इब्रानी में, तो आप हर बार इस शब्द का इस्तेमाल कर सकते हैं। यदि आपकी भाषा में यूनानी की तरह दो अलग-अलग शब्द हैं-या शायद तीन या चार भी हैं-तो आपको हर भाग के अनुसार अलग-अलग शब्दों का इस्तेमाल करना पड़ सकता है।</p><p>कृपया ध्यान दें कि आपको &quot;मन,&quot; &quot;प्राण&quot; और &quot;आत्मा&quot; के लिए भी एक-एक शब्द की आवश्यकता होगी। दिल, मन, प्राण और आत्मा ये सभी शब्द किसी व्यक्ति के भीतर किसी अदृश्य हिस्से से जुड़े हैं, लेकिन उनमें से प्रत्येक का इस्तेमाल थोड़ा अलग होता है। आप पहले इनमें से प्रत्येक शब्द की व्याख्या सुनना चाहेंगे, और फिर इन चारों पर मिलकर चर्चा करना चाहेंगे। फिर आप यह निर्णय ले सकते हैं कि इनमें से प्रत्येक शब्द का अनुवाद आप कैसे करेंगे। लेकिन याद रखें कि हर भाग में आपको फिर से सोचना होगा कि क्या आपने सही अनुवाद चुना है।</p><p>आख़िर में:</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "hin-t187-v1",
+"resource_code": "FIAKeyTerms",
+"label": "बुरी",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t125-v1",
+"resource_code": "FIAKeyTerms",
+"label": "पाप करता है",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t211-v1",
+"resource_code": "FIAKeyTerms",
+"label": "यूनानी",
+"language": "hin"
+}
+],
+"acai": [
+{
+"id": "keyterm:Heart",
+"type": "keyterm",
+"confidence": 0.8856,
+"match_method": "embedding",
+"preferred_label": "मन"
+}
+]
+}
+},
+{
+"content_id": "hin-t37-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "दीनार",
+"media_type": "Text",
+"index_reference": "दीनार",
+"language": "hin",
+"review_level": "None",
+"content": "<p><b>दीनार</b> रोमी लोगों द्वारा बनाया गया चाँदी का एक सिक्का होता था, जिसका इस्तेमाल यीशु के समय में धन के रूप में किया जाता था। हर दीनार पर रोमी सम्राट की तस्वीर बनी होती थी। एक साधारण मज़दूर एक दिन में एक दीनार कमा सकता था।</p>",
+"associations": {
+"passage": [],
+"resource": [],
+"acai": [
+{
+"id": "realia:Denarius",
+"type": "realia",
+"confidence": 0.5851,
+"match_method": "scored",
+"preferred_label": "दीनार"
+}
+]
+}
+},
+{
+"content_id": "hin-t47-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "दुष्ट आत्मा",
+"media_type": "Text",
+"index_reference": "दुष्ट आत्मा",
+"language": "hin",
+"review_level": "None",
+"content": "<p><data class=\"resource-ref\" data-content-id=\"hin-t36-v1\" data-resource-code=\"FIAKeyTerms\">बुरी आत्मा</data>, <b>दुष्ट आत्माएँ</b>, या <b>अशुद्ध आत्मा</b> ये शब्द एक ही बात को दर्शा रहे हैं। एक बुरी आत्मा ऐसी आत्मा होती है जो परमेश्वर के विरुद्ध बलवा करती है। सभी बुरी आत्माओं के सरदार को <data class=\"resource-ref\" data-content-id=\"hin-t118-v1\" data-resource-code=\"FIAKeyTerms\">शैतान</data>, <data class=\"resource-ref\" data-content-id=\"hin-t181-v1\" data-resource-code=\"FIAKeyTerms\">इब्लीस</data>, या कभी कभी बालज़बूल कहा जाता है। क्योंकि परमेश्वर ने हर उस वस्तु को बनाया जो अस्तित्व में है, इसलिए इन आत्माओं को भी परमेश्वर ने ही बनाया है। परमेश्वर ने उन्हें <data class=\"resource-ref\" data-content-id=\"hin-t4-v1\" data-resource-code=\"FIAKeyTerms\">स्वर्गदूतों</data> के रूप में भला बनाया, ताकि वे उसका काम करें। लेकिन कुछ स्वर्गदूतों ने परमेश्वर के विरुद्ध बलवा किया, और वे दुष्ट आत्माएँ बन गए। ये दुष्ट आत्माएँ लोगों को नष्ट करने और धोखा देने की कोशिश करती हैं।</p><p>बुरी आत्माएँ लोगों पर कब्ज़ा कर सकती हैं जिससे लोग बीमार हो जाते हैं या अजीब तरह से व्यवहार करने लगते हैं। जब कोई बुरी आत्मा किसी व्यक्ति पर कब्ज़ा कर लेती है, तो हम कहते हैं कि वह व्यक्ति <data class=\"resource-ref\" data-content-id=\"hin-t101-v1\" data-resource-code=\"FIAKeyTerms\">बुरी आत्मा के कब्ज़े</data> में है। जो व्यक्ति बुरी आत्मा के कब्ज़े में होता है, वह बहरा, गूँगा हो सकता है या उसे ऐसे दौरे पड़ सकते हैं जो मिर्गी के दौरे जैसे लगते हैं। ऐसा व्यक्ति बहुत हिंसक हो सकता है और चिल्ला सकता है। <data class=\"resource-ref\" data-content-id=\"hin-t77-v2\" data-resource-code=\"FIAKeyTerms\">यहूदी</data> लोग लंबे समय तक चलने वाले रिवाजों के द्वारा लोगों में से बुरी आत्माओं को निकालने की कोशिश करते थे। लेकिन यीशु ने पृथ्वी पर अपने समय के दौरान कई लोगों में से बुरी आत्माओं को निकाला, और उसने यह केवल उन्हें आज्ञा देकर ही किया कि वे निकल जाएँ!</p><p>बुरी आत्माओं को दुष्ट आत्माएँ भी कहा जा सकता है। इससे यह स्पष्ट होता है कि उनके इरादे <data class=\"resource-ref\" data-content-id=\"hin-t187-v1\" data-resource-code=\"FIAKeyTerms\">बुरे</data> हैं। उन्हें कभी-कभी अशुद्ध आत्माएँ भी कहा जाता है। जो कुछ <data class=\"resource-ref\" data-content-id=\"hin-t26-v1\" data-resource-code=\"FIAKeyTerms\">अशुद्ध</data> होता है, वह परमेश्वर की सेवा के लिए अयोग्य होता है।</p><p><b>जब आप बुरी आत्मा का अनुवाद कर रहे हों, तो इन बातों का ध्यान रखें:</b></p><p>बुरी आत्माएँ मरे हुए मनुष्यों की आत्माएँ नहीं होतीं, हालाँकि बहुत-सी संस्कृतियों में वे ऐसा दिखावा करती हैं कि वे वही हैं। यदि आपको ऐसा शब्द इस्तेमाल करना पड़े जिसका अर्थ मरे हुए लोगों की आत्माएँ हो, तो लोगों को यह बात समय के साथ समझनी होगी कि ये आत्माएँ वास्तव में मरे हुए लोगों की आत्माएँ नहीं होतीं, बल्कि केवल वैसा दिखावा करती हैं।</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "hin-t36-v1",
+"resource_code": "FIAKeyTerms",
+"label": "बुरी आत्मा",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t118-v1",
+"resource_code": "FIAKeyTerms",
+"label": "शैतान",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t181-v1",
+"resource_code": "FIAKeyTerms",
+"label": "इब्लीस",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t4-v1",
+"resource_code": "FIAKeyTerms",
+"label": "स्वर्गदूतों",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t101-v1",
+"resource_code": "FIAKeyTerms",
+"label": "बुरी आत्मा के कब्ज़े",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t77-v2",
+"resource_code": "FIAKeyTerms",
+"label": "यहूदी",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t187-v1",
+"resource_code": "FIAKeyTerms",
+"label": "बुरे",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t26-v1",
+"resource_code": "FIAKeyTerms",
+"label": "अशुद्ध",
+"language": "hin"
+}
+],
+"acai": []
+}
+},
+{
+"content_id": "hin-t215-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "दुष्टता",
+"media_type": "Text",
+"index_reference": "दुष्टता",
+"language": "hin",
+"review_level": "None",
+"content": "<p><b>दुष्टता</b> का अर्थ बुराई के समान है। बुराई, अच्छाई के विपरीत होती है।</p><p>जो व्यक्ति बुरा या दुष्ट होता है, वह जानबूझकर ऐसे बुरे काम करता है जो दूसरों को दुख पहुँचाते हैं। जब लोग <data class=\"resource-ref\" data-content-id=\"hin-t189-v1\" data-resource-code=\"FIAKeyTerms\">परमेश्वर</data> की आज्ञा मानना छोड़ देते हैं, तो वे बुरे काम करना शुरू कर देते हैं।</p><p>क्योंकि मनुष्य परमेश्वर के प्रति बहुत अवज्ञाकारी हैं, इसलिए बाइबल सिखाती है कि हमारे हृदय बुरे हो गए हैं। अच्छे काम करने के बजाय हम बुरे काम करना चाहते हैं। संसार में बहुत सी समस्याएँ जैसे युद्ध, गरीबी और अन्याय, लोगों के दिल के अंदर की बुराई के कारण होती हैं। यहाँ तक कि बीमारी और मृत्यु भी आखिरकार बुराई का ही परिणाम हैं।</p><p>परमेश्वर बुराई से नफरत करता है। जब परमेश्वर अपना राज्य हमेशा के लिए स्थापित करेगा, तब वह बुराई को नष्ट कर देगा। जो कुछ भी बुरा है, वह परमेश्वर के राज्य में प्रवेश नहीं करेगा। उस समय तक, परमेश्वर अब भी बुराई को होने देता है। वह ऐसा क्यों होने देता है, यह मसीहियों के लिए सबसे कठिन सवालों में से एक है!</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "hin-t189-v1",
+"resource_code": "FIAKeyTerms",
+"label": "परमेश्वर",
+"language": "hin"
+}
+],
+"acai": [
+{
+"id": "keyterm:Wickedness",
+"type": "keyterm",
+"confidence": 0.832,
+"match_method": "embedding",
+"preferred_label": "दुष्टता"
+}
+]
+}
+},
+{
+"content_id": "hin-t98-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "दृष्टान्त",
+"media_type": "Text",
+"index_reference": "दृष्टान्त",
+"language": "hin",
+"review_level": "None",
+"content": "<p>एक <b>दृष्टान्त</b> एक ऐसी कहानी है जिसका एक गहरा अर्थ होता है। यीशु ने बहुत से दृष्टान्त सुनाए। इन कहानियों में यीशु ने ऐसे लोगों और घटनाओं का उपयोग किया जो आस-पास के लोगों के लिए बहुत जाने-पहचाने थे। यीशु की इन कहानियों का अंत अकसर सुनने वालों को हैरान कर देता था और कभी-कभी तो उन्हें बहुत चौंका देता था। कहानियों के द्वारा यीशु ने लोगों को परमेश्वर के बारे में और <data class=\"resource-ref\" data-content-id=\"hin-t82-v1\" data-resource-code=\"FIAKeyTerms\">परमेश्वर के राज्य</data> में चीज़ें कैसे चलती हैं, यह बताया। इन कहानियों को सुनाकर यीशु चाहता था कि लोग अपनी सोच और व्यवहार को बदल दें। लोगों को दृष्टान्त को समझने के लिए उन्हें बहुत ध्यान से सुनना पड़ता था। इन दृष्टान्तों को केवल वे लोग समझ सकते थे जो यीशु पर भरोसा करते थे। दूसरे लोगों के लिए दृष्टान्त केवल ऐसी कहानियाँ थीं जिनका कोई मतलब नहीं था। कभी-कभी यीशु अकेले में अपने <data class=\"resource-ref\" data-content-id=\"hin-t39-v1\" data-resource-code=\"FIAKeyTerms\">चेलों</data> को दृष्टान्त का मतलब समझाते थे।</p><p>पुराने नियम में, <b>भविष्यद्वक्ता</b>-जो लोग परमेश्वर का संदेश लोगों को देते थे, कभी-कभी लोगों को परमेश्वर के बारे में कुछ सिखाने के लिए दृष्टान्त भी सुनाते थे।</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "hin-t82-v1",
+"resource_code": "FIAKeyTerms",
+"label": "परमेश्वर के राज्य",
+"language": "hin"
+},
+{
+"reference_id": 0,
+"content_id": "hin-t39-v1",
+"resource_code": "FIAKeyTerms",
+"label": "चेलों",
+"language": "hin"
+}
+],
+"acai": [
+{
+"id": "keyterm:Parable",
+"type": "keyterm",
+"confidence": 0.5911,
+"match_method": "scored",
+"preferred_label": "दृष्टान्त"
 }
 ]
 }

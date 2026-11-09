@@ -1,98 +1,82 @@
 [
 {
-"content_id": "hin-t226-v1",
+"content_id": "hin-t66-v1",
 "reference_id": 0,
 "version": "1.0.4",
-"title": "राजा",
+"title": "हेरोदी",
 "media_type": "Text",
-"index_reference": "राजा",
+"index_reference": "हेरोदी",
 "language": "hin",
 "review_level": "None",
-"content": "<p>एक राजा वह होता है जो किसी शहर, प्रदेश जैसे कि प्रांत या देश पर शासन करता है। बाइबल के समय में, एक राजा आमतौर पर जीवन भर शासन करता था, दूसरे शब्दों में, जब तक वह मर नहीं जाता था। उसके मरने के बाद, उसके पुत्रों में से कोई एक उसके स्थान पर राजा बनता था।</p>",
-"associations": {
-"passage": [],
-"resource": [],
-"acai": []
-}
-},
-{
-"content_id": "hin-t157-v1",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "राज्य",
-"media_type": "Text",
-"index_reference": "राज्य",
-"language": "hin",
-"review_level": "None",
-"content": "<p>एक <b>राज्य</b> वह इलाका या लोग होते हैं जिस पर एक <data class=\"resource-ref\" data-content-id=\"hin-t226-v1\" data-resource-code=\"FIAKeyTerms\">राजा</data> शासन करता है।</p>",
-"associations": {
-"passage": [],
-"resource": [
-{
-"reference_id": 0,
-"content_id": "hin-t226-v1",
-"resource_code": "FIAKeyTerms",
-"label": "राजा",
-"language": "hin"
-}
-],
-"acai": [
-{
-"id": "keyterm:Kingdom",
-"type": "keyterm",
-"confidence": 0.9235,
-"match_method": "embedding",
-"preferred_label": "Kingdom"
-}
-]
-}
-},
-{
-"content_id": "hin-t94-v1",
-"reference_id": 0,
-"version": "1.0.4",
-"title": "राष्ट्र",
-"media_type": "Text",
-"index_reference": "राष्ट्र",
-"language": "hin",
-"review_level": "None",
-"content": "<p>एक <b>राष्ट्र</b> उन लोगों का समूह है जो एक साथ और एक ही देश में रहते हैं, और जिनका एक ही शासक हो।</p><p>जब भी बाइबल &quot;पृथ्वी के सभी राष्ट्रों&quot; की बात करती है, तो इसका अर्थ है कि &quot;पृथ्वी पर रहने वाले सभी लोग।&quot;</p>",
+"content": "<p>नए नियम में, <b>हेरोदी</b> शब्द का अर्थ है उन लोगों का समूह जो हेरोद के परिवार के शासन का समर्थन करते थे, जिसमें राजा हेरोदेस, उसका पुत्र और पोता हेरोदेस शामिल हैं। रोमी सरकार ने इन शासकों को नियुक्त किया था, और इसलिए हेरोदी भी रोमी सरकार के समर्थक थे। इस प्रकार वे <b>फरीसियों</b> के विरुद्ध थे, जो धार्मिक शिक्षकों का एक ऐसा समूह था जो रोमी शासन का विरोध करता था। हालाँकि, फरीसियों और हेरोदियों ने मिलकर यीशु के विरुद्ध काम किया।</p>",
 "associations": {
 "passage": [],
 "resource": [],
 "acai": [
 {
-"id": "group:Gentile",
+"id": "group:Herodian",
 "type": "group",
-"confidence": 0.5667,
+"confidence": 0.6345,
 "match_method": "scored",
-"preferred_label": "अन्यजाति"
+"preferred_label": "हेरोदी"
 }
 ]
 }
 },
 {
-"content_id": "hin-t38-v1",
+"content_id": "hin-t154-v1",
 "reference_id": 0,
 "version": "1.0.4",
-"title": "रेगिस्तान",
+"title": "होमबलि",
 "media_type": "Text",
-"index_reference": "रेगिस्तान",
+"index_reference": "होमबलि",
 "language": "hin",
 "review_level": "None",
-"content": "<p><b>रेगिस्तान</b> या <data class=\"resource-ref\" data-content-id=\"hin-t145-v1\" data-resource-code=\"FIAKeyTerms\">जंगल</data> एक सुनसान, और बंजर स्थान होता है, जहाँ पानी नहीं होता। रेगिस्तान में लगभग कोई पेड़ या झाड़ियाँ नहीं उगती हैं। ज़मीन सूखी और पथरीली होती है, और वहाँ जंगली जानवर घूमते रहते हैं। रेगिस्तान में लोग नहीं रहते।</p>",
+"content": "<p>पुराने नियम में, <b>होमबलि</b> एक प्रकार का <data class=\"resource-ref\" data-content-id=\"hin-t114-v1\" data-resource-code=\"FIAKeyTerms\">बलिदान</data> था जिसे लोग परमेश्वर को चढ़ाते थे। जब कोई व्यक्ति परमेश्वर को होमबलि चढ़ाता है, तो वह एक जानवर को मारकर उसे पूरी तरह से <b>वेदी</b> पर जलाता है, जो परमेश्वर को भेंट चढ़ाने का विशेष स्थान होता है। जब कोई व्यक्ति परमेश्वर को होमबलि चढ़ाता है, तो वह परमेश्वर से कहता है: &quot;जैसे मैं इस जानवर को पूरी तरह से जला रहा हूँ, वैसे ही मैं तेरे लिए पूरी तरह से समर्पित हूँ।&quot;</p>",
 "associations": {
 "passage": [],
 "resource": [
 {
 "reference_id": 0,
-"content_id": "hin-t145-v1",
+"content_id": "hin-t114-v1",
 "resource_code": "FIAKeyTerms",
-"label": "जंगल",
+"label": "बलिदान",
 "language": "hin"
 }
 ],
 "acai": []
+}
+},
+{
+"content_id": "hin-t69-v1",
+"reference_id": 0,
+"version": "1.0.4",
+"title": "होशाना",
+"media_type": "Text",
+"index_reference": "होशाना",
+"language": "hin",
+"review_level": "None",
+"content": "<p>पुराने नियम में, <b>होशाना</b> शब्द का अर्थ है &quot;हमें बचाओ।&quot; हम यह शब्द भजन संहिता 118 में सुन सकते हैं। इस भजन में, गायक परमेश्वर से लोगों को बचाने के लिए कहता है, और फिर परमेश्वर की <b>स्तुति</b> करना शुरू करता है। इसी वजह से, नए नियम के समय तक लोग होशाना शब्द का इस्तेमाल बड़े आनन्द के साथ परमेश्वर की स्तुति करने के लिए करने लगे, क्योंकि उन्हें भरोसा था कि परमेश्वर जल्द ही उन्हें <data class=\"resource-ref\" data-content-id=\"hin-t116-v1\" data-resource-code=\"FIAKeyTerms\">बचाएगा</data>। इसलिए नए नियम में होशाना शब्द का सामान्य अर्थ है &quot;परमेश्वर की स्तुति करो।&quot;</p><p><b>जब आप होशाना शब्द का अनुवाद कर रहे हों, तो इन बातों का ध्यान रखें:</b></p><p>आप होशाना का अनुवाद &quot;परमेश्वर की स्तुति करो!&quot; के रूप में कर सकते हैं। यह बात उन लोगों के लिए स्पष्ट करें जो आपको सुन रहे हैं कि जो लोग इस शब्द के साथ परमेश्वर की स्तुति कर रहे हैं वे बहुत खुश और उत्साहित हैं।</p><p>कुछ अनुवादक अपनी भाषा में ऐसा शब्द बनाते हैं जो &quot;होशाना&quot; जैसा सुनाई देता है। यदि आप ऐसा करना चाहते हैं, तो आप एक बार यह भी कह सकते हैं कि इस शब्द का अर्थ है &quot;परमेश्वर की स्तुति करो।&quot;</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": 0,
+"content_id": "hin-t116-v1",
+"resource_code": "FIAKeyTerms",
+"label": "बचाएगा",
+"language": "hin"
+}
+],
+"acai": [
+{
+"id": "keyterm:Hosanna",
+"type": "keyterm",
+"confidence": 0.6364,
+"match_method": "scored",
+"preferred_label": "होशाना"
+}
+]
 }
 }
 ]

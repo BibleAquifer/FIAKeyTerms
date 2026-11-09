@@ -18,7 +18,7 @@
 "type": "person",
 "confidence": 0.8899,
 "match_method": "embedding",
-"preferred_label": "Wisdom"
+"preferred_label": "الحكمة"
 }
 ]
 }
@@ -116,7 +116,7 @@
 "type": "place",
 "confidence": 0.6746,
 "match_method": "scored",
-"preferred_label": "حَبْرونَ"
+"preferred_label": "حَبْرون"
 }
 ]
 }
@@ -140,14 +140,14 @@
 "type": "realia",
 "confidence": 0.5985,
 "match_method": "scored",
-"preferred_label": "Cornerstone"
+"preferred_label": "حَجَرُ ٱلزَّاوِيَةِ"
 },
 {
 "id": "realia:Foundation",
 "type": "realia",
 "confidence": 0.5693,
 "match_method": "scored",
-"preferred_label": "Foundation"
+"preferred_label": "أَسَاس"
 }
 ]
 }
@@ -171,7 +171,7 @@
 "type": "fauna",
 "confidence": 0.8198,
 "match_method": "embedding",
-"preferred_label": "Donkey"
+"preferred_label": "حمار"
 }
 ]
 }
@@ -231,7 +231,7 @@
 "type": "fauna",
 "confidence": 0.8515,
 "match_method": "embedding",
-"preferred_label": "Dove"
+"preferred_label": "حمامة"
 }
 ]
 }

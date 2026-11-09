@@ -216,6 +216,12 @@
 "end_ref_usfm": "NEH 13:22"
 },
 {
+"start_ref": "23001010",
+"start_ref_usfm": "ISA 1:10",
+"end_ref": "23001020",
+"end_ref_usfm": "ISA 1:20"
+},
+{
 "start_ref": "40012001",
 "start_ref_usfm": "MAT 12:1",
 "end_ref": "40012014",
@@ -397,7 +403,7 @@
 {
 "id": "keyterm:Sabbath",
 "type": "keyterm",
-"confidence": 0.6017,
+"confidence": 0.6013,
 "match_method": "scored",
 "preferred_label": "Sabbath"
 }
@@ -619,6 +625,12 @@
 "start_ref_usfm": "NEH 13:15",
 "end_ref": "16013022",
 "end_ref_usfm": "NEH 13:22"
+},
+{
+"start_ref": "23001010",
+"start_ref_usfm": "ISA 1:10",
+"end_ref": "23001020",
+"end_ref_usfm": "ISA 1:20"
 },
 {
 "start_ref": "40012001",
@@ -2241,6 +2253,12 @@
 "end_ref_usfm": "DAN 7:28"
 },
 {
+"start_ref": "27008015",
+"start_ref_usfm": "DAN 8:15",
+"end_ref": "27008027",
+"end_ref_usfm": "DAN 8:27"
+},
+{
 "start_ref": "44009032",
 "start_ref_usfm": "ACT 9:32",
 "end_ref": "44009035",
@@ -2426,6 +2444,12 @@
 "start_ref_usfm": "DAN 7:15",
 "end_ref": "27007028",
 "end_ref_usfm": "DAN 7:28"
+},
+{
+"start_ref": "27008015",
+"start_ref_usfm": "DAN 8:15",
+"end_ref": "27008027",
+"end_ref_usfm": "DAN 8:27"
 },
 {
 "start_ref": "44009032",
@@ -4194,6 +4218,24 @@
 "end_ref_usfm": "NEH 10:39"
 },
 {
+"start_ref": "27008001",
+"start_ref_usfm": "DAN 8:1",
+"end_ref": "27008014",
+"end_ref_usfm": "DAN 8:14"
+},
+{
+"start_ref": "27009015",
+"start_ref_usfm": "DAN 9:15",
+"end_ref": "27009019",
+"end_ref_usfm": "DAN 9:19"
+},
+{
+"start_ref": "27009020",
+"start_ref_usfm": "DAN 9:20",
+"end_ref": "27009027",
+"end_ref_usfm": "DAN 9:27"
+},
+{
 "start_ref": "42001005",
 "start_ref_usfm": "LUK 1:5",
 "end_ref": "42001025",
@@ -4543,6 +4585,24 @@
 "start_ref_usfm": "NEH 10:28",
 "end_ref": "16010039",
 "end_ref_usfm": "NEH 10:39"
+},
+{
+"start_ref": "27008001",
+"start_ref_usfm": "DAN 8:1",
+"end_ref": "27008014",
+"end_ref_usfm": "DAN 8:14"
+},
+{
+"start_ref": "27009015",
+"start_ref_usfm": "DAN 9:15",
+"end_ref": "27009019",
+"end_ref_usfm": "DAN 9:19"
+},
+{
+"start_ref": "27009020",
+"start_ref_usfm": "DAN 9:20",
+"end_ref": "27009027",
+"end_ref_usfm": "DAN 9:27"
 },
 {
 "start_ref": "42001005",
@@ -7182,6 +7242,18 @@
 "start_ref_usfm": "DAN 7:9",
 "end_ref": "27007014",
 "end_ref_usfm": "DAN 7:14"
+},
+{
+"start_ref": "27011036",
+"start_ref_usfm": "DAN 11:36",
+"end_ref": "27012003",
+"end_ref_usfm": "DAN 12:3"
+},
+{
+"start_ref": "27012004",
+"start_ref_usfm": "DAN 12:4",
+"end_ref": "27012013",
+"end_ref_usfm": "DAN 12:13"
 }
 ],
 "resource": [
@@ -7479,6 +7551,18 @@
 "start_ref_usfm": "DAN 7:9",
 "end_ref": "27007014",
 "end_ref_usfm": "DAN 7:14"
+},
+{
+"start_ref": "27011036",
+"start_ref_usfm": "DAN 11:36",
+"end_ref": "27012003",
+"end_ref_usfm": "DAN 12:3"
+},
+{
+"start_ref": "27012004",
+"start_ref_usfm": "DAN 12:4",
+"end_ref": "27012013",
+"end_ref_usfm": "DAN 12:13"
 }
 ],
 "resource": [
@@ -10048,6 +10132,12 @@
 "end_ref_usfm": "1KI 2:12"
 },
 {
+"start_ref": "23005008",
+"start_ref_usfm": "ISA 5:8",
+"end_ref": "23005017",
+"end_ref_usfm": "ISA 5:17"
+},
+{
 "start_ref": "32001017",
 "start_ref_usfm": "JON 1:17",
 "end_ref": "32002010",
@@ -10121,6 +10211,12 @@
 "start_ref_usfm": "1KI 2:1",
 "end_ref": "11002012",
 "end_ref_usfm": "1KI 2:12"
+},
+{
+"start_ref": "23005008",
+"start_ref_usfm": "ISA 5:8",
+"end_ref": "23005017",
+"end_ref_usfm": "ISA 5:17"
 },
 {
 "start_ref": "32001017",
@@ -17227,6 +17323,12 @@
 "end_ref_usfm": "2KI 5:27"
 },
 {
+"start_ref": "12019001",
+"start_ref_usfm": "2KI 19:1",
+"end_ref": "12019007",
+"end_ref_usfm": "2KI 19:7"
+},
+{
 "start_ref": "13005018",
 "start_ref_usfm": "1CH 5:18",
 "end_ref": "13005026",
@@ -17606,6 +17708,12 @@
 "start_ref_usfm": "2KI 5:15",
 "end_ref": "12005027",
 "end_ref_usfm": "2KI 5:27"
+},
+{
+"start_ref": "12019001",
+"start_ref_usfm": "2KI 19:1",
+"end_ref": "12019007",
+"end_ref_usfm": "2KI 19:7"
 },
 {
 "start_ref": "13005018",
@@ -19246,6 +19354,12 @@
 "end_ref_usfm": "DAN 1:21"
 },
 {
+"start_ref": "27009001",
+"start_ref_usfm": "DAN 9:1",
+"end_ref": "27009014",
+"end_ref_usfm": "DAN 9:14"
+},
+{
 "start_ref": "32001017",
 "start_ref_usfm": "JON 1:17",
 "end_ref": "32002010",
@@ -19515,6 +19629,12 @@
 "start_ref_usfm": "DAN 1:8",
 "end_ref": "27001021",
 "end_ref_usfm": "DAN 1:21"
+},
+{
+"start_ref": "27009001",
+"start_ref_usfm": "DAN 9:1",
+"end_ref": "27009014",
+"end_ref_usfm": "DAN 9:14"
 },
 {
 "start_ref": "32001017",
@@ -19931,6 +20051,42 @@
 "end_ref_usfm": "EST 9:19"
 },
 {
+"start_ref": "27008001",
+"start_ref_usfm": "DAN 8:1",
+"end_ref": "27008014",
+"end_ref_usfm": "DAN 8:14"
+},
+{
+"start_ref": "27011002",
+"start_ref_usfm": "DAN 11:2",
+"end_ref": "27011013",
+"end_ref_usfm": "DAN 11:13"
+},
+{
+"start_ref": "27011014",
+"start_ref_usfm": "DAN 11:14",
+"end_ref": "27011020",
+"end_ref_usfm": "DAN 11:20"
+},
+{
+"start_ref": "27011021",
+"start_ref_usfm": "DAN 11:21",
+"end_ref": "27011028",
+"end_ref_usfm": "DAN 11:28"
+},
+{
+"start_ref": "27011029",
+"start_ref_usfm": "DAN 11:29",
+"end_ref": "27011035",
+"end_ref_usfm": "DAN 11:35"
+},
+{
+"start_ref": "27011036",
+"start_ref_usfm": "DAN 11:36",
+"end_ref": "27012003",
+"end_ref_usfm": "DAN 12:3"
+},
+{
 "start_ref": "47010001",
 "start_ref_usfm": "2CO 10:1",
 "end_ref": "47010006",
@@ -19950,7 +20106,7 @@
 {
 "id": "realia:Fortress",
 "type": "realia",
-"confidence": 0.5805,
+"confidence": 0.583,
 "match_method": "scored",
 "preferred_label": "Fortress"
 }
@@ -20136,6 +20292,42 @@
 "start_ref_usfm": "EST 9:11",
 "end_ref": "17009019",
 "end_ref_usfm": "EST 9:19"
+},
+{
+"start_ref": "27008001",
+"start_ref_usfm": "DAN 8:1",
+"end_ref": "27008014",
+"end_ref_usfm": "DAN 8:14"
+},
+{
+"start_ref": "27011002",
+"start_ref_usfm": "DAN 11:2",
+"end_ref": "27011013",
+"end_ref_usfm": "DAN 11:13"
+},
+{
+"start_ref": "27011014",
+"start_ref_usfm": "DAN 11:14",
+"end_ref": "27011020",
+"end_ref_usfm": "DAN 11:20"
+},
+{
+"start_ref": "27011021",
+"start_ref_usfm": "DAN 11:21",
+"end_ref": "27011028",
+"end_ref_usfm": "DAN 11:28"
+},
+{
+"start_ref": "27011029",
+"start_ref_usfm": "DAN 11:29",
+"end_ref": "27011035",
+"end_ref_usfm": "DAN 11:35"
+},
+{
+"start_ref": "27011036",
+"start_ref_usfm": "DAN 11:36",
+"end_ref": "27012003",
+"end_ref_usfm": "DAN 12:3"
 },
 {
 "start_ref": "47010001",
@@ -20963,18 +21155,18 @@
 ],
 "acai": [
 {
-"id": "place:Phoenicia",
-"type": "place",
-"confidence": 0.6571,
-"match_method": "scored",
-"preferred_label": "Phoenicia"
-},
-{
 "id": "group:Phoenicia",
 "type": "group",
 "confidence": 0.6571,
 "match_method": "scored",
 "preferred_label": "Syrophoenicians"
+},
+{
+"id": "place:Phoenicia",
+"type": "place",
+"confidence": 0.6571,
+"match_method": "scored",
+"preferred_label": "Phoenicia"
 }
 ]
 }

@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Familiarization, Internalization, Articulation (FIA) Key Terms</b> © 2025 Word Collective Released under CC BY-SA 4.0 license. <cite>Familiarization, Internalization, Articulation (FIA) Key Terms</cite> has been adapted in the following languages Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Familiarization, Internalization, Articulation (FIA)</cite> © 2025 Word Collective. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "FIAKeyTerms",
-"date_created": "2026-10-28",
+"date_created": "2026-11-09",
 "language": "ind",
 "localizations": [
 "arb",
@@ -54,7 +54,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-10-28T06:07:47.604975"
+"dateCreated": "2026-11-09T14:48:18.711877"
 },
 "idAuthorities": {
 "aquifer": {
@@ -68,7 +68,7 @@
 "primary": {
 "aquifer": {
 "FIAKeyTerms": {
-"timestamp": "2026-10-28T06:07:47.604975"
+"timestamp": "2026-11-09T14:48:18.711877"
 }
 }
 },
@@ -100,7 +100,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 39152,
+"size": 105640,
 "scope": {
 "a": [
 "Abraham",
@@ -123,7 +123,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 49358,
+"size": 122970,
 "scope": {
 "b": [
 "bahasa lidah",
@@ -146,7 +146,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 41881,
+"size": 89029,
 "scope": {
 "d": [
 "damai",
@@ -165,7 +165,7 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 14091,
+"size": 17414,
 "scope": {
 "e": [
 "el-elyon",
@@ -178,7 +178,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 7694,
+"size": 31895,
 "scope": {
 "f": [
 "Farisi",
@@ -190,7 +190,7 @@
 },
 "json/006.content.json": {
 "mimeType": "text/json",
-"size": 15992,
+"size": 41427,
 "scope": {
 "g": [
 "Gabriel",
@@ -206,7 +206,7 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 17581,
+"size": 69085,
 "scope": {
 "h": [
 "hakim",
@@ -223,7 +223,7 @@
 },
 "json/008.content.json": {
 "mimeType": "text/json",
-"size": 36568,
+"size": 100873,
 "scope": {
 "i": [
 "ibadah atau penyembahan",
@@ -240,7 +240,7 @@
 },
 "json/009.content.json": {
 "mimeType": "text/json",
-"size": 6701,
+"size": 19852,
 "scope": {
 "j": [
 "jala ikan",
@@ -253,7 +253,7 @@
 },
 "json/010.content.json": {
 "mimeType": "text/json",
-"size": 101120,
+"size": 293729,
 "scope": {
 "k": [
 "kabar baik",
@@ -299,7 +299,7 @@
 },
 "json/011.content.json": {
 "mimeType": "text/json",
-"size": 3829,
+"size": 6497,
 "scope": {
 "l": [
 "lagu pujian",
@@ -310,7 +310,7 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 65092,
+"size": 165010,
 "scope": {
 "m": [
 "makam",
@@ -342,7 +342,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 24294,
+"size": 42229,
 "scope": {
 "n": [
 "Nabi",
@@ -354,7 +354,7 @@
 },
 "json/014.content.json": {
 "mimeType": "text/json",
-"size": 22664,
+"size": 64892,
 "scope": {
 "o": [
 "orang asing",
@@ -370,7 +370,7 @@
 },
 "json/015.content.json": {
 "mimeType": "text/json",
-"size": 91579,
+"size": 212901,
 "scope": {
 "p": [
 "padang gurun",
@@ -414,7 +414,7 @@
 },
 "json/016.content.json": {
 "mimeType": "text/json",
-"size": 21591,
+"size": 76358,
 "scope": {
 "r": [
 "rabi",
@@ -431,7 +431,7 @@
 },
 "json/017.content.json": {
 "mimeType": "text/json",
-"size": 44552,
+"size": 107669,
 "scope": {
 "s": [
 "sabat",
@@ -454,7 +454,7 @@
 },
 "json/018.content.json": {
 "mimeType": "text/json",
-"size": 28402,
+"size": 80412,
 "scope": {
 "t": [
 "tahir/najis",
@@ -472,7 +472,7 @@
 },
 "json/019.content.json": {
 "mimeType": "text/json",
-"size": 2887,
+"size": 5218,
 "scope": {
 "u": [
 "uang tebusan",
@@ -482,7 +482,7 @@
 },
 "json/020.content.json": {
 "mimeType": "text/json",
-"size": 34130,
+"size": 80194,
 "scope": {
 "y": [
 "Yahudi",
@@ -498,83 +498,83 @@
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 22333
+"size": 33102
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 5658
+"size": 7973
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 28434
+"size": 36535
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
-"size": 8167
+"size": 8852
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 2775
+"size": 3292
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 13988
+"size": 23667
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 21733
+"size": 29835
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
-"size": 28490
+"size": 39329
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 63954
+"size": 96833
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 5673
+"size": 9846
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 31948
+"size": 44616
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 38575
+"size": 55409
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 61849
+"size": 82747
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
-"size": 12995
+"size": 21677
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
-"size": 10492
+"size": 14868
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 26043
+"size": 37201
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 13970
+"size": 21151
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 16058
+"size": 19292
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 2401
+"size": 2840
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
-"size": 17694
+"size": 26477
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
@@ -4669,58 +4669,6 @@
 }
 }
 },
-"ind-t74-v2": {
-"content_id": "ind-t74-v2",
-"reference_id": 0,
-"index_reference": "israel",
-"localizations": {
-"arb": {
-"content_id": "arb-t74-v2",
-"language": "arb",
-"title": "إسرائيل"
-},
-"eng": {
-"content_id": "eng-t74-v2",
-"language": "eng",
-"title": "Israel"
-},
-"fra": {
-"content_id": "fra-t74-v2",
-"language": "fra",
-"title": "Israël"
-},
-"hin": {
-"content_id": "hin-t74-v2",
-"language": "hin",
-"title": "इस्राएल"
-},
-"nep": {
-"content_id": "nep-t74-v2",
-"language": "nep",
-"title": "इस्राएल"
-},
-"por": {
-"content_id": "por-t74-v2",
-"language": "por",
-"title": "Israel"
-},
-"spa": {
-"content_id": "spa-t74-v2",
-"language": "spa",
-"title": "israel"
-},
-"swh": {
-"content_id": "swh-t74-v2",
-"language": "swh",
-"title": "Israeli"
-},
-"tpi": {
-"content_id": "tpi-t74-v2",
-"language": "tpi",
-"title": "israel"
-}
-}
-},
 "ind-t75-v1": {
 "content_id": "ind-t75-v1",
 "reference_id": 0,
@@ -4837,58 +4785,6 @@
 "content_id": "zhs-t76-v1",
 "language": "zhs",
 "title": "耶路撒冷"
-}
-}
-},
-"ind-t77-v2": {
-"content_id": "ind-t77-v2",
-"reference_id": 0,
-"index_reference": "yahudi",
-"localizations": {
-"arb": {
-"content_id": "arb-t77-v2",
-"language": "arb",
-"title": "يهود"
-},
-"eng": {
-"content_id": "eng-t77-v2",
-"language": "eng",
-"title": "Jew"
-},
-"fra": {
-"content_id": "fra-t77-v2",
-"language": "fra",
-"title": "Juifs"
-},
-"hin": {
-"content_id": "hin-t77-v2",
-"language": "hin",
-"title": "यहूदी"
-},
-"nep": {
-"content_id": "nep-t77-v2",
-"language": "nep",
-"title": "यहूदी"
-},
-"por": {
-"content_id": "por-t77-v2",
-"language": "por",
-"title": "Judeu"
-},
-"spa": {
-"content_id": "spa-t77-v2",
-"language": "spa",
-"title": "jew"
-},
-"swh": {
-"content_id": "swh-t77-v2",
-"language": "swh",
-"title": "Myahudi"
-},
-"tpi": {
-"content_id": "tpi-t77-v2",
-"language": "tpi",
-"title": "jew"
 }
 }
 },
@@ -14046,6 +13942,110 @@
 "content_id": "zht-t293-v1",
 "language": "zht",
 "title": "淫亂"
+}
+}
+},
+"ind-t74-v2": {
+"content_id": "ind-t74-v2",
+"reference_id": 0,
+"index_reference": "israel",
+"localizations": {
+"arb": {
+"content_id": "arb-t74-v2",
+"language": "arb",
+"title": "إسرائيل"
+},
+"eng": {
+"content_id": "eng-t74-v2",
+"language": "eng",
+"title": "Israel"
+},
+"fra": {
+"content_id": "fra-t74-v2",
+"language": "fra",
+"title": "Israël"
+},
+"hin": {
+"content_id": "hin-t74-v2",
+"language": "hin",
+"title": "इस्राएल"
+},
+"nep": {
+"content_id": "nep-t74-v2",
+"language": "nep",
+"title": "इस्राएल"
+},
+"por": {
+"content_id": "por-t74-v2",
+"language": "por",
+"title": "Israel"
+},
+"spa": {
+"content_id": "spa-t74-v2",
+"language": "spa",
+"title": "israel"
+},
+"swh": {
+"content_id": "swh-t74-v2",
+"language": "swh",
+"title": "Israeli"
+},
+"tpi": {
+"content_id": "tpi-t74-v2",
+"language": "tpi",
+"title": "israel"
+}
+}
+},
+"ind-t77-v2": {
+"content_id": "ind-t77-v2",
+"reference_id": 0,
+"index_reference": "yahudi",
+"localizations": {
+"arb": {
+"content_id": "arb-t77-v2",
+"language": "arb",
+"title": "يهود"
+},
+"eng": {
+"content_id": "eng-t77-v2",
+"language": "eng",
+"title": "Jew"
+},
+"fra": {
+"content_id": "fra-t77-v2",
+"language": "fra",
+"title": "Juifs"
+},
+"hin": {
+"content_id": "hin-t77-v2",
+"language": "hin",
+"title": "यहूदी"
+},
+"nep": {
+"content_id": "nep-t77-v2",
+"language": "nep",
+"title": "यहूदी"
+},
+"por": {
+"content_id": "por-t77-v2",
+"language": "por",
+"title": "Judeu"
+},
+"spa": {
+"content_id": "spa-t77-v2",
+"language": "spa",
+"title": "jew"
+},
+"swh": {
+"content_id": "swh-t77-v2",
+"language": "swh",
+"title": "Myahudi"
+},
+"tpi": {
+"content_id": "tpi-t77-v2",
+"language": "tpi",
+"title": "jew"
 }
 }
 }

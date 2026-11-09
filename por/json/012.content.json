@@ -653,6 +653,24 @@
 "end_ref_usfm": "PSA 1:6"
 },
 {
+"start_ref": "23001010",
+"start_ref_usfm": "ISA 1:10",
+"end_ref": "23001020",
+"end_ref_usfm": "ISA 1:20"
+},
+{
+"start_ref": "27011021",
+"start_ref_usfm": "DAN 11:21",
+"end_ref": "27011028",
+"end_ref_usfm": "DAN 11:28"
+},
+{
+"start_ref": "27012004",
+"start_ref_usfm": "DAN 12:4",
+"end_ref": "27012013",
+"end_ref_usfm": "DAN 12:13"
+},
+{
 "start_ref": "32001001",
 "start_ref_usfm": "JON 1:1",
 "end_ref": "32001016",
@@ -723,24 +741,6 @@
 "start_ref_usfm": "1CO 10:1",
 "end_ref": "46010013",
 "end_ref_usfm": "1CO 10:13"
-},
-{
-"start_ref": "46013001",
-"start_ref_usfm": "1CO 13:1",
-"end_ref": "46013007",
-"end_ref_usfm": "1CO 13:7"
-},
-{
-"start_ref": "46014020",
-"start_ref_usfm": "1CO 14:20",
-"end_ref": "46014025",
-"end_ref_usfm": "1CO 14:25"
-},
-{
-"start_ref": "47005001",
-"start_ref_usfm": "2CO 5:1",
-"end_ref": "47005010",
-"end_ref_usfm": "2CO 5:10"
 }
 ],
 "resource": [],
@@ -1052,6 +1052,12 @@
 "start_ref_usfm": "JOB 2:7",
 "end_ref": "18002013",
 "end_ref_usfm": "JOB 2:13"
+},
+{
+"start_ref": "27009001",
+"start_ref_usfm": "DAN 9:1",
+"end_ref": "27009014",
+"end_ref_usfm": "DAN 9:14"
 },
 {
 "start_ref": "40025031",
@@ -1557,6 +1563,12 @@
 "end_ref_usfm": "NEH 12:47"
 },
 {
+"start_ref": "27009001",
+"start_ref_usfm": "DAN 9:1",
+"end_ref": "27009014",
+"end_ref_usfm": "DAN 9:14"
+},
+{
 "start_ref": "40015001",
 "start_ref_usfm": "MAT 15:1",
 "end_ref": "40015020",
@@ -1646,9 +1658,9 @@
 {
 "id": "keyterm:Commandment",
 "type": "keyterm",
-"confidence": 0.5698,
+"confidence": 0.5696,
 "match_method": "scored",
-"preferred_label": "Commandment"
+"preferred_label": "mandamento"
 }
 ]
 }
@@ -1889,7 +1901,7 @@
 "type": "realia",
 "confidence": 0.8797,
 "match_method": "embedding",
-"preferred_label": "Robe"
+"preferred_label": "manto"
 }
 ]
 }
@@ -2095,7 +2107,7 @@
 "type": "place",
 "confidence": 0.607,
 "match_method": "scored",
-"preferred_label": "Sea of Galilee"
+"preferred_label": "mar da Galileia"
 },
 {
 "id": "place:Gennesaret",
@@ -2298,6 +2310,12 @@
 "start_ref_usfm": "DAN 7:1",
 "end_ref": "27007008",
 "end_ref_usfm": "DAN 7:8"
+},
+{
+"start_ref": "27010010",
+"start_ref_usfm": "DAN 10:10",
+"end_ref": "27011001",
+"end_ref_usfm": "DAN 11:1"
 },
 {
 "start_ref": "40022034",
@@ -2865,6 +2883,12 @@
 "start_ref_usfm": "2KI 18:26",
 "end_ref": "12018037",
 "end_ref_usfm": "2KI 18:37"
+},
+{
+"start_ref": "12019001",
+"start_ref_usfm": "2KI 19:1",
+"end_ref": "12019007",
+"end_ref_usfm": "2KI 19:7"
 },
 {
 "start_ref": "27002046",
@@ -3986,6 +4010,18 @@
 "start_ref_usfm": "DAN 4:19",
 "end_ref": "27004027",
 "end_ref_usfm": "DAN 4:27"
+},
+{
+"start_ref": "27009001",
+"start_ref_usfm": "DAN 9:1",
+"end_ref": "27009014",
+"end_ref_usfm": "DAN 9:14"
+},
+{
+"start_ref": "27009015",
+"start_ref_usfm": "DAN 9:15",
+"end_ref": "27009019",
+"end_ref_usfm": "DAN 9:19"
 },
 {
 "start_ref": "40005001",

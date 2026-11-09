@@ -1289,7 +1289,7 @@
 "type": "realia",
 "confidence": 0.5851,
 "match_method": "scored",
-"preferred_label": "Denarius"
+"preferred_label": "denier"
 }
 ]
 }
@@ -2780,7 +2780,7 @@
 "type": "place",
 "confidence": 0.6019,
 "match_method": "scored",
-"preferred_label": "plaine"
+"preferred_label": "Arabah"
 }
 ]
 }
@@ -5436,6 +5436,18 @@
 "end_ref_usfm": "DAN 6:18"
 },
 {
+"start_ref": "27011002",
+"start_ref_usfm": "DAN 11:2",
+"end_ref": "27011013",
+"end_ref_usfm": "DAN 11:13"
+},
+{
+"start_ref": "27011036",
+"start_ref_usfm": "DAN 11:36",
+"end_ref": "27012003",
+"end_ref_usfm": "DAN 12:3"
+},
+{
 "start_ref": "32001001",
 "start_ref_usfm": "JON 1:1",
 "end_ref": "32001016",
@@ -7726,7 +7738,7 @@
 "type": "realia",
 "confidence": 0.617,
 "match_method": "scored",
-"preferred_label": "Drachma"
+"preferred_label": "drachme"
 }
 ]
 }

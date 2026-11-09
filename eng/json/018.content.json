@@ -1630,6 +1630,12 @@
 "associations": {
 "passage": [
 {
+"start_ref": "27010001",
+"start_ref_usfm": "DAN 10:1",
+"end_ref": "27010009",
+"end_ref_usfm": "DAN 10:9"
+},
+{
 "start_ref": "46001001",
 "start_ref_usfm": "1CO 1:1",
 "end_ref": "46001009",
@@ -1696,6 +1702,12 @@
 "content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t291/v1/vbr4.mp3'>mp3 file</a> (913 KB)</p>",
 "associations": {
 "passage": [
+{
+"start_ref": "27010001",
+"start_ref_usfm": "DAN 10:1",
+"end_ref": "27010009",
+"end_ref_usfm": "DAN 10:9"
+},
 {
 "start_ref": "46001001",
 "start_ref_usfm": "1CO 1:1",
@@ -1937,10 +1949,46 @@
 "end_ref_usfm": "PSA 1:6"
 },
 {
+"start_ref": "23005001",
+"start_ref_usfm": "ISA 5:1",
+"end_ref": "23005007",
+"end_ref_usfm": "ISA 5:7"
+},
+{
+"start_ref": "23005008",
+"start_ref_usfm": "ISA 5:8",
+"end_ref": "23005017",
+"end_ref_usfm": "ISA 5:17"
+},
+{
 "start_ref": "27004019",
 "start_ref_usfm": "DAN 4:19",
 "end_ref": "27004027",
 "end_ref_usfm": "DAN 4:27"
+},
+{
+"start_ref": "27009001",
+"start_ref_usfm": "DAN 9:1",
+"end_ref": "27009014",
+"end_ref_usfm": "DAN 9:14"
+},
+{
+"start_ref": "27009015",
+"start_ref_usfm": "DAN 9:15",
+"end_ref": "27009019",
+"end_ref_usfm": "DAN 9:19"
+},
+{
+"start_ref": "27009020",
+"start_ref_usfm": "DAN 9:20",
+"end_ref": "27009027",
+"end_ref_usfm": "DAN 9:27"
+},
+{
+"start_ref": "27011036",
+"start_ref_usfm": "DAN 11:36",
+"end_ref": "27012003",
+"end_ref_usfm": "DAN 12:3"
 },
 {
 "start_ref": "40001018",
@@ -2325,18 +2373,6 @@
 "start_ref_usfm": "1JN 1:5",
 "end_ref": "62002002",
 "end_ref_usfm": "1JN 2:2"
-},
-{
-"start_ref": "62002029",
-"start_ref_usfm": "1JN 2:29",
-"end_ref": "62003010",
-"end_ref_usfm": "1JN 3:10"
-},
-{
-"start_ref": "62005013",
-"start_ref_usfm": "1JN 5:13",
-"end_ref": "62005021",
-"end_ref_usfm": "1JN 5:21"
 }
 ],
 "resource": [
@@ -2348,15 +2384,7 @@
 "language": "eng"
 }
 ],
-"acai": [
-{
-"id": "keyterm:UnjustDeed",
-"type": "keyterm",
-"confidence": 0.5701,
-"match_method": "scored",
-"preferred_label": "Unjust Deed"
-}
-]
+"acai": []
 }
 },
 {
@@ -2546,10 +2574,46 @@
 "end_ref_usfm": "PSA 1:6"
 },
 {
+"start_ref": "23005001",
+"start_ref_usfm": "ISA 5:1",
+"end_ref": "23005007",
+"end_ref_usfm": "ISA 5:7"
+},
+{
+"start_ref": "23005008",
+"start_ref_usfm": "ISA 5:8",
+"end_ref": "23005017",
+"end_ref_usfm": "ISA 5:17"
+},
+{
 "start_ref": "27004019",
 "start_ref_usfm": "DAN 4:19",
 "end_ref": "27004027",
 "end_ref_usfm": "DAN 4:27"
+},
+{
+"start_ref": "27009001",
+"start_ref_usfm": "DAN 9:1",
+"end_ref": "27009014",
+"end_ref_usfm": "DAN 9:14"
+},
+{
+"start_ref": "27009015",
+"start_ref_usfm": "DAN 9:15",
+"end_ref": "27009019",
+"end_ref_usfm": "DAN 9:19"
+},
+{
+"start_ref": "27009020",
+"start_ref_usfm": "DAN 9:20",
+"end_ref": "27009027",
+"end_ref_usfm": "DAN 9:27"
+},
+{
+"start_ref": "27011036",
+"start_ref_usfm": "DAN 11:36",
+"end_ref": "27012003",
+"end_ref_usfm": "DAN 12:3"
 },
 {
 "start_ref": "40001018",
@@ -2934,18 +2998,6 @@
 "start_ref_usfm": "1JN 1:5",
 "end_ref": "62002002",
 "end_ref_usfm": "1JN 2:2"
-},
-{
-"start_ref": "62002029",
-"start_ref_usfm": "1JN 2:29",
-"end_ref": "62003010",
-"end_ref_usfm": "1JN 3:10"
-},
-{
-"start_ref": "62005013",
-"start_ref_usfm": "1JN 5:13",
-"end_ref": "62005021",
-"end_ref_usfm": "1JN 5:21"
 }
 ],
 "resource": [

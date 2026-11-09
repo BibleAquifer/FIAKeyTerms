@@ -288,6 +288,12 @@
 "end_ref_usfm": "2CH 34:33"
 },
 {
+"start_ref": "27011002",
+"start_ref_usfm": "DAN 11:2",
+"end_ref": "27011013",
+"end_ref_usfm": "DAN 11:13"
+},
+{
 "start_ref": "32001017",
 "start_ref_usfm": "JON 1:17",
 "end_ref": "32002010",
@@ -410,7 +416,7 @@
 {
 "id": "deity:Teraphim",
 "type": "deity",
-"confidence": 0.6063,
+"confidence": 0.6062,
 "match_method": "scored",
 "preferred_label": "théraphim"
 }
@@ -1310,7 +1316,7 @@
 "type": "group",
 "confidence": 0.6,
 "match_method": "scored",
-"preferred_label": "Israël"
+"preferred_label": "Israélites"
 }
 ]
 }
@@ -2069,7 +2075,7 @@
 "type": "group",
 "confidence": 0.5786,
 "match_method": "scored",
-"preferred_label": "Israël"
+"preferred_label": "Israélites"
 }
 ]
 }

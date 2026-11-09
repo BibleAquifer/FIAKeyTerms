@@ -281,7 +281,7 @@
 "type": "keyterm",
 "confidence": 0.5892,
 "match_method": "scored",
-"preferred_label": "Covenant"
+"preferred_label": "Agano"
 }
 ]
 }
@@ -343,14 +343,14 @@
 "type": "keyterm",
 "confidence": 0.8834,
 "match_method": "embedding",
-"preferred_label": "Mind"
+"preferred_label": "Akili"
 },
 {
 "id": "keyterm:Mind.2",
 "type": "keyterm",
 "confidence": 0.8834,
 "match_method": "embedding",
-"preferred_label": "Mind"
+"preferred_label": "Akili"
 }
 ]
 }
@@ -382,7 +382,7 @@
 "type": "keyterm",
 "confidence": 0.8933,
 "match_method": "embedding",
-"preferred_label": "Peace"
+"preferred_label": "Amani"
 }
 ]
 }
@@ -442,9 +442,9 @@
 {
 "id": "keyterm:Commandment",
 "type": "keyterm",
-"confidence": 0.5698,
+"confidence": 0.5696,
 "match_method": "scored",
-"preferred_label": "Commandment"
+"preferred_label": "Amri"
 }
 ]
 }

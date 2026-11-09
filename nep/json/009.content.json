@@ -18,7 +18,7 @@
 "type": "fauna",
 "confidence": 0.8198,
 "match_method": "embedding",
-"preferred_label": "Donkey"
+"preferred_label": "गधा"
 }
 ]
 }
@@ -85,7 +85,7 @@
 "type": "deity",
 "confidence": 0.6129,
 "match_method": "scored",
-"preferred_label": "Gabriel"
+"preferred_label": "गब्रिएल"
 }
 ]
 }
@@ -180,21 +180,21 @@
 "type": "place",
 "confidence": 0.6384,
 "match_method": "scored",
-"preferred_label": "Galilee"
+"preferred_label": "गालील"
 },
 {
 "id": "place:Judea",
 "type": "place",
 "confidence": 0.6093,
 "match_method": "scored",
-"preferred_label": "Judea"
+"preferred_label": "यहूदिया"
 },
 {
 "id": "group:Galilee",
 "type": "group",
 "confidence": 0.607,
 "match_method": "scored",
-"preferred_label": "Galileans"
+"preferred_label": "गालीलीहरू"
 }
 ]
 }
@@ -240,21 +240,21 @@
 "type": "place",
 "confidence": 0.6153,
 "match_method": "scored",
-"preferred_label": "Galilee"
+"preferred_label": "गालील"
 },
 {
 "id": "place:GalileeSea",
 "type": "place",
 "confidence": 0.607,
 "match_method": "scored",
-"preferred_label": "Sea of Galilee"
+"preferred_label": "गालील समुद्र"
 },
 {
 "id": "place:Gennesaret",
 "type": "place",
 "confidence": 0.6042,
 "match_method": "scored",
-"preferred_label": "Gennesaret"
+"preferred_label": "गनेसरेत"
 }
 ]
 }
@@ -278,7 +278,7 @@
 "type": "place",
 "confidence": 0.62,
 "match_method": "scored",
-"preferred_label": "Gerasa"
+"preferred_label": "गेरासा"
 }
 ]
 }
@@ -383,7 +383,7 @@
 "type": "group",
 "confidence": 0.9458,
 "match_method": "embedding",
-"preferred_label": "Greeks"
+"preferred_label": "ग्रीकहरू"
 }
 ]
 }

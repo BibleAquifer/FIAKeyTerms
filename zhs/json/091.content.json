@@ -522,6 +522,12 @@
 "end_ref_usfm": "PSA 8:9"
 },
 {
+"start_ref": "23004002",
+"start_ref_usfm": "ISA 4:2",
+"end_ref": "23004006",
+"end_ref_usfm": "ISA 4:6"
+},
+{
 "start_ref": "27001001",
 "start_ref_usfm": "DAN 1:1",
 "end_ref": "27001007",
@@ -534,10 +540,28 @@
 "end_ref_usfm": "DAN 1:21"
 },
 {
+"start_ref": "27009001",
+"start_ref_usfm": "DAN 9:1",
+"end_ref": "27009014",
+"end_ref_usfm": "DAN 9:14"
+},
+{
+"start_ref": "27009015",
+"start_ref_usfm": "DAN 9:15",
+"end_ref": "27009019",
+"end_ref_usfm": "DAN 9:19"
+},
+{
 "start_ref": "27010010",
 "start_ref_usfm": "DAN 10:10",
 "end_ref": "27011001",
 "end_ref_usfm": "DAN 11:1"
+},
+{
+"start_ref": "27012004",
+"start_ref_usfm": "DAN 12:4",
+"end_ref": "27012013",
+"end_ref_usfm": "DAN 12:13"
 },
 {
 "start_ref": "40002013",
@@ -586,30 +610,6 @@
 "start_ref_usfm": "MAT 15:21",
 "end_ref": "40015028",
 "end_ref_usfm": "MAT 15:28"
-},
-{
-"start_ref": "40017001",
-"start_ref_usfm": "MAT 17:1",
-"end_ref": "40017013",
-"end_ref_usfm": "MAT 17:13"
-},
-{
-"start_ref": "40017014",
-"start_ref_usfm": "MAT 17:14",
-"end_ref": "40017021",
-"end_ref_usfm": "MAT 17:21"
-},
-{
-"start_ref": "40018021",
-"start_ref_usfm": "MAT 18:21",
-"end_ref": "40018035",
-"end_ref_usfm": "MAT 18:35"
-},
-{
-"start_ref": "40020029",
-"start_ref_usfm": "MAT 20:29",
-"end_ref": "40020034",
-"end_ref_usfm": "MAT 20:34"
 }
 ],
 "resource": [],
@@ -619,7 +619,7 @@
 "type": "deity",
 "confidence": 0.8379,
 "match_method": "embedding",
-"preferred_label": "LORD"
+"preferred_label": "耶和华"
 }
 ]
 }
@@ -914,7 +914,7 @@
 "type": "person",
 "confidence": 0.638,
 "match_method": "scored",
-"preferred_label": "Jesus"
+"preferred_label": "耶稣"
 }
 ]
 }
@@ -1568,7 +1568,7 @@
 "type": "keyterm",
 "confidence": 0.8557,
 "match_method": "embedding",
-"preferred_label": "Bless"
+"preferred_label": "赐福（嘉许）"
 }
 ]
 }

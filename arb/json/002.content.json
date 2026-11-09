@@ -12,15 +12,7 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:UnjustDeed",
-"type": "keyterm",
-"confidence": 0.5701,
-"match_method": "scored",
-"preferred_label": "Unjust Deed"
-}
-]
+"acai": []
 }
 },
 {
@@ -116,7 +108,7 @@
 "type": "place",
 "confidence": 0.6019,
 "match_method": "scored",
-"preferred_label": "ٱلْعَرَبَةِ"
+"preferred_label": "ٱلْعَرَبَةُ"
 }
 ]
 }
@@ -162,14 +154,14 @@
 "type": "place",
 "confidence": 0.6153,
 "match_method": "scored",
-"preferred_label": "ٱلْجَلِيلِ"
+"preferred_label": "ٱلْجَلِيل"
 },
 {
 "id": "place:GalileeSea",
 "type": "place",
 "confidence": 0.607,
 "match_method": "scored",
-"preferred_label": "Sea of Galilee"
+"preferred_label": "بَحْر ٱلْجَلِيل"
 },
 {
 "id": "place:Gennesaret",
@@ -230,9 +222,9 @@
 {
 "id": "realia:Tower",
 "type": "realia",
-"confidence": 0.5836,
+"confidence": 0.5877,
 "match_method": "scored",
-"preferred_label": "Tower"
+"preferred_label": "بُرْج"
 }
 ]
 }
@@ -285,7 +277,7 @@
 "type": "keyterm",
 "confidence": 0.8557,
 "match_method": "embedding",
-"preferred_label": "Bless"
+"preferred_label": "يبارك"
 }
 ]
 }
@@ -443,7 +435,7 @@
 "type": "group",
 "confidence": 0.5786,
 "match_method": "scored",
-"preferred_label": "Israelites"
+"preferred_label": "بنو إسرائيل"
 }
 ]
 }
@@ -621,7 +613,7 @@
 "type": "place",
 "confidence": 0.68,
 "match_method": "scored",
-"preferred_label": "صَيْدَا"
+"preferred_label": "بَيْتُ صَيْدَا"
 }
 ]
 }
@@ -702,7 +694,7 @@
 "type": "place",
 "confidence": 0.6467,
 "match_method": "scored",
-"preferred_label": "لَحْمٍ"
+"preferred_label": "بَيْتُ لَحْمٍ"
 }
 ]
 }

@@ -323,9 +323,9 @@
 {
 "id": "keyterm:Sabbath",
 "type": "keyterm",
-"confidence": 0.6017,
+"confidence": 0.6013,
 "match_method": "scored",
-"preferred_label": "Sabbath"
+"preferred_label": "Sabat"
 }
 ]
 }
@@ -1077,7 +1077,7 @@
 "type": "keyterm",
 "confidence": 0.5747,
 "match_method": "scored",
-"preferred_label": "Slaughtering"
+"preferred_label": "kilim abus bilong ofa"
 }
 ]
 }
@@ -1234,7 +1234,7 @@
 "type": "group",
 "confidence": 0.6168,
 "match_method": "scored",
-"preferred_label": "Sadducees"
+"preferred_label": "Ol Sadyusi"
 }
 ]
 }
@@ -1751,7 +1751,7 @@
 "type": "keyterm",
 "confidence": 0.5972,
 "match_method": "scored",
-"preferred_label": "Salvation"
+"preferred_label": "Kisim bek"
 }
 ]
 }
@@ -1919,7 +1919,7 @@
 "type": "group",
 "confidence": 0.6097,
 "match_method": "scored",
-"preferred_label": "Samaritans"
+"preferred_label": "Ol Samaria"
 },
 {
 "id": "place:Samaria.2",
@@ -2387,7 +2387,7 @@
 "type": "realia",
 "confidence": 0.5505,
 "match_method": "scored",
-"preferred_label": "Tabernacle"
+"preferred_label": "haus sel"
 }
 ]
 }
@@ -3034,7 +3034,7 @@
 "type": "keyterm",
 "confidence": 0.6353,
 "match_method": "scored",
-"preferred_label": "Savior"
+"preferred_label": "Man bilong kisim bek yumi"
 }
 ]
 }
@@ -3862,7 +3862,7 @@
 "type": "place",
 "confidence": 0.607,
 "match_method": "scored",
-"preferred_label": "Sea of Galilee"
+"preferred_label": "Raunwara Galili"
 },
 {
 "id": "place:Gennesaret",
@@ -4816,7 +4816,7 @@
 "type": "person",
 "confidence": 0.8264,
 "match_method": "embedding",
-"preferred_label": "Sheal"
+"preferred_label": "Seal"
 }
 ]
 }
@@ -8668,7 +8668,7 @@
 "type": "keyterm",
 "confidence": 0.8876,
 "match_method": "embedding",
-"preferred_label": "Spirit"
+"preferred_label": "spirit"
 }
 ]
 }
@@ -8705,7 +8705,7 @@
 "type": "keyterm",
 "confidence": 0.8756,
 "match_method": "embedding",
-"preferred_label": "Strength"
+"preferred_label": "strong"
 }
 ]
 }
@@ -9125,7 +9125,7 @@
 "type": "realia",
 "confidence": 0.5927,
 "match_method": "scored",
-"preferred_label": "Synagogue"
+"preferred_label": "haus lotu"
 }
 ]
 }
@@ -9211,18 +9211,18 @@
 ],
 "acai": [
 {
+"id": "group:Phoenicia",
+"type": "group",
+"confidence": 0.6571,
+"match_method": "scored",
+"preferred_label": "Fonisia bilong Siria"
+},
+{
 "id": "place:Phoenicia",
 "type": "place",
 "confidence": 0.6571,
 "match_method": "scored",
 "preferred_label": "Fonisia"
-},
-{
-"id": "group:Phoenicia",
-"type": "group",
-"confidence": 0.6571,
-"match_method": "scored",
-"preferred_label": "Syrophoenicians"
 }
 ]
 }

@@ -619,7 +619,7 @@
 "type": "realia",
 "confidence": 0.555,
 "match_method": "scored",
-"preferred_label": "Tabernacle"
+"preferred_label": "tabernáculo"
 }
 ]
 }
@@ -1014,7 +1014,7 @@
 "type": "keyterm",
 "confidence": 0.8544,
 "match_method": "embedding",
-"preferred_label": "piedoso"
+"preferred_label": "temente a Deus"
 }
 ]
 }
@@ -1300,6 +1300,12 @@
 "start_ref_usfm": "2KI 16:10",
 "end_ref": "12016020",
 "end_ref_usfm": "2KI 16:20"
+},
+{
+"start_ref": "12019001",
+"start_ref_usfm": "2KI 19:1",
+"end_ref": "12019007",
+"end_ref_usfm": "2KI 19:7"
 },
 {
 "start_ref": "13006001",
@@ -1624,12 +1630,6 @@
 "start_ref_usfm": "2CH 35:20",
 "end_ref": "14035027",
 "end_ref_usfm": "2CH 35:27"
-},
-{
-"start_ref": "14036001",
-"start_ref_usfm": "2CH 36:1",
-"end_ref": "14036016",
-"end_ref_usfm": "2CH 36:16"
 }
 ],
 "resource": [],
@@ -1639,7 +1639,7 @@
 "type": "realia",
 "confidence": 0.9344,
 "match_method": "embedding",
-"preferred_label": "Temple"
+"preferred_label": "Templo"
 }
 ]
 }
@@ -1982,7 +1982,7 @@
 "type": "keyterm",
 "confidence": 0.5672,
 "match_method": "scored",
-"preferred_label": "witness"
+"preferred_label": "testemunho"
 }
 ]
 }
@@ -2092,6 +2092,12 @@
 "end_ref_usfm": "2KI 9:29"
 },
 {
+"start_ref": "23005001",
+"start_ref_usfm": "ISA 5:1",
+"end_ref": "23005007",
+"end_ref_usfm": "ISA 5:7"
+},
+{
 "start_ref": "40021033",
 "start_ref_usfm": "MAT 21:33",
 "end_ref": "40021046",
@@ -2109,9 +2115,9 @@
 {
 "id": "realia:Tower",
 "type": "realia",
-"confidence": 0.5836,
+"confidence": 0.5877,
 "match_method": "scored",
-"preferred_label": "Tower"
+"preferred_label": "torre"
 }
 ]
 }
@@ -2501,14 +2507,14 @@
 "type": "realia",
 "confidence": 0.8794,
 "match_method": "embedding",
-"preferred_label": "Tunic"
+"preferred_label": "túnica"
 },
 {
 "id": "realia:Tunic.2",
 "type": "realia",
 "confidence": 0.8794,
 "match_method": "embedding",
-"preferred_label": "Tunic"
+"preferred_label": "túnica longa"
 }
 ]
 }

@@ -732,7 +732,7 @@
 "type": "realia",
 "confidence": 0.555,
 "match_method": "scored",
-"preferred_label": "Tabernacle"
+"preferred_label": "haus sel"
 }
 ]
 }
@@ -2178,7 +2178,7 @@
 "type": "realia",
 "confidence": 0.9344,
 "match_method": "embedding",
-"preferred_label": "Temple"
+"preferred_label": "tempel"
 }
 ]
 }
@@ -2532,7 +2532,7 @@
 "type": "keyterm",
 "confidence": 0.5672,
 "match_method": "scored",
-"preferred_label": "Testimony"
+"preferred_label": "Autim tok bilong strongim"
 }
 ]
 }
@@ -3122,14 +3122,14 @@
 "type": "realia",
 "confidence": 0.8794,
 "match_method": "embedding",
-"preferred_label": "Tunic"
+"preferred_label": "siot bilong pris"
 },
 {
 "id": "realia:Tunic.2",
 "type": "realia",
 "confidence": 0.8794,
 "match_method": "embedding",
-"preferred_label": "Tunic"
+"preferred_label": "longpela saket"
 }
 ]
 }

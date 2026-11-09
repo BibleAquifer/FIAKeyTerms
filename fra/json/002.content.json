@@ -624,14 +624,14 @@
 "type": "realia",
 "confidence": 0.8956,
 "match_method": "embedding",
-"preferred_label": "Boat"
+"preferred_label": "bateau"
 },
 {
 "id": "realia:Ship",
 "type": "realia",
 "confidence": 0.8044,
 "match_method": "embedding",
-"preferred_label": "Ship"
+"preferred_label": "navire"
 }
 ]
 }
@@ -1396,7 +1396,7 @@
 "type": "keyterm",
 "confidence": 0.8557,
 "match_method": "embedding",
-"preferred_label": "benir"
+"preferred_label": "bénir"
 }
 ]
 }
@@ -2664,6 +2664,12 @@
 "end_ref_usfm": "2SA 12:15"
 },
 {
+"start_ref": "12019001",
+"start_ref_usfm": "2KI 19:1",
+"end_ref": "12019007",
+"end_ref_usfm": "2KI 19:7"
+},
+{
 "start_ref": "16009016",
 "start_ref_usfm": "NEH 9:16",
 "end_ref": "16009025",
@@ -2811,7 +2817,7 @@
 "type": "keyterm",
 "confidence": 0.8119,
 "match_method": "embedding",
-"preferred_label": "parler contre dieu"
+"preferred_label": "blasphémer"
 }
 ]
 }
@@ -2857,6 +2863,12 @@
 "start_ref_usfm": "2SA 12:1",
 "end_ref": "10012015",
 "end_ref_usfm": "2SA 12:15"
+},
+{
+"start_ref": "12019001",
+"start_ref_usfm": "2KI 19:1",
+"end_ref": "12019007",
+"end_ref_usfm": "2KI 19:7"
 },
 {
 "start_ref": "16009016",
@@ -3156,7 +3168,7 @@
 "type": "keyterm",
 "confidence": 0.6305,
 "match_method": "scored",
-"preferred_label": "bonnes nouvelles"
+"preferred_label": "bonne nouvelle"
 }
 ]
 }

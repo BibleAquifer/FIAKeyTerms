@@ -355,14 +355,14 @@
 "type": "group",
 "confidence": 0.6066,
 "match_method": "scored",
-"preferred_label": "Greeks"
+"preferred_label": "希腊人"
 },
 {
 "id": "place:Canaan",
 "type": "place",
 "confidence": 0.6007,
 "match_method": "scored",
-"preferred_label": "Canaan"
+"preferred_label": "迦南"
 }
 ]
 }
@@ -603,7 +603,7 @@
 "type": "realia",
 "confidence": 0.8797,
 "match_method": "embedding",
-"preferred_label": "Robe"
+"preferred_label": "外袍"
 }
 ]
 }
@@ -790,7 +790,7 @@
 "type": "realia",
 "confidence": 0.8356,
 "match_method": "embedding",
-"preferred_label": "Cloak"
+"preferred_label": "外衣"
 }
 ]
 }

@@ -96,6 +96,12 @@
 "end_ref_usfm": "EST 4:17"
 },
 {
+"start_ref": "27009001",
+"start_ref_usfm": "DAN 9:1",
+"end_ref": "27009014",
+"end_ref_usfm": "DAN 9:14"
+},
+{
 "start_ref": "32003001",
 "start_ref_usfm": "JON 3:1",
 "end_ref": "32003010",
@@ -611,6 +617,18 @@
 "end_ref_usfm": "PSA 3:8"
 },
 {
+"start_ref": "23004002",
+"start_ref_usfm": "ISA 4:2",
+"end_ref": "23004006",
+"end_ref_usfm": "ISA 4:6"
+},
+{
+"start_ref": "23005001",
+"start_ref_usfm": "ISA 5:1",
+"end_ref": "23005007",
+"end_ref_usfm": "ISA 5:7"
+},
+{
 "start_ref": "27001001",
 "start_ref_usfm": "DAN 1:1",
 "end_ref": "27001007",
@@ -621,6 +639,12 @@
 "start_ref_usfm": "DAN 6:10",
 "end_ref": "27006018",
 "end_ref_usfm": "DAN 6:18"
+},
+{
+"start_ref": "27009015",
+"start_ref_usfm": "DAN 9:15",
+"end_ref": "27009019",
+"end_ref_usfm": "DAN 9:19"
 },
 {
 "start_ref": "40005033",
@@ -759,24 +783,6 @@
 "start_ref_usfm": "LUK 10:38",
 "end_ref": "42010042",
 "end_ref_usfm": "LUK 10:42"
-},
-{
-"start_ref": "42012001",
-"start_ref_usfm": "LUK 12:1",
-"end_ref": "42012012",
-"end_ref_usfm": "LUK 12:12"
-},
-{
-"start_ref": "42013001",
-"start_ref_usfm": "LUK 13:1",
-"end_ref": "42013009",
-"end_ref_usfm": "LUK 13:9"
-},
-{
-"start_ref": "42013022",
-"start_ref_usfm": "LUK 13:22",
-"end_ref": "42013030",
-"end_ref_usfm": "LUK 13:30"
 }
 ],
 "resource": [],
@@ -784,7 +790,7 @@
 {
 "id": "place:Jerusalem",
 "type": "place",
-"confidence": 0.6638,
+"confidence": 0.6656,
 "match_method": "scored",
 "preferred_label": "Jerusalém"
 },
@@ -793,7 +799,7 @@
 "type": "place",
 "confidence": 0.6,
 "match_method": "scored",
-"preferred_label": "City of David"
+"preferred_label": "Cidade de Davi"
 }
 ]
 }
@@ -1608,7 +1614,7 @@
 "type": "place",
 "confidence": 0.9535,
 "match_method": "embedding",
-"preferred_label": "Judah"
+"preferred_label": "Judá"
 },
 {
 "id": "person:Judas",
@@ -2331,7 +2337,7 @@
 "type": "realia",
 "confidence": 0.8315,
 "match_method": "embedding",
-"preferred_label": "Yoke"
+"preferred_label": "jugo"
 }
 ]
 }
@@ -2575,6 +2581,12 @@
 "start_ref_usfm": "PSA 1:1",
 "end_ref": "19001006",
 "end_ref_usfm": "PSA 1:6"
+},
+{
+"start_ref": "23004002",
+"start_ref_usfm": "ISA 4:2",
+"end_ref": "23004006",
+"end_ref_usfm": "ISA 4:6"
 },
 {
 "start_ref": "27007015",
@@ -3148,6 +3160,18 @@
 "end_ref_usfm": "NEH 13:31"
 },
 {
+"start_ref": "27009001",
+"start_ref_usfm": "DAN 9:1",
+"end_ref": "27009014",
+"end_ref_usfm": "DAN 9:14"
+},
+{
+"start_ref": "27012004",
+"start_ref_usfm": "DAN 12:4",
+"end_ref": "27012013",
+"end_ref_usfm": "DAN 12:13"
+},
+{
 "start_ref": "40005033",
 "start_ref_usfm": "MAT 5:33",
 "end_ref": "40005042",
@@ -3203,7 +3227,7 @@
 "type": "keyterm",
 "confidence": 0.8326,
 "match_method": "embedding",
-"preferred_label": "Oath"
+"preferred_label": "juramento"
 }
 ]
 }
@@ -3317,6 +3341,24 @@
 "end_ref_usfm": "EST 1:22"
 },
 {
+"start_ref": "23001010",
+"start_ref_usfm": "ISA 1:10",
+"end_ref": "23001020",
+"end_ref_usfm": "ISA 1:20"
+},
+{
+"start_ref": "23005001",
+"start_ref_usfm": "ISA 5:1",
+"end_ref": "23005007",
+"end_ref_usfm": "ISA 5:7"
+},
+{
+"start_ref": "23005008",
+"start_ref_usfm": "ISA 5:8",
+"end_ref": "23005017",
+"end_ref_usfm": "ISA 5:17"
+},
+{
 "start_ref": "40023023",
 "start_ref_usfm": "MAT 23:23",
 "end_ref": "40023028",
@@ -3359,6 +3401,12 @@
 "content": "<p>Quando uma pessoa <b>justifica</b> alguém, ela declara essa pessoa não culpada. Quando Deus declara uma pessoa não culpada, isso significa que a pessoa é <data class=\"resource-ref\" data-content-id=\"por-t111-v1\" data-resource-code=\"FIAKeyTerms\">justa</data> e tem um relacionamento correto com Deus. No Novo Testamento, Deus apenas justificará uma pessoa se ela confia em Jesus como o <data class=\"resource-ref\" data-content-id=\"por-t119-v1\" data-resource-code=\"FIAKeyTerms\">Salvador</data>, ou o <data class=\"resource-ref\" data-content-id=\"por-t23-v1\" data-resource-code=\"FIAKeyTerms\">Cristo</data>, que Deus enviou para resgatar as pessoas de seus <data class=\"resource-ref\" data-content-id=\"por-t125-v1\" data-resource-code=\"FIAKeyTerms\">pecados</data>. Isso significa que os crentes em Jesus podem ter um relacionamento correto com Deus e Deus os justifica.</p>",
 "associations": {
 "passage": [
+{
+"start_ref": "27008001",
+"start_ref_usfm": "DAN 8:1",
+"end_ref": "27008014",
+"end_ref_usfm": "DAN 8:14"
+},
 {
 "start_ref": "44013023",
 "start_ref_usfm": "ACT 13:23",

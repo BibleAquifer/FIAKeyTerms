@@ -211,21 +211,21 @@
 "type": "place",
 "confidence": 0.6384,
 "match_method": "scored",
-"preferred_label": "Galilee"
+"preferred_label": "加利利"
 },
 {
 "id": "place:Judea",
 "type": "place",
 "confidence": 0.6093,
 "match_method": "scored",
-"preferred_label": "Judea"
+"preferred_label": "犹太"
 },
 {
 "id": "group:Galilee",
 "type": "group",
 "confidence": 0.607,
 "match_method": "scored",
-"preferred_label": "Galileans"
+"preferred_label": "加利利人"
 }
 ]
 }
@@ -424,21 +424,21 @@
 "type": "place",
 "confidence": 0.6153,
 "match_method": "scored",
-"preferred_label": "Galilee"
+"preferred_label": "加利利"
 },
 {
 "id": "place:GalileeSea",
 "type": "place",
 "confidence": 0.607,
 "match_method": "scored",
-"preferred_label": "Sea of Galilee"
+"preferred_label": "加利利海"
 },
 {
 "id": "place:Gennesaret",
 "type": "place",
 "confidence": 0.6042,
 "match_method": "scored",
-"preferred_label": "Gennesaret"
+"preferred_label": "革尼撒勒"
 }
 ]
 }
@@ -571,7 +571,7 @@
 "type": "place",
 "confidence": 0.6221,
 "match_method": "scored",
-"preferred_label": "Capernaum"
+"preferred_label": "迦百农"
 }
 ]
 }
@@ -1309,7 +1309,7 @@
 "type": "keyterm",
 "confidence": 0.5661,
 "match_method": "scored",
-"preferred_label": "Hypocrisy"
+"preferred_label": "伪善"
 }
 ]
 }

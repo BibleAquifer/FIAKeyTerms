@@ -21,18 +21,18 @@
 "resource": [],
 "acai": [
 {
-"id": "place:Phoenicia",
-"type": "place",
-"confidence": 0.6571,
-"match_method": "scored",
-"preferred_label": "Phoenicia"
-},
-{
 "id": "group:Phoenicia",
 "type": "group",
 "confidence": 0.6571,
 "match_method": "scored",
-"preferred_label": "Syrophoenicians"
+"preferred_label": "叙利腓尼基人"
+},
+{
+"id": "place:Phoenicia",
+"type": "place",
+"confidence": 0.6571,
+"match_method": "scored",
+"preferred_label": "腓尼基"
 }
 ]
 }

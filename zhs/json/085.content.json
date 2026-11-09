@@ -546,6 +546,30 @@
 "end_ref_usfm": "NEH 13:31"
 },
 {
+"start_ref": "27009001",
+"start_ref_usfm": "DAN 9:1",
+"end_ref": "27009014",
+"end_ref_usfm": "DAN 9:14"
+},
+{
+"start_ref": "27009020",
+"start_ref_usfm": "DAN 9:20",
+"end_ref": "27009027",
+"end_ref_usfm": "DAN 9:27"
+},
+{
+"start_ref": "27011021",
+"start_ref_usfm": "DAN 11:21",
+"end_ref": "27011028",
+"end_ref_usfm": "DAN 11:28"
+},
+{
+"start_ref": "27011029",
+"start_ref_usfm": "DAN 11:29",
+"end_ref": "27011035",
+"end_ref_usfm": "DAN 11:35"
+},
+{
 "start_ref": "40026026",
 "start_ref_usfm": "MAT 26:26",
 "end_ref": "40026035",
@@ -586,24 +610,6 @@
 "start_ref_usfm": "2CO 3:4",
 "end_ref": "47003011",
 "end_ref_usfm": "2CO 3:11"
-},
-{
-"start_ref": "47003012",
-"start_ref_usfm": "2CO 3:12",
-"end_ref": "47003018",
-"end_ref_usfm": "2CO 3:18"
-},
-{
-"start_ref": "48003015",
-"start_ref_usfm": "GAL 3:15",
-"end_ref": "48003018",
-"end_ref_usfm": "GAL 3:18"
-},
-{
-"start_ref": "48004021",
-"start_ref_usfm": "GAL 4:21",
-"end_ref": "48004027",
-"end_ref_usfm": "GAL 4:27"
 }
 ],
 "resource": [],
@@ -613,7 +619,7 @@
 "type": "keyterm",
 "confidence": 0.5892,
 "match_method": "scored",
-"preferred_label": "Covenant"
+"preferred_label": "约"
 }
 ]
 }
@@ -974,7 +980,7 @@
 "type": "place",
 "confidence": 0.659,
 "match_method": "scored",
-"preferred_label": "Jordan River"
+"preferred_label": "约旦河"
 }
 ]
 }
@@ -1005,28 +1011,28 @@
 "type": "person",
 "confidence": 1.0,
 "match_method": "embedding",
-"preferred_label": "John"
+"preferred_label": "约翰"
 },
 {
 "id": "person:John.2",
 "type": "person",
 "confidence": 1.0,
 "match_method": "embedding",
-"preferred_label": "John"
+"preferred_label": "约翰"
 },
 {
 "id": "person:John.3",
 "type": "person",
 "confidence": 1.0,
 "match_method": "embedding",
-"preferred_label": "John"
+"preferred_label": "约翰"
 },
 {
 "id": "person:John.4",
 "type": "person",
 "confidence": 1.0,
 "match_method": "embedding",
-"preferred_label": "John"
+"preferred_label": "约翰"
 }
 ]
 }

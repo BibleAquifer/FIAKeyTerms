@@ -31,7 +31,7 @@
 "type": "realia",
 "confidence": 0.5962,
 "match_method": "scored",
-"preferred_label": "Casting Net"
+"preferred_label": "抛网"
 }
 ]
 }
@@ -260,7 +260,7 @@
 "type": "keyterm",
 "confidence": 0.6637,
 "match_method": "scored",
-"preferred_label": "Passover"
+"preferred_label": "逾越节祭物"
 }
 ]
 }
@@ -324,6 +324,12 @@
 "start_ref_usfm": "NEH 6:1",
 "end_ref": "16006014",
 "end_ref_usfm": "NEH 6:14"
+},
+{
+"start_ref": "27009020",
+"start_ref_usfm": "DAN 9:20",
+"end_ref": "27009027",
+"end_ref_usfm": "DAN 9:27"
 },
 {
 "start_ref": "40007013",
