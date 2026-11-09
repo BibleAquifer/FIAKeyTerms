@@ -604,7 +604,7 @@
 "type": "deity",
 "confidence": 0.594,
 "match_method": "scored",
-"preferred_label": "Holi"
+"preferred_label": "Holi Spirit"
 }
 ]
 }
@@ -1265,7 +1265,7 @@
 "type": "realia",
 "confidence": 0.8735,
 "match_method": "embedding",
-"preferred_label": "Altar"
+"preferred_label": "Alta"
 }
 ]
 }
@@ -3423,9 +3423,9 @@
 {
 "id": "keyterm:Authority.2",
 "type": "keyterm",
-"confidence": 0.5858,
+"confidence": 0.5846,
 "match_method": "scored",
-"preferred_label": "Authority"
+"preferred_label": "namba"
 }
 ]
 }

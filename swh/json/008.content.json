@@ -75,7 +75,7 @@
 "type": "keyterm",
 "confidence": 0.8692,
 "match_method": "embedding",
-"preferred_label": "Worship"
+"preferred_label": "Kuabudu"
 }
 ]
 }
@@ -362,16 +362,9 @@
 {
 "id": "person:Isaiah",
 "type": "person",
-"confidence": 1.0,
-"match_method": "embedding",
+"confidence": 0.5567,
+"match_method": "scored",
 "preferred_label": "Isaya"
-},
-{
-"id": "person:Izziah",
-"type": "person",
-"confidence": 0.8057,
-"match_method": "embedding",
-"preferred_label": "Izia"
 }
 ]
 }
@@ -497,7 +490,7 @@
 "type": "group",
 "confidence": 0.6,
 "match_method": "scored",
-"preferred_label": "Israelites"
+"preferred_label": "Waisraeli"
 }
 ]
 }

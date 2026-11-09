@@ -159,7 +159,7 @@
 "type": "place",
 "confidence": 0.8722,
 "match_method": "embedding",
-"preferred_label": "Hell"
+"preferred_label": "Kuzimu"
 }
 ]
 }
@@ -215,14 +215,14 @@
 "type": "realia",
 "confidence": 0.5985,
 "match_method": "scored",
-"preferred_label": "Cornerstone"
+"preferred_label": "Jiwe kuu la pembeni"
 },
 {
 "id": "realia:Foundation",
 "type": "realia",
 "confidence": 0.5693,
 "match_method": "scored",
-"preferred_label": "Foundation"
+"preferred_label": "Msingi"
 }
 ]
 }
@@ -254,7 +254,7 @@
 "type": "realia",
 "confidence": 0.8356,
 "match_method": "embedding",
-"preferred_label": "Cloak"
+"preferred_label": "Joho"
 }
 ]
 }

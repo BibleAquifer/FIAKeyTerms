@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Familiarization, Internalization, Articulation (FIA) Key Terms</b> © 2025 Word Collective Released under CC BY-SA 4.0 license. <cite>Familiarization, Internalization, Articulation (FIA) Key Terms</cite> has been adapted in the following languages Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Familiarization, Internalization, Articulation (FIA)</cite> © 2025 Word Collective. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "FIAKeyTerms",
-"date_created": "2026-10-28",
+"date_created": "2026-11-09",
 "language": "spa",
 "localizations": [
 "arb",
@@ -54,7 +54,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-10-28T06:07:48.027028"
+"dateCreated": "2026-11-09T14:48:19.203992"
 },
 "idAuthorities": {
 "aquifer": {
@@ -68,7 +68,7 @@
 "primary": {
 "aquifer": {
 "FIAKeyTerms": {
-"timestamp": "2026-10-28T06:07:48.027028"
+"timestamp": "2026-11-09T14:48:19.203992"
 }
 }
 },
@@ -343,7 +343,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 43759,
+"size": 43979,
 "scope": {
 "m": [
 "maestro",
@@ -424,7 +424,7 @@
 },
 "json/018.content.json": {
 "mimeType": "text/json",
-"size": 122885,
+"size": 122867,
 "scope": {
 "s": [
 "sabbath",
@@ -532,19 +532,19 @@
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 32507
+"size": 32491
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 13112
+"size": 13090
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 37996
+"size": 38013
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
-"size": 20370
+"size": 20368
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
@@ -552,19 +552,19 @@
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 49654
+"size": 49659
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 4061
+"size": 4060
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
-"size": 9609
+"size": 9540
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 20193
+"size": 20205
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
@@ -572,7 +572,7 @@
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 23087
+"size": 23090
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
@@ -580,7 +580,7 @@
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 9036
+"size": 9041
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
@@ -588,27 +588,27 @@
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
-"size": 18222
+"size": 18207
 },
 "md/023.content.md": {
 "mimeType": "text/markdown",
-"size": 1487
+"size": 1488
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
-"size": 22308
+"size": 22336
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 20271
+"size": 20277
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 2041
+"size": 1972
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 19073
+"size": 19105
 },
 "md/022.content.md": {
 "mimeType": "text/markdown",
@@ -616,11 +616,11 @@
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 27790
+"size": 27796
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
-"size": 60667
+"size": 60687
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",

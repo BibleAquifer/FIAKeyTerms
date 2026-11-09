@@ -513,6 +513,18 @@
 "end_ref_usfm": "PSA 3:8"
 },
 {
+"start_ref": "23004002",
+"start_ref_usfm": "ISA 4:2",
+"end_ref": "23004006",
+"end_ref_usfm": "ISA 4:6"
+},
+{
+"start_ref": "23005001",
+"start_ref_usfm": "ISA 5:1",
+"end_ref": "23005007",
+"end_ref_usfm": "ISA 5:7"
+},
+{
 "start_ref": "27001001",
 "start_ref_usfm": "DAN 1:1",
 "end_ref": "27001007",
@@ -523,6 +535,12 @@
 "start_ref_usfm": "DAN 6:10",
 "end_ref": "27006018",
 "end_ref_usfm": "DAN 6:18"
+},
+{
+"start_ref": "27009015",
+"start_ref_usfm": "DAN 9:15",
+"end_ref": "27009019",
+"end_ref_usfm": "DAN 9:19"
 },
 {
 "start_ref": "40005033",
@@ -661,24 +679,6 @@
 "start_ref_usfm": "LUK 10:38",
 "end_ref": "42010042",
 "end_ref_usfm": "LUK 10:42"
-},
-{
-"start_ref": "42012001",
-"start_ref_usfm": "LUK 12:1",
-"end_ref": "42012012",
-"end_ref_usfm": "LUK 12:12"
-},
-{
-"start_ref": "42013001",
-"start_ref_usfm": "LUK 13:1",
-"end_ref": "42013009",
-"end_ref_usfm": "LUK 13:9"
-},
-{
-"start_ref": "42013022",
-"start_ref_usfm": "LUK 13:22",
-"end_ref": "42013030",
-"end_ref_usfm": "LUK 13:30"
 }
 ],
 "resource": [
@@ -694,7 +694,7 @@
 {
 "id": "place:Jerusalem",
 "type": "place",
-"confidence": 0.6638,
+"confidence": 0.6656,
 "match_method": "scored",
 "preferred_label": "Jerusalem"
 },
@@ -1153,6 +1153,18 @@
 "end_ref_usfm": "PSA 3:8"
 },
 {
+"start_ref": "23004002",
+"start_ref_usfm": "ISA 4:2",
+"end_ref": "23004006",
+"end_ref_usfm": "ISA 4:6"
+},
+{
+"start_ref": "23005001",
+"start_ref_usfm": "ISA 5:1",
+"end_ref": "23005007",
+"end_ref_usfm": "ISA 5:7"
+},
+{
 "start_ref": "27001001",
 "start_ref_usfm": "DAN 1:1",
 "end_ref": "27001007",
@@ -1163,6 +1175,12 @@
 "start_ref_usfm": "DAN 6:10",
 "end_ref": "27006018",
 "end_ref_usfm": "DAN 6:18"
+},
+{
+"start_ref": "27009015",
+"start_ref_usfm": "DAN 9:15",
+"end_ref": "27009019",
+"end_ref_usfm": "DAN 9:19"
 },
 {
 "start_ref": "40005033",
@@ -1301,24 +1319,6 @@
 "start_ref_usfm": "LUK 10:38",
 "end_ref": "42010042",
 "end_ref_usfm": "LUK 10:42"
-},
-{
-"start_ref": "42012001",
-"start_ref_usfm": "LUK 12:1",
-"end_ref": "42012012",
-"end_ref_usfm": "LUK 12:12"
-},
-{
-"start_ref": "42013001",
-"start_ref_usfm": "LUK 13:1",
-"end_ref": "42013009",
-"end_ref_usfm": "LUK 13:9"
-},
-{
-"start_ref": "42013022",
-"start_ref_usfm": "LUK 13:22",
-"end_ref": "42013030",
-"end_ref_usfm": "LUK 13:30"
 }
 ],
 "resource": [
@@ -5183,6 +5183,12 @@
 "end_ref_usfm": "PSA 1:6"
 },
 {
+"start_ref": "23004002",
+"start_ref_usfm": "ISA 4:2",
+"end_ref": "23004006",
+"end_ref_usfm": "ISA 4:6"
+},
+{
 "start_ref": "27007015",
 "start_ref_usfm": "DAN 7:15",
 "end_ref": "27007028",
@@ -5516,6 +5522,12 @@
 "end_ref_usfm": "PSA 1:6"
 },
 {
+"start_ref": "23004002",
+"start_ref_usfm": "ISA 4:2",
+"end_ref": "23004006",
+"end_ref_usfm": "ISA 4:6"
+},
+{
 "start_ref": "27007015",
 "start_ref_usfm": "DAN 7:15",
 "end_ref": "27007028",
@@ -5708,6 +5720,24 @@
 "end_ref_usfm": "EST 1:22"
 },
 {
+"start_ref": "23001010",
+"start_ref_usfm": "ISA 1:10",
+"end_ref": "23001020",
+"end_ref_usfm": "ISA 1:20"
+},
+{
+"start_ref": "23005001",
+"start_ref_usfm": "ISA 5:1",
+"end_ref": "23005007",
+"end_ref_usfm": "ISA 5:7"
+},
+{
+"start_ref": "23005008",
+"start_ref_usfm": "ISA 5:8",
+"end_ref": "23005017",
+"end_ref_usfm": "ISA 5:17"
+},
+{
 "start_ref": "40023023",
 "start_ref_usfm": "MAT 23:23",
 "end_ref": "40023028",
@@ -5847,6 +5877,24 @@
 "end_ref_usfm": "EST 1:22"
 },
 {
+"start_ref": "23001010",
+"start_ref_usfm": "ISA 1:10",
+"end_ref": "23001020",
+"end_ref_usfm": "ISA 1:20"
+},
+{
+"start_ref": "23005001",
+"start_ref_usfm": "ISA 5:1",
+"end_ref": "23005007",
+"end_ref_usfm": "ISA 5:7"
+},
+{
+"start_ref": "23005008",
+"start_ref_usfm": "ISA 5:8",
+"end_ref": "23005017",
+"end_ref_usfm": "ISA 5:17"
+},
+{
 "start_ref": "40023023",
 "start_ref_usfm": "MAT 23:23",
 "end_ref": "40023028",
@@ -5888,6 +5936,12 @@
 "content": "<p id=\"Q4kzjiptEa3WBoxW37x6\">When a person <b id=\"G0m26NQx75Nusp5fMIni\">justifies</b> someone, he declares that person not guilty. When God declares a person not guilty, that means the person is <a id=\"RjYMnYhnnK7V98c6J79A\" href=\"#t111\">righteous</a> and has a right relationship with God. In the New Testament, God will only justify a person if they trust in Jesus as the <a id=\"lQKtWEXsAbqjtIvjTfQA\" href=\"#t119\">Savior</a>, or the <a id=\"x2GrLXKG3Cj1yH80rv1q\" href=\"#t23\">Christ</a>, that God has sent to rescue people from their <a id=\"phmaTQXxpzM7PVe0uGQA\" href=\"#t125\">sins</a>. This means believers in Jesus can have a right relationship with God and God justifies them.</p>",
 "associations": {
 "passage": [
+{
+"start_ref": "27008001",
+"start_ref_usfm": "DAN 8:1",
+"end_ref": "27008014",
+"end_ref_usfm": "DAN 8:14"
+},
 {
 "start_ref": "44013023",
 "start_ref_usfm": "ACT 13:23",
@@ -5961,6 +6015,12 @@
 "content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t281/v1/vbr4.mp3'>mp3 file</a> (407 KB)</p>",
 "associations": {
 "passage": [
+{
+"start_ref": "27008001",
+"start_ref_usfm": "DAN 8:1",
+"end_ref": "27008014",
+"end_ref_usfm": "DAN 8:14"
+},
 {
 "start_ref": "44013023",
 "start_ref_usfm": "ACT 13:23",

@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Familiarization, Internalization, Articulation (FIA) Key Terms</b> © 2025 Word Collective Released under CC BY-SA 4.0 license. <cite>Familiarization, Internalization, Articulation (FIA) Key Terms</cite> has been adapted in the following languages Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Familiarization, Internalization, Articulation (FIA)</cite> © 2025 Word Collective. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "FIAKeyTerms",
-"date_created": "2026-10-28",
+"date_created": "2026-11-09",
 "language": "por",
 "localizations": [
 "arb",
@@ -54,7 +54,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-10-28T06:07:47.907519"
+"dateCreated": "2026-11-09T14:48:19.080085"
 },
 "idAuthorities": {
 "aquifer": {
@@ -68,7 +68,7 @@
 "primary": {
 "aquifer": {
 "FIAKeyTerms": {
-"timestamp": "2026-10-28T06:07:47.907519"
+"timestamp": "2026-11-09T14:48:19.080085"
 }
 }
 },
@@ -100,7 +100,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 144401,
+"size": 144625,
 "scope": {
 "a": [
 "abba",
@@ -128,7 +128,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 32433,
+"size": 32543,
 "scope": {
 "b": [
 "barco",
@@ -143,7 +143,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 145283,
+"size": 145498,
 "scope": {
 "c": [
 "Cafarnaum",
@@ -178,7 +178,7 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 80245,
+"size": 80467,
 "scope": {
 "d": [
 "Davi",
@@ -199,7 +199,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 85666,
+"size": 85776,
 "scope": {
 "e": [
 "Elias",
@@ -243,7 +243,7 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 60522,
+"size": 60741,
 "scope": {
 "g": [
 "Gabriel",
@@ -277,7 +277,7 @@
 },
 "json/009.content.json": {
 "mimeType": "text/json",
-"size": 67128,
+"size": 67349,
 "scope": {
 "i": [
 "ídolo",
@@ -295,7 +295,7 @@
 },
 "json/010.content.json": {
 "mimeType": "text/json",
-"size": 81335,
+"size": 82201,
 "scope": {
 "j": [
 "jejum",
@@ -314,7 +314,7 @@
 },
 "json/011.content.json": {
 "mimeType": "text/json",
-"size": 52397,
+"size": 52503,
 "scope": {
 "l": [
 "lagar",
@@ -330,7 +330,7 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 102389,
+"size": 103049,
 "scope": {
 "m": [
 "mágico",
@@ -352,7 +352,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 14833,
+"size": 14829,
 "scope": {
 "n": [
 "nação",
@@ -362,7 +362,7 @@
 },
 "json/014.content.json": {
 "mimeType": "text/json",
-"size": 38502,
+"size": 39161,
 "scope": {
 "o": [
 "oferta",
@@ -374,7 +374,7 @@
 },
 "json/015.content.json": {
 "mimeType": "text/json",
-"size": 148718,
+"size": 149598,
 "scope": {
 "p": [
 "Palavra",
@@ -412,7 +412,7 @@
 },
 "json/017.content.json": {
 "mimeType": "text/json",
-"size": 88193,
+"size": 88966,
 "scope": {
 "r": [
 "rabi",
@@ -431,7 +431,7 @@
 },
 "json/018.content.json": {
 "mimeType": "text/json",
-"size": 202016,
+"size": 203217,
 "scope": {
 "s": [
 "sábado",
@@ -464,7 +464,7 @@
 },
 "json/019.content.json": {
 "mimeType": "text/json",
-"size": 71212,
+"size": 71319,
 "scope": {
 "t": [
 "tabernáculo",
@@ -481,7 +481,7 @@
 },
 "json/020.content.json": {
 "mimeType": "text/json",
-"size": 16108,
+"size": 16328,
 "scope": {
 "u": [
 "ungir",
@@ -492,7 +492,7 @@
 },
 "json/021.content.json": {
 "mimeType": "text/json",
-"size": 27810,
+"size": 28908,
 "scope": {
 "v": [
 "vida eterna",
@@ -514,79 +514,79 @@
 },
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 12845
+"size": 12846
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 24194
+"size": 24195
 },
 "md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 47986
+"size": 48015
 },
 "md/004.content.md": {
 "mimeType": "text/markdown",
-"size": 24134
+"size": 24168
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 17619
+"size": 17641
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 2016
+"size": 2015
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 6013
+"size": 6044
 },
 "md/017.content.md": {
 "mimeType": "text/markdown",
-"size": 26769
+"size": 26820
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 28179
+"size": 28310
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
-"size": 31355
+"size": 31377
 },
 "md/002.content.md": {
 "mimeType": "text/markdown",
-"size": 13951
+"size": 13974
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 9140
+"size": 9304
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
-"size": 33497
+"size": 33578
 },
 "md/015.content.md": {
 "mimeType": "text/markdown",
-"size": 59731
+"size": 59857
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
-"size": 19375
+"size": 19407
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
-"size": 32686
+"size": 32682
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 50137
+"size": 50168
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
-"size": 10175
+"size": 10270
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
-"size": 3897
+"size": 3834
 },
 "md/022.content.md": {
 "mimeType": "text/markdown",
@@ -594,11 +594,11 @@
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
-"size": 29636
+"size": 29667
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",
-"size": 68806
+"size": 68997
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",

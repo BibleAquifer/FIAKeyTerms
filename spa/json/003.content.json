@@ -54,7 +54,7 @@
 "type": "person",
 "confidence": 0.6029,
 "match_method": "scored",
-"preferred_label": "Nero"
+"preferred_label": "Nerón"
 }
 ]
 }
@@ -107,7 +107,7 @@
 "type": "place",
 "confidence": 0.673,
 "match_method": "scored",
-"preferred_label": "Filipo"
+"preferred_label": "Cesarea de Filipo"
 }
 ]
 }
@@ -269,7 +269,7 @@
 "type": "place",
 "confidence": 0.6221,
 "match_method": "scored",
-"preferred_label": "Capernaum"
+"preferred_label": "Capernaúm"
 }
 ]
 }
@@ -440,7 +440,7 @@
 "type": "fauna",
 "confidence": 0.8729,
 "match_method": "embedding",
-"preferred_label": "Camel"
+"preferred_label": "camello"
 }
 ]
 }
@@ -528,7 +528,7 @@
 "type": "place",
 "confidence": 0.6506,
 "match_method": "scored",
-"preferred_label": "Cananeo"
+"preferred_label": "Canaán"
 },
 {
 "id": "group:Canaan",
@@ -604,7 +604,7 @@
 "type": "realia",
 "confidence": 0.6115,
 "match_method": "scored",
-"preferred_label": "Winged Creature"
+"preferred_label": "criatura alada"
 }
 ]
 }
@@ -808,7 +808,7 @@
 "type": "group",
 "confidence": 0.6246,
 "match_method": "scored",
-"preferred_label": "Cristiano"
+"preferred_label": "cristianos"
 }
 ]
 }
@@ -949,7 +949,7 @@
 "type": "keyterm",
 "confidence": 0.5988,
 "match_method": "scored",
-"preferred_label": "Circumcision"
+"preferred_label": "circuncisión"
 }
 ]
 }
@@ -1089,7 +1089,7 @@
 "type": "realia",
 "confidence": 0.8356,
 "match_method": "embedding",
-"preferred_label": "Cloak"
+"preferred_label": "manto"
 }
 ]
 }
@@ -1135,7 +1135,7 @@
 {
 "id": "keyterm:Commandment",
 "type": "keyterm",
-"confidence": 0.5698,
+"confidence": 0.5696,
 "match_method": "scored",
 "preferred_label": "mandamiento"
 }
@@ -1252,14 +1252,14 @@
 "type": "realia",
 "confidence": 0.5985,
 "match_method": "scored",
-"preferred_label": "Cornerstone"
+"preferred_label": "piedra angular"
 },
 {
 "id": "realia:Foundation",
 "type": "realia",
 "confidence": 0.5693,
 "match_method": "scored",
-"preferred_label": "Foundation"
+"preferred_label": "cimiento"
 }
 ]
 }
@@ -1414,7 +1414,7 @@
 "type": "realia",
 "confidence": 0.8648,
 "match_method": "embedding",
-"preferred_label": "Cross"
+"preferred_label": "cruz"
 }
 ]
 }

@@ -63,7 +63,7 @@
 "type": "keyterm",
 "confidence": 0.8587,
 "match_method": "embedding",
-"preferred_label": "Mercy"
+"preferred_label": "दया"
 }
 ]
 }
@@ -111,7 +111,7 @@
 "type": "keyterm",
 "confidence": 0.8883,
 "match_method": "embedding",
-"preferred_label": "Vision"
+"preferred_label": "दर्शन"
 }
 ]
 }
@@ -286,7 +286,7 @@
 "type": "person",
 "confidence": 0.5665,
 "match_method": "scored",
-"preferred_label": "David"
+"preferred_label": "दाऊद"
 }
 ]
 }
@@ -483,9 +483,9 @@
 {
 "id": "realia:Winepress",
 "type": "realia",
-"confidence": 0.5881,
+"confidence": 0.5896,
 "match_method": "scored",
-"preferred_label": "Winepress"
+"preferred_label": "दाखको कोल"
 }
 ]
 }
@@ -509,7 +509,7 @@
 "type": "realia",
 "confidence": 0.9235,
 "match_method": "embedding",
-"preferred_label": "Wine"
+"preferred_label": "दाखमद्य"
 }
 ]
 }
@@ -574,9 +574,9 @@
 {
 "id": "flora:Vine",
 "type": "flora",
-"confidence": 0.6113,
+"confidence": 0.6174,
 "match_method": "scored",
-"preferred_label": "Vine"
+"preferred_label": "दाखको बोट"
 }
 ]
 }
@@ -616,7 +616,7 @@
 "type": "realia",
 "confidence": 0.5851,
 "match_method": "scored",
-"preferred_label": "Denarius"
+"preferred_label": "दिनार"
 }
 ]
 }
@@ -745,7 +745,7 @@
 "type": "keyterm",
 "confidence": 0.832,
 "match_method": "embedding",
-"preferred_label": "Wickedness"
+"preferred_label": "दुष्ट्याइँ"
 }
 ]
 }
@@ -791,7 +791,7 @@
 "type": "keyterm",
 "confidence": 0.5911,
 "match_method": "scored",
-"preferred_label": "Parable"
+"preferred_label": "दृष्टान्त"
 }
 ]
 }

@@ -26,7 +26,7 @@
 "type": "realia",
 "confidence": 0.8356,
 "match_method": "embedding",
-"preferred_label": "Cloak"
+"preferred_label": "खास्टो"
 }
 ]
 }
@@ -58,7 +58,7 @@
 "type": "realia",
 "confidence": 0.8797,
 "match_method": "embedding",
-"preferred_label": "Robe"
+"preferred_label": "अलखा"
 }
 ]
 }
@@ -146,14 +146,14 @@
 "type": "person",
 "confidence": 0.6761,
 "match_method": "scored",
-"preferred_label": "Levi"
+"preferred_label": "लेवी"
 },
 {
 "id": "group:Levi",
 "type": "group",
 "confidence": 0.6397,
 "match_method": "scored",
-"preferred_label": "Tribe of Levi"
+"preferred_label": "लेवीको कुल"
 }
 ]
 }

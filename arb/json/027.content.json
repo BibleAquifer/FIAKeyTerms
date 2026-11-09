@@ -167,7 +167,7 @@
 "type": "person",
 "confidence": 0.6571,
 "match_method": "scored",
-"preferred_label": "يَعْقوبَ"
+"preferred_label": "يَعْقوب"
 }
 ]
 }
@@ -634,7 +634,7 @@
 "type": "place",
 "confidence": 0.5621,
 "match_method": "scored",
-"preferred_label": "أورشَلِيمَ"
+"preferred_label": "أُورُشَلِيم"
 }
 ]
 }
@@ -739,28 +739,28 @@
 "type": "person",
 "confidence": 1.0,
 "match_method": "embedding",
-"preferred_label": "يوحَنَّا"
+"preferred_label": "يُوحَنَّا"
 },
 {
 "id": "person:John.2",
 "type": "person",
 "confidence": 1.0,
 "match_method": "embedding",
-"preferred_label": "يوحَنَّا"
+"preferred_label": "يُوحَنَّا"
 },
 {
 "id": "person:John.3",
 "type": "person",
 "confidence": 1.0,
 "match_method": "embedding",
-"preferred_label": "يوحَنَّا"
+"preferred_label": "يُوحَنَّا"
 },
 {
 "id": "person:John.4",
 "type": "person",
 "confidence": 1.0,
 "match_method": "embedding",
-"preferred_label": "يوحَنَّا"
+"preferred_label": "يُوحَنَّا"
 }
 ]
 }
@@ -1036,7 +1036,7 @@
 "type": "group",
 "confidence": 0.9458,
 "match_method": "embedding",
-"preferred_label": "Greeks"
+"preferred_label": "اليونانيون"
 }
 ]
 }

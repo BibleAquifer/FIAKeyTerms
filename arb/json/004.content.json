@@ -169,21 +169,21 @@
 "type": "place",
 "confidence": 0.6384,
 "match_method": "scored",
-"preferred_label": "ٱلْجَلِيلِ"
+"preferred_label": "ٱلْجَلِيل"
 },
 {
 "id": "place:Judea",
 "type": "place",
 "confidence": 0.6093,
 "match_method": "scored",
-"preferred_label": "يَهوذَا"
+"preferred_label": "اليهودية"
 },
 {
 "id": "group:Galilee",
 "type": "group",
 "confidence": 0.607,
 "match_method": "scored",
-"preferred_label": "Galileans"
+"preferred_label": "الْجَلِيلِيُّونَ"
 }
 ]
 }
@@ -250,7 +250,7 @@
 "type": "deity",
 "confidence": 0.6129,
 "match_method": "scored",
-"preferred_label": "جِبْرَائِيل"
+"preferred_label": "جبرائيل"
 }
 ]
 }
@@ -289,7 +289,7 @@
 "type": "fauna",
 "confidence": 0.8729,
 "match_method": "embedding",
-"preferred_label": "Camel"
+"preferred_label": "جَمَل"
 }
 ]
 }
@@ -398,7 +398,7 @@
 "type": "place",
 "confidence": 0.8722,
 "match_method": "embedding",
-"preferred_label": "Hell"
+"preferred_label": "جَهَنَّمُ"
 }
 ]
 }

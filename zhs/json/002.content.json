@@ -216,6 +216,12 @@
 "end_ref_usfm": "NEH 13:22"
 },
 {
+"start_ref": "23001010",
+"start_ref_usfm": "ISA 1:10",
+"end_ref": "23001020",
+"end_ref_usfm": "ISA 1:20"
+},
+{
 "start_ref": "40012001",
 "start_ref_usfm": "MAT 12:1",
 "end_ref": "40012014",
@@ -389,9 +395,9 @@
 {
 "id": "keyterm:Sabbath",
 "type": "keyterm",
-"confidence": 0.6017,
+"confidence": 0.6013,
 "match_method": "scored",
-"preferred_label": "Sabbath"
+"preferred_label": "安息日"
 }
 ]
 }

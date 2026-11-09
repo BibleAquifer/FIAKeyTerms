@@ -341,7 +341,7 @@
 "type": "keyterm",
 "confidence": 0.5952,
 "match_method": "scored",
-"preferred_label": "Baptism"
+"preferred_label": "baptais"
 }
 ]
 }
@@ -420,7 +420,7 @@
 "type": "realia",
 "confidence": 0.8727,
 "match_method": "embedding",
-"preferred_label": "Basket"
+"preferred_label": "basket"
 }
 ]
 }
@@ -1379,7 +1379,7 @@
 "type": "keyterm",
 "confidence": 0.8119,
 "match_method": "embedding",
-"preferred_label": "Blaspheme"
+"preferred_label": "mekim tok nogut"
 }
 ]
 }
@@ -2033,7 +2033,7 @@
 "type": "keyterm",
 "confidence": 0.8557,
 "match_method": "embedding",
-"preferred_label": "Bless"
+"preferred_label": "Mekim gut"
 }
 ]
 }
@@ -2334,7 +2334,7 @@
 "type": "keyterm",
 "confidence": 0.8767,
 "match_method": "embedding",
-"preferred_label": "Blood"
+"preferred_label": "Blut"
 }
 ]
 }
@@ -2489,14 +2489,14 @@
 "type": "realia",
 "confidence": 0.8956,
 "match_method": "embedding",
-"preferred_label": "Boat"
+"preferred_label": "sip"
 },
 {
 "id": "realia:Ship",
 "type": "realia",
 "confidence": 0.8044,
 "match_method": "embedding",
-"preferred_label": "Ship"
+"preferred_label": "sip"
 }
 ]
 }

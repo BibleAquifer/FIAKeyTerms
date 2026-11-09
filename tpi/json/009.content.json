@@ -477,9 +477,9 @@
 {
 "id": "deity:Teraphim",
 "type": "deity",
-"confidence": 0.6063,
+"confidence": 0.6062,
 "match_method": "scored",
-"preferred_label": "giaman"
+"preferred_label": "ol giaman god bilong haus"
 }
 ]
 }
@@ -665,16 +665,9 @@
 {
 "id": "person:Isaiah",
 "type": "person",
-"confidence": 1.0,
-"match_method": "embedding",
+"confidence": 0.5567,
+"match_method": "scored",
 "preferred_label": "Aisaia"
-},
-{
-"id": "person:Izziah",
-"type": "person",
-"confidence": 0.8057,
-"match_method": "embedding",
-"preferred_label": "Izziah"
 }
 ]
 }
@@ -1342,7 +1335,7 @@
 "type": "group",
 "confidence": 0.6,
 "match_method": "scored",
-"preferred_label": "Israelites"
+"preferred_label": "ol Israel"
 }
 ]
 }
@@ -2101,7 +2094,7 @@
 "type": "group",
 "confidence": 0.5786,
 "match_method": "scored",
-"preferred_label": "Israelites"
+"preferred_label": "ol Israel"
 }
 ]
 }

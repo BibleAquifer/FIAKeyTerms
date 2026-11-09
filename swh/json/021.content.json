@@ -185,7 +185,7 @@
 {
 "id": "place:Jerusalem",
 "type": "place",
-"confidence": 0.6638,
+"confidence": 0.6656,
 "match_method": "scored",
 "preferred_label": "Yerusalemu"
 },
@@ -194,7 +194,7 @@
 "type": "place",
 "confidence": 0.6,
 "match_method": "scored",
-"preferred_label": "City of David"
+"preferred_label": "Mji wa Daudi"
 }
 ]
 }
@@ -442,7 +442,7 @@
 "type": "place",
 "confidence": 1.0,
 "match_method": "embedding",
-"preferred_label": "Yudea"
+"preferred_label": "Uyahudi"
 },
 {
 "id": "person:Judah.3",
@@ -491,7 +491,7 @@
 "type": "place",
 "confidence": 0.9535,
 "match_method": "embedding",
-"preferred_label": "Judah"
+"preferred_label": "Yuda"
 },
 {
 "id": "person:Judas",

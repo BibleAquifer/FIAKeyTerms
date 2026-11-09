@@ -741,7 +741,7 @@
 {
 "id": "place:Jerusalem",
 "type": "place",
-"confidence": 0.6638,
+"confidence": 0.6656,
 "match_method": "scored",
 "preferred_label": "Jerusalem"
 },
@@ -750,7 +750,7 @@
 "type": "place",
 "confidence": 0.6,
 "match_method": "scored",
-"preferred_label": "City of David"
+"preferred_label": "Taun Bilong Devit"
 }
 ]
 }
@@ -2118,7 +2118,7 @@
 "type": "place",
 "confidence": 0.659,
 "match_method": "scored",
-"preferred_label": "Jordan"
+"preferred_label": "Wara Jordan"
 }
 ]
 }
@@ -2792,7 +2792,7 @@
 "type": "place",
 "confidence": 0.9535,
 "match_method": "embedding",
-"preferred_label": "Judah"
+"preferred_label": "Juda"
 },
 {
 "id": "person:Judas",
@@ -3140,7 +3140,7 @@
 "type": "person",
 "confidence": 0.5603,
 "match_method": "scored",
-"preferred_label": "Dinaite"
+"preferred_label": "Lain Dinait"
 }
 ]
 }

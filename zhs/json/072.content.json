@@ -18,6 +18,12 @@
 "end_ref_usfm": "DAN 11:1"
 },
 {
+"start_ref": "27011002",
+"start_ref_usfm": "DAN 11:2",
+"end_ref": "27011013",
+"end_ref_usfm": "DAN 11:13"
+},
+{
 "start_ref": "41007024",
 "start_ref_usfm": "MRK 7:24",
 "end_ref": "41007030",
@@ -109,7 +115,7 @@
 "type": "group",
 "confidence": 0.9458,
 "match_method": "embedding",
-"preferred_label": "Greeks"
+"preferred_label": "希腊人"
 }
 ]
 }
@@ -146,7 +152,7 @@
 "type": "group",
 "confidence": 0.6345,
 "match_method": "scored",
-"preferred_label": "Herodians"
+"preferred_label": "希律党人"
 }
 ]
 }
@@ -387,7 +393,7 @@
 "type": "keyterm",
 "confidence": 0.5952,
 "match_method": "scored",
-"preferred_label": "Baptism"
+"preferred_label": "洗礼"
 }
 ]
 }

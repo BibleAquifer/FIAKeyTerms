@@ -474,6 +474,12 @@
 "end_ref_usfm": "PSA 117:2"
 },
 {
+"start_ref": "23005001",
+"start_ref_usfm": "ISA 5:1",
+"end_ref": "23005007",
+"end_ref_usfm": "ISA 5:7"
+},
+{
 "start_ref": "23005026",
 "start_ref_usfm": "ISA 5:26",
 "end_ref": "23005030",
@@ -604,12 +610,6 @@
 "start_ref_usfm": "ACT 10:34",
 "end_ref": "44010048",
 "end_ref_usfm": "ACT 10:48"
-},
-{
-"start_ref": "44017022",
-"start_ref_usfm": "ACT 17:22",
-"end_ref": "44017034",
-"end_ref_usfm": "ACT 17:34"
 }
 ],
 "resource": [
@@ -621,15 +621,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "group:Gentile",
-"type": "group",
-"confidence": 0.5667,
-"match_method": "scored",
-"preferred_label": "nation; peuple"
-}
-]
+"acai": []
 }
 },
 {
@@ -1107,6 +1099,12 @@
 "end_ref_usfm": "PSA 117:2"
 },
 {
+"start_ref": "23005001",
+"start_ref_usfm": "ISA 5:1",
+"end_ref": "23005007",
+"end_ref_usfm": "ISA 5:7"
+},
+{
 "start_ref": "23005026",
 "start_ref_usfm": "ISA 5:26",
 "end_ref": "23005030",
@@ -1237,12 +1235,6 @@
 "start_ref_usfm": "ACT 10:34",
 "end_ref": "44010048",
 "end_ref_usfm": "ACT 10:48"
-},
-{
-"start_ref": "44017022",
-"start_ref_usfm": "ACT 17:22",
-"end_ref": "44017034",
-"end_ref_usfm": "ACT 17:34"
 }
 ],
 "resource": [

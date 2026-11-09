@@ -89,14 +89,14 @@
 "type": "group",
 "confidence": 0.6097,
 "match_method": "scored",
-"preferred_label": "Samaritans"
+"preferred_label": "السامريون"
 },
 {
 "id": "place:Samaria.2",
 "type": "place",
 "confidence": 0.6,
 "match_method": "scored",
-"preferred_label": "Samaria"
+"preferred_label": "السامرة"
 }
 ]
 }
@@ -118,9 +118,9 @@
 {
 "id": "keyterm:Sabbath",
 "type": "keyterm",
-"confidence": 0.6017,
+"confidence": 0.6013,
 "match_method": "scored",
-"preferred_label": "Sabbath"
+"preferred_label": "ٱلسَّبْت"
 }
 ]
 }
@@ -152,7 +152,7 @@
 "type": "keyterm",
 "confidence": 0.8933,
 "match_method": "embedding",
-"preferred_label": "Peace"
+"preferred_label": "سلام"
 }
 ]
 }
@@ -350,14 +350,14 @@
 "type": "realia",
 "confidence": 0.8956,
 "match_method": "embedding",
-"preferred_label": "Boat"
+"preferred_label": "فُلْك"
 },
 {
 "id": "realia:Ship",
 "type": "realia",
 "confidence": 0.8044,
 "match_method": "embedding",
-"preferred_label": "Ship"
+"preferred_label": "سَفِينَة"
 }
 ]
 }
@@ -381,7 +381,7 @@
 "type": "realia",
 "confidence": 0.8727,
 "match_method": "embedding",
-"preferred_label": "Basket"
+"preferred_label": "سَلَّة"
 }
 ]
 }
@@ -456,9 +456,9 @@
 {
 "id": "keyterm:Authority.2",
 "type": "keyterm",
-"confidence": 0.5858,
+"confidence": 0.5846,
 "match_method": "scored",
-"preferred_label": "Authority"
+"preferred_label": "سُلْطَان"
 }
 ]
 }

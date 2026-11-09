@@ -384,6 +384,18 @@
 "end_ref_usfm": "EZR 1:11"
 },
 {
+"start_ref": "23001010",
+"start_ref_usfm": "ISA 1:10",
+"end_ref": "23001020",
+"end_ref_usfm": "ISA 1:20"
+},
+{
+"start_ref": "27010001",
+"start_ref_usfm": "DAN 10:1",
+"end_ref": "27010009",
+"end_ref_usfm": "DAN 10:9"
+},
+{
 "start_ref": "32001001",
 "start_ref_usfm": "JON 1:1",
 "end_ref": "32001016",
@@ -598,18 +610,6 @@
 "start_ref_usfm": "JAS 1:12",
 "end_ref": "59001018",
 "end_ref_usfm": "JAS 1:18"
-},
-{
-"start_ref": "59001019",
-"start_ref_usfm": "JAS 1:19",
-"end_ref": "59001027",
-"end_ref_usfm": "JAS 1:27"
-},
-{
-"start_ref": "62001001",
-"start_ref_usfm": "1JN 1:1",
-"end_ref": "62001004",
-"end_ref_usfm": "1JN 1:4"
 }
 ],
 "resource": [],
@@ -1042,7 +1042,7 @@
 "type": "keyterm",
 "confidence": 0.6637,
 "match_method": "scored",
-"preferred_label": "passover"
+"preferred_label": "Páscoa"
 }
 ]
 }
@@ -1860,7 +1860,7 @@
 "type": "keyterm",
 "confidence": 0.8933,
 "match_method": "embedding",
-"preferred_label": "peace"
+"preferred_label": "paz"
 }
 ]
 }
@@ -2526,14 +2526,14 @@
 "type": "realia",
 "confidence": 0.5985,
 "match_method": "scored",
-"preferred_label": "Cornerstone"
+"preferred_label": "pedra angular"
 },
 {
 "id": "realia:Foundation",
 "type": "realia",
 "confidence": 0.5693,
 "match_method": "scored",
-"preferred_label": "Foundation"
+"preferred_label": "fundamento"
 }
 ]
 }
@@ -2855,6 +2855,12 @@
 "start_ref_usfm": "NEH 9:16",
 "end_ref": "16009025",
 "end_ref_usfm": "NEH 9:25"
+},
+{
+"start_ref": "27009001",
+"start_ref_usfm": "DAN 9:1",
+"end_ref": "27009014",
+"end_ref_usfm": "DAN 9:14"
 },
 {
 "start_ref": "40006009",
@@ -3513,6 +3519,18 @@
 "end_ref_usfm": "PSA 3:8"
 },
 {
+"start_ref": "27009001",
+"start_ref_usfm": "DAN 9:1",
+"end_ref": "27009014",
+"end_ref_usfm": "DAN 9:14"
+},
+{
+"start_ref": "27009015",
+"start_ref_usfm": "DAN 9:15",
+"end_ref": "27009019",
+"end_ref_usfm": "DAN 9:19"
+},
+{
 "start_ref": "32001001",
 "start_ref_usfm": "JON 1:1",
 "end_ref": "32001016",
@@ -3592,7 +3610,7 @@
 "type": "keyterm",
 "confidence": 0.832,
 "match_method": "embedding",
-"preferred_label": "wickedness"
+"preferred_label": "maldade"
 }
 ]
 }
@@ -3641,7 +3659,7 @@
 "type": "fauna",
 "confidence": 0.8515,
 "match_method": "embedding",
-"preferred_label": "Dove"
+"preferred_label": "pomba"
 }
 ]
 }
@@ -3793,6 +3811,12 @@
 "start_ref_usfm": "NEH 6:1",
 "end_ref": "16006014",
 "end_ref_usfm": "NEH 6:14"
+},
+{
+"start_ref": "27009020",
+"start_ref_usfm": "DAN 9:20",
+"end_ref": "27009027",
+"end_ref_usfm": "DAN 9:27"
 },
 {
 "start_ref": "40007013",
@@ -4340,6 +4364,12 @@
 "end_ref_usfm": "2KI 17:23"
 },
 {
+"start_ref": "12019001",
+"start_ref_usfm": "2KI 19:1",
+"end_ref": "12019007",
+"end_ref_usfm": "2KI 19:7"
+},
+{
 "start_ref": "13009017",
 "start_ref_usfm": "1CH 9:17",
 "end_ref": "13009027",
@@ -4536,12 +4566,6 @@
 "start_ref_usfm": "NEH 6:1",
 "end_ref": "16006014",
 "end_ref_usfm": "NEH 6:14"
-},
-{
-"start_ref": "16009026",
-"start_ref_usfm": "NEH 9:26",
-"end_ref": "16009031",
-"end_ref_usfm": "NEH 9:31"
 }
 ],
 "resource": [],
@@ -4600,7 +4624,7 @@
 "type": "keyterm",
 "confidence": 0.8132,
 "match_method": "embedding",
-"preferred_label": "saying"
+"preferred_label": "provérbio"
 }
 ]
 }
@@ -4766,6 +4790,30 @@
 "start_ref_usfm": "NEH 13:23",
 "end_ref": "16013031",
 "end_ref_usfm": "NEH 13:31"
+},
+{
+"start_ref": "23004002",
+"start_ref_usfm": "ISA 4:2",
+"end_ref": "23004006",
+"end_ref_usfm": "ISA 4:6"
+},
+{
+"start_ref": "27008001",
+"start_ref_usfm": "DAN 8:1",
+"end_ref": "27008014",
+"end_ref_usfm": "DAN 8:14"
+},
+{
+"start_ref": "27011029",
+"start_ref_usfm": "DAN 11:29",
+"end_ref": "27011035",
+"end_ref_usfm": "DAN 11:35"
+},
+{
+"start_ref": "27012004",
+"start_ref_usfm": "DAN 12:4",
+"end_ref": "27012013",
+"end_ref_usfm": "DAN 12:13"
 },
 {
 "start_ref": "43011045",

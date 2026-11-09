@@ -141,7 +141,7 @@
 "type": "group",
 "confidence": 0.6168,
 "match_method": "scored",
-"preferred_label": "Sadducees"
+"preferred_label": "सदूकीहरू"
 }
 ]
 }
@@ -314,7 +314,7 @@
 "type": "realia",
 "confidence": 0.5927,
 "match_method": "scored",
-"preferred_label": "Synagogue"
+"preferred_label": "सभाघर"
 }
 ]
 }
@@ -428,7 +428,7 @@
 "type": "keyterm",
 "confidence": 0.5672,
 "match_method": "scored",
-"preferred_label": "Testimony"
+"preferred_label": "गवाही"
 }
 ]
 }
@@ -568,14 +568,14 @@
 "type": "group",
 "confidence": 0.6097,
 "match_method": "scored",
-"preferred_label": "Samaritans"
+"preferred_label": "सामरीहरू"
 },
 {
 "id": "place:Samaria.2",
 "type": "place",
 "confidence": 0.6,
 "match_method": "scored",
-"preferred_label": "Samaria"
+"preferred_label": "सामरिया"
 }
 ]
 }
@@ -626,9 +626,9 @@
 {
 "id": "place:Jerusalem",
 "type": "place",
-"confidence": 0.6538,
+"confidence": 0.6702,
 "match_method": "scored",
-"preferred_label": "Jerusalem"
+"preferred_label": "यरूशलेम"
 }
 ]
 }
@@ -656,18 +656,18 @@
 ],
 "acai": [
 {
-"id": "place:Phoenicia",
-"type": "place",
-"confidence": 0.6571,
-"match_method": "scored",
-"preferred_label": "Phoenicia"
-},
-{
 "id": "group:Phoenicia",
 "type": "group",
 "confidence": 0.6571,
 "match_method": "scored",
-"preferred_label": "Syrophoenicians"
+"preferred_label": "सिरोफोनिकेलीहरू"
+},
+{
+"id": "place:Phoenicia",
+"type": "place",
+"confidence": 0.6571,
+"match_method": "scored",
+"preferred_label": "फोनिसिया"
 }
 ]
 }
@@ -772,7 +772,7 @@
 "type": "keyterm",
 "confidence": 0.6305,
 "match_method": "scored",
-"preferred_label": "Good News"
+"preferred_label": "सुसमाचार"
 }
 ]
 }
@@ -952,7 +952,7 @@
 "type": "keyterm",
 "confidence": 0.9108,
 "match_method": "embedding",
-"preferred_label": "Paradise"
+"preferred_label": "स्वर्गलोक"
 }
 ]
 }

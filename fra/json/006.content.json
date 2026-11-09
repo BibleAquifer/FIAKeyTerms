@@ -57,7 +57,7 @@
 "type": "realia",
 "confidence": 0.8315,
 "match_method": "embedding",
-"preferred_label": "Yoke"
+"preferred_label": "joug"
 }
 ]
 }
@@ -527,14 +527,14 @@
 "type": "realia",
 "confidence": 0.5664,
 "match_method": "scored",
-"preferred_label": "Festival of the Tabernacles"
+"preferred_label": "fête des Tabernacles"
 },
 {
 "id": "keyterm:FeastOfTabernacles",
 "type": "keyterm",
 "confidence": 0.5582,
 "match_method": "scored",
-"preferred_label": "fourré"
+"preferred_label": "fête des tabernacles"
 }
 ]
 }
@@ -615,7 +615,7 @@
 "type": "flora",
 "confidence": 0.6598,
 "match_method": "scored",
-"preferred_label": "Fig"
+"preferred_label": "figue"
 }
 ]
 }
@@ -732,7 +732,7 @@
 "type": "realia",
 "confidence": 0.5962,
 "match_method": "scored",
-"preferred_label": "Casting Net"
+"preferred_label": "épervier"
 }
 ]
 }

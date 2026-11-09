@@ -123,7 +123,7 @@
 "type": "place",
 "confidence": 0.673,
 "match_method": "scored",
-"preferred_label": "vya"
+"preferred_label": "Kaisaria-Filipi"
 }
 ]
 }
@@ -235,14 +235,14 @@
 "type": "place",
 "confidence": 0.6506,
 "match_method": "scored",
-"preferred_label": "Wakanaani"
+"preferred_label": "Kanaani"
 },
 {
 "id": "group:Canaan",
 "type": "group",
 "confidence": 0.6271,
 "match_method": "scored",
-"preferred_label": "Canaanites"
+"preferred_label": "Wakanaani"
 }
 ]
 }
@@ -288,7 +288,7 @@
 "type": "keyterm",
 "confidence": 0.9331,
 "match_method": "embedding",
-"preferred_label": "Church"
+"preferred_label": "Kanisa"
 }
 ]
 }
@@ -374,7 +374,7 @@
 "type": "keyterm",
 "confidence": 0.8326,
 "match_method": "embedding",
-"preferred_label": "Oath"
+"preferred_label": "Kiapo"
 }
 ]
 }
@@ -434,7 +434,7 @@
 "type": "group",
 "confidence": 0.6275,
 "match_method": "scored",
-"preferred_label": "Hebrews"
+"preferred_label": "Waebrania"
 }
 ]
 }
@@ -501,7 +501,7 @@
 "type": "group",
 "confidence": 0.9458,
 "match_method": "embedding",
-"preferred_label": "Greeks"
+"preferred_label": "Wayunani"
 }
 ]
 }
@@ -525,7 +525,7 @@
 "type": "realia",
 "confidence": 0.8727,
 "match_method": "embedding",
-"preferred_label": "Basket"
+"preferred_label": "Kikapu"
 }
 ]
 }
@@ -549,14 +549,14 @@
 "type": "realia",
 "confidence": 0.8794,
 "match_method": "embedding",
-"preferred_label": "Tunic"
+"preferred_label": "Kanzu"
 },
 {
 "id": "realia:Tunic.2",
 "type": "realia",
 "confidence": 0.8794,
 "match_method": "embedding",
-"preferred_label": "Tunic"
+"preferred_label": "Joho lililopambwa"
 }
 ]
 }
@@ -653,7 +653,7 @@
 "type": "group",
 "confidence": 0.5505,
 "match_method": "scored",
-"preferred_label": "Sanhedrin"
+"preferred_label": "Sanhedrini"
 }
 ]
 }
@@ -1207,7 +1207,7 @@
 "type": "keyterm",
 "confidence": 0.8119,
 "match_method": "embedding",
-"preferred_label": "Blaspheme"
+"preferred_label": "Kufuru"
 }
 ]
 }
@@ -1253,7 +1253,7 @@
 "type": "keyterm",
 "confidence": 0.8544,
 "match_method": "embedding",
-"preferred_label": "God-Fearing"
+"preferred_label": "Mwenye Kumcha Mungu"
 }
 ]
 }
@@ -1401,15 +1401,7 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:UnjustDeed",
-"type": "keyterm",
-"confidence": 0.5701,
-"match_method": "scored",
-"preferred_label": "Unjust Deed"
-}
-]
+"acai": []
 }
 },
 {

@@ -186,7 +186,7 @@
 "type": "person",
 "confidence": 0.7161,
 "match_method": "scored",
-"preferred_label": "Elijah"
+"preferred_label": "以利亚"
 }
 ]
 }
@@ -204,6 +204,12 @@
 "associations": {
 "passage": [
 {
+"start_ref": "12019001",
+"start_ref_usfm": "2KI 19:1",
+"end_ref": "12019007",
+"end_ref_usfm": "2KI 19:7"
+},
+{
 "start_ref": "41007001",
 "start_ref_usfm": "MRK 7:1",
 "end_ref": "41007008",
@@ -215,16 +221,9 @@
 {
 "id": "person:Isaiah",
 "type": "person",
-"confidence": 1.0,
-"match_method": "embedding",
-"preferred_label": "Isaiah"
-},
-{
-"id": "person:Izziah",
-"type": "person",
-"confidence": 0.8057,
-"match_method": "embedding",
-"preferred_label": "Izziah"
+"confidence": 0.5567,
+"match_method": "scored",
+"preferred_label": "以赛亚"
 }
 ]
 }
@@ -270,6 +269,12 @@
 "start_ref_usfm": "DAN 7:1",
 "end_ref": "27007008",
 "end_ref_usfm": "DAN 7:8"
+},
+{
+"start_ref": "27010010",
+"start_ref_usfm": "DAN 10:10",
+"end_ref": "27011001",
+"end_ref_usfm": "DAN 11:1"
 },
 {
 "start_ref": "40022034",
@@ -351,14 +356,14 @@
 "type": "keyterm",
 "confidence": 0.8834,
 "match_method": "embedding",
-"preferred_label": "Mind"
+"preferred_label": "心智"
 },
 {
 "id": "keyterm:Mind.2",
 "type": "keyterm",
 "confidence": 0.8834,
 "match_method": "embedding",
-"preferred_label": "Mind"
+"preferred_label": "心思"
 }
 ]
 }

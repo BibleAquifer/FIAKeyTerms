@@ -107,7 +107,7 @@
 "type": "group",
 "confidence": 0.623,
 "match_method": "scored",
-"preferred_label": "Pharisees"
+"preferred_label": "Mafarisayo"
 }
 ]
 }
@@ -166,18 +166,18 @@
 ],
 "acai": [
 {
-"id": "place:Phoenicia",
-"type": "place",
-"confidence": 0.6571,
-"match_method": "scored",
-"preferred_label": "Msirofoinike"
-},
-{
 "id": "group:Phoenicia",
 "type": "group",
 "confidence": 0.6571,
 "match_method": "scored",
-"preferred_label": "Syrophoenicians"
+"preferred_label": "Wasirofoinike"
+},
+{
+"id": "place:Phoenicia",
+"type": "place",
+"confidence": 0.6571,
+"match_method": "scored",
+"preferred_label": "Foinike"
 }
 ]
 }

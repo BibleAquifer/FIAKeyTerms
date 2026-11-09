@@ -18,6 +18,12 @@
 "end_ref_usfm": "2KI 9:29"
 },
 {
+"start_ref": "23005001",
+"start_ref_usfm": "ISA 5:1",
+"end_ref": "23005007",
+"end_ref_usfm": "ISA 5:7"
+},
+{
 "start_ref": "40021033",
 "start_ref_usfm": "MAT 21:33",
 "end_ref": "40021046",
@@ -35,9 +41,9 @@
 {
 "id": "realia:Tower",
 "type": "realia",
-"confidence": 0.5836,
+"confidence": 0.5877,
 "match_method": "scored",
-"preferred_label": "Tower"
+"preferred_label": "瞭望楼"
 }
 ]
 }

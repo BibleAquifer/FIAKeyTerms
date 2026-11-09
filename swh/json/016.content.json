@@ -16,9 +16,9 @@
 {
 "id": "keyterm:Sabbath",
 "type": "keyterm",
-"confidence": 0.6017,
+"confidence": 0.6013,
 "match_method": "scored",
-"preferred_label": "Sabbath"
+"preferred_label": "Sabato"
 }
 ]
 }
@@ -76,9 +76,9 @@
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.6516,
+"confidence": 0.6512,
 "match_method": "scored",
-"preferred_label": "Offering"
+"preferred_label": "Sadaka"
 }
 ]
 }
@@ -308,7 +308,7 @@
 "type": "keyterm",
 "confidence": 0.8937,
 "match_method": "embedding",
-"preferred_label": "Pray"
+"preferred_label": "Kuomba"
 }
 ]
 }
@@ -403,7 +403,7 @@
 "type": "group",
 "confidence": 0.6097,
 "match_method": "scored",
-"preferred_label": "Samaritans"
+"preferred_label": "Wasamaria"
 },
 {
 "id": "place:Samaria.2",
@@ -447,9 +447,9 @@
 {
 "id": "deity:Teraphim",
 "type": "deity",
-"confidence": 0.6063,
+"confidence": 0.6062,
 "match_method": "scored",
-"preferred_label": "kinyago"
+"preferred_label": "Terafimu"
 }
 ]
 }
@@ -500,7 +500,7 @@
 {
 "id": "place:Jerusalem",
 "type": "place",
-"confidence": 0.6538,
+"confidence": 0.6702,
 "match_method": "scored",
 "preferred_label": "Yerusalemu"
 }
@@ -567,9 +567,9 @@
 {
 "id": "flora:Vine",
 "type": "flora",
-"confidence": 0.6113,
+"confidence": 0.6174,
 "match_method": "scored",
-"preferred_label": "Vine"
+"preferred_label": "Mzabibu"
 }
 ]
 }
@@ -813,9 +813,9 @@
 {
 "id": "realia:Winepress",
 "type": "realia",
-"confidence": 0.5881,
+"confidence": 0.5896,
 "match_method": "scored",
-"preferred_label": "Winepress"
+"preferred_label": "Shinikizo la divai"
 }
 ]
 }
@@ -847,7 +847,7 @@
 "type": "keyterm",
 "confidence": 0.8398,
 "match_method": "embedding",
-"preferred_label": "Praise"
+"preferred_label": "Sifa"
 }
 ]
 }
@@ -942,7 +942,7 @@
 "type": "realia",
 "confidence": 0.5927,
 "match_method": "scored",
-"preferred_label": "Synagogue"
+"preferred_label": "Sinagogi"
 }
 ]
 }

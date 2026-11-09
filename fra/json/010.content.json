@@ -905,6 +905,18 @@
 "end_ref_usfm": "PSA 3:8"
 },
 {
+"start_ref": "23004002",
+"start_ref_usfm": "ISA 4:2",
+"end_ref": "23004006",
+"end_ref_usfm": "ISA 4:6"
+},
+{
+"start_ref": "23005001",
+"start_ref_usfm": "ISA 5:1",
+"end_ref": "23005007",
+"end_ref_usfm": "ISA 5:7"
+},
+{
 "start_ref": "27001001",
 "start_ref_usfm": "DAN 1:1",
 "end_ref": "27001007",
@@ -915,6 +927,12 @@
 "start_ref_usfm": "DAN 6:10",
 "end_ref": "27006018",
 "end_ref_usfm": "DAN 6:18"
+},
+{
+"start_ref": "27009015",
+"start_ref_usfm": "DAN 9:15",
+"end_ref": "27009019",
+"end_ref_usfm": "DAN 9:19"
 },
 {
 "start_ref": "40005033",
@@ -1053,24 +1071,6 @@
 "start_ref_usfm": "LUK 10:38",
 "end_ref": "42010042",
 "end_ref_usfm": "LUK 10:42"
-},
-{
-"start_ref": "42012001",
-"start_ref_usfm": "LUK 12:1",
-"end_ref": "42012012",
-"end_ref_usfm": "LUK 12:12"
-},
-{
-"start_ref": "42013001",
-"start_ref_usfm": "LUK 13:1",
-"end_ref": "42013009",
-"end_ref_usfm": "LUK 13:9"
-},
-{
-"start_ref": "42013022",
-"start_ref_usfm": "LUK 13:22",
-"end_ref": "42013030",
-"end_ref_usfm": "LUK 13:30"
 }
 ],
 "resource": [
@@ -1086,7 +1086,7 @@
 {
 "id": "place:Jerusalem",
 "type": "place",
-"confidence": 0.6638,
+"confidence": 0.6656,
 "match_method": "scored",
 "preferred_label": "Jérusalem"
 },
@@ -1095,7 +1095,7 @@
 "type": "place",
 "confidence": 0.6,
 "match_method": "scored",
-"preferred_label": "City of David"
+"preferred_label": "cité de David"
 }
 ]
 }
@@ -1545,6 +1545,18 @@
 "end_ref_usfm": "PSA 3:8"
 },
 {
+"start_ref": "23004002",
+"start_ref_usfm": "ISA 4:2",
+"end_ref": "23004006",
+"end_ref_usfm": "ISA 4:6"
+},
+{
+"start_ref": "23005001",
+"start_ref_usfm": "ISA 5:1",
+"end_ref": "23005007",
+"end_ref_usfm": "ISA 5:7"
+},
+{
 "start_ref": "27001001",
 "start_ref_usfm": "DAN 1:1",
 "end_ref": "27001007",
@@ -1555,6 +1567,12 @@
 "start_ref_usfm": "DAN 6:10",
 "end_ref": "27006018",
 "end_ref_usfm": "DAN 6:18"
+},
+{
+"start_ref": "27009015",
+"start_ref_usfm": "DAN 9:15",
+"end_ref": "27009019",
+"end_ref_usfm": "DAN 9:19"
 },
 {
 "start_ref": "40005033",
@@ -1693,24 +1711,6 @@
 "start_ref_usfm": "LUK 10:38",
 "end_ref": "42010042",
 "end_ref_usfm": "LUK 10:42"
-},
-{
-"start_ref": "42012001",
-"start_ref_usfm": "LUK 12:1",
-"end_ref": "42012012",
-"end_ref_usfm": "LUK 12:12"
-},
-{
-"start_ref": "42013001",
-"start_ref_usfm": "LUK 13:1",
-"end_ref": "42013009",
-"end_ref_usfm": "LUK 13:9"
-},
-{
-"start_ref": "42013022",
-"start_ref_usfm": "LUK 13:22",
-"end_ref": "42013030",
-"end_ref_usfm": "LUK 13:30"
 }
 ],
 "resource": [
@@ -1819,6 +1819,12 @@
 "start_ref_usfm": "EST 4:12",
 "end_ref": "17004017",
 "end_ref_usfm": "EST 4:17"
+},
+{
+"start_ref": "27009001",
+"start_ref_usfm": "DAN 9:1",
+"end_ref": "27009014",
+"end_ref_usfm": "DAN 9:14"
 },
 {
 "start_ref": "32003001",
@@ -1994,6 +2000,12 @@
 "start_ref_usfm": "EST 4:12",
 "end_ref": "17004017",
 "end_ref_usfm": "EST 4:17"
+},
+{
+"start_ref": "27009001",
+"start_ref_usfm": "DAN 9:1",
+"end_ref": "27009014",
+"end_ref_usfm": "DAN 9:14"
 },
 {
 "start_ref": "32003001",
@@ -3479,14 +3491,14 @@
 "type": "place",
 "confidence": 0.9535,
 "match_method": "embedding",
-"preferred_label": "Judah"
+"preferred_label": "Juda"
 },
 {
 "id": "person:Judas",
 "type": "person",
 "confidence": 0.8645,
 "match_method": "embedding",
-"preferred_label": "Judas"
+"preferred_label": "Jude"
 },
 {
 "id": "person:Judas.2",
@@ -3514,7 +3526,7 @@
 "type": "person",
 "confidence": 0.8645,
 "match_method": "embedding",
-"preferred_label": "Judas"
+"preferred_label": "Jude"
 }
 ]
 }
@@ -4384,6 +4396,12 @@
 "end_ref_usfm": "PSA 1:6"
 },
 {
+"start_ref": "23004002",
+"start_ref_usfm": "ISA 4:2",
+"end_ref": "23004006",
+"end_ref_usfm": "ISA 4:6"
+},
+{
 "start_ref": "27007015",
 "start_ref_usfm": "DAN 7:15",
 "end_ref": "27007028",
@@ -4463,7 +4481,7 @@
 "type": "person",
 "confidence": 0.5603,
 "match_method": "scored",
-"preferred_label": "Dinaite"
+"preferred_label": "Dinaïte"
 }
 ]
 }
@@ -5202,6 +5220,24 @@
 "end_ref_usfm": "EST 1:22"
 },
 {
+"start_ref": "23001010",
+"start_ref_usfm": "ISA 1:10",
+"end_ref": "23001020",
+"end_ref_usfm": "ISA 1:20"
+},
+{
+"start_ref": "23005001",
+"start_ref_usfm": "ISA 5:1",
+"end_ref": "23005007",
+"end_ref_usfm": "ISA 5:7"
+},
+{
+"start_ref": "23005008",
+"start_ref_usfm": "ISA 5:8",
+"end_ref": "23005017",
+"end_ref_usfm": "ISA 5:17"
+},
+{
 "start_ref": "40023023",
 "start_ref_usfm": "MAT 23:23",
 "end_ref": "40023028",
@@ -5419,10 +5455,46 @@
 "end_ref_usfm": "PSA 1:6"
 },
 {
+"start_ref": "23005001",
+"start_ref_usfm": "ISA 5:1",
+"end_ref": "23005007",
+"end_ref_usfm": "ISA 5:7"
+},
+{
+"start_ref": "23005008",
+"start_ref_usfm": "ISA 5:8",
+"end_ref": "23005017",
+"end_ref_usfm": "ISA 5:17"
+},
+{
 "start_ref": "27004019",
 "start_ref_usfm": "DAN 4:19",
 "end_ref": "27004027",
 "end_ref_usfm": "DAN 4:27"
+},
+{
+"start_ref": "27009001",
+"start_ref_usfm": "DAN 9:1",
+"end_ref": "27009014",
+"end_ref_usfm": "DAN 9:14"
+},
+{
+"start_ref": "27009015",
+"start_ref_usfm": "DAN 9:15",
+"end_ref": "27009019",
+"end_ref_usfm": "DAN 9:19"
+},
+{
+"start_ref": "27009020",
+"start_ref_usfm": "DAN 9:20",
+"end_ref": "27009027",
+"end_ref_usfm": "DAN 9:27"
+},
+{
+"start_ref": "27011036",
+"start_ref_usfm": "DAN 11:36",
+"end_ref": "27012003",
+"end_ref_usfm": "DAN 12:3"
 },
 {
 "start_ref": "40001018",
@@ -5807,18 +5879,6 @@
 "start_ref_usfm": "1JN 1:5",
 "end_ref": "62002002",
 "end_ref_usfm": "1JN 2:2"
-},
-{
-"start_ref": "62002029",
-"start_ref_usfm": "1JN 2:29",
-"end_ref": "62003010",
-"end_ref_usfm": "1JN 3:10"
-},
-{
-"start_ref": "62005013",
-"start_ref_usfm": "1JN 5:13",
-"end_ref": "62005021",
-"end_ref_usfm": "1JN 5:21"
 }
 ],
 "resource": [
@@ -5830,15 +5890,7 @@
 "language": "fra"
 }
 ],
-"acai": [
-{
-"id": "keyterm:UnjustDeed",
-"type": "keyterm",
-"confidence": 0.5701,
-"match_method": "scored",
-"preferred_label": "méfaits"
-}
-]
+"acai": []
 }
 },
 {
@@ -6028,10 +6080,46 @@
 "end_ref_usfm": "PSA 1:6"
 },
 {
+"start_ref": "23005001",
+"start_ref_usfm": "ISA 5:1",
+"end_ref": "23005007",
+"end_ref_usfm": "ISA 5:7"
+},
+{
+"start_ref": "23005008",
+"start_ref_usfm": "ISA 5:8",
+"end_ref": "23005017",
+"end_ref_usfm": "ISA 5:17"
+},
+{
 "start_ref": "27004019",
 "start_ref_usfm": "DAN 4:19",
 "end_ref": "27004027",
 "end_ref_usfm": "DAN 4:27"
+},
+{
+"start_ref": "27009001",
+"start_ref_usfm": "DAN 9:1",
+"end_ref": "27009014",
+"end_ref_usfm": "DAN 9:14"
+},
+{
+"start_ref": "27009015",
+"start_ref_usfm": "DAN 9:15",
+"end_ref": "27009019",
+"end_ref_usfm": "DAN 9:19"
+},
+{
+"start_ref": "27009020",
+"start_ref_usfm": "DAN 9:20",
+"end_ref": "27009027",
+"end_ref_usfm": "DAN 9:27"
+},
+{
+"start_ref": "27011036",
+"start_ref_usfm": "DAN 11:36",
+"end_ref": "27012003",
+"end_ref_usfm": "DAN 12:3"
 },
 {
 "start_ref": "40001018",
@@ -6416,18 +6504,6 @@
 "start_ref_usfm": "1JN 1:5",
 "end_ref": "62002002",
 "end_ref_usfm": "1JN 2:2"
-},
-{
-"start_ref": "62002029",
-"start_ref_usfm": "1JN 2:29",
-"end_ref": "62003010",
-"end_ref_usfm": "1JN 3:10"
-},
-{
-"start_ref": "62005013",
-"start_ref_usfm": "1JN 5:13",
-"end_ref": "62005021",
-"end_ref_usfm": "1JN 5:21"
 }
 ],
 "resource": [
@@ -6453,6 +6529,12 @@
 "content": "<p>Lorsqu&#x27;une personne <b>justifie</b> quelqu&#x27;un, elle le déclare non coupable. Quand Dieu déclare une personne non coupable, cela signifie que la personne est <data class=\"resource-ref\" data-content-id=\"fra-t111-v1\" data-resource-code=\"FIAKeyTerms\">juste</data> et a une bonne relation avec Dieu. Dans le Nouveau Testament, Dieu ne justifiera une personne que si elle met sa confiance en Jésus comme le <data class=\"resource-ref\" data-content-id=\"fra-t119-v1\" data-resource-code=\"FIAKeyTerms\">Sauveur</data>, ou le <data class=\"resource-ref\" data-content-id=\"fra-t23-v1.0.1\" data-resource-code=\"FIAKeyTerms\">Christ</data> que Dieu a envoyé pour délivrer les hommes de leurs <data class=\"resource-ref\" data-content-id=\"fra-t125-v1\" data-resource-code=\"FIAKeyTerms\">péchés</data>. Cela signifie que les croyants en Jésus peuvent avoir une relation juste avec Dieu et Dieu les justifie.</p>",
 "associations": {
 "passage": [
+{
+"start_ref": "27008001",
+"start_ref_usfm": "DAN 8:1",
+"end_ref": "27008014",
+"end_ref_usfm": "DAN 8:14"
+},
 {
 "start_ref": "44013023",
 "start_ref_usfm": "ACT 13:23",

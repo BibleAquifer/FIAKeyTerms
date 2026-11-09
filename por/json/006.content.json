@@ -1378,7 +1378,7 @@
 "type": "group",
 "confidence": 0.623,
 "match_method": "scored",
-"preferred_label": "Pharisees"
+"preferred_label": "fariseus"
 }
 ]
 }
@@ -2022,18 +2022,18 @@
 "resource": [],
 "acai": [
 {
+"id": "group:Phoenicia",
+"type": "group",
+"confidence": 0.6571,
+"match_method": "scored",
+"preferred_label": "siro-fenícios"
+},
+{
 "id": "place:Phoenicia",
 "type": "place",
 "confidence": 0.6571,
 "match_method": "scored",
 "preferred_label": "Fenícia"
-},
-{
-"id": "group:Phoenicia",
-"type": "group",
-"confidence": 0.6571,
-"match_method": "scored",
-"preferred_label": "Syrophoenicians"
 }
 ]
 }
@@ -2369,14 +2369,14 @@
 "type": "realia",
 "confidence": 0.5664,
 "match_method": "scored",
-"preferred_label": "Festival of the Tabernacles"
+"preferred_label": "Festa dos Tabernáculos"
 },
 {
 "id": "keyterm:FeastOfTabernacles",
 "type": "keyterm",
 "confidence": 0.5582,
 "match_method": "scored",
-"preferred_label": "feast of tabernacles"
+"preferred_label": "Festa dos Tabernáculos"
 }
 ]
 }
@@ -2449,7 +2449,7 @@
 "type": "flora",
 "confidence": 0.6598,
 "match_method": "scored",
-"preferred_label": "Fig"
+"preferred_label": "figo"
 }
 ]
 }
@@ -3862,7 +3862,7 @@
 "type": "keyterm",
 "confidence": 0.8756,
 "match_method": "embedding",
-"preferred_label": "strength"
+"preferred_label": "força"
 }
 ]
 }

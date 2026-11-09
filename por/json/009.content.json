@@ -288,6 +288,12 @@
 "end_ref_usfm": "2CH 34:33"
 },
 {
+"start_ref": "27011002",
+"start_ref_usfm": "DAN 11:2",
+"end_ref": "27011013",
+"end_ref_usfm": "DAN 11:13"
+},
+{
 "start_ref": "32001017",
 "start_ref_usfm": "JON 1:17",
 "end_ref": "32002010",
@@ -410,9 +416,9 @@
 {
 "id": "deity:Teraphim",
 "type": "deity",
-"confidence": 0.6063,
+"confidence": 0.6062,
 "match_method": "scored",
-"preferred_label": "terafins"
+"preferred_label": "Terafins"
 }
 ]
 }
@@ -777,7 +783,7 @@
 "type": "keyterm",
 "confidence": 0.9331,
 "match_method": "embedding",
-"preferred_label": "igreja"
+"preferred_label": "Igreja"
 }
 ]
 }
@@ -1050,7 +1056,7 @@
 "type": "place",
 "confidence": 0.8722,
 "match_method": "embedding",
-"preferred_label": "Hell"
+"preferred_label": "Inferno"
 }
 ]
 }
@@ -1233,7 +1239,7 @@
 "type": "person",
 "confidence": 0.6291,
 "match_method": "scored",
-"preferred_label": "Elisabete"
+"preferred_label": "Isabel"
 }
 ]
 }
@@ -1251,6 +1257,12 @@
 "associations": {
 "passage": [
 {
+"start_ref": "12019001",
+"start_ref_usfm": "2KI 19:1",
+"end_ref": "12019007",
+"end_ref_usfm": "2KI 19:7"
+},
+{
 "start_ref": "41007001",
 "start_ref_usfm": "MRK 7:1",
 "end_ref": "41007008",
@@ -1262,16 +1274,9 @@
 {
 "id": "person:Isaiah",
 "type": "person",
-"confidence": 1.0,
-"match_method": "embedding",
+"confidence": 0.5567,
+"match_method": "scored",
 "preferred_label": "Isaías"
-},
-{
-"id": "person:Izziah",
-"type": "person",
-"confidence": 0.8057,
-"match_method": "embedding",
-"preferred_label": "Jezias"
 }
 ]
 }
@@ -1903,7 +1908,7 @@
 "type": "group",
 "confidence": 0.6,
 "match_method": "scored",
-"preferred_label": "Israelites"
+"preferred_label": "israelitas"
 }
 ]
 }
@@ -2662,7 +2667,7 @@
 "type": "group",
 "confidence": 0.5786,
 "match_method": "scored",
-"preferred_label": "Israelites"
+"preferred_label": "israelitas"
 }
 ]
 }

@@ -379,9 +379,9 @@
 {
 "id": "keyterm:Authority.2",
 "type": "keyterm",
-"confidence": 0.5858,
+"confidence": 0.5846,
 "match_method": "scored",
-"preferred_label": "Authority"
+"preferred_label": "अधिकार"
 }
 ]
 }
@@ -405,7 +405,7 @@
 "type": "deity",
 "confidence": 0.594,
 "match_method": "scored",
-"preferred_label": "Holy Spirit"
+"preferred_label": "पवित्र आत्मा"
 }
 ]
 }
@@ -630,14 +630,14 @@
 "type": "group",
 "confidence": 0.6066,
 "match_method": "scored",
-"preferred_label": "Greeks"
+"preferred_label": "ग्रीकहरू"
 },
 {
 "id": "place:Canaan",
 "type": "place",
 "confidence": 0.6007,
 "match_method": "scored",
-"preferred_label": "Canaan"
+"preferred_label": "कनान"
 }
 ]
 }
@@ -732,7 +732,7 @@
 "type": "person",
 "confidence": 0.6529,
 "match_method": "scored",
-"preferred_label": "Abraham"
+"preferred_label": "अब्राहाम"
 }
 ]
 }

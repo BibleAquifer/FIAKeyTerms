@@ -403,7 +403,7 @@
 "type": "group",
 "confidence": 0.6271,
 "match_method": "scored",
-"preferred_label": "Canaan"
+"preferred_label": "Cananéens"
 }
 ]
 }
@@ -1048,7 +1048,7 @@
 "type": "person",
 "confidence": 0.6029,
 "match_method": "scored",
-"preferred_label": "Nero"
+"preferred_label": "Néron"
 }
 ]
 }
@@ -1318,7 +1318,7 @@
 "type": "fauna",
 "confidence": 0.8729,
 "match_method": "embedding",
-"preferred_label": "Camel"
+"preferred_label": "chameau"
 }
 ]
 }
@@ -1649,7 +1649,7 @@
 "type": "realia",
 "confidence": 0.6115,
 "match_method": "scored",
-"preferred_label": "Winged Creature"
+"preferred_label": "créature ailée"
 }
 ]
 }
@@ -1729,7 +1729,7 @@
 "type": "group",
 "confidence": 0.6246,
 "match_method": "scored",
-"preferred_label": "chrétien"
+"preferred_label": "chrétiens"
 }
 ]
 }
@@ -3472,6 +3472,30 @@
 "end_ref_usfm": "DAN 7:28"
 },
 {
+"start_ref": "27008001",
+"start_ref_usfm": "DAN 8:1",
+"end_ref": "27008014",
+"end_ref_usfm": "DAN 8:14"
+},
+{
+"start_ref": "27011002",
+"start_ref_usfm": "DAN 11:2",
+"end_ref": "27011013",
+"end_ref_usfm": "DAN 11:13"
+},
+{
+"start_ref": "27011036",
+"start_ref_usfm": "DAN 11:36",
+"end_ref": "27012003",
+"end_ref_usfm": "DAN 12:3"
+},
+{
+"start_ref": "27012004",
+"start_ref_usfm": "DAN 12:4",
+"end_ref": "27012013",
+"end_ref_usfm": "DAN 12:13"
+},
+{
 "start_ref": "32001001",
 "start_ref_usfm": "JON 1:1",
 "end_ref": "32001016",
@@ -3578,30 +3602,6 @@
 "start_ref_usfm": "MAT 18:10",
 "end_ref": "40018014",
 "end_ref_usfm": "MAT 18:14"
-},
-{
-"start_ref": "40021023",
-"start_ref_usfm": "MAT 21:23",
-"end_ref": "40021032",
-"end_ref_usfm": "MAT 21:32"
-},
-{
-"start_ref": "40022023",
-"start_ref_usfm": "MAT 22:23",
-"end_ref": "40022033",
-"end_ref_usfm": "MAT 22:33"
-},
-{
-"start_ref": "40023013",
-"start_ref_usfm": "MAT 23:13",
-"end_ref": "40023022",
-"end_ref_usfm": "MAT 23:22"
-},
-{
-"start_ref": "40024029",
-"start_ref_usfm": "MAT 24:29",
-"end_ref": "40024036",
-"end_ref_usfm": "MAT 24:36"
 }
 ],
 "resource": [
@@ -4097,6 +4097,30 @@
 "end_ref_usfm": "DAN 7:28"
 },
 {
+"start_ref": "27008001",
+"start_ref_usfm": "DAN 8:1",
+"end_ref": "27008014",
+"end_ref_usfm": "DAN 8:14"
+},
+{
+"start_ref": "27011002",
+"start_ref_usfm": "DAN 11:2",
+"end_ref": "27011013",
+"end_ref_usfm": "DAN 11:13"
+},
+{
+"start_ref": "27011036",
+"start_ref_usfm": "DAN 11:36",
+"end_ref": "27012003",
+"end_ref_usfm": "DAN 12:3"
+},
+{
+"start_ref": "27012004",
+"start_ref_usfm": "DAN 12:4",
+"end_ref": "27012013",
+"end_ref_usfm": "DAN 12:13"
+},
+{
 "start_ref": "32001001",
 "start_ref_usfm": "JON 1:1",
 "end_ref": "32001016",
@@ -4203,30 +4227,6 @@
 "start_ref_usfm": "MAT 18:10",
 "end_ref": "40018014",
 "end_ref_usfm": "MAT 18:14"
-},
-{
-"start_ref": "40021023",
-"start_ref_usfm": "MAT 21:23",
-"end_ref": "40021032",
-"end_ref_usfm": "MAT 21:32"
-},
-{
-"start_ref": "40022023",
-"start_ref_usfm": "MAT 22:23",
-"end_ref": "40022033",
-"end_ref_usfm": "MAT 22:33"
-},
-{
-"start_ref": "40023013",
-"start_ref_usfm": "MAT 23:13",
-"end_ref": "40023022",
-"end_ref_usfm": "MAT 23:22"
-},
-{
-"start_ref": "40024029",
-"start_ref_usfm": "MAT 24:29",
-"end_ref": "40024036",
-"end_ref_usfm": "MAT 24:36"
 }
 ],
 "resource": [
@@ -4577,7 +4577,7 @@
 "type": "keyterm",
 "confidence": 0.5988,
 "match_method": "scored",
-"preferred_label": "Circumcision"
+"preferred_label": "circoncision"
 }
 ]
 }
@@ -5210,7 +5210,7 @@
 "type": "keyterm",
 "confidence": 0.8856,
 "match_method": "embedding",
-"preferred_label": "coeur"
+"preferred_label": "cœur"
 }
 ]
 }
@@ -5891,7 +5891,7 @@
 "type": "fauna",
 "confidence": 0.8515,
 "match_method": "embedding",
-"preferred_label": "Dove"
+"preferred_label": "colombe"
 }
 ]
 }
@@ -6456,6 +6456,12 @@
 "end_ref_usfm": "NEH 12:47"
 },
 {
+"start_ref": "27009001",
+"start_ref_usfm": "DAN 9:1",
+"end_ref": "27009014",
+"end_ref_usfm": "DAN 9:14"
+},
+{
 "start_ref": "40015001",
 "start_ref_usfm": "MAT 15:1",
 "end_ref": "40015020",
@@ -6545,7 +6551,7 @@
 {
 "id": "keyterm:Commandment",
 "type": "keyterm",
-"confidence": 0.5698,
+"confidence": 0.5696,
 "match_method": "scored",
 "preferred_label": "commandement"
 }
@@ -7913,7 +7919,7 @@
 "type": "keyterm",
 "confidence": 0.8544,
 "match_method": "embedding",
-"preferred_label": "dévot"
+"preferred_label": "craignant Dieu"
 }
 ]
 }
@@ -8559,7 +8565,7 @@
 "type": "realia",
 "confidence": 0.8648,
 "match_method": "embedding",
-"preferred_label": "Cross"
+"preferred_label": "croix"
 }
 ]
 }

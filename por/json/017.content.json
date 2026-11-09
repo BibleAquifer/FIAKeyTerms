@@ -156,7 +156,7 @@
 "type": "realia",
 "confidence": 0.5962,
 "match_method": "scored",
-"preferred_label": "Casting Net"
+"preferred_label": "rede de arremesso"
 }
 ]
 }
@@ -2099,10 +2099,34 @@
 "end_ref_usfm": "DAN 7:28"
 },
 {
+"start_ref": "27008015",
+"start_ref_usfm": "DAN 8:15",
+"end_ref": "27008027",
+"end_ref_usfm": "DAN 8:27"
+},
+{
 "start_ref": "27010010",
 "start_ref_usfm": "DAN 10:10",
 "end_ref": "27011001",
 "end_ref_usfm": "DAN 11:1"
+},
+{
+"start_ref": "27011002",
+"start_ref_usfm": "DAN 11:2",
+"end_ref": "27011013",
+"end_ref_usfm": "DAN 11:13"
+},
+{
+"start_ref": "27011014",
+"start_ref_usfm": "DAN 11:14",
+"end_ref": "27011020",
+"end_ref_usfm": "DAN 11:20"
+},
+{
+"start_ref": "27011021",
+"start_ref_usfm": "DAN 11:21",
+"end_ref": "27011028",
+"end_ref_usfm": "DAN 11:28"
 },
 {
 "start_ref": "40009027",
@@ -2169,12 +2193,6 @@
 "start_ref_usfm": "JHN 18:28",
 "end_ref": "43018040",
 "end_ref_usfm": "JHN 18:40"
-},
-{
-"start_ref": "44001006",
-"start_ref_usfm": "ACT 1:6",
-"end_ref": "44001011",
-"end_ref_usfm": "ACT 1:11"
 }
 ],
 "resource": [],
@@ -2184,7 +2202,7 @@
 "type": "keyterm",
 "confidence": 0.9235,
 "match_method": "embedding",
-"preferred_label": "reino"
+"preferred_label": "Reino"
 }
 ]
 }
@@ -2921,7 +2939,7 @@
 "type": "keyterm",
 "confidence": 0.6276,
 "match_method": "scored",
-"preferred_label": "levantamento"
+"preferred_label": "ressurreição"
 }
 ]
 }
@@ -3113,10 +3131,46 @@
 "end_ref_usfm": "PSA 1:6"
 },
 {
+"start_ref": "23005001",
+"start_ref_usfm": "ISA 5:1",
+"end_ref": "23005007",
+"end_ref_usfm": "ISA 5:7"
+},
+{
+"start_ref": "23005008",
+"start_ref_usfm": "ISA 5:8",
+"end_ref": "23005017",
+"end_ref_usfm": "ISA 5:17"
+},
+{
 "start_ref": "27004019",
 "start_ref_usfm": "DAN 4:19",
 "end_ref": "27004027",
 "end_ref_usfm": "DAN 4:27"
+},
+{
+"start_ref": "27009001",
+"start_ref_usfm": "DAN 9:1",
+"end_ref": "27009014",
+"end_ref_usfm": "DAN 9:14"
+},
+{
+"start_ref": "27009015",
+"start_ref_usfm": "DAN 9:15",
+"end_ref": "27009019",
+"end_ref_usfm": "DAN 9:19"
+},
+{
+"start_ref": "27009020",
+"start_ref_usfm": "DAN 9:20",
+"end_ref": "27009027",
+"end_ref_usfm": "DAN 9:27"
+},
+{
+"start_ref": "27011036",
+"start_ref_usfm": "DAN 11:36",
+"end_ref": "27012003",
+"end_ref_usfm": "DAN 12:3"
 },
 {
 "start_ref": "40001018",
@@ -3501,30 +3555,10 @@
 "start_ref_usfm": "1JN 1:5",
 "end_ref": "62002002",
 "end_ref_usfm": "1JN 2:2"
-},
-{
-"start_ref": "62002029",
-"start_ref_usfm": "1JN 2:29",
-"end_ref": "62003010",
-"end_ref_usfm": "1JN 3:10"
-},
-{
-"start_ref": "62005013",
-"start_ref_usfm": "1JN 5:13",
-"end_ref": "62005021",
-"end_ref_usfm": "1JN 5:21"
 }
 ],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:UnjustDeed",
-"type": "keyterm",
-"confidence": 0.5701,
-"match_method": "scored",
-"preferred_label": "injustiça"
-}
-]
+"acai": []
 }
 },
 {
@@ -3883,7 +3917,7 @@
 "type": "place",
 "confidence": 0.659,
 "match_method": "scored",
-"preferred_label": "Jordan River"
+"preferred_label": "Rio Jordão"
 }
 ]
 }

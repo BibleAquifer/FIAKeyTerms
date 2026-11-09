@@ -36,15 +36,7 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": [
-{
-"id": "group:Gentile",
-"type": "group",
-"confidence": 0.5667,
-"match_method": "scored",
-"preferred_label": "Gentiles"
-}
-]
+"acai": []
 }
 },
 {
@@ -203,7 +195,7 @@
 "type": "keyterm",
 "confidence": 0.9117,
 "match_method": "embedding",
-"preferred_label": "Holy"
+"preferred_label": "-takatifu"
 }
 ]
 }
@@ -447,14 +439,14 @@
 "type": "realia",
 "confidence": 0.5664,
 "match_method": "scored",
-"preferred_label": "Festival of the Tabernacles"
+"preferred_label": "Sikukuu ya Vibanda"
 },
 {
 "id": "keyterm:FeastOfTabernacles",
 "type": "keyterm",
 "confidence": 0.5582,
 "match_method": "scored",
-"preferred_label": "Feast of Tabernacles"
+"preferred_label": "Sikukuu ya Vibanda"
 }
 ]
 }
@@ -685,7 +677,7 @@
 "type": "keyterm",
 "confidence": 0.5988,
 "match_method": "scored",
-"preferred_label": "Circumcision"
+"preferred_label": "Tohara"
 }
 ]
 }

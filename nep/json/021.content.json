@@ -131,7 +131,7 @@
 "type": "realia",
 "confidence": 0.555,
 "match_method": "scored",
-"preferred_label": "Tabernacle"
+"preferred_label": "पवित्र वासस्थान"
 }
 ]
 }
@@ -191,7 +191,7 @@
 "type": "deity",
 "confidence": 0.7336,
 "match_method": "scored",
-"preferred_label": "LORD"
+"preferred_label": "परमप्रभु"
 }
 ]
 }
@@ -334,7 +334,7 @@
 "type": "keyterm",
 "confidence": 0.8544,
 "match_method": "embedding",
-"preferred_label": "God-Fearing"
+"preferred_label": "परमेश्वरको भय मान्ने"
 }
 ]
 }
@@ -596,7 +596,7 @@
 "type": "keyterm",
 "confidence": 0.9117,
 "match_method": "embedding",
-"preferred_label": "Holy"
+"preferred_label": "पवित्र"
 }
 ]
 }
@@ -743,7 +743,7 @@
 "type": "deity",
 "confidence": 0.6382,
 "match_method": "scored",
-"preferred_label": "Holy Spirit"
+"preferred_label": "पवित्र आत्मा"
 }
 ]
 }
@@ -817,7 +817,7 @@
 "type": "realia",
 "confidence": 0.5505,
 "match_method": "scored",
-"preferred_label": "Tabernacle"
+"preferred_label": "पवित्र वासस्थान"
 }
 ]
 }
@@ -909,9 +909,9 @@
 {
 "id": "realia:Tower",
 "type": "realia",
-"confidence": 0.5836,
+"confidence": 0.5877,
 "match_method": "scored",
-"preferred_label": "Tower"
+"preferred_label": "धरहरा"
 }
 ]
 }
@@ -943,7 +943,7 @@
 "type": "keyterm",
 "confidence": 0.5661,
 "match_method": "scored",
-"preferred_label": "Hypocrisy"
+"preferred_label": "कपट"
 }
 ]
 }
@@ -1132,7 +1132,7 @@
 "type": "person",
 "confidence": 0.8264,
 "match_method": "embedding",
-"preferred_label": "Sheal"
+"preferred_label": "शाल"
 }
 ]
 }
@@ -1324,7 +1324,7 @@
 "type": "keyterm",
 "confidence": 0.6276,
 "match_method": "scored",
-"preferred_label": "Resurrection"
+"preferred_label": "पुनरुत्थान"
 }
 ]
 }
@@ -1785,7 +1785,7 @@
 "type": "deity",
 "confidence": 0.8379,
 "match_method": "embedding",
-"preferred_label": "LORD"
+"preferred_label": "परमप्रभु"
 }
 ]
 }
@@ -1817,7 +1817,7 @@
 "type": "person",
 "confidence": 0.638,
 "match_method": "scored",
-"preferred_label": "Jesus"
+"preferred_label": "येशू"
 }
 ]
 }
@@ -1889,7 +1889,7 @@
 "type": "keyterm",
 "confidence": 0.8398,
 "match_method": "embedding",
-"preferred_label": "Praise"
+"preferred_label": "प्रशंसा"
 }
 ]
 }
@@ -1980,7 +1980,7 @@
 "type": "keyterm",
 "confidence": 0.8937,
 "match_method": "embedding",
-"preferred_label": "Pray"
+"preferred_label": "प्रार्थना गर्नु"
 }
 ]
 }

@@ -96,7 +96,7 @@
 "type": "keyterm",
 "confidence": 0.6637,
 "match_method": "scored",
-"preferred_label": "Passover"
+"preferred_label": "فِصْح"
 }
 ]
 }
@@ -175,7 +175,7 @@
 "type": "keyterm",
 "confidence": 0.9108,
 "match_method": "embedding",
-"preferred_label": "Paradise"
+"preferred_label": "فِرْدَوْس"
 }
 ]
 }
@@ -207,14 +207,14 @@
 "type": "person",
 "confidence": 0.5893,
 "match_method": "scored",
-"preferred_label": "فِرْعَوْنَ"
+"preferred_label": "فِرْعَوْن"
 },
 {
 "id": "person:Pharaoh.4",
 "type": "person",
 "confidence": 0.5676,
 "match_method": "scored",
-"preferred_label": "فِرْعَوْنَ"
+"preferred_label": "فِرْعَوْن"
 }
 ]
 }
@@ -288,7 +288,7 @@
 "type": "group",
 "confidence": 0.623,
 "match_method": "scored",
-"preferred_label": "Pharisees"
+"preferred_label": "الفريسيون"
 }
 ]
 }
@@ -332,18 +332,18 @@
 ],
 "acai": [
 {
-"id": "place:Phoenicia",
-"type": "place",
-"confidence": 0.6571,
-"match_method": "scored",
-"preferred_label": "فِينِيقِيَّةً"
-},
-{
 "id": "group:Phoenicia",
 "type": "group",
 "confidence": 0.6571,
 "match_method": "scored",
-"preferred_label": "Syrophoenicians"
+"preferred_label": "السوريون الفينيقيون"
+},
+{
+"id": "place:Phoenicia",
+"type": "place",
+"confidence": 0.6571,
+"match_method": "scored",
+"preferred_label": "فِينِيقِيَة"
 }
 ]
 }

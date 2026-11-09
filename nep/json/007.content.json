@@ -82,14 +82,14 @@
 "type": "place",
 "confidence": 0.6506,
 "match_method": "scored",
-"preferred_label": "Canaan"
+"preferred_label": "कनान"
 },
 {
 "id": "group:Canaan",
 "type": "group",
 "confidence": 0.6271,
 "match_method": "scored",
-"preferred_label": "Canaanites"
+"preferred_label": "कनानीहरू"
 }
 ]
 }
@@ -151,7 +151,7 @@
 "type": "place",
 "confidence": 0.6221,
 "match_method": "scored",
-"preferred_label": "Capernaum"
+"preferred_label": "कफर्नहुम"
 }
 ]
 }
@@ -274,7 +274,7 @@
 "type": "keyterm",
 "confidence": 0.5892,
 "match_method": "scored",
-"preferred_label": "Covenant"
+"preferred_label": "करार"
 }
 ]
 }
@@ -327,7 +327,7 @@
 "type": "realia",
 "confidence": 0.6115,
 "match_method": "scored",
-"preferred_label": "Winged Creature"
+"preferred_label": "पखेटा भएको प्राणी"
 }
 ]
 }
@@ -351,14 +351,14 @@
 "type": "realia",
 "confidence": 0.5985,
 "match_method": "scored",
-"preferred_label": "Cornerstone"
+"preferred_label": "कुनेढुङ्गो"
 },
 {
 "id": "realia:Foundation",
 "type": "realia",
 "confidence": 0.5693,
 "match_method": "scored",
-"preferred_label": "Foundation"
+"preferred_label": "जग"
 }
 ]
 }
@@ -382,14 +382,14 @@
 "type": "realia",
 "confidence": 0.8794,
 "match_method": "embedding",
-"preferred_label": "Tunic"
+"preferred_label": "दौरा"
 },
 {
 "id": "realia:Tunic.2",
 "type": "realia",
 "confidence": 0.8794,
 "match_method": "embedding",
-"preferred_label": "Tunic"
+"preferred_label": "सुन्दर वस्त्र"
 }
 ]
 }
@@ -501,21 +501,21 @@
 "type": "person",
 "confidence": 0.6314,
 "match_method": "scored",
-"preferred_label": "Tiberius"
+"preferred_label": "तिबेरियस"
 },
 {
 "id": "person:Augustus",
 "type": "person",
 "confidence": 0.6057,
 "match_method": "scored",
-"preferred_label": "Augustus"
+"preferred_label": "अगस्टस"
 },
 {
 "id": "person:Nero",
 "type": "person",
 "confidence": 0.6029,
 "match_method": "scored",
-"preferred_label": "Nero"
+"preferred_label": "नीरो"
 }
 ]
 }
@@ -568,7 +568,7 @@
 "type": "place",
 "confidence": 0.673,
 "match_method": "scored",
-"preferred_label": "Caesarea Philippi"
+"preferred_label": "कैसरिया फिलिप्पी"
 }
 ]
 }
@@ -600,7 +600,7 @@
 "type": "realia",
 "confidence": 0.8648,
 "match_method": "embedding",
-"preferred_label": "Cross"
+"preferred_label": "क्रुस"
 }
 ]
 }

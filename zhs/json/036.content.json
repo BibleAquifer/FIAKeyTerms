@@ -42,6 +42,12 @@
 "end_ref_usfm": "NEH 13:22"
 },
 {
+"start_ref": "23005001",
+"start_ref_usfm": "ISA 5:1",
+"end_ref": "23005007",
+"end_ref_usfm": "ISA 5:7"
+},
+{
 "start_ref": "40009014",
 "start_ref_usfm": "MAT 9:14",
 "end_ref": "40009017",
@@ -65,9 +71,9 @@
 {
 "id": "realia:Winepress",
 "type": "realia",
-"confidence": 0.5881,
+"confidence": 0.5896,
 "match_method": "scored",
-"preferred_label": "Winepress"
+"preferred_label": "榨酒池"
 }
 ]
 }
@@ -440,7 +446,7 @@
 "type": "keyterm",
 "confidence": 0.5972,
 "match_method": "scored",
-"preferred_label": "Salvation"
+"preferred_label": "救恩"
 }
 ]
 }

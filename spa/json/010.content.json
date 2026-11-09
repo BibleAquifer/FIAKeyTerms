@@ -133,16 +133,16 @@
 {
 "id": "place:Jerusalem",
 "type": "place",
-"confidence": 0.6638,
+"confidence": 0.6656,
 "match_method": "scored",
-"preferred_label": "Jerusalem"
+"preferred_label": "Jerusalén"
 },
 {
 "id": "place:CityOfDavid",
 "type": "place",
 "confidence": 0.6,
 "match_method": "scored",
-"preferred_label": "City of David"
+"preferred_label": "Ciudad de David"
 }
 ]
 }
@@ -286,7 +286,7 @@
 "type": "place",
 "confidence": 0.5621,
 "match_method": "scored",
-"preferred_label": "Jerusalem"
+"preferred_label": "Jerusalén"
 }
 ]
 }
@@ -570,7 +570,7 @@
 "type": "place",
 "confidence": 0.659,
 "match_method": "scored",
-"preferred_label": "Jordán"
+"preferred_label": "Río Jordán"
 }
 ]
 }
@@ -594,7 +594,7 @@
 "type": "place",
 "confidence": 1.0,
 "match_method": "embedding",
-"preferred_label": "Judíos"
+"preferred_label": "Judea"
 },
 {
 "id": "person:Judah.3",
@@ -643,7 +643,7 @@
 "type": "place",
 "confidence": 0.9535,
 "match_method": "embedding",
-"preferred_label": "Judah"
+"preferred_label": "Judá"
 },
 {
 "id": "person:Judas",
@@ -702,7 +702,7 @@
 "type": "person",
 "confidence": 0.5603,
 "match_method": "scored",
-"preferred_label": "los"
+"preferred_label": "dinaíta"
 }
 ]
 }

@@ -286,14 +286,14 @@
 "type": "realia",
 "confidence": 0.8956,
 "match_method": "embedding",
-"preferred_label": "Boat"
+"preferred_label": "barco"
 },
 {
 "id": "realia:Ship",
 "type": "realia",
 "confidence": 0.8044,
 "match_method": "embedding",
-"preferred_label": "Ship"
+"preferred_label": "barco"
 }
 ]
 }
@@ -449,7 +449,7 @@
 "type": "realia",
 "confidence": 0.8727,
 "match_method": "embedding",
-"preferred_label": "Basket"
+"preferred_label": "cesta"
 }
 ]
 }
@@ -620,7 +620,7 @@
 "type": "place",
 "confidence": 0.6467,
 "match_method": "scored",
-"preferred_label": "Catah"
+"preferred_label": "Belén"
 }
 ]
 }
@@ -680,7 +680,7 @@
 "type": "place",
 "confidence": 0.68,
 "match_method": "scored",
-"preferred_label": "Bethsaida"
+"preferred_label": "Betsaida"
 }
 ]
 }
@@ -1077,7 +1077,7 @@
 "type": "keyterm",
 "confidence": 0.6305,
 "match_method": "scored",
-"preferred_label": "buena noticia"
+"preferred_label": "buenas noticias"
 }
 ]
 }

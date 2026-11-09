@@ -40,7 +40,7 @@
 "type": "keyterm",
 "confidence": 1.0,
 "match_method": "embedding",
-"preferred_label": "Word"
+"preferred_label": "वचन"
 }
 ]
 }
@@ -102,9 +102,9 @@
 {
 "id": "keyterm:Sabbath",
 "type": "keyterm",
-"confidence": 0.6017,
+"confidence": 0.6013,
 "match_method": "scored",
-"preferred_label": "Sabbath"
+"preferred_label": "शबाथ"
 }
 ]
 }
@@ -313,7 +313,7 @@
 "type": "realia",
 "confidence": 0.8735,
 "match_method": "embedding",
-"preferred_label": "Altar"
+"preferred_label": "वेदी"
 }
 ]
 }

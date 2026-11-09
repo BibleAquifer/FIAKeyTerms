@@ -444,6 +444,18 @@
 "end_ref_usfm": "PSA 3:8"
 },
 {
+"start_ref": "23004002",
+"start_ref_usfm": "ISA 4:2",
+"end_ref": "23004006",
+"end_ref_usfm": "ISA 4:6"
+},
+{
+"start_ref": "23005001",
+"start_ref_usfm": "ISA 5:1",
+"end_ref": "23005007",
+"end_ref_usfm": "ISA 5:7"
+},
+{
 "start_ref": "27001001",
 "start_ref_usfm": "DAN 1:1",
 "end_ref": "27001007",
@@ -454,6 +466,12 @@
 "start_ref_usfm": "DAN 6:10",
 "end_ref": "27006018",
 "end_ref_usfm": "DAN 6:18"
+},
+{
+"start_ref": "27009015",
+"start_ref_usfm": "DAN 9:15",
+"end_ref": "27009019",
+"end_ref_usfm": "DAN 9:19"
 },
 {
 "start_ref": "40005033",
@@ -592,24 +610,6 @@
 "start_ref_usfm": "LUK 10:38",
 "end_ref": "42010042",
 "end_ref_usfm": "LUK 10:42"
-},
-{
-"start_ref": "42012001",
-"start_ref_usfm": "LUK 12:1",
-"end_ref": "42012012",
-"end_ref_usfm": "LUK 12:12"
-},
-{
-"start_ref": "42013001",
-"start_ref_usfm": "LUK 13:1",
-"end_ref": "42013009",
-"end_ref_usfm": "LUK 13:9"
-},
-{
-"start_ref": "42013022",
-"start_ref_usfm": "LUK 13:22",
-"end_ref": "42013030",
-"end_ref_usfm": "LUK 13:30"
 }
 ],
 "resource": [],
@@ -617,16 +617,16 @@
 {
 "id": "place:Jerusalem",
 "type": "place",
-"confidence": 0.6638,
+"confidence": 0.6656,
 "match_method": "scored",
-"preferred_label": "Jerusalem"
+"preferred_label": "耶路撒冷"
 },
 {
 "id": "place:CityOfDavid",
 "type": "place",
 "confidence": 0.6,
 "match_method": "scored",
-"preferred_label": "City of David"
+"preferred_label": "大卫城"
 }
 ]
 }

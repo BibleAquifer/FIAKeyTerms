@@ -486,6 +486,18 @@
 "end_ref_usfm": "NEH 13:31"
 },
 {
+"start_ref": "27009001",
+"start_ref_usfm": "DAN 9:1",
+"end_ref": "27009014",
+"end_ref_usfm": "DAN 9:14"
+},
+{
+"start_ref": "27012004",
+"start_ref_usfm": "DAN 12:4",
+"end_ref": "27012013",
+"end_ref_usfm": "DAN 12:13"
+},
+{
 "start_ref": "40005033",
 "start_ref_usfm": "MAT 5:33",
 "end_ref": "40005042",
@@ -1041,6 +1053,18 @@
 "end_ref_usfm": "NEH 13:31"
 },
 {
+"start_ref": "27009001",
+"start_ref_usfm": "DAN 9:1",
+"end_ref": "27009014",
+"end_ref_usfm": "DAN 9:14"
+},
+{
+"start_ref": "27012004",
+"start_ref_usfm": "DAN 12:4",
+"end_ref": "27012013",
+"end_ref_usfm": "DAN 12:13"
+},
+{
 "start_ref": "40005033",
 "start_ref_usfm": "MAT 5:33",
 "end_ref": "40005042",
@@ -1557,10 +1581,22 @@
 "end_ref_usfm": "NEH 13:31"
 },
 {
+"start_ref": "23001010",
+"start_ref_usfm": "ISA 1:10",
+"end_ref": "23001020",
+"end_ref_usfm": "ISA 1:20"
+},
+{
 "start_ref": "27002046",
 "start_ref_usfm": "DAN 2:46",
 "end_ref": "27002049",
 "end_ref_usfm": "DAN 2:49"
+},
+{
+"start_ref": "27009020",
+"start_ref_usfm": "DAN 9:20",
+"end_ref": "27009027",
+"end_ref_usfm": "DAN 9:27"
 },
 {
 "start_ref": "40002001",
@@ -1618,7 +1654,7 @@
 {
 "id": "keyterm:Offering",
 "type": "keyterm",
-"confidence": 0.6516,
+"confidence": 0.6512,
 "match_method": "scored",
 "preferred_label": "Offering"
 }
@@ -2082,10 +2118,22 @@
 "end_ref_usfm": "NEH 13:31"
 },
 {
+"start_ref": "23001010",
+"start_ref_usfm": "ISA 1:10",
+"end_ref": "23001020",
+"end_ref_usfm": "ISA 1:20"
+},
+{
 "start_ref": "27002046",
 "start_ref_usfm": "DAN 2:46",
 "end_ref": "27002049",
 "end_ref_usfm": "DAN 2:49"
+},
+{
+"start_ref": "27009020",
+"start_ref_usfm": "DAN 9:20",
+"end_ref": "27009027",
+"end_ref_usfm": "DAN 9:27"
 },
 {
 "start_ref": "40002001",
@@ -5632,6 +5680,12 @@
 "start_ref_usfm": "NEH 10:28",
 "end_ref": "16010039",
 "end_ref_usfm": "NEH 10:39"
+},
+{
+"start_ref": "27009001",
+"start_ref_usfm": "DAN 9:1",
+"end_ref": "27009014",
+"end_ref_usfm": "DAN 9:14"
 }
 ],
 "resource": [
@@ -5891,6 +5945,12 @@
 "start_ref_usfm": "NEH 10:28",
 "end_ref": "16010039",
 "end_ref_usfm": "NEH 10:39"
+},
+{
+"start_ref": "27009001",
+"start_ref_usfm": "DAN 9:1",
+"end_ref": "27009014",
+"end_ref_usfm": "DAN 9:14"
 }
 ],
 "resource": [

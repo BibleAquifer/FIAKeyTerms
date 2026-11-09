@@ -124,7 +124,7 @@
 "type": "realia",
 "confidence": 0.555,
 "match_method": "scored",
-"preferred_label": "Tabernacle"
+"preferred_label": "tabernáculo"
 }
 ]
 }
@@ -463,7 +463,7 @@
 "type": "realia",
 "confidence": 0.9344,
 "match_method": "embedding",
-"preferred_label": "Temple"
+"preferred_label": "Templo"
 }
 ]
 }
@@ -633,14 +633,14 @@
 "type": "realia",
 "confidence": 0.8794,
 "match_method": "embedding",
-"preferred_label": "Tunic"
+"preferred_label": "túnica"
 },
 {
 "id": "realia:Tunic.2",
 "type": "realia",
 "confidence": 0.8794,
 "match_method": "embedding",
-"preferred_label": "Tunic"
+"preferred_label": "túnica"
 }
 ]
 }

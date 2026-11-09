@@ -156,7 +156,7 @@
 "type": "keyterm",
 "confidence": 0.6276,
 "match_method": "scored",
-"preferred_label": "levantamiento"
+"preferred_label": "resurrección"
 }
 ]
 }
@@ -174,15 +174,7 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": [
-{
-"id": "keyterm:UnjustDeed",
-"type": "keyterm",
-"confidence": 0.5701,
-"match_method": "scored",
-"preferred_label": "injusticia"
-}
-]
+"acai": []
 }
 },
 {
@@ -212,7 +204,7 @@
 "type": "realia",
 "confidence": 0.8797,
 "match_method": "embedding",
-"preferred_label": "Robe"
+"preferred_label": "manto"
 }
 ]
 }

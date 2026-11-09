@@ -648,7 +648,7 @@
 "type": "keyterm",
 "confidence": 0.8557,
 "match_method": "embedding",
-"preferred_label": "bless"
+"preferred_label": "abençoar"
 }
 ]
 }
@@ -2025,7 +2025,7 @@
 "type": "deity",
 "confidence": 0.594,
 "match_method": "scored",
-"preferred_label": "Holy Spirit"
+"preferred_label": "Espírito Santo"
 }
 ]
 }
@@ -2577,6 +2577,30 @@
 "end_ref_usfm": "NEH 13:31"
 },
 {
+"start_ref": "27009001",
+"start_ref_usfm": "DAN 9:1",
+"end_ref": "27009014",
+"end_ref_usfm": "DAN 9:14"
+},
+{
+"start_ref": "27009020",
+"start_ref_usfm": "DAN 9:20",
+"end_ref": "27009027",
+"end_ref_usfm": "DAN 9:27"
+},
+{
+"start_ref": "27011021",
+"start_ref_usfm": "DAN 11:21",
+"end_ref": "27011028",
+"end_ref_usfm": "DAN 11:28"
+},
+{
+"start_ref": "27011029",
+"start_ref_usfm": "DAN 11:29",
+"end_ref": "27011035",
+"end_ref_usfm": "DAN 11:35"
+},
+{
 "start_ref": "40026026",
 "start_ref_usfm": "MAT 26:26",
 "end_ref": "40026035",
@@ -2617,24 +2641,6 @@
 "start_ref_usfm": "2CO 3:4",
 "end_ref": "47003011",
 "end_ref_usfm": "2CO 3:11"
-},
-{
-"start_ref": "47003012",
-"start_ref_usfm": "2CO 3:12",
-"end_ref": "47003018",
-"end_ref_usfm": "2CO 3:18"
-},
-{
-"start_ref": "48003015",
-"start_ref_usfm": "GAL 3:15",
-"end_ref": "48003018",
-"end_ref_usfm": "GAL 3:18"
-},
-{
-"start_ref": "48004021",
-"start_ref_usfm": "GAL 4:21",
-"end_ref": "48004027",
-"end_ref_usfm": "GAL 4:27"
 }
 ],
 "resource": [],
@@ -2644,7 +2650,7 @@
 "type": "keyterm",
 "confidence": 0.5892,
 "match_method": "scored",
-"preferred_label": "Covenant"
+"preferred_label": "aliança"
 }
 ]
 }
@@ -3532,7 +3538,7 @@
 "type": "realia",
 "confidence": 0.8735,
 "match_method": "embedding",
-"preferred_label": "Altar"
+"preferred_label": "altar"
 }
 ]
 }
@@ -5561,6 +5567,12 @@
 "end_ref_usfm": "DAN 7:14"
 },
 {
+"start_ref": "27011002",
+"start_ref_usfm": "DAN 11:2",
+"end_ref": "27011013",
+"end_ref_usfm": "DAN 11:13"
+},
+{
 "start_ref": "40010001",
 "start_ref_usfm": "MAT 10:1",
 "end_ref": "40010015",
@@ -5716,7 +5728,7 @@
 {
 "id": "keyterm:Authority.2",
 "type": "keyterm",
-"confidence": 0.5858,
+"confidence": 0.5846,
 "match_method": "scored",
 "preferred_label": "autoridade"
 }

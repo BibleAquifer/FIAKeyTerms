@@ -418,6 +418,12 @@
 "end_ref_usfm": "2KI 18:37"
 },
 {
+"start_ref": "12019001",
+"start_ref_usfm": "2KI 19:1",
+"end_ref": "12019007",
+"end_ref_usfm": "2KI 19:7"
+},
+{
 "start_ref": "27002046",
 "start_ref_usfm": "DAN 2:46",
 "end_ref": "27002049",
@@ -669,6 +675,12 @@
 "start_ref_usfm": "2KI 18:26",
 "end_ref": "12018037",
 "end_ref_usfm": "2KI 18:37"
+},
+{
+"start_ref": "12019001",
+"start_ref_usfm": "2KI 19:1",
+"end_ref": "12019007",
+"end_ref_usfm": "2KI 19:7"
 },
 {
 "start_ref": "27002046",
@@ -1044,6 +1056,18 @@
 "end_ref_usfm": "DAN 4:27"
 },
 {
+"start_ref": "27009001",
+"start_ref_usfm": "DAN 9:1",
+"end_ref": "27009014",
+"end_ref_usfm": "DAN 9:14"
+},
+{
+"start_ref": "27009015",
+"start_ref_usfm": "DAN 9:15",
+"end_ref": "27009019",
+"end_ref_usfm": "DAN 9:19"
+},
+{
 "start_ref": "40005001",
 "start_ref_usfm": "MAT 5:1",
 "end_ref": "40005012",
@@ -1411,6 +1435,18 @@
 "start_ref_usfm": "DAN 4:19",
 "end_ref": "27004027",
 "end_ref_usfm": "DAN 4:27"
+},
+{
+"start_ref": "27009001",
+"start_ref_usfm": "DAN 9:1",
+"end_ref": "27009014",
+"end_ref_usfm": "DAN 9:14"
+},
+{
+"start_ref": "27009015",
+"start_ref_usfm": "DAN 9:15",
+"end_ref": "27009019",
+"end_ref_usfm": "DAN 9:19"
 },
 {
 "start_ref": "40005001",
@@ -2364,6 +2400,12 @@
 "end_ref_usfm": "DAN 7:8"
 },
 {
+"start_ref": "27010010",
+"start_ref_usfm": "DAN 10:10",
+"end_ref": "27011001",
+"end_ref_usfm": "DAN 11:1"
+},
+{
 "start_ref": "40022034",
 "start_ref_usfm": "MAT 22:34",
 "end_ref": "40022046",
@@ -2504,6 +2546,12 @@
 "start_ref_usfm": "DAN 7:1",
 "end_ref": "27007008",
 "end_ref_usfm": "DAN 7:8"
+},
+{
+"start_ref": "27010010",
+"start_ref_usfm": "DAN 10:10",
+"end_ref": "27011001",
+"end_ref_usfm": "DAN 11:1"
 },
 {
 "start_ref": "40022034",
@@ -3321,6 +3369,12 @@
 "start_ref_usfm": "2CH 5:2",
 "end_ref": "14005014",
 "end_ref_usfm": "2CH 5:14"
+},
+{
+"start_ref": "27009020",
+"start_ref_usfm": "DAN 9:20",
+"end_ref": "27009027",
+"end_ref_usfm": "DAN 9:27"
 }
 ],
 "resource": [
@@ -3336,7 +3390,7 @@
 {
 "id": "place:MostHolyPlace",
 "type": "place",
-"confidence": 0.6209,
+"confidence": 0.6199,
 "match_method": "scored",
 "preferred_label": "Most Holy Place"
 },
@@ -3445,6 +3499,12 @@
 "start_ref_usfm": "2CH 5:2",
 "end_ref": "14005014",
 "end_ref_usfm": "2CH 5:14"
+},
+{
+"start_ref": "27009020",
+"start_ref_usfm": "DAN 9:20",
+"end_ref": "27009027",
+"end_ref_usfm": "DAN 9:27"
 }
 ],
 "resource": [

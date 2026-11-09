@@ -1762,7 +1762,7 @@
 "type": "realia",
 "confidence": 0.8797,
 "match_method": "embedding",
-"preferred_label": "Robe"
+"preferred_label": "robe"
 }
 ]
 }
@@ -3767,10 +3767,34 @@
 "end_ref_usfm": "DAN 7:28"
 },
 {
+"start_ref": "27008015",
+"start_ref_usfm": "DAN 8:15",
+"end_ref": "27008027",
+"end_ref_usfm": "DAN 8:27"
+},
+{
 "start_ref": "27010010",
 "start_ref_usfm": "DAN 10:10",
 "end_ref": "27011001",
 "end_ref_usfm": "DAN 11:1"
+},
+{
+"start_ref": "27011002",
+"start_ref_usfm": "DAN 11:2",
+"end_ref": "27011013",
+"end_ref_usfm": "DAN 11:13"
+},
+{
+"start_ref": "27011014",
+"start_ref_usfm": "DAN 11:14",
+"end_ref": "27011020",
+"end_ref_usfm": "DAN 11:20"
+},
+{
+"start_ref": "27011021",
+"start_ref_usfm": "DAN 11:21",
+"end_ref": "27011028",
+"end_ref_usfm": "DAN 11:28"
 },
 {
 "start_ref": "40009027",
@@ -3837,12 +3861,6 @@
 "start_ref_usfm": "JHN 18:28",
 "end_ref": "43018040",
 "end_ref_usfm": "JHN 18:40"
-},
-{
-"start_ref": "44001006",
-"start_ref_usfm": "ACT 1:6",
-"end_ref": "44001011",
-"end_ref_usfm": "ACT 1:11"
 }
 ],
 "resource": [
@@ -3860,7 +3878,7 @@
 "type": "keyterm",
 "confidence": 0.9235,
 "match_method": "embedding",
-"preferred_label": "régne"
+"preferred_label": "royaume"
 }
 ]
 }
@@ -4376,10 +4394,34 @@
 "end_ref_usfm": "DAN 7:28"
 },
 {
+"start_ref": "27008015",
+"start_ref_usfm": "DAN 8:15",
+"end_ref": "27008027",
+"end_ref_usfm": "DAN 8:27"
+},
+{
 "start_ref": "27010010",
 "start_ref_usfm": "DAN 10:10",
 "end_ref": "27011001",
 "end_ref_usfm": "DAN 11:1"
+},
+{
+"start_ref": "27011002",
+"start_ref_usfm": "DAN 11:2",
+"end_ref": "27011013",
+"end_ref_usfm": "DAN 11:13"
+},
+{
+"start_ref": "27011014",
+"start_ref_usfm": "DAN 11:14",
+"end_ref": "27011020",
+"end_ref_usfm": "DAN 11:20"
+},
+{
+"start_ref": "27011021",
+"start_ref_usfm": "DAN 11:21",
+"end_ref": "27011028",
+"end_ref_usfm": "DAN 11:28"
 },
 {
 "start_ref": "40009027",
@@ -4446,12 +4488,6 @@
 "start_ref_usfm": "JHN 18:28",
 "end_ref": "43018040",
 "end_ref_usfm": "JHN 18:40"
-},
-{
-"start_ref": "44001006",
-"start_ref_usfm": "ACT 1:6",
-"end_ref": "44001011",
-"end_ref_usfm": "ACT 1:11"
 }
 ],
 "resource": [

@@ -120,7 +120,7 @@
 "type": "group",
 "confidence": 0.6168,
 "match_method": "scored",
-"preferred_label": "Sadducees"
+"preferred_label": "الصدوقيون"
 }
 ]
 }
@@ -173,7 +173,7 @@
 "type": "keyterm",
 "confidence": 0.8937,
 "match_method": "embedding",
-"preferred_label": "Pray"
+"preferred_label": "صلّى"
 }
 ]
 }
@@ -288,7 +288,7 @@
 "type": "realia",
 "confidence": 0.8648,
 "match_method": "embedding",
-"preferred_label": "Cross"
+"preferred_label": "صَليب"
 }
 ]
 }
@@ -339,9 +339,9 @@
 {
 "id": "place:Jerusalem",
 "type": "place",
-"confidence": 0.6538,
+"confidence": 0.6702,
 "match_method": "scored",
-"preferred_label": "أورشَلِيمَ"
+"preferred_label": "أُورُشَلِيم"
 }
 ]
 }
@@ -401,7 +401,7 @@
 "type": "place",
 "confidence": 0.6545,
 "match_method": "scored",
-"preferred_label": "صورَ"
+"preferred_label": "صُورُ"
 }
 ]
 }

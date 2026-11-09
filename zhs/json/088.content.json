@@ -204,6 +204,24 @@
 "end_ref_usfm": "DAN 5:31"
 },
 {
+"start_ref": "27011029",
+"start_ref_usfm": "DAN 11:29",
+"end_ref": "27011035",
+"end_ref_usfm": "DAN 11:35"
+},
+{
+"start_ref": "27011036",
+"start_ref_usfm": "DAN 11:36",
+"end_ref": "27012003",
+"end_ref_usfm": "DAN 12:3"
+},
+{
+"start_ref": "27012004",
+"start_ref_usfm": "DAN 12:4",
+"end_ref": "27012013",
+"end_ref_usfm": "DAN 12:13"
+},
+{
 "start_ref": "40010016",
 "start_ref_usfm": "MAT 10:16",
 "end_ref": "40010025",
@@ -409,7 +427,7 @@
 "type": "person",
 "confidence": 0.8899,
 "match_method": "embedding",
-"preferred_label": "Wisdom"
+"preferred_label": "智慧（拟人化）"
 }
 ]
 }

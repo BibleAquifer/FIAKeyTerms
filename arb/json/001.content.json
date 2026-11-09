@@ -605,7 +605,7 @@
 "type": "keyterm",
 "confidence": 0.6305,
 "match_method": "scored",
-"preferred_label": "Good News"
+"preferred_label": "بشارة"
 }
 ]
 }
@@ -705,14 +705,14 @@
 "type": "person",
 "confidence": 0.696,
 "match_method": "scored",
-"preferred_label": "إِسْرَائِيلَ"
+"preferred_label": "إِسْرَائِيل"
 },
 {
 "id": "group:Israel",
 "type": "group",
 "confidence": 0.6,
 "match_method": "scored",
-"preferred_label": "Israelites"
+"preferred_label": "بنو إسرائيل"
 }
 ]
 }
@@ -784,16 +784,9 @@
 {
 "id": "person:Isaiah",
 "type": "person",
-"confidence": 1.0,
-"match_method": "embedding",
+"confidence": 0.5567,
+"match_method": "scored",
 "preferred_label": "إِشَعْيَاء"
-},
-{
-"id": "person:Izziah",
-"type": "person",
-"confidence": 0.8057,
-"match_method": "embedding",
-"preferred_label": "يِزِّيَّا"
 }
 ]
 }
@@ -870,7 +863,7 @@
 "type": "keyterm",
 "confidence": 0.832,
 "match_method": "embedding",
-"preferred_label": "Wickedness"
+"preferred_label": "شَرّ"
 }
 ]
 }
@@ -1176,15 +1169,7 @@
 "associations": {
 "passage": [],
 "resource": [],
-"acai": [
-{
-"id": "group:Gentile",
-"type": "group",
-"confidence": 0.5667,
-"match_method": "scored",
-"preferred_label": "Gentiles"
-}
-]
+"acai": []
 }
 },
 {
@@ -1214,7 +1199,7 @@
 "type": "keyterm",
 "confidence": 0.8132,
 "match_method": "embedding",
-"preferred_label": "Proverb"
+"preferred_label": "مَثَل"
 }
 ]
 }
@@ -1323,7 +1308,7 @@
 "type": "group",
 "confidence": 0.6066,
 "match_method": "scored",
-"preferred_label": "Greeks"
+"preferred_label": "اليونانيون"
 },
 {
 "id": "place:Canaan",
@@ -1501,16 +1486,16 @@
 {
 "id": "place:Jerusalem",
 "type": "place",
-"confidence": 0.6638,
+"confidence": 0.6656,
 "match_method": "scored",
-"preferred_label": "أورشَلِيمَ"
+"preferred_label": "أُورُشَلِيم"
 },
 {
 "id": "place:CityOfDavid",
 "type": "place",
 "confidence": 0.6,
 "match_method": "scored",
-"preferred_label": "City of David"
+"preferred_label": "مَدِينَة دَاوُد"
 }
 ]
 }
@@ -1549,7 +1534,7 @@
 "type": "keyterm",
 "confidence": 0.6364,
 "match_method": "scored",
-"preferred_label": "Hosanna"
+"preferred_label": "أُوصَنَّا"
 }
 ]
 }
