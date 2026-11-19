@@ -602,7 +602,7 @@
 {
 "id": "realia:WingedCreature",
 "type": "realia",
-"confidence": 0.6115,
+"confidence": 0.6116,
 "match_method": "scored",
 "preferred_label": "criatura alada"
 }
@@ -947,7 +947,7 @@
 {
 "id": "keyterm:Circumcision",
 "type": "keyterm",
-"confidence": 0.5988,
+"confidence": 0.598,
 "match_method": "scored",
 "preferred_label": "circuncisión"
 }
@@ -1250,14 +1250,14 @@
 {
 "id": "realia:Cornerstone",
 "type": "realia",
-"confidence": 0.5985,
+"confidence": 0.5915,
 "match_method": "scored",
 "preferred_label": "piedra angular"
 },
 {
 "id": "realia:Foundation",
 "type": "realia",
-"confidence": 0.5693,
+"confidence": 0.5755,
 "match_method": "scored",
 "preferred_label": "cimiento"
 }
@@ -1380,7 +1380,7 @@
 {
 "id": "keyterm:Covenant",
 "type": "keyterm",
-"confidence": 0.5892,
+"confidence": 0.5895,
 "match_method": "scored",
 "preferred_label": "pacto"
 }

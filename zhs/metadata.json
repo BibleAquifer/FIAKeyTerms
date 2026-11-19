@@ -29,7 +29,7 @@
 },
 "adaptation_notice": "<p><b>Familiarization, Internalization, Articulation (FIA) Key Terms</b> © 2025 Word Collective Released under CC BY-SA 4.0 license. <cite>Familiarization, Internalization, Articulation (FIA) Key Terms</cite> has been adapted in the following languages Tok Pisin, عربي, Français, हिंदी, Bahasa Indonesia, Português, Русский, Español, Kiswahili, 简体中文 from <cite>Familiarization, Internalization, Articulation (FIA)</cite> © 2025 Word Collective. Released under CC BY-SA 4.0 license by Mission Mutual</p>",
 "resource_code": "FIAKeyTerms",
-"date_created": "2026-11-09",
+"date_created": "2026-11-18",
 "language": "zhs",
 "localizations": [
 "arb",
@@ -53,7 +53,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-11-09T14:48:19.726303"
+"dateCreated": "2026-11-18T17:20:24.091201"
 },
 "idAuthorities": {
 "aquifer": {
@@ -67,7 +67,7 @@
 "primary": {
 "aquifer": {
 "FIAKeyTerms": {
-"timestamp": "2026-11-09T14:48:19.726303"
+"timestamp": "2026-11-18T17:20:24.091201"
 }
 }
 },
@@ -173,7 +173,7 @@
 },
 "json/009.content.json": {
 "mimeType": "text/json",
-"size": 25364,
+"size": 25373,
 "scope": {
 "dao": [
 "祷告",
@@ -238,7 +238,7 @@
 },
 "json/016.content.json": {
 "mimeType": "text/json",
-"size": 6009,
+"size": 6232,
 "scope": {
 "fang": [
 "方言",
@@ -286,7 +286,7 @@
 },
 "json/021.content.json": {
 "mimeType": "text/json",
-"size": 17842,
+"size": 17847,
 "scope": {
 "gong": [
 "公会",
@@ -314,7 +314,7 @@
 },
 "json/024.content.json": {
 "mimeType": "text/json",
-"size": 22992,
+"size": 23108,
 "scope": {
 "guo": [
 "国",
@@ -405,7 +405,7 @@
 },
 "json/033.content.json": {
 "mimeType": "text/json",
-"size": 14960,
+"size": 15071,
 "scope": {
 "jie": [
 "洁净/不洁净"
@@ -432,7 +432,7 @@
 },
 "json/036.content.json": {
 "mimeType": "text/json",
-"size": 10415,
+"size": 10637,
 "scope": {
 "jiu": [
 "酒榨",
@@ -452,7 +452,7 @@
 },
 "json/038.content.json": {
 "mimeType": "text/json",
-"size": 13634,
+"size": 13639,
 "scope": {
 "kuang": [
 "筐子、箱子、篮子",
@@ -481,7 +481,7 @@
 },
 "json/041.content.json": {
 "mimeType": "text/json",
-"size": 11240,
+"size": 11351,
 "scope": {
 "lian": [
 "怜悯",
@@ -491,7 +491,7 @@
 },
 "json/042.content.json": {
 "mimeType": "text/json",
-"size": 16623,
+"size": 16845,
 "scope": {
 "ling": [
 "灵",
@@ -585,7 +585,7 @@
 },
 "json/052.content.json": {
 "mimeType": "text/json",
-"size": 18738,
+"size": 18849,
 "scope": {
 "pu": [
 "仆人",
@@ -640,7 +640,7 @@
 },
 "json/058.content.json": {
 "mimeType": "text/json",
-"size": 15356,
+"size": 15577,
 "scope": {
 "rong": [
 "荣耀",
@@ -803,7 +803,7 @@
 },
 "json/074.content.json": {
 "mimeType": "text/json",
-"size": 27911,
+"size": 28133,
 "scope": {
 "xie": [
 "邪恶",
@@ -853,7 +853,7 @@
 },
 "json/079.content.json": {
 "mimeType": "text/json",
-"size": 12505,
+"size": 12508,
 "scope": {
 "ye": [
 "耶路撒冷"
@@ -883,7 +883,7 @@
 },
 "json/082.content.json": {
 "mimeType": "text/json",
-"size": 15604,
+"size": 15607,
 "scope": {
 "you": [
 "犹大（旧约）犹太（新约）",
@@ -913,7 +913,7 @@
 },
 "json/085.content.json": {
 "mimeType": "text/json",
-"size": 27654,
+"size": 27657,
 "scope": {
 "yue": [
 "约",
@@ -942,7 +942,7 @@
 },
 "json/088.content.json": {
 "mimeType": "text/json",
-"size": 8943,
+"size": 9055,
 "scope": {
 "zhi": [
 "智慧"
@@ -969,7 +969,7 @@
 },
 "json/091.content.json": {
 "mimeType": "text/json",
-"size": 32712,
+"size": 32711,
 "scope": {
 "zhu": [
 "主",
@@ -1014,7 +1014,7 @@
 },
 "md/038.content.md": {
 "mimeType": "text/markdown",
-"size": 3855
+"size": 3858
 },
 "md/092.content.md": {
 "mimeType": "text/markdown",
@@ -1038,7 +1038,7 @@
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 7355
+"size": 7366
 },
 "md/056.content.md": {
 "mimeType": "text/markdown",
@@ -1070,7 +1070,7 @@
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 3506
+"size": 3551
 },
 "md/075.content.md": {
 "mimeType": "text/markdown",
@@ -1110,7 +1110,7 @@
 },
 "md/042.content.md": {
 "mimeType": "text/markdown",
-"size": 6926
+"size": 6970
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
@@ -1146,7 +1146,7 @@
 },
 "md/033.content.md": {
 "mimeType": "text/markdown",
-"size": 6008
+"size": 6030
 },
 "md/066.content.md": {
 "mimeType": "text/markdown",
@@ -1162,11 +1162,11 @@
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 6301
+"size": 6305
 },
 "md/074.content.md": {
 "mimeType": "text/markdown",
-"size": 8621
+"size": 8665
 },
 "md/047.content.md": {
 "mimeType": "text/markdown",
@@ -1190,7 +1190,7 @@
 },
 "md/052.content.md": {
 "mimeType": "text/markdown",
-"size": 6114
+"size": 6139
 },
 "md/007.content.md": {
 "mimeType": "text/markdown",
@@ -1210,7 +1210,7 @@
 },
 "md/036.content.md": {
 "mimeType": "text/markdown",
-"size": 4253
+"size": 4297
 },
 "md/076.content.md": {
 "mimeType": "text/markdown",
@@ -1230,7 +1230,7 @@
 },
 "md/024.content.md": {
 "mimeType": "text/markdown",
-"size": 5394
+"size": 5418
 },
 "md/006.content.md": {
 "mimeType": "text/markdown",
@@ -1254,7 +1254,7 @@
 },
 "md/041.content.md": {
 "mimeType": "text/markdown",
-"size": 3918
+"size": 3940
 },
 "md/013.content.md": {
 "mimeType": "text/markdown",
@@ -1274,7 +1274,7 @@
 },
 "md/088.content.md": {
 "mimeType": "text/markdown",
-"size": 3328
+"size": 3351
 },
 "md/022.content.md": {
 "mimeType": "text/markdown",
@@ -1314,11 +1314,11 @@
 },
 "md/082.content.md": {
 "mimeType": "text/markdown",
-"size": 5299
+"size": 5301
 },
 "md/085.content.md": {
 "mimeType": "text/markdown",
-"size": 11591
+"size": 11590
 },
 "md/019.content.md": {
 "mimeType": "text/markdown",
@@ -1346,11 +1346,11 @@
 },
 "md/091.content.md": {
 "mimeType": "text/markdown",
-"size": 9384
+"size": 9382
 },
 "md/058.content.md": {
 "mimeType": "text/markdown",
-"size": 4905
+"size": 4948
 },
 "md/018.content.md": {
 "mimeType": "text/markdown",

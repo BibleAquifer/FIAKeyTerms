@@ -588,6 +588,18 @@
 "end_ref_usfm": "NEH 9:25"
 },
 {
+"start_ref": "23027007",
+"start_ref_usfm": "ISA 27:7",
+"end_ref": "23027013",
+"end_ref_usfm": "ISA 27:13"
+},
+{
+"start_ref": "23041017",
+"start_ref_usfm": "ISA 41:17",
+"end_ref": "23041020",
+"end_ref_usfm": "ISA 41:20"
+},
+{
 "start_ref": "40003001",
 "start_ref_usfm": "MAT 3:1",
 "end_ref": "40003017",
@@ -598,18 +610,6 @@
 "start_ref_usfm": "MAT 11:7",
 "end_ref": "40011019",
 "end_ref_usfm": "MAT 11:19"
-},
-{
-"start_ref": "41001001",
-"start_ref_usfm": "MRK 1:1",
-"end_ref": "41001013",
-"end_ref_usfm": "MRK 1:13"
-},
-{
-"start_ref": "41008001",
-"start_ref_usfm": "MRK 8:1",
-"end_ref": "41008010",
-"end_ref_usfm": "MRK 8:10"
 }
 ],
 "resource": [
@@ -2892,6 +2892,12 @@
 "end_ref_usfm": "NEH 9:31"
 },
 {
+"start_ref": "23052001",
+"start_ref_usfm": "ISA 52:1",
+"end_ref": "23052012",
+"end_ref_usfm": "ISA 52:12"
+},
+{
 "start_ref": "40009001",
 "start_ref_usfm": "MAT 9:1",
 "end_ref": "40009008",
@@ -3196,6 +3202,12 @@
 "start_ref_usfm": "2CH 32:24",
 "end_ref": "14032033",
 "end_ref_usfm": "2CH 32:33"
+},
+{
+"start_ref": "23028007",
+"start_ref_usfm": "ISA 28:7",
+"end_ref": "23028013",
+"end_ref_usfm": "ISA 28:13"
 },
 {
 "start_ref": "27001008",
@@ -5801,6 +5813,12 @@
 "end_ref_usfm": "NEH 13:31"
 },
 {
+"start_ref": "23028014",
+"start_ref_usfm": "ISA 28:14",
+"end_ref": "23028022",
+"end_ref_usfm": "ISA 28:22"
+},
+{
 "start_ref": "27009001",
 "start_ref_usfm": "DAN 9:1",
 "end_ref": "27009014",
@@ -5859,12 +5877,6 @@
 "start_ref_usfm": "1CO 11:17",
 "end_ref": "46011026",
 "end_ref_usfm": "1CO 11:26"
-},
-{
-"start_ref": "47003004",
-"start_ref_usfm": "2CO 3:4",
-"end_ref": "47003011",
-"end_ref_usfm": "2CO 3:11"
 }
 ],
 "resource": [
@@ -5971,7 +5983,7 @@
 {
 "id": "keyterm:Covenant",
 "type": "keyterm",
-"confidence": 0.5892,
+"confidence": 0.5895,
 "match_method": "scored",
 "preferred_label": "perjanjian"
 }

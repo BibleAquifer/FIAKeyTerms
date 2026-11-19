@@ -354,6 +354,24 @@
 "end_ref_usfm": "EST 10:3"
 },
 {
+"start_ref": "23026007",
+"start_ref_usfm": "ISA 26:7",
+"end_ref": "23026019",
+"end_ref_usfm": "ISA 26:19"
+},
+{
+"start_ref": "23026020",
+"start_ref_usfm": "ISA 26:20",
+"end_ref": "23027006",
+"end_ref_usfm": "ISA 27:6"
+},
+{
+"start_ref": "23052001",
+"start_ref_usfm": "ISA 52:1",
+"end_ref": "23052012",
+"end_ref_usfm": "ISA 52:12"
+},
+{
 "start_ref": "27010010",
 "start_ref_usfm": "DAN 10:10",
 "end_ref": "27011001",
@@ -592,24 +610,6 @@
 "start_ref_usfm": "2TI 1:1",
 "end_ref": "55001007",
 "end_ref_usfm": "2TI 1:7"
-},
-{
-"start_ref": "55002020",
-"start_ref_usfm": "2TI 2:20",
-"end_ref": "55002026",
-"end_ref_usfm": "2TI 2:26"
-},
-{
-"start_ref": "56001001",
-"start_ref_usfm": "TIT 1:1",
-"end_ref": "56001004",
-"end_ref_usfm": "TIT 1:4"
-},
-{
-"start_ref": "56003001",
-"start_ref_usfm": "TIT 3:1",
-"end_ref": "56003011",
-"end_ref_usfm": "TIT 3:11"
 }
 ],
 "resource": [
@@ -2900,6 +2900,18 @@
 "end_ref_usfm": "ISA 1:20"
 },
 {
+"start_ref": "23028007",
+"start_ref_usfm": "ISA 28:7",
+"end_ref": "23028013",
+"end_ref_usfm": "ISA 28:13"
+},
+{
+"start_ref": "23028014",
+"start_ref_usfm": "ISA 28:14",
+"end_ref": "23028022",
+"end_ref_usfm": "ISA 28:22"
+},
+{
 "start_ref": "27010001",
 "start_ref_usfm": "DAN 10:1",
 "end_ref": "27010009",
@@ -3108,18 +3120,6 @@
 "start_ref_usfm": "TIT 1:5",
 "end_ref": "56001009",
 "end_ref_usfm": "TIT 1:9"
-},
-{
-"start_ref": "56002001",
-"start_ref_usfm": "TIT 2:1",
-"end_ref": "56002010",
-"end_ref_usfm": "TIT 2:10"
-},
-{
-"start_ref": "59001012",
-"start_ref_usfm": "JAS 1:12",
-"end_ref": "59001018",
-"end_ref_usfm": "JAS 1:18"
 }
 ],
 "resource": [
@@ -3533,6 +3533,18 @@
 "end_ref_usfm": "ISA 1:20"
 },
 {
+"start_ref": "23028007",
+"start_ref_usfm": "ISA 28:7",
+"end_ref": "23028013",
+"end_ref_usfm": "ISA 28:13"
+},
+{
+"start_ref": "23028014",
+"start_ref_usfm": "ISA 28:14",
+"end_ref": "23028022",
+"end_ref_usfm": "ISA 28:22"
+},
+{
 "start_ref": "27010001",
 "start_ref_usfm": "DAN 10:1",
 "end_ref": "27010009",
@@ -3741,18 +3753,6 @@
 "start_ref_usfm": "TIT 1:5",
 "end_ref": "56001009",
 "end_ref_usfm": "TIT 1:9"
-},
-{
-"start_ref": "56002001",
-"start_ref_usfm": "TIT 2:1",
-"end_ref": "56002010",
-"end_ref_usfm": "TIT 2:10"
-},
-{
-"start_ref": "59001012",
-"start_ref_usfm": "JAS 1:12",
-"end_ref": "59001018",
-"end_ref_usfm": "JAS 1:18"
 }
 ],
 "resource": [
@@ -6491,6 +6491,12 @@
 "associations": {
 "passage": [
 {
+"start_ref": "23028014",
+"start_ref_usfm": "ISA 28:14",
+"end_ref": "23028022",
+"end_ref_usfm": "ISA 28:22"
+},
+{
 "start_ref": "40021033",
 "start_ref_usfm": "MAT 21:33",
 "end_ref": "40021046",
@@ -6528,14 +6534,14 @@
 {
 "id": "realia:Cornerstone",
 "type": "realia",
-"confidence": 0.5985,
+"confidence": 0.5915,
 "match_method": "scored",
 "preferred_label": "pierre angulaire"
 },
 {
 "id": "realia:Foundation",
 "type": "realia",
-"confidence": 0.5693,
+"confidence": 0.5755,
 "match_method": "scored",
 "preferred_label": "fondement"
 }
@@ -6554,6 +6560,12 @@
 "content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/fra/t28/v1/vbr4.mp3'>mp3 file</a> (1.2 MB)</p>",
 "associations": {
 "passage": [
+{
+"start_ref": "23028014",
+"start_ref_usfm": "ISA 28:14",
+"end_ref": "23028022",
+"end_ref_usfm": "ISA 28:22"
+},
 {
 "start_ref": "40021033",
 "start_ref_usfm": "MAT 21:33",
@@ -7039,6 +7051,12 @@
 "end_ref_usfm": "2KI 19:7"
 },
 {
+"start_ref": "12019014",
+"start_ref_usfm": "2KI 19:14",
+"end_ref": "12019019",
+"end_ref_usfm": "2KI 19:19"
+},
+{
 "start_ref": "13005018",
 "start_ref_usfm": "1CH 5:18",
 "end_ref": "13005026",
@@ -7139,6 +7157,12 @@
 "start_ref_usfm": "ISA 1:10",
 "end_ref": "23001020",
 "end_ref_usfm": "ISA 1:20"
+},
+{
+"start_ref": "23026007",
+"start_ref_usfm": "ISA 26:7",
+"end_ref": "23026019",
+"end_ref_usfm": "ISA 26:19"
 },
 {
 "start_ref": "27006010",
@@ -7487,18 +7511,6 @@
 "start_ref_usfm": "1TI 5:1",
 "end_ref": "54005008",
 "end_ref_usfm": "1TI 5:8"
-},
-{
-"start_ref": "55001001",
-"start_ref_usfm": "2TI 1:1",
-"end_ref": "55001007",
-"end_ref_usfm": "2TI 1:7"
-},
-{
-"start_ref": "59005013",
-"start_ref_usfm": "JAS 5:13",
-"end_ref": "59005020",
-"end_ref_usfm": "JAS 5:20"
 }
 ],
 "resource": [
@@ -7672,6 +7684,12 @@
 "end_ref_usfm": "2KI 19:7"
 },
 {
+"start_ref": "12019014",
+"start_ref_usfm": "2KI 19:14",
+"end_ref": "12019019",
+"end_ref_usfm": "2KI 19:19"
+},
+{
 "start_ref": "13005018",
 "start_ref_usfm": "1CH 5:18",
 "end_ref": "13005026",
@@ -7772,6 +7790,12 @@
 "start_ref_usfm": "ISA 1:10",
 "end_ref": "23001020",
 "end_ref_usfm": "ISA 1:20"
+},
+{
+"start_ref": "23026007",
+"start_ref_usfm": "ISA 26:7",
+"end_ref": "23026019",
+"end_ref_usfm": "ISA 26:19"
 },
 {
 "start_ref": "27006010",
@@ -8120,18 +8144,6 @@
 "start_ref_usfm": "1TI 5:1",
 "end_ref": "54005008",
 "end_ref_usfm": "1TI 5:8"
-},
-{
-"start_ref": "55001001",
-"start_ref_usfm": "2TI 1:1",
-"end_ref": "55001007",
-"end_ref_usfm": "2TI 1:7"
-},
-{
-"start_ref": "59005013",
-"start_ref_usfm": "JAS 5:13",
-"end_ref": "59005020",
-"end_ref_usfm": "JAS 5:20"
 }
 ],
 "resource": [
@@ -10041,6 +10053,12 @@
 "end_ref_usfm": "ISA 4:6"
 },
 {
+"start_ref": "23052001",
+"start_ref_usfm": "ISA 52:1",
+"end_ref": "23052012",
+"end_ref_usfm": "ISA 52:12"
+},
+{
 "start_ref": "27008001",
 "start_ref_usfm": "DAN 8:1",
 "end_ref": "27008014",
@@ -10554,6 +10572,12 @@
 "start_ref_usfm": "NEH 7:61",
 "end_ref": "16007065",
 "end_ref_usfm": "NEH 7:65"
+},
+{
+"start_ref": "23052001",
+"start_ref_usfm": "ISA 52:1",
+"end_ref": "23052012",
+"end_ref_usfm": "ISA 52:12"
 },
 {
 "start_ref": "40008001",
@@ -11131,6 +11155,12 @@
 "start_ref_usfm": "NEH 7:61",
 "end_ref": "16007065",
 "end_ref_usfm": "NEH 7:65"
+},
+{
+"start_ref": "23052001",
+"start_ref_usfm": "ISA 52:1",
+"end_ref": "23052012",
+"end_ref_usfm": "ISA 52:12"
 },
 {
 "start_ref": "40008001",

@@ -178,6 +178,12 @@
 "start_ref_usfm": "2CH 34:1",
 "end_ref": "14034007",
 "end_ref_usfm": "2CH 34:7"
+},
+{
+"start_ref": "23027007",
+"start_ref_usfm": "ISA 27:7",
+"end_ref": "23027013",
+"end_ref_usfm": "ISA 27:13"
 }
 ],
 "resource": [
@@ -193,14 +199,14 @@
 {
 "id": "deity:Lord",
 "type": "deity",
-"confidence": 0.6625,
+"confidence": 0.6603,
 "match_method": "scored",
 "preferred_label": "LORD"
 },
 {
 "id": "deity:Baal",
 "type": "deity",
-"confidence": 0.6577,
+"confidence": 0.6564,
 "match_method": "scored",
 "preferred_label": "Baal"
 }
@@ -386,6 +392,12 @@
 "start_ref_usfm": "2CH 34:1",
 "end_ref": "14034007",
 "end_ref_usfm": "2CH 34:7"
+},
+{
+"start_ref": "23027007",
+"start_ref_usfm": "ISA 27:7",
+"end_ref": "23027013",
+"end_ref_usfm": "ISA 27:13"
 }
 ],
 "resource": [
@@ -2418,6 +2430,12 @@
 "end_ref_usfm": "NEH 9:31"
 },
 {
+"start_ref": "23052001",
+"start_ref_usfm": "ISA 52:1",
+"end_ref": "23052012",
+"end_ref_usfm": "ISA 52:12"
+},
+{
 "start_ref": "40009001",
 "start_ref_usfm": "MAT 9:1",
 "end_ref": "40009008",
@@ -2617,6 +2635,12 @@
 "start_ref_usfm": "NEH 9:26",
 "end_ref": "16009031",
 "end_ref_usfm": "NEH 9:31"
+},
+{
+"start_ref": "23052001",
+"start_ref_usfm": "ISA 52:1",
+"end_ref": "23052012",
+"end_ref_usfm": "ISA 52:12"
 },
 {
 "start_ref": "40009001",
@@ -4224,6 +4248,12 @@
 "end_ref_usfm": "ISA 1:20"
 },
 {
+"start_ref": "23026020",
+"start_ref_usfm": "ISA 26:20",
+"end_ref": "23027006",
+"end_ref_usfm": "ISA 27:6"
+},
+{
 "start_ref": "43019031",
 "start_ref_usfm": "JHN 19:31",
 "end_ref": "43019042",
@@ -4489,6 +4519,12 @@
 "start_ref_usfm": "ISA 1:10",
 "end_ref": "23001020",
 "end_ref_usfm": "ISA 1:20"
+},
+{
+"start_ref": "23026020",
+"start_ref_usfm": "ISA 26:20",
+"end_ref": "23027006",
+"end_ref_usfm": "ISA 27:6"
 },
 {
 "start_ref": "43019031",

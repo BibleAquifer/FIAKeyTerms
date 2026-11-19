@@ -299,6 +299,12 @@
 "end_ref_usfm": "2KI 18:37"
 },
 {
+"start_ref": "12019008",
+"start_ref_usfm": "2KI 19:8",
+"end_ref": "12019013",
+"end_ref_usfm": "2KI 19:13"
+},
+{
 "start_ref": "13003001",
 "start_ref_usfm": "1CH 3:1",
 "end_ref": "13003009",
@@ -629,6 +635,30 @@
 "end_ref_usfm": "ISA 5:7"
 },
 {
+"start_ref": "23027007",
+"start_ref_usfm": "ISA 27:7",
+"end_ref": "23027013",
+"end_ref_usfm": "ISA 27:13"
+},
+{
+"start_ref": "23028014",
+"start_ref_usfm": "ISA 28:14",
+"end_ref": "23028022",
+"end_ref_usfm": "ISA 28:22"
+},
+{
+"start_ref": "23041021",
+"start_ref_usfm": "ISA 41:21",
+"end_ref": "23041029",
+"end_ref_usfm": "ISA 41:29"
+},
+{
+"start_ref": "23052001",
+"start_ref_usfm": "ISA 52:1",
+"end_ref": "23052012",
+"end_ref_usfm": "ISA 52:12"
+},
+{
 "start_ref": "27001001",
 "start_ref_usfm": "DAN 1:1",
 "end_ref": "27001007",
@@ -753,36 +783,6 @@
 "start_ref_usfm": "LUK 4:14",
 "end_ref": "42004030",
 "end_ref_usfm": "LUK 4:30"
-},
-{
-"start_ref": "42006017",
-"start_ref_usfm": "LUK 6:17",
-"end_ref": "42006019",
-"end_ref_usfm": "LUK 6:19"
-},
-{
-"start_ref": "42009028",
-"start_ref_usfm": "LUK 9:28",
-"end_ref": "42009036",
-"end_ref_usfm": "LUK 9:36"
-},
-{
-"start_ref": "42009046",
-"start_ref_usfm": "LUK 9:46",
-"end_ref": "42009062",
-"end_ref_usfm": "LUK 9:62"
-},
-{
-"start_ref": "42010025",
-"start_ref_usfm": "LUK 10:25",
-"end_ref": "42010037",
-"end_ref_usfm": "LUK 10:37"
-},
-{
-"start_ref": "42010038",
-"start_ref_usfm": "LUK 10:38",
-"end_ref": "42010042",
-"end_ref_usfm": "LUK 10:42"
 }
 ],
 "resource": [],
@@ -790,7 +790,7 @@
 {
 "id": "place:Jerusalem",
 "type": "place",
-"confidence": 0.6656,
+"confidence": 0.6677,
 "match_method": "scored",
 "preferred_label": "Jerusalém"
 },
@@ -1234,6 +1234,12 @@
 "end_ref_usfm": "2KI 18:37"
 },
 {
+"start_ref": "12019008",
+"start_ref_usfm": "2KI 19:8",
+"end_ref": "12019013",
+"end_ref_usfm": "2KI 19:13"
+},
+{
 "start_ref": "13002009",
 "start_ref_usfm": "1CH 2:9",
 "end_ref": "13002017",
@@ -1550,12 +1556,6 @@
 "start_ref_usfm": "EZR 2:1",
 "end_ref": "15002020",
 "end_ref_usfm": "EZR 2:20"
-},
-{
-"start_ref": "15004001",
-"start_ref_usfm": "EZR 4:1",
-"end_ref": "15004006",
-"end_ref_usfm": "EZR 4:6"
 }
 ],
 "resource": [],
@@ -2589,6 +2589,18 @@
 "end_ref_usfm": "ISA 4:6"
 },
 {
+"start_ref": "23028001",
+"start_ref_usfm": "ISA 28:1",
+"end_ref": "23028006",
+"end_ref_usfm": "ISA 28:6"
+},
+{
+"start_ref": "23028007",
+"start_ref_usfm": "ISA 28:7",
+"end_ref": "23028013",
+"end_ref_usfm": "ISA 28:13"
+},
+{
 "start_ref": "27007015",
 "start_ref_usfm": "DAN 7:15",
 "end_ref": "27007028",
@@ -2666,7 +2678,7 @@
 {
 "id": "person:Dinaite",
 "type": "person",
-"confidence": 0.5603,
+"confidence": 0.5602,
 "match_method": "scored",
 "preferred_label": "Dinaítas"
 }
@@ -3357,6 +3369,18 @@
 "start_ref_usfm": "ISA 5:8",
 "end_ref": "23005017",
 "end_ref_usfm": "ISA 5:17"
+},
+{
+"start_ref": "23028001",
+"start_ref_usfm": "ISA 28:1",
+"end_ref": "23028006",
+"end_ref_usfm": "ISA 28:6"
+},
+{
+"start_ref": "23028014",
+"start_ref_usfm": "ISA 28:14",
+"end_ref": "23028022",
+"end_ref_usfm": "ISA 28:22"
 },
 {
 "start_ref": "40023023",

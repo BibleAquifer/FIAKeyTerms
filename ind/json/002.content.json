@@ -36,6 +36,12 @@
 "end_ref_usfm": "EST 8:17"
 },
 {
+"start_ref": "23028007",
+"start_ref_usfm": "ISA 28:7",
+"end_ref": "23028013",
+"end_ref_usfm": "ISA 28:13"
+},
+{
 "start_ref": "27003001",
 "start_ref_usfm": "DAN 3:1",
 "end_ref": "27003007",
@@ -853,6 +859,12 @@
 "end_ref_usfm": "2KI 19:7"
 },
 {
+"start_ref": "12019014",
+"start_ref_usfm": "2KI 19:14",
+"end_ref": "12019019",
+"end_ref_usfm": "2KI 19:19"
+},
+{
 "start_ref": "13006001",
 "start_ref_usfm": "1CH 6:1",
 "end_ref": "13006015",
@@ -1169,12 +1181,6 @@
 "start_ref_usfm": "2CH 35:1",
 "end_ref": "14035019",
 "end_ref_usfm": "2CH 35:19"
-},
-{
-"start_ref": "14035020",
-"start_ref_usfm": "2CH 35:20",
-"end_ref": "14035027",
-"end_ref_usfm": "2CH 35:27"
 }
 ],
 "resource": [
@@ -1762,6 +1768,18 @@
 "end_ref_usfm": "2KI 18:37"
 },
 {
+"start_ref": "12019008",
+"start_ref_usfm": "2KI 19:8",
+"end_ref": "12019013",
+"end_ref_usfm": "2KI 19:13"
+},
+{
+"start_ref": "12019014",
+"start_ref_usfm": "2KI 19:14",
+"end_ref": "12019019",
+"end_ref_usfm": "2KI 19:19"
+},
+{
 "start_ref": "13014008",
 "start_ref_usfm": "1CH 14:8",
 "end_ref": "13014017",
@@ -1894,6 +1912,18 @@
 "end_ref_usfm": "ISA 5:30"
 },
 {
+"start_ref": "23026007",
+"start_ref_usfm": "ISA 26:7",
+"end_ref": "23026019",
+"end_ref_usfm": "ISA 26:19"
+},
+{
+"start_ref": "23052001",
+"start_ref_usfm": "ISA 52:1",
+"end_ref": "23052012",
+"end_ref_usfm": "ISA 52:12"
+},
+{
 "start_ref": "27003001",
 "start_ref_usfm": "DAN 3:1",
 "end_ref": "27003007",
@@ -1994,30 +2024,6 @@
 "start_ref_usfm": "JHN 11:45",
 "end_ref": "43011057",
 "end_ref_usfm": "JHN 11:57"
-},
-{
-"start_ref": "44002001",
-"start_ref_usfm": "ACT 2:1",
-"end_ref": "44002013",
-"end_ref_usfm": "ACT 2:13"
-},
-{
-"start_ref": "44004023",
-"start_ref_usfm": "ACT 4:23",
-"end_ref": "44004031",
-"end_ref_usfm": "ACT 4:31"
-},
-{
-"start_ref": "44007044",
-"start_ref_usfm": "ACT 7:44",
-"end_ref": "44007053",
-"end_ref_usfm": "ACT 7:53"
-},
-{
-"start_ref": "44010034",
-"start_ref_usfm": "ACT 10:34",
-"end_ref": "44010048",
-"end_ref_usfm": "ACT 10:48"
 }
 ],
 "resource": [],
@@ -2442,6 +2448,12 @@
 "associations": {
 "passage": [
 {
+"start_ref": "23028014",
+"start_ref_usfm": "ISA 28:14",
+"end_ref": "23028022",
+"end_ref_usfm": "ISA 28:22"
+},
+{
 "start_ref": "40021033",
 "start_ref_usfm": "MAT 21:33",
 "end_ref": "40021046",
@@ -2471,14 +2483,14 @@
 {
 "id": "realia:Cornerstone",
 "type": "realia",
-"confidence": 0.5985,
+"confidence": 0.5915,
 "match_method": "scored",
 "preferred_label": "batu penjuru"
 },
 {
 "id": "realia:Foundation",
 "type": "realia",
-"confidence": 0.5693,
+"confidence": 0.5755,
 "match_method": "scored",
 "preferred_label": "fondasi"
 }
@@ -2966,6 +2978,12 @@
 "end_ref_usfm": "NEH 9:31"
 },
 {
+"start_ref": "23027007",
+"start_ref_usfm": "ISA 27:7",
+"end_ref": "23027013",
+"end_ref_usfm": "ISA 27:13"
+},
+{
 "start_ref": "27001008",
 "start_ref_usfm": "DAN 1:8",
 "end_ref": "27001021",
@@ -3314,6 +3332,12 @@
 "end_ref_usfm": "2KI 19:7"
 },
 {
+"start_ref": "12019014",
+"start_ref_usfm": "2KI 19:14",
+"end_ref": "12019019",
+"end_ref_usfm": "2KI 19:19"
+},
+{
 "start_ref": "13005018",
 "start_ref_usfm": "1CH 5:18",
 "end_ref": "13005026",
@@ -3414,6 +3438,12 @@
 "start_ref_usfm": "ISA 1:10",
 "end_ref": "23001020",
 "end_ref_usfm": "ISA 1:20"
+},
+{
+"start_ref": "23026007",
+"start_ref_usfm": "ISA 26:7",
+"end_ref": "23026019",
+"end_ref_usfm": "ISA 26:19"
 },
 {
 "start_ref": "27006010",
@@ -3762,18 +3792,6 @@
 "start_ref_usfm": "1TI 5:1",
 "end_ref": "54005008",
 "end_ref_usfm": "1TI 5:8"
-},
-{
-"start_ref": "55001001",
-"start_ref_usfm": "2TI 1:1",
-"end_ref": "55001007",
-"end_ref_usfm": "2TI 1:7"
-},
-{
-"start_ref": "59005013",
-"start_ref_usfm": "JAS 5:13",
-"end_ref": "59005020",
-"end_ref_usfm": "JAS 5:20"
 }
 ],
 "resource": [
@@ -4106,6 +4124,12 @@
 "end_ref_usfm": "2CH 34:33"
 },
 {
+"start_ref": "23041021",
+"start_ref_usfm": "ISA 41:21",
+"end_ref": "23041029",
+"end_ref_usfm": "ISA 41:29"
+},
+{
 "start_ref": "27011002",
 "start_ref_usfm": "DAN 11:2",
 "end_ref": "27011013",
@@ -4234,7 +4258,7 @@
 {
 "id": "deity:Teraphim",
 "type": "deity",
-"confidence": 0.6062,
+"confidence": 0.6061,
 "match_method": "scored",
 "preferred_label": "terafim"
 }

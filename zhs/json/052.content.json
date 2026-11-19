@@ -809,6 +809,12 @@
 "end_ref_usfm": "ISA 5:17"
 },
 {
+"start_ref": "23026020",
+"start_ref_usfm": "ISA 26:20",
+"end_ref": "23027006",
+"end_ref_usfm": "ISA 27:6"
+},
+{
 "start_ref": "40020001",
 "start_ref_usfm": "MAT 20:1",
 "end_ref": "40020016",
@@ -856,7 +862,7 @@
 {
 "id": "flora:Vine",
 "type": "flora",
-"confidence": 0.6174,
+"confidence": 0.617,
 "match_method": "scored",
 "preferred_label": "葡萄树"
 }

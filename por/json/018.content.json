@@ -547,6 +547,12 @@
 "end_ref_usfm": "EST 1:22"
 },
 {
+"start_ref": "23028023",
+"start_ref_usfm": "ISA 28:23",
+"end_ref": "23028029",
+"end_ref_usfm": "ISA 28:29"
+},
+{
 "start_ref": "27001001",
 "start_ref_usfm": "DAN 1:1",
 "end_ref": "27001007",
@@ -2247,6 +2253,18 @@
 "end_ref_usfm": "PSA 3:8"
 },
 {
+"start_ref": "23026007",
+"start_ref_usfm": "ISA 26:7",
+"end_ref": "23026019",
+"end_ref_usfm": "ISA 26:19"
+},
+{
+"start_ref": "23052001",
+"start_ref_usfm": "ISA 52:1",
+"end_ref": "23052012",
+"end_ref_usfm": "ISA 52:12"
+},
+{
 "start_ref": "32001017",
 "start_ref_usfm": "JON 1:17",
 "end_ref": "32002010",
@@ -2522,7 +2540,7 @@
 {
 "id": "keyterm:Salvation",
 "type": "keyterm",
-"confidence": 0.5972,
+"confidence": 0.5973,
 "match_method": "scored",
 "preferred_label": "salvação"
 }
@@ -3154,6 +3172,12 @@
 "start_ref_usfm": "ISA 1:10",
 "end_ref": "23001020",
 "end_ref_usfm": "ISA 1:20"
+},
+{
+"start_ref": "23026020",
+"start_ref_usfm": "ISA 26:20",
+"end_ref": "23027006",
+"end_ref_usfm": "ISA 27:6"
 },
 {
 "start_ref": "43019031",
@@ -5559,6 +5583,30 @@
 "end_ref_usfm": "ISA 4:6"
 },
 {
+"start_ref": "23026007",
+"start_ref_usfm": "ISA 26:7",
+"end_ref": "23026019",
+"end_ref_usfm": "ISA 26:19"
+},
+{
+"start_ref": "23028001",
+"start_ref_usfm": "ISA 28:1",
+"end_ref": "23028006",
+"end_ref_usfm": "ISA 28:6"
+},
+{
+"start_ref": "23028014",
+"start_ref_usfm": "ISA 28:14",
+"end_ref": "23028022",
+"end_ref_usfm": "ISA 28:22"
+},
+{
+"start_ref": "23052001",
+"start_ref_usfm": "ISA 52:1",
+"end_ref": "23052012",
+"end_ref_usfm": "ISA 52:12"
+},
+{
 "start_ref": "27001001",
 "start_ref_usfm": "DAN 1:1",
 "end_ref": "27001007",
@@ -5617,30 +5665,6 @@
 "start_ref_usfm": "MAT 8:18",
 "end_ref": "40008022",
 "end_ref_usfm": "MAT 8:22"
-},
-{
-"start_ref": "40008023",
-"start_ref_usfm": "MAT 8:23",
-"end_ref": "40008027",
-"end_ref_usfm": "MAT 8:27"
-},
-{
-"start_ref": "40012001",
-"start_ref_usfm": "MAT 12:1",
-"end_ref": "40012014",
-"end_ref_usfm": "MAT 12:14"
-},
-{
-"start_ref": "40014022",
-"start_ref_usfm": "MAT 14:22",
-"end_ref": "40014036",
-"end_ref_usfm": "MAT 14:36"
-},
-{
-"start_ref": "40015021",
-"start_ref_usfm": "MAT 15:21",
-"end_ref": "40015028",
-"end_ref_usfm": "MAT 15:28"
 }
 ],
 "resource": [],
@@ -6622,6 +6646,12 @@
 "end_ref_usfm": "ISA 5:17"
 },
 {
+"start_ref": "23028014",
+"start_ref_usfm": "ISA 28:14",
+"end_ref": "23028022",
+"end_ref_usfm": "ISA 28:22"
+},
+{
 "start_ref": "32001017",
 "start_ref_usfm": "JON 1:17",
 "end_ref": "32002010",
@@ -6768,6 +6798,24 @@
 "end_ref_usfm": "ISA 4:6"
 },
 {
+"start_ref": "23028014",
+"start_ref_usfm": "ISA 28:14",
+"end_ref": "23028022",
+"end_ref_usfm": "ISA 28:22"
+},
+{
+"start_ref": "23041021",
+"start_ref_usfm": "ISA 41:21",
+"end_ref": "23041029",
+"end_ref_usfm": "ISA 41:29"
+},
+{
+"start_ref": "23052001",
+"start_ref_usfm": "ISA 52:1",
+"end_ref": "23052012",
+"end_ref_usfm": "ISA 52:12"
+},
+{
 "start_ref": "40021001",
 "start_ref_usfm": "MAT 21:1",
 "end_ref": "40021011",
@@ -6808,7 +6856,7 @@
 {
 "id": "place:Jerusalem",
 "type": "place",
-"confidence": 0.6702,
+"confidence": 0.6828,
 "match_method": "scored",
 "preferred_label": "Jerusalém"
 }

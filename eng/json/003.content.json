@@ -1651,6 +1651,12 @@
 "end_ref_usfm": "1KI 8:11"
 },
 {
+"start_ref": "12019014",
+"start_ref_usfm": "2KI 19:14",
+"end_ref": "12019019",
+"end_ref_usfm": "2KI 19:19"
+},
+{
 "start_ref": "13013001",
 "start_ref_usfm": "1CH 13:1",
 "end_ref": "13013014",
@@ -1688,7 +1694,7 @@
 {
 "id": "realia:WingedCreature",
 "type": "realia",
-"confidence": 0.6115,
+"confidence": 0.6116,
 "match_method": "scored",
 "preferred_label": "Winged Creature"
 }
@@ -1790,6 +1796,12 @@
 "start_ref_usfm": "1KI 8:1",
 "end_ref": "11008011",
 "end_ref_usfm": "1KI 8:11"
+},
+{
+"start_ref": "12019014",
+"start_ref_usfm": "2KI 19:14",
+"end_ref": "12019019",
+"end_ref_usfm": "2KI 19:19"
 },
 {
 "start_ref": "13013001",
@@ -3997,6 +4009,12 @@
 "end_ref_usfm": "1CH 10:14"
 },
 {
+"start_ref": "23052001",
+"start_ref_usfm": "ISA 52:1",
+"end_ref": "23052012",
+"end_ref_usfm": "ISA 52:12"
+},
+{
 "start_ref": "42001057",
 "start_ref_usfm": "LUK 1:57",
 "end_ref": "42001080",
@@ -4130,7 +4148,7 @@
 {
 "id": "keyterm:Circumcision",
 "type": "keyterm",
-"confidence": 0.5988,
+"confidence": 0.598,
 "match_method": "scored",
 "preferred_label": "Circumcision"
 }
@@ -4274,6 +4292,12 @@
 "start_ref_usfm": "1CH 10:1",
 "end_ref": "13010014",
 "end_ref_usfm": "1CH 10:14"
+},
+{
+"start_ref": "23052001",
+"start_ref_usfm": "ISA 52:1",
+"end_ref": "23052012",
+"end_ref_usfm": "ISA 52:12"
 },
 {
 "start_ref": "42001057",
@@ -4826,6 +4850,12 @@
 "start_ref_usfm": "NEH 7:61",
 "end_ref": "16007065",
 "end_ref_usfm": "NEH 7:65"
+},
+{
+"start_ref": "23052001",
+"start_ref_usfm": "ISA 52:1",
+"end_ref": "23052012",
+"end_ref_usfm": "ISA 52:12"
 },
 {
 "start_ref": "40008001",
@@ -5403,6 +5433,12 @@
 "start_ref_usfm": "NEH 7:61",
 "end_ref": "16007065",
 "end_ref_usfm": "NEH 7:65"
+},
+{
+"start_ref": "23052001",
+"start_ref_usfm": "ISA 52:1",
+"end_ref": "23052012",
+"end_ref_usfm": "ISA 52:12"
 },
 {
 "start_ref": "40008001",
@@ -7254,6 +7290,12 @@
 "end_ref_usfm": "NEH 9:31"
 },
 {
+"start_ref": "23027007",
+"start_ref_usfm": "ISA 27:7",
+"end_ref": "23027013",
+"end_ref_usfm": "ISA 27:13"
+},
+{
 "start_ref": "27001008",
 "start_ref_usfm": "DAN 1:8",
 "end_ref": "27001021",
@@ -7391,6 +7433,12 @@
 "start_ref_usfm": "NEH 9:26",
 "end_ref": "16009031",
 "end_ref_usfm": "NEH 9:31"
+},
+{
+"start_ref": "23027007",
+"start_ref_usfm": "ISA 27:7",
+"end_ref": "23027013",
+"end_ref_usfm": "ISA 27:13"
 },
 {
 "start_ref": "27001008",
@@ -8556,6 +8604,12 @@
 "associations": {
 "passage": [
 {
+"start_ref": "23028014",
+"start_ref_usfm": "ISA 28:14",
+"end_ref": "23028022",
+"end_ref_usfm": "ISA 28:22"
+},
+{
 "start_ref": "40021033",
 "start_ref_usfm": "MAT 21:33",
 "end_ref": "40021046",
@@ -8593,14 +8647,14 @@
 {
 "id": "realia:Cornerstone",
 "type": "realia",
-"confidence": 0.5985,
+"confidence": 0.5915,
 "match_method": "scored",
 "preferred_label": "Cornerstone"
 },
 {
 "id": "realia:Foundation",
 "type": "realia",
-"confidence": 0.5693,
+"confidence": 0.5755,
 "match_method": "scored",
 "preferred_label": "Foundation"
 }
@@ -8619,6 +8673,12 @@
 "content": "<h3>Audio Content</h3>\n<p><a href='https://s3.amazonaws.com/cbbt-er.public/terms/audio/eng/t28/v1/vbr4.mp3'>mp3 file</a> (829 KB)</p>",
 "associations": {
 "passage": [
+{
+"start_ref": "23028014",
+"start_ref_usfm": "ISA 28:14",
+"end_ref": "23028022",
+"end_ref_usfm": "ISA 28:22"
+},
 {
 "start_ref": "40021033",
 "start_ref_usfm": "MAT 21:33",
@@ -9202,6 +9262,12 @@
 "end_ref_usfm": "NEH 13:31"
 },
 {
+"start_ref": "23028014",
+"start_ref_usfm": "ISA 28:14",
+"end_ref": "23028022",
+"end_ref_usfm": "ISA 28:22"
+},
+{
 "start_ref": "27009001",
 "start_ref_usfm": "DAN 9:1",
 "end_ref": "27009014",
@@ -9260,12 +9326,6 @@
 "start_ref_usfm": "1CO 11:17",
 "end_ref": "46011026",
 "end_ref_usfm": "1CO 11:26"
-},
-{
-"start_ref": "47003004",
-"start_ref_usfm": "2CO 3:4",
-"end_ref": "47003011",
-"end_ref_usfm": "2CO 3:11"
 }
 ],
 "resource": [
@@ -9281,7 +9341,7 @@
 {
 "id": "keyterm:Covenant",
 "type": "keyterm",
-"confidence": 0.5892,
+"confidence": 0.5895,
 "match_method": "scored",
 "preferred_label": "Covenant"
 }
@@ -9835,6 +9895,12 @@
 "end_ref_usfm": "NEH 13:31"
 },
 {
+"start_ref": "23028014",
+"start_ref_usfm": "ISA 28:14",
+"end_ref": "23028022",
+"end_ref_usfm": "ISA 28:22"
+},
+{
 "start_ref": "27009001",
 "start_ref_usfm": "DAN 9:1",
 "end_ref": "27009014",
@@ -9893,12 +9959,6 @@
 "start_ref_usfm": "1CO 11:17",
 "end_ref": "46011026",
 "end_ref_usfm": "1CO 11:26"
-},
-{
-"start_ref": "47003004",
-"start_ref_usfm": "2CO 3:4",
-"end_ref": "47003011",
-"end_ref_usfm": "2CO 3:11"
 }
 ],
 "resource": [

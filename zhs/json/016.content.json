@@ -36,6 +36,12 @@
 "end_ref_usfm": "EST 8:17"
 },
 {
+"start_ref": "23028007",
+"start_ref_usfm": "ISA 28:7",
+"end_ref": "23028013",
+"end_ref_usfm": "ISA 28:13"
+},
+{
 "start_ref": "27003001",
 "start_ref_usfm": "DAN 3:1",
 "end_ref": "27003007",
@@ -161,6 +167,12 @@
 "associations": {
 "passage": [
 {
+"start_ref": "23028014",
+"start_ref_usfm": "ISA 28:14",
+"end_ref": "23028022",
+"end_ref_usfm": "ISA 28:22"
+},
+{
 "start_ref": "40021033",
 "start_ref_usfm": "MAT 21:33",
 "end_ref": "40021046",
@@ -190,14 +202,14 @@
 {
 "id": "realia:Cornerstone",
 "type": "realia",
-"confidence": 0.5985,
+"confidence": 0.5915,
 "match_method": "scored",
 "preferred_label": "房角石"
 },
 {
 "id": "realia:Foundation",
 "type": "realia",
-"confidence": 0.5693,
+"confidence": 0.5755,
 "match_method": "scored",
 "preferred_label": "根基"
 }
