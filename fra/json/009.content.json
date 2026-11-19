@@ -288,6 +288,12 @@
 "end_ref_usfm": "2CH 34:33"
 },
 {
+"start_ref": "23041021",
+"start_ref_usfm": "ISA 41:21",
+"end_ref": "23041029",
+"end_ref_usfm": "ISA 41:29"
+},
+{
 "start_ref": "27011002",
 "start_ref_usfm": "DAN 11:2",
 "end_ref": "27011013",
@@ -416,7 +422,7 @@
 {
 "id": "deity:Teraphim",
 "type": "deity",
-"confidence": 0.6062,
+"confidence": 0.6061,
 "match_method": "scored",
 "preferred_label": "théraphim"
 }

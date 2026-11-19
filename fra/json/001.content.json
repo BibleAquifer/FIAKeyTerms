@@ -962,6 +962,12 @@
 "end_ref_usfm": "JOB 1:22"
 },
 {
+"start_ref": "23027007",
+"start_ref_usfm": "ISA 27:7",
+"end_ref": "23027013",
+"end_ref_usfm": "ISA 27:13"
+},
+{
 "start_ref": "27002046",
 "start_ref_usfm": "DAN 2:46",
 "end_ref": "27002049",
@@ -1032,12 +1038,6 @@
 "start_ref_usfm": "LUK 4:1",
 "end_ref": "42004013",
 "end_ref_usfm": "LUK 4:13"
-},
-{
-"start_ref": "42024036",
-"start_ref_usfm": "LUK 24:36",
-"end_ref": "42024053",
-"end_ref_usfm": "LUK 24:53"
 }
 ],
 "resource": [
@@ -1921,6 +1921,12 @@
 "end_ref_usfm": "NEH 13:31"
 },
 {
+"start_ref": "23028014",
+"start_ref_usfm": "ISA 28:14",
+"end_ref": "23028022",
+"end_ref_usfm": "ISA 28:22"
+},
+{
 "start_ref": "27009001",
 "start_ref_usfm": "DAN 9:1",
 "end_ref": "27009014",
@@ -1979,12 +1985,6 @@
 "start_ref_usfm": "1CO 11:17",
 "end_ref": "46011026",
 "end_ref_usfm": "1CO 11:26"
-},
-{
-"start_ref": "47003004",
-"start_ref_usfm": "2CO 3:4",
-"end_ref": "47003011",
-"end_ref_usfm": "2CO 3:11"
 }
 ],
 "resource": [
@@ -2000,7 +2000,7 @@
 {
 "id": "keyterm:Covenant",
 "type": "keyterm",
-"confidence": 0.5892,
+"confidence": 0.5895,
 "match_method": "scored",
 "preferred_label": "alliance"
 }
@@ -2554,6 +2554,12 @@
 "end_ref_usfm": "NEH 13:31"
 },
 {
+"start_ref": "23028014",
+"start_ref_usfm": "ISA 28:14",
+"end_ref": "23028022",
+"end_ref_usfm": "ISA 28:22"
+},
+{
 "start_ref": "27009001",
 "start_ref_usfm": "DAN 9:1",
 "end_ref": "27009014",
@@ -2612,12 +2618,6 @@
 "start_ref_usfm": "1CO 11:17",
 "end_ref": "46011026",
 "end_ref_usfm": "1CO 11:26"
-},
-{
-"start_ref": "47003004",
-"start_ref_usfm": "2CO 3:4",
-"end_ref": "47003011",
-"end_ref_usfm": "2CO 3:11"
 }
 ],
 "resource": [
@@ -2738,6 +2738,12 @@
 "start_ref_usfm": "PSA 3:1",
 "end_ref": "19003008",
 "end_ref_usfm": "PSA 3:8"
+},
+{
+"start_ref": "23026007",
+"start_ref_usfm": "ISA 26:7",
+"end_ref": "23026019",
+"end_ref_usfm": "ISA 26:19"
 },
 {
 "start_ref": "40010026",
@@ -2973,6 +2979,12 @@
 "start_ref_usfm": "PSA 3:1",
 "end_ref": "19003008",
 "end_ref_usfm": "PSA 3:8"
+},
+{
+"start_ref": "23026007",
+"start_ref_usfm": "ISA 26:7",
+"end_ref": "23026019",
+"end_ref_usfm": "ISA 26:19"
 },
 {
 "start_ref": "40010026",

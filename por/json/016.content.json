@@ -96,6 +96,12 @@
 "end_ref_usfm": "1KI 8:11"
 },
 {
+"start_ref": "12019014",
+"start_ref_usfm": "2KI 19:14",
+"end_ref": "12019019",
+"end_ref_usfm": "2KI 19:19"
+},
+{
 "start_ref": "13013001",
 "start_ref_usfm": "1CH 13:1",
 "end_ref": "13013014",
@@ -154,7 +160,7 @@
 {
 "id": "realia:WingedCreature",
 "type": "realia",
-"confidence": 0.6115,
+"confidence": 0.6116,
 "match_method": "scored",
 "preferred_label": "criatura alada"
 }

@@ -546,6 +546,12 @@
 "end_ref_usfm": "NEH 13:31"
 },
 {
+"start_ref": "23028014",
+"start_ref_usfm": "ISA 28:14",
+"end_ref": "23028022",
+"end_ref_usfm": "ISA 28:22"
+},
+{
 "start_ref": "27009001",
 "start_ref_usfm": "DAN 9:1",
 "end_ref": "27009014",
@@ -604,12 +610,6 @@
 "start_ref_usfm": "1CO 11:17",
 "end_ref": "46011026",
 "end_ref_usfm": "1CO 11:26"
-},
-{
-"start_ref": "47003004",
-"start_ref_usfm": "2CO 3:4",
-"end_ref": "47003011",
-"end_ref_usfm": "2CO 3:11"
 }
 ],
 "resource": [],
@@ -617,7 +617,7 @@
 {
 "id": "keyterm:Covenant",
 "type": "keyterm",
-"confidence": 0.5892,
+"confidence": 0.5895,
 "match_method": "scored",
 "preferred_label": "约"
 }

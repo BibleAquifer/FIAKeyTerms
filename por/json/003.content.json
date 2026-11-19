@@ -1898,6 +1898,12 @@
 "end_ref_usfm": "2KI 14:29"
 },
 {
+"start_ref": "12019014",
+"start_ref_usfm": "2KI 19:14",
+"end_ref": "12019019",
+"end_ref_usfm": "2KI 19:19"
+},
+{
 "start_ref": "13016023",
 "start_ref_usfm": "1CH 16:23",
 "end_ref": "13016033",
@@ -2238,12 +2244,6 @@
 "start_ref_usfm": "MAT 16:13",
 "end_ref": "40016020",
 "end_ref_usfm": "MAT 16:20"
-},
-{
-"start_ref": "40018010",
-"start_ref_usfm": "MAT 18:10",
-"end_ref": "40018014",
-"end_ref_usfm": "MAT 18:14"
 }
 ],
 "resource": [],
@@ -2416,6 +2416,12 @@
 "start_ref_usfm": "1CH 10:1",
 "end_ref": "13010014",
 "end_ref_usfm": "1CH 10:14"
+},
+{
+"start_ref": "23052001",
+"start_ref_usfm": "ISA 52:1",
+"end_ref": "23052012",
+"end_ref_usfm": "ISA 52:12"
 },
 {
 "start_ref": "42001057",
@@ -2614,7 +2620,7 @@
 {
 "id": "keyterm:Circumcision",
 "type": "keyterm",
-"confidence": 0.5988,
+"confidence": 0.598,
 "match_method": "scored",
 "preferred_label": "circuncisão"
 }
@@ -2771,6 +2777,12 @@
 "start_ref_usfm": "NEH 9:26",
 "end_ref": "16009031",
 "end_ref_usfm": "NEH 9:31"
+},
+{
+"start_ref": "23027007",
+"start_ref_usfm": "ISA 27:7",
+"end_ref": "23027013",
+"end_ref_usfm": "ISA 27:13"
 },
 {
 "start_ref": "27001008",
